@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/backhousejohn/"
+         >backhousejohn</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the John Backhouse Papers, 1740-1956 <num>RL.00062</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library Staff; machine-readable finding aid created by:
+               Abraham Lee</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000842394</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 11:29:54
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>John Backhouse papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Backhouse, John, 1784-1845</persname>
+         </origination>
+         <unitid>RL.00062</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
+            <extent altrender="carrier">30 boxes; 1 oversize folder</extent>
+         </physdesc>
+         <unitdate normal="1740/1956" type="inclusive">1740-1956</unitdate>
+         <physloc id="aspace_f9ef4fc7bdd6fda6f337e4ad0c00f00d">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_11dd145d5404f1e51257b4ff28102fc8">Merchant and British Under Secretary
+            of State for Foreign Affairs. Business and personal correspondence of the Backhouse
+            family, principally of John Backhouse. Material for the 18th and early 19th centuries
+            reflects the family's mercantile operations, including efforts to collect
+            pre-Revolutionary debts in America. Other papers relate to Backhouse's career as
+            Commissioner and Receiver General of the Excise Office and Under Secretary of State for
+            Foreign Affairs, his service as private secretary to George Canning, his service with
+            the diplomatic corps, his art collection, and his mercantile associates in Amsterdam and
+            Hamburg. Other subjects include the Board of Control under Canning, and the British
+            consulates at Canton and Amoy. Family correspondence contains numerous references to the
+            Foreign Office and to relations with Circassia, France, Greece, Russia, Turkey, and the
+            United States. Letters and diaries of Backhouse's son, George, and his wife include
+            references to the slave trade and describe their life in Havana while he was commissary
+            judge there.</abstract>
+         <physdesc id="aspace_732ce88ea417fa4e331924482bdcfb2b">
+            <extent>4,480 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_3b688056ce9ec4349bfec93348784c38">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_1556c261e55d4215f5e426da04a44d0b">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_581764b42bdf503093596f1d47ddcd99">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_dc1f6b66bab1d5ea897050e624e5e9c6">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], John Backhouse Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_b2dc5c224c4002b89b7ecc7f51775dd8">
+         <head>Provenance</head>
+         <p>The John Backhouse Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 1968.</p>
+      </acqinfo>
+      <processinfo id="aspace_65ac934e829990d4d10fa5cf576002bc">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library Staff</p>
+         <p>Encoded by Abraham Lee, January 2010</p>
+         <p>Accessions were merged into one collection, described in this finding aid. </p>
+      </processinfo>
+      <bioghist id="aspace_d3b5b942882ae8a8cfb0a8a7ffc32ebd">
+         <head>Biographical Note</head>
+         <p>Merchant and British Under Secretary of State for Foreign Affairs.</p>
+      </bioghist>
+      <scopecontent id="aspace_eb9c49d2e1f5a046c4b7b1dcb20f3b64">
+         <head>Collection Overview</head>
+         <p>Business and personal correspondence of the Backhouse family, principally of John
+            Backhouse. Material for the 18th and early 19th centuries reflects the family's
+            mercantile operations, including efforts to collect pre-Revolutionary debts in America.
+            Other papers relate to Backhouse's career as Commissioner and Receiver General of the
+            Excise Office and Under Secretary of State for Foreign Affairs, his service as private
+            secretary to George Canning, his service with the diplomatic corps, his art collection,
+            and his mercantile associates in Amsterdam and Hamburg. Other subjects include the Board
+            of Control under Canning, and the British consulates at Canton and Amoy. Family
+            correspondence contains numerous references to the Foreign Office and to relations with
+            Circassia, France, Greece, Russia, Turkey, and the United States. Letters and diaries of
+            Backhouse's son, George, and his wife include references to the slave trade and describe
+            their life in Havana while he was commissary judge there.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Merchants -- Great Britain -- Correspondence</subject>
+         <subject source="lcsh">Slave trade -- Cuba</subject>
+         <geogname source="lcsh">Great Britain -- Foreign relations -- 19th century</geogname>
+         <geogname source="lcsh">Great Britain -- Politics and government -- 19th century</geogname>
+         <geogname source="lcsh">Great Britain -- Commerce -- United States</geogname>
+         <persname source="ingest">Canning, George, 1770-1827</persname>
+         <persname source="ingest">Backhouse, George Canning</persname>
+         <persname source="ingest">Backhouse, John, 1784-1845</persname>
+         <persname source="ingest">Backhouse, John, 1784-1845</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_t5b" level="series">
+            <did>
+               <unittitle>John Backhouse Papers, 1740-1956</unittitle>
+               <physdesc id="aspace_60516a74d7cc83473804b282713d6e63">
+                  <extent>30 boxes, 1 oversize folder</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref14_w9c" level="file">
+               <did>
+                  <unittitle>Papers, 1740-1813</unittitle>
+                  <container id="aspace_35475a17f0fb56001c3a93ed11ba07b0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_ccq" level="file">
+               <did>
+                  <unittitle>Papers, 1814-1820</unittitle>
+                  <container id="aspace_1e32fba177c7296e634cf83e58250670" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_hgg" level="file">
+               <did>
+                  <unittitle>Papers, 1821-1822</unittitle>
+                  <container id="aspace_34958ce8769f998e8ffbae9de04c4ce4" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_rdb" level="file">
+               <did>
+                  <unittitle>Papers, 1822 Aug.-1825</unittitle>
+                  <container id="aspace_476cb723ce8cc6131ad25a0d7f71c994" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_rb4" level="file">
+               <did>
+                  <unittitle>Papers, 1826-1827 Aug.</unittitle>
+                  <container id="aspace_20641590ff33f6594420830741e542ff" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_z6m" level="file">
+               <did>
+                  <unittitle>Papers, 1827 Sept.-1830</unittitle>
+                  <container id="aspace_036e1c0d33b23fe624a03da78f4b22d7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_5a1" level="file">
+               <did>
+                  <unittitle>Papers, 1831-1833 July</unittitle>
+                  <container id="aspace_bcc96183ad47d9bef1a77ecccc74d781" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_xkb" level="file">
+               <did>
+                  <unittitle>Papers, 1833 Aug.-1835 June</unittitle>
+                  <container id="aspace_8a5b86bd0e31e6613baa3e0547959918" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_h1t" level="file">
+               <did>
+                  <unittitle>Papers, 1835 July-1837 March</unittitle>
+                  <container id="aspace_7f057f9287071abd557443b90da3d10a" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_85j" level="file">
+               <did>
+                  <unittitle>Papers, 1837 April-1838 May</unittitle>
+                  <container id="aspace_1c035bd59ce18f1fe1651f3f10715b82" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_ry3" level="file">
+               <did>
+                  <unittitle>Papers, 1838 June-1839</unittitle>
+                  <container id="aspace_5b878eae63f686b0df49f1e6094f2896" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_cy2" level="file">
+               <did>
+                  <unittitle>Papers, 1840-1841</unittitle>
+                  <container id="aspace_1ad77d60ea54f6874691764d7e29c41a" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_b0s" level="file">
+               <did>
+                  <unittitle>Papers, 1842-1843</unittitle>
+                  <container id="aspace_99a7dac6a6a905b8622cee284e8dc905" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_00x" level="file">
+               <did>
+                  <unittitle>Papers, 1844</unittitle>
+                  <container id="aspace_2d385d96918d70f55d8ba8ef9594d8cf" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_emn" level="file">
+               <did>
+                  <unittitle>Papers, 1845-1846</unittitle>
+                  <container id="aspace_09d7a7d5565be47a6ea3ad2782ed6620" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_er6" level="file">
+               <did>
+                  <unittitle>Papers, 1847-1852 Aug.</unittitle>
+                  <container id="aspace_96e8fa50749f2132781f9bd1c74c2176" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_g59" level="file">
+               <did>
+                  <unittitle>Papers, 1852 Sept.-1855 Sept.</unittitle>
+                  <container id="aspace_5c5dee9a32361e7fab13e397af507fe8" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_x4z" level="file">
+               <did>
+                  <unittitle>Papers, 1855 Oct.-1864</unittitle>
+                  <container id="aspace_b159571bb2870d0c8e80f1e9c36dfc72" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_r51" level="file">
+               <did>
+                  <unittitle>Papers, 1865-1875</unittitle>
+                  <container id="aspace_2d96e5d93d1dd266a314ba529192f1fd" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_io6" level="file">
+               <did>
+                  <unittitle>Papers, 1876-1877 Oct.</unittitle>
+                  <container id="aspace_8d4ea604cad1fb28969c1ce625f7a7d3" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_uh7" level="file">
+               <did>
+                  <unittitle>Papers, 1877 Nov.-1899</unittitle>
+                  <container id="aspace_02fa890b126848334e52fbd18841665d" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_un8" level="file">
+               <did>
+                  <unittitle>Papers, 1900-1942</unittitle>
+                  <container id="aspace_edb9ca3d4745428f4f59ade7d896ff87" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_a3d" level="file">
+               <did>
+                  <unittitle>Papers, Undated</unittitle>
+                  <container id="aspace_d00fff712616ca1aa1165dc9632e2639" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_j4a" level="file">
+               <did>
+                  <unittitle>Journal of Ellen Backhouse</unittitle>
+                  <container id="aspace_3f15f7132f0e8b3b2d05993986f1f117" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_ae5" level="file">
+               <did>
+                  <unittitle>Miscellany: Genealogy</unittitle>
+                  <container id="aspace_449ac99edabc3cf9c0f5651af6129882" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_pvr" level="file">
+               <did>
+                  <unittitle>Miscellany: Valentines</unittitle>
+                  <container id="aspace_c1b0c5116a61b798c6beb15e737fcf97" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_80f" level="file">
+               <did>
+                  <unittitle>Wax Seals</unittitle>
+                  <container id="aspace_4f9093fb5861ba0c8b7f0beab35e5520" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_0dx" level="file">
+               <did>
+                  <unittitle>Miscellaneous Papers</unittitle>
+                  <container id="aspace_6dd9fdcf8e02c768834a51d9e1256af8" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_9na" level="file">
+               <did>
+                  <unittitle>Newspapers, printed material</unittitle>
+                  <container id="aspace_1bf0b6d7786340ce34f89686da426a94" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_kn0" level="file">
+               <did>
+                  <unittitle>Clippings &amp; Pipe Office Roll</unittitle>
+                  <container id="aspace_f6573520f3d14c30a463dedfebd03c12" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_g3x" level="file">
+               <did>
+                  <unittitle>Volumes</unittitle>
+                  <container id="aspace_ce17be8bf67aeb59fc197765f1e7d566" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_6fb" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <container id="aspace_74f76b091739dfc4db44fe2c01c9383c" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_16i" level="file">
+               <did>
+                  <unittitle>Collection of Autographs, cards, invitations, etc.</unittitle>
+                  <container id="aspace_709333294e2698342b163cb03710dc78" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_n5d" level="file">
+               <did>
+                  <unittitle>Papers, 1835-1837</unittitle>
+                  <container id="aspace_aff8d2265991ab6b02489a7c25b175f5" label="Mixed Materials"
+                     type="box">1 (Sm. Brit. Additions)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_yeo" level="file">
+               <did>
+                  <unittitle>Papers, Oversize</unittitle>
+                  <container id="aspace_1402f71f7654aef481792fefeb0575b5" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

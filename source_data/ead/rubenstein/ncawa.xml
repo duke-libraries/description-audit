@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/ncawa/">ncawa</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the North Carolina Association of Women Attorneys Records,
+               1978-2011 <num>RL.00933</num>
+            </titleproper>
+            <author>Accessioned by: Meghan Lyon; machine-readable finding aid created by: Meghan
+               Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">004208128</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 04:39:17
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>North Carolina Association of Women Attorneys records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">North Carolina Association of Women Attorneys</corpname>
+         </origination>
+         <unitid>RL.00933</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">17.6 Linear Feet</extent>
+            <extent altrender="carrier">12,750 items</extent>
+         </physdesc>
+         <unitdate normal="1978/2011" type="inclusive">1978-2011</unitdate>
+         <physloc id="aspace_1ad42c342e39d5b3cdf35f8bd0e0cc57">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_82c83c3dd7d4df2127ac9b4f62d3415d">The North Carolina Association of
+            Women Attorneys (NCAWA) was founded in 1978 to support women legal professionals and
+            women's legal rights. Accession (2009-0209) (11.6 lin. ft.; 7100 items; dated 1978-2009)
+            includes administrative and organizational records from the North Carolina Association
+            of Women Attorneys. Materials include membership directories, conference binders,
+            surveys and other research about women in the profession, videotapes from annual
+            conferences, committee and task force files, meeting minutes, articles of incorporation,
+            photographs from events, and other related materials. Accession (2011-1018) (1.0 lin.
+            ft.; 1000 items; dated 1998-2011) includes additional administrative and organizational
+            records from the NCAWA. Materials include newsletters, membership directories,
+            conference notebooks, continuing legal education (CLE) presentations, photographs,
+            correspondence, and periodicals about legal matters. Accession (2013-189) (6.0 lin. ft.;
+            4500 items; dated 1978-2009) includes newsletters, brochures, membership directories,
+            conference materials, and photographs of past presidents. Acquired as part of the Sallie
+            Bingham Center for Women's History and Culture.</abstract>
+         <langmaterial id="aspace_039d16f5580b705fbbdeb7e56d5ba8a5">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_4e0b6042d494105c53a3a13798fbb449">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_0a828bcc2c4b6b721e8dc6e411dc59fa">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_d8a7c226e4db24e316c2ca581f7e46a7">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], North Carolina Association of Women Attorneys Records, David
+            M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_79b7a677d1f1a3c74c8234cfe17aeb87">
+         <head>Provenance</head>
+         <p>The North Carolina Association of Women Attorneys Records were received by the David M.
+            Rubenstein Rare Book &amp; Manuscript Library as a gift in 2009 and 2011.</p>
+      </acqinfo>
+      <processinfo id="aspace_9358ad2dc534a2413254edc687c91f3a">
+         <head>Processing Information</head>
+         <p>Accessioned by Meghan Lyon, October 2009 and November 2011, and by Megan Lewis,
+            September 2014</p>
+         <p>Encoded by Meghan Lyon, October 2009, and Jane Metters, December 2011; updated by Megan
+            Lewis, September, 2014</p>
+         <p>Materials may not have been ordered and described beyond their original condition. </p>
+      </processinfo>
+      <bioghist id="aspace_0db9af0bf961ca54acbceaa10909f105">
+         <head>Historical note</head>
+         <p>The North Carolina Association of Women Attorneys was formed in 1978 and recently
+            celebrated its 30th anniversary in 2008. The NCAWA remains an active organization
+            committed to increasing effective participation by women in the judicial system, in
+            public office, and within the legal profession; promoting the rights of women under the
+            law; and promoting the welfare of women attorneys in North Carolina. It works towards
+            these goals through newsletters, resolutions, committees, annual conferences,
+            endorsements, retreats, and education through coursework and scholarships. More
+            information about NCAWA activities is available on its website, www.ncawa.org.</p>
+      </bioghist>
+      <scopecontent id="aspace_4e43df8b07022f990a2744b744ee83ad">
+         <head>Collection Overview</head>
+         <p>Accession (2009-0209) (11.6 lin. ft.; 7100 items; dated 1978-2009) includes
+            administrative and organizational records from the entire history of the North Carolina
+            Association of Women Attorneys. Materials include membership directories, conference
+            binders, surveys and other research about women in the profession, videotapes from
+            annual conferences, committee and task force files, meeting minutes, articles of
+            incorporation, photographs from events, and other related materials.</p>
+         <p>Accession (2011-1018) (1.0 lin. ft.; 1000 items; dated 1998-2011) includes additional
+            administrative and organizational records from the NCAWA. Materials include newsletters,
+            membership directories, conference notebooks, continuing legal education (CLE)
+            presentations, photographs, correspondence, and periodicals about legal matters.</p>
+         <p>Accession (2013-189) (6.0 lin. ft.; 4500 items; dated 1978-2009) includes newsletters,
+            membership directories, conference materials, brochures, and photographs of past
+            presidents.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">North Carolina</geogname>
+         <subject source="lcsh">Women lawyers -- North Carolina</subject>
+         <genreform source="aat">Videotapes</genreform>
+         <corpname source="ingest">North Carolina Association of Women Attorneys</corpname>
+         <corpname source="ingest">North Carolina Association of Women Attorneys</corpname>
+         <persname source="ingest">Women judges -- North Carolina</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_max" level="series">
+            <did>
+               <unittitle>Accession (2009-0209)</unittitle>
+               <unitdate normal="1978/2009" type="inclusive">1978-2009</unitdate>
+               <physdesc id="aspace_5f23c9188af44a0e6bc007d8f8c89ddc">
+                  <extent>9 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_1fa2e54daeaaf2b4cede77eb89d672e4">
+               <head>Scope and Contents note</head>
+               <p>Accession (2009-0209) (11.6 lin. ft.; 7100 items; dated 1978-2009) includes
+                  administrative and organizational records from the entire history of the North
+                  Carolina Association of Women Attorneys. Materials include membership directories,
+                  conference binders, surveys and other research about women in the profession,
+                  videotapes from annual conferences, committee and task force files, meeting
+                  minutes, articles of incorporation, photographs from events, and other related
+                  materials.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_0le" level="file">
+               <did>
+                  <unittitle>Annual conferences, 2000-2008 (18 folders)</unittitle>
+                  <container id="aspace_1466d10c38df7c1d542a544a9e530632" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_nbc" level="file">
+               <did>
+                  <unittitle>Miscellaneous publications, 1983-2001 (2 folders)</unittitle>
+                  <container id="aspace_e0148d4ca66b627fda98ac155fa7dac9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_nb5" level="file">
+               <did>
+                  <unittitle>NCAWA Survey of North Carolina attorneys, 1989-1990</unittitle>
+                  <container id="aspace_49ff0637571ae32de876793eb2b7f29b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_9tc" level="file">
+               <did>
+                  <unittitle>National Association for Women Lawyers survey, 1996-1997</unittitle>
+                  <container id="aspace_d0f0de1686b22e99e24503aeaf6d3b18" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_9n7" level="file">
+               <did>
+                  <unittitle>NCAWA survey, 1990</unittitle>
+                  <container id="aspace_4fdfcaa3403b63f5ebdbb020044d93ba" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_646" level="file">
+               <did>
+                  <unittitle>Wake Forest Women in Law survey, 1990</unittitle>
+                  <container id="aspace_8ad0974c4a271470d55414ef587f0941" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_o8g" level="file">
+               <did>
+                  <unittitle>Quality of Life survey, 2003</unittitle>
+                  <container id="aspace_d5dbc5d1ba3650c485fc0be7428d1ec9" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_dnd" level="file">
+               <did>
+                  <unittitle>North Carolina State Bar long range planning, 1988</unittitle>
+                  <container id="aspace_d528082045ae64555d806901fe92a53a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_ygs" level="file">
+               <did>
+                  <unittitle>Other women advocacy groups, 1992-2001</unittitle>
+                  <container id="aspace_d8383d45e8c7b0856ca909f5aaea9f80" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_7rz" level="file">
+               <did>
+                  <unittitle>Common status of women in legal professions, 1992-1993</unittitle>
+                  <container id="aspace_e662a88297db29cf758ac531f8fa5744" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_aaw" level="file">
+               <did>
+                  <unittitle>Status of women in legal professions, 1993</unittitle>
+                  <container id="aspace_b05195abc4613b85d6c2daa9e935892b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_y19" level="file">
+               <did>
+                  <unittitle>North Carolina Bar Association Board of Governors, 1996</unittitle>
+                  <container id="aspace_bc8d55468f203b533bd7514dad7a4341" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_iy9" level="file">
+               <did>
+                  <unittitle>Task Force on the Quality of Legal Services, 1993</unittitle>
+                  <container id="aspace_19f30cf0f98fa82109340f89b779dc9f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_zh7" level="file">
+               <did>
+                  <unittitle>Correspondence with other bar groups, 1984-2003 (3 folders)</unittitle>
+                  <container id="aspace_d491d3adfc219321d94f4072e823eb93" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_15x" level="file">
+               <did>
+                  <unittitle>Constitutional Equality Amendment organizing kit, late
+                     1990s</unittitle>
+                  <container id="aspace_29c6c057ab2a0d4d687a92f16f5114d9" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_nmd" level="file">
+               <did>
+                  <unittitle>Women's Employment Law Center, 1987-1995</unittitle>
+                  <container id="aspace_c8bc53735244d721ad33b7f91cc89cb2" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_o91" level="file">
+               <did>
+                  <unittitle>Career Support Committee: Court Conduct Handbook, 1996 (2
+                     folders)</unittitle>
+                  <container id="aspace_f846801695e09ecd0dd8607e8cd88022" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_o7g" level="file">
+               <did>
+                  <unittitle>National Conference of Women's Bar Associations, 1996-1998 (2
+                     folders)</unittitle>
+                  <container id="aspace_82743697ab9693ae828ec7441996d3f5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_klv" level="file">
+               <did>
+                  <unittitle>Cassette tape: <title render="doublequote">Repetitive Motion
+                        Injuries</title>
+                  </unittitle>
+                  <container id="aspace_826087f8923c7cebe42672248ef9dd5e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_6eu" level="file">
+               <did>
+                  <unittitle>Foam boards with pictures of early North Carolina women
+                     attorneys</unittitle>
+                  <container id="aspace_f803f27de095a2eb4c2aba0d98507715" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_0fx" level="file">
+               <did>
+                  <unittitle>Foam boards with pictures of early North Carolina women
+                     attorneys</unittitle>
+                  <container id="aspace_8078f71c36cf397441471797e8cf08be" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_jc7" level="file">
+               <did>
+                  <unittitle>Videotapes from NCAWA 2001 Annual Conference</unittitle>
+               </did>
+               <c03 id="aspace_ref36_0df" level="file">
+                  <did>
+                     <unittitle>Analyzing Covenants Not to Compete</unittitle>
+                     <container id="aspace_f3ef0541d46641e8cb70955ea2c05ec6" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_vf5" level="file">
+                  <did>
+                     <unittitle>Child Abuse Homicides</unittitle>
+                     <container id="aspace_12510a1a9eda324a61966b6f67c779ae" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_rdu" level="file">
+                  <did>
+                     <unittitle>Immigration Panel</unittitle>
+                     <container id="aspace_80ca2ee67f2252a849573ee9da841248" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_u0m" level="file">
+                  <did>
+                     <unittitle>Legislative Update</unittitle>
+                     <container id="aspace_7f293e15e7e757fcf9b34987b9f7549a" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_8x2" level="file">
+                  <did>
+                     <unittitle>Family Law Panel</unittitle>
+                     <container id="aspace_06711bc2fb7f9ac5b827da301516597f" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_fcl" level="file">
+                  <did>
+                     <unittitle>View from the Bench</unittitle>
+                     <container id="aspace_1359cc0c3c16f37731c20f2fed32a696" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_601" level="file">
+                  <did>
+                     <unittitle>Right to Die</unittitle>
+                     <container id="aspace_522e30d28ba34cef0ed7ce1aff3e3cf9" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_gwn" level="file">
+                  <did>
+                     <unittitle>Corporate Clients</unittitle>
+                     <container id="aspace_5ada9be86fca5af1872033c4a4126f56" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_vqu" level="file">
+                  <did>
+                     <unittitle>Challenging Health and Disability Benefits</unittitle>
+                     <container id="aspace_fd406901963c42b8959f5b405138af9c" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_o1g" level="file">
+                  <did>
+                     <unittitle>Lunch featuring Mary Easley</unittitle>
+                     <container id="aspace_2494690e979c899d2a63b4d169631cbc" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref46_e94" level="file">
+               <did>
+                  <unittitle>NCAWA <title render="doublequote">Founding Mothers</title>
+                     (videotape)</unittitle>
+                  <container id="aspace_c5a37a778bc1f61b0f3bde91a91fafa3" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_f483796d0d12a0e9a2c88815c4690a84">
+                  <head>Scope and Contents note</head>
+                  <p>A DVD use copy exists for this item.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref47_ch3" level="file">
+               <did>
+                  <unittitle>Chief Justice's Commission on Professionalism, 2002
+                     (videotape)</unittitle>
+                  <container id="aspace_9195b2176c7342acb933fa2853ed275d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_q70" level="file">
+               <did>
+                  <unittitle>North Carolina Minority Lawyers, 2001 (videotape)</unittitle>
+                  <container id="aspace_33a9f334ff1fce25747b83a9627ad391" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_6f6d5495604fabc580886e2c33b649ba">
+                  <head>Scope and Contents note</head>
+                  <p>A DVD use copy exists for this item.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref49_m5j" level="file">
+               <did>
+                  <unittitle>NCAWA Business files, 1979-1984</unittitle>
+                  <container id="aspace_b6a24f76e65382845f2e468553ee2965" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_b961280e29c9b398e7833250dbaadbab">
+                  <head>Scope and Contents note</head>
+                  <p>Includes meeting minutes, bylaws, resolutions, budgets, articles of
+                     incorporation, and other administrative materials.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref51_y26" level="file">
+               <did>
+                  <unittitle>NCAWA Business files, 1984-2002</unittitle>
+                  <container id="aspace_ceee5897cc0813198bb86b45c6642540" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_75d317b5f667ddfcc8a0200b1d2f324f">
+                  <head>Scope and Contents note</head>
+                  <p>Includes meeting minutes, bylaws, resolutions, budgets, articles of
+                     incorporation, and other administrative materials.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref53_c0y" level="file">
+               <did>
+                  <unittitle>Annual meetings and annual conferences, 1980-1990</unittitle>
+                  <container id="aspace_2ff1cde109ee9a7402914f4197d92697" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_tv9" level="file">
+               <did>
+                  <unittitle>Annual meetings and annual conferences, 1991, 1995-1998,
+                     2008</unittitle>
+                  <container id="aspace_131db0d63cad2409cbdbe66afdc79a83" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_tb3" level="file">
+               <did>
+                  <unittitle>Newsletters, 1980-2007 (4 folders)</unittitle>
+                  <container id="aspace_f9e6d36a7aa3481b17bdfca64787e237" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_h4b" level="file">
+               <did>
+                  <unittitle>Articles of incorporation, 1979-1983</unittitle>
+                  <container id="aspace_10abd737ec927234451fac6ab00a35d4" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_gc3" level="file">
+               <did>
+                  <unittitle>Gwyneth B. Davis Awards, 1989-1996</unittitle>
+                  <container id="aspace_a609dd4e59a813c8d03603b5e178ad4c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_otl" level="file">
+               <did>
+                  <unittitle>Bertha B Holt Award, 1998</unittitle>
+                  <container id="aspace_9b8a1c29c247f064cb0be02e39074300" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_8s5" level="file">
+               <did>
+                  <unittitle>Katharine Everett and VIP letters</unittitle>
+                  <container id="aspace_b7239a79b04f5ab1b6859f6b814febc4" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_x2y" level="file">
+               <did>
+                  <unittitle>North Carolina Bar Foundation women attorneys survey, 1990</unittitle>
+                  <container id="aspace_f46e9465ed3c86d64be13767a3459af9" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_rb3" level="file">
+               <did>
+                  <unittitle>Commission on the Status of Women in the Legal Profession, 1993 (2
+                     folders)</unittitle>
+                  <container id="aspace_6062d3e36c2ec2ae8cf19f6718193683" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_04t" level="file">
+               <did>
+                  <unittitle>NCAWA's first year, 1978-1979</unittitle>
+                  <container id="aspace_813e404b62c9ff62e977d2472a1163fa" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_aft" level="file">
+               <did>
+                  <unittitle>Pay equity/comparable worth, 2004</unittitle>
+                  <container id="aspace_5fe1402099035b9d553e52a7b11b9a8d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_801" level="file">
+               <did>
+                  <unittitle>Status of Women publications, 1990s-2000s</unittitle>
+                  <container id="aspace_22c09f9a51ef7c873f16b5c1b2be0898" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_pna" level="file">
+               <did>
+                  <unittitle>NCAWA brochures (2 folders)</unittitle>
+                  <container id="aspace_ca1d9cdcc802d6d86d15465a6722090f" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_dpe" level="file">
+               <did>
+                  <unittitle>Articles on women in the profession, 1980s-1990s</unittitle>
+                  <container id="aspace_150c577d4bf0a2abfaa76b5f487deed0" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_jnk" level="file">
+               <did>
+                  <unittitle>Electronic files and digital photographs</unittitle>
+                  <container id="aspace_49619c53ce86e9dfc5c6251e5d5f130f" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_ed7" level="file">
+               <did>
+                  <unittitle>Membership directories, 1983-1998</unittitle>
+                  <container id="aspace_75f0f9daaad0c5330ddf4518c1c4bac7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_nwr" level="file">
+               <did>
+                  <unittitle>Membership directories, 2000-2008</unittitle>
+                  <container id="aspace_8042e311e4a09ba338a69dbbc9f1e963" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_0m7" level="file">
+               <did>
+                  <unittitle>Photographs, 1986, unlabelled, and 2001 Conference</unittitle>
+                  <container id="aspace_83082aad4ab47cd82a6dfcb1b3ca0205" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_wm3" level="file">
+               <did>
+                  <unittitle>Photographs, undated</unittitle>
+                  <container id="aspace_edbd11d579a0554ce580a1ee926616fc" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_nip" level="file">
+               <did>
+                  <unittitle>Photographs, 1988-2002</unittitle>
+                  <container id="aspace_fdb2eadc69d7db466adc4cd16c5bd61e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_nwy" level="file">
+               <did>
+                  <unittitle>Membership directories, 1983-2007 (8 folders)</unittitle>
+                  <container id="aspace_7bb7b739e8ad63d59ab8302063e5dff8" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_l0g" level="file">
+               <did>
+                  <unittitle>Membership directories, 2007-2009 (2 folders)</unittitle>
+                  <container id="aspace_92eb01dd17617c3ef0857b0c9f0abf04" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_974" level="file">
+               <did>
+                  <unittitle>Annual conferences, 1996-1997 (2 folders)</unittitle>
+                  <container id="aspace_0c2fbfb6be680b3e80cd69681a64afb5" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref77_d52" level="series">
+            <did>
+               <unittitle>Accession (2011-1018)</unittitle>
+               <unitdate normal="1998/2011" type="inclusive">1998-2011</unitdate>
+               <physdesc id="aspace_a531c992c06dbb33ea4d0139da59c7a8">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_a171a121d66fa2065eae3612fc0f1a29">
+               <head>Scope and Contents note</head>
+               <p>Accession (2011-1018) (1.2 lin. ft.; 1000 items; dated 1998-2011) includes
+                  additional administrative and organizational records from the NCAWA. Materials
+                  include NCAWA newsletters, membership directories, conference notebooks,
+                  continuing legal education (CLE) presentations and discs, photographs,
+                  correspondence, and non-NCAWA periodicals about legal matters.</p>
+            </scopecontent>
+            <c02 id="aspace_ref79_tzv" level="file">
+               <did>
+                  <unittitle>NCAWA newsletters, 1998-2000</unittitle>
+                  <container id="aspace_2bd36f99c61574ad5e52f449826ff968" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_mxe" level="file">
+               <did>
+                  <unittitle>Periodicals, 1998-2010</unittitle>
+                  <container id="aspace_09f1be786ff86ed61a522445727cc8bc" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_se0" level="file">
+               <did>
+                  <unittitle>Annual conference materials, 1998</unittitle>
+                  <container id="aspace_3a863058851f5f06bf9424f9805aec39" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_1yp" level="file">
+               <did>
+                  <unittitle>Annual conference and miscellaneous materials, 1999</unittitle>
+                  <container id="aspace_4fdfe513e61b969545d88c4ca5587ebc" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_gl9" level="file">
+               <did>
+                  <unittitle>Presentations, 1999</unittitle>
+                  <container id="aspace_5d04fbf8458ca317faa5e5429483c81d" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_0tu" level="file">
+               <did>
+                  <unittitle>Board notebook, 1999-2000</unittitle>
+                  <container id="aspace_c028dd6060ce3868296978c375aa895d" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_nz7" level="file">
+               <did>
+                  <unittitle>Membership directories, 1999-2001</unittitle>
+                  <container id="aspace_abf18140608a82009d0e3964a8354286" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_552" level="file">
+               <did>
+                  <unittitle>Email correspondence, 1999-2010</unittitle>
+                  <container id="aspace_daf978bbea59dad1f1b3693ef8f84df3" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_q3w" level="file">
+               <did>
+                  <unittitle>Last Chance CLE meeting materials, 2000</unittitle>
+                  <container id="aspace_07b57873320e8b58f9538cf72d3d6426" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_jwq" level="file">
+               <did>
+                  <unittitle>Annual conference 2000 notebook (2 folders)</unittitle>
+                  <container id="aspace_bc1fd0a6271b6b3690678f10cfcc8d7b" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_t91" level="file">
+               <did>
+                  <unittitle>Photographs, including February conference, 2000</unittitle>
+                  <container id="aspace_f7f37fa0cc20818f1ddc3e8230cc3005" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_sdh" level="file">
+               <did>
+                  <unittitle>Retreat handouts, 2000</unittitle>
+                  <container id="aspace_08a17ebcf534d1f2098da71bb0437dbb" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_k9h" level="file">
+               <did>
+                  <unittitle>CLE materials, 2005-2008</unittitle>
+                  <container id="aspace_f051bd2e14c1c6c305630fcb376a5323" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_5mj" level="file">
+               <did>
+                  <unittitle>NCAWA administrative materials, 2010-2011</unittitle>
+                  <container id="aspace_22d0e5d7117f60b7a5cf5b045fa741b0" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_m9y" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_1b9c7a4ca42b55366a4a9cf848f67fe6" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref96_ywe" level="series">
+            <did>
+               <unittitle>Accession (2013-0189)</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+               </physdesc>
+               <unitdate normal="1978/2009" type="inclusive">1978-2009</unitdate>
+            </did>
+            <c02 id="aspace_ref98_8a1" level="file">
+               <did>
+                  <unittitle>Brochures, 1978</unittitle>
+                  <container id="aspace_9c075163d1ce07e7a588005c9ff16c26" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_re8" level="file">
+               <did>
+                  <unittitle>Newsletters, 1981-1997</unittitle>
+                  <container id="aspace_f5278ffdda6dd972d0926cf0c2eb7e99" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_9ch" level="file">
+               <did>
+                  <unittitle>Membership directories, 1983-1997</unittitle>
+                  <container id="aspace_e82024381a01ad082d53f3a1cbe67e5b" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_1l1" level="file">
+               <did>
+                  <unittitle>Conference and appreciation, 1990</unittitle>
+                  <container id="aspace_0d695ee2011a77c1ca799784f7efe811" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_oqx" level="file">
+               <did>
+                  <unittitle>Newsletters, 1988-2001</unittitle>
+                  <container id="aspace_9ef4bdbe888a83457f822da54de032d5" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_38l" level="file">
+               <did>
+                  <unittitle>Membership directories, 1997-2002</unittitle>
+                  <container id="aspace_35778331df92b6f9850fab7e7fb546b1" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_zap" level="file">
+               <did>
+                  <unittitle>Briefs, 1988-2001</unittitle>
+                  <container id="aspace_6a0cac20165e86e584971fd942bf8cf5" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_5kr" level="file">
+               <did>
+                  <unittitle>Judge's Journal, Spring 2000</unittitle>
+                  <container id="aspace_e1d093c867d1af3783a24fd551b1a3db" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_4uq" level="file">
+               <did>
+                  <unittitle>Brochures, 2002-2006</unittitle>
+                  <container id="aspace_e83e591eb774c8fdbdbe76ac828aacc4" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_z2k" level="file">
+               <did>
+                  <unittitle>Meetings, 2002</unittitle>
+                  <container id="aspace_fad4d85aba3eb32f9e27c1bcd59d0aeb" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_zdo" level="file">
+               <did>
+                  <unittitle>Newsletter, 2003</unittitle>
+                  <container id="aspace_a10814d4d73372e0014b5ca9aa782533" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_xck" level="file">
+               <did>
+                  <unittitle>Self-Evident (newlsetter), 2005-2006</unittitle>
+                  <container id="aspace_c7c763f5a085bfae584f374b5405f796" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_52w" level="file">
+               <did>
+                  <unittitle>Membership directories, 2002-2007</unittitle>
+                  <container id="aspace_361371902ebf2ac9d3be0ecd4093b6c6" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_f3i" level="file">
+               <did>
+                  <unittitle>Annual Conferences, 2006-2007</unittitle>
+                  <container id="aspace_cff1209e424a4d47cc691f85dea4f6e9" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_569" level="file">
+               <did>
+                  <unittitle>Speaker letters, 2007</unittitle>
+                  <container id="aspace_5e16304e4ee3dcee1123181ab8c946bf" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_z3g" level="file">
+               <did>
+                  <unittitle>Self Evident (newsletter) and brochures, 2007</unittitle>
+                  <container id="aspace_8c14053620822c9f298225273d128c84" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref117_r2p" level="file">
+               <did>
+                  <unittitle>Membership directory, 2007-2008</unittitle>
+                  <container id="aspace_d41042cc7241b4302f5605ff59ddd19a" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_z36" level="file">
+               <did>
+                  <unittitle>Conference, 2008</unittitle>
+                  <container id="aspace_bb63f3db4f831eea2bb85a38cdff7296" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_4da" level="file">
+               <did>
+                  <unittitle>Self Evident (newsletter) and brochures, 2008-2009</unittitle>
+                  <container id="aspace_632d052babb7a901bbb016fdd0635c0d" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_9ik" level="file">
+               <did>
+                  <unittitle>Women of Wisdom celebration</unittitle>
+                  <container id="aspace_b27593c848b593b713d9f3ab9a139048" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_df8" level="file">
+               <did>
+                  <unittitle>Super Lawyers, 2008</unittitle>
+                  <container id="aspace_df9aba207f4f7b4ae4659db47bf933d1" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_4ya" level="file">
+               <did>
+                  <unittitle>Awards and newspaper, 2009</unittitle>
+                  <container id="aspace_154a43327a385a349c13bf8d676a41ab" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_ly8" level="file">
+               <did>
+                  <unittitle>SCWLA and NCAWA Conference, 2009</unittitle>
+                  <container id="aspace_8c200e0687d9285d04a766b782f1862d" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_33l" level="file">
+               <did>
+                  <unittitle>South Carolina Lawyers, 2009</unittitle>
+                  <container id="aspace_3ab3db736222de9ac1ad0203a239447b" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_epv" level="file">
+               <did>
+                  <unittitle>Civil Liberties Panel, 2009</unittitle>
+                  <container id="aspace_1b4b8154c0c664d9e898e85c2ce7b582" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref126_h3e" level="file">
+               <did>
+                  <unittitle>Correspondence and photographs, 2009</unittitle>
+                  <container id="aspace_31a2f023c929585e94c8fdaee109f0fd" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_9r0" level="file">
+               <did>
+                  <unittitle>Photographs of past presidents mounted on foam core,
+                     1978-1994</unittitle>
+                  <container id="aspace_8759bb4fe4b94858914471da7cf6cd82" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_0is" level="file">
+               <did>
+                  <unittitle>Photographs of past presidents mounted on foam core,
+                     1994-2009</unittitle>
+                  <container id="aspace_da3fee405cd491ea8f1a3336abea735c" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref129_7vv" level="file">
+               <did>
+                  <unittitle>Protecting NC's Shoreline</unittitle>
+                  <container id="aspace_a6bf16fc3e6f898ad92d584e866df3df" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_31u" level="file">
+               <did>
+                  <unittitle>The Right to Die</unittitle>
+                  <container id="aspace_fc3277bc4b2c80f3c8682a05d4265426" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_jii" level="file">
+               <did>
+                  <unittitle>GPI photos, 2007</unittitle>
+                  <container id="aspace_0d90f9fc9b926558d8a683396ec51796" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_g8x" level="file">
+               <did>
+                  <unittitle>Martha Lawrence photos, 2008</unittitle>
+                  <container id="aspace_7b300419ca0fb647df14cd00c9f4c798" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_8pf" level="file">
+               <did>
+                  <unittitle>Oversized prints mounted on foam core depicting events (7), and "ERA:
+                     Where Do We Go From Here?"</unittitle>
+                  <container id="aspace_14c319604d402f1742e0de5c92377f10" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

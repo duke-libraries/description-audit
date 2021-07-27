@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/hawkins/">hawkins</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Preliminary Guide to the James R. Hawkins Papers, ca. 1961-1980
+                  <num>RL.00520</num>
+            </titleproper>
+            <author>Processed by: Don Sechler; machine-readable finding aid created by: Don
+               Sechler</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002510134</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 19:44:34
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>James R. Hawkins papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Hawkins, James R.</persname>
+         </origination>
+         <unitid>RL.00520</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">15 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1961/1980" type="inclusive">ca. 1961-1980</unitdate>
+         <physloc id="aspace_1b1c8cbc7c06131b50b8e287fd3b3015">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_23187592f65e5e0b5371cec6b367091e">
+            <extent>7800 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_3d8ba1c61057809436019a653cbe1ec3">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_8a6552d49bb5752480b3b8a2973a5229">
+         <head>Access Restrictions</head>
+         <p>Collection has recieved minimal processing and is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_98d11e27d00c885b343936a17c5ab972">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_4714056a3f8ba362bd7554b37630e2dd">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], James R. Hawkins Papers, ca. 1961-1980, David M. Rubenstein
+            Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_f2e89344eb43069c0a5afe96be28be8e">
+         <head>Provenance</head>
+         <p>Gift of James R. Hawkins, 1983.</p>
+      </acqinfo>
+      <processinfo id="aspace_81e0246451eb6cf2c4614bc6a025bb89">
+         <head>Processing Information</head>
+         <p>Processed by Don Sechler</p>
+         <p>Completed August 8, 1998</p>
+         <p>Encoded by Don Sechler</p>
+         <p>This collection is unprocessed: materials may not have been ordered and described beyond
+            their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_e453e7a830e7615c11fc9f4016e31dc3">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1925</date>
+               <eventgrp>
+                  <event>Mebane North Carolina</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1943-1946</date>
+               <eventgrp>
+                  <event>Served in the U.S. Marine Corps</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1951</date>
+               <eventgrp>
+                  <event>Graduated from Duke University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1956</date>
+               <eventgrp>
+                  <event>President, Durham Junior Chamber of Commerce</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1959-1967</date>
+               <eventgrp>
+                  <event>Durham City Council Member</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1969-1970</date>
+               <eventgrp>
+                  <event>Chairman, Research Triangle Planning Commission</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1970</date>
+               <eventgrp>
+                  <event>Vice President, North Carolina Association of Realtors</event>
+                  <event>President, Durham Chamber of Commerce</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1971</date>
+               <eventgrp>
+                  <event>Mayor of Durham, North Carolina</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>James R. Hawkins worked as a realtor in addition to being involved in municipal politics
+            and service organizations in Durham, North Carolina. He served as a City Council Member
+            in Durham from 1959-1967 and was Mayor of Durham in the 1970s.</p>
+      </bioghist>
+      <scopecontent id="aspace_1b2a4a6ef0135c7e434e68863f1d2f68">
+         <head>Collection Overview</head>
+         <p>The subject files, correspondence, and published materials in the James R. Hawkins
+            Papers span from ca.1961-1980, chiefly 1971-1975, and document Hawkins' role in civic
+            life in Durham, North Carolina and provide evidence of the issues and concerns facing
+            the citizens of Durham in the 1970s. The subject files retain Hawkins' original folder
+            titles and alphabetical organization and provide an overview of the programs Hawkins was
+            involved with as mayor as well as a view of the general issues Hawkins encountered while
+            mayor of Durham. The correspondence series is arranged alphabetically and chiefly
+            consists of letters to Hawkins from the citizens of Durham voicing their concerns over
+            such civic issues as development, traffic safety, taxes, and various political issues.
+            The correspondence also contains copies of Hawkins' responses to the letters he received
+            from the citizens of Durham. This collection would be of value for scholars studying the
+            recent history of the south or for those wishing to gain a clearer picture of the
+            functioning of city government in the recent past. This collection is open to
+            researchers and has received a minimal level of processing.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Municipal government -- North Carolina -- Durham</subject>
+         <geogname source="lcsh">Durham (N.C.) -- Politics and government</geogname>
+         <subject source="lcsh">Mayors -- North Carolina -- Durham</subject>
+         <persname source="ingest">Hawkins, James R.</persname>
+         <persname source="ingest">Hawkins, James R., 1925</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_vvh" level="series">
+            <did>
+               <unittitle>Accession 1986-0001</unittitle>
+            </did>
+            <scopecontent id="aspace_574d9a2be181ecdfe94d71665e20560a">
+               <head>Scope and Contents note</head>
+               <p>The subject files, correspondence, published materials, and other miscellaneous
+                  items in this collection generally relate to city government and the history of
+                  Durham, North Carolina. The wide variety of subjects addressed by the files held
+                  by James R. Hawkins reflect the various issues that concerned the citizens of
+                  Durham, and Hawkins as its mayor, during the early<unitdate normal="1970/1979"
+                     era="ce" calendar="gregorian" type="inclusive">1970s.</unitdate>
+               </p>
+            </scopecontent>
+            <c02 id="aspace_ref14_2dw" level="file">
+               <did>
+                  <unittitle>Subject Files</unittitle>
+                  <container id="aspace_24d1c6147c6835d68701e86471a20b12" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_57fdfa402b8740fbcbcbdd2f710a1647">
+                  <head>Scope and Contents note</head>
+                  <p>The material held in the Subject Files Series serves to document the issues
+                     facing James R. Hawkins while he was mayor of Durham form <unitdate era="ce"
+                        calendar="gregorian" type="inclusive">1971-1975.</unitdate>These files hold
+                     a variety of material formats including correspondence, clippings, reports,
+                     studies, and proposals relating to city programs and issues that Hawkins dealt
+                     with as mayor. The Subject files are in alphabetical order.</p>
+               </scopecontent>
+               <c03 id="aspace_ref15_m53" level="file">
+                  <did>
+                     <unittitle>Alcoholic Rehabilitation</unittitle>
+                     <container id="aspace_3a39c36e1829c1d01b3ef6a50907db7e" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref16_oud" level="file">
+                  <did>
+                     <unittitle>Allied Arts</unittitle>
+                     <container id="aspace_681c7de75a34b5e2544aa3dd2b2c8b35" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref17_tf0" level="file">
+                  <did>
+                     <unittitle>Annexation</unittitle>
+                     <container id="aspace_a23cf5fb649631454cd57245e5470066" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref18_io4" level="file">
+                  <did>
+                     <unittitle>Annexation Program, 1965, Jan.-June</unittitle>
+                     <container id="aspace_fdd6015c948dd64c1f299c97a0fb0d1a" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref19_k6z" level="file">
+                  <did>
+                     <unittitle>Ernie Barnes</unittitle>
+                     <container id="aspace_000f87dc645a3c769c9c9575bd589175" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref20_bac" level="file">
+                  <did>
+                     <unittitle>Bicentennial</unittitle>
+                     <container id="aspace_36fd6b6fa4475185b4d45d703987b06e" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref21_07v" level="file">
+                  <did>
+                     <unittitle>Bicentennial News</unittitle>
+                     <container id="aspace_b7f3f8e74096b1435053ee499e92d9fc" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref22_mzt" level="file">
+                  <did>
+                     <unittitle>Bikeways</unittitle>
+                     <container id="aspace_7df2f4f99b3e0e0f121dc58a1550103c" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref23_djq" level="file">
+                  <did>
+                     <unittitle>Biographical Information</unittitle>
+                     <container id="aspace_731369966cd491837176bfdae3ee8d44" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref24_8vo" level="file">
+                  <did>
+                     <unittitle>Budget</unittitle>
+                     <container id="aspace_b69f6cf189ff316f6eee09d4b98bcce5" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref25_tt1" level="file">
+                  <did>
+                     <unittitle>Business Development Company of Durham, Inc.</unittitle>
+                     <container id="aspace_de747fe4287a831f153dd996fe95964d" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref26_an3" level="file">
+                  <did>
+                     <unittitle>Cable Television - Analysis of Bids</unittitle>
+                     <container id="aspace_01d4775f2938c8a126b1aa3188306a04" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref27_qtb" level="file">
+                  <did>
+                     <unittitle>CAC - Citizens Advisory Committee</unittitle>
+                     <container id="aspace_ef04eab625a11421aff8ce17cd04b9d8" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref28_tfd" level="file">
+                  <did>
+                     <unittitle>Cane Creek - Chapel Hill</unittitle>
+                     <container id="aspace_3e10632fa80798c269dd7f1fc9fa9f82" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref29_z1d" level="file">
+                  <did>
+                     <unittitle>CATV - Cable Television</unittitle>
+                     <container id="aspace_c57df34574300faf5d1e59719e06766e" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref30_u2d" level="file">
+                  <did>
+                     <unittitle>Wade Cavin</unittitle>
+                     <container id="aspace_dd30464c03ff07000bc02913e2ec13b1" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref31_j2s" level="file">
+                  <did>
+                     <unittitle>Central Business District Redevelopment</unittitle>
+                     <container id="aspace_42992ef7b2768116a88d5f8bc088d6f1" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_jqq" level="file">
+                  <did>
+                     <unittitle>CETA - Comprehensive Employment Training Act</unittitle>
+                     <physdesc id="aspace_7c3a6bab4a97ec44a05a3ee010784a4d">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f6e953148d9bd5621f018f8235b669d2" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_4m7" level="file">
+                  <did>
+                     <unittitle>Chamber of Commerce</unittitle>
+                     <physdesc id="aspace_ec7e7b950bed6c59a8b1308d41eb71a8">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2d17f677ff943e3eaa7ddbad0dfff922" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_dnp" level="file">
+                  <did>
+                     <unittitle>Charter of the City of Durham</unittitle>
+                     <container id="aspace_8f02bca17f51aee68d5f3c5c9320ec33" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_z2g" level="file">
+                  <did>
+                     <unittitle>Child Advocacy Commission of Durham, Inc.</unittitle>
+                     <container id="aspace_e53d4e63345c9b9d930d8232716c7c94" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_xep" level="file">
+                  <did>
+                     <unittitle>City Clerk</unittitle>
+                     <container id="aspace_1ba81f24737b5b84b3ffc5e74e444490" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_tbp" level="file">
+                  <did>
+                     <unittitle>City Council</unittitle>
+                     <container id="aspace_126a5992646fac4ed31849ce359977ad" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_bj2" level="file">
+                  <did>
+                     <unittitle>City-County Charter Commission</unittitle>
+                     <container id="aspace_967c9913b7c33ddfc799d67b4c01759e" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_qnm" level="file">
+                  <did>
+                     <unittitle>City-County Comm. File [Utilities]</unittitle>
+                     <container id="aspace_5df43deb3736679b4827edb808606b4e" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_jig" level="file">
+                  <did>
+                     <unittitle>City Hall [Building Plans]</unittitle>
+                     <physdesc id="aspace_51e2a5d369d3a3afea1323129d096036">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_99fc89f7f096c94533b76d7ae0ec6549" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_k4e" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">City Magazine</title>
+                     </unittitle>
+                     <container id="aspace_850b51987c73f4ada8812271c9de26fb" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_40r" level="file">
+                  <did>
+                     <unittitle>City of Durham - Compensation Plan</unittitle>
+                     <container id="aspace_1628417b8d4a42af5973dbcf00f23847" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_bux" level="file">
+                  <did>
+                     <unittitle>City of Durham - Miscellaneous 1971-1972</unittitle>
+                     <container id="aspace_71bfcb361198fb5871c21bb72480ae46" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_53c" level="file">
+                  <did>
+                     <unittitle>City of Durham - Miscellaneous1973</unittitle>
+                     <physdesc id="aspace_fa154901f8aadf71ea4e77c06c5ab40b">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_01915028352606f9d06d8ea4eddf3cc3" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_t9y" level="file">
+                  <did>
+                     <unittitle>City of Durham - Miscellaneous1974</unittitle>
+                     <physdesc id="aspace_5cfe3fc6ba5287a90fa7632a49c2d5af">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0eeb2f95dc484f7c763a12777deb3327" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_1kj" level="file">
+                  <did>
+                     <unittitle>Civil Preparedness</unittitle>
+                     <container id="aspace_97a5b6a01ce9c8ac55e9ebf87277ca4b" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_3f0" level="file">
+                  <did>
+                     <unittitle>Code Enforcement Project [Building Codes]</unittitle>
+                     <container id="aspace_3606bef4e309974b82ab4e10dc379e24" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_bk1" level="file">
+                  <did>
+                     <unittitle>Code of Ethics</unittitle>
+                     <container id="aspace_ada9e1d0384098bc3b54531b18df8f38" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_y3c" level="file">
+                  <did>
+                     <unittitle>Committees - Council and Citizen</unittitle>
+                     <container id="aspace_53c11bfbd928bec04f82ebc13a42d73b" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref55_sse" level="file">
+                  <did>
+                     <unittitle>Community Development Program</unittitle>
+                     <physdesc id="aspace_88cd923bfec9dfb0c075865dee820203">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_a230de63dfb14ae47e7dea1192f53ca5" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_vcq" level="file">
+                  <did>
+                     <unittitle>Community Planning services of Durham</unittitle>
+                     <container id="aspace_a3dc8893da1b34378d817d438be9f849" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref58_2h6" level="file">
+                  <did>
+                     <unittitle>Consolidation Program</unittitle>
+                     <physdesc id="aspace_d554a3cadb4a8428a8af149a294ea840">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9df0a309fd946787e8d4fa4a4ab5e574" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_l59" level="file">
+                  <did>
+                     <unittitle>Courthouse Feasibility Study Committee</unittitle>
+                     <container id="aspace_0d815636e7178b0c228c23648a206ba2" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_k7g" level="file">
+                  <did>
+                     <unittitle>Convention Center Site</unittitle>
+                     <container id="aspace_0718e298bb4cba7ae51c985954575e5a" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_et8" level="file">
+                  <did>
+                     <unittitle>Creek Hazard Study</unittitle>
+                     <container id="aspace_e71909253a07600194ed9c71286a1d4a" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_x3r" level="file">
+                  <did>
+                     <unittitle>Cultural Center - County Courthouse</unittitle>
+                     <container id="aspace_0dcdfe9b8888b5ab4707d3a65e81f0e3" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_pf2" level="file">
+                  <did>
+                     <unittitle>Dog Ordnance</unittitle>
+                     <container id="aspace_5c11918b7967a5efd24c5cfa2268bc25" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_rnk" level="file">
+                  <did>
+                     <unittitle>Downtown Durham</unittitle>
+                     <physdesc id="aspace_fad30453663f8cccab1a7e949ffbd8df">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_142148930044436b3741321884950ca0" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_vs8" level="file">
+                  <did>
+                     <unittitle>Drug Abuse</unittitle>
+                     <container id="aspace_7888db540df4b2b04e7feec622fd4f6d" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref68_fvt" level="file">
+                  <did>
+                     <unittitle>Duke Power</unittitle>
+                     <container id="aspace_5c8feb4ce37010ba7fbd245310b57786" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_qsp" level="file">
+                  <did>
+                     <unittitle>Duke University Hospital - Board of Advisors</unittitle>
+                     <physdesc id="aspace_002b468ea54f7e43cb5a6b12774f013c">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ad5a778d3ad011fa598c30fd3a153f50" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_tpp" level="file">
+                  <did>
+                     <unittitle>Durham City Council - Economic Development Report</unittitle>
+                     <container id="aspace_acbcddc5ba5937ae31f7a9bf2c47ce20" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref72_25m" level="file">
+                  <did>
+                     <unittitle>Durham Community Cannery</unittitle>
+                     <container id="aspace_515460e9749feda5a7c11c8da14c8f4a" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_u51" level="file">
+                  <did>
+                     <unittitle>Durham, England</unittitle>
+                     <container id="aspace_ca6d39ea862f18edeeb5dba71b074070" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref74_ltu" level="file">
+                  <did>
+                     <unittitle>Durham Hotel</unittitle>
+                     <container id="aspace_89bd19b8e6e9084dd7a7fb761847fb1d" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_71l" level="file">
+                  <did>
+                     <unittitle>Durham Housing Authority</unittitle>
+                     <container id="aspace_cebdad6ecf1e7721777b32611d29eede" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref76_u5t" level="file">
+                  <did>
+                     <unittitle>East End Neighborhood Housing Committee</unittitle>
+                     <container id="aspace_7bae8dd62ab617822545f1d9d6e02296" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref77_2x6" level="file">
+                  <did>
+                     <unittitle>Eastern Airlines</unittitle>
+                     <container id="aspace_ba5bb139e1fec335241b212f0a36518f" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref78_nqs" level="file">
+                  <did>
+                     <unittitle>East-West Expressway</unittitle>
+                     <container id="aspace_dee68ff345034023c3835f7a615ec266" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_1om" level="file">
+                  <did>
+                     <unittitle>EPA Grant Application</unittitle>
+                     <container id="aspace_89b56e7f444973e03ce71512fc0e9613" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_yx3" level="file">
+                  <did>
+                     <unittitle>Educational Information Corp.</unittitle>
+                     <container id="aspace_8dad0b2eeb51946b30b85cf752c506f1" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_j3p" level="file">
+                  <did>
+                     <unittitle>Election Requirements</unittitle>
+                     <container id="aspace_1b965bd3a318ebecfc537c7eb726f8d8" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_eow" level="file">
+                  <did>
+                     <unittitle>Energy Committee</unittitle>
+                     <container id="aspace_73cd8a14828d301e1e7fa9078b0b15e9" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref83_07q" level="file">
+                  <did>
+                     <unittitle>Energy Crisis</unittitle>
+                     <container id="aspace_827ac3630073bb4ff07270538e1a7eb3" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_yd5" level="file">
+                  <did>
+                     <unittitle>Eno River</unittitle>
+                     <physdesc id="aspace_cdec12c705bed14b7785a97f2d88db41">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_b2911d61e479ed9a31a6a3f682eb7278" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_r4m" level="file">
+                  <did>
+                     <unittitle>EPA - Environmental Protection Agency</unittitle>
+                     <container id="aspace_782b77a5a30dbff6a9eebaf34ffcf76f" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_zch" level="file">
+                  <did>
+                     <unittitle>Equal Opportunity Employment</unittitle>
+                     <container id="aspace_a714b27d3c7d1399df6c18fe47cb59c9" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref88_vii" level="file">
+                  <did>
+                     <unittitle>Finance Department</unittitle>
+                     <physdesc id="aspace_241180956b68f72b0e15f8a2d19e6612">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_7de1470d43613c9328129565e405439f" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref90_372" level="file">
+                  <did>
+                     <unittitle>Fire Department</unittitle>
+                     <container id="aspace_0800779d0f04eaa27c263a071834bb01" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref91_ou6" level="file">
+                  <did>
+                     <unittitle>Flat River Reservoir</unittitle>
+                     <physdesc id="aspace_44776afe49dccfd059774074fcb8bcc1">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d2b4f9428e1fc746b9b248b18fbb0f82" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref93_fch" level="file">
+                  <did>
+                     <unittitle>Flood Plan Information</unittitle>
+                     <container id="aspace_11ae0669b525cf6458cac051ba69b417" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref94_xbv" level="file">
+                  <did>
+                     <unittitle>Gas Crisis</unittitle>
+                     <physdesc id="aspace_20a6702367a5270e4b47e07fe73ac33a">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_138953f8d07dd0fa9c27f1b89e6df33b" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_b6w" level="file">
+                  <did>
+                     <unittitle>Glenn Road Landfill</unittitle>
+                     <container id="aspace_3cbb05a404fdb9a4da7905d80ec98a8a" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref97_bu0" level="file">
+                  <did>
+                     <unittitle>Growth Options</unittitle>
+                     <container id="aspace_f438744feb9d7d43c85a449e88793154" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref98_ost" level="file">
+                  <did>
+                     <unittitle>Growth Policies</unittitle>
+                     <container id="aspace_9e26d998b40ff6f2021afcd30916696e" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref99_81n" level="file">
+                  <did>
+                     <unittitle>Handicapped, Mayor's Committee for the</unittitle>
+                     <container id="aspace_984c357f6af9e48deeea2ae5bc49c8ef" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_9r6" level="file">
+                  <did>
+                     <unittitle>Health Department</unittitle>
+                     <container id="aspace_6db080b84583bdae98c4dabffe465161" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref101_79d" level="file">
+                  <did>
+                     <unittitle>Highway Commission, State</unittitle>
+                     <physdesc id="aspace_63a4897a1560e50ebc503244b3efed98">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f882fef5b29a7e93395406a629cc93b7" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref103_15r" level="file">
+                  <did>
+                     <unittitle>Holhauser, James E., Jr.</unittitle>
+                     <container id="aspace_50d2699b01c01e23ed0ffcd391c5987a" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref104_2j3" level="file">
+                  <did>
+                     <unittitle>House Bill 75</unittitle>
+                     <container id="aspace_312f663076f764ab2afe288c59cbaf51" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref105_vo6" level="file">
+                  <did>
+                     <unittitle>HUD - Department of Housing and Urban Development</unittitle>
+                     <container id="aspace_f827278c519fc07a6c6915e24f217a8d" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref106_5ws" level="file">
+                  <did>
+                     <unittitle>Human Relations Commission</unittitle>
+                     <container id="aspace_809069c607065ab4570576ee359839a3" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref107_ui6" level="file">
+                  <did>
+                     <unittitle>I-40 [Interstate 40]</unittitle>
+                     <physdesc id="aspace_93ff81856d62aae5877299fbacd0ef7c">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_33ea2768c4a572b79be6a2890f89e97e" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref109_ayy" level="file">
+                  <did>
+                     <unittitle>Industrial Development and Per Capita Income in NC</unittitle>
+                     <container id="aspace_841c597d40a54a09a1d1165a3a6a499f" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref110_i8a" level="file">
+                  <did>
+                     <unittitle>Junked Car Ordinance</unittitle>
+                     <container id="aspace_aa536aee465bf754445432db5c35700a" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref111_9x6" level="file">
+                  <did>
+                     <unittitle>Legal Opinions - City Attorney</unittitle>
+                     <physdesc id="aspace_226387237dfcfa41547588cead66a2ee">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2a4bcbe5f02d7ff891fbf98d5e03775d" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref113_u3f" level="file">
+                  <did>
+                     <unittitle>Legislative Commission - NC League of Municipalities</unittitle>
+                     <physdesc id="aspace_bd55876f6075a5cbd8485a85f038adf7">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_aa65b4f93cc9b6c2f37452da3576ee33" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref115_5q2" level="file">
+                  <did>
+                     <unittitle>Legislative Commission - NC League of Municipalities</unittitle>
+                     <container id="aspace_7a26e1795d15374c4f858bc58d93e630" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref116_pfq" level="file">
+                  <did>
+                     <unittitle>Library</unittitle>
+                     <container id="aspace_dc860d36b42baebc5a4bbce06f1bd055" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref117_erc" level="file">
+                  <did>
+                     <unittitle>Local Government Commission</unittitle>
+                     <container id="aspace_2a305c2cad853f1e757e3c4435c75042" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref118_2rk" level="file">
+                  <did>
+                     <unittitle>Low-Income Housing</unittitle>
+                     <container id="aspace_4e4efe3adc81d5a733a9d090262a3657" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref119_rvu" level="file">
+                  <did>
+                     <unittitle>Manpower Advisory Committee</unittitle>
+                     <container id="aspace_9bb53e194f5ee4a398a600af55eca802" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref120_re4" level="file">
+                  <did>
+                     <unittitle>Manpower Project</unittitle>
+                     <physdesc id="aspace_75c4eeef68b591ea7db6b0bc15a05a09">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c6f52886e28dbff7640c98a4b2e48800" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref122_um7" level="file">
+                  <did>
+                     <unittitle>Manpower Project - Region J MAPC Committee</unittitle>
+                     <container id="aspace_c6c2760511dea0723a22a4674b73eeec" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref123_vi3" level="file">
+                  <did>
+                     <unittitle>Mass Transit</unittitle>
+                     <container id="aspace_7b1dc3ae9cc79eb0e4f4fc4012d3d363" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref124_ckh" level="file">
+                  <did>
+                     <unittitle>Massage Business Ordinance</unittitle>
+                     <container id="aspace_129ebc23a502fb222bfbc62f23df4ed6" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref125_f7w" level="file">
+                  <did>
+                     <unittitle>McManis Report</unittitle>
+                     <container id="aspace_78fe2cc5b103680ed3be0ada59d45e28" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_545" level="file">
+                  <did>
+                     <unittitle>Mobile Homes</unittitle>
+                     <container id="aspace_08988f2e9aa84dd92d9cb05566133ddf" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref127_wcb" level="file">
+                  <did>
+                     <unittitle>Martin Luther King Freedom Games</unittitle>
+                     <container id="aspace_7614bf9805735f4cac039cdd3ea712a1" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref128_l1h" level="file">
+                  <did>
+                     <unittitle>Mayor's Manpower Assistant</unittitle>
+                     <container id="aspace_ea48af51b823db84f04b1b47f40d045c" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_p8g" level="file">
+                  <did>
+                     <unittitle>National League of Cities</unittitle>
+                     <container id="aspace_f950077a085f531823725583ba31adcc" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref130_8we" level="file">
+                  <did>
+                     <unittitle>National League of Cities - Affective Government
+                        Committee</unittitle>
+                     <container id="aspace_eaf2f02d8d78267ab38158ccf711137f" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref131_ihy" level="file">
+                  <did>
+                     <unittitle>Natural Gas</unittitle>
+                     <container id="aspace_90cf2c6b5d1f024067951c5f34b450a9" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref132_0mz" level="file">
+                  <did>
+                     <unittitle>New Hope Basin - Wastewater Collection and Treatment</unittitle>
+                     <container id="aspace_44dfd29874e8fcca008b2a0bc8dfbe97" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref133_b20" level="file">
+                  <did>
+                     <unittitle>Nixon, President Richard</unittitle>
+                     <container id="aspace_29c2f432b578ea49a4985c5bba5b4f97" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref134_10p" level="file">
+                  <did>
+                     <unittitle>North Carolina Department of Revenue</unittitle>
+                     <container id="aspace_ef9022fb0f3b525d217f14771b40eda2" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref135_ize" level="file">
+                  <did>
+                     <unittitle>North Carolina Department of Water and Air Resources</unittitle>
+                     <container id="aspace_ee16f13405fd7e4b8ebf974869b5620f" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref136_jqv" level="file">
+                  <did>
+                     <unittitle>North Carolina Drug Authority</unittitle>
+                     <physdesc id="aspace_b75ed79e699f0fa097ccaac8a0101a54">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_64ff1c96d7c7cb6938e4a2d6134c7cdc" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref138_fyj" level="file">
+                  <did>
+                     <unittitle>North Carolina League of Municipalities</unittitle>
+                     <container id="aspace_dfc83b4195905526dd50cc4f90ee9c78" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref139_2v6" level="file">
+                  <did>
+                     <unittitle>North Carolina League of Municipalities - Board of
+                        Directors</unittitle>
+                     <container id="aspace_920a0beb87d36bce488afd02e8b641d4" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref140_tq7" level="file">
+                  <did>
+                     <unittitle>North Carolina League of Municipalities - Open Meetings
+                        Law</unittitle>
+                     <container id="aspace_fe13a98e2fb3b61b1a8899bd405a07f7" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref141_q09" level="file">
+                  <did>
+                     <unittitle>North Carolina League of Municipalities - Regional Affairs
+                        Comm.</unittitle>
+                     <container id="aspace_62cf85fa42ebe7a4ce5e1e8c37ad8126" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref142_nvh" level="file">
+                  <did>
+                     <unittitle>North Carolina Legislature</unittitle>
+                     <container id="aspace_a0d9e98d94f5e1f4053a4729cbb092b8" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref143_8pe" level="file">
+                  <did>
+                     <unittitle>North Carolina Manpower Council</unittitle>
+                     <physdesc id="aspace_8cdb564913ef6ec65a45880193246538">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_4d5a8c4d50871f39f930fc11384b1cd6" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref145_fn8" level="file">
+                  <did>
+                     <unittitle>North Carolina Museum of Life and Science</unittitle>
+                     <container id="aspace_6f4f055d8c05796050f599335fa32784" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref146_n91" level="file">
+                  <did>
+                     <unittitle>North Carolina Symphony Orchestra</unittitle>
+                     <container id="aspace_ea5f8856ab10a791f0528cdcb8ceb156" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref147_j21" level="file">
+                  <did>
+                     <unittitle>Off-Street Parking Committee</unittitle>
+                     <container id="aspace_b422a5dfd89e993ac068d473b2e834d0" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref148_87q" level="file">
+                  <did>
+                     <unittitle>Operation Breakthrough</unittitle>
+                     <physdesc id="aspace_431db8ab83461243fd488618a5b82cbf">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0cb84bff4d9ca1663582a1d0ff5db7e7" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_mvv" level="file">
+                  <did>
+                     <unittitle>Pan-Africa-USA International Track Meet</unittitle>
+                     <container id="aspace_312f15893f11bb24c9e5c5ce419ccb19" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref151_xj4" level="file">
+                  <did>
+                     <unittitle>Personnel</unittitle>
+                     <container id="aspace_5e0efb6b311cef920f8f72fd24663189" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref152_y8r" level="file">
+                  <did>
+                     <unittitle>Police Department</unittitle>
+                     <container id="aspace_33b8f49e659e6e5139716f34ed0f9a32" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref153_pgn" level="file">
+                  <did>
+                     <unittitle>Proclamations1973</unittitle>
+                     <container id="aspace_57d46ab249fc4642089f61c238c64410" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref154_666" level="file">
+                  <did>
+                     <unittitle>Proclamations1974</unittitle>
+                     <container id="aspace_6f39a6a39fda2d709681c2141384115d" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref155_1am" level="file">
+                  <did>
+                     <unittitle>Proclamations1975</unittitle>
+                     <container id="aspace_a3034b94d80903c82384d1eca74304a4" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref156_l6w" level="file">
+                  <did>
+                     <unittitle>Program for Progress</unittitle>
+                     <container id="aspace_c39cf91ed8cdbc0fd185d6a8640bd519" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_oyi" level="file">
+                  <did>
+                     <unittitle>Project for Redevelopment</unittitle>
+                     <container id="aspace_e78c84d95bb77517510e026324fd8b5e" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_5xb" level="file">
+                  <did>
+                     <unittitle>Property File, Durham City-County</unittitle>
+                     <container id="aspace_152ddd8584a29c52f9624925e37b1ca5" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref159_go7" level="file">
+                  <did>
+                     <unittitle>Public Safety Program</unittitle>
+                     <container id="aspace_3853cba24c8f223001271b922d9dfbc9" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref160_yz6" level="file">
+                  <did>
+                     <unittitle>Public Works</unittitle>
+                     <container id="aspace_e70788239fda4418542d6528803cdd48" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_oa1" level="file">
+                  <did>
+                     <unittitle>Raleigh-Durham Airport Authority</unittitle>
+                     <physdesc id="aspace_0de82c806052582c1e02de5c7c643c53">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c11923e707a191b34d2f5b5f9faf961f" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref163_9t3" level="file">
+                  <did>
+                     <unittitle>Rape Crisis Center</unittitle>
+                     <container id="aspace_26e1aa6f4e9d756dd1dede4a6405a350" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_xny" level="file">
+                  <did>
+                     <unittitle>Recreation Department</unittitle>
+                     <container id="aspace_58ad97492db8222d5856d707f8d08eba" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref165_czr" level="file">
+                  <did>
+                     <unittitle>Region J - Triangle J Council of Governments</unittitle>
+                     <physdesc id="aspace_0cbb00cf217113b765e5eca8d7701408">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_e24d7a1f861648219d6a6c06097f7766" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref167_l53" level="file">
+                  <did>
+                     <unittitle>Region J - Triangle J Council of Governments</unittitle>
+                     <container id="aspace_df24c81b071268b6cf53f9da1ed717b9" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref168_afg" level="file">
+                  <did>
+                     <unittitle>Region J - 208 Study</unittitle>
+                     <container id="aspace_6f837bdf75c7b31a1a20542e81307260" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref169_une" level="file">
+                  <did>
+                     <unittitle>Regional Health Plan, 1974-1975Edition</unittitle>
+                     <container id="aspace_818aec3a81dd36124888251cb084b2fa" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref170_s3u" level="file">
+                  <did>
+                     <unittitle>Report on Water and Sewer Rates, February1961</unittitle>
+                     <container id="aspace_5fe5d1a8202dd47d9e408f9ce4a72d88" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref171_lbu" level="file">
+                  <did>
+                     <unittitle>Research Triangle Water Line</unittitle>
+                     <container id="aspace_e04eb946ae2b507c7234dd2a6f522327" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref172_jd6" level="file">
+                  <did>
+                     <unittitle>Residential Choice Task Force</unittitle>
+                     <container id="aspace_c129f817ef14aeb3625f3a1f1ab929f4" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref173_g7i" level="file">
+                  <did>
+                     <unittitle>Revenue Sharing</unittitle>
+                     <physdesc id="aspace_638c076174a3874cf456539749b997d7">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d64dbe70787414d5fc541bae1dfe46cc" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_zms" level="file">
+                  <did>
+                     <unittitle>Revenue Sharing, Hearings, October 8,1975</unittitle>
+                     <container id="aspace_e3d15938d228a57f0b7702f761436196" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref176_qvr" level="file">
+                  <did>
+                     <unittitle>Revenue Sharing - NLC Revenue Sharing Evaluation Subcom.</unittitle>
+                     <physdesc id="aspace_b8140792d03819cc18ee1a8d6c249562">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_aa8010d4e9765417e82e2ad8528d349d" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref178_96b" level="file">
+                  <did>
+                     <unittitle>Revenue Sharing - NLC Task Force, Jan. 29,1975</unittitle>
+                     <container id="aspace_f6e110c3117ccd12e6601294917b02c4" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_cxc" level="file">
+                  <did>
+                     <unittitle>Revenue Sharing - NLC Task Force, May 8,1975</unittitle>
+                     <container id="aspace_f9ea14d5654386a25dd1c745b4b36fe3" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_b31" level="file">
+                  <did>
+                     <unittitle>School Board</unittitle>
+                     <container id="aspace_5f0190469efa2597d10394f171c0e242" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_8je" level="file">
+                  <did>
+                     <unittitle>School Merger</unittitle>
+                     <container id="aspace_f646c6cd0f3f6ee945a05e168a870ac2" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref182_u32" level="file">
+                  <did>
+                     <unittitle>Senate and House</unittitle>
+                     <container id="aspace_187b11de2d0bf16904c424b9bb381d6b" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref183_quh" level="file">
+                  <did>
+                     <unittitle>Snow Removal</unittitle>
+                     <container id="aspace_2fa5b6c0c568da4978c2858e09137b9e" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref184_9gm" level="file">
+                  <did>
+                     <unittitle>Solid Waste Study</unittitle>
+                     <container id="aspace_c331b2d20b475595a61e08927dbe7c19" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_m33" level="file">
+                  <did>
+                     <unittitle>Southern Newspapers Publishers Association</unittitle>
+                     <container id="aspace_149b003dd9872b161421de9ee65a5784" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref186_1eh" level="file">
+                  <did>
+                     <unittitle>Subdivision Review Board</unittitle>
+                     <container id="aspace_71d1872bb5a8b357d6501bc4f27ba389" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref187_osj" level="file">
+                  <did>
+                     <unittitle>Traffic Department</unittitle>
+                     <container id="aspace_84ecaac2a176591341cfe96a7fc541d7" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref188_ygc" level="file">
+                  <did>
+                     <unittitle>Transportation and Utilities</unittitle>
+                     <container id="aspace_5b392138bac81d4a45ae89a9fe04ac52" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref189_8cc" level="file">
+                  <did>
+                     <unittitle>Travel Expenses, James R. Hawkins, 1974-1975</unittitle>
+                     <container id="aspace_ef64ecf48e091dfb683ff38dd423642b" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref190_qrd" level="file">
+                  <did>
+                     <unittitle>Triangle Center for Voluntary Action</unittitle>
+                     <container id="aspace_af3abe54cf43a51cdddf30d5db6ead90" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref191_jy3" level="file">
+                  <did>
+                     <unittitle>Triangle Housing Development Association</unittitle>
+                     <container id="aspace_ee1cff2857ee2dd7deded69873452d8e" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref192_ih1" level="file">
+                  <did>
+                     <unittitle>Triangle J Council of Governments - Annual Work Program
+                        Summary</unittitle>
+                     <container id="aspace_1e2556b0ffdf4966e4e2c52a0dc804f6" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref193_16b" level="file">
+                  <did>
+                     <unittitle>Triangle J Council of Governments - Steering Committee</unittitle>
+                     <container id="aspace_2228ad8f433faa28da635a8989e90232" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref194_exo" level="file">
+                  <did>
+                     <unittitle>Triangle J Council of Governments - Transportation
+                        Committee</unittitle>
+                     <container id="aspace_876b56f7765d86336bf2d90a050141a6" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref195_b6m" level="file">
+                  <did>
+                     <unittitle>Triangle J - 208 Study</unittitle>
+                     <physdesc id="aspace_2f29115a604a88d121f8742a85253fd8">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d3d9022d6242a07948272af7e08d42d1" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_u2v" level="file">
+                  <did>
+                     <unittitle>United States Conference of Mayors</unittitle>
+                     <container id="aspace_0d1ab9c511301952f9c5c4f97229fbb4" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref198_q2x" level="file">
+                  <did>
+                     <unittitle>Urban Reinvestment Program</unittitle>
+                     <container id="aspace_c71ffd12a67e2516e1315167b55eb948" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_13j" level="file">
+                  <did>
+                     <unittitle>Urban Study</unittitle>
+                     <container id="aspace_69a7de8fe2c77b0b7413297b908282c7" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref200_9us" level="file">
+                  <did>
+                     <unittitle>USAF - United States Air Force</unittitle>
+                     <container id="aspace_6a15b316ec0858c418a7e22c5018c481" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref201_tvi" level="file">
+                  <did>
+                     <unittitle>USA - Pan-Africa - West Germany International Track and Field
+                        Meet</unittitle>
+                     <container id="aspace_126e4dd88d56016b81e166a614375619" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref202_cy0" level="file">
+                  <did>
+                     <unittitle>USGA - Junior Tournament</unittitle>
+                     <container id="aspace_8710eb9784092ba2a7bc057d9c652644" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref203_rp5" level="file">
+                  <did>
+                     <unittitle>USSR-USA Track Meet</unittitle>
+                     <container id="aspace_a0db540bd83321fef87c34a4d34c46d2" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref204_b2c" level="file">
+                  <did>
+                     <unittitle>Water Resources</unittitle>
+                     <container id="aspace_02db0740fd40e140e231432ea4842c3c" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref205_q9t" level="file">
+                  <did>
+                     <unittitle>Water Resources - City of Raleigh</unittitle>
+                     <container id="aspace_87813b26414dc1364be6d4ff08c9d3c7" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref206_uwq" level="file">
+                  <did>
+                     <unittitle>Wellons Water System</unittitle>
+                     <container id="aspace_32b35a08fdcd4db8ee36f575dcf38ecc" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref207_y4z" level="file">
+                  <did>
+                     <unittitle>Workable Program</unittitle>
+                     <container id="aspace_e4de451b4a96c8a67e395d4b07cf5a81" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref208_ni0" level="file">
+                  <did>
+                     <unittitle>Youth Opportunity, Mayor's Council on</unittitle>
+                     <container id="aspace_c24dea0c17c617dce8a6feb7bf5e1584" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref209_ti8" level="file">
+                  <did>
+                     <unittitle>Youth Meeting</unittitle>
+                     <container id="aspace_b0a0334a0d5938dfe8613aba11924c53" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref211_ni2" level="file">
+               <did>
+                  <unittitle>Publications</unittitle>
+               </did>
+               <scopecontent id="aspace_240bc10e94ec3fe00345019474a04a33">
+                  <head>Scope and Contents note</head>
+                  <p>The Publications Series includes reference works, general works of non-fiction,
+                     and governmental reports whose subject matter addresses the sorts of issues
+                     that Hawkins faced in the early<unitdate era="ce" calendar="gregorian"
+                        type="inclusive">1970s.</unitdate>
+                  </p>
+               </scopecontent>
+               <c03 id="aspace_ref212_hah" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Administrative and Financial Laws for Local
+                           Government in NC,</title> 1973</unittitle>
+                     <container id="aspace_ef66d32cf7afc5830d73350d9b9d84e6" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref213_orl" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">City Centers in Transition,</title> 1976</unittitle>
+                     <container id="aspace_ae408e5c115627f53254714de6c4e838" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref214_n7m" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Costs of Sprawl</title>
+                     </unittitle>
+                     <container id="aspace_64c61ee4bb703a86e00765e0133b9d69" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref215_zx1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Federal Budget and The Cities,</title>
+                        1973</unittitle>
+                     <container id="aspace_c5f027f651ee12e69eb5158264c3bba3" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref216_b6a" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Future of the South</title>
+                     </unittitle>
+                     <container id="aspace_856af336984aa1480865b204f3fb92b8" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref217_udm" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Housing and Community Development,</title>
+                        1971</unittitle>
+                     <container id="aspace_03cfc7b9fd4ecde076d7afc586857065" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref218_hq6" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Popular Government,</title> 1975</unittitle>
+                     <container id="aspace_3fe759c60011fc62a8a0df8899caff7a" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref219_d1n" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">National Municipal Policy,</title> 1975</unittitle>
+                     <container id="aspace_e077961715a483330683fd634e26a863" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref220_iiq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">United States Budget in Brief - Fiscal Year
+                           1976</title>
+                     </unittitle>
+                     <container id="aspace_33b93d192c7a92b763ded4070608ee2e" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref222_lcf" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <scopecontent id="aspace_976056c0362d5b4df6a2dee5e75a715c">
+                  <head>Scope and Contents note</head>
+                  <p>The Correspondence Series contains letters from constituents expressing
+                     concerned opinions about community issues, such as redevelopment plans, road
+                     repair, and tax. In many cases this series also includes copies of Hawkin's
+                     responses to the letters. The letters are filed in loosely chronological
+                     order.</p>
+               </scopecontent>
+               <c03 id="aspace_ref223_0by" level="file">
+                  <did>
+                     <unittitle>Miscellaneous1971</unittitle>
+                     <physdesc id="aspace_fcaf9944ddabc7780ecb961bb58a366e">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_02e5ab94e2dc31ded354a9c3a88328ae" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref225_6kf" level="file">
+                  <did>
+                     <unittitle>Miscellaneous1972</unittitle>
+                     <container id="aspace_71ed3925b3bc9c1d63bffb0de7d56750" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref226_jug" level="file">
+                  <did>
+                     <unittitle>Miscellaneous1972</unittitle>
+                     <physdesc id="aspace_f4fb8c84634d4a11dcee057e8e572b93">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_953b20010b6366a7cb43c4632260f897" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref228_ioo" level="file">
+                  <did>
+                     <unittitle>Miscellaneous1974</unittitle>
+                     <physdesc id="aspace_dd85a406cfba0597c64442373222ee40">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_e94e3f79a9cce1d39b816bf89e5526ba" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref230_4ur" level="file">
+                  <did>
+                     <unittitle>Miscellaneous1975</unittitle>
+                     <physdesc id="aspace_0de5b56d675a57cd6f900b0b963f30b7">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_abdaa9925918511b4b16498205c46a1d" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref232_47k" level="file">
+                  <did>
+                     <unittitle>Invitations Accepted/Declined 1971-1977</unittitle>
+                     <physdesc id="aspace_f50765951a32876152ac10854527a9bc">
+                        <extent>12 folders</extent>
+                     </physdesc>
+                     <container id="aspace_3e7bcb7b545cf62eac0c66b9ccddfcbe" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

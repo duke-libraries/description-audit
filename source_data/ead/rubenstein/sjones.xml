@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="https://library.duke.edu/rubenstein/findingaids/sjones/">sjones</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Southgate-Jones Family Papers, 1760-2008 <num>RL.01199</num>
+            </titleproper>
+            <author>Processed by Janie Morris and Denise Dolan; machine-readable finding aid created
+               by Alvin Pollock</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001058233</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2020-06-10 15:43:19
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Southgate-Jones Family papers</unittitle>
+         <origination label="Creator">
+            <famname source="ingest">Southgate-Jones family</famname>
+         </origination>
+         <unitid>RL.01199</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">22.4 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1760/2008" type="inclusive">1760-2008</unitdate>
+         <physdesc id="aspace_56d54bb792f8072aa87241851a541e10"
+            label="General Physical Description note">
+            <extent>circa 13,456</extent>
+         </physdesc>
+         <physloc id="aspace_4efd92aacdc247541bb50616b15c56a4">For current information on the
+            location of these materials, please consult the library's online catalog.</physloc>
+         <langmaterial id="aspace_4f935c4c887a238f4191a7389234cb32">English.</langmaterial>
+      </did>
+      <accessrestrict id="aspace_020ceb231c9a571249d62e387be30d62">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <acqinfo id="aspace_4695adfb1d3d0512b9c33355d879ebfc">
+         <head>Provenance</head>
+         <p>The Southgate-Jones Family Papers (1760-2008) were donated to the Special Collections
+            Department in 1970 by members of the Jones family. Some papers were transferred to the
+            collection from the former Trinity College Papers in 1971.</p>
+         <p>Additions to this collection include: 2009-0020, 2010-0086 and 2011-0091.</p>
+      </acqinfo>
+      <bioghist id="aspace_7510fdaf5d5dbe47debe25f3eecc1182">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>James Southgate</head>
+            <chronitem>
+               <date>1832, July 26</date>
+               <eventgrp>
+                  <event>Born, Edgefield, Va.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1849-1852</date>
+               <eventgrp>
+                  <event>Attended the University of Virginia</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1853</date>
+               <eventgrp>
+                  <event>Became member of the Masonic Lodge in Norfolk, Va.</event>
+                  <event>Opened Norfolk Military Institute with brother</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1857, Aug. 4</date>
+               <eventgrp>
+                  <event>Married Delia Haywood Wynne</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1861-1863</date>
+               <eventgrp>
+                  <event>Served in the Confederate Army</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1862-1867</date>
+               <eventgrp>
+                  <event>President of Louisburg Female College in Louisburg, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1872</date>
+               <eventgrp>
+                  <event>Moved to Hillsborough, N.C., and began Southgate Insurance Agency, later
+                     called J. Southgate and Son</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1876</date>
+               <eventgrp>
+                  <event>Moved to Durham, N.C. to expand insurance business</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1876-1878 and 1886-1887</date>
+               <eventgrp>
+                  <event>Appointed Worshipful Master for Durham Masonic Lodge No. 352</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1914, Oct. 28</date>
+               <eventgrp>
+                  <event>Died, Durham, N.C.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Mr. Southgate was a teacher and educational administrator who later opened the first
+            insurance business in Durham. He was a member of the Royal Arch Masons and the Knights
+            Templar. After his career at Louisburg Female College, he served as president of Olin
+            College in Iredell County, N.C. Among his children were James Haywood Southgate
+            (1859-1916) and Mattie Logan Southgate Jones (1864-1936).</p>
+      </bioghist>
+      <bioghist id="aspace_ef4d758af2ced993a8c37c9f0a993928">
+         <head>Biographical/Historical note</head>
+         <chronlist>
+            <head>James Heywood Southgate</head>
+            <chronitem>
+               <date>1859, July 12</date>
+               <eventgrp>
+                  <event>Born, Norfolk, Va.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1878</date>
+               <eventgrp>
+                  <event>Became partner in J. Southgate and Son Insurance Company</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1882, Dec.</date>
+               <eventgrp>
+                  <event>Married Kate Shephard Fuller (d. 1892)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1896</date>
+               <eventgrp>
+                  <event>Elected presidential candidate on Prohibition ticket</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1896-1916</date>
+               <eventgrp>
+                  <event>Chairman of the Board of Trustees at Trinity College</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1913-1914</date>
+               <eventgrp>
+                  <event>President of National Association of Insurance Writers</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1916, Feb. 22</date>
+               <eventgrp>
+                  <event>Died, Durham, N.C.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Mr. Southgate attended the University of North Carolina at Chapel Hill briefly before
+            entering the insurance business. He played a principal role in J. Southgate and Son from
+            the 1880s onward, serving as President until his death. He was the first in Durham to
+            enter the banking business. Southgate was active in Democratic and Prohibition politics,
+            and served as President, Director, or Trustee of a number of civic and professional
+            groups including the Durham Chamber of Commerce, the Durham Land and Security Company,
+            the North Carolina Peace Society, the Durham County Fair, the Citizens' National Bank,
+            the YMCA, the Durham Public Library, and the Southern Conservatory of Music. He was
+            Secretary of Durham Masonic Lodge No. 352 and a member of the Trinity Methodist
+            Episcopal Church.</p>
+      </bioghist>
+      <bioghist id="aspace_fa2add436d400ea6586bf36c275a47f5">
+         <head>Biographical/Historical note</head>
+         <chronlist>
+            <head>Thomas Decatur Jones</head>
+            <chronitem>
+               <date>1852, Oct. 18</date>
+               <eventgrp>
+                  <event>Born in Danville, Va.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1881</date>
+               <eventgrp>
+                  <event>Moved to Durham, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1884, Oct. 21</date>
+               <eventgrp>
+                  <event>Married Mattie Logan Southgate</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1889, Oct. 30</date>
+               <eventgrp>
+                  <event>Died</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Mr. Jones was a dealer in fancy leaf tobacco, a business which he expanded profitably in
+            Durham, N.C. He had two children, including a son, James Southgate Jones. He was a
+            member of the Durham Tobacco Association and the Durham Chamber of Commerce.</p>
+      </bioghist>
+      <bioghist id="aspace_3ed49e0ee8ecdd2e34b98e70332346e9">
+         <head>Biographical/Historical note</head>
+         <chronlist>
+            <head>Mattie Logan Southgate Jones</head>
+            <chronitem>
+               <date>1864, Oct. 14</date>
+               <eventgrp>
+                  <event>Born</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1917</date>
+               <eventgrp>
+                  <event>Helped plan women's parade for the North Carolina State Fair</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1918 and 1920</date>
+               <eventgrp>
+                  <event>Campaigned for the passage of the nineteenth amendment to the
+                     Constitution</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1936</date>
+               <eventgrp>
+                  <event>Died</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Mrs. Jones attended Reverend Harris's College in Staunton, Va. Among the positions she
+            held were President of the Durham Equal Suffrage League, President of the Durham Civic
+            Association, and Chairman of the Fifth District of the Equal Suffrage Association of
+            North Carolina. She was a member of the North Carolina Federation of Women's Clubs.</p>
+      </bioghist>
+      <bioghist id="aspace_d782c77791ee2c5407e9e23bb4b8db70">
+         <head>Biographical/Historical note</head>
+         <chronlist>
+            <head>James Southgate</head>
+            <chronitem>
+               <date>1888, July 23</date>
+               <eventgrp>
+                  <event>Born</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1905-1907</date>
+               <eventgrp>
+                  <event>Attended Bingham School in Asheville, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1909</date>
+               <eventgrp>
+                  <event>Opened the People's Bank in Chapel Hill, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1910</date>
+               <eventgrp>
+                  <event>Became President of Southgate Jones and Company Real Estate</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1917</date>
+               <eventgrp>
+                  <event>Became manager of the Durham Morris Plan Company</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1920, Feb. 7</date>
+               <eventgrp>
+                  <event>Married Nancy Amorette Green</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1920s-1930s</date>
+               <eventgrp>
+                  <event>President of the North Carolina Joint Stock Land Bank of Durham</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Mr. Jones also attended Washington and Lee University in Lexington, Va. Before opening
+            the People's Bank, he was employed at the First National Bank of Durham. He was a member
+            of the Kappa Sigma fraternity, the Masonic and Pythian Lodges, and the Trinity Methodist
+            Episcopal Church. He was a charter member and treasurer of the Durham Chamber of
+            Commerce and President of the Durham YMCA.</p>
+      </bioghist>
+      <prefercite id="aspace_bb6da58444e4d359c9f783c6596a9e3e">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Southgate-Jones Family Papers, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <processinfo id="aspace_f9b522323caf4a2e71a9c6e7fd8007f3">
+         <head>Processing Information</head>
+         <p>Processed by Janie Morris and Denise Dolan</p>
+         <p>Date Completed: November 6, 1991</p>
+         <p>Encoded by: Alvin Pollock, Stephen Miller</p>
+         <p>Updated by: Meghan Lyon, February, 2009 and May, 2010</p>
+         <p>Updated by: Alice Poffinberger, June 2011</p>
+      </processinfo>
+      <scopecontent id="aspace_3f5737c613b43d04a9ff1ea3e0145e98">
+         <head>Collection Overview</head>
+         <p>The Southgate-Jones family papers, 1794-1990s (bulk 1912-1933), are largely comprised of
+            both business and personal correspondence, but also include printed material;
+            photographs; genealogical information; business records in the form of volumes, reports,
+            and minutes of meetings; clippings; and legal and financial papers. Several generations
+            of Southgate and Jones family members are represented, including James Southgate, James
+            H. Southgate, Mattie Logan Southgate Jones and James Southgate ("South") Jones. These
+            individuals were involved in business, educational, political, civic, social and
+            cultural activities in Durham and North Carolina during the late nineteenth and early
+            twentieth centuries. Areas include insurance, real estate and tobacco businesses,
+            banking, the administration of Trinity College, the women's suffrage movement, the
+            Durham Civic Association, and Durham Masonic Lodge No. 352. The collection is useful for
+            studying the history of Durham and North Carolina, the regional application of national
+            policy toward farmers during the 1920s and 1930s, and the family history of prominent
+            citizens.</p>
+         <p>A significant portion of the collection was generated by James Southgate Jones as
+            President of the North Carolina Joint Stock Land Bank of Durham. This organization was
+            one of twelve created by the Federal Farm Loan Act of 1916, to encourage farmers to
+            purchase land with low interest, long term loans financed by the sale of stocks and
+            bonds to investors. The bank was liquidated in 1942. The majority of correspondence
+            dating before 1930 in the North Carolina Joint Stock Land Bank of Durham Series contains
+            documents relating to the sale of farm land in North Carolina and, to a much lesser
+            extent, Virginia; the financing of loans; and, after 1930, the increasingly harsh
+            economic situation farmers faced as banks foreclosed on their loans. There is also
+            discussion of foreclosure policies, relief programs, and the Hull-Wolcott Bill of 1933
+            in later correspondence. Included are communications with investment brokers in New York
+            and Boston, property owners, real estate agents in North Carolina and elsewhere,
+            prospective clients, banks in North Carolina and other states, and to a lesser extent
+            the United States Treasury Department. There is also correspondence between James
+            Southgate Jones, other officers of the bank and members of its Board of Directors. The
+            series contains some financial reports from other land banks in Nebraska, Chicago,
+            California, and Washington, D.C. Also included in the financial papers subseries are:
+            lists of property owned, money loaned, farms for sale, farms purchased, and
+            foreclosures; receipts for the sale of land and stock; balance sheets; and bank
+            expenditures.</p>
+         <p>Other family business endeavors are documented in the Correspondence and Business
+            Records Series. Both series contain information about the business endeavors of tobacco
+            merchant T.D. Jones, including letters and notes from tobacco merchants throughout the
+            Southeast who sold his products. Volumes in the Business Records Series record the
+            financial affairs of J. Southgate and Son, an insurance agency begun by James Southgate
+            and later headed by James H. Southgate; agencies affiliated with J. Southgate and Son;
+            and Southgate Jones and Company Real Estate, headed by James Southgate Jones. Scattered
+            Correspondence, 1890s- early 1910s, and a letterbook of James H. Southgate (1901-1906),
+            relating to J. Southgate and Son, concern these businesses. As President of Southgate
+            Jones and Company Real Estate, James Southgate Jones handled property in North Carolina,
+            such as farmland and Durham homes and businesses as well as property in Virginia and New
+            York. The bulk of the Correspondence between 1912 and 1914 deals with the promotion of
+            North Carolina land to prospective buyers, especially in the North and West; and efforts
+            of businessmen to make deals with Jones. These letters may be useful for examining the
+            development of Durham between 1910 and 1920. There is limited correspondence regarding
+            early land stock business unaffiliated with the North Carolina Joint Stock Land Bank of
+            Durham.</p>
+         <p>Information on the civic and political activities of family members is located in the
+            Correspondence, Printed Material, Writings and Speeches and Miscellaneous Series.
+            Correspondence, particularly after 1916, was generated almost exclusively by Mattie
+            Southgate Jones's involvement in the Durham Civic Association and a variety of women's
+            clubs. The Miscellaneous Series contains materials relating to her involvement with the
+            North Carolina State Fair, suffrage, and a Durham campaign for a waste disposal program.
+            Correspondence about the suffrage campaign, 1918-1922, discusses soliciting names for
+            petition drives, lobbying state senators, and political strategy and organization. Mrs.
+            Jones was responsible for petition drives on the Trinity College campus. Other
+            suffragist leaders with whom she frequently corresponded include Gertrude Weil, who
+            served as Vice President and President of the North Carolina Equal Suffrage Association.
+            A letterbook (1897-1902) kept by James Southgate concerns his involvement with the
+            Masons, Elks and Templars. In addition to a small number of letters pertaining to his
+            insurance business, the bulk are to other Lodge members and pertain to the Grand
+            Chapter, the national organization and other business of Durham Masonic Lodge No. 352,
+            including the sponsorship of an Orphan Asylum in Oxford, North Carolina. James H.
+            Southgate's letterbook (1901-1906) contains a small amount of correspondence, 1903-1904,
+            concerning his position as a Trustee of Trinity College, and includes discussion of the
+            Bassett affair and the formation of Greensboro Women's College.</p>
+         <p>The extensive genealogical research of Mattie Southgate Jones is located in the
+            Correspondence, Genealogy, Pictures and Miscellaneous Series. Additional information on
+            family members can be found in the Clippings, Legal Papers and Financial Papers Series.
+            The majority of letters written in the Correspondence Series between 1922 and 1934
+            consist of contacts made by relatives in North Carolina and elsewhere, in response to
+            Mrs. Jones's queries. The largest amount of material relates to the Jeffreys, Jones,
+            Southgate, and Wynne families. Photographs in the Pictures Series correspond to written
+            information, and often unidentified loose photographs can be matched to labeled ones in
+            albums.</p>
+         <p>The Correspondence Series contains a small amount of commentary, 1861-1863, on the Civil
+            War, including letters from family members serving with the 1st North Carolina Cavalry
+            Regiment. One letter includes an account by a civilian of the Union cavalry expedition
+            from New Bern to Tarboro and Rocky Mount, North Carolina in July, 1863. The series also
+            contains correspondence between family and friends. Included are a number of letters,
+            1906-1930, between James Southgate Jones ("South") and his uncle James H. Southgate,
+            mother Mattie Southgate Jones, and brother Lyell Jones, written while he was away at
+            school or traveling. Letters, 1909-1910, that South and Lyell wrote during a trip out
+            West describe new surroundings, particularly New Mexico. There are also letters from
+            South, Mattie, and other family members to Lyell from 1912-1913, during his extended
+            illness and stay at the Winyah Sanatorium in Asheville, N.C. Other correspondents
+            include James Southgate and Celestia Muse Southgate Simmons.</p>
+         <p>The collection also includes lantern slides, tintypes, daguerrotypes, and
+            cartes-de-visites in the Picture Series. Subjects include family members and Durham
+            businesses, streets and homes in the late nineteenth and early-twentieth centuries.</p>
+         <p>Additions to the collection have not been interfiled, and include business records,
+            photographs, scrapbooks, a cookbook, and autobiographies of some family members. Please
+            consult the detailed list below for more information.</p>
+         <p>The papers of James Southgate (1832-1914) form a separate collection in the Duke
+            University Special Collections Department. Collections in the Duke University Archives
+            related to the career of James Haywood Southgate include the William Preston Few Papers,
+            the Trinity College Board of Trustee Papers, and the John Carlisle Kilgo Papers.</p>
+      </scopecontent>
+      <userestrict id="aspace_944e2d2f74e2e7bf787c83396e6b30b8">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in the Southgate-Jones Family Papers have not been transferred
+            to Duke University. For further information, see the section on copyright in the
+            Regulations and Procedures of the Rubenstein Library.</p>
+      </userestrict>
+      <controlaccess>
+         <subject source="lcsh">Real estate business -- North Carolina -- Durham</subject>
+         <subject source="lcsh">Women -- Suffrage -- North Carolina</subject>
+         <geogname source="lcsh">New Mexico -- Description and travel</geogname>
+         <genreform source="aat">Tintypes (prints)</genreform>
+         <genreform source="aat">Daguerreotypes (photographs)</genreform>
+         <geogname source="lcsh">Durham (N.C.) -- Description and travel -- Views</geogname>
+         <genreform source="aat">Lantern slides</genreform>
+         <genreform source="aat">Cartes-de-visite</genreform>
+         <subject source="lcsh">Insurance companies -- North Carolina -- Durham</subject>
+         <corpname source="ingest">Southgate Jones and Company Real Estate</corpname>
+         <famname source="ingest">Southgate family</famname>
+         <corpname source="ingest">North Carolina Joint Stock Land Bank of Durham</corpname>
+         <persname source="ingest">Jones, Thomas Decatur, 1852-1889</persname>
+         <corpname source="ingest">Standard Mutual Life Insurance Company</corpname>
+         <persname source="ingest">Southgate, James, 1832-1914</persname>
+         <persname source="ingest">Southgate, James Haywood, 1859-1916</persname>
+         <corpname source="ingest">J. Southgate and Son.</corpname>
+         <corpname source="ingest">Freemasons. Durham Lodge No. 352 (Durham, N.C.)</corpname>
+         <corpname source="ingest">Durham Equal Suffrage League</corpname>
+         <corpname source="ingest">Durham Civic Association</corpname>
+         <persname source="ingest">Jones, Mattie Logan Southgate</persname>
+         <persname source="ingest">Jones, James Southgate</persname>
+         <famname source="ingest">Jones family</famname>
+         <famname source="ingest">Jeffries family</famname>
+         <corpname source="ingest">Confederate States of America. Army. North Carolina Cavalry
+            Regiment, 1st.</corpname>
+         <persname source="ingest">Weil, Gertrude</persname>
+         <famname source="ingest">Wynne family</famname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref25_wtn" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1794-1951 and undated (bulk 1912-1914).</unittitle>
+            </did>
+            <scopecontent id="aspace_470565eddbe687e56e8a0d2dfde1f9c3">
+               <head>Scope and Contents note</head>
+               <p>Business and personal letters, spanning several generations of Southgate and Jones
+                  family members. Most correspondence after <unitdate normal="1930" era="ce"
+                     calendar="gregorian" type="inclusive">1930</unitdate> is personal. Arranged
+                  chronologically. Letterbooks are arranged at the end of the loose
+                  correspondence.</p>
+            </scopecontent>
+            <c02 id="aspace_ref26_e77" level="file">
+               <did>
+                  <unittitle>1794-1874(7 folders)</unittitle>
+                  <container id="aspace_20def4cad559e41bf7af5efab5358a89" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_mgg" level="file">
+               <did>
+                  <unittitle>1875-1895(7 folders)</unittitle>
+                  <container id="aspace_caa826a2d5b643b153ba7db9f5b879a2" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_q3f" level="file">
+               <did>
+                  <unittitle>1896-1909, Nov.(8 folders)</unittitle>
+                  <container id="aspace_2d5d9efb6117ecc852058438934e3d83" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_vyb" level="file">
+               <did>
+                  <unittitle>1909, Dec.-1912, Apr.(5 folders)</unittitle>
+                  <container id="aspace_7f271730e6e970e5733eec4c6783d34f" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_mg0" level="file">
+               <did>
+                  <unittitle>1912, May-1912, Oct.(6 folders)</unittitle>
+                  <container id="aspace_04eb9e784694571e9191e0293d8820b4" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_lqt" level="file">
+               <did>
+                  <unittitle>1912, Nov.-1913, May(6 folders)</unittitle>
+                  <container id="aspace_add5c5398b5d1edd2da5fa7d71ce4b54" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_o0k" level="file">
+               <did>
+                  <unittitle>1913, June-1914, Apr.(6 folders)</unittitle>
+                  <container id="aspace_b9e27926cb34b92d049706d5043acc07" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_ev7" level="file">
+               <did>
+                  <unittitle>1914, May-1922(5 folders)</unittitle>
+                  <container id="aspace_bd6152bbcd89b339a2c589556f02fe88" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_zxf" level="file">
+               <did>
+                  <unittitle>1923-1951(8 folders)</unittitle>
+                  <container id="aspace_858459d6ee863e67dffc266fbbd87cd0" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_woz" level="file">
+               <did>
+                  <unittitle>undated</unittitle>
+                  <physdesc id="aspace_fc6b04d65447e5d0198f644f05ecaf8a"
+                     label="General Physical Description note">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f32fae75de85da2ad77ddf30a2fe6804" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_112" level="file">
+               <did>
+                  <unittitle>1897-1906(2 letterbooks)</unittitle>
+                  <container id="aspace_aa64334ecd5fb8f11a16702fc3480dfc" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref39_rty" level="series">
+            <did>
+               <unittitle>N.C. Joint Stock Land Bank of Durham Series, 1922-1942 and undated (bulk
+                  1922-1933).</unittitle>
+            </did>
+            <scopecontent id="aspace_31d55269979a66892968a59f058a1975">
+               <head>Scope and Contents note</head>
+               <p>Four subseries: Correspondence, Financial Papers, Minutes of Board Meetings, and
+                  Reports. Chiefly typed business correspondence, mostly to and from James Southgate
+                  Jones. Arranged chronogically within each subseries.</p>
+            </scopecontent>
+            <c02 id="aspace_ref40_fck" level="subseries">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <c03 id="aspace_ref41_bi3" level="file">
+                  <did>
+                     <unittitle>1923-1928, Mar.(7 folders)</unittitle>
+                     <container id="aspace_6b4b187ce78fd8bce07ccfbe40b05038" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_g5v" level="file">
+                  <did>
+                     <unittitle>1928, Apr.-Oct.(7 folders)</unittitle>
+                     <container id="aspace_071d47db0981ea2af038fd33bf577cde" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_kea" level="file">
+                  <did>
+                     <unittitle>1928, Nov.-1929, Apr.(6 folders)</unittitle>
+                     <container id="aspace_fb21f1b8c01465532e04d82f8dbc6647" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_cz5" level="file">
+                  <did>
+                     <unittitle>1929, May-Oct.(6 folders)</unittitle>
+                     <container id="aspace_518c7c9e69d58fc2c3e753abd2cc06e3" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_2zx" level="file">
+                  <did>
+                     <unittitle>1929, Nov.-1930, Aug.(6 folders)</unittitle>
+                     <container id="aspace_b809b2ab656d3d07d78a474c6f2e39c0" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_o90" level="file">
+                  <did>
+                     <unittitle>1930, Sept.-1931, July(6 folders)</unittitle>
+                     <container id="aspace_1b61bec4faaf05e9828889a3651bf80b" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_dwy" level="file">
+                  <did>
+                     <unittitle>1931, Aug.-1932, Feb.(6 folders)</unittitle>
+                     <container id="aspace_49cdcf1ee5e61e86b711f270cc15c3eb" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_287" level="file">
+                  <did>
+                     <unittitle>1932, Mar.-Aug. 15(6 folders)</unittitle>
+                     <container id="aspace_96fa7458d8b5c17da0296544b8fa5fbb" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_yu1" level="file">
+                  <did>
+                     <unittitle>1932, Aug. 16-Dec.(5 folders)</unittitle>
+                     <container id="aspace_7713fa7b8b004f91ad9bb26ea77e583c" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_dfb" level="file">
+                  <did>
+                     <unittitle>1933-1943 and undated</unittitle>
+                     <physdesc id="aspace_e94b1fa6d1250579498c77d0daca1f0d"
+                        label="General Physical Description note">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1d7924842d2626d657543455abedc8a1" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref52_v5c" level="subseries">
+               <did>
+                  <unittitle>Financial Papers</unittitle>
+               </did>
+               <c03 id="aspace_ref53_ag6" level="file">
+                  <did>
+                     <unittitle>1927-1942(2 folders)</unittitle>
+                     <container id="aspace_e98888e3bf1cfccb08876ae739d37974" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_6a1" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <container id="aspace_a96547ca60e05c1d7759e568365ffb88" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref55_t3d" level="subseries">
+               <did>
+                  <unittitle>Minutes of Board Meetings</unittitle>
+               </did>
+               <c03 id="aspace_ref56_0iv" level="file">
+                  <did>
+                     <unittitle>1926-1933</unittitle>
+                     <container id="aspace_bdc6d91f46c7417b2ea07fb8e96af231" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref57_16a" level="subseries">
+               <did>
+                  <unittitle>Reports</unittitle>
+               </did>
+               <c03 id="aspace_ref58_l59" level="file">
+                  <did>
+                     <unittitle>1922-1941, undated</unittitle>
+                     <physdesc id="aspace_3c4428fd7a480b8ef708d5a28bee24c1"
+                        label="General Physical Description note">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_821011cac3ac6bd9c1ad1076d9ccb887" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref61_2i0" level="series">
+            <did>
+               <unittitle>Business Records Series, 1879-1917 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_ba1b86fb4e432dfac29c77443e8346a8">
+               <head>Scope and Contents note</head>
+               <p>Chiefly volumes pertaining to family businesses, primarily J. Southgate and Son,
+                  and Southgate Jones and Company Real Estate. Volumes include policy registers,
+                  records of payments, ledgers, and letterbooks. Several pertain to the
+                  incorporation and transactions of the Standard Mutual Life Insurance Company,
+                  Inc., of which James H. Southgate was a founding member. A number of others are
+                  unlabeled, but appear to be related to J. Southgate and Son. Also includes a small
+                  amount of loose papers, including copies of individual insurance policies,
+                  financial statements, programs, pamphlets and notes.</p>
+            </scopecontent>
+            <scopecontent id="aspace_c6559b6176af25e1478a983c8dca1e74">
+               <head>Scope and Contents note</head>
+               <p>Loose papers and a small volume are arranged chronologically. Large volumes are
+                  arranged alphabetically by company and then chronologically. See Oversize
+                  Materials for large volumes.</p>
+            </scopecontent>
+            <c02 id="aspace_ref62_9r9" level="file">
+               <did>
+                  <unittitle>1858-1875, undated</unittitle>
+                  <container id="aspace_7b2265e992487fe56dcd28ecd4829c24" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref65_c3z" level="series">
+            <did>
+               <unittitle>Legal Papers Series, 1760-1942 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_f13987ba4a0aa7c85018f5b194e2bc7d">
+               <head>Scope and Contents note</head>
+               <p>Wills, deeds, indentures, stock certificates, military releases and other legal
+                  agreements pertaining to members of the Jeffries, Wynne, Person, Jones, and
+                  Southgate families. Arranged chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref66_pd2" level="file">
+               <did>
+                  <unittitle>1760-1942, undated</unittitle>
+                  <container id="aspace_8e544eb16fb366a8b5a7b41c0692f2d5" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref68_pod" level="series">
+            <did>
+               <unittitle>Financial Papers Series, 1791-1943 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_a5db6576f80861ba091c0f4775b85c22">
+               <head>Scope and Contents note</head>
+               <p>Chiefly receipts, but also includes bills, lists of assets, a secretary's report
+                  filed by James Southgate for the Durham Lodge and records of fraternity dues,
+                  financial statements, a volume for household expenses and an inventory. Represents
+                  the personal business endeavors of members of Jeffreys, Jones, Person, and
+                  Southgate family members in Virginia and North Carolina. Arranged chronologically.
+                  One volume is located with the Oversize Materials.</p>
+            </scopecontent>
+            <c02 id="aspace_ref69_oik" level="file">
+               <did>
+                  <unittitle>1791-1943, undated</unittitle>
+                  <physdesc id="aspace_78369cfa53995aba5737636baec14fee"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5f0dafaeba063ac0527977a66780bd0c" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_7qy" level="file">
+               <did>
+                  <unittitle>Household Account Book, 1891-1892</unittitle>
+                  <container id="aspace_cb0019eae44392b694d2f5be64d394cc" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref73_6kg" level="series">
+            <did>
+               <unittitle>Writings and Speeches Series, 1883-1947 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_162e1361c7ae80fbda7baa57b5d55ae7">
+               <head>Scope and Contents note</head>
+               <p>Chiefly speeches given to local businesses and clubs, mostly by James Southgate
+                  and James Southgate Jones, and memorials; clippings about speeches; articles and
+                  drafts of articles about Durham, local families and prominent citizens, some of
+                  which were written by Southgate Jones and published as a series in the <title
+                     type="simple">Durham Morning Herald</title> in 1945; children's stories; poetry
+                  written by family members; and a draft of an autobiography written by James
+                  Southgate Jones. Contains fragments and some anonymous writings. Arranged
+                  chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref74_rgm" level="file">
+               <did>
+                  <unittitle>1883-1947, undated</unittitle>
+                  <physdesc id="aspace_f4a6c7f1986d492f739ee939109d80f2"
+                     label="General Physical Description note">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_0ec6fed4ce4938410c1d0cff432bd1ff" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref77_kcv" level="series">
+            <did>
+               <unittitle>Genealogy Series, 1926 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_84024712d88766a68fa926c198da9fc2">
+               <head>Scope and Contents note</head>
+               <p>Extensive research notes; lists of descendants, genealogical charts, and time
+                  lines which include birth, death and marriage dates; narratives of portions of
+                  family history; and correspondence, mostly between Mattie Southgate Jones and
+                  other family members and researchers. Also includes original letters from
+                  individuals, typed transcripts of ancestral letters, and texts of letters and
+                  other archival materials copied into notebooks; copies of family seals; texts of
+                  family wills; lists of property owned; clippings; and printed material including
+                  published genealogies and booklets. One volume of genealogical charts. Arranged
+                  alphabetically by family name.</p>
+            </scopecontent>
+            <c02 id="aspace_ref78_292" level="file">
+               <did>
+                  <unittitle>Bennett family, undated</unittitle>
+                  <container id="aspace_9f6eb9179b1234aae52110e0ac814611" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_5an" level="file">
+               <did>
+                  <unittitle>Hill family, undated</unittitle>
+                  <physdesc id="aspace_4e13cfa9e4c602f602848b21def14527"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_0a3d6d8ea3801ae1fbfeba3c75ca20af" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_co6" level="file">
+               <did>
+                  <unittitle>Hunt family, undated</unittitle>
+                  <container id="aspace_e446eba6a122905bbfae3ff2bf672d98" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_egt" level="file">
+               <did>
+                  <unittitle>Jeffreys family, undated</unittitle>
+                  <physdesc id="aspace_d4134a0c6b53f63fbd69f028d7525887"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_11e95b2ce32749c16737fbd0f8965f3c" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_zlz" level="file">
+               <did>
+                  <unittitle>Jeffreys family, undated</unittitle>
+                  <physdesc id="aspace_89954a1daf69e5599b51ae46b27158ec"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b4d38917d37d6f8cd4a8707761466313" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_15e" level="file">
+               <did>
+                  <unittitle>Jones family, undated</unittitle>
+                  <physdesc id="aspace_c0f2080ee40e55d44b2b296f406ea0c6"
+                     label="General Physical Description note">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e221cfeb738fa2a1ffb2406e01361621" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_2er" level="file">
+               <did>
+                  <unittitle>Muse family, undated</unittitle>
+                  <container id="aspace_32407c2b9f1b999a5c04411094bb16b4" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_s89" level="file">
+               <did>
+                  <unittitle>Napier family, undated</unittitle>
+                  <container id="aspace_b4792d47e7c057663e4808d0af9db1d9" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_ro3" level="file">
+               <did>
+                  <unittitle>Norfleet family, undated</unittitle>
+                  <container id="aspace_fd05a69cd367559319a03da725884358" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_gzc" level="file">
+               <did>
+                  <unittitle>Southgate family, n.d</unittitle>
+                  <physdesc id="aspace_00483ae9f25f7437eb7a086c5e2979ee"
+                     label="General Physical Description note">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ba0c6b10e1601ae7699ecd1b4a13de2d" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_v36" level="file">
+               <did>
+                  <unittitle>Stokes family, undated</unittitle>
+                  <container id="aspace_b9876797da0c0a98cb2a6b2079cd4f9e" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_ted" level="file">
+               <did>
+                  <unittitle>Swann family, undated</unittitle>
+                  <container id="aspace_adfe84e70df9b20dd9bbb1eee650f0ef" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_4tz" level="file">
+               <did>
+                  <unittitle>Thomas family, undated</unittitle>
+                  <container id="aspace_986f1cae89b50fd152c813e35ba4fcec" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_d5b" level="file">
+               <did>
+                  <unittitle>Wynne family, undated</unittitle>
+                  <physdesc id="aspace_a7b192e9da8c6bd9001e50b6f621bf5a"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_472c5150f736fc64d94eaf5520fc34b9" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_yav" level="file">
+               <did>
+                  <unittitle>Miscellaneous, undated</unittitle>
+                  <container id="aspace_3ded0499eb07a2fc847e8291e373bb64" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_rg9" level="file">
+               <did>
+                  <unittitle>Miscellaneous volume, 1926</unittitle>
+                  <container id="aspace_457e16fa75aa60ddc5679953924af389" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref101_fys" level="series">
+            <did>
+               <unittitle>Miscellaneous Series, 1822-1940 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_91fbeb6f25897cfee6ef30b4c1965630">
+               <head>Scope and Contents note</head>
+               <p>Chiefly volumes kept by family members for personal and organizational records.
+                  Included are autograph books, address books, journals, a scrapbook, keepsake
+                  albums and fraternity rosters. Also included are clippings, printed material,
+                  correspondence, notes and loose organizational records. Divided into subject files
+                  and volumes. Volumes are arranged alphabetically by author if one is identified,
+                  and chronologically otherwise.</p>
+            </scopecontent>
+            <c02 id="aspace_ref102_9xi" level="subseries">
+               <did>
+                  <unittitle>Subject Files</unittitle>
+               </did>
+               <c03 id="aspace_ref103_5m4" level="file">
+                  <did>
+                     <unittitle>Dedication of Bennett Place Memorial, 1921-1923, undated</unittitle>
+                     <container id="aspace_a9ad151f303e89adedc50f747adaf680" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref104_ugn" level="file">
+                  <did>
+                     <unittitle>Durham Civic Association, 1911-1920, undated</unittitle>
+                     <container id="aspace_c81b9a9d359524f07db3801d314eef85" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref105_f6a" level="file">
+                  <did>
+                     <unittitle>Suffrage, 1917, undated</unittitle>
+                     <container id="aspace_a68efbdfc9706b1555c2565ac6d31103" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref106_xje" level="file">
+                  <did>
+                     <unittitle>1893-1953, undated</unittitle>
+                     <container id="aspace_7e5cad4631299438588cb8012417b2cb" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref107_4tv" level="subseries">
+               <did>
+                  <unittitle>Volumes</unittitle>
+               </did>
+               <c03 id="aspace_ref108_5n1" level="file">
+                  <did>
+                     <unittitle>Jones, James Southgate, 1907</unittitle>
+                     <container id="aspace_d40578fe46148cfd3ae1b884483bbcea" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref109_59f" level="file">
+                  <did>
+                     <unittitle>Jones, Mattie Southgate, 1882-1924</unittitle>
+                     <container id="aspace_6d52afc43207d7d013809b43412b08b4" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref110_pty" level="file">
+                  <did>
+                     <unittitle>Jones, T.D., 1877-1878</unittitle>
+                     <container id="aspace_2bf893440905127ca49b415c8c9c434b" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref111_bd3" level="file">
+                  <did>
+                     <unittitle>Montgomery, Mary E., 1861-1869 and 1800s</unittitle>
+                     <container id="aspace_1de1426ee21e10e0e19a46e48baef61d" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref112_0mw" level="file">
+                  <did>
+                     <unittitle>Simmons, Celestia Muse Southgate, 1886</unittitle>
+                     <container id="aspace_c2565748f7f48d31de6cc82c2ddfb58b" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref113_p9d" level="file">
+                  <did>
+                     <unittitle>Simmons, Celestia Muse Southgate, 1887-1895, undated</unittitle>
+                     <container id="aspace_c66e751fd43a39c10a2b9ad322127b3e" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref114_3vs" level="file">
+                  <did>
+                     <unittitle>Southgate, James, 1852</unittitle>
+                     <container id="aspace_43293928d891249defa06c07cd255490" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref115_l6n" level="file">
+                  <did>
+                     <unittitle>Southgate, Poly, 1818</unittitle>
+                     <container id="aspace_5dec172bef08f4f1b8011a6a6fbe2e8a" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref116_pis" level="file">
+                  <did>
+                     <unittitle>1899-1922, undated</unittitle>
+                     <physdesc id="aspace_c826ed56d620edc9ccb82f566e1071ec"
+                        label="General Physical Description note">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_22886d0513d75f6a3fd1e07976415e26" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref118_bvu" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <physdesc id="aspace_4bfd33c8ecb18ce6da324cecb7c4d93f"
+                        label="General Physical Description note">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c36dedc58e1ae65370fc08685251f39b" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref121_2lg" level="series">
+            <did>
+               <unittitle>Clippings Series, 1888-1982 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_131bfb74f9425484293da4d96de94757">
+               <head>Scope and Contents note</head>
+               <p>Chiefly photocopies of articles, primarily from Durham newspapers, and a number of
+                  scrapbooks. Articles relate to Durham history, family members or other prominent
+                  citizens. Some scrapbooks contain poems, essays, stories and illustrations from
+                  contemporary newspapers. Arranged chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref122_xdm" level="file">
+               <did>
+                  <unittitle>1888-1982, undated</unittitle>
+                  <container id="aspace_c98d1736ef9ae53515dffde39d5543b6" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_gxp" level="file">
+               <did>
+                  <unittitle>Scrapbooks, 1923-1927, undated</unittitle>
+                  <container id="aspace_a083b6714bdcdf250d5ae1fc0a51a6fb" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref125_rrh" level="series">
+            <did>
+               <unittitle>Printed Material Series, 1822-1961 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_aacd290bc3d6ee48f1e7f7244a36084e">
+               <head>Scope and Contents note</head>
+               <p>Chiefly booklets, including catalogues and other publications relating to schools
+                  family members attended; and those produced for Mason, Templar and Elk conventions
+                  and special events. Also included are publications about businesses and Durham
+                  city government, programs for commencements, recitals, memorial services,
+                  banquets, church services, meetings of the Up-to-Date Club and other special
+                  events; and reprints of articles and speeches given at a variety of locations in
+                  North Carolina and elsewhere. Also includes periodicals, flyers, invitations and
+                  calling cards, most of which were generated from the religious, fraternal, civic,
+                  social, political and intellectual organizations with which family members were
+                  associated. Arranged alphabetically by organization, type of material, and
+                  subject, and then chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref126_94s" level="file">
+               <did>
+                  <unittitle>Durham, N.C., 1906-1954, undated</unittitle>
+                  <container id="aspace_0ab4abc79d1216bd43bbddf8f444d49a" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_acc" level="file">
+               <did>
+                  <unittitle>Durham Churches, 1908-1926, undated</unittitle>
+                  <container id="aspace_d606f4125848806fd2c3bff6ba88d384" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_h5d" level="file">
+               <did>
+                  <unittitle>Equal Suffrage, 1910-1920, undated</unittitle>
+                  <physdesc id="aspace_adc0a514b714eff37576bedf3cdb7ef4"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_366e9e2a2ac62e24846070a7c5f133c1" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_ypa" level="file">
+               <did>
+                  <unittitle>Invitations, calling cards, etc., 1853-1921, undated</unittitle>
+                  <physdesc id="aspace_f6397ec1fbadee1696f31588001e409f"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b360bc64fe7d986a3dc8022efa1206a7" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_oie" level="file">
+               <did>
+                  <unittitle>Masons, Templars, Elks, 1860-1930, undated</unittitle>
+                  <physdesc id="aspace_d69da3d7cbe1951610a8f223af42b213"
+                     label="General Physical Description note">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b1913b5dbe620dcfb26560a376f96bab" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_jqf" level="file">
+               <did>
+                  <unittitle>Memorials, 1822-1924, undated</unittitle>
+                  <container id="aspace_803bd50bb14d42991ba7d7af69d46c15" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_k2j" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">North Carolina League of Women Voters
+                        Newsletter,</title> 1924-1929</unittitle>
+                  <container id="aspace_d900b275f296fbc6e9e970bd37b04b85" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_lms" level="file">
+               <did>
+                  <unittitle>Organizations, 1895-1929, undated</unittitle>
+                  <physdesc id="aspace_634918284ed275441f9cd3b6568be37a"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_6c635e634e6ddecaf0fafec54fb60816" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_n84" level="file">
+               <did>
+                  <unittitle>Programs, 1870s-1953, undated</unittitle>
+                  <physdesc id="aspace_8a660d1c76b07a3e663bc40609dc53f8"
+                     label="General Physical Description note">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1d46df565cfe530c68ed7f56f03750a0" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref140_927" level="file">
+               <did>
+                  <unittitle>Up-to-Date Club programs, 1896-1945</unittitle>
+                  <container id="aspace_3185bcc2875700f11949db7968db5247" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref141_91t" level="file">
+               <did>
+                  <unittitle>Washington and Lee University, 1905-19152 folders)</unittitle>
+                  <container id="aspace_118824966f5dca0253a1d85c47b0cf95" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref142_vzu" level="file">
+               <did>
+                  <unittitle>Women's Clubs, 1916-1927,undated</unittitle>
+                  <physdesc id="aspace_a3870e35b5a6ec98f1de2b075260d9cf"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_389cff21e88b3346b8463ccddc9ecee8" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_rhx" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1823-1899</unittitle>
+                  <container id="aspace_eec4eaa68f2559f45cad89407e74a8a7" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref145_1kz" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1900-19615 folders)</unittitle>
+                  <container id="aspace_794e6666ff916fadfcf08a8fc0667f9a" label="Mixed Materials"
+                     type="box">34</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_tfa" level="file">
+               <did>
+                  <unittitle>Miscellaneous, undated</unittitle>
+                  <physdesc id="aspace_56dfb4b3dd0ebe160e7465722ab76d8a"
+                     label="General Physical Description note">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9b809d6410f915cf9754025d5955f9b8" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref149_wd8" level="series">
+            <did>
+               <unittitle>Pictures Series, 1805-1940 and undated (bulk undated).</unittitle>
+            </did>
+            <scopecontent id="aspace_637c345b57852f134f2a9ba9a1ac1e58">
+               <head>Scope and Contents note</head>
+               <p>Chiefly photograph albums and loose photographs. Loose pictures are arranged
+                  alphabetically by last name of person when known and by subject. Albums are
+                  arranged chronologically if dated. Lantern slides are housed in a separate box
+                  following the loose pictures.</p>
+            </scopecontent>
+            <c02 id="aspace_ref150_pmp" level="file">
+               <did>
+                  <unittitle>Photograph albums, 1936, undated (2 vols.)</unittitle>
+                  <container id="aspace_26a495c91bc46069382562c9d17abe2c" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref151_jdc" level="file">
+               <did>
+                  <unittitle>Photograph albums, undated (2 vols.)</unittitle>
+                  <container id="aspace_fa80103b81c1902e20b3bace91083013" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_2hs" level="file">
+               <did>
+                  <unittitle>Photograph albums:</unittitle>
+                  <container id="aspace_650c93dd6da5a350bccca39f69c10934" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+               <c03 id="aspace_ref153_yxw" level="file">
+                  <did>
+                     <unittitle>undated (2 vols.)</unittitle>
+                     <container id="aspace_aff02ee54b7ddb9483e0af79d4b2beb1" label="Mixed Materials"
+                        type="box">37</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref154_xky" level="file">
+                  <did>
+                     <unittitle>fragments, undated (see oversize folder)</unittitle>
+                     <container id="aspace_f2392b6fcba17716854afc940c9e288e" label="Mixed Materials"
+                        type="box">37</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref155_81k" level="file">
+               <did>
+                  <unittitle>Durham, N.C.:</unittitle>
+                  <container id="aspace_e94d368e5f05effd0b1bf6a514e5058d" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+               <c03 id="aspace_ref156_kpg" level="file">
+                  <did>
+                     <unittitle>1883-1911, undated</unittitle>
+                     <container id="aspace_bc1a9d947b3ecb644ae9f911b348a6c7" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_o2s" level="file">
+                  <did>
+                     <unittitle>T.D. Jones residence on Chapel Hill St., undated</unittitle>
+                     <container id="aspace_8f77b2143ffd75b60aeabf2f78f1ec0f" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_sz9" level="file">
+                  <did>
+                     <unittitle>Underpass construction on Chapel Hill St., undated</unittitle>
+                     <container id="aspace_20df589ea596aa20f09fa51eaaa1c56c" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref159_cbp" level="file">
+               <did>
+                  <unittitle>Jones:</unittitle>
+               </did>
+               <c03 id="aspace_ref160_x9z" level="file">
+                  <did>
+                     <unittitle>Albert Lyell, undated</unittitle>
+                     <container id="aspace_3ecf29c25ee1f2344335635aae2cada5" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_i2w" level="file">
+                  <did>
+                     <unittitle>James Southgate [b. 1888], undated</unittitle>
+                     <container id="aspace_eebdb540afeaf7c6dbc8fd1106efa37d" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref162_zwh" level="file">
+                  <did>
+                     <unittitle>Mattie Southgate [ 1864-1936]</unittitle>
+                     <container id="aspace_79e57f971d99e65d29d57d44d574f1f5" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref163_r05" level="file">
+                  <did>
+                     <unittitle>Thomas Decatur [ 1852-1889], undated</unittitle>
+                     <container id="aspace_d7ce8080b6e94b8b9dc701dd9bfe2577" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref164_bcl" level="file">
+               <did>
+                  <unittitle>Simmons, Celestia Muse Southgate, undated</unittitle>
+                  <container id="aspace_ad9d1ef90fd7a955b6ca1629b3684b6e" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref165_uat" level="file">
+               <did>
+                  <unittitle>Southgate:</unittitle>
+               </did>
+               <c03 id="aspace_ref166_976" level="file">
+                  <did>
+                     <unittitle>Delia Haywood Wynne [ 1826-1888], undated</unittitle>
+                     <container id="aspace_7428f52e4d2d504a30bb5cecc8ed68d5" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref167_qkh" level="file">
+                  <did>
+                     <unittitle>James [ 1832-1914], undated</unittitle>
+                     <container id="aspace_a8f846b76aaf6298fe3e2f885f8346b1" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref168_cad" level="file">
+                  <did>
+                     <unittitle>James Haywood [ 1859-1916], undated</unittitle>
+                     <container id="aspace_3f64b635f1198c61b5d924955725a587" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref169_2zx" level="file">
+               <did>
+                  <unittitle>People, Identified, A-R, 1805-1900, undated</unittitle>
+                  <container id="aspace_a4d237c75844770f1f372c909e82c2d4" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref170_nl7" level="file">
+               <did>
+                  <unittitle>People, Identified, S-Z, 1885-1954, undated</unittitle>
+                  <container id="aspace_02ca53592240b95aef97b78498ff0b89" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref171_f61" level="file">
+               <did>
+                  <unittitle>People, Unidentified, 1890, undated</unittitle>
+                  <container id="aspace_e83e2239b33da7ddd8007efd4e03b2aa" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref172_vz2" level="file">
+               <did>
+                  <unittitle>Places, Miscellaneous, 1915-1940, undated</unittitle>
+                  <container id="aspace_6798eb6c3e1d99dce8856023f615f655" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref173_or7" level="file">
+               <did>
+                  <unittitle>Watercolors and sketches, Mattie Southgate Jones and Anonymous,
+                     undated</unittitle>
+                  <container id="aspace_b87e8a56678574df802fc960699bab89" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref174_3t7" level="file">
+               <did>
+                  <unittitle>Lantern slides, Durham, 191120 envelopes)</unittitle>
+                  <container id="aspace_2446f7f5da09b0765aa2c571433c5552" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref176_n36" level="series">
+            <did>
+               <unittitle>Oversize Material</unittitle>
+            </did>
+            <c02 id="aspace_ref177_jxp" level="subseries">
+               <did>
+                  <unittitle>Correspondence Series</unittitle>
+               </did>
+               <c03 id="aspace_ref178_gjf" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1794</unittitle>
+                     <container id="aspace_629ce5c9146f941cf06db9bc48885500" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref179_exb" level="subseries">
+               <did>
+                  <unittitle>North Carolina Joint Stock Land Bank of Durham Series</unittitle>
+               </did>
+               <c03 id="aspace_ref180_4vw" level="file">
+                  <did>
+                     <unittitle>Financial Papers, 1929-1933 and undated</unittitle>
+                     <container id="aspace_8e100ebebdf1e58ca3206e91bb769439" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_9iv" level="file">
+                  <did>
+                     <unittitle>Reports, 1929-1933 and undated</unittitle>
+                     <container id="aspace_7f932753f5e243afba8f47a29294dc37" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref182_xzm" level="subseries">
+               <did>
+                  <unittitle>Business Records Series</unittitle>
+               </did>
+               <c03 id="aspace_ref183_zst" level="file">
+                  <did>
+                     <unittitle>1873-1909 and undated</unittitle>
+                     <container id="aspace_285c07027501e45ceeb77a5e1f1a8530" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref184_v44" level="file">
+                  <did>
+                     <unittitle>Volumes</unittitle>
+                  </did>
+                  <c04 id="aspace_ref185_vcd" level="file">
+                     <did>
+                        <unittitle>Alphabetical:</unittitle>
+                     </did>
+                     <c05 id="aspace_ref186_10c" level="file">
+                        <did>
+                           <unittitle>Columbus Insurance and Banking Co., Abstract of policies,
+                              1879-1889.</unittitle>
+                           <container id="aspace_0cfb18676e1761ac98fe62ad9963e926"
+                              label="Mixed Materials" type="volume">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref187_qj3" level="file">
+                        <did>
+                           <unittitle>J. Southgate and Son, Letterbook, 1882-1883.</unittitle>
+                           <container id="aspace_fe1b83bbc8270fb7fe01034e47e63915"
+                              label="Mixed Materials" type="volume">2</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref188_vwi" level="file">
+                        <did>
+                           <unittitle>J. Southgate and Son, Record of payments,
+                              1887-1906.</unittitle>
+                           <container id="aspace_31e2b1b4bcc2dbd62a337d58d08d56d1"
+                              label="Mixed Materials" type="volume">3</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref189_673" level="file">
+                        <did>
+                           <unittitle>J. Southgate and Son, Policy Register, 1909-1914.</unittitle>
+                           <container id="aspace_fe656ec9e39ce203d84061956ac8b9f9"
+                              label="Mixed Materials" type="volume">4</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref190_72y" level="file">
+                        <did>
+                           <unittitle>J. Southgate and Son, Record of payments,
+                              1910-1913.</unittitle>
+                           <container id="aspace_fa3ae53bbf9748d7c25686ce60fd0e06"
+                              label="Mixed Materials" type="volume">5</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref191_etm" level="file">
+                        <did>
+                           <unittitle>J. Southgate and Son, Abstract of policies,
+                              1911-1914.</unittitle>
+                           <container id="aspace_6ea58edf1f322d491dcad0abde7a4d2e"
+                              label="Mixed Materials" type="volume">6</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref192_7m4" level="file">
+                        <did>
+                           <unittitle>J. Southgate and Son, Account book, 1911-1916.</unittitle>
+                           <container id="aspace_6e0d166015830330df31ecf0370fca0c"
+                              label="Mixed Materials" type="volume">7</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref193_41e" level="file">
+                        <did>
+                           <unittitle>J. Southgate and Son, Account book, 1911-1917.</unittitle>
+                           <container id="aspace_1a57177663df8d6951991989b7b5385a"
+                              label="Mixed Materials" type="volume">8</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref194_jr7" level="file">
+                        <did>
+                           <unittitle>New England Fire Insurance Co. of Providence, R.I., Policy
+                              Register, 1911-1912.</unittitle>
+                           <container id="aspace_02e1eec3a21a0011c26d487857eaf244"
+                              label="Mixed Materials" type="volume">9</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref195_ot2" level="file">
+                        <did>
+                           <unittitle>Southgate Jones and Co. Real Estate, Account book,
+                              1912-1914.</unittitle>
+                           <container id="aspace_30e6b3a879ef247a955816599a6ff09c"
+                              label="Mixed Materials" type="volume">10</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref196_rp3" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Scrapbook,
+                              1908.</unittitle>
+                           <container id="aspace_56a94419ec0d3cc32d3edeac3138d529"
+                              label="Mixed Materials" type="volume">11</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref197_5u3" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Record of payments,
+                              1908-1911.</unittitle>
+                           <container id="aspace_6a854a6eccdadfc3433d370dcb8dda6e"
+                              label="Mixed Materials" type="volume">12</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref198_96g" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Record of payments,
+                              1908-1912.</unittitle>
+                           <container id="aspace_858165a5c220447c78be36475d5cbfe3"
+                              label="Mixed Materials" type="volume">13</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref199_ofk" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Record of
+                              disbursements, 1908-1912.</unittitle>
+                           <container id="aspace_f722274c8d488a38b56af0cbfc037df5"
+                              label="Mixed Materials" type="volume">14</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref200_x6n" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Application
+                              register, 1909-1913.</unittitle>
+                           <container id="aspace_559bb223f98c94175468378c52f7cb30"
+                              label="Mixed Materials" type="volume">15</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref201_1fd" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Policy Register #1,
+                              1909-1911.</unittitle>
+                           <container id="aspace_0eb342e056282e5133776daccc1805cc"
+                              label="Mixed Materials" type="volume">16</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref202_c15" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Policy Register #2,
+                              1910-1911.</unittitle>
+                           <container id="aspace_4113033c3a49f6479febba7ac2508d0d"
+                              label="Mixed Materials" type="volume">17</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref203_97j" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Account book,
+                              1911.</unittitle>
+                           <container id="aspace_3402dc99e27e67d74bce571df8dbefb6"
+                              label="Mixed Materials" type="volume">18</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref204_hju" level="file">
+                        <did>
+                           <unittitle>Standard Mutual Life Insurance Co., Inc., Policy Register,
+                              undated</unittitle>
+                           <container id="aspace_8214b2c705330a02c81930052270b313"
+                              label="Mixed Materials" type="volume">19</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref205_01f" level="file">
+                        <did>
+                           <unittitle>Star Fire Insurance Co. of New York, Record of accounts and
+                              payments, 1882-1883.</unittitle>
+                           <container id="aspace_bf13a16835ba02e91a5a8cdfdab48363"
+                              label="Mixed Materials" type="volume">20</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref206_dr7" level="file">
+                     <did>
+                        <unittitle>Chronological:</unittitle>
+                     </did>
+                     <c05 id="aspace_ref207_tpo" level="file">
+                        <did>
+                           <unittitle>1887-1897, (Record of accounts and payments)</unittitle>
+                           <container id="aspace_007abfb03e110bc1a2ab2ea57e2b7dc8"
+                              label="Mixed Materials" type="volume">21</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref208_ro1" level="file">
+                        <did>
+                           <unittitle>1908-1910, (Policy Register)</unittitle>
+                           <container id="aspace_e92a1313c4574b27628d3ac2fa3ec93d"
+                              label="Mixed Materials" type="volume">22</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref209_m8r" level="file">
+                        <did>
+                           <unittitle>1908-1912, (Account books)</unittitle>
+                           <container id="aspace_c632f507e58a30f8b7e4ba77130f1921"
+                              label="Mixed Materials" type="volume">23-24</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref210_8n3" level="file">
+                        <did>
+                           <unittitle>1910-1911, (Promotion lists)</unittitle>
+                           <container id="aspace_7f84bfff5eceed6721c98ce15ed43cd5"
+                              label="Mixed Materials" type="volume">25</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref211_nx2" level="file">
+                        <did>
+                           <unittitle>1910-1912, (Orders for Byrd Knotters)</unittitle>
+                           <container id="aspace_c349eb17a77ebdeb6be6564a5f5bb58b"
+                              label="Mixed Materials" type="volume">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref212_46i" level="file">
+                        <did>
+                           <unittitle>1912-1915, (Account book)</unittitle>
+                           <container id="aspace_f1a177c5381a8349616dbee69dbb708d"
+                              label="Mixed Materials" type="volume">27</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref213_py7" level="file">
+                        <did>
+                           <unittitle>1912-1915, (Account book)</unittitle>
+                           <container id="aspace_56b0414ebaa137138ed6adf4e20cef4a"
+                              label="Mixed Materials" type="volume">28</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref214_sw1" level="file">
+                        <did>
+                           <unittitle>1914-1916, (Account book)</unittitle>
+                           <container id="aspace_67829f5c2e3d4413b85c13912ddb1ee3"
+                              label="Mixed Materials" type="volume">29</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref215_mo6" level="file">
+                        <did>
+                           <unittitle>1914-1917, (Account book)</unittitle>
+                           <container id="aspace_9dd1d2ef10a8d571e18cb2ad96b86653"
+                              label="Mixed Materials" type="volume">30</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref216_w3f" level="file">
+                        <did>
+                           <unittitle>undated, (Index of names)</unittitle>
+                           <container id="aspace_a038c96b64287525e3bd755333c6fc5e"
+                              label="Mixed Materials" type="volume">31</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref217_bxb" level="file">
+                        <did>
+                           <unittitle>undated, (Policy expirations)</unittitle>
+                           <container id="aspace_d2630ff47d047218af83e75f69150d93"
+                              label="Mixed Materials" type="volume">32</container>
+                        </did>
+                     </c05>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref218_sp6" level="subseries">
+               <did>
+                  <unittitle>Legal Papers Series</unittitle>
+               </did>
+               <c03 id="aspace_ref219_0ud" level="file">
+                  <did>
+                     <unittitle>1783-1951</unittitle>
+                     <container id="aspace_e89878e770381b42287a345519d4a10e" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref220_hjk" level="subseries">
+               <did>
+                  <unittitle>Financial Papers Series</unittitle>
+               </did>
+               <c03 id="aspace_ref221_tcv" level="file">
+                  <did>
+                     <unittitle>1863</unittitle>
+                     <container id="aspace_d127ebffb6f3e7c8736a25e7575caded" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref222_e3g" level="file">
+                  <did>
+                     <unittitle>Volume, personal finances, unidentified, 1901-1902</unittitle>
+                     <container id="aspace_d274eefa1abae2ee8f9a9ee1b251cb85" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref223_c3b" level="subseries">
+               <did>
+                  <unittitle>Genealogy Series</unittitle>
+               </did>
+               <c03 id="aspace_ref224_zp5" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <container id="aspace_e82f9c55522e20830cf491af4fd751e2" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref225_ey3" level="file">
+                  <did>
+                     <unittitle>1909-1927 and undated</unittitle>
+                     <container id="aspace_655d684231ae934736c0793bcd7dd6a7" label="Mixed Materials"
+                        type="oversize-folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref226_i1s" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <container id="aspace_f8c7901c8347e49e6c6c24c896fff4a3" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref227_kgi" level="subseries">
+               <did>
+                  <unittitle>Miscellaneous Series</unittitle>
+               </did>
+               <c03 id="aspace_ref228_d1b" level="file">
+                  <did>
+                     <unittitle>1921-1939 and undated</unittitle>
+                     <container id="aspace_4f61698e6589e2b57951795f1602a7cb" label="Mixed Materials"
+                        type="oversize-folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref229_qik" level="file">
+                  <did>
+                     <unittitle>1906-1918 and undated</unittitle>
+                     <container id="aspace_700793ba4056724cd735761a50df8443" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref230_0vu" level="subseries">
+               <did>
+                  <unittitle>Clippings Series</unittitle>
+               </did>
+               <c03 id="aspace_ref231_yuc" level="file">
+                  <did>
+                     <unittitle>Scrapbook, undated</unittitle>
+                     <container id="aspace_715f217cc911165db159037e7b433f54" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref232_c5t" level="file">
+                  <did>
+                     <unittitle>Scrapbook, 1922-1935 and undated</unittitle>
+                     <container id="aspace_e38f35a28142ad85185267ac4abef092" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref233_0kq" level="subseries">
+               <did>
+                  <unittitle>Printed Materials Series</unittitle>
+               </did>
+               <c03 id="aspace_ref234_64o" level="file">
+                  <did>
+                     <unittitle>1885-1940 and undated</unittitle>
+                     <container id="aspace_9cae6e139f01e7dd59e1979540469f7f" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref235_5y2" level="subseries">
+               <did>
+                  <unittitle>Pictures Series</unittitle>
+               </did>
+               <c03 id="aspace_ref236_360" level="file">
+                  <did>
+                     <unittitle>Photograph album fragments, 1908 and undated</unittitle>
+                     <container id="aspace_34c0ea2960b880f51634594defb9e89d" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref237_zlp" level="file">
+                  <did>
+                     <unittitle>Loose pictures, undated</unittitle>
+                     <container id="aspace_feb93a2488a5465ccbc417f05fa92d9d" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref238_m8e" level="series">
+            <did>
+               <unittitle>Accession (2009-0020), 1910s-1990s</unittitle>
+               <physdesc id="aspace_3accd555aba3149f3a0421fd5e9f3782"
+                  label="General Physical Description note">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_e6e9ee70d80590d74481496007d99826">
+               <head>Scope and Contents note</head>
+               <p>Addition (2009-0020) (1800 items; 4 lin. ft.; dated 1910s-1990s and no date)
+                  contains materials from the Southgate Jones Jr.'s involvement in the Durham
+                  revitalization project (1950s), the United Fund of Durham (1960s-1990s), and the
+                  family's ownership of a molybdenum mine in North Carolina (1950s-1970s). Also
+                  included are fire insurance records (organized by Durham street, 1960s-1970s),
+                  three large maps of the molybdenum mine area, and a scrapbook celebrating J.
+                  Southgate and Son Inc.'s 75th anniversary of business in 1947.</p>
+            </scopecontent>
+            <processinfo id="aspace_179148055e732c3b9358401881f68416">
+               <head>Processing Information note</head>
+               <p>Oversized panoramic photographs have been sent to the Preservation Department.</p>
+            </processinfo>
+            <c02 id="aspace_ref240_94g" level="file">
+               <did>
+                  <unittitle>United Fund of Durham materials</unittitle>
+                  <container id="aspace_594ebe6364ee0630eaa6fb2bd7925ea6" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref241_dar" level="file">
+               <did>
+                  <unittitle>Miscellaneous materials</unittitle>
+                  <container id="aspace_c4d503965684818e5c16deb4f8a0463a" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref242_adt" level="file">
+               <did>
+                  <unittitle>Molybdenum mine materials</unittitle>
+                  <container id="aspace_2269e3d7da1c5ccf02bfdc5a019e632e" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref243_hmn" level="file">
+               <did>
+                  <unittitle>J. Southgate and Son Inc. 75th Anniversary scrapbook, 1947</unittitle>
+                  <container id="aspace_0a33449927348e0e97715fb8ee7dba0d" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref244_pen" level="file">
+               <did>
+                  <unittitle>North Carolina Molybdenum Corporation Inc. 1943 metal seal</unittitle>
+                  <container id="aspace_280e438cbe1481e440cc7c49f734639b" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref245_3lh" level="file">
+               <did>
+                  <unittitle>Fire insurance catalog cards, A-E</unittitle>
+                  <container id="aspace_f766e20fe9da9fdba950dbb94d88de9e" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref246_5li" level="file">
+               <did>
+                  <unittitle>Fire insurance catalog cards, W. Main St.-Swift Ave.</unittitle>
+                  <container id="aspace_db8f2f3f37f7b3f1b28f006e77e43636" label="Mixed Materials"
+                     type="box">45</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref247_hcx" level="file">
+               <did>
+                  <unittitle>Molybdenum mine area maps (3)</unittitle>
+                  <container id="aspace_2ca9cbae992f87dae93e28fd41e92ddf" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref248_emt" level="file">
+               <did>
+                  <unittitle>Panoramic group photographs from the National Association of Insurance
+                     Agents conferences</unittitle>
+                  <container id="aspace_4efaec7ed5eece638b12d8ef9347e1ad" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+               <processinfo id="aspace_816aa61de014d5ca062712810aef2614">
+                  <head>Processing Information note</head>
+                  <p>March 2009: Materials have been removed for preservation.</p>
+               </processinfo>
+               <c03 id="aspace_ref249_zu8" level="file">
+                  <did>
+                     <unittitle>NAIA, Signal Mountain, Chattanooga, Tennessee, March 14-16, 1922.
+                        Photographer: McMayberry</unittitle>
+                     <container id="aspace_1291ae826dbb6852d3e9eaa020547e51" label="Mixed Materials"
+                        type="box">46</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref250_ggw" level="file">
+                  <did>
+                     <unittitle>NAIA, Boston, September 12, 1916</unittitle>
+                     <container id="aspace_265853997dbbb9e8714a2f72525ee223" label="Mixed Materials"
+                        type="box">46</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref251_98u" level="file">
+                  <did>
+                     <unittitle>NAIA, Mid-year conference, Mt. Vernon, Virginia, February 16, 1917.
+                        Photographer: Schultz</unittitle>
+                     <container id="aspace_590e63fc6cc162c9c53c17cbcf73bc64" label="Mixed Materials"
+                        type="box">46</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref252_mor" level="file">
+                  <did>
+                     <unittitle>NAIA, 20th Annual convention, Asheville, North Carolina, July 12,
+                        1917. Photographer: McCanless</unittitle>
+                     <container id="aspace_e841e4bfff1580ff5382dcf1741e818b" label="Mixed Materials"
+                        type="box">46</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref253_74q" level="file">
+                  <did>
+                     <unittitle>Unlabeled group photograph at a beach</unittitle>
+                     <container id="aspace_13b997f973a979dfef3c33fa1657e5f5" label="Mixed Materials"
+                        type="box">46</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref257_21s" level="series">
+            <did>
+               <unittitle>Accession (2010-0086), 1896-2008</unittitle>
+               <physdesc id="aspace_dc4e97a36e0c59c0a9a58deffa65e22a"
+                  label="General Physical Description note">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_1debc0acb793c71666818dbdaac93b57">
+               <head>Scope and Contents note</head>
+               <p>Accession (2010-0086) (5 items; 2.0 lin. ft.; dated 1896-2008) includes scrapbooks
+                  from the political and insurance career of James H. Southgate, dated 1896-1916;
+                  typed and handwritten versions of Southgate Jones' autobiography; and a spiral
+                  bound volume containing the autobiography of Southgate Jones Jr., dated 2008.</p>
+            </scopecontent>
+            <c02 id="aspace_ref259_ea2" level="file">
+               <did>
+                  <unittitle>Bound copy of Southgate Jones Jr.'s autobiography, <title
+                        render="doublequote">In the Presence of the Past,</title> 2008</unittitle>
+                  <container id="aspace_60691f60f67a2cb83e59aaab5c0940ef" label="Mixed Materials"
+                     type="box">47</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref260_lec" level="file">
+               <did>
+                  <unittitle>Typed and holograph copies of Southgate Jones' autobiography, date
+                     unknown</unittitle>
+                  <container id="aspace_b95935232d060f12e88a09af936a3e02" label="Mixed Materials"
+                     type="box">47</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref261_r9c" level="file">
+               <did>
+                  <unittitle>2 scrapbooks from the career of James H. Southgate,
+                     1896-1916</unittitle>
+                  <container id="aspace_d926ae588ade808a88b32d565a0028d5" label="Mixed Materials"
+                     type="box">47</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref263_vr1" level="series">
+            <did>
+               <unittitle>Accession (2011-0091), 1920-1950</unittitle>
+               <physdesc id="aspace_2f4b8baa1d962b09677ddcaa4bad9c51"
+                  label="General Physical Description note">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_512f64835352f477e65a3af9a1e47cb5">
+               <head>Scope and Contents note</head>
+               <p>Accession (2011-0091) (1 item, 0.2 lin. ft.; between 1920-1950) is a early- to
+                  mid-twentieth century cookbook owned by Mrs. Mattie Logan Southgate Jones,
+                  comprising handwritten recipes, many obtained from family members and friends.</p>
+            </scopecontent>
+            <c02 id="aspace_ref265_3wh" level="file">
+               <did>
+                  <unittitle>Cookbook pages</unittitle>
+                  <container id="aspace_9047274cccdbc2f6ac965944eea4ed07" label="Mixed Materials"
+                     type="box">48</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref266_4ur" level="file">
+               <did>
+                  <unittitle>Cookbook binder</unittitle>
+                  <container id="aspace_1949450f32c5faf410aa53641200fdfa" label="Mixed Materials"
+                     type="box">48</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

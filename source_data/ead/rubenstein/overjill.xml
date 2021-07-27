@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/overjill/">overjill</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Jill Over Papers, 1966-2011 <num>RL.00985</num>
+            </titleproper>
+            <author>Processed by: Meghan Lyon; machine-readable finding aid created by: Meghan
+               Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">004839907</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 05:40:04
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Jill Over papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Over, Jill</persname>
+         </origination>
+         <unitid>RL.00985</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">6.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1966/2011" type="inclusive">1966-2011</unitdate>
+         <physloc id="aspace_ff0c14b9e0c2f7eafd55308fca673352">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_f3fd1f3f98d72779c75bcc7f97381a36">Feminist and social activist:
+            involved in anti-war movement, abortion rights campaigns, youth and adolescent sex
+            education, and pro-democracy movements in Latin America and Africa. Collection includes
+            publications and research files related to human rights, social justice activism, and
+            peace in Latin America and the United States; as well as ephemera, pamphlets,
+            periodicals, and clippings related to youth liberation, sex education, reproductive
+            health, and feminism, especially during the 1970s and 1980s. Acquired as part of the
+            Sallie Bingham Center for Women's History and Culture and the Human Rights Archive (Duke
+            University).</abstract>
+         <physdesc id="aspace_e7d9d7bf9585ccc8a2698cdb3927783e">
+            <extent>3500 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_d39d3f8b114d52956c3b4d7fd06d7aca">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_db63ead24affb82ea172c7788569bee2">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_1bea199613c0394fb4ee0be25e235c0d">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_0e684413f5105c8c497417d6c5797492">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Jill Over Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_e4a0d7aef35aca30a60a94885f44d7e2">
+         <head>Provenance</head>
+         <p>The Jill Over Papers were received by the David M. Rubenstein Rare Book &amp; Manuscript
+            Library as a gift in 2011.</p>
+      </acqinfo>
+      <processinfo id="aspace_594e6191ad25b345d98b28e0c0aafa17">
+         <head>Processing Information</head>
+         <p>Processed by Meghan Lyon, March 2011</p>
+         <p>Encoded by Meghan Lyon, March 2011</p>
+         <p>Materials may not have been ordered and described beyond their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_0ee12a90f0654d5bbf4487f21828b383">
+         <head>Biographical Note</head>
+         <p>Jill Over (b. 1945, Dayton, Ohio) has been an activist and feminist since college.
+            Following her year at the University of Ghana and a two-month Study Seminar in ten
+            African countries in 1965-1966, she became an ardent supporter of African liberation
+            movements. In the 1970s in Connecticut, she was active in the anti-war (Vietnam),
+            women's rights, abortion rights, and anti-nuclear movements. In the pre-Roe vs. Wade
+            years, she worked with an underground movement for women seeking safe abortions. After
+            earning a graduate degree in social work at the University of Connecticut in 1976, she
+            moved to Durham, North Carolina, and worked in hospitals, women's clinics, social
+            services, and schools. Her activities as a school social worker included the development
+            of a human sexuality curriculum for elementary school children and a Drive-A-Teen
+            program for high school students. She also participated in community groups focused on
+            adolescent issues. In the 1980s, her activism centered on community-based groups in
+            support of self-determination for Nicaragua, El Salvador, Guatemala, and Honduras. As
+            the Chapter Coordinator of Physicians for Social Responsibility in the 1990s, a main
+            issue was the hazards of low-level radioactive waste.</p>
+      </bioghist>
+      <scopecontent id="aspace_b3d77a01a7e6cbb62ce8ab22ab60be42">
+         <head>Collection Overview</head>
+         <p>Collection includes publications and research files related to human rights, social
+            justice activism, and peace in Latin America and the United States; as well as ephemera,
+            pamphlets, periodicals, and clippings related to youth liberation, sex education,
+            reproductive health, and feminism, primarily dating from the 1970s and 1980s.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Feminism</subject>
+         <subject source="lcsh">Human Rights</subject>
+         <subject source="lcsh">Women's rights</subject>
+         <geogname source="lcsh">Latin America -- Human rights -- 20th century</geogname>
+         <subject source="lcsh">Social justice</subject>
+         <geogname source="lcsh">Latin America -- Peace</geogname>
+         <subject source="lcsh">Sex instruction -- United States</subject>
+         <subject source="lcsh">Abortion -- United States</subject>
+         <persname source="ingest">Over, Jill</persname>
+         <persname source="ingest">Over, Jill</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_ctf" level="series">
+            <did>
+               <unittitle>Subject and Research Files, 1966-2011</unittitle>
+               <physdesc id="aspace_66228d6b7783a6fc5495472c07552d57">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_5f03fb3cb3d8d36936afdb5ad7ac7402">
+               <head>Scope and Contents note</head>
+               <p>Collection includes publications and research files related to human rights,
+                  social justice activism, and peace in Latin America and USA; as well as ephemera,
+                  pamphlets, periodicals, and clippings related to youth liberation, sex education,
+                  reproductive health, and feminism, especially during the 1970s and 1980s.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_mb7" level="subseries">
+               <did>
+                  <unittitle>Latin America, 1974-1996</unittitle>
+                  <physdesc id="aspace_843e474c394e6f8fc84cc04e28151fb9">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+               </did>
+               <c03 id="aspace_ref16_5hd" level="subseries">
+                  <did>
+                     <unittitle>Periodicals and Books</unittitle>
+                  </did>
+                  <c04 id="aspace_ref17_x2a" level="file">
+                     <did>
+                        <unittitle>Report on Guatemala (NISGUA), 1983-1984</unittitle>
+                        <physdesc id="aspace_40a7b0b20a0fcf1bc9a2a4ed95cda52b">
+                           <extent>4 issues</extent>
+                        </physdesc>
+                        <container id="aspace_75c89519e4beebe230724fa691d21da5"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref19_ov2" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Guatemala</title> (NACLA), 1974</unittitle>
+                        <container id="aspace_c8af0491da4455d73b363f3b69b5a354"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref20_l96" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Honduras Update</title> (Honduras Information
+                           Center), 1983-1987</unittitle>
+                        <physdesc id="aspace_7777ab82f2f3929399feaaf64f8b6847">
+                           <extent>11 issues</extent>
+                        </physdesc>
+                        <container id="aspace_4705561534ee9e79e05b139ac1f6d32b"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref22_90m" level="file">
+                     <did>
+                        <unittitle>Hoyt, Katherine: <title render="italic">30 Years of Memories:
+                              Dictatorship, Revolution, and Nicaraguan Solidarity</title>
+                           (Nicaraguan Network Education Fund), 1996</unittitle>
+                        <container id="aspace_e4a0072151b1ae620027df46b9716e49"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref23_eup" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Nicaragua Network News</title>,
+                           1987-1988</unittitle>
+                        <physdesc id="aspace_c77ea66388ad1515580389079dd7c904">
+                           <extent>6 issues</extent>
+                        </physdesc>
+                        <container id="aspace_3d4122ef5cb7ee9141bc0776e1ff934a"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref25_htj" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Close-Up</title> (Coalition for a New Foreign
+                           Policy), 1986-1987</unittitle>
+                        <physdesc id="aspace_6a907d80ca744518f84dbd8811fc87fa">
+                           <extent>6 issues</extent>
+                        </physdesc>
+                        <container id="aspace_cac6d788d69d4a33529b01d87cf90f75"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref27_iz8" level="subseries">
+                  <did>
+                     <unittitle>Articles</unittitle>
+                  </did>
+                  <c04 id="aspace_ref28_m6b" level="file">
+                     <did>
+                        <unittitle>Central America articles, 1982-1986</unittitle>
+                        <container id="aspace_b007e2df22469823468095073a2f8f07"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref29_sbp" level="file">
+                     <did>
+                        <unittitle>El Salvador articles, 1980-1995</unittitle>
+                        <container id="aspace_a7e069c79420c851b461e6dfef6e79b2"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref30_k75" level="file">
+                     <did>
+                        <unittitle>Guatemala articles, 1980-1985</unittitle>
+                        <container id="aspace_ccf0f7eaca30a2cc6ff20e2a735f85ca"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref31_8eh" level="file">
+                     <did>
+                        <unittitle>Honduras articles, 1980-1985</unittitle>
+                        <container id="aspace_307bc206ce48d191e0f4f1f45a95d26a"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref32_bri" level="file">
+                     <did>
+                        <unittitle>Nicaragua articles, 1980-1995</unittitle>
+                        <physdesc id="aspace_655a7a9fc0652abceb3b0cdb7f9706bd">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_82593e7a744ec64a0a7a0a09a864267e"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref34_q38" level="file">
+                     <did>
+                        <unittitle>Veterans Peace Convoy to Nicaragua, 1986-1988</unittitle>
+                        <container id="aspace_f6fba0f813d3328f6ce4d27026953d51"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref35_0f5" level="file">
+                     <did>
+                        <unittitle>Various Publications about the Americas, 1983-1985</unittitle>
+                        <container id="aspace_fc55fda12f60ee733e819b2813a1ae70"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref36_dqu" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">ALERT</title> (CISPES, El Salvador),
+                           1983-1991</unittitle>
+                        <physdesc id="aspace_975242c5411e81107b03fb2251789287">
+                           <extent>20 issues</extent>
+                        </physdesc>
+                        <container id="aspace_c4a9d6ec222fc2fa682c0f652d3f9126"
+                           label="Mixed Materials" type="box">4</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref38_7ar" level="subseries">
+               <did>
+                  <unittitle>Social Justice, Peace and Human Rights, 1966-1995</unittitle>
+                  <physdesc id="aspace_94526ac6c0fbdb884be0682321867b86">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+               </did>
+               <c03 id="aspace_ref40_qq8" level="subseries">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Periodicals and Handbooks</emph>
+                     </unittitle>
+                  </did>
+                  <c04 id="aspace_ref41_ltd" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Science for the People</title>,
+                           1975-1989</unittitle>
+                        <physdesc id="aspace_2e009c8552c8cb3125b80c3831327e9b">
+                           <extent>48 issues</extent>
+                        </physdesc>
+                        <container id="aspace_5d4412264a83248da5610071a90713f6"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                     <c05 id="aspace_ref43_2kg" level="file">
+                        <did>
+                           <unittitle>1975 - v.7, 2 issues, July, November</unittitle>
+                           <container id="aspace_724ab4a373de044368a9eaed532f7e85"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref44_xbz" level="file">
+                        <did>
+                           <unittitle>1976 - v.8, 2 issues, Jan., September/October</unittitle>
+                           <container id="aspace_d4efa1104428a46dd6ce9769853082e6"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref45_dsg" level="file">
+                        <did>
+                           <unittitle>1977 - v.9, 2 issues, January/February, May/June</unittitle>
+                           <container id="aspace_1f4c4757b842d9ecdf76c5b917085e25"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref46_20w" level="file">
+                        <did>
+                           <unittitle>1978 - v.10, 3 issues, January/February, September/October,
+                              November/December</unittitle>
+                           <container id="aspace_b3123e174ec4c813fb70dbdd5b3e9b43"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref47_sbm" level="file">
+                        <did>
+                           <unittitle>1979 - v.11, all 6 issues</unittitle>
+                           <container id="aspace_350644d3d2224b85092c429f6aa237c3"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref48_0q0" level="file">
+                        <did>
+                           <unittitle>1980 - v.12, all 6 issues</unittitle>
+                           <container id="aspace_65bb383b8f80ba6c472a0832c039b88a"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref49_l3r" level="file">
+                        <did>
+                           <unittitle>1981 - v.13, 5 issues (missing September/October)</unittitle>
+                           <container id="aspace_ce88a036db18c00a8efa33d683f018b2"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref50_xl1" level="file">
+                        <did>
+                           <unittitle>1982 - v.14, all 6 issues</unittitle>
+                           <container id="aspace_a50d3354a7a38835e4c22cf4c595d7f3"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref51_6u1" level="file">
+                        <did>
+                           <unittitle>1983 - v.15, 4 issues (missing March/April,
+                              November/December)</unittitle>
+                           <container id="aspace_e082e4d942082a0d4ee9cd57e3b13921"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref52_ql7" level="file">
+                        <did>
+                           <unittitle>1984 - v.16, 5 issues (missing October/November)</unittitle>
+                           <container id="aspace_e11e8de997f7958ed88db7cbbbe18d45"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref53_h2y" level="file">
+                        <did>
+                           <unittitle>1985 - v.17, 4 issues (1 is double issue, missing
+                              October/November)</unittitle>
+                           <container id="aspace_05de2f745921b5f1db13d579cdfab8a7"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref54_3z3" level="file">
+                        <did>
+                           <unittitle>1986 - none</unittitle>
+                           <container id="aspace_7e39c5b13e32aeeb5dca3f5a2624bf2d"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref55_68u" level="file">
+                        <did>
+                           <unittitle>1987 - v.19, 1 issue, September/October</unittitle>
+                           <container id="aspace_7b16dc40a375bd6ce77f1a873b8b93d6"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref56_nt5" level="file">
+                        <did>
+                           <unittitle>1988 - none</unittitle>
+                           <container id="aspace_3991d17ae8068bd85d21c81ab679a609"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref57_n5p" level="file">
+                        <did>
+                           <unittitle>1989 - v.21, 1 issue, January/February</unittitle>
+                           <container id="aspace_08b7f82468ee2b22f96dcabeb6fbdd62"
+                              label="Mixed Materials" type="box">1</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref58_4gv" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Africa News</title>, 1977-1993 (15
+                           issues)</unittitle>
+                        <container id="aspace_e84d4fe4e50b6c96ea6e3acfae5b6406"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref59_1ny" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Convergence</title> and <title render="italic"
+                              >Contragate Alert</title> (The Christic Institute),
+                           1987-1992</unittitle>
+                        <container id="aspace_354f582f188533dd2e5ae6137dbc4de4"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref60_ie9" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">The New Democrat</title>, 1985-1986</unittitle>
+                        <physdesc id="aspace_6e6061b492b88bbfa66e42ea7a4a9bd2">
+                           <extent>2 issues</extent>
+                        </physdesc>
+                        <container id="aspace_f45f72567e6d4057ec5d9669228a3d0a"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref62_n9l" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">The Expert Red</title>, Handbook for American
+                           Revolutionaries, 1984-1985</unittitle>
+                        <physdesc id="aspace_591bb0ba9096b3b62bdb9db864f5d14e">
+                           <extent>3 issues</extent>
+                        </physdesc>
+                        <container id="aspace_3d083eb76c9683246b04af1b06c2fbdc"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref64_2s9" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">The People's Advocate</title> (Southern Justice
+                           Institute), 1990-1992</unittitle>
+                        <physdesc id="aspace_f739b9a5d97383cfbf04ae67234a0902">
+                           <extent>5 issues</extent>
+                        </physdesc>
+                        <container id="aspace_2f0aecd68515265976fc3228cdc00316"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref66_aju" level="file">
+                     <did>
+                        <unittitle>Miscellaneous Publications, 1975-1988</unittitle>
+                        <container id="aspace_e2bf57c917e59712b73d5112792f01c1"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref67_22g" level="subseries">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Individual Issues and Articles</emph>
+                     </unittitle>
+                  </did>
+                  <c04 id="aspace_ref68_wc4" level="file">
+                     <did>
+                        <unittitle>Africa news clippings, 1971-1974</unittitle>
+                        <container id="aspace_29af06a96ae2b9777a7cd64dedda342f"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref69_clt" level="file">
+                     <did>
+                        <unittitle>Africa News Service, 1977-1987</unittitle>
+                        <container id="aspace_4cd4aecd9094aabd8dbebdc1a1574fb3"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref70_rf8" level="file">
+                     <did>
+                        <unittitle>Bob Sheldon, death, 1991</unittitle>
+                        <container id="aspace_12908d99714601bb4bac9b36ed2cf63a"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref71_ywk" level="file">
+                     <did>
+                        <unittitle>Durham Action Committee for Central America (DACCA) and Durham
+                           Alliance in Solidarity with Central America (DASCA),
+                           1980-1990</unittitle>
+                        <container id="aspace_5a8bee8d6e93ef1a0fb6feb525ebcb9f"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref72_s9m" level="file">
+                     <did>
+                        <unittitle>General Electric boycott, 1992-1993</unittitle>
+                        <container id="aspace_919b580fc707275198c2fcfcbe52b52b"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref73_ifd" level="file">
+                     <did>
+                        <unittitle>Greensboro Massacre news clippings, 1979-1985</unittitle>
+                        <physdesc id="aspace_c6e00d8ee5ac5d986fc0dd49911ab057">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_04d386ebd58ac617e51a479df0134b2a"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref75_di7" level="file">
+                     <did>
+                        <unittitle>Greensboro Justice Fund and Greensboro Civil Rights Fund letters
+                           and newsletters, 1980-1985</unittitle>
+                        <container id="aspace_b5fcbbebfa5fb59d8100262c39bfc15c"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref76_aiy" level="file">
+                     <did>
+                        <unittitle>Articles, reports and commemorations, 1980-1985</unittitle>
+                        <container id="aspace_8d1e275836dd8d8c38d0dcbfc4bd7f89"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref77_9t1" level="file">
+                     <did>
+                        <unittitle>Karen Silkwood, 1980-1987</unittitle>
+                        <container id="aspace_54868b76e1ea1c8fbbf8576356ddc64c"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref78_k2c" level="file">
+                     <did>
+                        <unittitle>Ku Klux Klan, 1980-1993</unittitle>
+                        <container id="aspace_efc9d9ee4f2d2518cb70f5eb7ac29ab8"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref79_p6r" level="file">
+                     <did>
+                        <unittitle>Leonard Peltier, 1983-1985</unittitle>
+                        <container id="aspace_14a6919017480d6e04df931e725c2c26"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref80_n1q" level="file">
+                     <did>
+                        <unittitle>Medical Committee for Human Rights (MCHR) (Durham), 1977 and
+                           undated</unittitle>
+                        <container id="aspace_e90005136ceed622bcf633a5e91c4e5c"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref81_0e2" level="file">
+                     <did>
+                        <unittitle>North Carolina Federation for Progress, 1982</unittitle>
+                        <container id="aspace_8045bba7d007fa80e5d043b71eaef5a7"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref82_kh3" level="file">
+                     <did>
+                        <unittitle>Physicians for Social Responsibility (PSR), 1988-1993</unittitle>
+                        <container id="aspace_2801f9d6dcf91d14485af1ee05b0ddeb"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref83_8nx" level="file">
+                     <did>
+                        <unittitle>Rosenberg/Sobell case, 1983</unittitle>
+                        <container id="aspace_e924b27018f36f62c6824c1df5de8e2e"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref84_ct5" level="file">
+                     <did>
+                        <unittitle>Southern Africa, 1966-1972</unittitle>
+                        <container id="aspace_7793017cdd3c6633803350587829a73d"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref85_h24" level="file">
+                     <did>
+                        <unittitle>Unions at Duke University, 1979-1982</unittitle>
+                        <container id="aspace_868ce1794930999346329b6ec2ef2e57"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref86_iep" level="file">
+                     <did>
+                        <unittitle>Union of Concerned Scientists, 1980-1992</unittitle>
+                        <container id="aspace_2285bf67c3025b94c213b81eb8c12fd3"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref87_z4z" level="file">
+                     <did>
+                        <unittitle>War Resistor's League (WRL), 1977-1987</unittitle>
+                        <container id="aspace_4fc9e1a693e969253434ff5c0a89626e"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref88_066" level="file">
+                     <did>
+                        <unittitle>Whole Foods (Wellspring Grocery takeover), 1991</unittitle>
+                        <container id="aspace_75893c52e29586cd51e46519e4b56efb"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref89_1l1" level="file">
+                     <did>
+                        <unittitle>Yolanda Huet-Vaughn, 1991-1995</unittitle>
+                        <container id="aspace_c73d9108864d864be932a426cee40754"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref90_moe" level="subseries">
+               <did>
+                  <unittitle>Feminism, 1975-1996</unittitle>
+                  <physdesc id="aspace_fbfb0a3c8a7b4766d514e8d9c76128e0">
+                     <extent>1 box</extent>
+                  </physdesc>
+               </did>
+               <c03 id="aspace_ref92_4uv" level="file">
+                  <did>
+                     <unittitle>Article reprints</unittitle>
+                     <physdesc id="aspace_ef8bcc8c300f9fe5a2236ea136f2b252">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0e71b63f95ea3fcd2be2c9ca754e3230" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref94_jlz" level="file">
+                  <did>
+                     <unittitle>Clippings from various publications, 1980-1996</unittitle>
+                     <container id="aspace_7bcc724fc95e0d5d3039561c691d26ff" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref95_pk6" level="file">
+                  <did>
+                     <unittitle>Ephemera, 1980-1985</unittitle>
+                     <container id="aspace_063dd0b6e050b0917b0de793641d9392" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_5g0" level="file">
+                  <did>
+                     <unittitle>Pamphlets, 1975-1980</unittitle>
+                     <container id="aspace_c85abf040022c9e6891e963233fa9b8f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref97_2ov" level="file">
+                  <did>
+                     <unittitle>Periodical issues, 1979-1980</unittitle>
+                     <container id="aspace_08adaa2c79d33fd11761d000b0e8b52f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref98_0cr" level="file">
+                  <did>
+                     <unittitle>Women: Literature, books, archives, 1976-1992 (2
+                        folders)</unittitle>
+                     <container id="aspace_ede55545338c48f436ff9a5f2303aee3" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref99_zun" level="file">
+                  <did>
+                     <unittitle>Holly Near, Redwood Records, Cultural and Educational Fund,
+                        1979-1991</unittitle>
+                     <container id="aspace_75656804d6f8274a5112b53d35eb0ffe" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref100_qq1" level="subseries">
+               <did>
+                  <unittitle>Sex Education/Reproductive Health, 1968-2009</unittitle>
+                  <physdesc id="aspace_08ada2cb54bc0beb5feadb2afc08d63e">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+               </did>
+               <c03 id="aspace_ref102_k11" level="file">
+                  <did>
+                     <unittitle>Pamphlets, 1968-1980</unittitle>
+                     <physdesc id="aspace_8e5b857b4d9186c458a5250c6b257ab8">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_766101bfc7edc6b375741d9d12a139e6" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref104_1gw" level="file">
+                  <did>
+                     <unittitle>Teaching Materials, 1985-1987 and undated</unittitle>
+                     <physdesc id="aspace_52075603a1e02066acef88c09f274a02">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_fdfdcb9eb93419c63658374049590825" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref106_ogt" level="file">
+                  <did>
+                     <unittitle>Abortion, 1980-1994</unittitle>
+                     <container id="aspace_ca33a76e94564d2bc11772f441f7df50" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref107_do0" level="file">
+                  <did>
+                     <unittitle>Chamber of Commerce Ad Hoc Committee on Sexuality,
+                        1983-1984</unittitle>
+                     <container id="aspace_18c735fcce778b2ef71372c1fd033e28" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref108_ip8" level="file">
+                  <did>
+                     <unittitle>Women's Health: toxic shock, hormone RT, mammograms,
+                        1980-2009</unittitle>
+                     <container id="aspace_679e201fe13cdfb8c67d4de05264d872" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref109_98z" level="subseries">
+               <did>
+                  <unittitle>Youth Liberation, 1978-2011</unittitle>
+                  <physdesc id="aspace_b3e9f476e5452f31c3620f393b765705">
+                     <extent>1 box</extent>
+                  </physdesc>
+               </did>
+               <c03 id="aspace_ref111_po9" level="file">
+                  <did>
+                     <unittitle>Articles and Periodical Issues, 1981-1993</unittitle>
+                     <container id="aspace_2da65b8a9b9db236f3fa72c2e8fe50db" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref112_25v" level="file">
+                  <did>
+                     <unittitle>Pamphlets, 1978-1980</unittitle>
+                     <container id="aspace_aa5965737bfea85df1c581ed55c4f019" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref113_44v" level="file">
+                  <did>
+                     <unittitle>Publications about/for children, 1980-1986</unittitle>
+                     <container id="aspace_2292d9ccf803a63fcf72ac6c4c3baa69" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref114_bhh" level="file">
+                  <did>
+                     <unittitle>Publications about youth, adolescence, human growth,
+                        1981-2011</unittitle>
+                     <container id="aspace_a99969f41cc156bc92ad5e899df6b46c" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref115_ar7" level="subseries">
+               <did>
+                  <unittitle>Oversize Materials, undated</unittitle>
+                  <physdesc id="aspace_b941cd0e1f6a14122d29f9dfdfa97773">
+                     <extent>1 folder</extent>
+                  </physdesc>
+               </did>
+               <c03 id="aspace_ref117_qkr" level="file">
+                  <did>
+                     <unittitle>Free the Wilmington 10</unittitle>
+                     <container id="aspace_4260f6575478160288b9ff6654daa387" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref118_k09" level="file">
+                  <did>
+                     <unittitle>Comrade Jim Waller, Martyr, Central Committee Member, Communist
+                        Workers Party, USA</unittitle>
+                     <container id="aspace_d8064565880eb2de3d81f3954e71c923" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref119_l99" level="file">
+                  <did>
+                     <unittitle>Comrade Sandy Smith, Martyr, Communist Workers Party,
+                        USA</unittitle>
+                     <container id="aspace_1f68ed1aa36b2265d9a6675e7ead6f2c" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref120_9kj" level="file">
+                  <did>
+                     <unittitle>Comrade Michael Nathan, Martyr, Communist Workers Party,
+                        USA</unittitle>
+                     <container id="aspace_54451eca5a8df11404b0d4fb285fb241" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

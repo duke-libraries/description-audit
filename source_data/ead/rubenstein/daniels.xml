@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/daniels/">daniels</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Josephus Daniels Papers, 1904-1954 <num>RL.00287</num>
+            </titleproper>
+            <author>Processed by: Janie C. Morris; machine-readable finding aid created by: Stephen
+               Douglas Miller</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000784868</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 15:11:12
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Josephus Daniels papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Daniels, Josephus, 1904-1954</persname>
+         </origination>
+         <unitid>RL.00287</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">11.6 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1904/1954" type="inclusive">1904-1954</unitdate>
+         <physloc id="aspace_245dce37c8ac215c605d7da46c3c02fb">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_ea1249e469cf27e2566879d5cfb17b60">
+            <extent>22,300 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_8ba91b54d1c14ec93014bd30edc3da2d">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_d936297823138c2c486aafb93a84715a">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_c63b8ed23463566a047b438aed949d54">
+         <head>Use Restrictions</head>
+         <p>The status of the copyright interests in the papers of Josephus Daniels is unknown. For
+            further information, see the section on copyright in the Regulations and Procedures of
+            the Rubenstein Library.</p>
+      </userestrict>
+      <prefercite id="aspace_345099debfd52501e1f407899ef05553">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], The Papers of Josephus Daniels, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_a5ee4bc2f1f69b48c6c485fda54da2aa">
+         <head>Provenance</head>
+         <p>The papers of Josephus Daniels (1904-1954), Secretary of the Navy, Ambassador to Mexico,
+            and editor of the Raleigh News and Observer were acquired through purchase from 1954 to
+            1981.</p>
+      </acqinfo>
+      <processinfo id="aspace_dc6ec60d7952cd6e428d657a53abf556">
+         <head>Processing Information</head>
+         <p>Processed by: Janie C. Morris</p>
+         <p>Completed November 20, 1987</p>
+         <p>Encoded by Stephen Douglas Miller</p>
+      </processinfo>
+      <bioghist id="aspace_e94e0a69b3e4735bffb535e35ce0bdfb">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1862, May 18</date>
+               <eventgrp>
+                  <event>Born, Washington, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1880-1893 </date>
+               <eventgrp>
+                  <event>Edited newspapers in Wilson, Kinston, and Raleigh, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1885 </date>
+               <eventgrp>
+                  <event>Attended University of North Carolina summer law school; passed bar
+                     examination (never practiced)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1887-1893</date>
+               <eventgrp>
+                  <event>State printer for N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1888 </date>
+               <eventgrp>
+                  <event>Married Adelaide Worth Bagley</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1893-1895 </date>
+               <eventgrp>
+                  <event>Chief of Appointment Division, U.S. Department of the Interior, Washington,
+                     D.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1894-1913</date>
+               <eventgrp>
+                  <event>Editor, Raleigh (N.C.) News and Observer</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1896-1916</date>
+               <eventgrp>
+                  <event>Member of the Democratic National Committee from N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1898</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">The First Fallen Hero.
+                        a Biographical Sketch of Worth Bagley. Ensign, U.S.N.</title> (Norfolk, Va.,
+                     S. W. Bowman.)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1905</date>
+               <eventgrp>
+                  <event>Completed purchase of the controlling interest in the <title type="simple"
+                        render="italic">News and Observer</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1912</date>
+               <eventgrp>
+                  <event>Chief, Publicity Bureau, Woodrow Wilson campaign</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1913-1921</date>
+               <eventgrp>
+                  <event>U.S. Secretary of the Navy</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1919</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">The Navy and the
+                        Nation; War-Time Addresses</title> (New York, G. H. Doran Co.)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1921 - 1933</date>
+               <eventgrp>
+                  <event>Editor, <title type="simple" render="italic">News and Observer</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1922</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">Our Navy at War</title>
+                     (Washington, Pictorial Bureau.)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1924</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">The Life of Woodrow
+                        Wilson. 1856-1924</title> (Philadelphia, J. C. Winston Co.)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1933-1941</date>
+               <eventgrp>
+                  <event>U.S. Ambassador to Mexico</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1939</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">Tar Heel Editor</title>
+                     (Chapel Hill, University of North Carolina Press.), first volume of
+                     memoirs</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1941</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">Editor in
+                        Politics</title> (Chapel Hill, University of North Carolina Press.) second
+                     volume of memoirs</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1942-1948</date>
+               <eventgrp>
+                  <event>Editor, <title type="simple" render="italic">News and Observer</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1944</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">The Wilson Era: Years
+                        of Peace. 1910-1917</title> (Chapel Hill, University of North Carolina
+                     Press.)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1946</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">The Wilson Era: Years
+                        of War and After, 1917-1923</title> (Chapel Hill, University of North
+                     Carolina Press.)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1947</date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">Shirt-Sleeve
+                        Diplomat</title> (Chapel Hill, University of North Carolina Press.), third
+                     volume of memoirs</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1948, Jan. 15</date>
+               <eventgrp>
+                  <event>Died, Raleigh N.C.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_0f4b0e50b52b250042fadc5f343f7f42">
+         <head>Collection Overview</head>
+         <p>The papers of Josephus Daniels span the period 1904-1954. However, the bulk of the
+            material begins in 1913, while he was Secretary of the Navy in the Wilson
+            administration, and continues until 1942 just after he resigned as Ambassador to
+            Mexico.</p>
+         <p>The majority of the Daniels papers (approximately 330,000 items) are located in the
+            Manuscript Division of the Library of Congress. There are, therefore, gaps in Duke's
+            collection. For example, although the Letterbooks, Telegrams, and Pressbooks series
+            cover the period 1913-1921, when Daniels was Secretary of the Navy, there are many
+            months which are not represented in the collection.</p>
+         <p>The correspondence series covers the period 1917-1951, but primarily dates from 1929 to
+            1942. It includes personal and business correspondence on a variety of topics. Several
+            letters are from the period when Daniels was U.S. Ambassador to Mexico and relate to
+            claims negotiations between the United States and Mexico. Most of the correspondence
+            from this period, however, relates to Daniels' resignation as ambassador (1942 Jan. 20),
+            with many letters expressing regret at his decision. One such letter (1941 Oct. 31) is
+            from President Roosevelt. There are also a few scattered notes from Eleanor Roosevelt
+            indicating the warm relationship the Daniels family had with the Roosevelts.</p>
+         <p>Other correspondence concerns the management of the News and Observer and reflects
+            Daniels' political views and civic interests. It also includes correspondence relating
+            to his assistance in securing military commissions, the naming of ships, and other
+            causes. Both the Correspondence and Clippings series contain information about a 1942
+            editorial in which Daniels condemned the military policy whereby privates were not
+            allowed to date nurses, who were commissioned as second lieutenants. Several people
+            wrote to Daniels applauding this viewpoint.</p>
+         <p>Also of note are a few letters (1924) from Atlee Pomerene, special counsel for the
+            government, during the period he was investigating major figures in the Teapot Dome oil
+            scandal. There are also many tributes in 1947 paid to Daniels upon his 85th birthday,
+            including a telegram from Harry S Truman, and letters of condolence upon the death of
+            his mother and wife.</p>
+         <p>Daniels' correspondents, in addition to those mentioned above, include a wide range of
+            public and elected officials including governors, congressmen, cabinet members, and
+            newspaper editors.</p>
+         <p>The Letterbooks (34 volumes), Telegrams (2 volumes) and Pressbooks (4 volumes) comprise
+            the bulk of the collection (ca. 17,000 items) and cover the period when Daniels was U.S.
+            Secretary of the Navy. Many are official communications stemming from his position, but
+            there are a few personal letters as well. Most of the communiques relate to naval
+            policies, procedures, personnel, and practices. Included are letters relating to Naval
+            Academy appointments, Civil Service jurisdiction, the commissioning and naming of ships,
+            and various naval ceremonial occasions.</p>
+         <p>Correspondents routinely include President Wilson, his secretary Joseph P. Tumulty,
+            cabinet members, congressmen, and naval officers. Many letters written to the White
+            House and to congressmen concern specific individuals and their requests for naval
+            promotions, commissions, or recommendations for the Naval Academy.</p>
+         <p>The earliest material in this series concerns events surrounding the American occupation
+            of Veracruz, Mexico in 1914, including lists of the dead and wounded, as well as
+            information regarding ship movements. Speeches and excerpts from Daniels' speeches are
+            also found in some of the press volumes.</p>
+         <p>Issues reflected in Daniels' correspondence while U.S. Secretary of the Navy include
+            general strengthening of the Navy, particularly on the West Coast; a dispute (1916-1917)
+            regarding the Armor Plate Board and the building of naval vessels at navy yards; naval
+            oil reserves (including a letter of 1917 June 29 to Edward Doheny); Daniels' general
+            concern with the moral welfare of sailors and soldiers as reflected in his efforts to
+            have liquor sales and brothels forbidden in places where men were training for naval
+            service; and a dispute in 1917 with the Navy League regarding the commandant of the Mare
+            Island Navy Yard.</p>
+         <p>Personal letters relate primarily to Daniels' active involvement in the Democratic Party
+            and the management of the <title type="simple" render="italic">News and
+               Observer.</title> Daniels served as publicity chair for the campaigns of both William
+            Jennings Bryan and Woodrow Wilson. There are numerous letters and telegrams referring to
+            the presidential campaign of 1916 and an analysis by Daniels of why the Democrats lost
+            the 1920 presidential election.</p>
+         <p>Letters near the end of his tenure as Secretary of the Navy indicate that Daniels would
+            assume more responsibility for the newspaper once he was back in Raleigh. In early 1921,
+            he began to solicit information from naval officers primarily regarding their view of
+            how the Navy functioned in various areas during World War I. He wrote that he was
+            planning to write a series of articles for the National Newspaper Service of Chicago
+            about the Navy's efforts during the war. Among the people to whom Daniels wrote
+            frequently were Secretary of War Newton D. Baker and Senator Benjamin R. Tillman of
+            South Carolina.</p>
+         <p>The Speeches, Writings, and Related Material, Topical Series, Clippings, Miscellany, and
+            Photograph Series comprise the remainder of the collection.</p>
+         <p>The "Mexico" subseries in the Topical Series contains information about the relationship
+            between the United States and Mexico on a number of issues, including the petroleum
+            industry, commerce, and a "Memorandum for the Ambassador" outlining steps that may have
+            been taken by the United States government during the early months of 1917 to determine
+            where Mexico would stand in the event the United States entered World War I. Information
+            for this memorandum was taken from Embassy archives and is undated. There are also some
+            papers in this series relating to his tenure on the Board of Trustees Executive
+            Committee at the University of North Carolina at Chapel Hill.</p>
+         <p>The Photograph Series contains: views of Mexico; pictures of Daniels; Lee Slater
+            Overman, Senator from N. C., 1903-1933; Major General Smedley Darlington Butler; Martin
+            H. Glynn, Gov. of New York; and other unidentified persons.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">Mexico -- Foreign relations -- United States</geogname>
+         <geogname source="lcsh">United States -- Foreign relations -- Mexico</geogname>
+         <subject source="lcsh">Teapot Dome Scandal, 1921-1924</subject>
+         <subject source="lcsh">Petroleum -- United States -- Reserves</subject>
+         <geogname source="lcsh">Veracruz Llave (Mexico) -- History -- American occupation,
+            1914</geogname>
+         <subject source="lcsh">Navy-yards and naval stations -- United States</subject>
+         <subject source="lcsh">Shipbuilding -- United States</subject>
+         <persname rules="dacs" source="naf">Wilson, Woodrow</persname>
+         <persname source="ingest">Tillman, Benjamin R. (Benjamin Ryan), 1847-1918</persname>
+         <corpname source="ingest">United States. Navy</corpname>
+         <persname source="ingest">Tumulty, Joseph Patrick, 1879-1954</persname>
+         <corpname source="ingest">United States. Navy -- Appointments and retirements</corpname>
+         <corpname source="ingest">United States Naval Academy</corpname>
+         <corpname source="ingest">United States. Navy -- Military life</corpname>
+         <corpname source="ingest">United States. Navy -- Equipment</corpname>
+         <corpname source="ingest">United States. Navy -- Weapons systems</corpname>
+         <corpname source="ingest">United States. Navy -- Recruiting, enlistment, etc.</corpname>
+         <persname source="ingest">Baker, Newton D. (Newton Diehl), 1871-1937</persname>
+         <persname source="ingest">Daniels, Josephus, 1904-1954</persname>
+         <persname source="ingest">Daniels, Josephus, 1904-1954</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_m39" level="series">
+            <did>
+               <unittitle>Correspondence, 1917-1951 bulk 1929-1942</unittitle>
+            </did>
+            <scopecontent id="aspace_f226949c65db728e2bdbe470f8de0737">
+               <head>Scope and Contents note</head>
+               <p>Business and personal correspondence on a variety of topics and issues including
+                  naval policies, appointments and commissions, requests for assistance, speaking
+                  engagements, his period as U.S. Ambassador to Mexico, management of the News and
+                  Observer, civic and political involvements, and condolences after the deaths of
+                  his mother and wife. Arranged chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref13_e5g" level="file">
+               <did>
+                  <unittitle>1917, Aug. 2-1929, Oct. 3-10</unittitle>
+                  <physdesc id="aspace_6b7c83074a8f165edef88fdae75474ba">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_08b6c4d0924dc0173b916d5a6ec02634" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_x65" level="file">
+               <did>
+                  <unittitle>1929, Oct. 11-1941, Oct. 22</unittitle>
+                  <physdesc id="aspace_35abafe420cefd773152cf778e5f8ab0">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_24089a12e2975aa8789a83253f43aa59" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_8sf" level="file">
+               <did>
+                  <unittitle>1941, Oct. 23-Nov. 27</unittitle>
+                  <physdesc id="aspace_aba6c79ad64e785ce3026eb1e7e19d62">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2745b69b82bad4f26155142dfef29913" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_khc" level="file">
+               <did>
+                  <unittitle>1941, Nov. 28-Dec. 31</unittitle>
+                  <physdesc id="aspace_e5e2e7b34d52772c4928211b93a12e32">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_cfbb13c2243791fcd0333adea28ee2a6" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_idf" level="file">
+               <did>
+                  <unittitle>1942, Jan. 1-Apr. 10</unittitle>
+                  <physdesc id="aspace_b29c5675daad4848283b7f5be609e88f">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_757f6a4b48f3abbf1628cc1e8839a5f7" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_fig" level="file">
+               <did>
+                  <unittitle>1942, Apr. 11-1945, May 17</unittitle>
+                  <physdesc id="aspace_b2d66039b956de4734599adf6704d671">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1bb734a6a4553d937e884f6577a124f3" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_vxd" level="file">
+               <did>
+                  <unittitle>1945, May 18-1951, June 5 and undated</unittitle>
+                  <physdesc id="aspace_5d23054e060c205b32834d646721918d">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d583da408829ad23644d6bbfc84e91b7" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref28_uf3" level="series">
+            <did>
+               <unittitle>Letterbooks, 1915-1921; Telegrams, 1916-1920; Pressbooks,
+                  1913-1918.</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">40 Volumes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_9543ea98bd197c140a7fc6247675862c">
+               <head>Scope and Contents note</head>
+               <p>Chiefly official communications maintained while Daniels was U.S. Secretary of the
+                  Navy, relating to naval policies, procedures, personnel, and appropriations. The
+                  period covered includes the period of unrest in Mexico which resulted in the
+                  United States occupation of Veracruz in 1914and portions of World War I. Persons
+                  Daniels corresponded with include President Wilson, members of the White House
+                  staff, naval officers, cabinet members, and congressmen. Also includes a few items
+                  of personal correspondence. An alphabetical list of correspondents appears in
+                  front of each volume with the exception of the pressbooks. Sometimes entries are
+                  indexed by the office the person held (such as Attorney General), rather than
+                  under the person's name. Pressbooks contain primarily press notices. Arranged
+                  chiefly chronologically within each volume.</p>
+            </scopecontent>
+            <c02 id="aspace_ref30_g6z" level="subseries">
+               <did>
+                  <unittitle>Letterbooks</unittitle>
+               </did>
+               <c03 id="aspace_ref31_gcm" level="file">
+                  <did>
+                     <unittitle>1915, July 31-Oct. 26</unittitle>
+                     <physdesc id="aspace_8982b409160a76eebd2e2d5f40615743">
+                        <extent>3 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_b0714688eff873b675e4310cd7fbf6cd" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref33_j2y" level="file">
+                  <did>
+                     <unittitle>1915, Oct. 16-1916, Jan. 7</unittitle>
+                     <physdesc id="aspace_0c666f4534a3bf68cdce2953419ee450">
+                        <extent>3 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_6019afea95bcb66c040a270cff1aa77b" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref35_69h" level="file">
+                  <did>
+                     <unittitle>1916, Jan . 6-Mar. 29</unittitle>
+                     <physdesc id="aspace_59d48903622c7b417e72b902c0951510">
+                        <extent>3 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_4e5157b82c1e44908f2f936519b99508" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_s0m" level="file">
+                  <did>
+                     <unittitle>1916, June 1-Sept. 21</unittitle>
+                     <physdesc id="aspace_30c1dab0cfc42235a7b723b94c8fe915">
+                        <extent>3 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_bb54a87e01978fedaef392fd691e697b" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_9mj" level="file">
+                  <did>
+                     <unittitle>1916, Sept. 21-1917, Jan. 19</unittitle>
+                     <physdesc id="aspace_049b0f8a41c75e9c7811700fd09c54ca">
+                        <extent>3 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_14076a16c66db16a6dd4d72c242b7464" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_cte" level="file">
+                  <did>
+                     <unittitle>1917, Jan. 19-Mar. 14</unittitle>
+                     <physdesc id="aspace_2310ca169a953b5b5e2a9782bd6388bb">
+                        <extent>2 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_519f463fadd39cdc49dd112c2f700d44" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_ua9" level="file">
+                  <did>
+                     <unittitle>1917, Mar. 14-May 9</unittitle>
+                     <physdesc id="aspace_a548e99556f136492522b4344b675e6c">
+                        <extent>3 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_1ceb5f95f8fcbb07b21de0a4c9908b4b" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_by3" level="file">
+                  <did>
+                     <unittitle>1917, May 24-June 29</unittitle>
+                     <physdesc id="aspace_d6d8dc3be8de1a969acd8098b4a3a003">
+                        <extent>2 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_e1a2949576d339d4b56faf17a37e3f9b" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_8ic" level="file">
+                  <did>
+                     <unittitle>1917, June 29-July 31</unittitle>
+                     <physdesc id="aspace_b14ff9de88efd7d7f494c491bedd4c9f">
+                        <extent>2 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_fd8ecb34dd412e2a0d4f342119c253fc" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_tnc" level="file">
+                  <did>
+                     <unittitle>1917, July 31-Aug. 21</unittitle>
+                     <physdesc id="aspace_5ca90532135bb7b15abc6c97a02998f6">
+                        <extent>2 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_381613867f0e2a2059fa94e98e7a3e08" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_yev" level="file">
+                  <did>
+                     <unittitle>1917, Aug. 22-1920, June 4</unittitle>
+                     <physdesc id="aspace_7ba0893d73356be6b0141e87223f150f">
+                        <extent>3 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_b707fd570a491320e958ac2ddd6604e6" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_p0v" level="file">
+                  <did>
+                     <unittitle>1920, June 4-Sept. 22</unittitle>
+                     <physdesc id="aspace_05633952ff63ab37104264b1ff4fd7db">
+                        <extent>2 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_7a201f112cf29def1b292420ab56ebfa" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref55_hl3" level="file">
+                  <did>
+                     <unittitle>1920, Sept. 22-1921, Feb. 23</unittitle>
+                     <physdesc id="aspace_7219d4323a645a3d3f498d579c6f883d">
+                        <extent>3 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_824b0fec7943cb417f772c63f2ecbf7e" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref57_x5c" level="subseries">
+               <did>
+                  <unittitle>Telegrams</unittitle>
+               </did>
+               <c03 id="aspace_ref58_alg" level="file">
+                  <did>
+                     <unittitle>1916, July 22-1920, Nov. 1</unittitle>
+                     <physdesc id="aspace_3dee7c176e76529df53c83c842717b9d">
+                        <extent>2 volumes</extent>
+                     </physdesc>
+                     <container id="aspace_35b5cbaff961d889292371107d3a277f" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref60_wxb" level="subseries">
+               <did>
+                  <unittitle>Pressbooks</unittitle>
+               </did>
+               <c03 id="aspace_ref61_0n7" level="file">
+                  <did>
+                     <unittitle>1913, Mar. 6-1914, Jan. 6</unittitle>
+                     <container id="aspace_fa08bbde62c03a70983b2ddf4f569c4a" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_mj5" level="file">
+                  <did>
+                     <unittitle>1914, Jan. 5-May 22</unittitle>
+                     <container id="aspace_0c1b5f4a2cd9da4691b75d16969aec67" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_zcu" level="file">
+                  <did>
+                     <unittitle>1914, May 22-Dec. 19</unittitle>
+                     <container id="aspace_dfceeaa2aed9c7c3c56e3302f03fa224" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_zj5" level="file">
+                  <did>
+                     <unittitle>1916, Jan. 11-1918, June 6</unittitle>
+                     <container id="aspace_12c97fa6c7138c147648980461b9dd84" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref66_8l6" level="series">
+            <did>
+               <unittitle>Speeches, Writings, Related Materials, 1919-1946</unittitle>
+            </did>
+            <scopecontent id="aspace_2404355db1def582b5429ccf16e18d78">
+               <head>Scope and Contents note</head>
+               <p>Primarily speeches and extracts from speeches delivered while Daniels was
+                  Secretary of the Navy. Includes talks given to troops who fought in World War I,
+                  numerous naval functions, college commencements, political events, speeches
+                  honoring individuals, and numerous other occasions. Also speeches by other
+                  individuals, some of them honoring Daniels and fragments of speeches by
+                  unidentified persons. Arranged chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref67_n6j" level="file">
+               <did>
+                  <unittitle>1919, Mar.-Dec.</unittitle>
+                  <physdesc id="aspace_dc9037a2591cd7bb1c4b206a7cc80d0c">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_24966b96aabaf4e72ab528f0136204f6" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_xdb" level="file">
+               <did>
+                  <unittitle>1920-1946</unittitle>
+                  <physdesc id="aspace_c7eaa7bf518118c4a270d5cc3686e1d7">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4ac1d6d30e287b96b9adc039fe9d3ad7" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_i5w" level="file">
+               <did>
+                  <unittitle>Undated and Miscellany</unittitle>
+                  <physdesc id="aspace_184d8b0d466d4a2b8a3ff48685208e6d">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_bc3df2b0a5ff6d17b9ac0764ed060ca5" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_ijf" level="file">
+               <did>
+                  <unittitle>Various speakers, 1919-1944 and Undated</unittitle>
+                  <container id="aspace_6b1ae113b3bc91812c364992dba28082" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_zsl" level="file">
+               <did>
+                  <unittitle>Unidentified Speakers, 1933-1946 and undated</unittitle>
+                  <container id="aspace_885a006757c333207d16e13482900721" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref76_0vk" level="series">
+            <did>
+               <unittitle>Topical Series,1914-1945 and undated.</unittitle>
+            </did>
+            <arrangement id="aspace_2dd2b426516c1ad9fb66e5395a1b9d1f">
+               <head>Arrangement note</head>
+               <p>This series is divided into three subseries, the Navy, Mexico, and the University
+                  of North Carolina at Chapel Hill. Papers are arranged chronologically within each
+                  topic.</p>
+            </arrangement>
+            <c02 id="aspace_ref77_4ob" level="file">
+               <did>
+                  <unittitle>Navy, 1914-1945 and undated</unittitle>
+                  <physdesc id="aspace_a9cad695419e94363b4c6d121bcae91f">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_bf0d8000008bf2f0dc3386f672753964" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+               <scopecontent id="aspace_6349bc5fc725339fab4673a8adb10572">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly relates to the leasing of naval oil lands, including printed
+                     information about the investigation by Senator Thomas J. Walsh, that led to the
+                     uncovering of the Teapot Dome oil scandal. Also plans of the day on board the
+                     U.S.S. Rushmore for Nov. 1944-June 1945. It is unclear how these plans relate
+                     to Daniels, but may be records of one of his sons who served in the Marine
+                     Corps during World War II.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref80_tmr" level="file">
+               <did>
+                  <unittitle>Mexico, 1935-1941 and undated</unittitle>
+                  <container id="aspace_6dfba406c35a1ef9d7230add16c71a23" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+               <scopecontent id="aspace_1f6908df2c71af8c16e560049b4ed039">
+                  <head>Scope and Contents note</head>
+                  <p>Consists of memorandums regarding relations between Mexico and the United
+                     States on a number of issues, a list of American ambassadors to Mexico from
+                     1899 to Daniels' tenure, and other miscellany items.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref82_bkl" level="file">
+               <did>
+                  <unittitle>University of North Carolina at Chapel Hill, 1940-1946 Apr.</unittitle>
+                  <container id="aspace_e22bed3d85da6bfc00a306bb20984b93" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_v87" level="file">
+               <did>
+                  <unittitle>University of North Carolina at Chapel Hill, 1946, May-1954 and
+                     undated</unittitle>
+                  <container id="aspace_fb839f790f84dc92ed8f09a8a5447d3d" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+               <scopecontent id="aspace_bb2ea6f9523026c4320800246d404dc0">
+                  <head>Scope and Contents note</head>
+                  <p>Includes Board of Trustee Executive Committee minutes, correspondence, reports,
+                     printed material, and other papers related to the university during Daniels'
+                     membership on the Board of Trustees.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref86_s5n" level="series">
+            <did>
+               <unittitle>Clippings</unittitle>
+               <physdesc id="aspace_34d26d29f618e19c8755ecccc36bc9fa">
+                  <extent>2 folders</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_d77918d0ac467cf7df989539b0ac847e">
+               <head>Scope and Contents note</head>
+               <p>Includes reviews of his works <title type="simple" render="italic">The Wilson Era:
+                     Years of Peace, <date calendar="gregorian" era="ce">1910-1917,</date>
+                  </title> (1944) and <title type="simple" render="italic">The Wilson Era: Years of
+                     War and After. <date calendar="gregorian" era="ce">1917-1923,</date>
+                  </title> (1946) and articles about various speeches he made. Others date from the
+                  period when Daniels was Secretary of the Navy and Ambassador to Mexico (a few from
+                  Spanish newspapers). Also some written upon Daniels' return to Raleigh to edit the
+                  News and Observer and the occasion of his 85th birthday.</p>
+            </scopecontent>
+            <c02 id="aspace_ref88_xf3" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <container id="aspace_18ea12e1556df5f5facce28cfce20537" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref90_a3a" level="series">
+            <did>
+               <unittitle>Miscellany, 1904-1947 and undated</unittitle>
+               <physdesc id="aspace_a41c98f4a440a5fa9db80ce8c6bb68c7">
+                  <extent>2 folders</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_112b524347fa3b4ab74612992aa869d0">
+               <head>Scope and Contents note</head>
+               <p>Papers relating to North Carolina Home-Coming Week (Oct. 14-19, 1929 ) of which
+                  Daniels was Vice-Chair, book reviews of <title type="simple" render="italic">The
+                     Wilson Era: Years of Peace, <date calendar="gregorian" era="ce"
+                        >1910-1917</date>
+                  </title> and <title type="simple" render="italic">The Wilson Era: Years of War and
+                     After, <date calendar="gregorian" era="ce">1917-1923,</date>
+                  </title> a report on the Battle of Munroe Farm, now called Battlefield Farm, near
+                  Fort Bragg, N.C., and other miscellaneous papers. Arranged chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref92_3kx" level="file">
+               <did>
+                  <unittitle>Miscellany</unittitle>
+                  <container id="aspace_61b8c9a3ce76c3dee58f6ca6c07a7ef6" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref94_h76" level="series">
+            <did>
+               <unittitle>Photographs, 1933 and undated</unittitle>
+               <physdesc id="aspace_090435fafd0ccf883402e7abef7a4ff6">
+                  <extent>2 folders</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_63218811bc2a12536093bc70ba9bea34">
+               <head>Scope and Contents note</head>
+               <p>Includes views of Mexico, photographs of Daniels, and other political and military
+                  figures, and several unidentified persons.</p>
+            </scopecontent>
+            <c02 id="aspace_ref96_3qt" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <container id="aspace_7462908f5f9313209c5804b6a5e7a552" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

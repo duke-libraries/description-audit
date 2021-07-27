@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/claycc/">claycc</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the C. C. Clay Papers, 1811-1925 <num>RL.00230</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library Staff; machine-readable finding aid created by:
+               Noah Huffman</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000851132</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 14:38:47
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>C. C. Clay papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Clay, C. C. (Clement Claiborne), 1816-1882</persname>
+         </origination>
+         <unitid>RL.00230</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">20 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1811/1925" type="inclusive">1811-1925</unitdate>
+         <physloc id="aspace_9063c38f1e8984f4272940c999c93034">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_7a002902b4cd06deba67b2c0146194d7">Clement Claiborne Clay (1816-1882)
+            was a lawyer, U. S. Senator, Confederate diplomat, and planter from Huntsville, Madison
+            County, Alabama. He was married to Virginia Carolina (Tunstall) Clay (1825-1915). His
+            father, Clement Comer Clay (1789-1866) was a U.S. Congressman and Governor of Alabama.
+            Collection includes personal, business, and political correspondence, accounts, diaries,
+            memoranda, college notes, scrapbooks, and clippings of Clement Claiborne Clay, and of
+            his father, Clement Comer Clay; his mother, Susanna Claiborne Withers Clay; his wife,
+            Virginia Caroline Tunstall Clay; and brothers, Hugh Lawson Clay and John Withers Clay.
+            Letters deal with family matters, including Alabama and Washington, D.C., social life,
+            education, the management of cotton plantations, civic affairs in Huntsville; state and
+            national politics and elections; Clay Sr.'s governorship; Clay Jr.'s service in both the
+            U.S. and Confederate senates; ante-bellum politics; the organization of the Confederacy;
+            Reconstruction politics, including Clay Jr.'s arrest, imprisonment, and his wife's
+            efforts to obtain his release; Clay Jr.'s efforts to retrieve his property and
+            re-establish farming operations, and to settle his father's estate; Virginia Clay's
+            dissatisfaction with Reconstruction period social life, her tour of Europe, 1884-1885,
+            and her efforts to operate the plantation after her husband's death.</abstract>
+         <physdesc id="aspace_3f3a15e96099407aebdcb7bd6bcb9611">
+            <extent>8,568 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_78cb9be1f521390fcf4dca898f476180">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_3c3bba60cb004ec3d926ec39e16245ba">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_f610f1c2355ea8ca1363a2cc7024f129">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_210377c004598694026730f3642245cc">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], C. C. Clay Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_c862689e2e2d36a0f39c54c52b8c825c">
+         <head>Provenance</head>
+         <p>The C. C. Clay Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift from 1933 to 1958.</p>
+      </acqinfo>
+      <processinfo id="aspace_b4f1da34fccda7fe6bd81fa3b1736b82">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library Staff</p>
+         <p>Encoded by Noah Huffman, November 2010</p>
+         <p>Accessions from 1933 to 1958 were merged into one collection, described in this finding
+            aid.</p>
+      </processinfo>
+      <scopecontent id="aspace_68ececd2ad63a415097bcd8ea4759653">
+         <head>Collection Overview</head>
+         <p>Personal, business, and political correspondence, accounts, diaries, memoranda, college
+            notes, scrapbooks, and clippings of Clement Claiborne Clay (1816-1882), lawyer, U.S.
+            senator, Confederate diplomat, and planter; of his father, Clement Comer Clay
+            (1789-1866), lawyer, planter, U.S. congressman and senator, and governor of Alabama; of
+            his mother, Susanna Claiborne (Withers) Clay (1798-1866); of his wife, Virginia Caroline
+            (Tunstall) Clay (1825-1915), who wrote <title type="simple" render="italic">A Bell of
+               the Fifties: Memoirs of Mrs. Clay, of Alabama, covering Social and Political Life in
+               Washington and the South, 1853-1866: Put into Narrative Form by Ada Sterling (New
+               York: Doubleday, 1904)</title>; and of his brothers, Hugh Lawson Clay and John
+            Withers Clay, and of their wives.</p>
+         <p>Letters deal with family matters, including education of the elder Clay's three sons at
+            the University of Alabama, Tuscaloosa, and the University of Virginia, Charlottesville;
+            management of two or more cotton plantations and approximately fifty slaves; civic
+            affairs in Huntsville; state politics, 1819-1860; Democratic and Whig party alignments,
+            rivalries, and disputes; presidential elections, especially in 1844, 1852, and 1856;
+            Clement Comer Clay's governorship, 1835-1837. the Creek War, 1836; the panic of 1837,
+            Clement Claiborne Clay's election as a Democrat to the U.S. Senate in 1853 and his
+            reselection in 1857. Other political matters referred to include the Compromise of 1850;
+            Kansas-Nebraska difficulty; break with Stephen A. Douglas; Democratic Convention of
+            1860; secession; and organization of the Confederate government. Personal letters refer
+            to social life in Alabama and in Washington, D.C.; visits to springs and health resorts;
+            and Clement Claiborne Clay's travels for his health through Florida, 1851, and later to
+            Arkansas and Minnesota.</p>
+         <p>Subjects of the Civil War years include Clement Claiborne Clay's political activities in
+            the Confederate States Senate; his relations with Jefferson Davis; Federal raids on and
+            occupation of Huntsville, consequent disruption of civilian life, and demoralization of
+            slaves; J. W. Clay's publication of the Huntsville Democrat in various towns; Clay's
+            defeat in the election of 1863 for the Confederate Senate; his and other agents' work in
+            Canada, assisting in the return of escaped Confederate prisoners to Confederate
+            territory; plots of a general revolt in the Northwestern states designed to join these
+            states to the Confederacy; the Democratic Convention of 1864; Horace Greeley's efforts
+            for peace, 1864; plans and execution of the Confederate raid on St. Albans, Vermont,
+            1864; Clay's return from Canada, and the final days of the Confederacy.</p>
+         <p>Material relating to the aftermath of the Civil War concerns accusations against Clay
+            for complicity in Lincoln's assassination, Clay's surrender to Federal authorities, his
+            imprisonment at Fortress Monroe, Virginia, and the efforts of Virginia (Tunstall) Clay
+            to obtain her husband's release. Papers for the period 1866-1915 generally pertain to
+            personal matters, principally Clay's poverty, his attempts to retrieve his confiscated
+            property, the settlement of his father's estate, efforts to re-establish farming
+            operations, and his years in the insurance business, 1871-1873, with Jefferson Davis;
+            and Virginia (Tunstall) Clay's dissatisfaction with a restricted social life, her tour
+            of Europe, 1884-1885, and her efforts in later years to operate the plantation. There
+            are occasional references to political affairs.</p>
+         <p> The volumes consist of an executor's book of the estate of C. C. Clay, Sr., 1866-1869;
+            letter books, 1864-1865; letterpress copy covering insurance business; memorandum books,
+            1853-1864, containing a mailing list of constituents and other notations; notebook,
+            1835-1841, containing college lecture notes; receipt books; legal fee book, 1814-1815;
+            scrapbooks, ca. 1848-1903, one of which contains plantation accounts, 1870-1873, and
+            minutes of the Madison County Bible Society, 1820-1830; and the diaries and scrapbooks,
+            1859-1905, of Virginia (Tunstall) Clay.</p>
+         <p> Correspondents include Jeremiah S. Black, E. C. Bullock, C. C. Clay, Sr., C. C. Clay,
+            Jr., David Clopton [Virginia (Tunstall) Clay's second husband], W. W. Corcoran, J. L. M.
+            Curry, Jefferson Davis, Varina Davis, Benjamin Fitzpatrick, U. S. Grant, Andrew Johnson,
+            L. Q. C. Lamar, Clifford Anderson Lanier, Sidney Lanier, Stephen R. Mallory, Nelson A.
+            Miles, James K. Polk, John H. Reagan, R. B. Rhett, E. S. Shorter, Leroy P. Walker, Louis
+            T. Wigfall, and William L. Yancey.</p>
+         <p>Description above taken from <emph render="italic">Guide to Cataloged Collections in the
+               Manuscripts Department of the William R. Perkins Library, Duke University
+               (1980)</emph>
+         </p>
+      </scopecontent>
+      <relatedmaterial id="aspace_f5e7da9d65f56e4e0cde095c1f206340">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection">Clement C. Clay papers, 1846-1972</unittitle>
+               <repository label="Repository">David M. Rubenstein Rare Book &amp; Manuscript
+                  Library, Duke University</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <geogname source="lcsh">Saint Albans (Vt.) -- History -- Raid, 1864</geogname>
+         <subject source="lcsh">Governors -- Alabama</subject>
+         <subject source="lcsh">Cotton growing -- Alabama</subject>
+         <subject source="lcsh">Education -- Southern States</subject>
+         <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
+         <geogname source="lcsh">Washington (D.C.) -- Social life and customs</geogname>
+         <subject source="lcsh">Slavery -- History</subject>
+         <geogname source="lcsh">Alabama -- Politics and government -- to 1865</geogname>
+         <geogname source="lcsh">Alabama -- Social life and customs</geogname>
+         <geogname source="lcsh">Confederate States of America -- Politics and government</geogname>
+         <geogname source="lcsh">United States -- Politics and government -- 19th century</geogname>
+         <geogname source="lcsh">Fort Monroe (Va.)</geogname>
+         <subject source="lcsh">Plantations -- Alabama</subject>
+         <subject source="lcsh">Reconstruction (U.S. history, 1865-1877) -- Alabama</subject>
+         <geogname source="lcsh">Alabama -- History -- Civil War, 1861-1865</geogname>
+         <persname source="ingest">Clay-Clopton, Virginia, 1825-1915</persname>
+         <persname source="ingest">Davis, Jefferson, 1808-1809</persname>
+         <persname source="ingest">Clay, John Withers</persname>
+         <persname source="ingest">Clay, Susanna Claiborne Withers, 1798-1866</persname>
+         <persname source="ingest">Clay, Clement Comer, 1789-1866</persname>
+         <persname source="ingest">Clay, Hugh Lawson</persname>
+         <persname source="ingest">Clay, C. C. (Clement Claiborne), 1816-1882</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_0lp" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1811-1925</unittitle>
+               <physdesc id="aspace_e4833d1262ee8f9b6d1116d7be552510">
+                  <extent>22 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref14_n3b" level="file">
+               <did>
+                  <unittitle>Correspondence, 1811-1847</unittitle>
+                  <container id="aspace_27ba1036a6943798cafd2fa98aeeee13" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_bps" level="file">
+               <did>
+                  <unittitle>Correspondence, 1848-1857 April</unittitle>
+                  <container id="aspace_8611fe5cebe8caf53c6cad2b20ac6ee5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_fs9" level="file">
+               <did>
+                  <unittitle>Correspondence, 1857 May-1862 May</unittitle>
+                  <container id="aspace_f5dd64585f8341bbab952f4db0472011" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_lwb" level="file">
+               <did>
+                  <unittitle>Correspondence, 1862 June-1864 September</unittitle>
+                  <container id="aspace_9d699d9532600e01dda1ff60a61ccec1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_epu" level="file">
+               <did>
+                  <unittitle>Correspondence, 1864 October-1865 December</unittitle>
+                  <container id="aspace_9b8eeff7377c94dde7df40506ae73933" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_067e7119028fb918858e9f50b2e2e6f1">
+                  <head>Scope and Contents note</head>
+                  <p>Fragments written in prison, 1865-1866.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref20_q7e" level="file">
+               <did>
+                  <unittitle>Correspondence, 1866</unittitle>
+                  <container id="aspace_3e1997389f9125fb08f618c9a3bae1c1" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+               <scopecontent id="aspace_307e377ce7347d96043ddeb2de0cf567">
+                  <head>Scope and Contents note</head>
+                  <p>"Manufactured testimony" against Mr. Clay.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref22_gor" level="file">
+               <did>
+                  <unittitle>Correspondence, 1867-1871 June</unittitle>
+                  <container id="aspace_b836b7c58606298d0d6b216404dc3c92" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_wkp" level="file">
+               <did>
+                  <unittitle>Correspondence, 1871 July-1877 August</unittitle>
+                  <container id="aspace_a554c7b5c7a76abc203a5a198f0f449c" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_823" level="file">
+               <did>
+                  <unittitle>Correspondence, 1877 September-1881</unittitle>
+                  <container id="aspace_ef5b3ba4e427fb7c4acf6c2b1d69047b" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_asl" level="file">
+               <did>
+                  <unittitle>Correspondence, 1882-1884</unittitle>
+                  <container id="aspace_38053e8827734a0d564150ceae9bc682" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_roy" level="file">
+               <did>
+                  <unittitle>Correspondence, 1885 January-1888 October</unittitle>
+                  <container id="aspace_1357dad510b98d95213d513008e04154" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_d3g" level="file">
+               <did>
+                  <unittitle>Correspondence, 1888 November-1890 June</unittitle>
+                  <container id="aspace_e3e25139d524b25850b1fb610ea5653b" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_ygj" level="file">
+               <did>
+                  <unittitle>Correspondence, 1890 July-1892 June</unittitle>
+                  <container id="aspace_1273f07703beac96db8dea19a20357c1" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_wpk" level="file">
+               <did>
+                  <unittitle>Correspondence, 1892 July-1897</unittitle>
+                  <container id="aspace_447ac71ec1b18e0c8b557e908d94c692" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_q8w" level="file">
+               <did>
+                  <unittitle>Correspondence, 1898-1900</unittitle>
+                  <container id="aspace_4df7c0bf51a39c84da11043327551bde" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_6pv" level="file">
+               <did>
+                  <unittitle>Correspondence, 1901-1903</unittitle>
+                  <container id="aspace_a434d7c570ac8fc7b684ac4b1bfb23b9" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_2k5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1904-1905</unittitle>
+                  <container id="aspace_3c0341d84b7348867a09334b657b6901" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_7hz" level="file">
+               <did>
+                  <unittitle>Correspondence, 1906-1908 September</unittitle>
+                  <container id="aspace_61bcacdebd3eeee3b22a242197962800" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_o8i" level="file">
+               <did>
+                  <unittitle>Correspondence, 1908 October-1911 May</unittitle>
+                  <container id="aspace_6367ba5e7c993e656694e915af130d81" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_wg9" level="file">
+               <did>
+                  <unittitle>Correspondence, 1911 June-1913</unittitle>
+                  <container id="aspace_8f0739b401d40a03a4dde298378b3a62" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_yyp" level="file">
+               <did>
+                  <unittitle>Correspondence, 1914-1920s</unittitle>
+                  <container id="aspace_60283959a08d6886a5c8c67a13d1b54c" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_crr" level="file">
+               <did>
+                  <unittitle>Correspondence, 1900s and undated</unittitle>
+                  <container id="aspace_1f361b85e125bd1a3feddd867553825d" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref38_ywr" level="series">
+            <did>
+               <unittitle>Bound Volumes Series, 1835-1903</unittitle>
+               <physdesc id="aspace_29361d9068eb365f77706ff7f06dd2e7">
+                  <extent>17 volumes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref40_442" level="file">
+               <did>
+                  <unittitle>Executor's Book (Estate of Clement Comer Clay), 1866-1869</unittitle>
+                  <container id="aspace_1238846e4baff614454e22d5eef4f2cf" label="Mixed Materials"
+                     type="volume">S:692</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_j3j" level="file">
+               <did>
+                  <unittitle>Letterbook, 1864 June 14-September 29</unittitle>
+                  <container id="aspace_db94002f9b1401c8805c2f9c3a6000c4" label="Mixed Materials"
+                     type="volume">M:693</container>
+               </did>
+               <scopecontent id="aspace_0e92de719c2843f6c2417dde195dab0d">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence from Canada. Copies of letters from C.C. Clay to: Judah
+                     Benjamin, Jefferson Davis, Horace Greeley, Slidell and Mason, George H.
+                     Pendleton, and S. R. Mallory.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref43_y7n" level="file">
+               <did>
+                  <unittitle>Letterbook, 1865 June 30-November 23</unittitle>
+                  <container id="aspace_5c2ad0af733577e880edbdc4da30fadc" label="Mixed Materials"
+                     type="volume">M:694</container>
+               </did>
+               <scopecontent id="aspace_6c4d101c73a1eda40a6662ec1d69b995">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence fom Fortress Monroe. Copies of letters sent to E. M. Stanton and
+                     Andrew Johnson from C. C. Clay and copies of letters sent to Jefferson Davis,
+                     Jeremiah Black, and Robert Toombs by Virginia C. Clay.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref45_iwy" level="file">
+               <did>
+                  <unittitle>Letterpress copy book, 1871-1873</unittitle>
+                  <container id="aspace_c20cc9ba3b60f22cacedf54b90741e3c" label="Mixed Materials"
+                     type="volume">M:695</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_n2x" level="file">
+               <did>
+                  <unittitle>Memorandum Book, 1853-1861</unittitle>
+                  <container id="aspace_d60535b51c01e94250190c54d18f67d4" label="Mixed Materials"
+                     type="volume">M:696</container>
+               </did>
+               <scopecontent id="aspace_dd8cea4d57f8f9a63f6a85f78ec7ee16">
+                  <head>Scope and Contents note</head>
+                  <p>Mailing list for congressional documents</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref48_eo6" level="file">
+               <did>
+                  <unittitle>Memorandum Book, 1853-1864</unittitle>
+                  <container id="aspace_587f5eec0c9a1357c6f28fbdc5265db8" label="Mixed Materials"
+                     type="volume">M:697</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_nmh" level="file">
+               <did>
+                  <unittitle>Notebook, 1835-1841</unittitle>
+                  <container id="aspace_540c42a1149ab286fd018145b5f507ce" label="Mixed Materials"
+                     type="volume">M:698</container>
+               </did>
+               <scopecontent id="aspace_39bce37ffbf696dd2edaf48a889191ba">
+                  <head>Scope and Contents note</head>
+                  <p>College, personal, and legal notes.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref51_a6o" level="file">
+               <did>
+                  <unittitle>Receipt Book, 1860-1882</unittitle>
+                  <container id="aspace_fa6ce0f9fad38d32dc9a4213b42299e6" label="Mixed Materials"
+                     type="volume">S:699</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_96r" level="file">
+               <did>
+                  <unittitle>Receipts, 1871-1873</unittitle>
+                  <container id="aspace_dd76c2391a9d21041ec71b70d275cb5f" label="Mixed Materials"
+                     type="volume">S:700</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_a4r" level="file">
+               <did>
+                  <unittitle>Scrapbook, circa 1866-1878</unittitle>
+                  <container id="aspace_7e2cb4e7312e7ed889cbce990f1c4b85" label="Mixed Materials"
+                     type="volume">S:701</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_mk3" level="file">
+               <did>
+                  <unittitle>Scrapbook, circa 1865-1890</unittitle>
+                  <container id="aspace_367cb9e3aa9e08ea4305fb3c9ae607fe" label="Mixed Materials"
+                     type="volume">L:702</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_h71" level="file">
+               <did>
+                  <unittitle>Scrapbook, circa 1866-1903</unittitle>
+                  <container id="aspace_b7ea8fb60687b4da3c09965278f403e1" label="Mixed Materials"
+                     type="volume">M:703</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_m06" level="file">
+               <did>
+                  <unittitle>Madison County (Ala.) Bible Society minutes, 1820-1830; and C. C. Clay
+                     Plantation accounts, 1870-1873</unittitle>
+                  <container id="aspace_df45a7c10b61521e4146dde119f53097" label="Mixed Materials"
+                     type="volume">F:705</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_ssx" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1848-1853</unittitle>
+                  <container id="aspace_8fb0dcb6cee297ef383094bf691e4607" label="Mixed Materials"
+                     type="volume">L:706</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_hif" level="file">
+               <did>
+                  <unittitle>Fee book, 1814-1815</unittitle>
+                  <container id="aspace_f295089609d3b12e0b4db8719a3b20e1" label="Mixed Materials"
+                     type="volume">S:707</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_vk1" level="file">
+               <did>
+                  <unittitle>Virginia Clay scrapbook, 1862-1896</unittitle>
+                  <container id="aspace_e51015eba526978289ad63ce2ef1291e" label="Mixed Materials"
+                     type="volume">L:718</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_ykv" level="file">
+               <did>
+                  <unittitle>Virginia Clay scrapbook, 1886-1893</unittitle>
+                  <container id="aspace_e14ecd9f1a53d5d2d65ba3c3323f5b3f" label="Mixed Materials"
+                     type="volume">L:719</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref61_342" level="series">
+            <did>
+               <unittitle>Other Papers Series</unittitle>
+               <physdesc id="aspace_e4b74ed7851da0687276b2c33f8fff5c">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref63_rp2" level="file">
+               <did>
+                  <unittitle>Genealogy</unittitle>
+                  <container id="aspace_ceb7a4160d5ef0ff0e03837713dd5416" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_02n" level="file">
+               <did>
+                  <unittitle>Miscellany</unittitle>
+                  <container id="aspace_41b303a0fbb1e56e6d414e1fdacbffd4" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_war" level="file">
+               <did>
+                  <unittitle>Addresses and writings of Mrs. Virginia Clay-Clopton</unittitle>
+                  <container id="aspace_9a271c9eafaaea3dcb5d2ab50c6ad0be" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_7uo" level="file">
+               <did>
+                  <unittitle>Addresses and writings of Mrs. Virginia Clay Clopton</unittitle>
+                  <container id="aspace_e785e2a0fe596dc27c56ca5fac0e8cf8" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_ruq" level="file">
+               <did>
+                  <unittitle>Calling and gift cards</unittitle>
+                  <container id="aspace_6bdf340a00b2ad2bd4c10e8279cbbd81" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_suy" level="file">
+               <did>
+                  <unittitle>Photographs of members of Clay and related families</unittitle>
+                  <container id="aspace_2021aec039183ee21658ca36db233977" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_7u1" level="file">
+               <did>
+                  <unittitle>Printed material</unittitle>
+                  <container id="aspace_42771bdeb3421a8cfdac63e0869a504c" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_6vh" level="file">
+               <did>
+                  <unittitle>Virginia Clay diary, 1859-1866</unittitle>
+                  <container id="aspace_cfc928794f90a051f650c0f37961b714" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_fra" level="file">
+               <did>
+                  <unittitle>Addresses of C. C. Clay</unittitle>
+                  <container id="aspace_571501667020b065d1de3c8dba00f220" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_gkt" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_d16d53718990de8fe7ba1fed49c2a122" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_wrm" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_655cbf5d590c1bfcf1ef9d437fb8d708" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_qix" level="file">
+               <did>
+                  <unittitle>Virginia Clay diaries, 1865-1909</unittitle>
+                  <physdesc id="aspace_5a03190d6b7c0f56dd74f06e10651527">
+                     <extent>6 volumes</extent>
+                  </physdesc>
+                  <container id="aspace_a287e2f42137bd25968d867d247336b4" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

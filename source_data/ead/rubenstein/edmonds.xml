@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/edmonds/">edmonds</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Helen Edmonds Papers, 1951-1994 <num>RL.00352</num></titleproper>
+        <author>Processed by: Duke University. David M. Rubenstein Rare Book &amp; Manuscript
+          Library Staff; machine-readable finding aid created by: Stephen Douglas Miller</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>1981</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">002441001</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-24 12:07:59
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Helen Edmonds papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Edmonds, Helen G. (Helen Grey), 1911-1995</persname>
+      </origination>
+      <unitid>RL.00352</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.4 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1951/1994" type="inclusive">1951-1994</unitdate>
+      <physloc id="aspace_96c49aaf08b4ec6960c0fc12e80bc43e">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <physdesc id="aspace_e4de1b7c0b5b9cfc2e8bf91c8c8a8eff"><extent>circa 4,000
+        Items</extent></physdesc>
+      <langmaterial id="aspace_52caf9e59f5bd79290d65fe6b97d76f3">English. </langmaterial>
+      <abstract id="aspace_a5519cc138fcc29ceca6112dae6cfacc">Collection contains primarily
+        correspondence and printed materials, including speeches, clippings, and photocopies. Two
+        large sections of materials concern Edmonds' interests and activities as a member of the
+        Republican Party and her work as an alternate delegate to the U.N. General Assembly, 1970.
+        Some materials relate to her work with the National Peace Corps Advisory Council, to
+        educational exchange, consultations in Europe and Israel, and other work experiences in an
+        international context. Papers representing her duties as a college professor are
+        limited.</abstract>
+    </did>
+    <accessrestrict id="aspace_33be34523e8719bd688d3a52fd664053">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>All or portions of this collection may be housed off-site in Duke University's Library
+        Service Center. The library may require up to 48 hours to retrieve these materials for
+        research use.</p>
+      <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+        &amp; Manuscript Library to use this collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_cbdb93110adff9ecfc21224e020a3c92">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in the Helen Edmonds papers have not been transferred to Duke
+        University. For further information, see the section on copyright in the Regulations and
+        Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <acqinfo id="aspace_43d4d48567aca03003190b8d46f28445">
+      <head>Provenance</head>
+      <p>The Helen Edmonds Papers were donated to the David M. Rubenstein Rare Book &amp; Manuscript
+        Library on November 9, 1981.</p>
+    </acqinfo>
+    <processinfo id="aspace_2666aa76eb9e6b5457d6b0af43ef8ea4">
+      <head>Processing Information</head>
+      <p>Processed by: Duke University. David M. Rubenstein Rare Book &amp; Manuscript Library
+        Staff</p>
+      <p>Completed ca. 1981</p>
+      <p>Encoded by Stephen Douglas Miller</p>
+    </processinfo>
+    <bioghist id="aspace_f28f71fb5b7ad84da9759b7b9ff44610">
+      <head>Biographical Note</head>
+      <p>Helen Edmonds was a historian, scholar, and civic leader. She was the first African
+        American woman to earn a doctorate from Ohio State University, the first to become a
+        graduate school dean, and the first to second the nomination of a United States presidential
+        candidate.</p>
+      <p>Born in Lawrenceville, VA, Edmonds received her bachelor’s degree in history from Morgan
+        State College in 1933. She went on to receive an M.A. in History at Ohio State University in
+        1938, followed by a Ph.D. from that same institution in 1946. Edmond's dissertation was
+        published in 1951 as her first book, The Negro and Fusion Politics in North Carolina,
+        1894-1901. Edmonds also published numerous articles in scholarly journals on politics in the
+        South. Her second book, Black Faces in High Places, was published in 1971.</p>
+      <p>In 1941 Edmonds joined the faculty of North Carolina College, now North Carolina Central
+        University, where she remained until her retirement in 1977. During her tenure at NCCU,
+        Edmonds taught U.S. and European diplomatic history, served as chair of the department of
+        history, Dean of the Graduate School, and University Distinguished Professor. After her
+        retirement from the teaching faculty in 1977, she became a member of the Board of
+        Trustees.</p>
+      <p>Edmonds was appointed by the U.S. Department of State as a Leader-Specialist in
+        International Education Exchange in 1954. Through this post she helped develop educational
+        exchanges for U.S. faculty and students in Germany, Austria, Denmark, Sweden, and France.
+        She also served as a visiting instructor in numerous institutions in the United States,
+        Europe, Africa, and the Middle East including Harvard University, the Massachusetts
+        Institute for Technology (MIT), the Free University of Berlin, the University of Stockholm,
+        Ohio State University, and the University of Liberia.</p>
+      <p>An active Republican, Edmonds seconded the nomination of President Dwight D. Eisenhower at
+        the Republican National Convention in San Francisco in 1956. During the second term of the
+        Eisenhower Administration she traveled throughout Africa promoting American ideals and
+        values in colonies that were soon-to-be independent nations. In 1970, President Richard M.
+        Nixon appointed Edmonds as an alternate delegate to the United Nations General Assembly
+        where she chaired the Human Rights Committee.</p>
+      <p>Edmonds also held important leadership roles in civic organizations such as the United
+        Negro College Fund, the National Association for the Advancement of Colored People (NAACP)
+        Legal Defense Fund, the United Research and Development Corporation, the National Council of
+        Negro Women, and Delta Sigma Theta Sorority. She was the fifth president of the African
+        American women's service organization, the Links.</p>
+      <p>In 1986 Edmonds was named a Distinguished Woman of North Carolina. Three years later the
+        North Carolina Central University social science and history building was renamed in her
+        honor. Edmonds died in Durham, North Carolina on May 9, 1995.</p>
+      <chronlist>
+        <head>Chronology</head>
+        <chronitem>
+          <date>1911 Dec. 3</date>
+          <eventgrp>
+            <event>Born in Lawrenceville, Va.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1933</date>
+          <eventgrp>
+            <event>Graduated from Morgan State University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1938</date>
+          <eventgrp>
+            <event>Earned Master's Degree from Ohio State University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1941-1977</date>
+          <eventgrp>
+            <event>Professor at North Carolina Central University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1995</date>
+          <eventgrp>
+            <event>Died in Durham, North Carolina</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="aspace_3ac4e1a01020b6c99a2151323f1afef3">
+      <head>Collection Overview</head>
+      <p>Collection contains primarily correspondence and printed materials, including speeches,
+        clippings, and photocopies. Two large sections of materials concern Edmonds' interests and
+        activities as a member of the Republican Party and her work as an alternate delegate to the
+        U.N. General Assembly, 1970. Some materials relate to her work with the National Peace Corps
+        Advisory Council, to educational exchange, consultations in Europe and Israel, and other
+        work experiences in an international context. Papers representing her duties as a college
+        professor are limited.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Educational exchanges</subject>
+      <subject source="lcsh">African Americans -- Politics and government</subject>
+      <subject source="lcsh">African Americans -- Correspondence</subject>
+      <subject source="lcsh">Historians -- United States</subject>
+      <subject source="lcsh">African American college teachers -- North Carolina -- Durham</subject>
+      <subject source="lcsh">African American historians</subject>
+      <corpname source="ingest">United Nations. General Assembly</corpname>
+      <corpname source="ingest">Republican Party (U.S. : 1854- ) -- History -- 20th
+        century</corpname>
+      <persname source="ingest">Edmonds, Helen G. (Helen Grey), 1911-1995</persname>
+      <corpname source="ingest">Peace Corps (U.S.) -- Management</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref11_6mj" level="series">
+        <did>
+          <unittitle>Alphabetical Series</unittitle>
+        </did>
+        <c02 id="aspace_ref12_f0c" level="file">
+          <did>
+            <unittitle>Addresses:</unittitle>
+            <container id="aspace_8a727da5017897122360bd600f209264" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <c03 id="aspace_ref13_5aa" level="file">
+            <did>
+              <unittitle>1956-1974</unittitle>
+              <container id="aspace_ea9b91286d64d920ade1ec556f21e1c6" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref14_twe" level="file">
+            <did>
+              <unittitle>Europe: American University Women, 1955</unittitle>
+              <container id="aspace_78f0bd5e729231b56935a77bbe353794" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref15_n0x" level="file">
+            <did>
+              <unittitle>Germany, 1955</unittitle>
+              <container id="aspace_df0aad483c80688ec2167b412093efbb" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref16_b6b" level="file">
+          <did>
+            <unittitle>Biographical Material, 1911-</unittitle>
+            <container id="aspace_64c8edfea65f3564ce072f3b350c2908" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref17_52s" level="file">
+          <did>
+            <unittitle>Clippings:</unittitle>
+          </did>
+          <c03 id="aspace_ref18_bb5" level="file">
+            <did>
+              <unittitle>1956-1982</unittitle>
+              <physdesc id="aspace_cdd9b071769ae7efa4bd2b3d0c75cca4"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_ee2f5be08eaf1883cce99e67d07c7ada" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref20_fr3" level="file">
+            <did>
+              <unittitle>China, 1970</unittitle>
+              <container id="aspace_4cb26148eeb221ca062e63ac6bf481f4" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref21_apb" level="file">
+          <did>
+            <unittitle>Correspondence (Mt. Carmel Symposium), 1971</unittitle>
+            <container id="aspace_b8bc4c42abb8a2157c5148d37ecc5c6a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref22_p20" level="file">
+          <did>
+            <unittitle>Germany, 1955-1957</unittitle>
+            <container id="aspace_b63c483d7c36450486b60f68fb95c5f1" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref23_gby" level="file">
+          <did>
+            <unittitle>Israel: Mt. Carmel Symposium, etc., 1967-1971</unittitle>
+            <container id="aspace_903719e544c1c1e46001dfffd133c618" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref24_ipv" level="file">
+          <did>
+            <unittitle>Lecture Tour:</unittitle>
+          </did>
+          <c03 id="aspace_ref25_kvx" level="file">
+            <did>
+              <unittitle>Europe Lecture and Seminar Materials, 1956-1957</unittitle>
+              <container id="aspace_8974c3f6fe36c313ac4733f53865acd2" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref26_dwy" level="file">
+            <did>
+              <unittitle>Denmark, 1957</unittitle>
+              <container id="aspace_72f4dae32a17f7b2f55751241537c3e3" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref27_8th" level="file">
+            <did>
+              <unittitle>Sweden, 1957</unittitle>
+              <container id="aspace_05e464fde07fe2a4dac70e52fcd6863d" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref28_9va" level="file">
+          <did>
+            <unittitle>The National Links, Inc., 1973-1976</unittitle>
+            <container id="aspace_f02b04233a3d88084104ca7bc8c08631" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_c1t" level="file">
+          <did>
+            <unittitle>The North Carolina Historical Commission, 1976</unittitle>
+            <container id="aspace_32b1544d96c73e505194a767d5417498" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref30_mcd" level="file">
+          <did>
+            <unittitle>Peace Corps. National Advisory Council, 1970-1972</unittitle>
+            <container id="aspace_77c583754a50a654d54902eae106625a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref31_025" level="file">
+          <did>
+            <unittitle>Photographs. Europe Leader Specialist, 1957</unittitle>
+            <container id="aspace_2192d3d3a9ff7422883c2725327c554d" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref32_7xq" level="file">
+          <did>
+            <unittitle>Political Material:</unittitle>
+          </did>
+          <c03 id="aspace_ref33_k50" level="file">
+            <did>
+              <unittitle>Addresses, etc., Republican National Committee, 1958-1960</unittitle>
+              <container id="aspace_65811ad8ab6be4bdf64edde778255063" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref34_vrf" level="file">
+            <did>
+              <unittitle>Addresses, Reports, Memoranda etc., of the Republican National Committee,
+                1960-1961</unittitle>
+              <container id="aspace_f9130af3509d80a89cfe23fa7f02fe88" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref35_opq" level="file">
+            <did>
+              <unittitle>Governor's Inaugural Committee, 1972-1973</unittitle>
+              <container id="aspace_9c813f5b84f018090df57fc97e64e4c9" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref36_j33" level="file">
+            <did>
+              <unittitle>N.C. Republican Party, 1951-1976</unittitle>
+              <container id="aspace_010ff646fb941e6505991dd546e24801" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref37_pd9" level="file">
+            <did>
+              <unittitle>Personal Notes, etc., used by Dr. Edmonds for Campaign Speeches,
+                1956</unittitle>
+              <container id="aspace_5cf1b701938e4a62fa6b70808bf900bb" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref38_how" level="file">
+          <did>
+            <unittitle>President's Committee on Government:</unittitle>
+          </did>
+          <c03 id="aspace_ref39_cdi" level="file">
+            <did>
+              <unittitle>Contracts, Minority</unittitle>
+              <container id="aspace_fba3e45c6515b5cd99a48f1663fe5e3c" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref40_i97" level="file">
+            <did>
+              <unittitle>Community Resources Conference, 1958, Jan. 15</unittitle>
+              <container id="aspace_51df7985e50365b0a6b43c24893de077" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref41_eg9" level="file">
+          <did>
+            <unittitle>Printed Material: General, 1956-1970</unittitle>
+            <container id="aspace_411037c389871ba688583f93338ccadc" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref42_gy7" level="series">
+        <did>
+          <unittitle>Correspondence Series</unittitle>
+        </did>
+        <c02 id="aspace_ref43_vye" level="file">
+          <did>
+            <unittitle>Alternate Delegate of the 25th Session of the United Nations General
+              Assembly, 1970-1971</unittitle>
+            <container id="aspace_5fc23a40fe57001bc9a16760e7a8e003" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref44_82h" level="file">
+          <did>
+            <unittitle>European, 1954-1958</unittitle>
+            <container id="aspace_40b38691efff256c5a763c0a08dba701" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref45_76u" level="file">
+          <did>
+            <unittitle>General, 1951-1981</unittitle>
+            <physdesc id="aspace_47f44a172cde13bf6c3f1f1915d2b093"><extent>6
+              folders</extent></physdesc>
+            <container id="aspace_66197cf0eae498a6f97baed1f203eb0b" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref47_ehh" level="file">
+          <did>
+            <unittitle>Germany, West - Post-Doctoral Study and Research, 1954-1956</unittitle>
+            <container id="aspace_3fef6469983c09e6375efcd95e6b8f38" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref48_xd6" level="file">
+          <did>
+            <unittitle>Republican National Committee:</unittitle>
+          </did>
+          <c03 id="aspace_ref49_bke" level="file">
+            <did>
+              <unittitle>1953-1956</unittitle>
+              <container id="aspace_3553a76009a9073c6b90039dbe07b3b4" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref50_in8" level="file">
+            <did>
+              <unittitle>Expense Accounts and Itineraries, undated</unittitle>
+              <container id="aspace_acec970e65635f283844aff0826331dd" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref51_8hc" level="file">
+          <did>
+            <unittitle>Republican National Committee. Letters from Rank and File persons during and
+              following Dr. Edmonds' Campaign Tour, 1956</unittitle>
+            <container id="aspace_fdd72fe8d251f21588632b2e4a85a62e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref52_ntr" level="file">
+          <did>
+            <unittitle>Republican National Committee, 1957</unittitle>
+            <container id="aspace_91550dc167bc1c269d2a39c2e4ec1d78" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref53_zw7" level="file">
+          <did>
+            <unittitle>Republican Party, 1958-1976</unittitle>
+            <physdesc id="aspace_73a1281737b7a31ded7267d245cb9a8a"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_dd08595ad3e4fa2b16c4264d1450f46b" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref55_cpo" level="file">
+          <did>
+            <unittitle>White House, and the Executive Department of the U.S. Government,
+              1952-1976</unittitle>
+            <physdesc id="aspace_fb0a62b15814a6e06085030c1a2ce770"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_159a09e889ce53e1080d60d6888100fd" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref57_9rc" level="series">
+        <did>
+          <unittitle>United Nations Series</unittitle>
+        </did>
+        <c02 id="aspace_ref58_661" level="file">
+          <did>
+            <unittitle>General Assembly. Fifth Committee: Budget and Personnel, 1970, Nov. 9, Dec.
+              16</unittitle>
+            <container id="aspace_94783e753dd562c251cf7ac82df860a3" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref59_zmu" level="file">
+          <did>
+            <unittitle>General Assembly. Third Committee:</unittitle>
+          </did>
+          <c03 id="aspace_ref60_5ed" level="file">
+            <did>
+              <unittitle>Addresses and Reports of Prof. Edmonds and others, and Research on Human
+                Rights and Fundamental Freedoms, 1970</unittitle>
+              <container id="aspace_fe4b884a38895e40f8f7aeb75530dd4d" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref61_imd" level="file">
+            <did>
+              <unittitle>Budget and Personnel, 1970</unittitle>
+              <container id="aspace_ec352c330eec020598115500b57d6135" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref62_1nh" level="file">
+            <did>
+              <unittitle>Clippings re: Professor Edmonds, 1970</unittitle>
+              <container id="aspace_c4d1373f5ad5f07f06c68d69a1c1f787" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref63_6l4" level="file">
+            <did>
+              <unittitle>The Elderly and the Aged, 1969-1970</unittitle>
+              <container id="aspace_62a0a22b1f42c33da08fd17b2c7daff1" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref64_jp1" level="file">
+            <did>
+              <unittitle>Freedom of Information, 1951-1970</unittitle>
+              <container id="aspace_6c242b558f88d5c66d0a3a14adb544ea" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref65_93r" level="file">
+            <did>
+              <unittitle>High Commissioner for Human Rights, 1970</unittitle>
+              <container id="aspace_baa4e6c108b34cdf1d9b266f4350f0fc" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref66_0c7" level="file">
+            <did>
+              <unittitle>Housing, Building, and Planning, 1969-1970</unittitle>
+              <container id="aspace_3588d597c6eed11b61e5e96245069b74" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref67_71y" level="file">
+            <did>
+              <unittitle>International Covenant on Economic, Social, and Cultural Rights, and on
+                Civil and Political Rights, 1969-1970</unittitle>
+              <container id="aspace_ac66ec8334e97e1cc61478f567f9cf1c" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref68_xu8" level="file">
+            <did>
+              <unittitle>Narcotics, 1970</unittitle>
+              <container id="aspace_a7cbdff5f0dd33c7035e172fd1ca38a4" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref69_jqf" level="file">
+            <did>
+              <unittitle>Natural Disasters, 1970</unittitle>
+              <container id="aspace_4953b6eb7b114a7f1cd5b6bd768359ca" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref70_272" level="file">
+            <did>
+              <unittitle>Nazism and Racial Intolerance, 1970</unittitle>
+              <container id="aspace_f06002ce1a8ecc53602ee3595ca0d531" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref71_3l4" level="file">
+            <did>
+              <unittitle>Prisoners of War; Armed Conflict, 1969-1970</unittitle>
+              <physdesc id="aspace_1c7e8e4c0c0325c340974b8e66c77f50"><extent>4
+                folders</extent></physdesc>
+              <container id="aspace_a75f33e28f2b051eb65f1ab5dd7adaa0" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref73_1t0" level="file">
+            <did>
+              <unittitle>Provisional Summary Record, 1970, Sept. 25-Dec. 15</unittitle>
+              <physdesc id="aspace_1d46214c1a16d93a60fbf2beb883124a"><extent>7
+                folders</extent></physdesc>
+              <container id="aspace_f7893ebe1c62bc2f5be2d2e6829b6573" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref75_1qw" level="file">
+            <did>
+              <unittitle>Racial Discrimination, Elimination of, 1970.</unittitle>
+              <container id="aspace_e1b1b4775a5839d503cf53960a4b6ebd" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref76_uab" level="file">
+            <did>
+              <unittitle>Religious Intolerance, 1969-1970</unittitle>
+              <container id="aspace_e9da16beea8f3c17700f04b5c2669f93" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref77_01n" level="file">
+            <did>
+              <unittitle>Trade and Development, 1969-1970</unittitle>
+              <container id="aspace_0d3eb0d0f89dc18923d300e5a47fa3b4" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref78_6k5" level="file">
+          <did>
+            <unittitle>General Assembly:</unittitle>
+          </did>
+          <c03 id="aspace_ref79_fr3" level="file">
+            <did>
+              <unittitle>Economic and Social Council</unittitle>
+              <physdesc id="aspace_4407cc5493e51330abd9d5072e37da58"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_12155ac79be414708188f71bbe209644" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref81_ul3" level="file">
+            <did>
+              <unittitle>High Commissioner for Human Rights, 1966-1969</unittitle>
+              <container id="aspace_7bac1899603b545f6da234eb1560a8bb" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref82_2cu" level="file">
+            <did>
+              <unittitle>High Commissioner for Refugees, 1970</unittitle>
+              <container id="aspace_366df84e2058752f30cdaf4f643066a9" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref83_15n" level="file">
+            <did>
+              <unittitle>Human Rights and Scientific and Technological Developments,
+                1970</unittitle>
+              <physdesc id="aspace_ee82d1d02387f63637991d1b9eb771fe"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_7573a12e23c05cbb3b1e88d2943018b8" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref85_ebh" level="file">
+            <did>
+              <unittitle>Israeli and Arab Question, 1970</unittitle>
+              <container id="aspace_9215f93b26f58f0868a36c94aa6f1796" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref86_o68" level="file">
+            <did>
+              <unittitle>Outer Space. Peaceful Uses of, 1970</unittitle>
+              <container id="aspace_909426a272e2abcdabf691ff8102def8" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref87_l8j" level="file">
+            <did>
+              <unittitle>Peace-keeping and the International Court of Justice, 1970</unittitle>
+              <container id="aspace_f77e129177741ae2f7b704bd55418d38" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref88_lfn" level="file">
+            <did>
+              <unittitle>Racial Discrimination. Report of the Secretary General, 1970</unittitle>
+              <container id="aspace_60a051932dfd3b8ab315d66726deda00" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref89_onq" level="file">
+            <did>
+              <unittitle>Report to Samuel De Palma by Professor Edmonds, 1971, Feb. 18</unittitle>
+              <container id="aspace_8b3bd9ff2fd2aa0146427e08450e7577" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref90_b64" level="file">
+            <did>
+              <unittitle>Sea-Bed and the Ocean Floor, Use for Peaceful Purposes Only,
+                undated</unittitle>
+              <container id="aspace_a8c4b6399c733c2a0d043347fac1ca6c" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref91_i7g" level="file">
+            <did>
+              <unittitle>25th Session:</unittitle>
+            </did>
+            <c04 id="aspace_ref92_tkr" level="file">
+              <did>
+                <unittitle>Notes and Memoranda of Professor Edmonds, 1970</unittitle>
+                <container id="aspace_4b491983f7882e49ad0b232176215147" label="Mixed Materials"
+                  type="box">4</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref93_bcr" level="file">
+              <did>
+                <unittitle>U.S. Representatives; Biographical Information of Dr. Edmonds,
+                  1970</unittitle>
+                <container id="aspace_2413889698c4930ad56801245c17d7fe" label="Mixed Materials"
+                  type="box">4</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref94_38q" level="file">
+            <did>
+              <unittitle>War Criminals, 1970</unittitle>
+              <container id="aspace_29a7f91ae210a3e7ec84c978b470798c" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref95_tcq" level="file">
+            <did>
+              <unittitle>Work of the Organization and Agenda, 1970</unittitle>
+              <container id="aspace_1bf8eae7c4ba2260acc9f780358ebf12" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref96_e7b" level="file">
+            <did>
+              <unittitle>Youth and Education, 1970</unittitle>
+              <physdesc id="aspace_119efd42466f8208f311de517101a8ef"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_0d75c946c26c3cdc97c6caabae199439" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref98_s6p" level="file">
+          <did>
+            <unittitle>Related Activities of Professor Edmonds, 1971</unittitle>
+            <container id="aspace_5cefd37d8bf26efbd59d0ec8235570d7" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref99_leq" level="file">
+          <did>
+            <unittitle>U.S. Arms Control and Disarmament Agency: Social Science Advisory Board,
+              1972</unittitle>
+            <container id="aspace_38f6b31ea69da91f458b0b2b2ed739ee" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref100_twk" level="series">
+        <did>
+          <unittitle>Printed Materials Series</unittitle>
+        </did>
+        <c02 id="aspace_ref101_btt" level="file">
+          <did>
+            <unittitle>Programs and Invitations, 1939-1977 and undated</unittitle>
+            <physdesc id="aspace_67cf7ebec92f0f73dffadd13971eb8a9"><extent>7
+              folders</extent></physdesc>
+            <container id="aspace_02c8f5bff3068a3e335f90600c3b6038" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref103_fhp" level="series">
+        <did>
+          <unittitle>Oversize Materials</unittitle>
+        </did>
+        <c02 id="aspace_ref104_qod" level="subseries">
+          <did>
+            <unittitle>Alphabetical Series</unittitle>
+          </did>
+          <c03 id="aspace_ref105_jbo" level="file">
+            <did>
+              <unittitle>Clippings, 1956-1982</unittitle>
+              <physdesc id="aspace_1b1d98939d056892f94cb3cb169b93dd"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_c5c338cb1ff3a3b8f97f167fcba9ce1b" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref107_2vo" level="file">
+            <did>
+              <unittitle>Clippings, China, 1970</unittitle>
+              <container id="aspace_f3eab72f04d881fd66582c70dde925f5" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref108_qeb" level="file">
+            <did>
+              <unittitle>Lecture Tour. Sweden, 1957</unittitle>
+              <container id="aspace_1b19f46a938eb8f231d0e7c7e71abd74" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref109_a1y" level="file">
+            <did>
+              <unittitle>Political Material. Personal Notes, etc., Used by Dr. Edmonds for Campaign
+                Speeches, 1956</unittitle>
+              <container id="aspace_2185b6c7008d1c19b2032ad9f85fd9a9" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref110_o45" level="subseries">
+          <did>
+            <unittitle>Correspondence Series</unittitle>
+          </did>
+          <c03 id="aspace_ref111_s3p" level="file">
+            <did>
+              <unittitle>European, 1954-1958</unittitle>
+              <container id="aspace_0d6e2e162cb5de01c93f0ec1cc08e12a" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref112_11m" level="file">
+            <did>
+              <unittitle>White House and the Executive Department of the U.S. Government,
+                1970-1976</unittitle>
+              <container id="aspace_56e6dc7e72484a5be00ef817253db360" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref113_5kn" level="subseries">
+          <did>
+            <unittitle>United Nations Series</unittitle>
+          </did>
+          <c03 id="aspace_ref114_oth" level="file">
+            <did>
+              <unittitle>General Assembly. Third Committee:</unittitle>
+            </did>
+            <c04 id="aspace_ref115_osf" level="file">
+              <did>
+                <unittitle>Clippings about Professor Edmonds, 1970</unittitle>
+                <container id="aspace_a66507df069385e6eea0bcaa693b3bd6" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref116_9ev" level="file">
+              <did>
+                <unittitle>Nazism and Racial Intolerance, 1970</unittitle>
+                <container id="aspace_a4d5547e88a7bcace66effd1dd8fc76b" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref117_6n3" level="file">
+              <did>
+                <unittitle>Prisoners of War. Armed Conflict, 1970</unittitle>
+                <container id="aspace_71f550dc5a3f305a0d2fd1ed06650966" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref118_wqq" level="file">
+              <did>
+                <unittitle>Racial Discrimination, Elimination of, 1970</unittitle>
+                <container id="aspace_91275e1806d3c999b8102fee5c9d2c3e" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref119_p8d" level="file">
+            <did>
+              <unittitle>General Assembly:</unittitle>
+            </did>
+            <c04 id="aspace_ref120_v2j" level="file">
+              <did>
+                <unittitle>Trade and Development, 1969-1970</unittitle>
+                <container id="aspace_e4372c086be6515b45d13581509319e8" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref121_s3l" level="file">
+              <did>
+                <unittitle>Israeli-Arab Question, 1970</unittitle>
+                <container id="aspace_bee7a4d3244f7928eee39e29f841fa70" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref122_9mx" level="subseries">
+          <did>
+            <unittitle>Printed Material</unittitle>
+          </did>
+          <c03 id="aspace_ref123_q4i" level="file">
+            <did>
+              <unittitle>Programs and Invitations, 1939-1977, and undated</unittitle>
+              <physdesc id="aspace_b460ad3105b4d783536059efa03d87a8"><extent>7
+                folders</extent></physdesc>
+              <container id="aspace_17fd5c97c915885046cee9d887f4c0d4" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

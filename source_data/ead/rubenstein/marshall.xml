@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/marshall/">marshall</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Eugene Marshall Papers, 1839-1962
+          <num>RL.00850</num></titleproper>
+        <author>Guide by: David A. Keough ; Machine-readable finding aid created by: Stephen Douglas
+          Miller</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>1997</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">000868001</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-08-24 14:53:48
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2015</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+      <change>
+        <date>2018</date>
+        <item>edited by MLyon to add in the arrow; cleaned up some series and collection overview
+          note</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Eugene Marshall papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Marshall, Eugene, 1832-1919</persname>
+      </origination>
+      <unitid>RL.00850</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1839/1962" type="inclusive">1839-1962</unitdate>
+      <abstract id="aspace_4d83197a56bd2caea3d02124b33bccfc">Farmer, banker, and Union Cavalry
+        officer of Caledonia, Minnesota. Collection includes correspondence, diaries, writings,
+        legal documents, printed material, record books, scrapbooks, and photographs, chiefly
+        relating to Marshall's military service with Brackett's Battalion, Minnesota Cavalry, in
+        Kentucky, Tennessee, and Alabama (1862-1864) and on the Northwest Indian expedition
+        (1864-1865). Diaries include comments on his immigration from Brockton, MA to Minnesota in
+        1853, and on secessionist spirit in Texas, 1859-1860. Letters from his sister reflect impact
+        of immigrants on Brockton, 1890-1910. Includes material documenting aspects of the Dakota
+        Territory in the 1860s; Plains Indians; Red River carts; the impact of the Civil War on
+        southern unionists, middle Tennessee, and African Americans; religion; education; the status
+        of women; towns in southeastern New England, upper Middle West, Tennessee, and Mississippi
+        River Valley; and Ignatius Donnelly, Horace Mann, and William T. Sherman.</abstract>
+      <langmaterial id="aspace_ea26e055132141c66e60549d29e2c2c6">English. </langmaterial>
+    </did>
+    <accessrestrict id="aspace_6e4528f87f341b1a0ed1b263cac8a5b3">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_e7882b038f61bf88861ebb28532b2268">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in the Eugene Marshall Papers have not been transferred to Duke
+        University. For more information consult the section on copyright in the Regulations and
+        Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_a384061d7c88a28b2ea37ebfac654b6b">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], The Eugene Marshall Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_65a63cdfdb232ca4513db9103c7a89ac">
+      <head>Provenance</head>
+      <p>The Papers of Eugene Marshall were acquired by Duke University in 1960-1962.</p>
+    </acqinfo>
+    <processinfo id="aspace_4d1d7dbcc3d28dfadfda6a3f000c9b5a">
+      <head>Processing Information</head>
+      <p>Processed by David A. Keough </p>
+      <p>Completed 1997</p>
+      <p>Encoded by Stephen Douglas Miller</p>
+      <p>Reprocessed by Katrina Martin, February 2015</p>
+    </processinfo>
+    <bioghist id="aspace_a213b9bc94c658e0929da0d18641fb02">
+      <head>Biographical Note</head>
+      <p>Eugene Marshall (1832-1919), born in North Bridgewater, Massachusetts, was a surveyor,
+        farmer, and banker who served as a volunteer in the Union Army during the Civil War and
+        Sioux Wars (1862-1865) while with units known successively as Curtis' Horse, the 5th Iowa
+        Cavalry, and Brackett's Battalion. He married Elizabeth "Lizzie" Williams (1843-1895) in
+        1866 following his medical discharge from the Army. They had four children together: Ella
+        Fannie (1868-1888), Hayward (1870-1923), Anna Olive (1876-1967), and Ethel Eugenia
+        (1880-1958). Marshall left his family home early and spent most of his adult civilian life
+        in Minnesota and Iowa, and his retirement years in Manchester, Tennessee. While on his
+        travels in and out of uniform, he recorded a wealth of observations concerning the events,
+        people, and environments in each area. Marshall supplemented his observations with accounts
+        of his own participation in politics and economic endeavors, as well as commentary on
+        national figures and events. His experiences in the Midwest and the South are complemented
+        by letters from his sister who had remained in North Bridgewater.</p>
+    </bioghist>
+    <scopecontent id="aspace_cf82f39ba4041d80ae5a9699c1c16423">
+      <head>Collection Overview</head>
+      <p>The papers of Eugene Marshall (1832-1919) span 1847-1962 and consist primarily of diaries
+        kept by Marshall during his military service in the Civil and Sioux Wars and correspondence
+        exchanged with his sister, Olive (Mrs. Frederick Trow). The collection is divided into the
+        following series: the Diaries (1851-1895); Correspondence and other documents (1847-1918;
+        1958-1962); Writings, both printed and manuscript, including poetry, speeches, newspaper
+        articles, and letters to the editor (1863-1918 and undated); Genealogy of Marshall and
+        related families; Volumes and Scrapbooks (1858-1908); Photographs (1858-1913 and undated);
+        and a small folder of miscellaneous material. There is also an oversize folder in the
+        collection, which contains a certificate attesting to Marshall's membership in the Minnesota
+        chapter of the Sons of the American Revolution. The collection also includes one of the
+        Indian arrows that wounded Marshall during the campaign of 1864.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Voyages and travels</subject>
+      <geogname source="lcsh">Alabama -- History -- Civil War, 1861-1865</geogname>
+      <geogname source="lcsh">Texas -- Politics and government 1846-1865</geogname>
+      <geogname source="lcsh">Southern States -- Social conditions</geogname>
+      <subject source="lcsh">Indians of North America -- Great Plains</subject>
+      <subject source="lcsh">Emigration and immigration -- United States</subject>
+      <geogname source="lcsh">Kentucky -- History -- Civil War, 1861-1865</geogname>
+      <geogname source="lcsh">West (U.S.) -- Description and travel</geogname>
+      <subject source="lcsh">Indians of North America -- Wars 1862-1865</subject>
+      <subject source="lcsh">Migration, Internal -- United States</subject>
+      <geogname source="lcsh">Tennessee -- History -- Civil War, 1861-1865</geogname>
+      <geogname source="lcsh">Southern States -- Politics and government -- 1865-1950</geogname>
+      <corpname source="ingest">United States. Army. Cavalry -- History -- Civil War,
+        1861-1865</corpname>
+      <corpname source="ingest">United States -- Description and travel</corpname>
+      <persname source="ingest">Sherman, William T. (William Tecumseh), 1820-1891</persname>
+      <persname source="ingest">Donnelly, Ignatius, 1831-1901</persname>
+      <persname source="ingest">Mann, Horace, 1796-1859</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref65_npn" level="file">
+        <did>
+          <unittitle>Information Folder</unittitle>
+          <container id="aspace_558a0e1a419be17a1ec6d81cead56fc8" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref66_v76" level="series">
+        <did>
+          <unittitle>Correspondence and other documents</unittitle>
+          <unitdate>1847-1962 and undated</unitdate>
+        </did>
+        <scopecontent id="aspace_e87d084d92b3ecf324cfe0848d52bcd5">
+          <head>Scope and Contents</head>
+          <p>This series contains correspondence, largely exchanged with his sister, Olive (Mrs.
+            Frederick Trow); legal and business documents; printed materials (mostly related to
+            veterans' reunions); and newspaper clippings (1858-1915). There is a small folder of
+            miscellaneous material and an oversize certificate attesting to Marshall's membership in
+            the Minnesota chapter of the Sons of the American Revolution.</p>
+        </scopecontent>
+        <c02 id="aspace_ref67_gb0" level="file">
+          <did>
+            <unittitle>Correspondence, 1847-1869</unittitle>
+            <container id="aspace_e483322210a39e9d94056229ba4eb6df" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref74_k1w" level="file">
+          <did>
+            <unittitle>Correspondence, 1870-1911</unittitle>
+            <container id="aspace_a1a4769f72b53b6f738547cde9009e2f" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref83_eob" level="file">
+          <did>
+            <unittitle>Correspondence, 1912-1962 and undated</unittitle>
+            <container id="aspace_a49b59eb76efdfaad653c2dfef476870" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref139_tq1" level="file">
+          <did>
+            <unittitle>Legal and business documents</unittitle>
+            <unitdate>1855-1935</unitdate>
+            <container id="aspace_15cc93633bc20402c008b6dcc8dd487c" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref143_4d9" level="file">
+          <did>
+            <unittitle>Printed materials and ephemera, 1864-1915</unittitle>
+            <container id="aspace_7fbcdddb7e87c484d56296baa6fd322d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref144_odz" level="file">
+          <did>
+            <unittitle>Clippings: 1815-1914, undated</unittitle>
+            <container id="aspace_ef452166e6315366c9d20e4478c2a67f" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref158_7y3" level="series">
+          <did>
+            <unittitle>Miscellaneous items</unittitle>
+            <container id="aspace_e9aaa283f392f13142d264ee68e63624" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_03743d0a4d498a69b2a18197b2949a5f" label="Mixed Materials"
+              type="oversize-folder">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref86_09j" level="series">
+        <did>
+          <unittitle>Diaries</unittitle>
+        </did>
+        <scopecontent id="aspace_2038837d2621d757b163715a41cd247a">
+          <head>Scope and Contents</head>
+          <p>The diaries, 35 small volumes and related materials, contain information on Marshall's
+            activities in the years 1851-1861, but are primarily devoted to his military service in
+            the Civil and Sioux Wars (1861-1866). A typescript of a portion (1861, Nov. 20-1864,
+            Mar. 14) of the war diary prepared by Marshall's daughter, Ethel, also forms part of the
+            collection.</p>
+          <p>Diaries have been individually labeled in chronological order. A guide correlating
+            volume numbers to dates has been filed with them. In some instances, wear on the pencil
+            entries has rendered some pages nearly illegible. Some effort has been made to provide
+            reconstruction of the entries. Diary entries after 1866 are few and scattered -
+            clustered around and primarily concerned with the illnesses and deaths of Marshall's
+            wife and eldest daughter.</p>
+        </scopecontent>
+        <c02 id="aspace_ref87_zvz" level="file">
+          <did>
+            <unittitle>Guide to the Diaries</unittitle>
+            <container id="aspace_fc499d5b78f1d444df390e7e39636d6d" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref97_qdy" level="item">
+          <did>
+            <unittitle>#1 1851</unittitle>
+            <container id="aspace_8b0611dab7e85476d4044aac28251823" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref98_ba2" level="item">
+          <did>
+            <unittitle>#2 1852</unittitle>
+            <container id="aspace_83f3c9247e529da27749af0c920f7521" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref88_fiu" level="item">
+          <did>
+            <unittitle>#3 1853</unittitle>
+            <container id="aspace_ad9cadc3441e7afa623767a0c9d449cc" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref89_3q9" level="item">
+          <did>
+            <unittitle>#4 1859-1860</unittitle>
+            <container id="aspace_4a289a615175bd95ff74fbeb17ef752c" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref99_aqf" level="item">
+          <did>
+            <unittitle>#5 1857-1861</unittitle>
+            <container id="aspace_fc9abf1fbffb841baa3acaa41dfa6de6" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref90_sjd" level="item">
+          <did>
+            <unittitle>#6 1859-1860</unittitle>
+            <container id="aspace_ce017cdd57a94a2686dc241f7f3c2cf3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref91_9le" level="item">
+          <did>
+            <unittitle>#7 1861</unittitle>
+            <container id="aspace_03490dc90e33454caa632841d706b356" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref100_80l" level="item">
+          <did>
+            <unittitle>#8 1861</unittitle>
+            <container id="aspace_c153a1a54cf0e0a25bb9aa9a6d989d0f" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref92_drb" level="item">
+          <did>
+            <unittitle>#9 1862</unittitle>
+            <container id="aspace_9856ac3b3d07fe81beb04151bb569017" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref191_mw8" level="item">
+          <did>
+            <unittitle>#10 1862</unittitle>
+            <container id="aspace_69ed3cbef0358690a2951dd8395fd65e" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref93_h2d" level="item">
+          <did>
+            <unittitle>#11 1862</unittitle>
+            <container id="aspace_82736c079715fff1d9d5b0b430707661" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref94_p12" level="item">
+          <did>
+            <unittitle>#12 1862</unittitle>
+            <container id="aspace_16151e2e607a712e0346765efe874ff5" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref95_r59" level="item">
+          <did>
+            <unittitle>#13 1862</unittitle>
+            <container id="aspace_233f8af8e257af913b6c4eff04bc13db" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref96_xtd" level="item">
+          <did>
+            <unittitle>#14 1862</unittitle>
+            <container id="aspace_d8860261e6db604fad5f61f977ec51eb" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref101_r9f" level="item">
+          <did>
+            <unittitle>#15 1862-1863</unittitle>
+            <container id="aspace_7a896e41a7410d2a0749de90172f5386" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref186_zny" level="item">
+          <did>
+            <unittitle>#16 1852</unittitle>
+            <container id="aspace_54f615ea0790dff25aafbf88ec4c0dbb" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref103_g7e" level="item">
+          <did>
+            <unittitle>#17 1863</unittitle>
+            <container id="aspace_82f60ee2cdc38cfcf0bfe22e7b1e51e7" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref105_zju" level="item">
+          <did>
+            <unittitle>#18 1863</unittitle>
+            <container id="aspace_37d7ee1468c20cfce058648f14d8b9c1" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref106_phj" level="item">
+          <did>
+            <unittitle>#19 1863</unittitle>
+            <container id="aspace_ea8c254fb0b0126ff663eae9bbaa557f" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref107_l7a" level="item">
+          <did>
+            <unittitle>#20 1863</unittitle>
+            <container id="aspace_63a57b7d9229fc14a1f90a69eb155bd7" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref108_hiw" level="item">
+          <did>
+            <unittitle>#21 1863-1864</unittitle>
+            <container id="aspace_9dad36565dabf0ff656ec34636b7303a" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref109_7da" level="item">
+          <did>
+            <unittitle>#21A 1863</unittitle>
+            <container id="aspace_9e61045d3cbd997eddcdd091c3d351e9" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref110_13h" level="item">
+          <did>
+            <unittitle>#22 1864</unittitle>
+            <container id="aspace_609561c0531fd55932c33025c2510110" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref111_nx0" level="item">
+          <did>
+            <unittitle>#23 1864</unittitle>
+            <container id="aspace_5499cf75d2212d08d7e945c51946d632" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref112_vt3" level="item">
+          <did>
+            <unittitle>#24 1864</unittitle>
+            <container id="aspace_a38755bfbd0f17eadc504591e47159fc" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref113_7y5" level="item">
+          <did>
+            <unittitle>#25 1864</unittitle>
+            <container id="aspace_730ceba2b8a4d74347d80b0accb6d1fc" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref114_304" level="item">
+          <did>
+            <unittitle>#25A 1864</unittitle>
+            <container id="aspace_89d0211015a6a3f7b33f6f20896ea727" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref115_wzg" level="item">
+          <did>
+            <unittitle>#26 1864</unittitle>
+            <container id="aspace_a1df66895a8b045aacde205218c656d6" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref116_bme" level="item">
+          <did>
+            <unittitle>#27 1864</unittitle>
+            <container id="aspace_8f1d15a5e6a2f2d29bb0fe76bc9444c4" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref117_s5r" level="item">
+          <did>
+            <unittitle>#28 1864</unittitle>
+            <container id="aspace_a6ae13e38a47ba5b9238266b8270cf71" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref118_c7n" level="item">
+          <did>
+            <unittitle>#29 1864</unittitle>
+            <container id="aspace_d1705a84e6ba0bff2edbcd5402bd19b6" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref187_cd7" level="item">
+          <did>
+            <unittitle>#30 1865</unittitle>
+            <container id="aspace_525b74b201dc62b94fcfc1c93cb0dded" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref188_plo" level="item">
+          <did>
+            <unittitle>#31 1865</unittitle>
+            <container id="aspace_974746199150e40ef29f130d5f48da98" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref190_l86" level="item">
+          <did>
+            <unittitle>#32 1863-1865</unittitle>
+            <container id="aspace_ea8fbdc8496fc63eac628787e893e152" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref119_s7m" level="item">
+          <did>
+            <unittitle>#33 1865-1866</unittitle>
+            <container id="aspace_1712d5e85b8e0f784dd49f62202ac5bb" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref189_vmo" level="item">
+          <did>
+            <unittitle>#34 1890</unittitle>
+            <container id="aspace_3818f88e96f559f88c444489f2d35edc" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref120_g7u" level="item">
+          <did>
+            <unittitle>#35 1895</unittitle>
+            <container id="aspace_ba4892ba83203bdbd44e80a61e6ac28d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref123_ryt" level="file">
+          <did>
+            <unittitle>Typescript: 1862 Mar. 1 - Jun. 30</unittitle>
+            <container id="aspace_26c506427ef0ab4072911bd6fa90ec54" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref122_9c2" level="file">
+          <did>
+            <unittitle>Typescript: 1862: Mar. 1 - Oct. 10</unittitle>
+            <container id="aspace_7f3bf9b0797082e2404b11349c74ed52" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref198_gst" level="item">
+          <did>
+            <unittitle>Bound transcript of diaries </unittitle>
+            <container id="aspace_54ec06ff75f8b3d17d15195361ccc354" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref124_fiq" level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <scopecontent id="aspace_5b86c7f6780967d9d82cdaad70fcc173">
+          <head>Scope and Contents</head>
+          <p>Writings, both printed and manuscript, include poetry, speeches, newspaper articles,
+            and letters to the editor (1863-1918 and undated).</p>
+        </scopecontent>
+        <c02 id="aspace_ref128_gbu" level="file">
+          <did>
+            <unittitle>Assorted published material, 1864-1897 and undated</unittitle>
+            <container id="aspace_7a36388922d5434c48e8ba14b759c3fb" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref134_ct8" level="file">
+          <did>
+            <unittitle>Article on Civil War Experiences, Dec. 1861- Feb. 1862, in Manchester Times,
+              July 1918</unittitle>
+            <container id="aspace_445f7b72eaada30be46f43ed1d07b9ba" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref130_dca" level="file">
+          <did>
+            <unittitle>Article on 1864 Expedition in St. Paul Press, Jan. 25, 1897</unittitle>
+            <container id="aspace_769a0db0caa02e64831d5a0043375dac" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref125_2fv" level="file">
+          <did>
+            <unittitle>Poetry, 1863-1914</unittitle>
+            <container id="aspace_2e0f57224b0da33f2746c20a4226e697" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref137_8bj" level="file">
+          <did>
+            <unittitle>Typescripts: Poems: 1855, 1863, 1880s, and undated</unittitle>
+            <container id="aspace_c422ebc39efba3081dd3a03d32cc9865" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref126_qp4" level="file">
+          <did>
+            <unittitle>Drafts: letters and and articles for St. Paul Press, 1864-1865</unittitle>
+            <container id="aspace_8e898694791fd874b819da4d6b19d052" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref127_bdu" level="file">
+          <did>
+            <unittitle>Commentary on Reconstruction and the causes of the Civil War,
+              1865-1876</unittitle>
+            <container id="aspace_32d3c458b3f4e6825d51846aeec099ad" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref129_sln" level="file">
+          <did>
+            <unittitle>Notes for Report on National Resources and Topography of Dakota Territory,
+              ca. 1865</unittitle>
+            <container id="aspace_0681d588d8eebddbdf9840192670106b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref131_uv4" level="file">
+          <did>
+            <unittitle>Account of "The Great North Westerns Indian Expedition of 1864"</unittitle>
+            <container id="aspace_d8e3e591a6ac3f8410c07dd618a28570" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref132_o1u" level="file">
+          <did>
+            <unittitle>Reminiscences of George W. Northrup and related materials, 1898</unittitle>
+            <container id="aspace_f5d85cf16361a48c28bc39846ec22ebc" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref135_fv0" level="file">
+          <did>
+            <unittitle>Commentary on Indian Policy</unittitle>
+            <container id="aspace_be5c1bdbdff54a35bc69ced3eefb2376" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref136_h8x" level="file">
+          <did>
+            <unittitle>Autobiographical sketch</unittitle>
+            <container id="aspace_ffc6d390677b10f01cc111e7ce75ca86" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref138_oxf" level="file">
+          <did>
+            <unittitle>Typescripts: Sketch of History of Brackett's Battalion, Address to a Grand
+              Army of the Republic Gathering</unittitle>
+            <container id="aspace_3df5a674d6214a8fca8c3705d342947a" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref147_snf" level="series">
+        <did>
+          <unittitle>Genealogy</unittitle>
+        </did>
+        <c02 id="aspace_ref148_nk5" level="file">
+          <did>
+            <unittitle>Ancestry of Eugene Marshall</unittitle>
+            <container id="aspace_bc8d17c1d074f4d323cc0c1161ddc00e" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref154_waz" level="file">
+          <did>
+            <unittitle>Ancestry of Olive Hayward</unittitle>
+            <container id="aspace_9681f9816ab84caef727063873d3664d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref155_xk2" level="file">
+          <did>
+            <unittitle>Ancestry of Francis Cooke</unittitle>
+            <container id="aspace_960afe7868e9026058d2d531214de4f2" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref156_05y" level="file">
+          <did>
+            <unittitle>Genealogy of the Wild Family, 1897</unittitle>
+            <container id="aspace_ef5f189800924a15e66318998126da7a" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref157_z7x" level="file">
+          <did>
+            <unittitle>Miscellaneous </unittitle>
+            <container id="aspace_14c3fea20b3ccf7a68c98397e50ec091" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref192_5o3" level="series">
+        <did>
+          <unittitle>Volumes and Scrapbooks</unittitle>
+        </did>
+        <c02 id="aspace_ref193_ppc" level="item">
+          <did>
+            <unittitle>Record of business and agricultural activity, 1858-1860, 1867</unittitle>
+            <container id="aspace_56a5c8fea506d680412ad44deccdb33e" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref194_9uh" level="item">
+          <did>
+            <unittitle>Scrapbook and ledger, 1857-1861, 1866-1867</unittitle>
+            <container id="aspace_d85db1f46ed8430f0e3204b2a9e2a5e2" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref195_ruu" level="item">
+          <did>
+            <unittitle>Ledger, 1906-1908</unittitle>
+            <container id="aspace_908bfd45a9bfe8823b42490ba456f457" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref196_pxh" level="item">
+          <did>
+            <unittitle>Record book 1858-1860, 1867-1883</unittitle>
+            <container id="aspace_c3e03e321d570403ef0ee30bbe04cbda" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref159_bxe" level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02 id="aspace_ref163_zii" level="item">
+          <did>
+            <unittitle>Eugene Marshall 1913 (2 copies)</unittitle>
+            <container id="aspace_abed88fce9d85b31448db7c5b451c8b1" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_f262b6c8089879177c4a24becc3ac93f"
+              parent="aspace_abed88fce9d85b31448db7c5b451c8b1" type="folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref164_igw" level="item">
+          <did>
+            <unittitle>Eugene Marshall 1913</unittitle>
+            <container id="aspace_41fe90f1e7a844461953035fbc8bee0f" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_d014f1662927827d8754ccc42dd5fbca"
+              parent="aspace_41fe90f1e7a844461953035fbc8bee0f" type="folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref166_4m3" level="item">
+          <did>
+            <unittitle>Mrs. Eugene (Elizabeth "Lizzie" Williams) Marshall ca. 1868-1880</unittitle>
+            <container id="aspace_0442beb7012ad034e362106090640945" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_6e5de26dd2195fb3124c9834ecccb15c"
+              parent="aspace_0442beb7012ad034e362106090640945" type="folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref167_mcz" level="item">
+          <did>
+            <unittitle>Eugene Marshall 1865</unittitle>
+            <container id="aspace_62e2d3a58b76a57977108772eb1229e5" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_8e3116881fe2775c54eb7c383dbf988a"
+              parent="aspace_62e2d3a58b76a57977108772eb1229e5" type="folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref168_v3a" level="item">
+          <did>
+            <unittitle>Eugene Marshall and E.D. Peebles 1865</unittitle>
+            <container id="aspace_85f31e379dfe0359b33e7032a852fc88" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_8c8214927e30241131e9b57b5587686a"
+              parent="aspace_85f31e379dfe0359b33e7032a852fc88" type="folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref169_7h0" level="item">
+          <did>
+            <unittitle>Eugene Marshall and daughter Ethel</unittitle>
+            <container id="aspace_5215f209f3299370f2b76b057b3f48d1" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_3dd344d573ed43ef98991425df3ad49c"
+              parent="aspace_5215f209f3299370f2b76b057b3f48d1" type="folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref171_w6o" level="item">
+          <did>
+            <unittitle>Eugene Marshall's birthplace and boyhood home at Marshall's Corners, North
+              Bridgewater Mass.</unittitle>
+            <container id="aspace_4892e44f50b276a529766e3f50f892cf" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_642d5786af8aab2909b1a92bd84b0c5d"
+              parent="aspace_4892e44f50b276a529766e3f50f892cf" type="folder">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref172_rfi" level="item">
+          <did>
+            <unittitle>Haywood Marshall, Eugene Marshall's father</unittitle>
+            <container id="aspace_898005fd0eaeb1288e7819174bfebc2e" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_9f0faa3c1a3f168e263f5aae95f4902a"
+              parent="aspace_898005fd0eaeb1288e7819174bfebc2e" type="folder">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref174_jjm" level="item">
+          <did>
+            <unittitle>Photograph of arrow taken from Eugene Marshall's side after a fight with the
+              Sioux Indians</unittitle>
+            <container id="aspace_22483c3a4783ba5d1bf1c613e5e33e9b" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_40ea670f336d1544e17503f54c14384c"
+              parent="aspace_22483c3a4783ba5d1bf1c613e5e33e9b" type="folder">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref180_btb" level="item">
+          <did>
+            <unittitle>Eugene Marshall, cased tintype ca. 1865-1866</unittitle>
+            <container id="aspace_77c75db641ddce3a6e29dae5c084a195" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_802ed7fdecfe49c1d2abe9bd82ae423b"
+              parent="aspace_77c75db641ddce3a6e29dae5c084a195" type="folder">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref181_cyw" level="item">
+          <did>
+            <unittitle>Eugene Marshall, cased Daguerreotype ca. 1865-1866 </unittitle>
+            <container id="aspace_31974d2ecc5466b044b8aba3a19a4a2c" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_98acc92fa13adcbd0cff5d06116eb8e8"
+              parent="aspace_31974d2ecc5466b044b8aba3a19a4a2c" type="folder">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref183_xgt" level="item">
+          <did>
+            <unittitle>Elizabeth Marshall, cased ambrotype</unittitle>
+            <container id="aspace_e7630a660110116d727d90f99d159978" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_8e1a2fd6b902a9c2f7134a9a83275f2e"
+              parent="aspace_e7630a660110116d727d90f99d159978" type="folder">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref184_bj5" level="item">
+          <did>
+            <unittitle>1 empty case</unittitle>
+            <container id="aspace_f625a062f14aa355c445a42d27f2b543" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_6a9590524ce472452352e80852e3c2e8"
+              parent="aspace_f625a062f14aa355c445a42d27f2b543" type="folder">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref176_ws1" level="item">
+          <did>
+            <unittitle>Eugene Marshall, tintype (undated)</unittitle>
+            <container id="aspace_134700f82f32cc84df5a4188c88d389d" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref177_wha" level="item">
+          <did>
+            <unittitle>Eugene Marshall, tintype (undated)</unittitle>
+            <container id="aspace_fd988f235b65796ffc413bdb1b88cace" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref178_a82" level="item">
+          <did>
+            <unittitle>W.W. Williams, tintype, ca. 1858</unittitle>
+            <container id="aspace_8a9024f83dbfb9099d61ab2fb3375ac8" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref185_jg0" level="file">
+          <did>
+            <unittitle>Copies of photographs</unittitle>
+            <container id="aspace_389bdc2b266030985131f8f69105f559" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_8adddd72a9bbc9811e2145df3d97e9f6" level="item">
+        <did>
+          <unittitle>Arrow</unittitle>
+          <unitdate>1864</unitdate>
+          <container id="aspace_2d3d24fa93f0197ae4e57d68000934e3" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+        <scopecontent id="aspace_c0e0e511a6cafe2fbac083c8956e24e2">
+          <head>Scope and Contents</head>
+          <p>One of the Indian arrows that wounded Marshall during the campaign of 1864.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

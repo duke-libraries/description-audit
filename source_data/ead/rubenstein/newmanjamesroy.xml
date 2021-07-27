@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/newmanjamesroy/"
+         >newmanjamesroy</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the James Roy Newman Papers, 1920-1966 <num>RL.00943</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library Staff; machine-readable finding aid created by:
+               Ted Holt</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002273859</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 04:55:45
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>James Roy Newman papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Newman, James Roy, 1907-1966</persname>
+         </origination>
+         <unitid>RL.00943</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">23.4 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1920/1966" type="inclusive">1920-1966</unitdate>
+         <physloc id="aspace_dc513fa2136f05069b9afb2b00dea3b6">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_1abdc35b079370c1ce8926a1792c2a6d">Editor of the "New Republic" and
+            "Scientific American." Collection contains notebooks, correspondence, a large variety of
+            writings, a diary, and some clippings. The correspondence largely involves his duties as
+            editor but includes personal matters as well. Writings include entry lists for the
+            HARPER ENCYCLOPEDIA OF SCIENCE, essays, typescripts, articles for THE WORLD OF
+            MATHEMATICS, book drafts, manuscript of GÖDEL’S PROOF, and other scientific writings.
+            There are a large number of book reviews and articles, including some on atomic energy.
+            Two manuscripts were written by his wife, Ruth (Gallert) Newman and there is a term
+            paper by his daughter.(93-187) The addition (8 volumes) contains notebooks that appear
+            to hold notes from college courses. They include a transcribed lecture by Justice Felix
+            Frankfurter. (00-265) The 3 volume addition comprises spiral-bound volumes of
+            photocopied author catalog cards for items in this collection. (00-409)</abstract>
+         <physdesc id="aspace_efd9afa72db8e270fec5608f35ba7412">
+            <extent>9844 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_d6579d43ad8ad3f46fb07cd0ddb8c18e">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_cec3968610306c87d66530d8d4e86a6a">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_f0bfe0b20dcc4a68d846edd26a4d411b">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_eefd462a4b3c6da1d435c33dea150070">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], James Roy Newman Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_4b10d1cd023e7c9c425c5bebc9a35cf2">
+         <head>Provenance</head>
+         <p>The James Roy Newman Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 1969.</p>
+      </acqinfo>
+      <processinfo id="aspace_3cd702a64c3a546f6d57daea4d68f0af">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff </p>
+         <p>Encoded by Ted Holt, September 2009</p>
+         <p>Materials may not have been ordered and described beyond their original condition. </p>
+      </processinfo>
+      <controlaccess>
+         <subject source="lcsh">Mathematics -- History</subject>
+         <persname source="ingest">Newman, James Roy, 1907-1966</persname>
+         <persname source="ingest">Newman, James Roy, 1907-1966</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref10_bcz" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1940-1963 and undated</unittitle>
+               <physdesc id="aspace_34997e96c8c4e9b6469abd32cc0bd96a">
+                  <extent>9 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref12_7z9" level="file">
+               <did>
+                  <unittitle>1947-1963</unittitle>
+                  <container id="aspace_2f09607f22045ebf0b21fba700616984" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref13_qwa" level="file">
+               <did>
+                  <unittitle>A-G</unittitle>
+                  <container id="aspace_c835692869cc3d20b19962f9ce25002f" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref14_94m" level="file">
+               <did>
+                  <unittitle>H-Z</unittitle>
+                  <container id="aspace_c6ce013daad6da442eef9b28a9b75133" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_e9m" level="file">
+               <did>
+                  <unittitle>1940-1947</unittitle>
+                  <container id="aspace_4c5e8d89196f9469e7879f206c82fa97" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_e46" level="file">
+               <did>
+                  <unittitle>1948-1950, June</unittitle>
+                  <container id="aspace_abc4b49cc5702dda494c2e74990ec4ff" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_wy2" level="file">
+               <did>
+                  <unittitle>1950, July-1954</unittitle>
+                  <container id="aspace_d7170aae1a7d2e211eb3e91e4d5980ab" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_6fv" level="file">
+               <did>
+                  <unittitle>1955-1959, June</unittitle>
+                  <container id="aspace_f2fa9c63ea1107554035c53367b742d0" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_117" level="file">
+               <did>
+                  <unittitle>1959, July-1960 and undated</unittitle>
+                  <container id="aspace_46b5cdf1c87e23d9d6f16c593e54288a" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_iip" level="file">
+               <did>
+                  <unittitle>Undated</unittitle>
+                  <container id="aspace_521e1f1d674041cb8c07200486741575" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref21_63v" level="series">
+            <did>
+               <unittitle>Subject Files Series</unittitle>
+               <physdesc id="aspace_3d69b95d6d73be3a4ad3b6403dad7b5b">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref23_cku" level="file">
+               <did>
+                  <unittitle>Subjects: A-F</unittitle>
+                  <container id="aspace_efb813994c20b8bdb58aebb9996a7f48" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_b5a" level="file">
+               <did>
+                  <unittitle>Subjects: G-W</unittitle>
+                  <container id="aspace_698a36095ac1059364f2b82d65a98381" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref25_nqj" level="series">
+            <did>
+               <unittitle>Writings Series</unittitle>
+               <physdesc id="aspace_0c631d7c380cfa71a372cba3ab6457ed">
+                  <extent>32 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref27_6ty" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <container id="aspace_3417af717e7946ddc7993e06b6c4f867" label="Mixed Materials"
+                     type="box">4-6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_i9w" level="file">
+               <did>
+                  <unittitle>Introduction and essays for <title render="italic">The World of
+                        Mathematics</title>
+                  </unittitle>
+                  <container id="aspace_4ebb3c5d582b4d948653521b1eddb5e2" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_ezo" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Harper's Encyclopedia of Science</title>
+                  </unittitle>
+                  <container id="aspace_24a528fd10cb6ae368f7cd7735393739" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_59b" level="file">
+               <did>
+                  <unittitle>Writings by Others</unittitle>
+                  <container id="aspace_03e26a09943ad3b5898e188380660f26" label="Mixed Materials"
+                     type="box">9-10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_lmk" level="file">
+               <did>
+                  <unittitle>Mathematics notebooks</unittitle>
+                  <container id="aspace_f12a9b8c22cdc0d79174dd5b5312710b" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_cev" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <container id="aspace_c4f522f52140b5efbd9238a171a12291" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_yp4" level="file">
+               <did>
+                  <unittitle>[BOX MISSING]</unittitle>
+                  <container id="aspace_b77d5883c7016674b7709cdc8b64f6d1" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_f1s" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <container id="aspace_5b311a1f5cf845a8019273472b4403d1" label="Mixed Materials"
+                     type="box">14-16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_yld" level="file">
+               <did>
+                  <unittitle>Treviso Arithmetic- What is science?</unittitle>
+                  <container id="aspace_bc1e674183929acb35844357a381aa5e" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_dc0" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <container id="aspace_ee5cef5bedada3d909ffe8fe7c0a5719" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_dbz" level="file">
+               <did>
+                  <unittitle>[BOX MISSING]</unittitle>
+                  <container id="aspace_38eaf67f6b44005291d1d749464e4828" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_lq7" level="file">
+               <did>
+                  <unittitle>Book Reviews, 1940s-1950s</unittitle>
+                  <container id="aspace_3af381d54508eb379c605f06755429b6" label="Mixed Materials"
+                     type="box">20-24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_vcg" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Encyclopedia Britannica</title>
+                  </unittitle>
+                  <container id="aspace_52182b153dc6b505d05cb609be5dc7fb" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_kwp" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Harper's Encyclopedia of Science</title>
+                  </unittitle>
+                  <container id="aspace_09763fd4cf22df5d112667b21e600097" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_c7k" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <container id="aspace_afa10d88175c53c8a6689fcc931db77c" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_yc6" level="file">
+               <did>
+                  <unittitle>Mathematics-Miscellaneous</unittitle>
+                  <container id="aspace_172a661569d1f8ae7c48cbbc8169557c" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_x3n" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">World of Mathematics</title>
+                  </unittitle>
+                  <physdesc id="aspace_51343bcf3130787280492ebc2eec807b">
+                     <extent>Volumes 1-3,5</extent>
+                  </physdesc>
+                  <container id="aspace_97c8d7a9960e11ce47a12d2116ec267e" label="Mixed Materials"
+                     type="box">31-34</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_gr5" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <container id="aspace_4d18b7d0d69ed098149baa76a25737b2" label="Mixed Materials"
+                     type="box">34-35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_1ao" level="file">
+               <did>
+                  <unittitle>Wyckoff-Yale</unittitle>
+                  <container id="aspace_f00ba8a51e7fd842505a8353bc867be8" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_jat" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <container id="aspace_a1b8b1d626b61166863abf10e874223e" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref48_g7r" level="series">
+            <did>
+               <unittitle>Printed Materials Series</unittitle>
+               <physdesc id="aspace_3081eb4d2c5ba6f5316c535dbd23d90e">
+                  <extent>7 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref50_5e6" level="file">
+               <did>
+                  <unittitle>Printed material</unittitle>
+                  <container id="aspace_716b28ec3b429fdfc94cdef590b8965e" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_px4" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <container id="aspace_7d30a0af3ad7068060a28c2e9eede2da" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_47g" level="file">
+               <did>
+                  <unittitle>Clippings: Einstein</unittitle>
+                  <container id="aspace_314639b95318c3d0198249c11b7f1fd6" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_br8" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_a9783c4377b5c64a4aa7171eebd3193d" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_86u" level="file">
+               <did>
+                  <unittitle>Volumes</unittitle>
+                  <container id="aspace_c0cfae4a76a2a42f6681a0b28016f35e" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_xl5" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <container id="aspace_0d31d7818806d584b0892eeae2090f56" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_5te" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <container id="aspace_20997c4bf33bda647ec1a732d9113b20" label="Mixed Materials"
+                     type="box">45</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_n02" level="file">
+               <did>
+                  <unittitle>Printed Material</unittitle>
+                  <container id="aspace_f12fef9b5ce3669a4dcfa71596cffaef" label="Mixed Materials"
+                     type="box">45-47</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref58_9h2" level="series">
+            <did>
+               <unittitle>Ruth Gallert Newman Series</unittitle>
+               <physdesc id="aspace_5a9700d059eac69e61cdcf0b5ba61fcc">
+                  <extent>9 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref60_m5u" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <container id="aspace_c0889b2e5487ccabf6b1841f86b3cf0c" label="Mixed Materials"
+                     type="box">48</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_40e" level="file">
+               <did>
+                  <unittitle>Subjects: A-C</unittitle>
+                  <container id="aspace_b5c2e90db5ce5d75ccd7044b743fe154" label="Mixed Materials"
+                     type="box">48</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_f3o" level="file">
+               <did>
+                  <unittitle>Subjects: D-J</unittitle>
+                  <container id="aspace_afb2e4e25334df6ad7cbc24b169795ef" label="Mixed Materials"
+                     type="box">49</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_ckv" level="file">
+               <did>
+                  <unittitle>Subjects: K-P</unittitle>
+                  <container id="aspace_045d94c57da906625db091b917a089e2" label="Mixed Materials"
+                     type="box">50</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_tku" level="file">
+               <did>
+                  <unittitle>Subjects: Q-S</unittitle>
+                  <container id="aspace_4622de19000b515dbf050fa69ba6a4cc" label="Mixed Materials"
+                     type="box">51</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_qcz" level="file">
+               <did>
+                  <unittitle>Subjects: S-T</unittitle>
+                  <container id="aspace_121d360a403d06df2ebe43ed6e5f69ed" label="Mixed Materials"
+                     type="box">52</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_kiz" level="file">
+               <did>
+                  <unittitle>Subjects: U-Z</unittitle>
+                  <container id="aspace_cf6a890748a09adbbfdb3ae1862fb2a3" label="Mixed Materials"
+                     type="box">53</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_5pa" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_cb3f155099fb5270c78cbe4644978266" label="Mixed Materials"
+                     type="box">53</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_e7c" level="file">
+               <did>
+                  <unittitle>Pictures</unittitle>
+                  <container id="aspace_592439043eb81028db58786048e48996" label="Mixed Materials"
+                     type="box">53</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_0i2" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <container id="aspace_3a0e4749edbffaa3cce8663ea8df531a" label="Mixed Materials"
+                     type="box">54-55</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_mkk" level="file">
+               <did>
+                  <unittitle>Papers</unittitle>
+                  <container id="aspace_e4f39048e5b44828413c038bd29bbd97" label="Mixed Materials"
+                     type="box">56</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_l5g" level="file">
+               <did>
+                  <unittitle>Printed Material</unittitle>
+                  <container id="aspace_ec35c2675259552136dd3de8fdb84264" label="Mixed Materials"
+                     type="box">56</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref72_cx6" level="series">
+            <did>
+               <unittitle>Accession 1993-187, 1924</unittitle>
+               <physdesc id="aspace_420c2cca091015f5ec0952335dcae070">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_ee9a9ea24e9ce72b8335e29c72ec47b1">
+               <head>Scope and Contents note</head>
+               <p>Consists of one diary. Located at end of Box 56.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="aspace_ref75_pvc" level="series">
+            <did>
+               <unittitle>Accession 2000-265, 1936-1937</unittitle>
+               <physdesc id="aspace_2f3ebf731920040b739af760df6bdbee">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_a70d9b8a339b621d5a8ad69b1fad7008">
+               <head>Scope and Contents note</head>
+               <p>The addition (8 volumes) contains notebooks that appear to hold notes from college
+                  courses. They include a transcribed lecture by Justice Felix Frankfurter.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="aspace_ref78_v9z" level="series">
+            <did>
+               <unittitle>Accession 2000-0409</unittitle>
+               <physdesc id="aspace_c8a0cca75718aad2205ed3ff2513584e">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_fbc8fdac0d1e2ec77e6b04fb8545ee62">
+               <head>Scope and Contents note</head>
+               <p>The 3 volume addition comprises of spiral-bound volumes of photocopied author
+                  catalog cards for items in this collection.</p>
+            </scopecontent>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

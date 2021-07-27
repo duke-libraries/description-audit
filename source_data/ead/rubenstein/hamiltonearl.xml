@@ -1,0 +1,3156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/hamiltonearl/">hamiltonearl</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Earl J. Hamilton Papers, 1350-1995 and undated (bulk 1650-1940)
+            <num>RL.00496</num></titleproper>
+        <author>Processed by: James Cusick, Trey McClean, Paula Jeannet; machine-readable finding
+          aid created by: Paula Jeannet</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2003</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">002388074</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-04-09 11:25:41
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Earl J. Hamilton papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Hamilton, Earl J.</persname>
+      </origination>
+      <unitid>RL.00496</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">43.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1350/1995" type="inclusive">1350-1995</unitdate>
+      <physloc id="aspace_88e9f545473fe38eeee2a233ba069fc5">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <physdesc id="aspace_fe92afcb6d53c17d3bc11d81c06935d0"><extent>32,625
+        Items</extent></physdesc>
+      <langmaterial id="aspace_51579a095e3ac29411391fcb6fa5b3c6">English. </langmaterial>
+      <abstract id="aspace_3c7159abbc3f630b2909e589145c750e">Collection spans the years 1350 to
+        1995, and contains Earl J. Hamilton's research notes and other materials dating chiefly from
+        the 1930s to the 1970s. Hamilton was a pioneer in the field of quantitative economic history
+        during a career that spanned fifty years. Together with his wife, Gladys Dallas Hamilton, he
+        conducted important research during the 1930s and 1940s on the history of the South American
+        and Spanish economies; the history of American, Spanish, and French banking; the history of
+        John Law and the "Mississippi Bubble" and its effect on European economies; and prices and
+        wages in medieval Spain.</abstract>
+    </did>
+    <accessrestrict id="aspace_b8f0dbf73c7fce26a769747450b67302">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_44def2bca0550e458d2539f03a0a845c">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_8953baa39cb1e1e1e0b0a99e23e95a0c">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Earl J. Hamilton Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_3b0c23ec94db8bc8a1b3a1355bc63142">
+      <head>Provenance</head>
+      <p>The Earl J. Hamilton Papers were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library as a gift in 1990-1992.</p>
+    </acqinfo>
+    <processinfo id="aspace_715a5e733276279d8e3812b2a930cb45">
+      <head>Processing Information</head>
+      <p>Processed by James Cusick, Trey McClean, Paula Jeannet</p>
+      <p>Completed 1998</p>
+      <p>Accessions 90-103, 91-075, 92-036, and 96-157 were merged to form one collection, described
+        in this finding aid.</p>
+    </processinfo>
+    <bioghist id="aspace_0367158276b52646806a3ec0077db378">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Missing Title</head>
+        <chronitem>
+          <date>1899</date>
+          <eventgrp>
+            <event>Born in Houlka, Miss.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1920</date>
+          <eventgrp>
+            <event>Graduated with honors from the University of Mississippi</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1923</date>
+          <eventgrp>
+            <event>Married Gladys Olive Dallas</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1924</date>
+          <eventgrp>
+            <event>Received M.A. from University of Texas</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1924-1926</date>
+          <eventgrp>
+            <event>Hamilton and his wife studied at Harvard, taking classes in history with Allyn
+              Young; Earl Hamilton received A.M. in 1926</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1927-1944</date>
+          <eventgrp>
+            <event>Professor of economics at Duke University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1928</date>
+          <eventgrp>
+            <event>Published article <title type="simple" render="doublequote">American Treasure and
+                Andalusian Prices, 1503-1660: A Study in the Spanish Price Revolution,</title>
+              initiating the modern debate on profits and price inflation in Europe</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1929, Nov.</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="doublequote">American Treasure and the
+                Rise of Capitalism, 1500-1700</title> in <title type="simple" render="italic"
+                >Economica</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1929</date>
+          <eventgrp>
+            <event>Received Ph.D. from Harvard</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1934</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="italic">American Treasure and the Price
+                Revolution in Spain, 1501-1650</title> (Harvard University Press)</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1936</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="italic"> Money, Prices, and Wages in
+                Valencia, Aragon, and Navarre, 1351-1500 </title> (Harvard University Press)</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1936-1937</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="doublequote">Prices and Wages at Paris
+                Under John Law's System</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1944-1947</date>
+          <eventgrp>
+            <event>Professor of economics at Northwestern University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1947</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="italic">War and Prices in Spain,
+                1651-1800</title> (Harvard University Press)</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1947-1967</date>
+          <eventgrp>
+            <event>Professor of economics at the University of Chicago</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1948-1954</date>
+          <eventgrp>
+            <event>Served as editor of the University of Chicago's <title type="simple"
+                render="italic">Journal of Political Economy</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1951-1952</date>
+          <eventgrp>
+            <event>President of the Economic History Association</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1966-1969</date>
+          <eventgrp>
+            <event>Distinguished Professor of Economic History at the State University of New York,
+              Binghamton</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1969</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="doublequote">The Political Economy of
+                France at the Time of John Law</title> in <title type="simple" render="italic"
+                >History of Political Economy</title> journal</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1977, Mar.</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="doublequote">The Role of War in Modern
+                Inflation</title> in the <title type="simple" render="italic">Journal of Economic
+                History</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1989</date>
+          <eventgrp>
+            <event>Died in Oak Ridge, Tenn.</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="aspace_c97096f3eef1d3ead4ff504f6724933b">
+      <head>Collection Overview</head>
+      <p>The Earl J. Hamilton Papers span the years from 1350 to 1995, with Hamilton's research
+        notes and other materials dating chiefly from the 1930s to the 1970s. (Note: Early dates
+        reflect original dates of primary sources rather than the dates on which the photocopies of
+        these sources were created.) Hamilton was a pioneer in the field of quantitative economic
+        history during a career that spanned fifty years. Together with his wife, Gladys Dallas
+        Hamilton, he conducted important research during the 1930s and 1940s on the history of the
+        South American and Spanish economies; the history of American, Spanish, and French banking;
+        the history of John Law and the "Mississippi Bubble" and its effect on European economies;
+        and prices and wages in medieval Spain.</p>
+      <p>The collection includes not only extensive background notes for Hamilton's major books and
+        articles, but also over 200 original <emph render="italic">legajos</emph> and other
+        documents pertaining to Spanish trade and economic development, dating primarily from the
+        17th and 18th centuries. Other primary source materials from the 14th to the 18th centuries
+        are also abundant (chiefly in the form of photostats and transcripts), including hundreds of
+        copies of documents held by the Archivo del Banco de España, the Archivo Histórico Nacional,
+        and other archives in Europe.</p>
+      <p>Photocopies and microfilm copies of items which belong to other libraries and archives may
+        require permission of the owner institution to further reproduce or publish. Users making
+        further copies for their own research do so at their own discretion. Before publication of
+        any such material, it is the user's responsibility to identify the original source and
+        obtain permission. </p>
+      <p>The collection also contains drafts and reprints of research papers, and numerous folders
+        of academic and personal correspondence. Some documents in the collection are in French or
+        Spanish.</p>
+      <p><emph render="bold">Note that the early dates given in collection and series titles reflect
+          the dates of the original primary source material that Hamilton used for his research, not
+          the date when the photostat, photocopy or transcription was created.</emph>
+      </p>
+    </scopecontent>
+    <processinfo id="aspace_8e4922f198abcee1b2a9d44dd96c4652">
+      <head>Processing Information note</head>
+      <p>Technical Services staff may need to further process certain materials (letters still in
+        envelopes, film, and audio cassettes) before they can be used for research. Please contact
+        the Research Services staff before visiting the David M. Rubenstein Rare Book &amp;
+        Manuscript Library to use this collection.</p>
+      <p>This finding aid is NCEAD compliant.</p>
+    </processinfo>
+    <accessrestrict id="aspace_9be575e7884870f4734114eecdf4b486">
+      <head>Conditions Governing Access</head>
+      <p>Access to the Teaching Materials Series is restricted. In accordance with the Family
+        Education Rights and Privacy Act of 1974 as amended, Duke University permits students to
+        inspect their education records and limits the disclosure of personally identifiable
+        information from education records. Contact Research Services for more information.</p>
+    </accessrestrict>
+    <controlaccess>
+      <geogname source="lcsh">Spain -- Economic conditions</geogname>
+      <geogname source="lcsh">Spain -- Commerce -- History</geogname>
+      <subject source="lcsh">Monroe Doctrine -- Economic aspects</subject>
+      <subject source="lcsh">Prices -- Spain -- History</subject>
+      <geogname source="lcsh">Europe -- Economic conditions</geogname>
+      <geogname source="lcsh">South America -- Economic conditions</geogname>
+      <geogname source="lcsh">France -- Economic conditions</geogname>
+      <subject source="lcsh">Economics -- Study and teaching</subject>
+      <subject source="lcsh">Banks and banking -- Spain -- History</subject>
+      <subject source="lcsh">Banks and banking -- France -- History</subject>
+      <subject source="lcsh">Economists -- Correspondence</subject>
+      <subject source="lcsh">Historians -- Correspondence</subject>
+      <persname source="ingest">Law, John, 1671-1729</persname>
+      <persname source="ingest">Hamilton, Earl J.</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref13_8wy" level="series">
+        <did>
+          <unittitle>Biographical Data Series, 1930-1995 and undated</unittitle>
+        </did>
+        <scopecontent id="aspace_4ebbf907f387ac48bee3123617b5a190">
+          <head>Scope and Contents note</head>
+          <p>Various materials recording details and events in Hamilton's life and career; includes
+            a curriculum vita and a list of his publications. Arranged in original order.</p>
+        </scopecontent>
+        <processinfo id="aspace_cfb5f2357e125efc508d5f4f929a1359">
+          <head>Processing Information note</head>
+          <p>[Attention: Contains pictorial materials. In addition, some of the materials are not
+            immediately accessible because they require further processing before use. Please
+            contact Research Services staff before visiting the David M. Rubenstein Rare Book &amp;
+            Manuscript Library to use this collection.]</p>
+        </processinfo>
+        <c02 id="aspace_ref14_x09" level="file">
+          <did>
+            <unittitle>Folder containing Earl J. Hamilton's curriculum vita; publications and
+              articles; outline for book on Banco de España, 1971-1995 and undated</unittitle>
+            <container id="aspace_96977424af8b264b5f9ad55d0df18922" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref15_3vv" level="file">
+          <did>
+            <unittitle>Unidentified cassette recording of voice and music, undated</unittitle>
+            <container id="aspace_106a2d8709b36b1c41f76c31a4ffc8d6" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <processinfo id="aspace_4707d909e7f95420eec7265d5a772a10">
+            <head>Processing Information note</head>
+            <p>[Technical Services needs to format for use copies of audio cassette before use.]</p>
+          </processinfo>
+        </c02>
+        <c02 id="aspace_ref17_gm6" level="file">
+          <did>
+            <unittitle>Clipping in Italian from <title render="italic">La Epoca</title>,
+              1930</unittitle>
+            <container id="aspace_49a85aa07128fddf7350bedfe9d6251e" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref18_l88" level="file">
+          <did>
+            <unittitle>Photographs, 1967-1981 and undated</unittitle>
+            <container id="aspace_141e098a98c61f81a094e336247d897e" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref21_ln5" level="series">
+        <did>
+          <unittitle>Reprints Series, 1937-1949</unittitle>
+        </did>
+        <c02 id="aspace_ref22_au9" level="file">
+          <did>
+            <unittitle><title render="italic">Spanish Banking Schemes Before 1700, </title>
+              1949</unittitle>
+            <container id="aspace_ecba7e3cb5c395bffec35e40133a4965" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref23_gee" level="file">
+          <did>
+            <unittitle><title render="italic">The Foundation of the Bank of Spain </title>
+              (originally intended to form basis for the book), 1945</unittitle>
+            <container id="aspace_c5165e77f5ecd5033996720fb69d9a76" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref24_sxa" level="file">
+          <did>
+            <unittitle><title render="italic">Use and Misuse of Price History</title>,
+              1944</unittitle>
+            <container id="aspace_6f27c863b17780437c84b1411ce46c67" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref25_c8e" level="file">
+          <did>
+            <unittitle><title render="italic">The Decline of Spain, </title> 1938</unittitle>
+            <container id="aspace_b9865095c80caf89d68451c3977cfd78" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref26_7gb" level="file">
+          <did>
+            <unittitle><title render="italic">Prices and Wages in Southern France under John Law's
+                System, </title> 1937</unittitle>
+            <container id="aspace_c3bf785010fd42981f1594d98956216b" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref27_x1s" level="series">
+        <did>
+          <unittitle>Teaching Materials Series, 1927-1969 and undated</unittitle>
+        </did>
+        <scopecontent id="aspace_d6ce5069614b564d2e1fcdb42fd50f98">
+          <head>Scope and Contents note</head>
+          <p>Chiefly grade books, along with a few class exams.</p>
+        </scopecontent>
+        <accessrestrict id="aspace_9b5880e2edc8a8f74e0fbf58bba5cacc">
+          <head>Conditions Governing Access note</head>
+          <p>Student Grade Books in this series are CLOSED to use.</p>
+        </accessrestrict>
+        <c02 id="aspace_ref28_4x4" level="file">
+          <did>
+            <unittitle>Exams, 1939-1969 and undated</unittitle>
+            <container id="aspace_d56ddce2ae5d046719070731bab544f6" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_b0a" level="file">
+          <did>
+            <unittitle>Grade books, [1940s]-[1960s]</unittitle>
+            <container id="aspace_b48c8c31e273f3451b5a4c5cdf8a66a2" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <accessrestrict id="aspace_b73d950245091ec9167fe549ce890d13">
+            <head>Conditions Governing Access note</head>
+            <p>CLOSED. Contact Research Services staff.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_ref31_2in" level="file">
+          <did>
+            <unittitle>Grade books, [1930s]-[1960s]</unittitle>
+            <container id="aspace_ac4346addb0149ec01afa366cfb3e61a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <accessrestrict id="aspace_3fc3d0685317e8dd991e1c0dc2d87033">
+            <head>Conditions Governing Access note</head>
+            <p>CLOSED. Contact Research Services staff.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_ref33_rh0" level="file">
+          <did>
+            <unittitle>Grade books, 1927-1929, 1936, 1946-1947</unittitle>
+            <container id="aspace_b3d2218b1db2e0bf8e596d20cc835f1d" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <accessrestrict id="aspace_6fd13a4275215218a508d089f40a5c38">
+            <head>Conditions Governing Access note</head>
+            <p>CLOSED. Contact Research Services staff.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_ref35_ddk" level="file">
+          <did>
+            <unittitle>Grade books, [1930s]-[1940s]</unittitle>
+            <container id="aspace_851e3015c4141beb56bbaf17c490a364" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <accessrestrict id="aspace_1da8f876fce78a6d01fe9adb43fc2902">
+            <head>Conditions Governing Access note</head>
+            <p>CLOSED. Contact Research Services staff.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_ref37_ebr" level="file">
+          <did>
+            <unittitle>Academic finances, [1930s]</unittitle>
+            <container id="aspace_15ecb23186d2d37dc4a8d59aa2fad40a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref40_xs8" level="series">
+        <did>
+          <unittitle>Correspondence Series, 1919-1992 and undated (bulk 1930-1970)</unittitle>
+        </did>
+        <scopecontent id="aspace_fa3bbba507a1acc38472b00951ba1737">
+          <head>Scope and Contents note</head>
+          <p>Academic correspondence, dealing with Hamilton's research in Spain, his letters as
+            professor of economics, and his position as editor of the <title type="simple"
+              render="italic">Journal of Political Economy</title> and as president of the Economic
+            History Association. Many of the date ranges overlap from folder to folder. Arranged in
+            original groupings of folders as received, with original titles.</p>
+        </scopecontent>
+        <processinfo id="aspace_f07f678637a7d902c0e6c32a76c9a5b2">
+          <head>Processing Information note</head>
+          <p>[Technical Services staff may need to process materials in envelopes before use.
+            Contact Research Services.]</p>
+        </processinfo>
+        <c02 id="aspace_ref41_xj3" level="file">
+          <did>
+            <unittitle>Correspondence:</unittitle>
+          </did>
+          <c03 id="aspace_ref42_we6" level="file">
+            <did>
+              <unittitle>[1940s]-[1970s]</unittitle>
+              <container id="aspace_fe9975f7831107ec4190fe56263eca26" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref43_k8m" level="file">
+            <did>
+              <unittitle>[1930s]-[1970s]</unittitle>
+              <physdesc id="aspace_8c18c318b60d2ec21cb0db9f704cb1bd"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_cebc75310bac4f198978b9e9c629f94f" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref45_z6t" level="file">
+            <did>
+              <unittitle>[1960s]-[1970s]</unittitle>
+              <container id="aspace_a964655f4991c49c10bedb4e0708613a" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref46_gag" level="file">
+            <did>
+              <unittitle>[1930s]-[1960s]</unittitle>
+              <container id="aspace_4dadcf1460ccd30b6b56c632feab23e9" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref47_o5w" level="file">
+          <did>
+            <unittitle>Correspondence - miscellaneous:</unittitle>
+          </did>
+          <c03 id="aspace_ref48_ufy" level="file">
+            <did>
+              <unittitle>[1930s], [1960s]-[1970s]</unittitle>
+              <container id="aspace_cd17736b040c356fb1a082226b41cc3b" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref49_yem" level="file">
+            <did>
+              <unittitle>[1930s]</unittitle>
+              <container id="aspace_5c631fab2197c482dcc6f240ac289ff9" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref50_kwa" level="file">
+            <did>
+              <unittitle>[1930s]-[1960s] and undated</unittitle>
+              <container id="aspace_7279fc067b9dfe99e11c1027b4fe41a9" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref51_kjn" level="file">
+            <did>
+              <unittitle>[1930s]-[1950s] and undated</unittitle>
+              <container id="aspace_eaeb36eb10f44f4b04280ee52ad8575e" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref52_ik8" level="file">
+            <did>
+              <unittitle>[1930s]-[1960s] and undated</unittitle>
+              <physdesc id="aspace_7db1b0ca47890dd63426418e75b2a11e"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_d15a1763b966a7198f335efe5afc8f52" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref54_qct" level="file">
+            <did>
+              <unittitle>[1930s]-[1950s] and undated</unittitle>
+              <container id="aspace_b6fc9b1e3692c53235b4005305fc1c71" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref55_s8p" level="file">
+          <did>
+            <unittitle>Correspondence plus reprint/galley of "Economic Origins of Monroe
+              Doctrine":</unittitle>
+          </did>
+          <c03 id="aspace_ref56_aju" level="file">
+            <did>
+              <unittitle>[1930s]-[1970s] and undated</unittitle>
+              <container id="aspace_80f300ea2b412def2ae863632fe4a3dc" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref57_q42" level="file">
+          <did>
+            <unittitle>Correspondence - miscellaneous:</unittitle>
+          </did>
+          <c03 id="aspace_ref58_h3i" level="file">
+            <did>
+              <unittitle>1919, Aug. 26; [1920s]-[1970s] and undated</unittitle>
+              <container id="aspace_c078c199cf0df4998c5709727442dcfa" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref59_9yh" level="file">
+            <did>
+              <unittitle>[1930s]-[1970s] and undated</unittitle>
+              <container id="aspace_b5bd24ea73ce6bcc8a7b3b3dfd9ae729" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref60_mli" level="file">
+          <did>
+            <unittitle>Correspondence - academic and personal:</unittitle>
+          </did>
+          <c03 id="aspace_ref61_ep9" level="file">
+            <did>
+              <unittitle>[1930s]-[1980s] and undated</unittitle>
+              <container id="aspace_727d99f16c4ae217f8c7d0a4eadb6a33" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref62_n86" level="file">
+            <did>
+              <unittitle>[1930s]-[1970s] and undated</unittitle>
+              <container id="aspace_5415d2c8077eaca4b0da4ad9f40bae2b" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref63_8gm" level="file">
+          <did>
+            <unittitle>Various financial correspondence:</unittitle>
+          </did>
+          <c03 id="aspace_ref64_c7l" level="file">
+            <did>
+              <unittitle>[1930s]-[1960s]</unittitle>
+              <container id="aspace_9d2a0e1c03c76f4886f0a46b586621ad" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref65_rrh" level="file">
+          <did>
+            <unittitle>Academic and personal correspondence:</unittitle>
+          </did>
+          <c03 id="aspace_ref66_mtw" level="file">
+            <did>
+              <unittitle>[1960s] and undated</unittitle>
+              <container id="aspace_0252a3716ec67ec7f1bd1160ef7e0e9b" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref67_9e5" level="file">
+            <did>
+              <unittitle>[1950s]-[1970s], 1992, and undated</unittitle>
+              <container id="aspace_4d375386866a44fd717cd9b1ffe1cf26" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref68_5v1" level="file">
+            <did>
+              <unittitle>[1950s]</unittitle>
+              <container id="aspace_e9590128139ff99ad96c2495f926aeef" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref69_jtc" level="file">
+            <did>
+              <unittitle>[1940s], [1960s]-[1970s], and undated</unittitle>
+              <container id="aspace_194139e2e50da2a332c08bc3d60962bf" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref70_ekc" level="file">
+          <did>
+            <unittitle>Correspondence on papers, research:</unittitle>
+            <container id="aspace_10e97712bb74f0578ec73a42a4ae3bfd" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+          <c03 id="aspace_ref71_zfo" level="file">
+            <did>
+              <unittitle>[1950s]-[1960s] and undated</unittitle>
+              <container id="aspace_c4ebb79fa28e523a47ca08ca068a83f2" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref72_o9k" level="file">
+          <did>
+            <unittitle>Correspondence on research, papers, social science during World War
+              II:</unittitle>
+          </did>
+          <c03 id="aspace_ref73_ue5" level="file">
+            <did>
+              <unittitle>[1930s]-[1940s]</unittitle>
+              <container id="aspace_ebfbbcfd7f275c989a0e081d6375070f" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref74_zi4" level="file">
+            <did>
+              <unittitle>[1960s]-[1970s] and undated</unittitle>
+              <container id="aspace_ef740637496d5692cf216518411502e5" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref75_1r7" level="file">
+          <did>
+            <unittitle>Miscellaneous academic and personal correspondence:</unittitle>
+          </did>
+          <c03 id="aspace_ref76_1vc" level="file">
+            <did>
+              <unittitle>1959-1961</unittitle>
+              <container id="aspace_e987e03f1fda717ca7d8f2eafea7fd10" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref77_6wn" level="file">
+          <did>
+            <unittitle>Correspondence - miscellaneous:</unittitle>
+          </did>
+          <c03 id="aspace_ref78_hn3" level="file">
+            <did>
+              <unittitle>1938-1981</unittitle>
+              <container id="aspace_34a2577cc7e41b5c0ab92bd21648345e" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref79_ydv" level="file">
+          <did>
+            <unittitle>Correspondence - personal:</unittitle>
+          </did>
+          <c03 id="aspace_ref80_nv0" level="file">
+            <did>
+              <unittitle>[1920s]-[1970s] and undated</unittitle>
+              <container id="aspace_4426d6ec13bc3a16a8dd6fc72f63121a" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref81_z0m" level="file">
+            <did>
+              <unittitle>[1930s]-[1980s] and undated</unittitle>
+              <container id="aspace_912ffb05cee9799f63018c5306f69969" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref82_jw6" level="file">
+          <did>
+            <unittitle>Correspondence - papers:</unittitle>
+            <container id="aspace_96782131c22540e99f627924655408ac" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <c03 id="aspace_ref83_7ro" level="file">
+            <did>
+              <unittitle>[1920s]-[1970s] and undated</unittitle>
+              <container id="aspace_238f684b17a51e9184b32e09745a0ad8" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref84_q8u" level="file">
+            <did>
+              <unittitle>[1920s]-[1980s] and undated</unittitle>
+              <container id="aspace_d80e46f86fa03877ab2f707414207e8a" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref85_5xj" level="file">
+            <did>
+              <unittitle>[1920s]-[1980s] and undated</unittitle>
+              <container id="aspace_1bd786f75bb7a6eafe9f4f8d9703c35a" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref86_09w" level="file">
+            <did>
+              <unittitle>[1940s]-[1970s] and undated</unittitle>
+              <container id="aspace_db31fba1452b6ad192a71f0a5106d45f" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref87_b5n" level="file">
+            <did>
+              <unittitle>[1960s]</unittitle>
+              <container id="aspace_77a79cf3b9b6d85b09a0afd5158c8e1f" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref88_hut" level="file">
+            <did>
+              <unittitle>[1950s] and 1970</unittitle>
+              <container id="aspace_50a953a11e026516289535b4cc4701bf" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref89_km1" level="file">
+            <did>
+              <unittitle>[1920s]-[1980s] and undated</unittitle>
+              <container id="aspace_423cd3c0aae993cc0994271fdde96623" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref90_uh2" level="file">
+            <did>
+              <unittitle>[1940s]-[1970s] and undated</unittitle>
+              <container id="aspace_2d247773638473a1adbf2ace0883fe53" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref91_8u9" level="file">
+            <did>
+              <unittitle>[1940s]-[1950s] and undated</unittitle>
+              <container id="aspace_976b73b50450a3406bfb1c419a37d1f7" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref92_e04" level="file">
+            <did>
+              <unittitle><title render="doublequote">La estimacion del trabajo manual en la España
+                  del siglo XVIII</title>; Callahan, [1960s]</unittitle>
+              <container id="aspace_bb9dd09f861f31190a9e071099051e6c" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref93_nmv" level="file">
+            <did>
+              <unittitle>[1960s]-[1970s]</unittitle>
+              <container id="aspace_a965a1e7b022bfa3ba1fa527cfcc757a" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref94_s0i" level="file">
+            <did>
+              <unittitle>[1950s]-[1970s] and undated</unittitle>
+              <container id="aspace_dda764dd113da6de04aa26c915d1360b" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref95_0zf" level="file">
+            <did>
+              <unittitle>[1930s]-[1980s] and undated</unittitle>
+              <container id="aspace_0d9494c507e70dd817e431e9e6cbddd6" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref96_lg5" level="file">
+            <did>
+              <unittitle>[1950s]-[1970s] and undated</unittitle>
+              <container id="aspace_784eef4465b72dbd8b56024369784cc8" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref97_1rx" level="file">
+            <did>
+              <unittitle>[1930s]-[1970s] and undated</unittitle>
+              <container id="aspace_d9c118443d8fc2f04e39066e10be1ad5" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref98_zgv" level="file">
+            <did>
+              <unittitle>[1930s]-[1980s] and undated</unittitle>
+              <container id="aspace_e017b71e4097615eb89130b872329cf0" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref99_99j" level="file">
+            <did>
+              <unittitle>[1930s]-[1980s] and undated</unittitle>
+              <container id="aspace_b9aebbc8246b4591bebdaf688786a11e" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref100_riw" level="file">
+            <did>
+              <unittitle>[1950s]</unittitle>
+              <container id="aspace_19c6e3fed223bae8a64dc8cebd1d6f3d" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref101_x4i" level="file">
+            <did>
+              <unittitle>[1930s]-[1980s] and undated</unittitle>
+              <container id="aspace_11d13ef54905b4d80cb93a94ae4235ff" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref102_uvf" level="file">
+          <did>
+            <unittitle>Correspondence - Duke; partial:</unittitle>
+          </did>
+          <c03 id="aspace_ref103_z6j" level="file">
+            <did>
+              <unittitle>[1930s]-[1980s] and undated</unittitle>
+              <container id="aspace_b4bc8ac78fadebc0db6718ba397712e0" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref104_ye8" level="file">
+            <did>
+              <unittitle>[1920s]-[1990s] and undated</unittitle>
+              <container id="aspace_ee961c7bdc7e423c750febdc0911c010" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref105_kds" level="file">
+          <did>
+            <unittitle>Correspondence:</unittitle>
+          </did>
+          <c03 id="aspace_ref106_bop" level="file">
+            <did>
+              <unittitle>[1920s]-[1930s], 1960s, 1980s and undated</unittitle>
+              <container id="aspace_fe65e5176a46a8032186ae40a082992f" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref107_95y" level="file">
+            <did>
+              <unittitle>[1920s]-[1960s], 1980s and undated</unittitle>
+              <container id="aspace_e8107f8fe8ba3b9c4613b61994b329ea" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref108_3sk" level="file">
+            <did>
+              <unittitle>[1920s]-[1930s], [1960s], [1980s] and undated</unittitle>
+              <container id="aspace_7dd298d60f9b5b72dc755966a2301b6d" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref109_5a4" level="file">
+          <did>
+            <unittitle>Letters written in Spain:</unittitle>
+          </did>
+          <c03 id="aspace_ref110_5tx" level="file">
+            <did>
+              <unittitle>1932-1933</unittitle>
+              <container id="aspace_3d60cf93b3902de4c84ea5dd26c992f2" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref111_b7x" level="file">
+          <did>
+            <unittitle>Correspondence:</unittitle>
+          </did>
+          <c03 id="aspace_ref112_wmz" level="file">
+            <did>
+              <unittitle>[1940s] and [1970s]</unittitle>
+              <container id="aspace_7a2a0923bc7c0d1b91b959ac13792fe3" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref115_ded" level="series">
+        <did>
+          <unittitle>Major Works Series, 1350-1961 and undated</unittitle>
+        </did>
+        <scopecontent id="aspace_b026f31c6b20f5bac1ab9e5356b987a4">
+          <head>Scope and Contents note</head>
+          <p>Background notes, transcriptions of original source material, photostats of Spanish
+            archival material (especially that related to treasure imports), and worksheets for
+            compiling prices and salaries in Spain from 1351 to 1800, all related to Hamilton's
+            research for his major published works. Also, a large number of photostats of materials
+            from the Archivo del Banco de España and the Archivo Histórico Nacional concerning the
+            Bank of Spain, as well as notes and source transcriptions of Hamilton's work on this
+            subject. This series contains many photocopies and microfilm copies of items which
+            belong to other libraries and archives. Photocopies of materials gathered from other
+            repositories by Earl J. Hamilton may require permission of the owner institution to
+            further reproduce or publish. Users making further copies for their own research do so
+            at their own discretion. Before publication of any such material, it is the user's
+            responsibility to identify the original source and obtain permission.</p>
+          <p>Divided into subseries for each major work; papers within are arranged in Hamilton's
+            original order with original folder titles given.</p>
+          <p>Note: Dates given below in the descriptions for primary source materials reflect the
+            dates of the original items, not the more modern dates on which the photostats or
+            transcriptions were created.</p>
+        </scopecontent>
+        <c02 id="aspace_ref116_ja1" level="subseries">
+          <did>
+            <unittitle><title render="italic">War and Prices in Spain, 1651-1800</title> Subseries,
+              1651-1944 and undated</unittitle>
+            <container id="aspace_deaf314cf49f23b21d7cc7252d0f19d3" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+          <c03 id="aspace_ref117_7yk" level="file">
+            <did>
+              <unittitle>Andalusia worksheets, 1651-1800</unittitle>
+              <container id="aspace_9e8a48359610ec61d0d1ccbec1428afc" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref118_g9l" level="file">
+            <did>
+              <unittitle>Andalusia price worksheets, 1651-1787</unittitle>
+              <container id="aspace_ecdd92f0ac67d3e32c16afa0c5df89cb" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref119_t9c" level="file">
+            <did>
+              <unittitle>Andalusia, final commodity list, 1651-1800</unittitle>
+              <physdesc id="aspace_4b979f88007a3c3dc9b076a2aa551a39"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_aeafe3da6b3d3963d76e6c7a1a4f5a3f" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref121_k93" level="file">
+            <did>
+              <unittitle>Old Castile prices</unittitle>
+              <physdesc id="aspace_e65aa3a4046085bcdaa69da9a8c362aa"><extent>3
+                folders</extent></physdesc>
+            </did>
+            <c04 id="aspace_ref123_edi" level="file">
+              <did>
+                <unittitle>1651-1700</unittitle>
+                <container id="aspace_ea4284c1cb0dbceaebf6779409824e70" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref124_lwi" level="file">
+              <did>
+                <unittitle>1700-1750</unittitle>
+                <container id="aspace_bb6f23fe6025b52041ffa024185cdd21" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref125_1ha" level="file">
+              <did>
+                <unittitle>1750-1800</unittitle>
+                <container id="aspace_824170337cb67def2f0a58b380694d83" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref126_eym" level="file">
+            <did>
+              <unittitle>Andalusia, salaries and wages [original sheets],</unittitle>
+              <container id="aspace_266eb2ab9e87a171d5f668e71dccfce0" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref127_v5u" level="file">
+            <did>
+              <unittitle>Valencia, salaries [original sheets], 1651-1800</unittitle>
+              <container id="aspace_fb1d15ff3981df4d1fb982614240f969" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref128_cnl" level="file">
+            <did>
+              <unittitle>Old Castile, dope sheets, 1651-1800</unittitle>
+              <container id="aspace_7296a17263c92baec248ff0908cea769" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref129_bfv" level="file">
+            <did>
+              <unittitle>Old Castile, typed prices, 1651-1800</unittitle>
+              <container id="aspace_531de0f00ded40a90b13161e7d25fd55" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref130_myy" level="file">
+            <did>
+              <unittitle>New Castile, prices, 1651-1800</unittitle>
+              <container id="aspace_66386d7e40d934d346540d8dc338a445" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref131_kr8" level="file">
+            <did>
+              <unittitle>Valencia, typed prices [copies], 1651-1800</unittitle>
+              <container id="aspace_130b887ad1ac724532ac73a0ceb17597" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref132_5wv" level="file">
+            <did>
+              <unittitle>Old Castile, typed prices [carbons], 1651-1800</unittitle>
+              <container id="aspace_5be316a5cedd4549b3818752cf9d9013" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref133_u4m" level="file">
+            <did>
+              <unittitle>Valencia, typed prices, 1651-1800</unittitle>
+              <container id="aspace_3f83ff07e60d82bad0ac8b91a9b0bd89" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref134_xs6" level="file">
+            <did>
+              <unittitle>Andalusia, typed prices, 1651-1800</unittitle>
+              <container id="aspace_6f4f04aeb6bab48394d793961d1ca4ba" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref135_570" level="file">
+            <did>
+              <unittitle>New Castile, prices [copies], 1651-1800</unittitle>
+              <container id="aspace_6053407712c6b0a1752dab5ee05f42c5" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref136_r4b" level="file">
+            <did>
+              <unittitle>Old Castile, worksheets:</unittitle>
+              <physdesc id="aspace_3b5983318c89d3aef1d6f10ece1a2f8e"><extent>3
+                folders</extent></physdesc>
+            </did>
+            <c04 id="aspace_ref138_5ll" level="file">
+              <did>
+                <unittitle>1651-1712</unittitle>
+                <container id="aspace_f298dc973d0e0dd0414e98c655e9eff6" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref139_9rt" level="file">
+              <did>
+                <unittitle>1713-1760</unittitle>
+                <container id="aspace_2e58f9e2e3e185592d1d77d2c37cb61e" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref140_dta" level="file">
+              <did>
+                <unittitle>1761-1800</unittitle>
+                <container id="aspace_2eb49ff2affcb143f872791e2003138c" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref141_091" level="file">
+            <did>
+              <unittitle>Miscellaneous notes and transcriptions to <title render="italic">War and
+                  Prices</title> and <title render="italic">Money, prices, and wages</title>,
+                undated</unittitle>
+              <container id="aspace_bb3b349c20f292ea2957b8e1e835eda8" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref142_wsv" level="file">
+            <did>
+              <unittitle>New Castile, wages, 1651-1800</unittitle>
+              <container id="aspace_cc0d656c3ce2f4aa1570983cd919faf1" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref143_f3q" level="file">
+            <did>
+              <unittitle><title render="italic">War and Prices</title>/Miscellaneous: <title
+                  render="doublequote">Spanish Prices: A Reply to Dr. M.J. Elsos, </title> 1937,
+                June</unittitle>
+              <container id="aspace_01cfbee9e674a1a2995ab9bc580dae1d" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref144_2tk" level="file">
+            <did>
+              <unittitle>Various worksheets for price and wage indices [checklists],
+                1651-1800</unittitle>
+              <container id="aspace_81ec97e6d3b668ff4d0af3a330ab744f" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref145_hj2" level="file">
+            <did>
+              <unittitle><title render="italic">War and Prices in Spain</title>, typescript,
+                1651-1800</unittitle>
+              <physdesc id="aspace_ea5949bd6871e96d429caa16094026c5"><extent>4
+                folders</extent></physdesc>
+              <container id="aspace_bbb593a0acd6de809881a5cc77f1c3d0" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref147_psl" level="file">
+            <did>
+              <unittitle>New Castile, original price sheets, 1651-1800</unittitle>
+              <container id="aspace_be0655ddd790a8ac7b258b092db85042" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref148_sie" level="file">
+            <did>
+              <unittitle>Santo Tomas, prices/commodity worksheets:</unittitle>
+            </did>
+            <c04 id="aspace_ref149_mwd" level="file">
+              <did>
+                <unittitle>1651-1700</unittitle>
+                <container id="aspace_7234f883da8e9ecb719cc21fdb31bb8d" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref150_fdy" level="file">
+              <did>
+                <unittitle>1701-1750</unittitle>
+                <container id="aspace_15a4a1320bb9711096b8ba1cd8688e89" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref151_zoj" level="file">
+              <did>
+                <unittitle>1750-1800</unittitle>
+                <container id="aspace_129c0f914a192419dcfd5d7b67da1cfa" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref152_3v4" level="file">
+            <did>
+              <unittitle>Buyer's notebook, Hospital of the Innocents, various years;
+                pricing/commodities worksheet, undated</unittitle>
+              <container id="aspace_954dd9459ce69b4df3f50d2e3ec61eb3" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref153_d6u" level="file">
+            <did>
+              <unittitle>Commodity/price worksheets, 1651-1691</unittitle>
+              <container id="aspace_2570ab97228ebf93fdabd637ad5cb54f" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref154_x7q" level="file">
+            <did>
+              <unittitle>Valencia, commodities list, 1651-1800</unittitle>
+              <container id="aspace_78c4b2fc010b44852ff57d31e6340b2f" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref155_pe1" level="file">
+            <did>
+              <unittitle>Miscellaneous notes and typescripts: <title render="italic">War and
+                  Prices</title> series (various years and undated),</unittitle>
+              <container id="aspace_b5fd0a902cdad543b2346d4d3820dde4" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref156_ek3" level="file">
+            <did>
+              <unittitle>Andalusia, related prices and figures, 1651-1700</unittitle>
+              <container id="aspace_3d1976dca136ff83f2e9863ca091df5d" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref157_nib" level="file">
+            <did>
+              <unittitle><title render="doublequote">War and Inflation in Spain: 1780-1800,</title>
+                1944, Nov.</unittitle>
+              <container id="aspace_df2f5f7fef14ed38f8c5b20d089dc474" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref158_fa2" level="file">
+            <did>
+              <unittitle>Notes on "Treasure," undated</unittitle>
+              <container id="aspace_61f48aa9296252f0923c840aef47754b" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref159_j7q" level="file">
+            <did>
+              <unittitle>Tabulated quarterly wages and salaries; all four regions except Valencia,
+                1651-1800</unittitle>
+              <container id="aspace_5c43b48e406b2fb1dff0035809c35093" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref160_9eb" level="file">
+            <did>
+              <unittitle>New Castile, worksheets, price relatives, indices:</unittitle>
+            </did>
+            <c04 id="aspace_ref161_vkc" level="file">
+              <did>
+                <unittitle>1651-1700</unittitle>
+                <container id="aspace_d832587c5780a341fdb628e256d55ed1" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref162_ilb" level="file">
+              <did>
+                <unittitle>1701-1750</unittitle>
+                <container id="aspace_224673946ca8dbf449f4c385d9f69d88" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref163_rbc" level="file">
+              <did>
+                <unittitle>1751-1800</unittitle>
+                <container id="aspace_12bc42992bc375256386a676dfb9f860" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref164_lqm" level="file">
+            <did>
+              <unittitle>New Castile and Andalusia, price relatives, worksheets,
+                1651-1800</unittitle>
+              <container id="aspace_5113eca6f14706bbf1b090a2380b15d7" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref165_8n2" level="subseries">
+          <did>
+            <unittitle><title render="italic">Money, Prices, and Wages in Valencia, Aragon, and
+                Navarre, 1351-1500</title> Subseries, 1350-1451</unittitle>
+            <container id="aspace_068609f0b9b8594411d8829940ec78e9" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+          <c03 id="aspace_ref166_ymy" level="file">
+            <did>
+              <unittitle>Navarre, prices/commodities, dope/worksheets:</unittitle>
+            </did>
+            <c04 id="aspace_ref167_xxs" level="file">
+              <did>
+                <unittitle>1350-1400</unittitle>
+                <container id="aspace_69ce952c991e1a56f4b801aaca66dc6c" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref168_6dj" level="file">
+              <did>
+                <unittitle>1401-1451</unittitle>
+                <container id="aspace_cb6101cf8823c1929ee24ae7b80fae27" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref169_086" level="file">
+            <did>
+              <unittitle>Navarre, notes on prices, spreadsheets on wages, 1401-1450</unittitle>
+              <container id="aspace_d3c038b51fceefe14dff9079993ba468" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref170_tlc" level="subseries">
+          <did>
+            <unittitle><title render="italic">American Treasure and the Revolution in Spain</title>
+              Subseries, 1351-[192-?] and undated</unittitle>
+            <container id="aspace_6feb80f43ce460dd5b2e7bcfc0b540f1" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+          <c03 id="aspace_ref171_cld" level="file">
+            <did>
+              <unittitle>Negatives in protective folder; Frontispiece to document used as Plate II,
+                undated</unittitle>
+              <container id="aspace_b3f76f711b4447efb49e67c9e34c65ad" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref172_0c2" level="file">
+            <did>
+              <unittitle>Notes on weights, measures, grades of silver, commodities, various dates
+                and undated</unittitle>
+              <container id="aspace_0b1b5b5070482c15041d6785d03af48a" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref173_nk4" level="file">
+            <did>
+              <unittitle>Treasure imports, photostats, various dates</unittitle>
+              <container id="aspace_6d895a3d3e7f1fce0db8bec2bb83dbeb" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref174_1xe" level="file">
+            <did>
+              <unittitle>Archival material pertaining to silver imports and to Valencia
+                (photostats), 1501-1650 and undated</unittitle>
+              <container id="aspace_1afc93f1271dac448d2ed211679e0337" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref175_qj2" level="file">
+            <did>
+              <unittitle>Navarre and related notecards, 1351-1500</unittitle>
+              <container id="aspace_61b3a643639a8b63be8abb308260f01e" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref176_kef" level="file">
+            <did>
+              <unittitle>Various letters and notes related to money, prices, inflation; associated
+                with major works, undated</unittitle>
+              <container id="aspace_25c5fe395abdb66a0414668064a96eed" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref177_321" level="file">
+            <did>
+              <unittitle><title render="doublequote">American Treasure and the Rise of Capitalism,
+                  1500-1700,</title> [192-?]</unittitle>
+              <container id="aspace_cb5a8c8fec1813cca12ad0c1ac684056" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref178_cry" level="file">
+            <did>
+              <unittitle>"Treasure" imports, 1501-1650</unittitle>
+              <container id="aspace_bcb4f1d3a6de2f50c552edeba234007c" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref179_rom" level="file">
+            <did>
+              <unittitle>Valencia, prices/commodities, worksheets/dopes, 1501-1550</unittitle>
+              <container id="aspace_395f794a3092bdd40e7aec61b11661e4" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref180_ikx" level="subseries">
+          <did>
+            <unittitle><title render="italic">Bank of Spain, 1651-1800</title> Subseries, 1360-1981
+              and undated (bulk 1700s-1800s)</unittitle>
+            <container id="aspace_9b2725326d31496d6277b73ac92a8e07" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+          <c03 id="aspace_ref181_ajj" level="file">
+            <did>
+              <unittitle>Color prints commemorating Banco Nacional, [ca. 1780-1830] and
+                undated</unittitle>
+              <container id="aspace_28f930e12362985e806c95b3ca4c99c0" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref182_1t5" level="file">
+            <did>
+              <unittitle>Banco de España, photostats of documents, undated</unittitle>
+              <container id="aspace_86c25de3f622ec171c1041dddbcbc469" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref183_bh0" level="file">
+            <did>
+              <unittitle>Junta General (photostats):</unittitle>
+            </did>
+            <c04 id="aspace_ref184_046" level="file">
+              <did>
+                <unittitle>1814, Apr. 21</unittitle>
+                <container id="aspace_217f82607f7db36113b853c0cbe7d7c5" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref185_tai" level="file">
+              <did>
+                <unittitle>1815, Apr. 20</unittitle>
+                <container id="aspace_f7fb13ea25b05fa1e7f691c2b4033e32" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref186_r1j" level="file">
+              <did>
+                <unittitle>1816</unittitle>
+                <container id="aspace_11594b739a0642cbb5923722a2f089f5" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref187_pn7" level="file">
+              <did>
+                <unittitle>1817, Apr. 19</unittitle>
+                <container id="aspace_d9938e894d339c597bb0046300203efe" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref188_5qw" level="file">
+              <did>
+                <unittitle>1818, Apr. 20</unittitle>
+                <container id="aspace_538e58fdaf45a2752e59e21d112dac8b" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref189_8ad" level="file">
+              <did>
+                <unittitle>1820, Apr. 20</unittitle>
+                <container id="aspace_6706be823f26424ce8a9b6b7e11cd158" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref190_qc0" level="file">
+              <did>
+                <unittitle>1821, Jan. 18</unittitle>
+                <container id="aspace_a98b1b0e1f9fa61e2a735f8466409241" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref191_o2j" level="file">
+              <did>
+                <unittitle>1821</unittitle>
+                <container id="aspace_4ec90911f4136a68522134ccf56e28cc" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref192_ozf" level="file">
+              <did>
+                <unittitle>1824, Apr. 26</unittitle>
+                <container id="aspace_01f02c1e9eb32885d74f3f59500957a4" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref193_b32" level="file">
+              <did>
+                <unittitle>1826</unittitle>
+                <container id="aspace_21241af15f1bc1be25074a9449fae737" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref194_22p" level="file">
+              <did>
+                <unittitle>1827, Apr. 19</unittitle>
+                <container id="aspace_3ad98482afe1685814f73e7630a47a60" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref195_iiz" level="file">
+            <did>
+              <unittitle>Photostats of original documents, Bank of Spain, various dates, [18-?] and
+                undated</unittitle>
+              <container id="aspace_e714fc736c6302d6c012ccfc0004a14c" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref196_oza" level="file">
+            <did>
+              <unittitle>Photostats of documents in Amsterdam Archive; Royal cedulas of Carlos IV,
+                1800-[1806?]</unittitle>
+              <container id="aspace_bb9f736d0acd3735ed9ba72151864cf4" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref197_c9g" level="file">
+            <did>
+              <unittitle>Notes/typescripts to article on Bank of Spain, [ca. 1780-1830] and
+                undated</unittitle>
+              <container id="aspace_0d6d57b39c6601f4ef65c417afaecdc1" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref198_wzz" level="file">
+            <did>
+              <unittitle>Course syllabus/memorandum, 1961</unittitle>
+              <container id="aspace_98e7434e8a06c13108af25c7e6deb4dc" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref199_ok8" level="file">
+            <did>
+              <unittitle>Spreadsheets on French stocks, [178-?]</unittitle>
+              <container id="aspace_dc35144a9ae9004ce31be286d477fcae" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref200_l01" level="file">
+            <did>
+              <unittitle>Photostats of Junta General; Banco de San Carlos, 1800, Apr. 19</unittitle>
+              <container id="aspace_20a137107a5fd4f3837405a96ae06a1d" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref201_bvj" level="file">
+            <did>
+              <unittitle>Payment of dividends, photostat, 1799</unittitle>
+              <container id="aspace_9c95b4e16a7ddb49157874e220339344" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref202_43x" level="file">
+            <did>
+              <unittitle>Photostats of Junta General; Banco de San Carlos 1800, Apr. 20</unittitle>
+              <container id="aspace_70a2c0258b374c4e4162a3593559d470" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref203_lbe" level="file">
+            <did>
+              <unittitle>Banco de España, photostats, [179-?] and undated</unittitle>
+              <container id="aspace_15aac15b4cee8402d193aa7eae5c21d6" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref204_2xp" level="file">
+            <did>
+              <unittitle>Reglamentos de las Juntas Generales...del Banco General, photostat,
+                1794</unittitle>
+              <container id="aspace_d5a2da89a4795bf12f718457666b862c" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref205_szi" level="file">
+            <did>
+              <unittitle>Documents from the Archive of Conde de Cabarrus about National Bank,
+                photostats, [ca. 1780s-1830s] and undated</unittitle>
+              <container id="aspace_b2f67543cd58b973004b97d604afcf2d" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref206_tjg" level="file">
+            <did>
+              <unittitle>Assets (?), Banco de San Carlos, weekly/monthly accounts, photostats,
+                1783-1799</unittitle>
+              <container id="aspace_148b98a57aa03120f6db2b34552f3ec9" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref207_ltp" level="file">
+            <did>
+              <unittitle>Banco de San Carlos, graphs/notes, [1780s]-[1830s]</unittitle>
+              <container id="aspace_4ab1b38d13b0619afd62c2fc9bf5b25e" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref208_mi0" level="file">
+            <did>
+              <unittitle>"Staatsschulden," Xerox of article, 1855</unittitle>
+              <container id="aspace_264c0f0201d4c397d36188a0e46b86d6" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref209_io0" level="file">
+            <did>
+              <unittitle>Photostats of <emph render="italic">legajos</emph>:</unittitle>
+              <container id="aspace_19c0dc7f5d5abdcb397eaba8f69ba8cc" label="Mixed Materials"
+                type="box">10</container>
+            </did>
+            <c04 id="aspace_ref210_45s" level="file">
+              <did>
+                <unittitle>Bonds/accounts of Banco de España, [ca. 1800-1840]</unittitle>
+                <container id="aspace_f6895f0e4869e56488195491dfd23f39" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref211_ul6" level="file">
+              <did>
+                <unittitle>Banco de España Silver Exports, 1790-1802</unittitle>
+                <container id="aspace_b6c83c2381f51939ce6d22c9bdbdb848" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref212_6hd" level="file">
+              <did>
+                <unittitle>Report of the Junta General Banco Nacional, 1808, Apr. 20</unittitle>
+                <container id="aspace_ad34f47ac353954983f2784c8af4a592" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref213_xu0" level="file">
+              <did>
+                <unittitle>Junta General, Banco Nacional, fragment, 1807</unittitle>
+                <container id="aspace_986940b0ec8753567969d38d501b2a52" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref214_12f" level="file">
+              <did>
+                <unittitle>Correspondence of the Bank, [178-?]</unittitle>
+                <container id="aspace_041aaa8b68fddc3665a2f4ac456bffe8" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref215_okd" level="file">
+              <did>
+                <unittitle>Accounts, Correspondence, Shares of Bank, [17-]-[18-]</unittitle>
+                <container id="aspace_c80f6f14112530e1a2b6b136db2f31e8" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref216_ocj" level="file">
+              <did>
+                <unittitle>Concerning Accounts and Loans of Bank, 1809</unittitle>
+                <container id="aspace_b3159aacc63c38458ea9dc23a7eda3ae" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref217_6v8" level="file">
+              <did>
+                <unittitle>Report of Junta General on Banco Nacional, 1821</unittitle>
+                <container id="aspace_d39906d7229dcd772997af7111336746" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref218_k3y" level="file">
+              <did>
+                <unittitle>Bank dividends, 1812-1819</unittitle>
+                <container id="aspace_0414d9370eda719491a64e2b5d0baf4b" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref219_m1d" level="file">
+              <did>
+                <unittitle>Pertaining to investigation of Bank's directors, [1780s]</unittitle>
+                <container id="aspace_1dac5fd859ec27a7d68e0c185b7275a9" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref220_tu1" level="file">
+              <did>
+                <unittitle>Proceedings of Bank's directors, [1790s]</unittitle>
+                <container id="aspace_058b708734b51dfbe39e0d58598caba0" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref221_v3d" level="file">
+              <did>
+                <unittitle>Pertaining to the Bank's accounts, [1780s]</unittitle>
+                <container id="aspace_0558fc58963e0951b59f506028e99304" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref222_3lt" level="file">
+              <did>
+                <unittitle>Proceedings of the Junta General, 1821</unittitle>
+                <container id="aspace_268a08efbf9f5e524fa37cf39740280a" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref223_9zr" level="file">
+              <did>
+                <unittitle>Accounts/balances, 1823</unittitle>
+                <container id="aspace_6cf1a86e7b9b064fc3cfd908c4f1f0f6" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref224_d4h" level="file">
+              <did>
+                <unittitle>Establishing the Banco Español de San Fernando, 1829</unittitle>
+                <container id="aspace_45587919435d91d95374198ea0da6ed1" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref225_0s6" level="file">
+              <did>
+                <unittitle>Stockholders meeting, 1790</unittitle>
+                <container id="aspace_ec8888765790bd036407a40306e50399" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref226_dy6" level="file">
+              <did>
+                <unittitle>Promotion of industry; uniforms, materials required by Army,
+                  [1780s]</unittitle>
+                <container id="aspace_db3dadc35de80578fed96af77c2f9d8b" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref227_scj" level="file">
+              <did>
+                <unittitle>Various confidential papers, accounts of Banco plus (in French) report of
+                  La Banque de Saint-Charles, [1780s]</unittitle>
+                <container id="aspace_ccad0240a8ecc917cd83ff66a01026d0" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref228_0ze" level="file">
+              <did>
+                <unittitle>Various confidential papers, accounts and reports of Banco,
+                  [1780s]</unittitle>
+                <physdesc id="aspace_a4fbb4b590f92c6a027bb60c38918766"><extent>2
+                  folders</extent></physdesc>
+                <container id="aspace_a75f35344092ee6dd9c39d7dad9adbee" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref230_d0q" level="file">
+              <did>
+                <unittitle>Loans, [1790s] and undated</unittitle>
+                <physdesc id="aspace_432944b8e8ec3635be0839bf2e6cac27"><extent>2
+                  folders</extent></physdesc>
+                <container id="aspace_f775c93b0dc19daee3ce39d6f16a1631" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref232_935" level="file">
+            <did>
+              <unittitle>Accounts and totals (adding machine tapes, notes) [appears to be part of
+                research into Banco de San Carlos], 1760-1783</unittitle>
+              <container id="aspace_73e9cf830bb224747ec79174fedbbca2" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref233_mv0" level="file">
+            <did>
+              <unittitle>Various calculations, handwritten and compiled by year, on operation of
+                Bank, [1780s]-[1830s] and undated</unittitle>
+              <container id="aspace_a7d56b5c403ef23e8a1263af1f57fab7" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref234_ysx" level="file">
+            <did>
+              <unittitle>Typescript of archival materials from Amsterdam (Dutch or German?) about
+                financial dealings with Spain, [ca. 1780-1830] and undated</unittitle>
+              <container id="aspace_4506486f1c5118cbedbf0f13bd643fbf" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref235_x40" level="file">
+            <did>
+              <unittitle>Amsterdam Archives material, 1671, 1660, 1777</unittitle>
+              <container id="aspace_0dce2727ad0218d475ac886ad6f4f810" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref236_mbg" level="file">
+            <did>
+              <unittitle>Article by Hausman and Neufeld, <title render="doublequote">The Political
+                  Economy of Walpole's 1733 Tax Scheme, </title> 1981</unittitle>
+              <container id="aspace_2b902b0c2b4fcd6e08393a2192f04c51" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref237_h7z" level="file">
+            <did>
+              <unittitle>Materials on Banco de San Carlos research, various dates and
+                undated</unittitle>
+              <container id="aspace_c5c7c0e591b8230a22b1d6cb4f242684" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref238_804" level="file">
+            <did>
+              <unittitle>Photocopies of Bank of Spain, various dates and undated</unittitle>
+              <container id="aspace_33a0637a60572f31bd9ad1ff19defebe" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref239_caf" level="file">
+            <did>
+              <unittitle>Loans to the king, 1360 and 1781 (photostats)</unittitle>
+              <container id="aspace_bec26462df0decab58791aff6e4a18db" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref240_gj3" level="file">
+            <did>
+              <unittitle>Manuscripts, transcripts and correspondence, including Hamilton's 1943
+                arrangements for research assistants in Spain</unittitle>
+              <container id="aspace_611aa904a6f5fc0a4832c146a95aa3e0" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref241_z3o" level="file">
+            <did>
+              <unittitle>Reprint <title render="doublequote">De Girobanken van Genua,</title>
+                1924</unittitle>
+              <container id="aspace_cd26714115da30ec32a56ed80710ebad" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref242_9he" level="file">
+            <did>
+              <unittitle>Typescript of <emph render="italic">legajos</emph> relating to Cabarrus and
+                Bank, 1954 and undated</unittitle>
+              <container id="aspace_6cbea14ad9e6bc3f4f7e4b3755dfed4f" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref243_w4f" level="file">
+            <did>
+              <unittitle>Financial information on Cabarrus, 1951</unittitle>
+              <container id="aspace_6140024064027d52271df05009add811" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref244_pf4" level="file">
+            <did>
+              <unittitle><title render="doublequote">Spanish Banking Schemes Before 1700,</title>
+                working copy and notes, undated</unittitle>
+              <container id="aspace_9d6a4182442dd2fd21ef80901683318b" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref245_bc6" level="file">
+            <did>
+              <unittitle><title render="doublequote">Spanish Banking Schemes Before 1700</title>;
+                and <title render="doublequote">The Foundation of the Bank of Spain,</title> 1945,
+                June</unittitle>
+              <container id="aspace_214bd934b977b0ea747879d7d89ec3f7" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref246_8ev" level="file">
+            <did>
+              <unittitle><title render="doublequote">The First Twenty Years of the Bank of Spain. I,
+                  II. 1782-1802,</title> 1946, Feb.-Apr.</unittitle>
+              <container id="aspace_43ddfa86959e6595cc15da2bee5bf8a2" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref247_zgb" level="file">
+            <did>
+              <unittitle><title render="doublequote">Plans for a National Bank in Spain,
+                  1701-83,</title> 1949, Aug.</unittitle>
+              <container id="aspace_106fcd7543e533b16fbfeb6f02ff27fe" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref248_joc" level="file">
+            <did>
+              <unittitle>Paper money/accounts (photostats), [1780s]</unittitle>
+              <container id="aspace_3a3ebc5c42e1385fb885165a68aee09c" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref249_5a1" level="file">
+            <did>
+              <unittitle>Plans for other national banking systems (as possible models for Bank of
+                Spain), 1747</unittitle>
+              <container id="aspace_45dd9cda0bba25f877668b7c1782bfff" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref250_8fk" level="file">
+            <did>
+              <unittitle>Bank of Spain notes folded and included with notecards, various dates and
+                undated</unittitle>
+              <container id="aspace_a25979925082999ba2e7084695593a06" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref251_x8k" level="file">
+            <did>
+              <unittitle>Typescripts of various original documents, various dates and
+                undated</unittitle>
+              <container id="aspace_e748d493f86b6ea9a2b6d06741753381" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref252_sxx" level="file">
+            <did>
+              <unittitle>Report of the Junta de Hospitales (photostat), undated</unittitle>
+              <container id="aspace_488e8a115123bae61cd68f1f252f333f" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref253_out" level="file">
+            <did>
+              <unittitle>On the operation of royal hospitals (photostat), 1786</unittitle>
+              <container id="aspace_41629147299eab8257ca01f2fbf36a0a" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref254_f6f" level="file">
+            <did>
+              <unittitle>Papers on the Conde de Cabarrus (photostats), [1780s]-[1790s] and
+                undated</unittitle>
+              <physdesc id="aspace_4a2e8bc27109b27e96362abf4260e090"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_7446132a7b8d73705ffdb01df74d1c1f" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref256_7vy" level="file">
+            <did>
+              <unittitle>Miscellaneous notes, some pertaining to Bank of Spain research, various
+                dates and undated</unittitle>
+              <container id="aspace_c3cc370c580d676b5245b18a8a6d39fc" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref257_gyo" level="file">
+            <did>
+              <unittitle>Typed transcripts of <emph render="italic">legajos</emph>, Archivo General
+                de Simancas, Inventory of Archives on Banco de San Carlos, [ca. 1780-1830] and
+                undated</unittitle>
+              <container id="aspace_51bec75e1ec568a4d60a593ea5e74a1f" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref258_elh" level="file">
+            <did>
+              <unittitle>Photostats of <emph render="italic">legajos</emph>:</unittitle>
+              <container id="aspace_57b7645e9ed7f526cad4290496fa9cad" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+            <c04 id="aspace_ref259_pul" level="file">
+              <did>
+                <unittitle>Cabarrus Papers; Cabarrus made a Spanish subject and starting the bank,
+                  [ca. 1780-1830] and undated</unittitle>
+                <container id="aspace_bd0624ba713f1a4096294f25e3642ed7" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref260_uy6" level="file">
+              <did>
+                <unittitle>Report of the junta to the king, dealing with bonds, 1794</unittitle>
+                <container id="aspace_32d27c40caa8a28ecac3797e6ef54ef3" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref261_2y8" level="file">
+              <did>
+                <unittitle>Memoria from Don Fr. Cabarrus to king about Bank, 1782</unittitle>
+                <container id="aspace_ea650c70fd8d5499ff75699851218cf9" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref262_aq1" level="file">
+              <did>
+                <unittitle>"Minuta del decreto para la ereccion del Banco," [1780s] and
+                  undated</unittitle>
+                <container id="aspace_42ab9dcca13185d0e69fcae22ab3fdb1" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref263_w5x" level="file">
+              <did>
+                <unittitle>Agreements reached by first junta on Bank, [1780s] and
+                  undated</unittitle>
+                <container id="aspace_b0a04226e2743afe8d1fac16c889b991" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref264_2gh" level="file">
+              <did>
+                <unittitle>More on bank notes and bonds, 1796 and undated</unittitle>
+                <container id="aspace_a1a41db406e23fd7d9f0ee489118b119" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref265_nhd" level="file">
+              <did>
+                <unittitle>On the opening of the Bank, [1780s] and undated</unittitle>
+                <container id="aspace_124855a7165df50900678d06820cf457" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref266_a3i" level="file">
+              <did>
+                <unittitle>Recommendations/criticisms of fomenting industry, 1779</unittitle>
+                <container id="aspace_f53edf7b4728ea908139ed9c98b189c6" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref267_t15" level="file">
+              <did>
+                <unittitle>The revised bank plan of Floridablanca, 1779</unittitle>
+                <container id="aspace_ecba2fb67f55b20fe89f4794f82da036" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref268_ftt" level="file">
+              <did>
+                <unittitle>Miscellaneous, pertaining to banks, trade, vagabonds, 1778 and
+                  n.d</unittitle>
+                <container id="aspace_6a00f6fb6ad7d5353567771eff2e7c46" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref269_dyb" level="file">
+              <did>
+                <unittitle>Correspondence of Cabarrus, 1783-84 and undated</unittitle>
+                <container id="aspace_563a6dec2b55e7135996e372828ca118" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref270_zt5" level="file">
+              <did>
+                <unittitle>Investment in the Bank, 1784</unittitle>
+                <container id="aspace_fb93e00c4c286194b8941afd7a20d694" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref271_1z9" level="file">
+              <did>
+                <unittitle>Investments in Bank, Bank's Charter, 1782</unittitle>
+                <container id="aspace_a329cbe9781a4fd484e43a57c8488d9b" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref272_7l3" level="file">
+              <did>
+                <unittitle>Subscriptions to the Bank, 1782 and undated</unittitle>
+                <container id="aspace_8ee69e0caa1ee744ee350b628d30edff" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref273_rwi" level="file">
+              <did>
+                <unittitle>On 'reducciones' and abuses at Bank, also concerning cloth manufacturing,
+                  1782 and undated</unittitle>
+                <container id="aspace_0088e169cc93fc1b170d575ba7fb66ca" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref274_bhw" level="file">
+              <did>
+                <unittitle>Assessment or probate and Accounts and Conde de Cady, 1799</unittitle>
+                <container id="aspace_80085352ac0fe72e5f3864562f896dc5" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref275_ee4" level="file">
+              <did>
+                <unittitle>Declaration of Conde de Cabarrus to Inquiry, [1790s]</unittitle>
+                <physdesc id="aspace_243c81c47143fabd877af19a370d8470"><extent>4
+                  folders</extent></physdesc>
+              </did>
+              <c05 id="aspace_ref277_4ak" level="file">
+                <did>
+                  <unittitle>pp. 1-50</unittitle>
+                  <container id="aspace_19bb04825ab424cc5d777ccce8054028" label="Mixed Materials"
+                    type="box">12</container>
+                </did>
+              </c05>
+              <c05 id="aspace_ref278_amn" level="file">
+                <did>
+                  <unittitle>pp. 51-100</unittitle>
+                  <container id="aspace_68e499a8c62b0a4557230c6a8dc943d1" label="Mixed Materials"
+                    type="box">12</container>
+                </did>
+              </c05>
+              <c05 id="aspace_ref279_1o9" level="file">
+                <did>
+                  <unittitle>pp. 101-150</unittitle>
+                  <container id="aspace_b31547b356ece9708f810d09913315a8" label="Mixed Materials"
+                    type="box">12</container>
+                </did>
+              </c05>
+              <c05 id="aspace_ref280_lbm" level="file">
+                <did>
+                  <unittitle>pp. 151-end, lengthy statement by Cabarrus about 'Auto'</unittitle>
+                  <container id="aspace_866813e683f85a9dd04d3616b6c16689" label="Mixed Materials"
+                    type="box">12</container>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref282_elo" level="series">
+        <did>
+          <unittitle>Research Papers Series, [ca. 1592]-1969 and undated</unittitle>
+        </did>
+        <scopecontent id="aspace_cfb1aea2e52b2bef6ff793935911d225">
+          <head>Scope and Contents note</head>
+          <p>Notes, transcriptions and photostats of primary sources, drafts of papers (both typed
+            and written), lectures, and notecards, all relating to Hamilton's published and
+            unpublished work on the economic origins of the Monroe Doctrine, South American wars of
+            independence, Colombia, John Law, price and wages theory, and miscellaneous other
+            topics. Arranged in original order with folder titles assigned by Hamilton.</p>
+          <p>Note: Dates given below in descriptions of primary sources reflect the date of the
+            original items, and not the modern date on which the photostats or transcripts were
+            created.</p>
+        </scopecontent>
+        <c02 id="aspace_ref283_fe5" level="file">
+          <did>
+            <unittitle>Notes, business cards, letters, receipts, various dates and
+              undated</unittitle>
+            <container id="aspace_059fa1f770994c815e5962be0d7e12c9" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref284_kjw" level="file">
+          <did>
+            <unittitle>Notecards, various dates and undated</unittitle>
+            <container id="aspace_044d606291ee86bfda72049dc86e1793" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref285_x6k" level="file">
+          <did>
+            <unittitle>Research notes and correspondence, various dates and undated</unittitle>
+            <physdesc id="aspace_99031b8b803141664566c1aed5121a46"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_3b5a86f3aaf8371cff69255c7805b0d5" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref287_lel" level="file">
+          <did>
+            <unittitle>Notes, book call numbers, clips, various dates and undated</unittitle>
+            <container id="aspace_969ac7fb22416f48a886e564bb04c901" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref288_9zq" level="file">
+          <did>
+            <unittitle>Research on John Law:</unittitle>
+          </did>
+          <c03 id="aspace_ref289_tov" level="file">
+            <did>
+              <unittitle>Letters and notes, news clippings; various dates and undated</unittitle>
+              <container id="aspace_e0300a1e843ea14b4c74c0745903ee7a" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref290_j8y" level="file">
+            <did>
+              <unittitle>Papers, [1670s]-[1720s], 1967, May</unittitle>
+              <container id="aspace_c571e05d32632f6f810b412e6fc2ab98" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref291_t0t" level="file">
+            <did>
+              <unittitle>Papers, [1670]-[1720s], 1967, May and 1969, Spring</unittitle>
+              <container id="aspace_6a045db0537b463b452f45bca6a1e582" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref292_rnq" level="file">
+            <did>
+              <unittitle>Various notes and materials, [1670s]-[1720s]</unittitle>
+              <container id="aspace_cc25c33d2ed8f5588682d69ccf010f29" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref293_vhd" level="file">
+            <did>
+              <unittitle><title render="doublequote">The Political Economy of France at the Time of
+                  John Law,</title> undated</unittitle>
+              <container id="aspace_3b6cff76bdb5b9d87a13d32f8a412277" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref294_ob3" level="file">
+            <did>
+              <unittitle>Notes, various dates and undated</unittitle>
+              <container id="aspace_a8509b6db41ce7c65ddba3c9ad09bff2" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref295_wvo" level="file">
+            <did>
+              <unittitle>Various notes and materials (photostats, etc.), [ca. 1680-1720]</unittitle>
+              <container id="aspace_e1c87e5b63e9453a60b528f9cf8058fa" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref296_rsq" level="file">
+            <did>
+              <unittitle>Various notes, [ca. 1680-1720]</unittitle>
+              <physdesc id="aspace_b3daebf478bfa262aacaf58822bc968a"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_8067dec26a313c0f9e7bf8939d832cf3" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref298_nrp" level="file">
+            <did>
+              <unittitle>Various notes on Law and related subjects, [ca. 1680-1720]</unittitle>
+              <container id="aspace_cc766ccb3781453048a5c78edb7a23c2" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref299_pg0" level="file">
+            <did>
+              <unittitle>Materials (Xeroxes, etc.), [ca. 1700-1720]</unittitle>
+              <container id="aspace_6b97d798bf18e22341f53ef4cc749b36" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref300_vhw" level="file">
+            <did>
+              <unittitle><title render="doublequote">Un capitolo della vita di Giovanni Law,</title>
+                1913-1914</unittitle>
+              <container id="aspace_6e7c2f3484435317cb71db1bc04108cf" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref301_92a" level="file">
+            <did>
+              <unittitle>Materials: photographs and photostats, various dates and
+                undated</unittitle>
+              <container id="aspace_17d4a6d673c3ca5b43e5937a2f3f2511" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref302_131" level="file">
+            <did>
+              <unittitle>Materials on the contemporaries of Law (i.e. Richard Cantillon), [ca.
+                1700-1720]</unittitle>
+              <container id="aspace_03ba83aadc8022a07870f5fb7e49de2f" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref303_e4j" level="file">
+            <did>
+              <unittitle>Various notes on Law and the financial system in early 1700s</unittitle>
+              <physdesc id="aspace_b2ff0f6d394decfce196afaed1d801f8"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_b546f95dd9162f5548594f66f9eac4f1" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref305_tfi" level="file">
+            <did>
+              <unittitle>Various notes on Law and the financial system in early 1700s</unittitle>
+              <physdesc id="aspace_552bfa04dff3e556971f1921e60eab79"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_f701568d89e60a526dbb5988482a36ac" label="Mixed Materials"
+                type="box">14</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref307_ero" level="file">
+            <did>
+              <unittitle>Various notes on Law and finance: article on Law, 1957, May 4, and
+                clippings, undated</unittitle>
+              <container id="aspace_b7ff7dd818451c681aec289f5ba65667" label="Mixed Materials"
+                type="box">14</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref308_vak" level="file">
+            <did>
+              <unittitle><title render="doublequote">Prices and Wages in Southern France Under John
+                  Law's System,</title> 1937, Feb.</unittitle>
+              <container id="aspace_b099828be72c70b3204f2e8e7f5acfd2" label="Mixed Materials"
+                type="box">14</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref309_q05" level="file">
+          <did>
+            <unittitle>Miscellaneous - typescripts, pamphlets, and notes, various dates and
+              undated</unittitle>
+            <container id="aspace_294f45a7a39f601086f356a72caea00d" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref310_l9n" level="file">
+          <did>
+            <unittitle>Notes: <title render="doublequote">Prices, Wages, and Industrial Revolution,
+                1500-1700,</title> undated</unittitle>
+            <physdesc id="aspace_821d55d8c0e08a5c7cd8e3de653f9216"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_390a917b5972540f1cd89b8ba1494bbb" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref312_17q" level="file">
+          <did>
+            <unittitle><title render="doublequote">Galliani Economista,</title> 1949</unittitle>
+            <container id="aspace_d39cb3f70f95942bf9da3f41b6eb4372" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref313_oj3" level="file">
+          <did>
+            <unittitle>Various typescripts, articles, various dates and undated</unittitle>
+            <container id="aspace_f94be07620f53aa6d62c50fa4fd00258" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref314_zuu" level="file">
+          <did>
+            <unittitle><title render="doublequote">Bourbon Reform,</title> typescript and
+              handwritten notes, various dates and undated</unittitle>
+            <container id="aspace_41de4563f7afea9fd58d9f04fe819f86" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref315_cdl" level="file">
+          <did>
+            <unittitle><title render="doublequote">Role of War in Modern Inflation,</title> notes,
+              various dates and undated</unittitle>
+            <container id="aspace_b9365c5a09028a51fafe6c80b4a64694" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref316_hzn" level="file">
+          <did>
+            <unittitle>Wages in Valencia, [ca. 1600-1630]</unittitle>
+            <container id="aspace_62444ed5e53b2bc46c17fc4a18f63baf" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref317_kx8" level="file">
+          <did>
+            <unittitle>Het Molenpanorama and Primer Congreso de Historia de Andalucia, various dates
+              and undated</unittitle>
+            <container id="aspace_74003634a933ef43f25661fa6664dd96" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref318_5w0" level="file">
+          <did>
+            <unittitle><title render="italic">Mercurius</title>, 1720</unittitle>
+            <container id="aspace_d5de5515db1ec2f8869edc4221a51ce0" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref319_bpw" level="file">
+          <did>
+            <unittitle><title render="doublequote">Distribution of Earnings,</title> 1780 (see
+              folder 5 of this box)</unittitle>
+            <container id="aspace_4aaf32ace95dcc3c07468eda5b1e2e27" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref320_uta" level="file">
+          <did>
+            <unittitle>Notes and transcriptions, various dates and n.d</unittitle>
+            <container id="aspace_63fc86a22b8d5b9f1de0a24e3df1a496" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref321_bae" level="file">
+          <did>
+            <unittitle>Complete edited copy of <title render="doublequote">Price History</title> and
+              bibliography, various dates and undated</unittitle>
+            <container id="aspace_480671579d82575f2321531b5860cded" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref322_dwr" level="file">
+          <did>
+            <unittitle><title render="doublequote">The History of Prices Before 1750,</title>
+              undated</unittitle>
+            <container id="aspace_5f83aa0c1a1b605a925fad19324b2244" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref323_r5p" level="file">
+          <did>
+            <unittitle><title render="doublequote">The Spice Trade,</title> various dates and
+              undated</unittitle>
+            <container id="aspace_81c2ab87d4bb22ee052bdaca046e9695" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref324_phk" level="file">
+          <did>
+            <unittitle><title render="doublequote">Bubas</title> [Plagues], undated</unittitle>
+            <container id="aspace_46ac9e430ca7c39cc39b8b3bb3cb3f96" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref325_0r5" level="file">
+          <did>
+            <unittitle>Archivo de Ministerios Bogotá Transcriptions of documents from the Ministerio
+              de Relaciones Exteriores, Archivo Diplomático, Colombia, typescripts, [ca. 1800-1820]
+              and undated</unittitle>
+            <container id="aspace_8a26efc6181fce324e1d9bd87f6a807a" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref326_spq" level="file">
+          <did>
+            <unittitle>Archivo Historico Nacional Bogotá Transcriptions of various documents on
+              regulation of trade and manufacturing in South America; wars of independence; role of
+              Fernando VII, typescripts, [ca. 1800-1820] and undated</unittitle>
+            <container id="aspace_24cb22ecbecb059403a76808bb14c623" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref327_fw8" level="file">
+          <did>
+            <unittitle>Papers, notes, footnotes on mercantilism, various dates and
+              undated</unittitle>
+            <container id="aspace_dc151c939dcbe542faf45a7b9fc0cc2f" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref328_73q" level="file">
+          <did>
+            <unittitle>Various notes and figures on Spanish mercantilism, [1780s] and
+              undated</unittitle>
+            <container id="aspace_6a3f11e84395432d5a8e06d1fe3688d7" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref329_goj" level="file">
+          <did>
+            <unittitle>Transcriptions especially dealing with mercantilism (AGN Mexico 1592-1710)
+              and Russians in California, typescript</unittitle>
+            <container id="aspace_6e48704c02a8a08c6afc50a20a476cf6" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref330_nf0" level="file">
+          <did>
+            <unittitle><title render="doublequote">Economic Background of the Monroe
+                Doctrine,</title> typescripts of lecture delivered at Yale, undated</unittitle>
+            <container id="aspace_ca37b6d0ebde9bb37fa8b6bc7caff800" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref331_zbe" level="file">
+          <did>
+            <unittitle><title render="doublequote">Economic Origins of the Monroe Doctrine,</title>
+              undated</unittitle>
+            <container id="aspace_9b81245bd91809b8872c7519c531f68e" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref332_aa4" level="file">
+          <did>
+            <unittitle>Spanish mercantilism, various dates and undated</unittitle>
+            <container id="aspace_7e2505582b0f67bf97b52f2231d99b3a" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref333_4ne" level="file">
+          <did>
+            <unittitle>Merchants and agents in London and Amsterdam, typescript,
+              1718-1719</unittitle>
+            <container id="aspace_c8b6f14eff0b2b201e4b7400ba975868" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref334_yub" level="file">
+          <did>
+            <unittitle>Lectures in Santander, 1933</unittitle>
+            <container id="aspace_a40bcdc93dcc02d4b3a6285e520e0077" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref335_oro" level="file">
+          <did>
+            <unittitle><title render="doublequote">Prices and Progress,</title> typescripts, 1952,
+              Fall, other dates and undated</unittitle>
+            <container id="aspace_a7c6854b7de70236b75f0d61cb87ed7d" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref336_flt" level="file">
+          <did>
+            <unittitle><title render="doublequote">Averiguación de los que quebraron tomas,
+                metates,</title> 1799, typed transcript</unittitle>
+            <container id="aspace_c4f55375b47975f7f5b78dd42f787572" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref337_85p" level="file">
+          <did>
+            <unittitle>Research papers on agriculture; wages in England; diseases in Indies; other
+              topics dealing with Spain; inflation; hemp in Peru, various dates and
+              undated</unittitle>
+            <container id="aspace_cec28a3e4051b259238d78ca64145120" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref338_9xr" level="file">
+          <did>
+            <unittitle><title render="doublequote">Reglamento para flotas,</title> typed
+              transcriptions; cedulas on "Lino y canamo" [hemp plants], 1773</unittitle>
+            <container id="aspace_403a211d95fc1123001159c2bebf0176" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref339_jsz" level="file">
+          <did>
+            <unittitle><title render="doublequote">Mr. Trevenen's Plan to establish trade on the
+                Northwest Coast of America,</title> photostat of document [in French, with glass in
+              English], from original in Library of Congress, 1757</unittitle>
+            <container id="aspace_04fec767cf468be78085721a3d8ecb49" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref340_1dt" level="file">
+          <did>
+            <unittitle>Notes on <title render="doublequote">Prices,</title> [1500s-1600s] and
+              undated</unittitle>
+            <container id="aspace_95495cc9be93703cde346ed9507ee93e" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref341_u13" level="file">
+          <did>
+            <unittitle>Notes on <title render="doublequote">Vales Retired</title></unittitle>
+            <container id="aspace_df998bf5658c4bce6fd2c3e38cab841a" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref342_2lc" level="file">
+          <did>
+            <unittitle>Very poor Xerox reprint of article on Valentin de Foronda, early 19th
+              century, <title render="doublequote">Revista de Economia Política,</title>
+              1959</unittitle>
+            <container id="aspace_90232655ea6c189ac90ff9c28b8c7d37" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref343_202" level="file">
+          <did>
+            <unittitle>Photostats of documents on fabricas, gremias, [1770s]-[1780s]</unittitle>
+            <container id="aspace_03b47a4f624035df18e36912e4453f18" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref344_nkm" level="file">
+          <did>
+            <unittitle>Bound volumes of photostats from French archives dealing with French finance
+              and John Law:</unittitle>
+            <container id="aspace_730e4fac22f1c6c9ba91ac807564004c" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+          <c03 id="aspace_ref345_fh3" level="file">
+            <did>
+              <unittitle><title render="italic">Arrets sur le systéme de Jean Law</title>,
+                1722-1733</unittitle>
+              <container id="aspace_76b5f246002cd472013982e09ce4a1ab" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref346_xv4" level="file">
+            <did>
+              <unittitle><title render="italic">Memoires sur les finances systéme de Jean
+                  Law</title>, vol. 1, undated</unittitle>
+              <container id="aspace_a998b0a4a176a6645bd8ed38f2f6d7a7" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref347_lak" level="file">
+            <did>
+              <unittitle><title render="italic">Memoires sur les finances systéme de Jean
+                  Law</title>, vol. 2, undated</unittitle>
+              <container id="aspace_99353ad3b7845da353dac5c6864c7bf4" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref348_s5l" level="file">
+            <did>
+              <unittitle><title render="italic">Lettres des intendants sur le systéme de Jean Law,
+                </title>, 1709-1720</unittitle>
+              <container id="aspace_a88fe751830e4721ad74b740741e41c4" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref349_t37" level="file">
+            <did>
+              <unittitle><title render="italic">Liquidation du systéme de Jean Law</title>, vol. 1,
+                1740</unittitle>
+              <container id="aspace_ede7502763078f4f8f980f44da9ed9d7" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref350_flv" level="file">
+            <did>
+              <unittitle><title render="italic">Liquidation du systéme de Jean Law</title>, vol. 2,
+                1725 and undated</unittitle>
+              <container id="aspace_620602bbffe16c061c9306ed7bdd0ec8" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref352_r8f" level="series">
+        <did>
+          <unittitle>Original Documents Series, 1584-1829 (bulk 1700-1830s)</unittitle>
+        </did>
+        <scopecontent id="aspace_48ce381af72b2c38f391acd5505997cd">
+          <head>Scope and Contents note</head>
+          <p>Hundreds of original documents in Spanish and French, primarily from the 18th and 19th
+            centuries but also including some 16th and 17th century materials. Chiefly consist of
+            royal Spanish cedulas outlining Crown economic policy and concern over investments;
+            plans to establish the Bank of Spain; expropriation of Jesuit lands; trade regulation;
+            control of vagabonds; and sumptuary rules for dress. The documents from the 1800s
+            chronicle the French occupation of Spain and the restoration of Fernando VII; the
+            proclamations in the oversize folder (see the Oversize Series) include public
+            declarations about resistance to Napoleon. Arranged in original order.</p>
+        </scopecontent>
+        <c02 id="aspace_ref353_7w2" level="file">
+          <did>
+            <unittitle>1584-1829</unittitle>
+            <container id="aspace_a17a102e344600a03b44027a4cd8e458" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref354_70n" level="file">
+          <did>
+            <unittitle>1596-1806</unittitle>
+            <container id="aspace_b6ea5bfea9b2d2599c870479471bd452" label="Mixed Materials"
+              type="box">18</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref356_q6l" level="series">
+        <did>
+          <unittitle>Research Notecards Series, [ca. 1920s-1980s] and undated</unittitle>
+        </did>
+        <scopecontent id="aspace_43332afcae17744d6db6761a192ee00f">
+          <head>Scope and Contents note</head>
+          <p>Undated notecards containing background research notes and transcriptions of original
+            sources for Hamilton's investigations on John Law, the Spanish economy, the Monroe
+            Doctrine, mercantilism, and various other topics. An outline of chapters in Hamilton's
+            personal papers suggests he intended to write a book on this subject, in addition to the
+            articles he published. The cards about John Law have been interfiled with subject
+            headings to ease use by researchers.</p>
+        </scopecontent>
+        <c02 id="aspace_ref357_38q" level="file">
+          <did>
+            <unittitle>Notecards, unsorted</unittitle>
+            <container id="aspace_56692e128bce695bfbfcb4c358109064" label="Mixed Materials"
+              type="box">19-27</container>
+          </did>
+          <scopecontent id="aspace_92a3d90b34617b65fb3d1edaa3b64016">
+            <head>Scope and Contents note</head>
+            <p>Notes on shipping manifests for imports of valuables, 1760s-1790s; reports on
+              treasure, prices, wages, and Spanish monetary policy; lecture notes, including general
+              economics of the 20th century; mercantilism, particularly Spanish mercantilism; the
+              Moors; Bank of Spain and Banco de San Carlos notes; and many other topics. These
+              notecards are unsorted and unprocessed.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref359_6z6" level="file">
+          <did>
+            <unittitle>Notecards on John Law, 17th-18th century</unittitle>
+            <container id="aspace_91d74e6408190b0d21acda9da39eccfd" label="Mixed Materials"
+              type="box">31-51</container>
+          </did>
+          <scopecontent id="aspace_efd928738741eb8097311dab3932cc45">
+            <head>Scope and Contents note</head>
+            <p>Though these notecards remain unprocessed, index cards relating to John Law have been
+              interfiled with headings and subjects by an external researcher.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref362_qd1" level="series">
+        <did>
+          <unittitle>Additional Unarranged Papers Series, 1390-1985 and undated (bulk
+            1929-1949)</unittitle>
+        </did>
+        <scopecontent id="aspace_6522e71705054fe806094be69e592714">
+          <head>Scope and Contents note</head>
+          <p>Drafts of papers, notes, and other research materials not directly related to
+            Hamilton's research for major works. Arranged in original order as received. Dates given
+            below in descriptions of primary source materials reflect the dates of the original
+            items, and not the date on which the modern transcript or photocopy was made.</p>
+        </scopecontent>
+        <processinfo id="aspace_c384a15f5c92f2396421c27162e396d2">
+          <head>Processing Information note</head>
+          <p>Attention: contains pictorial materials.]</p>
+        </processinfo>
+        <c02 id="aspace_ref363_uqr" level="file">
+          <did>
+            <unittitle>Research papers ("Precious Metals," "El Banco Nacional de San Carlos," "Las
+              consecuencias económicas de la expulsion de los moriscos"), various dates and
+              undated</unittitle>
+            <container id="aspace_74e340d41048cb0fb1b797fd30dc9656" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref364_jdy" level="file">
+          <did>
+            <unittitle><title render="doublequote">American Treasure and the Rise of Capitalism,
+                1500-1700,</title> 1929, Nov.</unittitle>
+            <container id="aspace_8543cd43d3be4eda85f7ec020bf7d706" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref365_5n9" level="file">
+          <did>
+            <unittitle><title render="doublequote">English Prices and Public Finance,
+                1660-1822,</title> Elizabeth Boody Schumpeter, 1938</unittitle>
+            <container id="aspace_9ace3851239f9c30feaf6d6f522bf21e" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref366_l4n" level="file">
+          <did>
+            <unittitle>Notes on <title render="italic">Dissertation de peste</title>, various dates
+              and undated</unittitle>
+            <container id="aspace_f653abba1e4a8ef1f65368b83f2fa0d4" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref367_84z" level="file">
+          <did>
+            <unittitle><title render="doublequote">Monetary Disorder and Economic Decadence in
+                Spain, 1651-1700,</title> 1943, Dec.</unittitle>
+            <container id="aspace_c74ca8437b0994a34ec31502832ecedf" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref368_nfp" level="file">
+          <did>
+            <unittitle><title render="doublequote">Growth of Rigidity in Business During the
+                Eighteenth Century,</title> 1940, Mar.</unittitle>
+            <container id="aspace_46a5a98d82cf4b35c1ed8613b54bce38" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref369_krl" level="file">
+          <did>
+            <unittitle><title render="doublequote">Origin and Growth of the National Debt in Western
+                Europe,</title> 1947, May, various dates</unittitle>
+            <container id="aspace_cf060f0364981767499d7a1b2275f9ad" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref370_4v5" level="file">
+          <did>
+            <unittitle><title render="doublequote">Origin and Growth of the National Debt in France
+                and England,</title> 1949, various dates</unittitle>
+            <container id="aspace_caab8e128a6a35a4dc7d1eb8d7e7bff6" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref371_09y" level="file">
+          <did>
+            <unittitle><title render="doublequote">Edwin Francis Gay, [1867-1946],</title> 1947,
+              June</unittitle>
+            <container id="aspace_f5009caf25a338b5315f1bf0cb209467" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref372_120" level="file">
+          <did>
+            <unittitle><title render="doublequote">Imports of American Gold and Silver into Spain,
+                1503-1660,</title> 1929, May</unittitle>
+            <container id="aspace_d1b91824e33447de669dc721eacdbcf0" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref373_m8q" level="file">
+          <did>
+            <unittitle><title render="doublequote">Money and Economic Recovery in Spain Under the
+                First Bourbon, 1701-1746,</title> 1943, Sept.</unittitle>
+            <container id="aspace_0145aa46ada0db9d5876229b26918c31" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref374_1b6" level="file">
+          <did>
+            <unittitle><title render="doublequote">Wages and Subsistence on Spanish Treasure Ships,
+                1503-1660,</title> 1929, Aug.</unittitle>
+            <container id="aspace_09195ca8414457c2a0df2300146f16a2" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref375_ujz" level="file">
+          <did>
+            <unittitle><title render="doublequote">La monnaie en Castille, 1501-1650,</title> 1932,
+              Mar.-May</unittitle>
+            <container id="aspace_8641ac22fb70a56693459126a21db6d3" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref376_w84" level="file">
+          <did>
+            <unittitle><title render="doublequote">VIII, The Decline of Spain,</title> 1938, May,
+              various dates</unittitle>
+            <container id="aspace_cef6698313a3866926d236a6af3fba8e" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref377_9uh" level="file">
+          <did>
+            <unittitle><title render="doublequote">Use and Misuse of Price History,</title> 1944,
+              Dec., various dates</unittitle>
+            <container id="aspace_2b45a1152dffa9d05f1cdd23863e4565" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref378_zur" level="file">
+          <did>
+            <unittitle>Miscellaneous financial notes from various archives (Spanish and Dutch),
+              various dates and undated</unittitle>
+            <container id="aspace_e5a7e49e1fffb532f76ba203c4e47d44" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref379_ij5" level="file">
+          <did>
+            <unittitle>Miscellaneous financial notes from archives (Dutch interest rates,
+              1729-1790)</unittitle>
+            <container id="aspace_970bdd6a4df214f333a11a625177d613" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref380_fzk" level="file">
+          <did>
+            <unittitle>Miscellaneous financial notes from archives (more interest rates; 1632-1640,
+              1801-1811, 1791-1800, 1611-1620)</unittitle>
+            <container id="aspace_bd668fe2e816d7166e0bd5096d8b1036" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref381_vmv" level="file">
+          <did>
+            <unittitle>Miscellaneous financial notes from archives (interest rates); Haarlem
+              1635-43, 1645-50; Amsterdam 1650-90</unittitle>
+            <container id="aspace_fdaf4addfc888303df00617333d4712b" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref382_9ub" level="file">
+          <did>
+            <unittitle>Amsterdam interest rates 1691-1710, 1621-1630</unittitle>
+            <container id="aspace_bf299acf25cf3aeff387649af0da2c50" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref383_5pb" level="file">
+          <did>
+            <unittitle>Various notes, research, drafts for unclassified papers, various dates and
+              undated</unittitle>
+            <container id="aspace_7d5fb91c41e48e1158b29275fe8a9e5c" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref384_20q" level="file">
+          <did>
+            <unittitle>Research notes, drafts, etc., various dates and undated</unittitle>
+            <container id="aspace_36bb2fe7731995462b2735ff7505b53e" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref385_rsy" level="file">
+          <did>
+            <unittitle>Unidentified research notes on the 18th century, undated</unittitle>
+            <container id="aspace_a3ce3f9e465c14cc3f5b3a4ed8ef4bf9" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref386_rbp" level="file">
+          <did>
+            <unittitle><title render="doublequote">Livres Anciens et Modernes,</title> #53 and 65,
+              various dates and undated</unittitle>
+            <container id="aspace_eef2c6f81d5489878685e6e6911cebe7" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref387_rys" level="file">
+          <did>
+            <unittitle><title render="doublequote">Livres Provenant de la Bibliotheque,</title>
+              1984, Mar. 22, various dates</unittitle>
+            <container id="aspace_0723d40ad205837d2e6fc8fb063de83f" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref388_92j" level="file">
+          <did>
+            <unittitle><title render="doublequote">The Case for Communism,</title> 1932</unittitle>
+            <container id="aspace_7f0dbd77732b53927a7b0cbec0294d91" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref389_qo6" level="file">
+          <did>
+            <unittitle>Bibliothéque Nationale: manuscript request forms, 1960</unittitle>
+            <container id="aspace_98706cbfe7163b63b6d57ee0b6088fdc" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref390_g2r" level="file">
+          <did>
+            <unittitle>Unclassified ledger sheet, undated</unittitle>
+            <container id="aspace_b8c40d459c4cee61b20c2f0a9ce0b3bc" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref391_efr" level="file">
+          <did>
+            <unittitle><title render="doublequote">The Sources of Sir Nicholas on English Baron
+                Society Collection, 1250-1700,</title> undated</unittitle>
+            <container id="aspace_659a9bc409651ca43bc0aad82da3a95b" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref392_pzl" level="file">
+          <did>
+            <unittitle>Guggenheim report, 1985</unittitle>
+            <container id="aspace_760f87f5b7550b2d89e1f2e94b82a7c6" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref393_xey" level="file">
+          <did>
+            <unittitle>Photographs:</unittitle>
+          </did>
+          <c03 id="aspace_ref394_9ws" level="file">
+            <did>
+              <unittitle>Home Folks, Uncle Ed, Eva's Family, undated</unittitle>
+              <container id="aspace_c4a1ef504eb1a6da76b2fccfd8a56332" label="Mixed Materials"
+                type="box">28</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref395_21g" level="file">
+            <did>
+              <unittitle>Photos from the Archivio di Stato, Genova (Italy), undated</unittitle>
+              <container id="aspace_26706480eb418fe3e8603f0e6e8f8690" label="Mixed Materials"
+                type="box">28</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref396_rhp" level="file">
+            <did>
+              <unittitle>Photo of a page from an account book, 1390, Feb. 20</unittitle>
+              <container id="aspace_94c8b49f5d0f89bd15fdcaf6f7fae287" label="Mixed Materials"
+                type="box">28</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref397_z3n" level="file">
+          <did>
+            <unittitle>Empty postal bag for microfilm, undated</unittitle>
+            <container id="aspace_e3381a0236f4d67b81b364ccb4ad5405" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref398_mha" level="file">
+          <did>
+            <unittitle>Information for the Banco Nacional de San Carlos, 1784-1829</unittitle>
+            <container id="aspace_7adba8dc217f83db650ac773de5c9fb1" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref401_hhp" level="series">
+        <did>
+          <unittitle>Microfilms Series, 1783-1884 and undated</unittitle>
+        </did>
+        <scopecontent id="aspace_284ee0aa2240ed2cdb1352c8c7b7942e">
+          <head>Scope and Contents note</head>
+          <p>Various films, including negative strips and microfilm reels, related to Hamilton's
+            research on the French and Spanish economies and various other subjects. In original
+            order with titles, often obscure, transcribed from items.</p>
+          <p>Most dates given below in item descriptions refer to the dates of original historical
+            documents and not to the date on which film was created.</p>
+        </scopecontent>
+        <processinfo id="aspace_a1251ed53f00753fdaede93abc287ef4">
+          <head>Processing Information note</head>
+          <p>[Attention: Films may be deteriorated. Technical Services needs to format for use
+            copies before materials can be viewed. Contact Research Services staff before visiting
+            the David M. Rubenstein Rare Book &amp; Manuscript Library to use this collection.]</p>
+        </processinfo>
+        <c02 id="aspace_ref402_7v1" level="file">
+          <did>
+            <unittitle><title render="doublequote">Observations d'un banquier de la Banque
+                d'Espagne,</title> undated</unittitle>
+            <container id="aspace_558c1e428cd10558301eea8975f03e37" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref403_0b3" level="file">
+          <did>
+            <unittitle><title render="italic">Boletin oficial Ministerio Hacienda,</title> 1850;
+              Banco de San Fernando (microfilm)</unittitle>
+            <container id="aspace_2d5e02e0eb624965f69aae29053bd53a" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref404_v1y" level="file">
+          <did>
+            <unittitle><title render="doublequote">Memoria historica, mayores de Madrid,</title>
+              (microfilm), 1884</unittitle>
+            <container id="aspace_92da56423f8b29f816368ac2748078ee" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref405_ymw" level="file">
+          <did>
+            <unittitle>Archivo General de la Nación Mexico -- Cuarta Junta General, 1783, and
+              several cedulas reales (microfilm)</unittitle>
+            <container id="aspace_7b2eb39ac10febb756fe0c054f74f8c6" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref406_a68" level="file">
+          <did>
+            <unittitle>Earl J. Hamilton, Banco de España, "Archivo" (film), undated</unittitle>
+            <container id="aspace_8f4c94949697727b509a3e972f3f80e8" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref407_x1w" level="file">
+          <did>
+            <unittitle>Earl J. Hamilton, unidentified film and negatives, undated</unittitle>
+            <container id="aspace_f051c0585b97ba65519a947182d6ff1a" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref408_5i1" level="file">
+          <did>
+            <unittitle>Documentos del Archivo del Conde de Colrerras; No. 168 (Leg 3-28); No. 164
+              (Leg 3-24), undated</unittitle>
+            <container id="aspace_13300016ed6f754224721b31d748ed0e" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref409_pmh" level="file">
+          <did>
+            <unittitle>Microfilm of unidentified original documents, undated</unittitle>
+            <container id="aspace_53a622867618f9c8a931d31ab17c8701" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref410_xbt" level="file">
+          <did>
+            <unittitle>Banco de San Carlos, 20th Junta to Junta of 1813</unittitle>
+            <container id="aspace_a3d7333d81f0f9849003e7b9bb09cf19" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref411_s2g" level="file">
+          <did>
+            <unittitle>Original documents from Spain received in 1949, undated</unittitle>
+            <container id="aspace_c5b37b02fad57755ec3be0705771f347" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref414_fhf" level="series">
+        <did>
+          <unittitle>Oversize Materials Series, 1765-1836 and undated</unittitle>
+        </did>
+        <c02 id="aspace_ref415_hi2" level="file">
+          <did>
+            <unittitle>Archivio di Stato di Torino (photocopies), undated</unittitle>
+            <container id="aspace_5a320865573d160adcf0be21d1be7f32" label="Mixed Materials"
+              type="box">29</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref416_r22" level="file">
+          <did>
+            <unittitle>Primary materials on John Law (photocopies), undated</unittitle>
+            <container id="aspace_680074be80e660b06718d590e9c2c1a6" label="Mixed Materials"
+              type="box">29</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref417_3mw" level="file">
+          <did>
+            <unittitle>Amsterdam broadsides, 1795-1796</unittitle>
+            <container id="aspace_f1bde13291a61475c19181188e179dc9" label="Mixed Materials"
+              type="oversize-folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref418_crr" level="file">
+          <did>
+            <unittitle>Spanish proclamations (<emph render="italic">cedulas reales</emph>),
+              1765-1836</unittitle>
+            <container id="aspace_f37e86e7cf6924846aa92ff642f394ea" label="Mixed Materials"
+              type="oversize-folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref419_hby" level="file">
+          <did>
+            <unittitle>18th century French printed materials (5 items)</unittitle>
+            <container id="aspace_00cd551920b27ed3e7fadf356ce0f702" label="Mixed Materials"
+              type="oversize-folder">3</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

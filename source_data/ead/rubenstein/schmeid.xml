@@ -1,0 +1,2538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/schmeid/">schmeid</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Gertrude Raffel Schmeidler Papers, 1943-1983
+                  <num>RL.01147</num>
+            </titleproper>
+            <author>Processed by Janie C. Morris; Assisted by Lynne Derhammer and Carlos Alvarado;
+               machine-readable finding aid created by Alvin Pollock</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001003720</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 09:09:01
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Gertrude Raffel Schmeidler papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Schmeidler, Gertrude Raffel</persname>
+         </origination>
+         <unitid>RL.01147</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">30.8 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1943/1983" type="inclusive">1943-1983</unitdate>
+         <physloc id="aspace_08008af9f3ae3c522959f6a8b47c4dbd">For current information on the
+            location of these materials, please consult the library's online catalog.</physloc>
+         <physdesc id="aspace_e9c1d51cbc797719839aef8a9de51177">
+            <extent>circa 24,000 items</extent>
+         </physdesc>
+         <langmaterial id="aspace_0d68f323e791c302432f4b9dd1fde7be">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_7184977c492d7fd4ef73a1b541892279">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. There may be a 48-hour delay in obtaining these materials.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_4cdaca44e4eae27ac2f30a59827971f7">
+         <head>Use Restrictions</head>
+         <p>Because of the nature of some of the research data contained in the Research Files:
+            Subject Subseries, release of certain information contained in it may give rise to
+            liability (e.g. for defamation or invasion of privacy). Use of names of living
+            individuals mentioned in the data is prohibited without their consent. Duke University
+            assumes no responsiblity for infringement of literary property rights and copyrights, or
+            for liability to any person for defamation or invasion of privacy.</p>
+      </userestrict>
+      <prefercite id="aspace_0c86e1793ea8f8424c032b147129c512">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Gertrude Raffel Schmeidler Papers, David M. Rubenstein Rare
+            Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_3a1d4bbc4c3bf149a8ca97ae303eb818">
+         <head>Provenance</head>
+         <p>The Gertrude Schmeidler Papers were given to the Duke University Library by Dr.
+            Schmeidler in 1987. Copyright interests in these papers have not been transferred to the
+            University.</p>
+      </acqinfo>
+      <processinfo id="aspace_6faf777eb9e324db1a48a28b37c308d6">
+         <head>Processing Information</head>
+         <p>Processed by Janie C. Morris</p>
+         <p>Assisted by: Lynne Derhammer and Carlos Alvarado</p>
+         <p>Date Completed: March 15, 1991</p>
+         <p>Encoded by Alvin Pollock and Stephen Miller</p>
+      </processinfo>
+      <bioghist id="aspace_d799ef4a6b5b30818aba27fe83a03e0f">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1912, July 15</date>
+               <eventgrp>
+                  <event>Born Long Branch, New Jersey</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1932</date>
+               <eventgrp>
+                  <event>B.A. magna cum laude Smith College, Northampton, Mass.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1932-1933</date>
+               <eventgrp>
+                  <event>Statistical assistant at Foundation for Neuro-Endocrine Research</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1933</date>
+               <eventgrp>
+                  <event>M.A. Clark University, Worcester, Mass.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1935</date>
+               <eventgrp>
+                  <event>Ph.D. Harvard University, Cambridge, Mass.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1935-1937</date>
+               <eventgrp>
+                  <event>Instructor at Monmouth College, Long Branch, New Jersey</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1937</date>
+               <eventgrp>
+                  <event>Married Robert Schmeidler</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1942-1944</date>
+               <eventgrp>
+                  <event>Research Associate at Harvard University, Cambridge, Mass.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1945-1985</date>
+               <eventgrp>
+                  <event>Taught in the Department of Psychology, City College of the City University
+                     of New York</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1945-1946</date>
+               <eventgrp>
+                  <event>Research Officer at the American Society for Psychical Research, New
+                     York</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1945</date>
+               <eventgrp>
+                  <event>Published article, "Separating the Sheep from the Goats," in the Journal of
+                     the American Society for Psychical Research</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1949-1955</date>
+               <eventgrp>
+                  <event>Consultant at Barnard College, New York</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1958</date>
+               <eventgrp>
+                  <event>Co-author of the work ESP and Personality Patterns, with Dr.Robert A.
+                     McConnell</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1959</date>
+               <eventgrp>
+                  <event>President, Parapsychological Association</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1964</date>
+               <eventgrp>
+                  <event>Earned the William McDougall Award for Distinguished Work in
+                     Parapsychology, established by the Parapsychology Laboratory at Duke
+                     University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1969</date>
+               <eventgrp>
+                  <event>Edited Extrasensory Perception</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1971</date>
+               <eventgrp>
+                  <event>President, Parapsychological Association</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1976</date>
+               <eventgrp>
+                  <event>Edited Parapsychology: Its Relation to Physics, Biology, Psychology and
+                     Psychiatry</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1977</date>
+               <eventgrp>
+                  <event>Associate Editor of Wolman's Handbook of Parapsychology</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1981-1985</date>
+               <eventgrp>
+                  <event>President, American Society for Psychical Research</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1988</date>
+               <eventgrp>
+                  <event>Published book Parapsychology and Psychology: Matches and
+                     Mismatches</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_c5a3de35071c92d7eefb766901980611">
+         <head>Collection Overview</head>
+         <p>The Gertrude R. Schmeidler Papers span the period 1943-1983. The bulk of the collection
+            consists chiefly of Research Files but also includes Correspondence and Writings. The
+            research data located in the Research Files consists primarily of information which
+            Schmeidler gathered through her work with students and colleagues as an experimental
+            psychologist and parapsychologist. This data formed the basis of her published journal
+            articles and books about how various factors and traits affect a person's extrasensory
+            perception (ESP) abilities. There are very few personal papers located in the
+            collection.</p>
+         <p>The value of the collection may be viewed from several perspectives. One is able to see
+            how researchers collaborate with each other; to evaluate the value of networking and
+            mentoring; to study the role of women in parapsychology; and to become aware of groups
+            and institutes interested in the study of ESP, such as the American Society for
+            Psychical Research, the Duke University Parapsychology Laboratory, and the
+            Parapsychology Foundation, Inc.</p>
+         <p>Reflected in much of the research is the work for which Schmeidler is most notable, the
+            development of the metaphor of the sheep and goats. She determined through several
+            cycles of ESP card-guessing experiments that "sheep" (persons who believed that success
+            was possible in ESP tasks) scored higher than "goats" (those who rejected the
+            possibility of success). Later documentation in the sheep/goat research includes data
+            and correspondence by Murray Melnick and Christopher Scott pertaining to their study of
+            earlier tabulations of Schmeidler's sheep/goat research.</p>
+         <p>The following correspondents, researchers, and subjects are generally represented
+            throughout the Correspondence and Research Files Series. Included are: Gardner Murphy,
+            Schmeidler's mentor and the person who first interested her in psychical research; Ingo
+            Swann, who studied PK (psychokinesis) effects on temperature; Caroline Chapman, a
+            psychic with whom Schmeidler conducted proxy settings; Eileen Garrett, a psychic who was
+            president of the Parapsychology Foundation Inc., and with whom Schmeidler conducted
+            proxy settings; Steve Heyman, who studied the effect of time and impatience on ESP
+            abilities; Betty Humphrey, who worked in the Duke Parapsychology Laboratory in the late
+            1940s and early 1950s and used drawings as her ESP targets; Larry Lewis, who attempted
+            to find out if ESP hones into a target like sonar; and Thelma Moss, who studied a house
+            haunting. Schmeidler collaborated with Swann, Heyman, Lewis, and Moss on the research
+            topics listed above and co-authored journal articles which were published as a result of
+            their research. Schmeidler also published an article about her proxy settings with
+            Chapman. The research data relating to the Garrett settings was never published. There
+            is scattered correspondence between Schmeidler and J. B. and Louisa Rhine, but not a
+            substantial amount. There are several letters between J. G. Pratt, who was working at
+            the Duke University Parapsychology Laboratory, and Schmeidler pertaining to the Chapman
+            proxy settings in the mid 1950s. There are numerous letters between Schmeidler and
+            Humphrey, some describing the working environment at the Duke University Parapsychology
+            Laboratory; others relate to Humphrey's research. Other topics are represented primarily
+            in the Research Files Series, including data about how various attitudes, conditions,
+            traits, and surroundings affect ESP abilities. Among them are frustration, utilizing
+            Saul Rosenzweig's Picture Frustration Study; Rorschachs and ESP scores of patients
+            suffering from cerebral concussions; background stimuli; Rorschachs and ESP scores in
+            maternity patients; ESP and memory; ESP scores following psychotherapy; and mood and
+            attitude as predictors of ESP performance; telepathic rapport based on personality
+            traits; and others such as long distance experiments in telepathy, precognition,
+            poltergeists, and clairvoyant medical diagnosis based on the Silva Mind Control
+            method.</p>
+         <p>The data for experiments, both successful as well as unsuccessful, are in the
+            collection. The results of some were never reported in the literature. Because of the
+            amount of data in the collection, it is possible that some of the experiments could be
+            replicated and/or studied for new results.</p>
+         <p>The Writings Series primarily consists of information pertaining to the work she
+            co-authored with Robert A. McConnell, ESP and Personality Patterns.</p>
+         <p>Folders throughout the collection contain Schmeidler's typed notes which describe the
+            data, list the name of the researcher with whom she collaborated, and in some cases the
+            article or articles which resulted from the research. Others indicate the nature and
+            subject of the correspondence and include information pertaining to her various
+            writings.</p>
+         <p>Through Schmeidler's correspondence with colleagues world-wide and her collaboration
+            with fellow scientists, one is able to gain an understanding of the vast range of
+            experiments and topics studied in the parapsychological field. One is also able to study
+            the difference in research styles between Americans and Europeans. Since the research
+            files span a period of forty years, the collection also reflects the various methods,
+            materials, and equipment used for research in the field.</p>
+         <p>Related collections in the Department include the Parapsychology Laboratory Records and
+            the Louisa Rhine Papers.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Extrasensory perception -- Research</subject>
+         <subject source="lcsh">Women parapsychologists</subject>
+         <subject source="lcsh">Women college teachers -- New York</subject>
+         <subject source="lcsh">Ghosts</subject>
+         <subject source="lcsh">Mediums</subject>
+         <subject source="lcsh">Psychical research</subject>
+         <subject source="lcsh">Parapsychology -- Research</subject>
+         <subject source="lcsh">Poltergeists -- Case studies</subject>
+         <subject source="lcsh">Precognition</subject>
+         <subject source="lcsh">Telepathy</subject>
+         <subject source="lcsh">Rorschach test</subject>
+         <subject source="lcsh">Rosenzwieg picture-frustration test</subject>
+         <subject source="lcsh">Psychokinesis</subject>
+         <subject source="lcsh">Clairvoyance</subject>
+         <corpname source="ingest">Parapsychology Foundation</corpname>
+         <persname source="ingest">Pratt, J. Gaither (Joseph Gaither), 1910-1979</persname>
+         <persname source="ingest">Moss, Thelma</persname>
+         <persname source="ingest">Murphy, Gardner, 1895-1979</persname>
+         <persname source="ingest">Swann, Ingo, 1933-</persname>
+         <persname source="ingest">Schmeidler, Gertrude Raffel</persname>
+         <persname source="ingest">Scott, Christopher</persname>
+         <persname source="ingest">Garrett, Eileen Jeanette Lyttle, 1893-1970</persname>
+         <persname source="ingest">Heyman, Steve</persname>
+         <persname source="ingest">Chapman, Caroline</persname>
+         <corpname source="ingest">Duke University. Parapsychology Laboratory</corpname>
+         <persname source="ingest">McConnell, Robert A.</persname>
+         <persname source="ingest">Melnick, Murry</persname>
+         <persname source="ingest">Humphrey, Betty, M.</persname>
+         <persname source="ingest">Lewis, Larry</persname>
+         <corpname source="ingest">American Society for Psychical Research</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_qnu" level="series">
+            <did>
+               <unittitle>Correspondence Series</unittitle>
+            </did>
+            <c02 id="aspace_ref13_5lc" level="file">
+               <did>
+                  <unittitle>1943-1968</unittitle>
+                  <physdesc id="aspace_3c0bc9fbd1abc77d5953fd5209ef2cfb">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2f1df5ba88c95b15380a3778f570d4b3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_24t" level="file">
+               <did>
+                  <unittitle>1969-1970</unittitle>
+                  <physdesc id="aspace_ab04aeb1141b180f4cedb93f62c228f3">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b307a932b970893ba7365d237014c0a8" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_3ld" level="file">
+               <did>
+                  <unittitle>1971-1972</unittitle>
+                  <physdesc id="aspace_79cc6aa074de7b579cf78770f1e47095">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3e4b6424ca57fa3045fb4cf8690e7c61" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_mhl" level="file">
+               <did>
+                  <unittitle>1973-1974</unittitle>
+                  <physdesc id="aspace_dacbb29048eb40cf1291906a42a7c005">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_600f567db81018a69a80e43a8fc7fd65" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_d7l" level="file">
+               <did>
+                  <unittitle>1974, July-1983, undated</unittitle>
+                  <container id="aspace_e7544498e5e221f430fcafd598acec49" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_qkg" level="file">
+               <did>
+                  <unittitle>Garrett, Eileen, 1953-1955, undated</unittitle>
+                  <container id="aspace_f25ee6118e1248654d1ee250997b4a2e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_2sw" level="file">
+               <did>
+                  <unittitle>Murphy, Gardner, 1951-1974, undated</unittitle>
+                  <physdesc id="aspace_a014aadea6c1c7c686c87be8593837bc">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_88323fbf6f7e895e45ee2e6e12dd7fe8" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_zbx" level="file">
+               <did>
+                  <unittitle>Ozanne, Charles E., 1953-1956</unittitle>
+                  <container id="aspace_3efa023c169e16f1686d916cc2bb5e27" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref26_spe" level="series">
+            <did>
+               <unittitle>Writings Series</unittitle>
+            </did>
+            <c02 id="aspace_ref27_fi2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">ESP and Personality Patterns</title>
+                  </unittitle>
+                  <container id="aspace_eab4eef734b815dd7d2a493aaf2a6b9f" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_g9u" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">ESP and Personality Patterns:</title> Response to
+                     Criticism</unittitle>
+                  <container id="aspace_566de2f3ea517e85c15424e2d9c67bd2" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_b6f" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Personal Values and ESP Scores</title>
+                  </unittitle>
+                  <container id="aspace_fc08147cbff7b30a5a4b78be2619c85b" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_jsv" level="file">
+               <did>
+                  <unittitle>1953-1972, undated</unittitle>
+                  <physdesc id="aspace_010669fe5dabd2be5c2cd2e1e1cb10ca">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_087424ef4d5e9adc546550e289e2bcea" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref32_kxd" level="series">
+            <did>
+               <unittitle>Research Files Series</unittitle>
+            </did>
+            <c02 id="aspace_ref33_a49" level="subseries">
+               <did>
+                  <unittitle>Rorschach Tests</unittitle>
+               </did>
+               <c03 id="aspace_ref34_bb7" level="file">
+                  <did>
+                     <unittitle>1944-1945</unittitle>
+                     <physdesc id="aspace_aa408206a3dedf88bc560df1d5950bf7">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_32a75bc5c1cd7ea082374c9a8e41c0b6" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_gez" level="file">
+                  <did>
+                     <unittitle>1945-1946, Mar.,Murphy</unittitle>
+                     <physdesc id="aspace_3e09af50aa0fc1e73cd4ead4eda306ce">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_cd7d0066e7075db3a31594a29a280dd7" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_hmh" level="file">
+                  <did>
+                     <unittitle>1946, Mar., schmeidler-Hunter,</unittitle>
+                     <container id="aspace_f33df3726fe36cd54a9614f3ca72f59c" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_zs0" level="file">
+                  <did>
+                     <unittitle>1946, Summer</unittitle>
+                     <physdesc id="aspace_d71b52093603b2488290fac95df73598">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f8b3afa0e48235b7cd6ff221451a28bf" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_jbz" level="file">
+                  <did>
+                     <unittitle>1946, Summer-Fall</unittitle>
+                     <physdesc id="aspace_5be9ed770b879bb28fce4b8133be3020">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_90e281982013d77b34dc0ee543f612bd" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_uvb" level="file">
+                  <did>
+                     <unittitle>1946-1951 and undated</unittitle>
+                     <container id="aspace_c3c8f791d6ec86d0852307b0e5ab9a1f" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_xey" level="file">
+                  <did>
+                     <unittitle>1946-1951</unittitle>
+                     <physdesc id="aspace_da695d3b069720a909b43e07a6236676">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_fa7fa2ca6b187cad555eab93d43176dc" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_zs2" level="file">
+                  <did>
+                     <unittitle>1947, Spring</unittitle>
+                     <physdesc id="aspace_dcc8e4f5f387fd073157cfa445ab1e2b">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_74b5232eebfab9b8b455ae83d8200e76" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_uto" level="file">
+                  <did>
+                     <unittitle>1947, Spring-Fall</unittitle>
+                     <physdesc id="aspace_fb7959893c161f043a209f55d16abe96">
+                        <extent>7 folders</extent>
+                     </physdesc>
+                     <container id="aspace_76efac5ea7bf0ddef45042e63365c8b8" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_pvs" level="file">
+                  <did>
+                     <unittitle>1947, Fall</unittitle>
+                     <physdesc id="aspace_1b66ad13f69c40d34eaf4e98879aaf9e">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d15833be9c11d61ad16bb002b571bd43" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_7hc" level="file">
+                  <did>
+                     <unittitle>1947-1950, undated</unittitle>
+                     <physdesc id="aspace_98769cedbf869f0a7c6e1ef215039585">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_7da29c1a2da214f441210615e3374ec4" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_hay" level="file">
+                  <did>
+                     <unittitle>1948-1949, Spring</unittitle>
+                     <physdesc id="aspace_d417d80ce5fb5933e70bf44cee107250">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_010a82dac4d0957eccce6fd2bede35c6" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref56_rpm" level="file">
+                  <did>
+                     <unittitle>1949, Spring/Fall-1950, Spring</unittitle>
+                     <physdesc id="aspace_133c0926797f54de922223c82d9f6831">
+                        <extent>7 folders</extent>
+                     </physdesc>
+                     <container id="aspace_acaac5ebe5ffe0bbb9a1b268623280de" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref58_jpd" level="file">
+                  <did>
+                     <unittitle>1950, Spring-Fall</unittitle>
+                     <physdesc id="aspace_4774621975da30d54d6dc363ddf32b97">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_7f2f974baad26099c71693ccccf3acc3" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_i9o" level="file">
+                  <did>
+                     <unittitle>1950, Feb.,Inspection Records: Sheep and Goats</unittitle>
+                     <physdesc id="aspace_3ea34189089db498cc4a1732db5138e7">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2deeca14304d23b45f6c5845b07efbca" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_pyo" level="file">
+                  <did>
+                     <unittitle>1951, Spring</unittitle>
+                     <physdesc id="aspace_b9f6058500258027efa899a8f5207d6a">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_e4f76bc7898a7238b8c34ffe4478e98c" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_nl9" level="file">
+                  <did>
+                     <unittitle>1951, Feb.,Inspection Records: Sheep and Goats</unittitle>
+                     <physdesc id="aspace_db320f47d5a0caf46a7da7c38b1ee611">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_846bf7375a9300ebaef255b664bc94b1" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_iin" level="file">
+                  <did>
+                     <unittitle>1951-1956</unittitle>
+                     <container id="aspace_8aa2fb3943563e466da6e7da21368158" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_v5o" level="file">
+                  <did>
+                     <unittitle>1951-1956</unittitle>
+                     <physdesc id="aspace_a05efde7817025d8d1fe1c4828715f51">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c0aefe35ba07450ff48927da9b582ab1" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_z9h" level="file">
+                  <did>
+                     <unittitle>1955-1956, Fall</unittitle>
+                     <physdesc id="aspace_7d0ceb72ecd3621850f83f4735d6f165">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_02476f5f12321ed56760ca298fe5e816" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_m9v" level="file">
+                  <did>
+                     <unittitle>1956, Fall-1958, Spring</unittitle>
+                     <physdesc id="aspace_41c9e8ad3b567f98183d565914c9ec76">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_69e742f502d0ea9c3ca7671d55792bc6" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_rpf" level="file">
+                  <did>
+                     <unittitle>1958, Spring/Fall-1960</unittitle>
+                     <physdesc id="aspace_d30126cb178eb6c782b1dfcda00c8101">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_49c4b5e6c777c144e0aa91e6ae8c6fc2" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_wtj" level="file">
+                  <did>
+                     <unittitle>1959-1961, Fall</unittitle>
+                     <physdesc id="aspace_2ee24a7687104b3fb365acabb96f3957">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_7055fde9090905988406a5ef00a0a89f" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref77_jlx" level="file">
+                  <did>
+                     <unittitle>1961-1966, Fall</unittitle>
+                     <physdesc id="aspace_9bc299ff9a911694faf9d37e0f264d52">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1dc62c6bdc0b0978753a50da7bb0b363" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_2w0" level="file">
+                  <did>
+                     <unittitle>Various dates, and undated</unittitle>
+                     <physdesc id="aspace_8e20044709fc149f01d74d360c8ee436">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9d3a8b11e92b7ec6942d18e83366feef" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_66y" level="file">
+                  <did>
+                     <unittitle>Chase and Wladkowsky, undated</unittitle>
+                     <container id="aspace_05ec2ed7c242d1bcd55a7105a68bded7" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_76u" level="file">
+                  <did>
+                     <unittitle>Erkstein, undated</unittitle>
+                     <container id="aspace_1838548a6974c60e47008de0383f42b2" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref83_9mu" level="file">
+                  <did>
+                     <unittitle>Inspection Records, 1943, 1946, undated</unittitle>
+                     <container id="aspace_89cae0eceb074b08baaf1fd9846d24f1" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_7lq" level="file">
+                  <did>
+                     <unittitle>Miscellaneous data, undated</unittitle>
+                     <container id="aspace_1e650e369dba23657f1cfb9fc361e42b" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref85_gxc" level="file">
+                  <did>
+                     <unittitle>Miscellaneous:</unittitle>
+                     <container id="aspace_50a77f42e000c0f5f440ad163cb05db2" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_l73" level="file">
+                  <did>
+                     <unittitle>Preselected on Basis of ESP Scores, 1945-1947, 1970</unittitle>
+                     <physdesc id="aspace_978800fbedf28124f593c9538de2cb35">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_da245de3c875b7ef3f44021c824f34ec" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref88_9rm" level="file">
+                  <did>
+                     <unittitle>TAT analysis, undated</unittitle>
+                     <container id="aspace_45e14fe5a8ba39be667c9b9c4a89df6b" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref89_62p" level="subseries">
+               <did>
+                  <unittitle>Sheep/Goat</unittitle>
+               </did>
+               <c03 id="aspace_ref90_y17" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets: 1941, Aug.-1946, Mar.</unittitle>
+                     <physdesc id="aspace_d20320f5c6d31728016bc5168400cf94">
+                        <extent>7 folders</extent>
+                     </physdesc>
+                     <container id="aspace_8ac0ad2405880bfd0e9bfec00d946b3d" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref92_16c" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets: 1946, Apr.-1946, July</unittitle>
+                     <physdesc id="aspace_628566a2025a83b5ba52000983aebaef">
+                        <extent>7 folders</extent>
+                     </physdesc>
+                     <container id="aspace_3957b55310fb7bc49435b3446ce091ff" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref94_w2h" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets: 1946, July-1947, Spring</unittitle>
+                     <physdesc id="aspace_17fe7f7dd9f547ce9c3a679cd0350268">
+                        <extent>8 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2b9e40ea95116af9aa2fc884f0cdf55a" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_son" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets: 1947, Sept.-1948, Dec.</unittitle>
+                     <physdesc id="aspace_a375202d137a6bfad90a82ac83929276">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f39c617b8685515a74f12d326471faa7" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref98_vfz" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets: 1949, Apr.-1951, Apr.</unittitle>
+                     <physdesc id="aspace_2a71a6b4ef9faa78d5a5a93d81338291">
+                        <extent>9 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0ef5ab99887016cfe186cc781420cda3" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_8tp" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets:</unittitle>
+                     <container id="aspace_e4843c4c316c997469c4d66392e4106b" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+                  <c04 id="aspace_ref101_f83" level="file">
+                     <did>
+                        <unittitle>1951, May</unittitle>
+                        <container id="aspace_11ebb98435a6e3c88da0777b2dfc0433"
+                           label="Mixed Materials" type="box">30</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref102_ica" level="file">
+                     <did>
+                        <unittitle>Various dates and undated</unittitle>
+                        <physdesc id="aspace_1647485f7ef14d2f1034e032510914b2">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_5ebefb042a87d33c5ebcbb61d331ebf7"
+                           label="Mixed Materials" type="box">30</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref104_4am" level="file">
+                     <did>
+                        <unittitle>Sheep/Goats, undated</unittitle>
+                        <physdesc id="aspace_3421b65fc255db5c4e3038a1842d9492">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_92d26582ad29ffdb6e6435f43eea236a"
+                           label="Mixed Materials" type="box">30</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref106_a58" level="file">
+                     <did>
+                        <unittitle>undated</unittitle>
+                        <physdesc id="aspace_1ca9627cd862f98c2aaf73c8b1ec19f0">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_3a4d07a00a7042997233f1767e7b3662"
+                           label="Mixed Materials" type="box">30</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref108_h14" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets: undated</unittitle>
+                     <physdesc id="aspace_6e7cb9281583896ca6057cf809cfe979">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c98ae9b548b581d474ca54b7f84214c7" label="Mixed Materials"
+                        type="box">31</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref110_n7u" level="file">
+                  <did>
+                     <unittitle>ESP Record Talley Sheets: 1948-1949, undated</unittitle>
+                     <physdesc id="aspace_1706fe80ec466b54ea8f536cd62188ee">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_72e93c3bf188bab22fa7423a1366dc89" label="Mixed Materials"
+                        type="box">32</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref112_l8y" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets and Related Materials,</unittitle>
+                     <container id="aspace_758cea0dc8a8a1f24f6c409baecf3b69" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+                  <c04 id="aspace_ref113_zah" level="file">
+                     <did>
+                        <unittitle>1946, Nov.</unittitle>
+                        <container id="aspace_1b79850fccd0cf228cd038fcf6b18329"
+                           label="Mixed Materials" type="box">33</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref114_00y" level="file">
+                     <did>
+                        <unittitle>1954-1956, Fall</unittitle>
+                        <physdesc id="aspace_686cbb00ec1c7bc5d55f8c69048e3403">
+                           <extent>5 folders</extent>
+                        </physdesc>
+                        <container id="aspace_122b46815682b6eaa4d603f803e07437"
+                           label="Mixed Materials" type="box">33</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref116_yzq" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets and Related Materials, 1959-1960,
+                        undated</unittitle>
+                     <physdesc id="aspace_b479f6bf9703242f3c35033e734d733c">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_e481c3dbb1cbf29d4fc7fcca368d3509" label="Mixed Materials"
+                        type="box">34</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref118_g37" level="file">
+                  <did>
+                     <unittitle>ESP Record Sheets and Related Materials, undated</unittitle>
+                     <physdesc id="aspace_d6cc038b537b3ff311587ee98be9d218">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_3d7be2b61104f7b02acaddc4e6be79b8" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref120_hqi" level="file">
+                  <did>
+                     <unittitle>Rorschach Tests: 1948, Fall-1949, Spring</unittitle>
+                     <physdesc id="aspace_7234c7c29fbe91106b13678a6f5faacf">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_b182dab8c519646033003369e1748172" label="Mixed Materials"
+                        type="box">36</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref122_wwu" level="file">
+                  <did>
+                     <unittitle>Rorschach Tests:</unittitle>
+                     <container id="aspace_3f01ad23f6abc998a1aa9eb07e873098" label="Mixed Materials"
+                        type="box">37</container>
+                  </did>
+                  <c04 id="aspace_ref123_zuy" level="file">
+                     <did>
+                        <unittitle>1949, Spring</unittitle>
+                        <container id="aspace_02ad022d16aa41410da0083c1c500f65"
+                           label="Mixed Materials" type="box">37</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref124_26c" level="file">
+                     <did>
+                        <unittitle>Various dates</unittitle>
+                        <container id="aspace_9fab1a3de703446c405d801ec873300a"
+                           label="Mixed Materials" type="box">37</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref125_vw8" level="file">
+                  <did>
+                     <unittitle>Rorschach Tests: Inspection Records:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref126_8c9" level="file">
+                     <did>
+                        <unittitle>1946, Sept.(Hunter)</unittitle>
+                        <container id="aspace_f1d72fd92b2377279f4e6f85812944eb"
+                           label="Mixed Materials" type="box">37</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref127_2oc" level="file">
+                     <did>
+                        <unittitle>1947, Feb.-1948 (Sheep/Goats)</unittitle>
+                        <physdesc id="aspace_942f86a44035aec27e70983bfa389875">
+                           <extent>5 folders</extent>
+                        </physdesc>
+                        <container id="aspace_738989517242c6131147b2a79ef19680"
+                           label="Mixed Materials" type="box">37</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref129_mya" level="file">
+                  <did>
+                     <unittitle>Rorschach Tests: ESP Scores, Pairs: 1946-1955</unittitle>
+                     <physdesc id="aspace_b2116a3de5506ef48fd5ef3c2c8d542a">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_16b97fd8212b3bc1727d4195a04ba4a3" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref131_4t4" level="file">
+                  <did>
+                     <unittitle>Student Responses:</unittitle>
+                     <container id="aspace_da4610f6b5c83e82cb72515c4416b03a" label="Mixed Materials"
+                        type="box">39</container>
+                  </did>
+                  <c04 id="aspace_ref132_uhe" level="file">
+                     <did>
+                        <unittitle>1946, July-1949, Fall</unittitle>
+                        <physdesc id="aspace_9f6addf9a36da069ab3aba6c1fd93212">
+                           <extent>8 folders</extent>
+                        </physdesc>
+                        <container id="aspace_85ed7b3ee3f68ed9e89580c6a8b2802e"
+                           label="Mixed Materials" type="box">39</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref134_bm9" level="file">
+                     <did>
+                        <unittitle>Various dates and undated</unittitle>
+                        <physdesc id="aspace_06be03eb3aac3fe23777d1592c4fc2f6">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_ad60e0ebfbd363b2756b0462194466de"
+                           label="Mixed Materials" type="box">39</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref136_ihb" level="file">
+                  <did>
+                     <unittitle>Student Responses: undated</unittitle>
+                     <physdesc id="aspace_527fca0fd650936b2ab5c076258f1a0a">
+                        <extent>8 folders</extent>
+                     </physdesc>
+                     <container id="aspace_60f183bf85b7338ad79d038d4cf6c99a" label="Mixed Materials"
+                        type="box">40</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref138_cla" level="file">
+                  <did>
+                     <unittitle>Miscellaneous</unittitle>
+                     <container id="aspace_82974c50ad71bcc32202c0c712086fee" label="Mixed Materials"
+                        type="box">41</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref139_6f0" level="file">
+                  <did>
+                     <unittitle>Miscellaneous:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref140_szo" level="file">
+                     <did>
+                        <unittitle>Extra Scores and extra subjects, undated.</unittitle>
+                        <physdesc id="aspace_bb0227705bafdbb8d23ce7a5dbdc17b8">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_cef6e6b9ed3aedf5fd4271d2ae73459e"
+                           label="Mixed Materials" type="box">41</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref142_efd" level="file">
+                     <did>
+                        <unittitle>Gimore-Melnick Data</unittitle>
+                        <container id="aspace_c525da06a3b3acff32afcb1a4cc3d6da"
+                           label="Mixed Materials" type="box">41</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref143_fsg" level="file">
+                     <did>
+                        <unittitle>Pictures, undated</unittitle>
+                        <container id="aspace_aa090796320cc7b2849f9dcd6283e899"
+                           label="Mixed Materials" type="box">41</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref144_8ox" level="file">
+                     <did>
+                        <unittitle>Research data from ESP work on Sheep/Goats--Cohen,
+                           1959</unittitle>
+                        <container id="aspace_3fbea027d5490f3170b36a565aaf2ed7"
+                           label="Mixed Materials" type="box">41</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref145_gp5" level="file">
+                     <did>
+                        <unittitle>Schmeidler, City College--Eckstein's Class on Abnormal, Apr. 5,
+                           1946</unittitle>
+                        <container id="aspace_b7262ea02c80f010ab2b89ac4f1acccd"
+                           label="Mixed Materials" type="box">41</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref146_3gj" level="file">
+                     <did>
+                        <unittitle>Sheep/Goat Classification Response to Christopher
+                           Scott</unittitle>
+                        <physdesc id="aspace_9a84d2d43f02681b863cc258c0a5d659">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_e1167a073ceb52d64321aa7d6a6d9338"
+                           label="Mixed Materials" type="box">41</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref148_xon" level="subseries">
+               <did>
+                  <unittitle>Subjects</unittitle>
+               </did>
+               <c03 id="aspace_ref149_3dx" level="file">
+                  <did>
+                     <unittitle>Agent: ESP Data, undated</unittitle>
+                     <container id="aspace_ff7993e02db8d1f774c80fe9c0446649" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_gxa" level="file">
+                  <did>
+                     <unittitle>Agent: Percipient Experiment Instructions</unittitle>
+                     <container id="aspace_65dc7dbd6a4deeb8d5f36156129014c6" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref151_8m2" level="file">
+                  <did>
+                     <unittitle>Agent: Percipient Experiment</unittitle>
+                     <container id="aspace_8e5b1d9597a4085c7fa60ac4777fdfff" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref152_jzv" level="file">
+                  <did>
+                     <unittitle>Agent: Percipient Experiment:</unittitle>
+                     <container id="aspace_ee4394a2022ff040c57c9318bd9ce2e0" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref153_b79" level="file">
+                  <did>
+                     <unittitle>Agent: Attempts at objective Rorschach classification</unittitle>
+                     <container id="aspace_d7d51294c4c329a2953fc5ff04126419" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref154_h0k" level="file">
+                  <did>
+                     <unittitle>Agent: ESP Data, 1959-1960</unittitle>
+                     <physdesc id="aspace_896cb10ba05e779dd26522c037265ca5">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_8dc4667a79dfb6f6a75ac19af8ab2de3" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref156_xcq" level="file">
+                  <did>
+                     <unittitle>Allen - TAT</unittitle>
+                     <container id="aspace_8ae37527d865beee33109a88b68de45b" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_165" level="file">
+                  <did>
+                     <unittitle>American Society for Psychical Research, 1946</unittitle>
+                     <container id="aspace_88cc315ee77bbdf76e0645c075292a6b" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_zlc" level="file">
+                  <did>
+                     <unittitle>American Society for Psychical Research: Pictures</unittitle>
+                     <container id="aspace_35d144612d8973330dde1d779149b37b" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref159_ji1" level="file">
+                  <did>
+                     <unittitle>American Society for Psychical Research: Pictures</unittitle>
+                     <physdesc id="aspace_5d795ee11f9b924ec28c7d5bc455f079">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9f1aaf9bcdc06a81ad945b30a55c8363" label="Mixed Materials"
+                        type="box">43</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_pwk" level="file">
+                  <did>
+                     <unittitle>Background stimuli and ESP responses, 1983</unittitle>
+                     <physdesc id="aspace_21ceb9a0111cc2db0e69f383868d55d7">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_db23617d7f0d4b43713def305d55076b" label="Mixed Materials"
+                        type="box">43</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref163_j03" level="file">
+                  <did>
+                     <unittitle>Bainow - TAT, undated</unittitle>
+                     <container id="aspace_b78086f980514176f515b5c3d5052940" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_ne8" level="file">
+                  <did>
+                     <unittitle>Barry, H., MacKinnon, P. W., Murray, H.A.: Experimenter
+                        Files</unittitle>
+                     <container id="aspace_fb2f8e7a330a3e712ca753b256ea84e9" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref165_xqb" level="file">
+                  <did>
+                     <unittitle>Bickman, Leonard: Honors Research</unittitle>
+                     <container id="aspace_37167a7f6ed1371178565915d4c3ae53" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref166_vmz" level="file">
+                  <did>
+                     <unittitle>Blaustein Targets, 1944</unittitle>
+                     <container id="aspace_a48a0eedf9f2046027ccc08e79bb774f" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref167_at6" level="file">
+                  <did>
+                     <unittitle>Booklets of Values, 1952</unittitle>
+                     <physdesc id="aspace_f2cb4dbdaf0033daf018b762c77cf894">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_fc9a38ae5bcf0bb5e16b896c6bd3b742" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref169_v9o" level="file">
+                  <did>
+                     <unittitle>Bridge to ESP target: tests</unittitle>
+                     <container id="aspace_a75d180d27f24328f93a296d7709812e" label="Mixed Materials"
+                        type="box">45</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref170_6px" level="file">
+                  <did>
+                     <unittitle>Brier, Robert and Barry Savits: Silva Mind Control, three
+                        Experiments in Clairvoyant Diagnosis</unittitle>
+                     <physdesc id="aspace_8bcdc99d5b1d3338532bc7a0de9df892">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9c663e41c29815696a1c19f76c474daf" label="Mixed Materials"
+                        type="box">45</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref172_1uy" level="file">
+                  <did>
+                     <unittitle>Bullen, undated</unittitle>
+                     <container id="aspace_7cb33e8c0eb9223f801f4411e245088a" label="Mixed Materials"
+                        type="box">45</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref173_3kc" level="file">
+                  <did>
+                     <unittitle>Card guessing experiment (letters to people about) 1963</unittitle>
+                     <container id="aspace_eb6d16c9c856fd439cc34deee50a0dec" label="Mixed Materials"
+                        type="box">45</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref174_0ya" level="file">
+                  <did>
+                     <unittitle>Census of some unusual experiences</unittitle>
+                     <container id="aspace_0f1ab81af24ac68a9672df9599d73342" label="Mixed Materials"
+                        type="box">45</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_mft" level="file">
+                  <did>
+                     <unittitle>Chapman, Caroline (Proxy Sessions)</unittitle>
+                     <physdesc id="aspace_e95d5ddde9b4cff40d536bc90f34d437">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_30af7eb61a6d086e12e33f1f91f072c5" label="Mixed Materials"
+                        type="box">46</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref177_b4o" level="file">
+                  <did>
+                     <unittitle>Chapman, Caroline (Proxy Sessions)</unittitle>
+                     <container id="aspace_2cedf64fd4bb347bd9c4662a1118f9b7" label="Mixed Materials"
+                        type="box">47</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref178_rlu" level="file">
+                  <did>
+                     <unittitle>Chase, Stanley: Data</unittitle>
+                     <container id="aspace_11f915b59a8fca74367b13c8f39fdb63" label="Mixed Materials"
+                        type="box">47</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_mk0" level="file">
+                  <did>
+                     <unittitle>Chi Square Test</unittitle>
+                     <container id="aspace_e178c91eeb4ed0acaab12bdff2b3ebd4" label="Mixed Materials"
+                        type="box">47</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_y7m" level="file">
+                  <did>
+                     <unittitle>Children and reincarnation</unittitle>
+                     <container id="aspace_caa1d404b38a3b9896aa6ae16c413b58" label="Mixed Materials"
+                        type="box">47</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_n7r" level="file">
+                  <did>
+                     <unittitle>Clairvoyant, Kykeshoorn, M.B.</unittitle>
+                     <container id="aspace_d8b8a18ee0222f4e8c28052f92d6bf8f" label="Mixed Materials"
+                        type="box">47</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref182_wkd" level="file">
+                  <did>
+                     <unittitle>Clock cards, 1982</unittitle>
+                     <physdesc id="aspace_ddd728b080016a7574fabf046a31db22">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9ad8ac752dcb68c8d5f01dad578c2e77" label="Mixed Materials"
+                        type="box">47</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref184_osb" level="file">
+                  <did>
+                     <unittitle>Cognition class: City College of the City University of New
+                        York</unittitle>
+                     <container id="aspace_394e71c8cb82e0a484f89d811e039c55" label="Mixed Materials"
+                        type="box">48</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_3mw" level="file">
+                  <did>
+                     <unittitle>Concussion Patients and Hospitalized controls data, Rorschachs and
+                        ESP scores</unittitle>
+                     <container id="aspace_14bafb2ab04ca961cc5519299dfc8bc5" label="Mixed Materials"
+                        type="box">48</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref186_j34" level="file">
+                  <did>
+                     <unittitle>Crystal Images: data</unittitle>
+                     <container id="aspace_137d95c871a6e30833d1fe8b6a6abe5e" label="Mixed Materials"
+                        type="box">48</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref187_46e" level="file">
+                  <did>
+                     <unittitle>Drawings</unittitle>
+                  </did>
+                  <c04 id="aspace_ref188_laz" level="file">
+                     <did>
+                        <unittitle>1946, July 31</unittitle>
+                        <physdesc id="aspace_646a17cc79424329bc95b533374bda3e">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_ea43ec97a4824ba80438a484d4bdbbfd"
+                           label="Mixed Materials" type="box">48</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref190_d4q" level="file">
+                     <did>
+                        <unittitle>Clairvoyance</unittitle>
+                        <physdesc id="aspace_b851b04313451e52df344e065bfafa99">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_8e1f3543f8c6bf915580a0f90335d4d0"
+                           label="Mixed Materials" type="box">48</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref192_9st" level="file">
+                  <did>
+                     <unittitle>Drawings:</unittitle>
+                     <container id="aspace_83eb7f219e1cabead3b61cb63551b411" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+                  <c04 id="aspace_ref193_taa" level="file">
+                     <did>
+                        <unittitle>Clairvoyance</unittitle>
+                        <container id="aspace_81910eeb6f3e94e900bd97b15be5e9c5"
+                           label="Mixed Materials" type="box">49</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref194_k2z" level="file">
+                     <did>
+                        <unittitle>Moonfaces</unittitle>
+                        <physdesc id="aspace_24949c631880233702881c1a679f6ceb">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_19f8086c0727857e0a5dbfb7c7f1a7be"
+                           label="Mixed Materials" type="box">49</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref196_ak8" level="file">
+                     <did>
+                        <unittitle>Moonfaces and interest tests</unittitle>
+                        <container id="aspace_9decb9b9b5ef8067007420795c673ade"
+                           label="Mixed Materials" type="box">49</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref197_zde" level="file">
+                     <did>
+                        <unittitle>Moonfaces--Duke--1946 and City College of the City University of
+                           New York, 1947 United States of America</unittitle>
+                        <container id="aspace_7ddf85750b08e0d46c137f5a1a32e532"
+                           label="Mixed Materials" type="box">49</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref198_wwo" level="file">
+                  <did>
+                     <unittitle>Ehrenwald, Jan: PSI: Questionnaire</unittitle>
+                     <container id="aspace_db7f9f5c6fc4eacbdfb82ef233c0cab2" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_xed" level="file">
+                  <did>
+                     <unittitle>Ehrlich, Data</unittitle>
+                     <container id="aspace_73b42a296d18fa559f2de453eaa59bd6" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref200_1ym" level="file">
+                  <did>
+                     <unittitle>Eilbert, L.'s MA thesis: published with Schmeidler, 1950</unittitle>
+                     <physdesc id="aspace_4e3b1ee0fe9ee5823c7897942817cf67">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f18925a379f46eebc690d4ac10c9d1fa" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref202_2pl" level="file">
+                  <did>
+                     <unittitle>ESP:</unittitle>
+                     <container id="aspace_9babe72c028e198f00eafbef496858b7" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+                  <c04 id="aspace_ref203_22u" level="file">
+                     <did>
+                        <unittitle>Card type experiment</unittitle>
+                        <container id="aspace_b4b88da88220330b6c542e028c677733"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref204_znr" level="file">
+                     <did>
+                        <unittitle>Contest</unittitle>
+                        <container id="aspace_5b4bacce0c8452a425bffb8b96291298"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref205_kge" level="file">
+                     <did>
+                        <unittitle>Data, 1951, 1955 and undated</unittitle>
+                        <physdesc id="aspace_16c051aace9c26e08dcef3457b65f7a1">
+                           <extent>4 folders</extent>
+                        </physdesc>
+                        <container id="aspace_4ef4b85863a16841945f21a331d41b77"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref207_tyo" level="file">
+                     <did>
+                        <unittitle>Scores in maternity patients</unittitle>
+                        <container id="aspace_7d49b4e7c2982751758138c412970ebc"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref208_gs8" level="file">
+                     <did>
+                        <unittitle>Memory test</unittitle>
+                        <physdesc id="aspace_6c6b3919b92bf8d589ec5986b2b213ad">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_462d8ff9995b0647d8d22874b7c21053"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref210_qh0" level="file">
+                  <did>
+                     <unittitle>ESP: Memory test</unittitle>
+                     <physdesc id="aspace_4bd56b123a28b8a4a58856deff92710d">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_dbfbe5401a427fde2fd1226c2063c385" label="Mixed Materials"
+                        type="box">51</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref212_7ky" level="file">
+                  <did>
+                     <unittitle>ESP Records: Confidence check and scored, 1958</unittitle>
+                     <physdesc id="aspace_0d282083e638d0a73d0b586abea0a933">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_8e33cdd312aeefb46ceab7e53b652939" label="Mixed Materials"
+                        type="box">51</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref214_j0q" level="file">
+                  <did>
+                     <unittitle>Feedback in ESP</unittitle>
+                     <physdesc id="aspace_0f7c628f81b032c19c17b4de4adf8ac9">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_6b8206e4f4e8d0ff7191d71d36a27615" label="Mixed Materials"
+                        type="box">51</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref216_mmx" level="file">
+                  <did>
+                     <unittitle>Feedback in ESP</unittitle>
+                     <physdesc id="aspace_5fd9b0062317affba1fcb8874eee8ba7">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_756b0aec8ac5bac1ae5eee613694e078" label="Mixed Materials"
+                        type="box">52</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref218_f9q" level="file">
+                  <did>
+                     <unittitle>Feedback paper test data</unittitle>
+                     <physdesc id="aspace_a7ac023ed2613bdc5ebc53a5b197576a">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9b0a03690b30c28d61517923ef66eb86" label="Mixed Materials"
+                        type="box">52</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref220_ell" level="file">
+                  <did>
+                     <unittitle>Feedback paper test data</unittitle>
+                     <physdesc id="aspace_784523dd3ef2214532fb27c504b5d326">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_24f5cb89df4cb748d02fd5f6335ea47e" label="Mixed Materials"
+                        type="box">53</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref222_tu2" level="file">
+                  <did>
+                     <unittitle>Feedback with ESP symbols: A Failure to Replicate</unittitle>
+                     <container id="aspace_3dfe373c8224e6b13f51f9a2da458f0c" label="Mixed Materials"
+                        type="box">53</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref223_9db" level="file">
+                  <did>
+                     <unittitle>Free Association</unittitle>
+                     <physdesc id="aspace_71b16972e758ac4df68721761a4d5b33">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9b09ae42724cb104aaaced5ec97212af" label="Mixed Materials"
+                        type="box">53</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref225_vfd" level="file">
+                  <did>
+                     <unittitle>Friedneberg, William and P. Males: Data</unittitle>
+                     <container id="aspace_20030749979bedbfcb938c1c52d93de0" label="Mixed Materials"
+                        type="box">54</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref226_jtt" level="file">
+                  <did>
+                     <unittitle>Friedman, Ronald M. and E. D. Dean: Mood and ESP
+                        Correlation</unittitle>
+                     <container id="aspace_831a285aa0414a23c6fa8dfafd237563" label="Mixed Materials"
+                        type="box">54</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref227_vk4" level="file">
+                  <did>
+                     <unittitle>Garrett, Eileen (Proxy Sessions)</unittitle>
+                     <physdesc id="aspace_384fd0b24cadf293e9748827164049b8">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0fe2981dbcac86b5d9123c63b84c5e53" label="Mixed Materials"
+                        type="box">54</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref229_83a" level="file">
+                  <did>
+                     <unittitle>Garrett, Eileen (Proxy Sessions)</unittitle>
+                     <container id="aspace_95e69678c58b82f7a4e9d40e501f1680" label="Mixed Materials"
+                        type="box">55</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref230_kt5" level="file">
+                  <did>
+                     <unittitle>Goodrich, Joyce: Psychic Healing</unittitle>
+                     <container id="aspace_6f363f9bf89953a4c5c330320f0961b1" label="Mixed Materials"
+                        type="box">55</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref231_5w1" level="file">
+                  <did>
+                     <unittitle>Grady tests/interpretation</unittitle>
+                     <container id="aspace_677b9e58eaecb296414ebaafa1202fac" label="Mixed Materials"
+                        type="box">55</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref232_i05" level="file">
+                  <did>
+                     <unittitle>Group experiments: Extra results, undated</unittitle>
+                     <container id="aspace_1a36a599de81e0909a0824aee7b774fc" label="Mixed Materials"
+                        type="box">55</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref233_p5s" level="file">
+                  <did>
+                     <unittitle>Hand Test Protocols, 1974</unittitle>
+                     <container id="aspace_28f3cc3aa6f5f587bb07bb610b07b47b" label="Mixed Materials"
+                        type="box">55</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref234_7rd" level="file">
+                  <did>
+                     <unittitle>Haunted House: Data, 1966</unittitle>
+                     <container id="aspace_6d029150b6a1addf2d9c03e405bdb3bd" label="Mixed Materials"
+                        type="box">55</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref235_105" level="file">
+                  <did>
+                     <unittitle>Heyman, S.:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref236_fv9" level="file">
+                     <did>
+                        <unittitle>Data for Paper, 1976</unittitle>
+                        <container id="aspace_cfa1d2cbd706588cbf102e570e88b771"
+                           label="Mixed Materials" type="box">55</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref237_4qh" level="file">
+                     <did>
+                        <unittitle>Data for Time Metaphors and ESP, 1965</unittitle>
+                        <container id="aspace_020d6e3bac6ba8d9e6dbea16159933a0"
+                           label="Mixed Materials" type="box">55</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref238_bg3" level="file">
+                  <did>
+                     <unittitle>Heyman, S.: Data for Time Metaphors and ESP, 1965</unittitle>
+                     <physdesc id="aspace_7e03c2dfc0a3dbfba316421ce6071fc4">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d8fc95980f0b8aa8bcc3c68a9310604d" label="Mixed Materials"
+                        type="box">56</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref240_wb3" level="file">
+                  <did>
+                     <unittitle>Heyman, S.: Data for Time Metaphors and ESP, 1965</unittitle>
+                     <physdesc id="aspace_56ca58495ab6228dcb8e8440296466d3">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2c18c1557028a19cfdd1110497b582c7" label="Mixed Materials"
+                        type="box">57</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref242_4uh" level="file">
+                  <did>
+                     <unittitle>Hudesman, J.:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref243_fp2" level="file">
+                     <did>
+                        <unittitle>Clock Card Data</unittitle>
+                        <physdesc id="aspace_e3fdd2a5b874524bc595424b5f8ef4c6">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_9165450dbe1d1cae468e637e6073c026"
+                           label="Mixed Materials" type="box">57</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref245_cad" level="file">
+                  <did>
+                     <unittitle>Hudesman, J.: Clock Card Data</unittitle>
+                     <physdesc id="aspace_3c1eada8f7f3c9d6acdf4ae75b50980f">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1e652a32156fc4230d52cc99dea64e43" label="Mixed Materials"
+                        type="box">58</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref247_dq1" level="file">
+                  <did>
+                     <unittitle>Hudesman, J.: Clock Card Data</unittitle>
+                     <container id="aspace_0a7644668916762a53f574a1017dde31" label="Mixed Materials"
+                        type="box">59</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref248_f74" level="file">
+                  <did>
+                     <unittitle>Hudesman, J. and G. Schmeidler: ESP scores after psychotherapy
+                        sessions</unittitle>
+                     <container id="aspace_d27870d4fd82198d3d39b6ac99c89ba9" label="Mixed Materials"
+                        type="box">59</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref249_10c" level="file">
+                  <did>
+                     <unittitle>Humphrey, Betty:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref250_hue" level="file">
+                     <did>
+                        <unittitle>Data</unittitle>
+                        <container id="aspace_e171c4d9353c40a1650deb9e088cd0ae"
+                           label="Mixed Materials" type="box">59</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref251_tgx" level="file">
+                     <did>
+                        <unittitle>Scoring of 4-picture clairvoyance tests, 1947, Dec.</unittitle>
+                        <container id="aspace_98266f0586e44bed3a62795b4a11cd94"
+                           label="Mixed Materials" type="box">59</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref252_gu8" level="file">
+                  <did>
+                     <unittitle>Introversion and ESP</unittitle>
+                     <container id="aspace_3e3a4326c636b46073c5df5917b69de3" label="Mixed Materials"
+                        type="box">59</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref253_m9r" level="file">
+                  <did>
+                     <unittitle>Jensen, Donald: Psychical abilities, 1974</unittitle>
+                     <container id="aspace_69de2ba2bbe52eed0941bcc0eb5b2200" label="Mixed Materials"
+                        type="box">59</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref254_zsf" level="file">
+                  <did>
+                     <unittitle>Kopler: TAT and ESP Data, 1945</unittitle>
+                     <container id="aspace_a10ef9622e5122518e8b862e72c25e35" label="Mixed Materials"
+                        type="box">60</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref255_o3l" level="file">
+                  <did>
+                     <unittitle>Korn: Data</unittitle>
+                     <container id="aspace_15c5e0af4b6c218248366eb64b17cb3d" label="Mixed Materials"
+                        type="box">60</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref256_c6i" level="file">
+                  <did>
+                     <unittitle>Kornfeld: TAT</unittitle>
+                     <container id="aspace_75b1a80c9f77ead10e0f3b89bc3003b2" label="Mixed Materials"
+                        type="box">60</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref257_hbs" level="file">
+                  <did>
+                     <unittitle>Kreiman records, 1978</unittitle>
+                     <container id="aspace_2f3249d030ff85ab165a67a7bbb195ed" label="Mixed Materials"
+                        type="box">60</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref258_mmx" level="file">
+                  <did>
+                     <unittitle>LeShan, L.: Boby Image related to ESP scores</unittitle>
+                     <container id="aspace_dbc56f210e709056e094a0554d206bdd" label="Mixed Materials"
+                        type="box">60</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref259_bod" level="file">
+                  <did>
+                     <unittitle>Lewis, Larry:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref260_0e9" level="file">
+                     <did>
+                        <unittitle>Data</unittitle>
+                        <container id="aspace_e1c6289f787673a05810957ed8edd9fa"
+                           label="Mixed Materials" type="box">60</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref261_6a5" level="file">
+                     <did>
+                        <unittitle>Data for EEG-ESP research paper</unittitle>
+                        <physdesc id="aspace_0d6b8497c95faa3cab2949797aa94bf7">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_1d805baa12e75c28b9be025c2661e734"
+                           label="Mixed Materials" type="box">60</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref263_afj" level="file">
+                  <did>
+                     <unittitle>Lewis, Larry: Feedback in ESP, Part II</unittitle>
+                     <container id="aspace_0bf43f6582304985aee52d6fd8511293" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref264_0mz" level="file">
+                  <did>
+                     <unittitle>Lowy, Grace: Data</unittitle>
+                     <container id="aspace_4349ad54d7786eb0f4c4dcd6d60322d9" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref265_wwg" level="file">
+                  <did>
+                     <unittitle>Lutzky: Data on children</unittitle>
+                     <container id="aspace_fe81493cf706bb47ada59d312e09700b" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref266_540" level="file">
+                  <did>
+                     <unittitle>Memory tests: Word lists</unittitle>
+                     <container id="aspace_0d686a2974b04aa78214f8b427724f80" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref267_bn1" level="file">
+                  <did>
+                     <unittitle>Metaphor Research, 1962-1963</unittitle>
+                     <physdesc id="aspace_0599070cfd045e062e13b545e2b19f5c">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_bd9914a8e049ac57fdf2dbd12ee24d1b" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref269_jdu" level="file">
+                  <did>
+                     <unittitle>Mind-reading interpretations</unittitle>
+                     <container id="aspace_b051b6f998046da070546dd9e5a9ccff" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref270_0qv" level="file">
+                  <did>
+                     <unittitle>Mood-in-group study</unittitle>
+                     <physdesc id="aspace_6aa4750f73f5205b8e5620c59fdde004">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1599d9a3a5d40160a242d64a26e7896d" label="Mixed Materials"
+                        type="box">62</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref272_onr" level="file">
+                  <did>
+                     <unittitle>Moods and ESP (Canada):</unittitle>
+                  </did>
+                  <c04 id="aspace_ref273_75j" level="file">
+                     <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="aspace_e4d58b3b48a059b979a7c2f5f0b4acdf"
+                           label="Mixed Materials" type="box">62</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref274_c56" level="file">
+                     <did>
+                        <unittitle>Group 1-3: 1971, Feb.-Mar. 8</unittitle>
+                        <physdesc id="aspace_20014e3966ee0b970eb081b96ccefe75">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_d700e96e2fbfaafdc5e9c0a35de745e3"
+                           label="Mixed Materials" type="box">62</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref276_qzc" level="file">
+                  <did>
+                     <unittitle>Moods and ESP (Canada): Miscellaneous</unittitle>
+                     <container id="aspace_856950aa01b62dea624e29f53c0625e2" label="Mixed Materials"
+                        type="box">63</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref277_tzb" level="file">
+                  <did>
+                     <unittitle>Moss, Thelma: ESP records and letters</unittitle>
+                     <container id="aspace_1ffa030c93c4258a1f1faaadbaa3dae6" label="Mixed Materials"
+                        type="box">63</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref278_5al" level="file">
+                  <did>
+                     <unittitle>Moss, Thelma and Schmeidler: Haunting investigation</unittitle>
+                     <physdesc id="aspace_24b353ed95dcf7ba5d737598abb16a30">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0de07f3f7e0baf4292236db3e1f16b70" label="Mixed Materials"
+                        type="box">63</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref280_15w" level="file">
+                  <did>
+                     <unittitle>Murphy, Gardner:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref281_zgg" level="file">
+                     <did>
+                        <unittitle>Creativity: ESP Project</unittitle>
+                        <container id="aspace_0e2d71a2fffc73d5ae55cf3b07c412b2"
+                           label="Mixed Materials" type="box">63</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref282_0xf" level="file">
+                     <did>
+                        <unittitle>Rorschach interpretations, 1944</unittitle>
+                        <container id="aspace_044fb559671674531b0a3f3e5efe2a6e"
+                           label="Mixed Materials" type="box">63</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref283_7to" level="file">
+                  <did>
+                     <unittitle>Names as target: Research, 1984</unittitle>
+                     <container id="aspace_73b09ca8d730ad40aa75800aa24e036e" label="Mixed Materials"
+                        type="box">63</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref284_2ru" level="file">
+                  <did>
+                     <unittitle>O'Keefe, Eileen: Data</unittitle>
+                     <container id="aspace_d9d739455ed0664dd4e8c135da4ec917" label="Mixed Materials"
+                        type="box">63</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref285_gcc" level="file">
+                  <did>
+                     <unittitle>Osis, Karlis: ESP, 1955</unittitle>
+                     <container id="aspace_990bfabd0c4f4016f525e9e56938bae2" label="Mixed Materials"
+                        type="box">63</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref286_0nl" level="file">
+                  <did>
+                     <unittitle>Out of body experiences: Questions and data</unittitle>
+                     <container id="aspace_c76b82dda7ee686ba0ae2dffb1edfb71" label="Mixed Materials"
+                        type="box">63</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref287_cxq" level="file">
+                  <did>
+                     <unittitle>Perception "in mind's eye"</unittitle>
+                     <physdesc id="aspace_b81ca9c9fb7f98d4d765af94f86a0b82">
+                        <extent>7 folders</extent>
+                     </physdesc>
+                     <container id="aspace_6ec612423f7aad65250743ef3bb723a0" label="Mixed Materials"
+                        type="box">64</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref289_eif" level="file">
+                  <did>
+                     <unittitle>Perception "in mind's eye"</unittitle>
+                     <physdesc id="aspace_33c482f8e0c626b9fb6ec99cb94c72b5">
+                        <extent>8 folders</extent>
+                     </physdesc>
+                     <container id="aspace_64405285da7474263fbdea235a2962a9" label="Mixed Materials"
+                        type="box">65</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref291_4eb" level="file">
+                  <did>
+                     <unittitle>Personality of PSI experiments: Student Evaluations,
+                        1981</unittitle>
+                     <physdesc id="aspace_8625e3395e1a080dc52ef9eda22ce89d">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_dddb56f88fb0fc026b435061650952c5" label="Mixed Materials"
+                        type="box">66</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref293_8bs" level="file">
+                  <did>
+                     <unittitle>Picture-Frustration Records, 1946-1948</unittitle>
+                     <physdesc id="aspace_2e045f451944287ec3b38d610e81bb27">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c8dc5ad9567fdac033256618f5113767" label="Mixed Materials"
+                        type="box">66</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref295_kos" level="file">
+                  <did>
+                     <unittitle>Picture-Frustration Records, 1948-1949</unittitle>
+                     <physdesc id="aspace_de1a3599b5eafae17f0dc7a92d57bf70">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d5b8fdf8bf2cc1d874de28730348aa8f" label="Mixed Materials"
+                        type="box">67</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref297_v2x" level="file">
+                  <did>
+                     <unittitle>Picture-Frustration Records, 1949</unittitle>
+                     <physdesc id="aspace_7aff6af9f2d23fb9f9fc641333d949df">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_bf0d86d5f992f1a14771b90b5ba5df26" label="Mixed Materials"
+                        type="box">68</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref299_7za" level="file">
+                  <did>
+                     <unittitle>Picture-Frustration Records</unittitle>
+                     <container id="aspace_9389ae94d7534c3ff8eaf73c5cbb4de2" label="Mixed Materials"
+                        type="box">69</container>
+                  </did>
+                  <c04 id="aspace_ref300_znl" level="file">
+                     <did>
+                        <unittitle>Spring, 1950-1951</unittitle>
+                        <physdesc id="aspace_7f78df292a5d009ada84eea22e7e9d7a">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_231a524d66d1a3ad9bd22a7ae473af2b"
+                           label="Mixed Materials" type="box">69</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref302_5d8" level="file">
+                     <did>
+                        <unittitle>1st Group experiment, 1945</unittitle>
+                        <container id="aspace_f7c1cc5ef94c9a54c346346167e2e0c2"
+                           label="Mixed Materials" type="box">69</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref303_3su" level="file">
+                     <did>
+                        <unittitle>2nd Group experiment, 1945</unittitle>
+                        <container id="aspace_5b34f9042f0f6958f65690a0891078c3"
+                           label="Mixed Materials" type="box">69</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref304_md6" level="file">
+                     <did>
+                        <unittitle>Chase and Wladkowsky, 1946</unittitle>
+                        <container id="aspace_9c248d731ab5911cfbb346c068a5d012"
+                           label="Mixed Materials" type="box">69</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref305_lzc" level="file">
+                     <did>
+                        <unittitle>Female, 1948</unittitle>
+                        <container id="aspace_55e39969d1dfed00b80016405cc8adab"
+                           label="Mixed Materials" type="box">69</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref306_jp2" level="file">
+                     <did>
+                        <unittitle>Spring, Hunter group experiment, 1946</unittitle>
+                        <container id="aspace_b8026f31a4b240b2bc338cc56cc44ac2"
+                           label="Mixed Materials" type="box">69</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref307_t21" level="file">
+                  <did>
+                     <unittitle>Picture and A-S reaction studies</unittitle>
+                     <container id="aspace_1a4971dc8e69b4271c08369052a588b3" label="Mixed Materials"
+                        type="box">69</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref308_3v3" level="file">
+                  <did>
+                     <unittitle>Pictures used for testing, Fall, 1956</unittitle>
+                     <container id="aspace_ae31a2ac3dfdf34bc70b18f52d612f53" label="Mixed Materials"
+                        type="box">69</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref309_dr6" level="file">
+                  <did>
+                     <unittitle>PK effects on temperature</unittitle>
+                     <physdesc id="aspace_eadb960414b15506713af682072be685">
+                        <extent>7 folders</extent>
+                     </physdesc>
+                     <container id="aspace_917a282ac6ff9dcce18b36027013bac4" label="Mixed Materials"
+                        type="box">70</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref311_e9c" level="file">
+                  <did>
+                     <unittitle>PK effects on temperature</unittitle>
+                     <container id="aspace_665a41efb0190861efe60357753efdcd" label="Mixed Materials"
+                        type="box">71</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref312_jv6" level="file">
+                  <did>
+                     <unittitle>PK effects on temperative: further analysis</unittitle>
+                     <container id="aspace_42bc0589f27f31ac9c659713284da841" label="Mixed Materials"
+                        type="box">71</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref313_qq6" level="file">
+                  <did>
+                     <unittitle>Poltergeists:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref314_4kq" level="file">
+                     <did>
+                        <unittitle>Beck case, correspondence</unittitle>
+                        <container id="aspace_c4e3a53dab4861c92693973ef1b1bf7f"
+                           label="Mixed Materials" type="box">71</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref315_jom" level="file">
+                     <did>
+                        <unittitle>Case studies</unittitle>
+                        <container id="aspace_3af85578d13d899e7bd7f27eb6af3b74"
+                           label="Mixed Materials" type="box">71</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref316_5g3" level="file">
+                     <did>
+                        <unittitle>Case study, projective tests</unittitle>
+                        <container id="aspace_74c2cf2990fe3624872ac04f9e6d6605"
+                           label="Mixed Materials" type="box">71</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref317_1gk" level="file">
+                     <did>
+                        <unittitle>Precognition: dream data</unittitle>
+                        <container id="aspace_af2c9dea6a6c2493676436aa1d515107"
+                           label="Mixed Materials" type="box">71</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref318_bul" level="file">
+                     <did>
+                        <unittitle>Precognitive clairvoyance, Part I</unittitle>
+                        <container id="aspace_d914becadbb73e62ca8b71098e8cd426"
+                           label="Mixed Materials" type="box">71</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref319_tcc" level="file">
+                  <did>
+                     <unittitle>Precognitive clairvoyance, Part I and II</unittitle>
+                     <physdesc id="aspace_59ce490ac5ea7ba3067ba08060c22886">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_aff26ae864bf83546f42df1751ab783f" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref321_kzo" level="file">
+                  <did>
+                     <unittitle>Precognition experiment (data of first), 1961, Fall</unittitle>
+                     <physdesc id="aspace_9f0685a9017ce6a1dbbe50c18bbd633e">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1d1c471d7be1648f81662bbce91bc9c7" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref323_cb2" level="file">
+                  <did>
+                     <unittitle>Precognition subjects record sheets, 2nd experiment</unittitle>
+                     <container id="aspace_f705812fba8a7772adf5f313816e219a" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref324_l3z" level="file">
+                  <did>
+                     <unittitle>Precognition test, 1974</unittitle>
+                     <container id="aspace_6023e4a72e874c64849a034f05c0c09f" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref325_94b" level="file">
+                  <did>
+                     <unittitle>Psychics</unittitle>
+                     <container id="aspace_83f0fb58b87ec6b2ff55d7ba9b17ff6c" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref326_1k4" level="file">
+                  <did>
+                     <unittitle>Psychokinesis on water, 1974</unittitle>
+                     <container id="aspace_8ce2bdfaaaffe085d6296d63d59ffa04" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref327_8ep" level="file">
+                  <did>
+                     <unittitle>Psychometry tests</unittitle>
+                     <container id="aspace_e73a9f3b31063eabb87bdc219d41c2cc" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref328_cms" level="file">
+                  <did>
+                     <unittitle>Random vs Pseudorandom targets: Data, 1981</unittitle>
+                     <container id="aspace_ebd96ac958855538e72a0614000d554e" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref329_x2f" level="file">
+                  <did>
+                     <unittitle>Rasch, W. D.: Handwriting analysis, 1953</unittitle>
+                     <container id="aspace_dfd6368fc1c7fb749a0e613afcc3558e" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref330_p2h" level="file">
+                  <did>
+                     <unittitle>Retkinski data: ESP, 1964, Spring</unittitle>
+                     <container id="aspace_fe7360cf11fb721ab02fb5f8ecbb9169" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref331_uxw" level="file">
+                  <did>
+                     <unittitle>Retkinski-data, ESP: 1964, Spring</unittitle>
+                     <container id="aspace_75314ab5982a91d14693452d79c5e9e3" label="Mixed Materials"
+                        type="box">73</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref332_ivo" level="file">
+                  <did>
+                     <unittitle>Retkinski-Replication, ESP: 1964, Gall</unittitle>
+                     <container id="aspace_d311ac9d86ec0e0635452d651a0a7dba" label="Mixed Materials"
+                        type="box">73</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref333_3fj" level="file">
+                  <did>
+                     <unittitle>Retkinski: Work before going to Duke, 1964</unittitle>
+                     <container id="aspace_9ef2fbfcb1a95a36fbc7f36d618bf4ff" label="Mixed Materials"
+                        type="box">73</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref334_xop" level="file">
+                  <did>
+                     <unittitle>Salience-Group experiments</unittitle>
+                     <container id="aspace_b7bd576362a9e3cf55d0951ff654d577" label="Mixed Materials"
+                        type="box">73</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref335_1jq" level="file">
+                  <did>
+                     <unittitle>Sensory deprivation test</unittitle>
+                     <container id="aspace_65f97536b1636e320c2149cb6c3cc27e" label="Mixed Materials"
+                        type="box">73</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref336_czr" level="file">
+                  <did>
+                     <unittitle>Sensory deprivation test</unittitle>
+                     <container id="aspace_47d552be23458277b7516dcb5a5f8ff5" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref337_95r" level="file">
+                  <did>
+                     <unittitle>Short Story: various test scores</unittitle>
+                     <container id="aspace_76bff3451f1fc864b5fdbf1f74436cff" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref338_bq8" level="file">
+                  <did>
+                     <unittitle>Soal, S. G.: ESP tests, 1956</unittitle>
+                     <container id="aspace_3e72ab46ff9f135558b3d4a1a5d1d05e" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref339_9q9" level="file">
+                  <did>
+                     <unittitle>Steelman, J: Data</unittitle>
+                     <physdesc id="aspace_97fc50c69d40defde7216770b4764018">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_5881bba475d7930b2af21d9be068bf36" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref341_86d" level="file">
+                  <did>
+                     <unittitle>Streber, K: Data</unittitle>
+                     <container id="aspace_1e858eb5ad298b97cdc6e20038501b29" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref342_uk3" level="file">
+                  <did>
+                     <unittitle>Subject record sheets and tabulations</unittitle>
+                     <container id="aspace_3f0ef622b29cd21f446400ea3e3497f2" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref343_i4r" level="file">
+                  <did>
+                     <unittitle>Subject record sheets and testing specifications</unittitle>
+                     <container id="aspace_17958518e206277711a98c429073e3af" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref344_oj9" level="file">
+                  <did>
+                     <unittitle>Survival research questionnaires</unittitle>
+                     <physdesc id="aspace_e05fde953f38706585200ad0897bdf98">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_75447704d82280229d26cf8b66de9f2f" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref346_g8l" level="file">
+                  <did>
+                     <unittitle>Tanagras: Telepathy research, 1946-1947</unittitle>
+                     <physdesc id="aspace_65a080818e7ba1bb566d172ed1891c73">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_b2678ba453885f9f14049a8347fc35a0" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref348_g5u" level="file">
+                  <did>
+                     <unittitle>Tarot card readings: Unpublished data</unittitle>
+                     <container id="aspace_d6de0654f46a8ade2c467274cd9237b2" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref349_rs6" level="file">
+                  <did>
+                     <unittitle>TAT: ESP scores</unittitle>
+                     <physdesc id="aspace_b4d43ce20e65f14339f81daf9c0b04a5">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f0e6b2c457af57f78a8cce7ae8d5eb29" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref351_z35" level="file">
+                  <did>
+                     <unittitle>TAT: ESP scores</unittitle>
+                     <container id="aspace_9f0a9ec620d2a26a42a6c7c58fc099e4" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref352_7q5" level="file">
+                  <did>
+                     <unittitle>TAT scores</unittitle>
+                     <container id="aspace_12fc838610a009b3a3219abd742e8867" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref353_d2x" level="file">
+                  <did>
+                     <unittitle>Telepathy in Dyads: Data</unittitle>
+                     <container id="aspace_43280a0df3d248e0df5126ccb6ce050f" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref354_cxy" level="file">
+                  <did>
+                     <unittitle>Time estimates by psychics</unittitle>
+                     <container id="aspace_824636eed9b515a24754400486623fb0" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref355_dmz" level="file">
+                  <did>
+                     <unittitle>Time metaphor test</unittitle>
+                     <container id="aspace_6fe4f8b2ba8b46292e6e18dd76524164" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref356_myj" level="file">
+                  <did>
+                     <unittitle>Training subjects to judge free responses</unittitle>
+                  </did>
+                  <c04 id="aspace_ref357_o6a" level="file">
+                     <did>
+                        <unittitle>Ruth Reinsel for N. Sondow's Ganzfeld</unittitle>
+                        <physdesc id="aspace_da4641cf1b3b74867ac4800d90fda4f1">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_ed5693392c47ee7f0645928d1e2a77f5"
+                           label="Mixed Materials" type="box">76</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref359_h36" level="file">
+                     <did>
+                        <unittitle>Janet's non-blind list of correspondences: F, G, H</unittitle>
+                        <container id="aspace_1c26cef74cabda9019d1fd27d26c35f3"
+                           label="Mixed Materials" type="box">76</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref360_wuo" level="file">
+                  <did>
+                     <unittitle>Visual imagery and creativity</unittitle>
+                     <container id="aspace_7d75695e4f63fde31627f0d30819d208" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref361_gh7" level="file">
+                  <did>
+                     <unittitle>Windholz, George:</unittitle>
+                     <container id="aspace_3c8b1803a8fc2c9ec016b05e8ca42934" label="Mixed Materials"
+                        type="box">77</container>
+                  </did>
+                  <c04 id="aspace_ref362_cy5" level="file">
+                     <did>
+                        <unittitle>ESP data</unittitle>
+                        <physdesc id="aspace_00fed7c4a6215378ceec81c93aebf83e">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_1b57152fbc1dd4b0f65909e7be7d28ff"
+                           label="Mixed Materials" type="box">77</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref364_mi9" level="file">
+                     <did>
+                        <unittitle>Intercultural comparisons of expressive movements</unittitle>
+                        <container id="aspace_eb56f2b8b32f917ff4211e9ac8193edb"
+                           label="Mixed Materials" type="box">77</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref365_4wf" level="file">
+                  <did>
+                     <unittitle>Word association</unittitle>
+                     <container id="aspace_78b5b01c40004800eb855c175bf90ec3" label="Mixed Materials"
+                        type="box">77</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref366_cxq" level="subseries">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+               <c03 id="aspace_ref367_rnt" level="file">
+                  <did>
+                     <unittitle>1970-1971</unittitle>
+                     <container id="aspace_8db5b197e93b12f7369471f3c2e6572f" label="Mixed Materials"
+                        type="box">77</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref368_93x" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <physdesc id="aspace_224e37568a5845ab13f131ed0bf62524">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_991dd5ed087b08f368fb330722d75b6a" label="Mixed Materials"
+                        type="box">77</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref370_ds0" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <physdesc id="aspace_9c45e53aed7982ba698f0cdde95e55de">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_3bb85d0baaf7c6b21a2b34d7e04d62d5" label="Mixed Materials"
+                        type="box">78</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref372_o9y" level="file">
+                  <did>
+                     <unittitle>Tests</unittitle>
+                     <container id="aspace_63b944211645147efe7bd2fd247aa7df" label="Mixed Materials"
+                        type="box">78</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref373_25l" level="file">
+                  <did>
+                     <unittitle>Unidentified data</unittitle>
+                     <physdesc id="aspace_5add7532964f3afed5c659d49bbbf4e3">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_243ffd5f93ba816952a1ad0a983e6f81" label="Mixed Materials"
+                        type="box">78</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref375_92a" level="series">
+            <did>
+               <unittitle>Miscellaneous Series</unittitle>
+            </did>
+            <c02 id="aspace_ref376_y7y" level="file">
+               <did>
+                  <unittitle>1952-1974 and undated</unittitle>
+                  <container id="aspace_0a7680e33577251db858fbb34c32a2d1" label="Mixed Materials"
+                     type="box">78</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref377_xin" level="file">
+               <did>
+                  <unittitle>Colleagues' opinions about parapsychology, 1976</unittitle>
+                  <container id="aspace_4597049b3635b173c6b99ba5976b399c" label="Mixed Materials"
+                     type="box">78</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref378_yka" level="file">
+               <did>
+                  <unittitle>Coursework assignments, 1973-1977</unittitle>
+                  <container id="aspace_1712d05a427762c3e115050dc9bd3e6e" label="Mixed Materials"
+                     type="box">78</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref379_sgp" level="file">
+               <did>
+                  <unittitle>Coursework exams, 1972-1979</unittitle>
+                  <container id="aspace_4642d89bd0d330aafe0202f2234f47e8" label="Mixed Materials"
+                     type="box">78</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref380_hr5" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <c02 id="aspace_ref381_l12" level="file">
+               <did>
+                  <unittitle>Contains research files, including sheep/goat and topical research
+                     data</unittitle>
+                  <container id="aspace_cb53c8118a58222afb75e66e9e44702f" label="Mixed Materials"
+                     type="oversize-box">79-81</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref382_8kd" level="file">
+               <did>
+                  <unittitle>Contains subject research file: Precognition Clairvoyance</unittitle>
+                  <container id="aspace_6ba261d7fa1c2c19a218265d2f128edf" label="Mixed Materials"
+                     type="oversize-folder">Folder 1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

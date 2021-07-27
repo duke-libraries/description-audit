@@ -1,0 +1,74 @@
+Directions to Create Description Audit Executable:
+
+------------------------
+
+# FAQ:
+
+## Who is this guide for?
+
+This guide is intended for interested parties with at least working knowledge of Python programming,
+command line interfaces, and Git. Users interested in re-producing the executable program should
+first check if there is already an up-to-date executable for the operating system on their computer
+
+## Why do operating systems matter?
+
+Executables in Python can only be packaged from the operating system that will be used to run them. 
+Machines running a Linux operating system, for example, can create an executable that will run on other 
+Linux machines, but there is no easily accessible way to create an executable for other operating systems 
+from that one machine. Especially with intellectual property laws pertaining to the use of Mac OS X by 
+non-Apple users, the best workaround that we've found is to provide directions for prospective users/interested 
+parties to compile the application as an executable for their respective operating systems. 
+
+If you create an executable for your operating system and the project doesn't have it available yet, 
+we'd love it if you submitted the executable back to us with a merge request for others to use! This 
+project is approaching a natural closing point at the Rubenstein Library, but updates, additions, etc. 
+are welcomed from other interested parties.
+
+## Why is this project distributed as an executable?
+
+This project is primarily intended to support library archivists and other members of the library community
+focused on anti-racism and social justice in archival work. Although library archivists have a number of
+niche skills which are very valuable on this project, a complex knowledge of computer science isn't exactly
+in their job descriptions! We have chosen to create an executable with a graphic user interface (GUI) for
+ease of use by the people most likely to be engaging with this work. An executable created with PyInstaller
+allows users to click on the executable and run the project in minutes, without having to independently download
+Python or any other dependencies used in the project. All of the code is 'under the hood' to present an easy,
+accessible interface to end users with limited computer science background.
+
+This project can still be run from the command line or from a Python IDE. Please see our README for installation instructions
+for the full project, command line argument descriptions, etc.
+
+------------------------
+
+**If you have already forked the project onto your local machine and installed dependencies, skip to step 5**
+
+1. Fork and clone project to local machine from Git.
+2. Create a virtual environment to house dependencies for this project. I typically use venv on the command line within 
+the project directory for this, as seen below, but feel free to use your favorite virtual environment:
+	on Linux or macOS: python3 -m venv env
+	on Windows: py -m venv env
+	(If you don't have venv installed, you can install it via pip from macOS/or Linux and Windows using 
+	python3 -m pip install --user virtualenv OR py -m pip install --user virtualenv, respectively)
+3. Activate virtual environment. As long as this virtual environment is activated, pip will install packages into
+this specific virtual environment, preventing any possible interaction between dependencies for this project and others
+on your device. Deactivate this virtual environment by tying 'deactivate' in your command line, and activate as follows:
+	on Linux or macOS: source env/bin/activate
+	on Windows: .\env\Scripts\activate
+4. Install project dependencies from requirements.txt. This will install all libraries and packages mentioned in this file,
+therefore establishing needed dependencies to run project normally:
+	pip install -r requirements.txt
+5. Install PyInstaller to create project executable:
+	pip install PyInstaller
+6. PyInstaller generally runs in two steps, first creating the executable using a directory. Do this while adding making sure to indicate
+that PyInstaller should check for the manually created hook-spacy.py used to install spaCy's hidden dependencies:
+	pyinstaller CLI.py --additional-hooks-dir=.
+7. PyInstaller output is very verbose, and it can take a few minutes to run depending on your machine, but once this has completed, repeat
+using the --onefile tag to create a single executable for distribution:
+	pyinstaller CLI.py --additional-hooks-dir=. --onefile
+8. The up-to-date executable for your operating system should be in the 'dist' folder in your local project directory. Depending on your
+machine/operating system, the file extension may vary, but on Windows there is a single executable file CLI.exe that will run the entire project.
+
+------------------------
+
+Good luck! Raise any issues on Git with questions.
+

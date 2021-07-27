@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/bausch/">bausch</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Preliminary Guide to the Richard Bausch Papers, 1965-1998 and undated
+                  <num>RL.00093</num>
+            </titleproper>
+            <author>Processed by: Michael Shumate; machine-readable finding aid created by: Lisa
+               Stark and Michael Shumate</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002607868</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 12:19:44
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Richard Bausch papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Bausch, Richard, 1945-</persname>
+         </origination>
+         <unitid>RL.00093</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">13.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1965/1998" type="inclusive">1965-1998 and undated</unitdate>
+         <physloc id="aspace_c9b424e9462ef9c7e3298934c041001a">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_a126088ab430826cff1195ba06d80dab">
+            <extent>1600 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_618f0ce2d5b8abf8dca86684d562fa01">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_47366229eb9cda855db1f2845d18aa13">
+         <head>Access Restrictions</head>
+         <p>Collection is restricted.</p>
+         <p>Collection also contains sensitive information. Patrons must sign a waiver concerning
+            privacy rights.</p>
+         <p>In addition, all or portions of this collection may be housed off-site in Duke
+            University's Library Service Center. There may be a 48-hour delay in obtaining these
+            materials.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_3555029818e4173fd37170c2fc0be198">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_96a7b424c54da6b907af0579580d0069">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Richard Bausch Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_0462aa8faff520689a224d76c50f6e7c">
+         <head>Provenance</head>
+         <p>The Richard Bausch Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a purchase in 1998.</p>
+      </acqinfo>
+      <processinfo id="aspace_9fc924d56921c730d8e8950aff7d3290">
+         <head>Processing Information</head>
+         <p>Processed by Michael Shumate</p>
+         <p>Completed October 1, 1999</p>
+         <p>Encoded by Lisa Stark and Michael Shumate</p>
+         <p>This collection is unprocessed: materials have not been ordered and described beyond
+            their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_c0079d00393bddd4c780442b8abb8c28">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1945</date>
+               <eventgrp>
+                  <event>Born, Fort Benning, Georgia</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1974</date>
+               <eventgrp>
+                  <event>B.A., George Mason University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1975</date>
+               <eventgrp>
+                  <event>M.F.A., University of Iowa</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1980</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Real Presence</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1980-</date>
+               <eventgrp>
+                  <event>Professor of English and creative writing, George Mason University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1981</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Take Me Back</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1982</date>
+               <eventgrp>
+                  <event>National Endowment for the Arts grant</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1984</date>
+               <eventgrp>
+                  <event>Guggenheim Fellowship</event>
+                  <event>
+                     <title type="simple" render="italic">The Last Good Time</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1987</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Spirits and Other Stories</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1989</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Mr. Field's Daughter</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1990</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">The Fireman's Wife and Other
+                        Stories</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1992</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Violence</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1993</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Rebel Powers</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1994</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Rare and Endangered Species: A Novella and
+                        Stories</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1995</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Aren't You Happy for Me? and Other
+                        Stories</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1996</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">The Selected Stories of Richard
+                        Bausch</title>
+                  </event>
+                  <event>
+                     <title type="simple" render="italic">Good Evening Mr. and Mrs. America, and All
+                        the Ships at Sea: A Novel</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1998</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">In the Night Season</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1999</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Someone to Watch Over Me: Stories</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>2002</date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Hello to the Cannibals</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_893b92a607f2fef99d36c58721fabe3e">
+         <head>Collection Overview</head>
+         <p>The <emph render="bold">Richard Bausch Papers, 1965-1998,</emph> document the career of
+            the American novelist and short story writer through personal and professional
+            correspondence, manuscripts of published and unpublished works, and printed materials.
+            The <emph render="bold">Correspondence Series</emph> begins in the 1960s with mainly
+            personal letters, but by the 1970s begins to document Bausch's emergent writing career,
+            including mention of his work on early short stories and his acceptance to the Iowa
+            Writers' Workshop. From that point on several prominent American writers and literary
+            figures appear, including frequent correspondence at various times with Charles Baxter,
+            Frederick Busch, Richard Ford, George Garrett, Gordon Lish, William Maxwell, and C.K.
+            Williams; Bausch's agent, Harriet Wasserman; and his twin brother, novelist Robert
+            Bausch. Prominent though less frequent correspondents include Fred Chappell, Alan
+            Gurganus, Barry Hannah, and Jean Thompson. The <emph render="bold">Writings
+               Series</emph> documents the development of Bausch's novels and story collections and
+            consists mainly of typescripts and various stages of proofs. Although most are fair
+            copies or only moderately hand-corrected, the sheer number of versions documents the
+            process of creation. Of special note in this regard are the novels <title type="simple"
+               render="italic">Rebel Powers</title> and <title type="simple" render="italic"
+               >Violence.</title> Two smaller series, <emph render="bold">Printed Materials</emph>
+            and <emph render="bold">Writings by Others,</emph> make up the remainder of the
+            collection. Highlights of the latter series include a copy of Bob Balaban's screenplay
+            for the Bausch novel, <title type="simple" render="italic">The Last Good Time,</title>
+            and typescripts of several early stories by Gurganus dating from the 1970s.</p>
+      </scopecontent>
+      <separatedmaterial id="aspace_87326357074b8f2c74054266bed17e62">
+         <head>Materials Cataloged Separately</head>
+         <p>The following twelve books by Bausch were removed from the collection (accession
+            1998-0555) and cataloged separately.</p>
+         <list type="ordered">
+
+            <item>
+               <title render="italic">The Fireman's Wife and Other Stories,</title> New York: Simon
+               and Schuster, c1990.</item>
+            <item>
+               <title render="italic">Good Evening Mr. &amp; Mrs. America, and All the Ships at
+                  Sea,</title> New York: HarperCollinsPublishers, c1996.</item>
+            <item>
+               <title render="italic">In the Night Season,</title> New York: HarperFlamingo,
+               c1998.</item>
+            <item>
+               <title render="italic">The Last Good Time,</title> New York: Vintage Books,
+               1994.</item>
+            <item>
+               <title render="italic">Mr. Field's Daughter,</title> New York: Linden Press,
+               1989.</item>
+            <item>
+               <title render="italic">Rare &amp; Endangered Species,</title> Boston : Houghton
+               Mifflin/Seymour Lawrence, 1994.</item>
+            <item>
+               <title render="italic">Real Presence,</title> New York: Dial Press, c1980.</item>
+            <item>
+               <title render="italic">Rebel Powers,</title> Boston: Houghton Mifflin/Seymour
+               Lawrence, 1993.</item>
+            <item>
+               <title render="italic">The Selected Stories of Richard Bausch,</title> New York:
+               Modern Library, 1996.</item>
+            <item>
+               <title render="italic">Spirits and Other Stories,</title> New York: Linden
+               Press/Simon &amp; Schuster, 1987. Signed and inscribed by the author.</item>
+            <item>
+               <title render="italic">Take Me Back,</title> New York: Dial Press, c1981.</item>
+            <item>
+               <title render="italic">Violence,</title> Boston: Houghton Mifflin/Seymour Lawrence,
+               1992.</item>
+         </list>
+      </separatedmaterial>
+      <relatedmaterial id="aspace_e272a8593c2d1dfe64556fcf7b68ece6">
+         <head>Related Archival Materials note</head>
+         <p>
+            <archref>
+               <unittitle>
+                  <persname>Robert Bausch Papers, </persname>
+                  <unitdate era="ce" calendar="gregorian">ca. 1968-1999</unitdate>
+               </unittitle>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Southern literature</subject>
+         <subject source="lcsh">Short stories</subject>
+         <subject source="lcsh">American literature -- Southern States</subject>
+         <subject source="lcsh">American literature -- 20th century</subject>
+         <subject source="lcsh">Authors, American -- 20th century -- Correspondence</subject>
+         <persname source="ingest">Ford, Richard, 1944-</persname>
+         <persname source="ingest">Chappell, Fred, 1936-</persname>
+         <persname source="ingest">Busch, Frederick, 1941-</persname>
+         <persname source="ingest">Baxter, Charles, 1947-</persname>
+         <persname source="ingest">Bausch, Richard, 1945-</persname>
+         <persname source="ingest">Bausch, Richard, 1945-</persname>
+         <persname source="ingest">Balaban, Bob</persname>
+         <persname source="ingest">Garrett, George, 1929-2008</persname>
+         <persname source="ingest">Bausch, Robert</persname>
+         <persname source="ingest">Williams, C. K., (Charles Kenneth), 1936-</persname>
+         <persname source="ingest">Maxwell, William, 1908-</persname>
+         <persname source="ingest">Wasserman, Harriet</persname>
+         <corpname source="ingest">Iowa Writers' Workshop</corpname>
+         <persname source="ingest">Lish, Gordon</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_yob" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1965-1998</unittitle>
+            </did>
+            <scopecontent id="aspace_99d65077ea8b50b0c913c336a66f5d01">
+               <head>Scope and Contents note</head>
+               <p>Professional and personal correspondence and printouts of e-mail, arranged in
+                  chronological incoming and outgoing sequences.</p>
+            </scopecontent>
+            <accessrestrict id="aspace_116a5497802932bda17a3ea396c0f2f0">
+               <head>Conditions Governing Access note</head>
+               <p>
+                  <emph render="bold">This series is restricted.</emph> Richard Bausch's written
+                  consent is required prior to access. Contact Research Services.</p>
+            </accessrestrict>
+            <c02 id="aspace_ref13_ylq" level="file">
+               <did>
+                  <unittitle>Incoming Correspondence, 1965-1998</unittitle>
+                  <physdesc id="aspace_754b571a3f8bc6c25c2c7e84d0347c7a">
+                     <extent>13 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2fff771d95c046cc47c4862d72a17109" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_u7x" level="file">
+               <did>
+                  <unittitle>Outgoing Correspondence, 1989-1998</unittitle>
+                  <physdesc id="aspace_57dc75fab691673a26d8e1615d49ee84">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3799628ddb0a7869123bc67ccdd889cf" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref19_ga3" level="series">
+            <did>
+               <unittitle>Writings Series, 1975-1996 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_8ab534f55835792436b4d6cc729b01f2">
+               <head>Scope and Contents note</head>
+               <p>Arranged alphabetically by book title. Folders for single stories are filed after
+                  the book titles in a separate alphabetical sequence. Writings in other genres,
+                  including poetry, and miscellaneous fragments of fiction manuscripts appear at the
+                  end of the series. A number of the typescripts were printed out from diskettes
+                  included in the collection; these are marked with a "Disk" number in the upper
+                  left hand corner of the first page.</p>
+            </scopecontent>
+            <c02 id="aspace_ref20_gt9" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">A Domestic Education,</title> (unpublished novel),
+                     1977</unittitle>
+                  <container id="aspace_a4401258c5b0d1db3579505ae0fe5ff8" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_0sy" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">A Former Catholic,</title> (Master's Thesis,
+                     University of Iowa) 1975</unittitle>
+                  <physdesc id="aspace_bf580d85903d769cb95ab4722f2bb5f2">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2083d9bba9804d4191825b45c2e70d1a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_pzs" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Good Evening Mr. and Mrs. America, and All the Ships at
+                        Sea,</title> 1996 and undated</unittitle>
+                  <physdesc id="aspace_41ad1520429ae46043d34b4e9be42545">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7e467409245930934772dda123446d29" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_50y" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">In the Night Season,</title> 1997 and
+                     undated</unittitle>
+                  <physdesc id="aspace_b3daa4c6ce907eb7223b950b86af9077">
+                     <extent>Folder 1 of 6</extent>
+                  </physdesc>
+                  <container id="aspace_4c4528d55c8a5d0119729c62977309fa" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_ph4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">In the Night Season,</title> 1997 and
+                     undated</unittitle>
+                  <physdesc id="aspace_ccb10b3ef622fc8da5098e8d292cdb55">
+                     <extent>Folders 2-6 of 6</extent>
+                  </physdesc>
+                  <container id="aspace_8729981c22ba9ce492d1b9294aead76d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_np9" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Last Good Time,</title> 1984 and undated</unittitle>
+                  <physdesc id="aspace_ff14da9529e097ba06f6cfb9d2e7ed0c">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3cf7f3ac4d2132e7c9b8593c52852696" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_mz4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">The Last Good Time,</title>(play),
+                     undated</unittitle>
+                  <container id="aspace_586c1f08c7ee77beeff9e9c51ec5fb1f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_qu1" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Mattie,</title> (unpublished novel),
+                     undated</unittitle>
+                  <container id="aspace_5d0be8f6057377126051d5fe75454f73" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_jv5" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Mr. Field's Daughter,</title> 1986-1989 and
+                     undated</unittitle>
+                  <physdesc id="aspace_e02507f4e2764dd00a8ca6bcefc123a7">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9cddd939ee266619c6217004c741dd74" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_nk8" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Plains,</title> 1991-1992. See also <title
+                        render="italic">Rebel Powers</title>.</unittitle>
+                  <physdesc id="aspace_5411bf67decf368a98de8fafee9554be">
+                     <extent>Folders 1-12 of 15</extent>
+                  </physdesc>
+                  <container id="aspace_ecccd1d4e6d201e7c20b8729389e20b6" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_fgm" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Plains,</title> 1991-1992</unittitle>
+                  <physdesc id="aspace_25767f8c17478b96bb96f3d8a2b2efdb">
+                     <extent>Folders 13-15 of 15</extent>
+                  </physdesc>
+                  <container id="aspace_4d16dbe28080ac5a35d8c0de46ccb040" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_7sd" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Rare &amp; Endangered Species,</title>
+                     1992-1994</unittitle>
+                  <physdesc id="aspace_91de9c9213fbc0bf79a06a5818931102">
+                     <extent>11 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b8e1216fb3de00e04a8c53a65e8633d2" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_asr" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Real Presence,</title> 1978-1979</unittitle>
+                  <physdesc id="aspace_78a913829e01eeeccf38fef84ee0c190">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a8b102ebf131ea707b3925ed382bfaea" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_3ry" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Rebel Powers,</title> 1989-1992 and undated See also
+                        <title render="doublequote">Plains.</title>
+                  </unittitle>
+                  <physdesc id="aspace_e77f1fb886e8385cc59219e8aaa9b6df">
+                     <extent>Folder 1 of 12</extent>
+                  </physdesc>
+                  <container id="aspace_4a9a251557389e2562996f036f836b22" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_1hg" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Rebel Powers,</title> 1989-1992 and undated</unittitle>
+                  <physdesc id="aspace_4e99f3dbf5d1d741b3025d135523fe4f">
+                     <extent>Folders 2-12 of 12</extent>
+                  </physdesc>
+                  <container id="aspace_a04f27f887eae55c9dab00d9d22af9b4" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_3pg" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">The Singers,</title> (unpublished, unfinished
+                     novel), undated</unittitle>
+                  <physdesc id="aspace_2eb49be250c5a0627b95d8050f6654db">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4a574d1604a34414730a558c5c97bf78" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_uyk" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Spirits and Other Stories</title> 1986 and
+                     undated</unittitle>
+                  <physdesc id="aspace_e49c0003e90115d28f5ea18251a33fc7">
+                     <extent>Folders 1-3 of 4</extent>
+                  </physdesc>
+                  <container id="aspace_b1195e055979a11d65a9aad60531dc92" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_z04" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Spirits and Other Stories,</title> 1986 and
+                     undated</unittitle>
+                  <physdesc id="aspace_3824506675025981a2334c9a9b579518">
+                     <extent>Folder 4 of 4</extent>
+                  </physdesc>
+                  <container id="aspace_6b96b91e6eb81665b847ad09dd9773fb" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_wka" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Spirits,</title> (unpublished novel), 1981-1983 and
+                     undated</unittitle>
+                  <physdesc id="aspace_3aedd38dd6c0c530b1aa85764eb73e32">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d2f8a55731f4d35fd97fb2de3b2a666e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_euo" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">The Summer Before the Wars,</title>
+                     undated</unittitle>
+                  <physdesc id="aspace_078b9e12141b6d56e6b6d2853f75b5a9">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1b2c5fe8e5fd89e0c1ffe6fc0f252e81" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_8d9" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Take Me Back,</title> undated</unittitle>
+                  <physdesc id="aspace_9c5a8c03e524ee6b05b2e50fc431ab25">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_401808b67cebf8e34edef792a7718364" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_i0o" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Violence,</title> 1986-1992</unittitle>
+                  <physdesc id="aspace_61246a3112fb7c2a0b08f0b193c5c963">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4760d735283b9efbe68ebe546497ded7" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_7a8" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Winter Houses,</title> (unpublished novel),
+                     undated</unittitle>
+                  <container id="aspace_25f734ed7901c86e22655dbebecb2ae8" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_3yp" level="file">
+               <did>
+                  <unittitle>Short stories, 1970-1993 and undated</unittitle>
+                  <physdesc id="aspace_60d227dba90d486ccea8d650a2b66b09">
+                     <extent>62 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ac7640d911de438b2941d0938ea2d640" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_747" level="file">
+               <did>
+                  <unittitle>Poetry, 1967-1997 and undated, bulk 1969-1979</unittitle>
+                  <physdesc id="aspace_593d57ceb53b438502036580cc62ca3c">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_355081a2cd6745ad9e857e75d849dccd" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_a3s" level="file">
+               <did>
+                  <unittitle>Fiction, Fragments, and Notes, 1975-1993, bulk undated</unittitle>
+                  <physdesc id="aspace_0b4fcd37088edcf57509e8ac9c88e136">
+                     <extent>13 folders</extent>
+                  </physdesc>
+                  <container id="aspace_46b2f396096c5ad84270fa788891bcbc" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_rzk" level="file">
+               <did>
+                  <unittitle>Miscellaneous Writings, 1973-1987, bulk undated</unittitle>
+                  <container id="aspace_dea3e2f945ae1e4b10f8e4914f2f2418" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+               <processinfo id="aspace_cee7075d2fa38418e1c0d6be9ecebc22">
+                  <head>Processing Information note</head>
+                  <p>Seventeen computer diskettes containing a variety of writings, mainly fiction,
+                     were removed and their contents migrated to the Special Collections server.
+                     Prior to removal, their files were printed out and foldered by title; see the
+                     series note for the <emph render="bold">Writings Series</emph> for further
+                     details. A disk directories log also exists for the digital files; contact
+                     Research Services staff.</p>
+               </processinfo>
+            </c02>
+            <c02 id="aspace_ref70_0ct" level="file">
+               <did>
+                  <unittitle>Miscellaneous Files, 1975-1995 and undated</unittitle>
+                  <physdesc id="aspace_279931a4bf5e60870373cb3e08d2003a">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_49c633c74a023d20fa73c266dc92619d" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref73_gap" level="series">
+            <did>
+               <unittitle>Printed Materials Series, 1971-1993 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_f53a2c9e31a38e7e1ca3616e14045648">
+               <head>Scope and Contents note</head>
+               <p>Printed materials by and about Bausch. Includes some early stories in journals,
+                  clippings, reviews, publicity material, and miscellaneous other printed items.
+                  Arrangement parallels the general structure of the Writings Series: fiction first,
+                  followed by writings in other genres and ending with miscellaneous materials about
+                  Bausch and other topics.</p>
+            </scopecontent>
+            <c02 id="aspace_ref74_y2f" level="file">
+               <did>
+                  <unittitle>Writings, 1971-1991</unittitle>
+                  <physdesc id="aspace_a13c1c6728dc9019f149e18e0677f940">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_337dc315d4228cc849d68b5154d62d43" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_i4z" level="file">
+               <did>
+                  <unittitle>Clippings and Reviews by Bausch, 1988-1989, 1992, 1995</unittitle>
+                  <container id="aspace_4cc0e88cd1e950155baea605b19b5306" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_35l" level="file">
+               <did>
+                  <unittitle>Clippings and Reviews about Bausch, 1984-1993</unittitle>
+                  <physdesc id="aspace_ef8af207cbb19e1276514b3224c0f7a9">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ee51cc107a1ec07dc0c874312040c927" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_bst" level="file">
+               <did>
+                  <unittitle>Miscellaneous Printed Materials, 1979-1993 and undated</unittitle>
+                  <container id="aspace_bd61f8369c9475272b61a655cc9dcd64" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref81_618" level="series">
+            <did>
+               <unittitle>Writings By Others Series, 1972-1995 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_ffebcf01298c6c1ada4d6f52af95f480">
+               <head>Scope and Contents note</head>
+               <p>Typescripts and printed material by various authors, most of it inscribed to
+                  Bausch by the authors. Arranged alphabetically by author.</p>
+            </scopecontent>
+            <c02 id="aspace_ref82_1dm" level="file">
+               <did>
+                  <unittitle>Balaban, Bob</unittitle>
+                  <container id="aspace_d5661bcd1d32a90858b805d4d7507f2b" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+               <c03 id="aspace_ref83_qv7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Last Good Time</title> (screenplay),
+                        1990</unittitle>
+                     <container id="aspace_bf33712f83e4a1b4b16a4ee0fb197c53" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref84_3k7" level="file">
+               <did>
+                  <unittitle>Bausch, Robert</unittitle>
+               </did>
+               <c03 id="aspace_ref85_u7f" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Dog-Star,</title> 1975</unittitle>
+                     <container id="aspace_b2597aa005a9a00a5e4547fdea86fb1f" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_egv" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Stag Party,</title> 1975-1976</unittitle>
+                     <container id="aspace_9746c5d3b8c60e6a6fc7661246260511" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_4w1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Suicide Note,</title> 1977</unittitle>
+                     <container id="aspace_6212dd84b2db890f1fd97fa05687fa25" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref88_lre" level="file">
+               <did>
+                  <unittitle>Berg, Elizabeth</unittitle>
+               </did>
+               <c03 id="aspace_ref89_n4i" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">The No More Baby Blues,</title>
+                        undated</unittitle>
+                     <container id="aspace_bf7903f548c54850015d5bad0dfdd072" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref90_2pm" level="file">
+               <did>
+                  <unittitle>Chibka, Robert</unittitle>
+               </did>
+               <c03 id="aspace_ref91_r0p" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Inventory,</title> 1975</unittitle>
+                     <container id="aspace_42722562b5ab3bfcc40490b0a4c7d6f9" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref92_tzh" level="file">
+               <did>
+                  <unittitle>Everhard, Jim</unittitle>
+               </did>
+               <c03 id="aspace_ref93_3lw" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Through the Eye of a Needle,</title>
+                        1972</unittitle>
+                     <container id="aspace_0283ee08c23ae2fb7d6f5c919b6a23cd" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref94_rwb" level="file">
+               <did>
+                  <unittitle>Ford, Richard</unittitle>
+               </did>
+               <c03 id="aspace_ref95_et4" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Jealous,</title> undated</unittitle>
+                     <container id="aspace_d9c0ed72ce348ce40e4191505319b186" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_2fv" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">The Womanizer,</title> undated</unittitle>
+                     <container id="aspace_3305d0900e77bfd2ba73130f7f48e87c" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref97_kax" level="file">
+               <did>
+                  <unittitle>Garrett, George</unittitle>
+               </did>
+               <c03 id="aspace_ref98_mrp" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The King of Babylon Shall Not Come Against
+                           You,</title> undated</unittitle>
+                     <physdesc id="aspace_5cd318f637ae0af8904abca9fe36022a">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_435204f1dcebb862883245f598678e04" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_9o8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">The Tyranny of Sloth,</title> 1988</unittitle>
+                     <container id="aspace_fd14552ad4b63a1803a4fd211c992afc" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref101_b96" level="file">
+               <did>
+                  <unittitle>Gurganus, Allan</unittitle>
+               </did>
+               <c03 id="aspace_ref102_pkx" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">The Expense of Spirit,</title> 1974</unittitle>
+                     <container id="aspace_1d5e318ef9f7c289b7c9efa3f0af900b" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref103_rfh" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">First Stories</title> (master’s thesis),
+                        1975</unittitle>
+                     <container id="aspace_bd6c1c3a2264a97ffebb9c4a97cfca4e" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref104_7uf" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Minor Complications,</title> 1975</unittitle>
+                     <container id="aspace_ef438a0b1241698e342f05790b8e0a7b" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref105_4np" level="file">
+               <did>
+                  <unittitle>McCann, Richard, poetry, undated</unittitle>
+                  <container id="aspace_d7ae50ed52f9838d3d6408407db2b20f" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_lzv" level="file">
+               <did>
+                  <unittitle>O'Brien, Tim</unittitle>
+               </did>
+               <c03 id="aspace_ref107_gw7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Loon Point,</title> undated</unittitle>
+                     <container id="aspace_093e65a19144068cff54cc9ecc830e4c" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref108_0hm" level="file">
+               <did>
+                  <unittitle>Stafford, Jean, various short stories, undated</unittitle>
+                  <container id="aspace_62551169a42d91b244a674b51ff23f16" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_jl2" level="file">
+               <did>
+                  <unittitle>Miscellaneous Poetry, undated</unittitle>
+                  <container id="aspace_adad0703c02e2fa18bad9526424225bc" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_ywp" level="file">
+               <did>
+                  <unittitle>Unknown</unittitle>
+               </did>
+               <c03 id="aspace_ref111_uvt" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Perspiration,</title> undated</unittitle>
+                     <container id="aspace_af9620c6cf765f7aa5f1e8655867ecfa" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

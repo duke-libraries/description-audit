@@ -1,0 +1,2327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/uaoosting/">uaoosting</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Henry J. Oosting Papers, 1919-1968
+          <num>UA.29.02.0021</num></titleproper>
+        <author>Machine-readable finding aid created by: Jill Katte</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2002</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003205742</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-06-29 15:16:47
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Henry J. Oosting papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Oosting, Henry J. (Henry John), 1903-1968</persname>
+      </origination>
+      <unitid>UA.29.02.0021</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1919/1968" type="inclusive">1919-1968</unitdate>
+      <abstract id="aspace_18db06060da0db91d9e15dfdc330a85c">Correspondence, field notes,
+        writings,photographs and other subject files of Henry J. Oosting, Professor of Botany and
+        Chairman of the Department of Botany at Duke University from 1931 to 1962. Major subjects
+        include the ecology of virgin forests, vegetation on bare rocks, maritime vegetation in the
+        Southeastern United States, North Carolina vegetation, the 1937 Louise A. Boyd expedition to
+        Greenland with the American Geographical Society, the Victory Garden project in Durham,
+        N.C., the Ecological Society of America, and the serial Ecological Monographs.</abstract>
+      <langmaterial id="aspace_e9721f51d45a09e91d20dbbedde11e68">Material in English </langmaterial>
+    </did>
+    <altformavail id="aspace_58ae0bb6ed0c0a8f19ed0b01a94ad051">
+      <head>Alternative Format Available</head>
+      <p>As of October 2014, preservation-quality digital copies of the nitrate negatives are stored
+        at: \cx4-fe-nas01.oit.duke.edu\Tucasi_cifs2\dpc-archive\Archived_NoAccess\na_OOS</p>
+    </altformavail>
+    <accessrestrict id="aspace_8815fc8b556118814de83ebe38fd2cee">
+      <head>Access Restrictions</head>
+      <p>Nitrate negatives are restricted and cannot be accessed without prior approval of the
+        University Archivist. Most images have corresponding prints in the collection and all have
+        been digitized. Please contact Research Services for more information.</p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>Stored off-site; 48 hours advance notice is required for use.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_e1740471f845d414710ca25d02ffbc72">
+      <head>Acquisitions Information</head>
+      <p>Received from Department of Botany, May 26, 1994. Accession UA2007-0019 was received in
+        June 2007 from former professor Dwight Billings. The diary was gifted in 1993.</p>
+    </acqinfo>
+    <prefercite id="aspace_8e0e130c5b34b59c924d885c997b6051">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Henry J. Oosting Papers, Duke University Archives, David M.
+        Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </prefercite>
+    <userestrict id="aspace_b5a2b3f278042f1bf186cdf234ba2c88">
+      <head>Use Restrictions</head>
+      <p>Copyright for official University records is held by Duke University; all other copyright
+        is retained by the authors of items in these papers, or their descendants, as stipulated by
+        United States copyright law.</p>
+    </userestrict>
+    <processinfo id="aspace_a1119e313f871a3c3a9278f230cdc6c1">
+      <head>Processing Information</head>
+      <p>Processed by Jill Katte, June 2002, Fully processed by KimberlySims, April 2014</p>
+      <p>Encoded by Jill Katte, December 2002</p>
+      <p>Updated by Sherrie Bowser, June 2007</p>
+      <p>Updated by Kim Sims, September 2011, April 2014</p>
+      <p>Updated with accession UA2017.0052 by Tracy M. Jackson, October 2017.</p>
+    </processinfo>
+    <bioghist id="aspace_5a7e165e01e427b6ef10392780e10bd5">
+      <head>Biographical Note</head>
+      <p>Henry John Oosting, Professor of Botany and Chairman of the Department of Botany, worked at
+        Duke University from 1931 to 1962. He was born March 12, 1903 in Holland, Michigan to John
+        H. and Minna Oosting. He earned an A.B. from Hope College in 1925, an M.S. from Michigan
+        State College in 1927, and a Ph.D. from the University of Minnesota in 1931. Oosting joined
+        the faculty of the Department of Botany at Duke University in 1931, and later served as
+        Chairman of the Department. His research interests included the ecology of virgin forests,
+        vegetation on bare rocks, maritime vegetation in the Southeastern United States, and North
+        Carolina vegetation. In 1937, he served as ecologist for the Louise A. Boyd expedition to
+        Greenland with the American Geographical Society, and he directed the Victory Garden project
+        in Durham, N.C. in 1943. Oosting actively participated in the Ecological Society of America
+        and edited the serial <emph render="italic">Ecological Monographs</emph>. Oosting retired
+        from Duke University around 1962; he died on October 30, 1968.</p>
+    </bioghist>
+    <scopecontent id="aspace_4c109b5c1a53ec444fe299cd38f4f97c">
+      <head>Scope and Content Note</head>
+      <p>The papers include correspondence, field notes, and other research notes of Henry J.
+        Oosting. The collection is representative of Oosting's research in forest ecology,
+        vegetation on bare rocks, and plants of North Carolina. The papers also document his
+        participation in the 1937 Louise A. Boyd Expedition to Greenland, his participation in the
+        governance and research of the Highlands Biological Station (Highlands, N.C.), and his
+        participation in the Ecological Society of America. Much of the correspondence is between
+        Oosting and colleagues at Duke University, including H. L. Blomquist and Lewis R. Anderson;
+        colleagues throughout the United States; and former graduate students. Other files include
+        family correspondence, as well as reports and correspondence from the Duke University
+        Research Council, 1949-1963.</p>
+      <p>In June 2007, accession UA2007-0019 was added to the collection. This accession includes
+        photographs from the 1937 Louise A. Boyd Expedition to Greenland. Subjects featured are
+        glaciers; Kjerulf Fjord; Tromso, Norway; Jan Mayen Island; Cape Alfred; Clavering Isle;
+        landscape; and native plants. In addition to the individual photos there are also six
+        annotated photo posters. Photos are by Louise A. Boyd. Also included is Oosting's diary. The
+        diary includes his reactions and observations about his travel to Eastern Greenland and
+        return through England during the summer of 1937 on the Louise A. Boyd Expedition. </p>
+      <p>Nitrate negatives have been scanned and are available online. The original nitrate
+        negatives are not available for use in the reading room.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Plants -- North Carolina</subject>
+      <persname source="ingest">Oosting, Henry J. (Henry John), 1903-1968</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref12_79r" level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1919-1968</unitdate>
+        </did>
+        <c02 id="aspace_ref13_l7b" level="file">
+          <did>
+            <unittitle>A: Miscellaneous, 1959, 1962</unittitle>
+            <container id="aspace_10c3ba80e200580b0f423c83ea8f41fd" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref14_fib" level="file">
+          <did>
+            <unittitle>Peter H. Allen, 1956-1968</unittitle>
+            <container id="aspace_f9de04dca6d6a522ad152eea650f3e3f" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref15_k41" level="file">
+          <did>
+            <unittitle>Lewis E. Anderson, 1933-1965</unittitle>
+            <container id="aspace_ea8f973620fb1f2f997b3c0e5eedaac2" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref16_6wu" level="file">
+          <did>
+            <unittitle>Nellie Beetham, 1956-1966</unittitle>
+            <container id="aspace_33c06c6a728d0ad43ff8d25507e0cada" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref17_heq" level="file">
+          <did>
+            <unittitle>Larry Carroll Bliss, 1953-1967</unittitle>
+            <container id="aspace_64e6015abcc431ee64799cac24f971d7" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref18_ms3" level="file">
+          <did>
+            <unittitle>H. L. Blomquist, 1932</unittitle>
+            <container id="aspace_6513c79d78a0958cbb84f6335c902aad" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref19_i6l" level="file">
+          <did>
+            <unittitle>Clair Brown, 1940</unittitle>
+            <container id="aspace_d5a5e22eeb0a29dfa99eb07d12d74060" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref20_92o" level="file">
+          <did>
+            <unittitle>D. M. Brown, 1953</unittitle>
+            <container id="aspace_b732945d4bfe8de06814d66acef6219f" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref21_2qz" level="file">
+          <did>
+            <unittitle>M. Buell, 1961-1967</unittitle>
+            <container id="aspace_da864abc6571d78235f89479e02f0886" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref22_nyk" level="file">
+          <did>
+            <unittitle>C: Miscellaneous, 1936-1961, 1968</unittitle>
+            <container id="aspace_e15dff2a877d78fbf3c2f599b01d818b" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref23_r7h" level="file">
+          <did>
+            <unittitle>S. A. Cain, 1958</unittitle>
+            <container id="aspace_96214b06815a2e8755a8a91863a807c9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref24_qjf" level="file">
+          <did>
+            <unittitle>W. H. Camp, 1952</unittitle>
+            <container id="aspace_02eee0813b4b130026a47de46c718591" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref25_8l4" level="file">
+          <did>
+            <unittitle>John Cantlon, 1953, 1965</unittitle>
+            <container id="aspace_20dad6d3e3db9d25de5eec2d9d253bdb" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref26_og3" level="file">
+          <did>
+            <unittitle>J. E. Coaldrake, 1956-1957</unittitle>
+            <container id="aspace_19342ab0bed4657957241950d5ab7ab6" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref27_r41" level="file">
+          <did>
+            <unittitle>E. Lendell Cockrum, 1967</unittitle>
+            <container id="aspace_ccdab8c144b6dd74abf70918bd362f19" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref28_8dc" level="file">
+          <did>
+            <unittitle>Charles Cooper, 1957-1967</unittitle>
+            <container id="aspace_3099c25df11ac078ec588490e892243b" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_3i1" level="file">
+          <did>
+            <unittitle>W. S. Cooper, 1931-1966 (2 folders)</unittitle>
+            <container id="aspace_2d0e258d8321d99131181bcd733bc579" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref30_jd3" level="file">
+          <did>
+            <unittitle>Don Correll, 1935-1957</unittitle>
+            <container id="aspace_b42273aeeb997d00f02ed7b4c2af4155" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref31_59i" level="file">
+          <did>
+            <unittitle>W. L. Culberson, 1952-1962</unittitle>
+            <container id="aspace_b236af19164ad6eac974c4aedb9b41dd" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref32_txh" level="file">
+          <did>
+            <unittitle>D: Miscellaneous, 1962, 1965, 1966</unittitle>
+            <container id="aspace_7d95c447a395c34fb2c9c2ba63493f39" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref33_kmy" level="file">
+          <did>
+            <unittitle>P. Dansereau, 1960</unittitle>
+            <container id="aspace_dc77710db9f9f1876d71bac2987e001c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref34_0px" level="file">
+          <did>
+            <unittitle>John Darling, 1963</unittitle>
+            <container id="aspace_848fca6da4d3710c0c95fe5a0acb7595" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref35_euc" level="file">
+          <did>
+            <unittitle>J. H. Davis, 1953</unittitle>
+            <container id="aspace_2538a507804de302f8dce0ab9ccc60d8" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref36_i2z" level="file">
+          <did>
+            <unittitle>Department of the Army, 1967</unittitle>
+            <container id="aspace_d57582a2f5652c3c0deda02a94a533b8" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref37_29h" level="file">
+          <did>
+            <unittitle>W. B. Drew, 1940-1962</unittitle>
+            <container id="aspace_ad8645fdaf7e65fa6ea998158b1eedb9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref38_i36" level="file">
+          <did>
+            <unittitle>Duke University, 1932-1961</unittitle>
+            <container id="aspace_6e55e2e732bb4b5618637f9d2283e5f2" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref39_t2i" level="file">
+          <did>
+            <unittitle>E: Miscellaneous, 1961</unittitle>
+            <container id="aspace_ba545404eab54f2debcafeb6a8875de3" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref40_yhq" level="file">
+          <did>
+            <unittitle>Frank Egler, 1940-1961</unittitle>
+            <container id="aspace_966d35f84d591d14e55e504a413f4c2c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref41_y2g" level="file">
+          <did>
+            <unittitle>F: Miscellaneous, 1950, 1968</unittitle>
+            <container id="aspace_fd6edb56469f8f3516873c71a6a8b589" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref42_ji7" level="file">
+          <did>
+            <unittitle>Knut Faegri, 1960-1963</unittitle>
+            <container id="aspace_b91c9da1e4a807de747b1b79e9db4fdc" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref43_ce3" level="file">
+          <did>
+            <unittitle>Hugo Ferchau, 1956-1967</unittitle>
+            <container id="aspace_47bc29bbcf1592ee570bc09b0302869a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref44_t3v" level="file">
+          <did>
+            <unittitle>Edward Flaccus, 1955-1968</unittitle>
+            <container id="aspace_b0b3ab5ee7d9b2f0c74404794efebd55" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref45_b4c" level="file">
+          <did>
+            <unittitle>R. F. Flint, 1937-1946</unittitle>
+            <container id="aspace_4817b7e7483adef442158a903ea02f37" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref46_mqk" level="file">
+          <did>
+            <unittitle>Richard T. Forman, 1959-1966</unittitle>
+            <container id="aspace_7b6e5ce257e7a5b519132b2bc07808d8" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref47_rwm" level="file">
+          <did>
+            <unittitle>W. H. Freeman and Co., 1946-1968 (2 folders)</unittitle>
+            <container id="aspace_b90ad489c8d64cc1b12437cb11f1f804" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref48_wry" level="file">
+          <did>
+            <unittitle>G: Miscellaneous, 1953-1954, 1960, 1965, 1968</unittitle>
+            <container id="aspace_5076e03029935245d57a62049cec29fe" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref49_sfh" level="file">
+          <did>
+            <unittitle>Wendell Gauger, 1967</unittitle>
+            <container id="aspace_5f1c30cdd20c3e95474a8285cb9579eb" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref50_qwx" level="file">
+          <did>
+            <unittitle>Ben F. Graham, 1954-1964</unittitle>
+            <container id="aspace_307f21af305c99c1dc36ca4c55063e44" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref51_d8a" level="file">
+          <did>
+            <unittitle>Great Lakes Colleges Association, 1962</unittitle>
+            <container id="aspace_53a9e1db7d14b6cf7cb8338b1341b5f3" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref52_phh" level="file">
+          <did>
+            <unittitle>H: Miscellaneous, 1965, 1967, 1968</unittitle>
+            <container id="aspace_a2abedf5ac074087abacef9774eaf6bc" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref53_6sl" level="file">
+          <did>
+            <unittitle>R. M. Harper, 1939-1959</unittitle>
+            <container id="aspace_26b5cca3130d8efa01155815e66d8f3c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref54_i35" level="file">
+          <did>
+            <unittitle>Dexter W. Hess, 1952-1962</unittitle>
+            <container id="aspace_5523bbfacdc3b72277f7cdde52ec7ffe" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref55_ufe" level="file">
+          <did>
+            <unittitle>Highlands Biological Station Executive Committee, 1966-1967</unittitle>
+            <container id="aspace_30e272f54776f30feff778bf1282da20" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref56_uw6" level="file">
+          <did>
+            <unittitle>N. Hotchkiss, 1929-1944</unittitle>
+            <container id="aspace_5628a28f085bcbbb5d05bc45e271b531" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref57_68s" level="file">
+          <did>
+            <unittitle>R. R. Humphrey, 1932-1954</unittitle>
+            <container id="aspace_a993a30de5289a5564dd1a3fb2aee260" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref58_fog" level="file">
+          <did>
+            <unittitle>Mary Humphreys, 1936-1964</unittitle>
+            <container id="aspace_56c0852e48ba0bfa9d2cff1cce54cba5" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref59_0vz" level="file">
+          <did>
+            <unittitle>I: Miscellaneous, 1960-1961</unittitle>
+            <container id="aspace_593c86a8fc3c1f4822addec37e5bfed7" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref60_ol7" level="file">
+          <did>
+            <unittitle>J: Miscellaneous, 1955</unittitle>
+            <container id="aspace_1cd2e1528f49c32c81b3baea4c11cb48" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref61_yg6" level="file">
+          <did>
+            <unittitle>Thomas Johnsen, Jr., 1955-1962 (surname spelled with an "e" and not
+              "o")</unittitle>
+            <container id="aspace_85521e68643624eb3007ccee89f093f1" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref62_ri8" level="file">
+          <did>
+            <unittitle>Philip L. Johnson, 1957-1966</unittitle>
+            <container id="aspace_a961d43d6915f86b8a9b8d60529081bc" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref63_6zz" level="file">
+          <did>
+            <unittitle>K: Miscellaneous, 1961-1963, 1968</unittitle>
+            <container id="aspace_d9a68fe3f9b2f38879930207cdb83c2a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref64_v4s" level="file">
+          <did>
+            <unittitle>Catherine Keever, 1957-1964</unittitle>
+            <container id="aspace_57cc23e5d7400940e6cb359364e46d07" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref65_ou8" level="file">
+          <did>
+            <unittitle>Charles Kettering, 1964</unittitle>
+            <container id="aspace_3ced0c4d43452e827d18ecf28d2360d9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref66_crt" level="file">
+          <did>
+            <unittitle>Lionel Klikoff, 1959-1967</unittitle>
+            <container id="aspace_0a86673b7ae8012c5f06351c1b84d5d9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref67_nhr" level="file">
+          <did>
+            <unittitle>President Douglas Knight, 1965-1966</unittitle>
+            <container id="aspace_4ace71627845f7166b5a33b30da9dde7" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref68_jn9" level="file">
+          <did>
+            <unittitle>Jan Kornas, 1960-1966</unittitle>
+            <container id="aspace_8b87dc4a2988a34bb0338e321baf93a9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref69_o89" level="file">
+          <did>
+            <unittitle>Norman E. Kowal, 1958-1968</unittitle>
+            <container id="aspace_e4bb731ff79fe85a25a0c4bb6b9badfb" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref70_kyz" level="file">
+          <did>
+            <unittitle>L: Miscellaneous, 1953-1961, 1968</unittitle>
+            <container id="aspace_243f445b9fb88c68a0753ecaa27cbb23" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref71_k6y" level="file">
+          <did>
+            <unittitle>George LaRoi, 1958-1968</unittitle>
+            <container id="aspace_c9b2cd386a83b7b6e49410ff97492c5c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref72_inw" level="file">
+          <did>
+            <unittitle>Robert M. Linn, 1951-1967</unittitle>
+            <container id="aspace_7adf9c57be10205c74cbc5289c7e0f59" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref73_2wk" level="file">
+          <did>
+            <unittitle>R. B. Livingston, 1940-1968</unittitle>
+            <container id="aspace_34c0fecfafd684c3a19f42b55a86afb7" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref74_50t" level="file">
+          <did>
+            <unittitle>M: Miscellaneous, 1962, 1966</unittitle>
+            <container id="aspace_c0612315c4450b0961a6843879aa2158" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref75_oq5" level="file">
+          <did>
+            <unittitle>Alan F. Mark, 1958-1968</unittitle>
+            <container id="aspace_c53faf5db5ba007fe050795defd3e6e9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref76_lrv" level="file">
+          <did>
+            <unittitle>J. W. Marr, 1952-1956</unittitle>
+            <container id="aspace_18b19a662bd65fd7fb6bd301c8faf361" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref77_sug" level="file">
+          <did>
+            <unittitle>James S. Martin, 1961-1962</unittitle>
+            <container id="aspace_c8b6ef121a3207d0265dade00a367254" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref78_c2w" level="file">
+          <did>
+            <unittitle>James McCleary, 1960-1968</unittitle>
+            <container id="aspace_3ae3df53aeb006e521d01f6375a04af7" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref79_y2b" level="file">
+          <did>
+            <unittitle>R. E. McDermott, 1954-1964</unittitle>
+            <container id="aspace_4d754a225f4b1a467f1b191d7b745b4f" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref80_hxz" level="file">
+          <did>
+            <unittitle>Cal McMillan, 1959</unittitle>
+            <container id="aspace_08c289c563a788fb7ad0d325638c16bd" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref81_jyk" level="file">
+          <did>
+            <unittitle>Rogers McVaugh, 1935-1957</unittitle>
+            <container id="aspace_3f102dd4f0e2a591634d76e3d1102d61" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref82_xyp" level="file">
+          <did>
+            <unittitle>Harold Mooney, 1959-1966</unittitle>
+            <container id="aspace_2723d16e34c355013c447a62f2a7dd58" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref83_xm9" level="file">
+          <did>
+            <unittitle>T. B. Mowbray, 1963-1968</unittitle>
+            <container id="aspace_453f05cd8a3c6557c24ebd059766996c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref84_7ok" level="file">
+          <did>
+            <unittitle>Walter F. Mueggler, 1957-1961</unittitle>
+            <container id="aspace_0981ca4d45b92d8179675ac05aaa4d3c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref85_du5" level="file">
+          <did>
+            <unittitle>N: Miscellaneous, 1961-1963, 1968</unittitle>
+            <container id="aspace_cfb5c08df496f7bf49eabcfb21c3f4d1" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref86_izg" level="file">
+          <did>
+            <unittitle>National Geographic Magazine, 1963</unittitle>
+            <container id="aspace_6480fbe4f24a20f0832b149833d70780" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref87_s3z" level="file">
+          <did>
+            <unittitle>The Nature Conservancy, 1960</unittitle>
+            <container id="aspace_37a13c5a3b6488c17e4db73b035f8319" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref88_83s" level="file">
+          <did>
+            <unittitle>Aubrey W. Naylor, 1958, 1966</unittitle>
+            <container id="aspace_72bbc225edec00ad78bebf6ff2e2b08c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref89_ffb" level="file">
+          <did>
+            <unittitle>Daniel Norris, 1955-1961</unittitle>
+            <container id="aspace_b8a0e4c2b7bbfc3297929c4d5d2e62d5" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref90_ow2" level="file">
+          <did>
+            <unittitle>O: Miscellaneous, 1961-1962</unittitle>
+            <container id="aspace_2c2273b0d8d9c8de9e67e1dd2b834047" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref91_d63" level="file">
+          <did>
+            <unittitle>Charles E. Olmstead, 1942-1945</unittitle>
+            <container id="aspace_77a11f3685c7cac46d96dda5abb36387" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref92_j48" level="file">
+          <did>
+            <unittitle>Jan Kurt Oosting, 1939-1968</unittitle>
+            <container id="aspace_dbbbd5d3c5d2796ff681d41cac7acdbe" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref93_xmb" level="file">
+          <did>
+            <unittitle>Joy Oosting, 1942-1955</unittitle>
+            <container id="aspace_34d67275de815b951ef82418a55171aa" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref94_fdb" level="file">
+          <did>
+            <unittitle>Melvin Oosting, 1933-1940, undated</unittitle>
+            <container id="aspace_e1ff23d86907d012868ed775b26b3da7" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref95_4gv" level="file">
+          <did>
+            <unittitle>Lauce Oosting, 1932-1937</unittitle>
+            <container id="aspace_805387d2867876b70366e5427b4ee8dd" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref96_h9a" level="file">
+          <did>
+            <unittitle>William Owsley, 1963-1964</unittitle>
+            <container id="aspace_1e9b1bea559ee5c1ee07c52791047765" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref97_mhw" level="file">
+          <did>
+            <unittitle>P: Miscellaneous, 1962, 1968</unittitle>
+            <container id="aspace_0f00aa5f91d3b829879897ad9a2ed4d9" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref98_d89" level="file">
+          <did>
+            <unittitle>S. C. Pandeya, 1967</unittitle>
+            <container id="aspace_44651f5cfd8699030b72d6cb3ad94b52" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref99_ufa" level="file">
+          <did>
+            <unittitle>Duncan Patten, 1958-1965</unittitle>
+            <container id="aspace_d4835fdb468bac9c004c39f617b50b0a" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref100_4wt" level="file">
+          <did>
+            <unittitle>E. Gibbes Patton, 1953-1966</unittitle>
+            <container id="aspace_f042547f21305855a880f5459d174f84" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref101_70p" level="file">
+          <did>
+            <unittitle>Jane Philpott, 1956-1961</unittitle>
+            <container id="aspace_20e234292fb8dc0f91794c8514fd8ab2" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref102_rys" level="file">
+          <did>
+            <unittitle>R. B. Platt, 1952-1967</unittitle>
+            <container id="aspace_52dfcbbe64df2a447116d32036e318e5" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref103_o10" level="file">
+          <did>
+            <unittitle>Nicholas Polunin, 1957</unittitle>
+            <container id="aspace_d40c329a25f282bdd6d65112f9e0e994" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref104_ce6" level="file">
+          <did>
+            <unittitle>Robert W. Powell, 1962-1963</unittitle>
+            <container id="aspace_6d6e4f4d57264bb44732c91539e21100" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref105_oam" level="file">
+          <did>
+            <unittitle>F. W. Preston, 1953-1966, 1968</unittitle>
+            <container id="aspace_04db6aed6cf43e5fc60c65a785f1e263" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref106_w5j" level="file">
+          <did>
+            <unittitle>Elsie Quarterman, 1953-1967</unittitle>
+            <container id="aspace_5f972cacab11b7234255c2dcef113cb1" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref107_hsm" level="file">
+          <did>
+            <unittitle>R: Miscellaneous, 1935-1962, 1968</unittitle>
+            <container id="aspace_eadc86daff33ce3e8f1c25681286f01b" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref108_3x8" level="file">
+          <did>
+            <unittitle>Patricia Raff, 1956</unittitle>
+            <container id="aspace_c66595b8ea020eb96777e29954f176af" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref109_t12" level="file">
+          <did>
+            <unittitle>Patricia Rand, 1962-1966</unittitle>
+            <container id="aspace_d91596b3b89644395c9f9a901460f7ff" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref110_uz8" level="file">
+          <did>
+            <unittitle>Allen Rebuck, 1952-1966</unittitle>
+            <container id="aspace_021533e481ad3d77bb14a3555e472e12" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref111_7ld" level="file">
+          <did>
+            <unittitle>J. F. Reed, 1934-1968</unittitle>
+            <container id="aspace_063161da42edc6fdf6e3fa2f8bcd2d68" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref112_fgs" level="file">
+          <did>
+            <unittitle>Richard Rhoades, 1961-1967</unittitle>
+            <container id="aspace_47a8db2dfaba700c8ead14e68cda8b09" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref113_bwg" level="file">
+          <did>
+            <unittitle>Patricia Roberts, 1954-1962</unittitle>
+            <container id="aspace_54a5c85ccf952cd6396f1bc93997b789" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref114_31w" level="file">
+          <did>
+            <unittitle>S: Miscellaneous, 1961-1962</unittitle>
+            <container id="aspace_3f9ee2a5581efe248e421a5930ea40cc" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref115_qqv" level="file">
+          <did>
+            <unittitle>Wilf Schofield, 1956-1961</unittitle>
+            <container id="aspace_be1ba85903613c380b7ef4fdc2343421" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref116_ap0" level="file">
+          <did>
+            <unittitle>R. M. Schuster, 1954-1962</unittitle>
+            <container id="aspace_185b78589ba149bca9debd77dbdbdfb9" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref117_zfw" level="file">
+          <did>
+            <unittitle>A. J. Sharp, 1942-1943</unittitle>
+            <container id="aspace_392b7ef78f67cab090053cce3dac08af" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref118_1ay" level="file">
+          <did>
+            <unittitle>Napier Shelton, 1960-1964</unittitle>
+            <container id="aspace_7846c0b274a98db44da5715b88a7187e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref119_l4s" level="file">
+          <did>
+            <unittitle>John P. Shontz, 1967-1968</unittitle>
+            <container id="aspace_046508a78a7430df263d085caa09e6fa" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref120_6pp" level="file">
+          <did>
+            <unittitle>Ben Smith, 1968</unittitle>
+            <container id="aspace_aa3c292c1e0a9e204398d118771320d0" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref121_51y" level="file">
+          <did>
+            <unittitle>Harold St. John, 1940-1941, 1945</unittitle>
+            <container id="aspace_3a49e069a322214eaf9e7e5fbfd30aef" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref122_bsm" level="file">
+          <did>
+            <unittitle>W. C. Steere, 1949, 1952</unittitle>
+            <container id="aspace_6440aec8288e42f67267475f85a294a2" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref123_qag" level="file">
+          <did>
+            <unittitle>A. D. Stoesz, 1931-1956</unittitle>
+            <container id="aspace_8ff22040fc15eb40e649edd9d747e55c" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref124_nob" level="file">
+          <did>
+            <unittitle>T: Miscellaneous, 1919, 1948</unittitle>
+            <container id="aspace_c4095e0548fdda241a624980ac26136f" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref125_y2u" level="file">
+          <did>
+            <unittitle>A. Tamsalu, 1953, 1957</unittitle>
+            <container id="aspace_2cd64963c97fe846d89d1850698ea980" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref126_d1q" level="file">
+          <did>
+            <unittitle>Oswald Tippo, 1959</unittitle>
+            <container id="aspace_0c4fde551fe44e4f03f9944b70e35004" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref127_c0h" level="file">
+          <did>
+            <unittitle>U: Miscellaneous, 1967</unittitle>
+            <container id="aspace_0271c008a23195e6dc6c49b89b34ad35" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref128_bf5" level="file">
+          <did>
+            <unittitle>V: Miscellaneous, 1928-1967</unittitle>
+            <container id="aspace_c3d2c35e89495258b22e3109ae7392ba" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref129_gae" level="file">
+          <did>
+            <unittitle>Olli Vaartaja, 1952</unittitle>
+            <container id="aspace_9b9665ac3eec8caa5fbd863d26276ac8" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref130_ac2" level="file">
+          <did>
+            <unittitle>Dr. H. P. van der Schyff, 1960</unittitle>
+            <container id="aspace_4a766360985af191dc372cd3d4a33a12" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref131_7w9" level="file">
+          <did>
+            <unittitle>J. J. van Wyck, 1960-1967</unittitle>
+            <container id="aspace_018ad718d056c1719601c27f316f4b3f" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref132_l8f" level="file">
+          <did>
+            <unittitle>V. Eugene Vivian, 1962-1967</unittitle>
+            <container id="aspace_e44bead6e479ba9fead552d2e7fb3f82" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref133_nas" level="file">
+          <did>
+            <unittitle>W: Miscellaneous, 1966, 1968</unittitle>
+            <container id="aspace_3631a9bffac56f3457d59f0187e4e00b" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref134_5rt" level="file">
+          <did>
+            <unittitle>Richard Wagner, 1955-1966</unittitle>
+            <container id="aspace_414944c336b1c60260c37bd5ae2c0147" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref135_sbm" level="file">
+          <did>
+            <unittitle>P. F. Wareing, 1960-1961</unittitle>
+            <container id="aspace_0cfabfdd9f763bc757ba06df877af309" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref136_dyd" level="file">
+          <did>
+            <unittitle>John Warren, 1954-1964</unittitle>
+            <container id="aspace_166bca10b43eeffa0730e5dcd62fcadc" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref137_or9" level="file">
+          <did>
+            <unittitle>A. Lincoln Washburn, 1937-1946</unittitle>
+            <container id="aspace_01b62b05566c7b3589aa13c6e90f0528" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref138_1og" level="file">
+          <did>
+            <unittitle>T. E. Weier, 1943</unittitle>
+            <container id="aspace_40bc3be5cd7b0caba0e65773af5d5de9" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref139_1gy" level="file">
+          <did>
+            <unittitle>Bruce Welch, 1959-1966</unittitle>
+            <container id="aspace_b873364b150bcb407a7326596b58da72" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref140_cqh" level="file">
+          <did>
+            <unittitle>B. W. Wells, 1932-1954</unittitle>
+            <container id="aspace_3cf75d0b1bf45b1ce4fde060d4ac57b4" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref141_ya8" level="file">
+          <did>
+            <unittitle>Philip Wells, 1958-1962</unittitle>
+            <container id="aspace_ae61c9bb0125e230b6e0a420f5d03ada" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref142_jbm" level="file">
+          <did>
+            <unittitle>George Woodwell, 1953-1967</unittitle>
+            <container id="aspace_fcdff44db1b00450ee6fc74a7f1684ec" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref143_c2n" level="file">
+          <did>
+            <unittitle>Charley Wu, 1957-1958</unittitle>
+            <container id="aspace_1ad8fb71bbb2f927c44d78012f904919" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref144_jex" level="file">
+          <did>
+            <unittitle>John Yarborough, 1966, 1968</unittitle>
+            <container id="aspace_108874a60922f04b0dc35452084fd41e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref145_hro" level="file">
+          <did>
+            <unittitle>Fredrick F. Yonkman, 1945, 1954</unittitle>
+            <container id="aspace_5e6cd2a0d61974c7d34c9fb2b7b5052a" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref146_rmy" level="file">
+          <did>
+            <unittitle>H. E. Young, 1959-1968</unittitle>
+            <container id="aspace_130c973ea2332df8bf937cd035f29f6b" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref147_nri" level="series">
+        <did>
+          <unittitle>Subject files</unittitle>
+          <unitdate>1924-1967</unitdate>
+        </did>
+        <c02 id="aspace_ref148_vqz" level="file">
+          <did>
+            <unittitle>Beaufort, 1947 Summer</unittitle>
+            <container id="aspace_f46a529d90f47e0e483d91997da9246e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref149_7d3" level="file">
+          <did>
+            <unittitle>Botany Seminar on NC Vegetation, 1949</unittitle>
+            <container id="aspace_d2ea8f141095fbaecc02728a89279733" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref150_igu" level="file">
+          <did>
+            <unittitle>Botany Space Committee (Duke), 1965</unittitle>
+            <container id="aspace_96428028668a91c274d89bc0a8cdd3e5" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref151_bqg" level="file">
+          <did>
+            <unittitle>Classroom Materials, 1962-1964</unittitle>
+            <container id="aspace_fd4d944aec65df2b0faee76b1c9eb788" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref152_tu6" level="file">
+          <did>
+            <unittitle>J. P. Decker, 1962</unittitle>
+            <container id="aspace_e0914d3c263e294b01cfb5ab18dabee5" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref153_2m8" level="file">
+          <did>
+            <unittitle>Duke Forest: Checklist, 1943</unittitle>
+            <container id="aspace_1995ca6b549899a84ba061b166421dd1" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref154_nq4" level="file">
+          <did>
+            <unittitle>Duke Insurance, 1966 Mar. 25</unittitle>
+            <container id="aspace_4b0c5d23b9276e7f3f69e8fc13b0cf3e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref155_f6h" level="file">
+          <did>
+            <unittitle>East Campus Ad Hoc Committee, 1963</unittitle>
+            <container id="aspace_1e55ef952b68332fefb237a9aec6aa7e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref156_kcy" level="file">
+          <did>
+            <unittitle>Ecological Society, 1957, 1963</unittitle>
+            <container id="aspace_ab721dac749d5d2c55bba7d62bee287d" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref157_ht9" level="file">
+          <did>
+            <unittitle>Field Botany Class for High School Teachers, 1965-1966</unittitle>
+            <container id="aspace_e2ccd333e472e9009dee263ad5187246" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref158_gov" level="file">
+          <did>
+            <unittitle>M. L. Grant Photographs of Hawaii, 1934</unittitle>
+            <container id="aspace_d0f45d712b5af573794c216f91334e9b" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref159_h5a" level="file">
+          <did>
+            <unittitle>Grass Ecology, 1933</unittitle>
+            <container id="aspace_29c23d21b27c8c7c18418e19d428789f" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref160_o0v" level="file">
+          <did>
+            <unittitle>Highlands Biological Station, 1957-1961 (3 folders)</unittitle>
+            <container id="aspace_7e314d896e01fc5bfeb1ea71ec346e0e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref161_c6b" level="file">
+          <did>
+            <unittitle>Highlands Biological Station: Research Committee, 1962</unittitle>
+            <container id="aspace_97a150f9a42a79746b89f8de6ad07300" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref162_ckc" level="file">
+          <did>
+            <unittitle>Highlands Biological Station: Gorge Grant, 1960-1964 (4 folders)</unittitle>
+            <container id="aspace_f349a30b2f302b533fa67178b31baf24" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref163_wg8" level="file">
+          <did>
+            <unittitle>Highlands Biological Station: Trustees, General Information,
+              1960-1965</unittitle>
+            <container id="aspace_f926f1a8862d3d7c5006e050ead1021f" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref164_pvq" level="file">
+          <did>
+            <unittitle>Lake Junaluska, 1934-1939</unittitle>
+            <container id="aspace_ef80831a5bb9fb9dec87d923a53062a7" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref165_uv3" level="file">
+          <did>
+            <unittitle>Michigan State Sem. Bot., 1955</unittitle>
+            <container id="aspace_c0a183739c7a334f72f79c48b388c3dc" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref166_bpz" level="file">
+          <did>
+            <unittitle>Michigan State Surface Formation Map, 1924</unittitle>
+            <container id="aspace_1373843c9b056e1db527a93301a7d661" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref167_ssv" level="file">
+          <did>
+            <unittitle>National Science Foundation Application/Grant on Venus Fly-Trap,
+              1955-1958</unittitle>
+            <container id="aspace_3d308f4fedab04d21422f7d676979efa" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref168_l3a" level="file">
+          <did>
+            <unittitle>National Science Foundation Grant on Venus Fly-Trap Photographs, circa
+              1957-1958</unittitle>
+            <container id="aspace_524a89dbdd8f4a8c44f7f284d0da10c2" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref169_2sh" level="file">
+          <did>
+            <unittitle>National Science Foundation Proposal for Gorge Research,
+              1963-1964</unittitle>
+            <container id="aspace_b24a61b7de1dacfba74df83ca1236a17" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref170_j2m" level="file">
+          <did>
+            <unittitle>National Science Foundation, 1967 (3 folders)</unittitle>
+            <container id="aspace_92d0208c9bec69a613ec2d616c5a40e6" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref171_quo" level="file">
+          <did>
+            <unittitle>Natural Area Committee of Duke Univ., 1959-1963</unittitle>
+            <container id="aspace_dc864292a551565708052f49c850ef8d" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref172_74k" level="file">
+          <did>
+            <unittitle>N. C. Academy of Science, 1966</unittitle>
+            <container id="aspace_5ed4709c51a495567634a983e1d65cc3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref173_6z0" level="file">
+          <did>
+            <unittitle>New Hampshire, Univ. of, 1962-1963</unittitle>
+            <container id="aspace_787daffb3e1e33b37f2905e9f2c9b7b0" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref174_rvd" level="file">
+          <did>
+            <unittitle>Personal Data (CV, etc.)</unittitle>
+            <container id="aspace_9db2cac449363eaf2e5f55728dbc686c" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref175_swi" level="file">
+          <did>
+            <unittitle>Pocomoke Swamp [Delaware] Photographs, undated</unittitle>
+            <container id="aspace_96e677b28365cc077c2e8898bb8212fd" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref176_hom" level="file">
+          <did>
+            <unittitle>Research Council (Duke), 1949-1958 (2 folders)</unittitle>
+            <container id="aspace_e595469e4c561a3469d2461eb1704b71" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref177_v6g" level="file">
+          <did>
+            <unittitle>Research Council (Duke), 1958-1963 (2 folders)</unittitle>
+            <container id="aspace_9610208a27315b90b5759cbf3086b317" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref178_mcj" level="file">
+          <did>
+            <unittitle>Scientific Writing, 1960s</unittitle>
+            <container id="aspace_3f5055d56f563d8d99b7b93d6ca51895" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref179_a68" level="file">
+          <did>
+            <unittitle>V. N. Sukachev, 1961-1962</unittitle>
+            <container id="aspace_abca69ef7128acd4a1f0a5df180691eb" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref180_p21" level="file">
+          <did>
+            <unittitle>TIAA/CREF, 1953</unittitle>
+            <container id="aspace_4d8f8c121a98ce8f86b65bda74608281" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref181_ejp" level="file">
+          <did>
+            <unittitle>World of Nature Series, 1964-1967</unittitle>
+            <container id="aspace_2d4f0aade45572e12fd0444a76213c6d" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref182_x65" level="series">
+        <did>
+          <unittitle>Research files</unittitle>
+          <unitdate> 1930-1967, undated</unitdate>
+        </did>
+        <c02 id="aspace_ref183_wkw" level="file">
+          <did>
+            <unittitle>Ham Lake: Soil Samples, 1930</unittitle>
+            <container id="aspace_ee4b1a751cc8014ea812132a860d30c7" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref184_xup" level="file">
+          <did>
+            <unittitle>Photographs of Unidentified Research Trips (includes images of Oosting and
+              colleagues), circa 1930s</unittitle>
+            <container id="aspace_94f93ee3cb257d84e982a3fc86521a69" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref185_gr5" level="file">
+          <did>
+            <unittitle>Potamogeton [Michigan], circa 1931</unittitle>
+            <container id="aspace_a104d5f7d26e24940270cc5f91d69e8d" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref186_pzt" level="file">
+          <did>
+            <unittitle>Ham Lake: Soil and Mud Samples, circa 1932</unittitle>
+            <container id="aspace_21f6fcddc263271c798bd67b327f951e" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref187_fa8" level="file">
+          <did>
+            <unittitle>Ham Lake, circa 1933</unittitle>
+            <container id="aspace_ef91e6d6830cce5c68c17bed25f75c5a" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref188_goz" level="file">
+          <did>
+            <unittitle>Pilot Mountain, 1934, 1942</unittitle>
+            <container id="aspace_d78898087bc53b7b05c0687560517197" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref189_1zx" level="file">
+          <did>
+            <unittitle>Atmometer and Soil, 1936</unittitle>
+            <container id="aspace_38f889fe567f2e4f146a86d32e4da7a4" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref190_o9e" level="file">
+          <did>
+            <unittitle>Soil Moisture, 1936</unittitle>
+            <container id="aspace_ef3fbe7410c22b2fc4917a20655bcd1d" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref191_fdm" level="file">
+          <did>
+            <unittitle>Jonathan Creek, 1936 June 26</unittitle>
+            <container id="aspace_161846549efb31b6956ff2369c5d3079" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref192_6a3" level="file">
+          <did>
+            <unittitle>Field Ecology (Itasca), circa 1936</unittitle>
+            <container id="aspace_081787fdae19de5fd5c6ad36e923fc8a" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref193_ngu" level="file">
+          <did>
+            <unittitle>Research Ideas: Problems, 1938, undated</unittitle>
+            <container id="aspace_0ec6a2cb2483d2a338d91b42026ed314" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref194_jwr" level="file">
+          <did>
+            <unittitle>Wyoming Timberline (with photographs), 1948</unittitle>
+            <container id="aspace_5b163c11d2e8b8b3b062046331ff87bc" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref247_nwj" level="file">
+          <did>
+            <unittitle>Wyoming - Timberline (RESTRICTED: nitrate negatives)</unittitle>
+            <container id="aspace_8a21801deb5eb12904c1bd93e71e6255" label="Mixed Materials"
+              type="box">6</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4qv3c85w"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming timberline: image 1"
+              xpointer="ark:/87924/r4qv3c85w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4kk94h7c"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming timberline: image 2"
+              xpointer="ark:/87924/r4kk94h7c"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4zs2kj6j"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming timberline: image 3"
+              xpointer="ark:/87924/r4zs2kj6j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4v40k44z"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming timberline: image 4"
+              xpointer="ark:/87924/r4v40k44z"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4qb9vb1r"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming timberline: image 5"
+              xpointer="ark:/87924/r4qb9vb1r"/>
+          </did>
+        </c02>
+        <c02 id="aspace_ref195_kdb" level="file">
+          <did>
+            <unittitle>Wyoming Photographs, circa 1948</unittitle>
+            <container id="aspace_771a3761471be448c45e1382b38e4c50" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref246_jhe" level="file">
+          <did>
+            <unittitle>Wyoming (RESTRICTED: nitrate negatives), circa 1948</unittitle>
+            <container id="aspace_68c3e8c01465ce827c25013b55600865" label="Mixed Materials"
+              type="box">6</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4v97zx27"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 1"
+              xpointer="ark:/87924/r4v97zx27"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4qj78369"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 2"
+              xpointer="ark:/87924/r4qj78369"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4028pj64"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 3"
+              xpointer="ark:/87924/r4028pj64"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4377609w"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 4"
+              xpointer="ark:/87924/r4377609w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4tq5rk2b"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 5"
+              xpointer="ark:/87924/r4tq5rk2b"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4q23r50r"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 6"
+              xpointer="ark:/87924/r4q23r50r"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4zg6gc50"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 7"
+              xpointer="ark:/87924/r4zg6gc50"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4vt1gv5w"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 8"
+              xpointer="ark:/87924/r4vt1gv5w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4vm43304"
+              xlink:role="image-service" xlink:show="new" xlink:title="Wyoming: image 9"
+              xpointer="ark:/87924/r4vm43304"/>
+          </did>
+        </c02>
+        <c02 id="aspace_ref196_mg6" level="file">
+          <did>
+            <unittitle>Southeastern Conifers, circa early 1940s</unittitle>
+            <container id="aspace_2d79821d1b033166cb6e38e0fbbb0d6f" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref197_5zd" level="file">
+          <did>
+            <unittitle>Burn Study: New Hope Creek, 1940-1967</unittitle>
+            <container id="aspace_844355a6fe490658647e94bde02b445e" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref198_wpf" level="file">
+          <did>
+            <unittitle>Transpiration, 1942</unittitle>
+            <container id="aspace_aa75e7bd5712baf6711fd31d28fb9555" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref199_a3m" level="file">
+          <did>
+            <unittitle>Transect Study: Soil Moisture, 1944-1945</unittitle>
+            <container id="aspace_dd29ea32ed6e0e0220841f6e7ef663b1" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref200_cuk" level="file">
+          <did>
+            <unittitle>Spruce-Fir-Medicine Bows, circa 1948-1949 (2 folders)</unittitle>
+            <container id="aspace_69b2eb65e437630ba9174cc58d52deb1" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref201_xzm" level="file">
+          <did>
+            <unittitle>Spruce-Fir-Medicine Bows Photographs, circa 1948-1949</unittitle>
+            <container id="aspace_23696c4b738cbc6ad68b8a0195303c8f" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref202_o5m" level="file">
+          <did>
+            <unittitle>White Pine, Blue Ridge Parkway, 1949</unittitle>
+            <container id="aspace_a016950f71d3ebc118d29837294fc43b" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref203_9sb" level="file">
+          <did>
+            <unittitle>Seedling Environment, 1951</unittitle>
+            <container id="aspace_603ef327927a73dfd39f5402cbab028e" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref204_yv3" level="file">
+          <did>
+            <unittitle>Turkey Oak, 1952</unittitle>
+            <container id="aspace_cb0a5d2edc6543a4a3ddbf3dd4a9a451" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref205_cht" level="file">
+          <did>
+            <unittitle>Field Notes for Joyce Kilmer Forest Study (with photographs), 1953-1956 (3
+              folders)</unittitle>
+            <container id="aspace_207f24e3474a7893e18ed9319e08bb6a" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref206_tl7" level="file">
+          <did>
+            <unittitle>Maritime Forest Data (with photographs), circa 1955</unittitle>
+            <container id="aspace_d1624d52dc90a32b68a87cd00a5ca375" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref207_bqh" level="file">
+          <did>
+            <unittitle>Hydrobiology Reading Notes, undated</unittitle>
+            <container id="aspace_b6c3dd092bb720f71fc1f097f502e998" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref208_v0r" level="file">
+          <did>
+            <unittitle>Pulpwood Data [Maine], undated</unittitle>
+            <container id="aspace_6d1b9a8c9962e65a295d0f698068d646" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref209_txj" level="file">
+          <did>
+            <unittitle>Pulpwood Data [Maine] Photographs, undated</unittitle>
+            <container id="aspace_a7481239b2acf1c41e4ccc0d9edbd32e" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref248_0uo" level="file">
+          <did>
+            <unittitle>Pulpwood Data (RESTRICTED: nitrate negatives) (7 sleeves)</unittitle>
+            <container id="aspace_1df29c3ac10c75e3bf2b560a28f2d6a6" label="Mixed Materials"
+              type="box">6</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4r20s21g"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, pasture spruce interior: old wolf tree in forest"
+              xpointer="ark:/87924/r4r20s21g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40k26h0w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, pasture spruce interior: image 2"
+              xpointer="ark:/87924/r40k26h0w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4xw48191"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, pasture spruce interior: image 3"
+              xpointer="ark:/87924/r4xw48191"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r42j68919"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, pasture spruce interior: image 4"
+              xpointer="ark:/87924/r42j68919"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4t43j76p"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, pasture spruce interior: image 5"
+              xpointer="ark:/87924/r4t43j76p"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4pc2tf2j"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, pasture spruce interior: lycopodium cornus [?] in opening"
+              xpointer="ark:/87924/r4pc2tf2j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4125qf6c"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, 5-year cutting of mixed spruce hardwood: image 1"
+              xpointer="ark:/87924/r4125qf6c"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4w950t2v"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, 5-year cutting of mixed spruce hardwood: image 2"
+              xpointer="ark:/87924/r4w950t2v"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4rn30c9v"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, 5-year cutting of mixed spruce hardwood: image 3"
+              xpointer="ark:/87924/r4rn30c9v"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4p26q82g"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, 5-year cutting of mixed spruce hardwood: image 4"
+              xpointer="ark:/87924/r4p26q82g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4610vx35"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, 5-year cutting of mixed spruce hardwood: image 5"
+              xpointer="ark:/87924/r4610vx35"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r42805409"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, 5-year cutting of mixed spruce hardwood: image 6"
+              xpointer="ark:/87924/r42805409"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4xg9fg67"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, 5-year cutting of mixed spruce hardwood: image 7"
+              xpointer="ark:/87924/r4xg9fg67"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r42v2cg0w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Spruce hardwood quad series, 2-year cutting in same stand: image 1"
+              xpointer="ark:/87924/r42v2cg0w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4z31nt56"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Spruce hardwood quad series, 2-year cutting in same stand: image 2"
+              xpointer="ark:/87924/r4z31nt56"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4tb0z100"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Spruce hardwood quad series, 2-year cutting in same stand: image 3"
+              xpointer="ark:/87924/r4tb0z100"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4s46hb6f"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Spruce hardwood quad series, 2-year cutting in same stand: image 4"
+              xpointer="ark:/87924/r4s46hb6f"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41n7xs40"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Spruce hardwood quad series, 2-year cutting in same stand: image 5"
+              xpointer="ark:/87924/r41n7xs40"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r45d8nk7n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Spruce hardwood quad series, 2-year cutting in same stand: image 6"
+              xpointer="ark:/87924/r45d8nk7n"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4ww7750w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Spruce hardwood quad series, 2-year cutting in same stand: image 7"
+              xpointer="ark:/87924/r4ww7750w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r43b5wd3x"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce hardward, Penley lot: image 1"
+              xpointer="ark:/87924/r43b5wd3x"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4zk55r89"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce hardward, Penley lot: image 2"
+              xpointer="ark:/87924/r4zk55r89"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4tt4fz45"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce hardward, Penley lot: image 3"
+              xpointer="ark:/87924/r4tt4fz45"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r43t9db9g"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce hardward, Penley lot: image 4"
+              xpointer="ark:/87924/r43t9db9g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4qn5zh1t"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce flat: image 1"
+              xpointer="ark:/87924/r4qn5zh1t"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4vd6p930"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce flat: image 2"
+              xpointer="ark:/87924/r4vd6p930"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4028pj7m"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce flat: image 3"
+              xpointer="ark:/87924/r4028pj7m"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r48s4jt87"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 1"
+              xpointer="ark:/87924/r48s4jt87"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4513v159"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 2"
+              xpointer="ark:/87924/r4513v159"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4wm13z9v"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 3"
+              xpointer="ark:/87924/r4wm13z9v"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41c1tm30"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 4"
+              xpointer="ark:/87924/r41c1tm30"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41v5bk0n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 5"
+              xpointer="ark:/87924/r41v5bk0n"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4x34mx4g"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 6"
+              xpointer="ark:/87924/r4x34mx4g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r45m62c58"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 7"
+              xpointer="ark:/87924/r45m62c58"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40p0ww5s"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 8"
+              xpointer="ark:/87924/r40p0ww5s"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4vx06793"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 9"
+              xpointer="ark:/87924/r4vx06793"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4862bh1q"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 10"
+              xpointer="ark:/87924/r4862bh1q"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r44f1mp8f"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 11"
+              xpointer="ark:/87924/r44f1mp8f"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4639k989"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 12"
+              xpointer="ark:/87924/r4639k989"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r42b8vh45"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Pulpwood Data: Maine, spruce tops, Brust Mtn, &quot;Gen of Black Tops,&quot; wind-shaped marginal individuals, mats inside forest, interior where same soil and best development of trees: image 13"
+              xpointer="ark:/87924/r42b8vh45"/>
+          </did>
+        </c02>
+        <c02 id="aspace_ref210_7gt" level="file">
+          <did>
+            <unittitle>Research Notes, undated</unittitle>
+            <container id="aspace_2132aeb00b4010e6c3d1ad7c5de431aa" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref211_miu" level="file">
+          <did>
+            <unittitle>Piedmont Review for Botany Rev., undated</unittitle>
+            <container id="aspace_7486033fdd565ea9cf34342b1c91cdd8" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref212_fzz" level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+          <unitdate>circa 1930-circa 1960s, undated</unitdate>
+        </did>
+        <c02 id="aspace_ref213_ud0" level="file">
+          <did>
+            <unittitle>"Physical-Chemical Variables in a Minnesota Lake," circa
+              1930-1931</unittitle>
+            <container id="aspace_3977e173989e20ceaee8e73624d202b3" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref214_evq" level="file">
+          <did>
+            <unittitle>"A Limnological Study of Ham Lake with Special Emphasis Upon the Flowering
+              Plants," 1931 June</unittitle>
+            <container id="aspace_38bcf60cf896825d56fde9633bf98366" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref215_slj" level="file">
+          <did>
+            <unittitle>"Distribution of the Genus Potamogeton in Michigan," 1931</unittitle>
+            <container id="aspace_595025967247a04ca8baf928e5845692" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref216_vag" level="file">
+          <did>
+            <unittitle>"Distribution of Aquatic Flowering Plants in Relation to the Substratum,"
+              circa 1932-1933</unittitle>
+            <container id="aspace_a0f4af728054dc887bb385607850f04c" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref217_m12" level="file">
+          <did>
+            <unittitle>"Ecology in Relation to Botany in General," 1950</unittitle>
+            <container id="aspace_5730bf8bcd8e9395d6f64d951e07a719" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref218_rji" level="file">
+          <did>
+            <unittitle>"Ecological Processes and Vegetation of the Maritime Strand in the
+              Southeastern United States," 1953-1954</unittitle>
+            <container id="aspace_e4bb30041d80ee15b38b78a37fa0e5a4" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref219_5wu" level="file">
+          <did>
+            <unittitle>"The Maritime Live Oak Forest in NC," (with Philippe F. Bourdeau) (with
+              photographs), 1958, 1959 (2 folders)</unittitle>
+            <container id="aspace_b21f4609f5b492d84482de59a28e8940" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref220_jck" level="file">
+          <did>
+            <unittitle>"Responses of Venus Fly Trap (Dionea Muscipula) to Factors Involved in Its
+              Endemism," (with Patricia Roberts), circa 1958</unittitle>
+            <container id="aspace_f766b966357333ba4ec07a92dff3eb7d" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref221_n2o" level="file">
+          <did>
+            <unittitle>Outlines for talks, circa 1960s (2 folders)</unittitle>
+            <container id="aspace_262a52b2c86a7c25d9b72c6e4a62719c" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref222_6wv" level="file">
+          <did>
+            <unittitle>Book Manuscript (rough, for 2nd edition), "The Study of Plant Communities,"
+              undated (9 folders)</unittitle>
+            <container id="aspace_3552b3f271692e8f90841551b5a1b29b" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref223_6bf" level="file">
+          <did>
+            <unittitle>Sampling, undated</unittitle>
+            <container id="aspace_2bccae887441650b36a6a616e8a322fb" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref224_xme" level="file">
+          <did>
+            <unittitle>List of Publications from 1932-1958</unittitle>
+            <container id="aspace_7602dae70f15eaef3bbe53a7e2004f94" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_5b9863a1377e4cf6b4da9aabe3f763e4" level="file">
+          <did>
+            <unittitle>"A Guide to the Spring and Early Summer Flora of the Piedmont, North
+              Carolina" by H. L. Blomquist and H. J. Oosting</unittitle>
+            <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Document-Half Letter" id="aspace_bf669156c68e9e77ed89b3000ccba453"
+              label="Mixed Materials [D05070476T]" type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_975424f815cb67568da4e8990c03769d" level="file">
+          <did>
+            <unittitle>"A Guide to the Spring and Early Summer Flora of the Piedmont, North
+              Carolina" by H. L. Blomquist and H. J. Oosting</unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container altrender="Document-Half Letter" id="aspace_ab6f96e9bbde15a78f9f83e21f9093bb"
+              label="Mixed Materials [D05070476T]" type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c1cc9db3294c1ba70dbbdf1b731b4a1f" level="file">
+          <did>
+            <unittitle>"A Guide to the Spring and Early Summer Flora of the Piedmont, North
+              Carolina" by H. L. Blomquist and H. J. Oosting</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Document-Half Letter" id="aspace_90fdd68ea54a930d3835e3076bdf9f8b"
+              label="Mixed Materials [D05070476T]" type="box">7</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref225_272" level="series">
+        <did>
+          <unittitle>Writings and research</unittitle>
+          <unitdate>1940-1955, undated</unitdate>
+        </did>
+        <scopecontent id="aspace_03ae9a52e403eebe42b51c24d99a0bbf">
+          <head>Scope and Contents note</head>
+          <p>This series title applies to folders which contained both research notes and
+            writings.</p>
+        </scopecontent>
+        <c02 id="aspace_ref226_olh" level="file">
+          <did>
+            <unittitle>"Buried Viable Sees in a Sucessional Series of Olf Field and Forest Soils,"
+              (with Mary E. Humphreys), 1940</unittitle>
+            <container id="aspace_a276cbdb7ea041f6acf223e2df97a6e2" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref227_l4w" level="file">
+          <did>
+            <unittitle>"The Establishment of a White Birch Community on Cutover Pulpwood Land in
+              Northwestern Maine," (with John Reed), 1942</unittitle>
+            <container id="aspace_e5640e211f89e327b6aa2d7e04cd170a" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref228_xt9" level="file">
+          <did>
+            <unittitle>"Survival of Pine and Hardwood Seedlings in Forest and Open," (with P. J.
+              Kramer and C. F. Korstian) (with photographs and negatives), 1952</unittitle>
+            <container id="aspace_3a0f8276b57fa0363299b2da3f27b4a4" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref229_2b6" level="file">
+          <did>
+            <unittitle>"Microclimate and a Relic Stand of <emph render="italic">Tsuga
+                Canadensis</emph> in the Lower Piedmont of North Carolina," (with D. W. Hess) (with
+              photographs and negatives), 1955</unittitle>
+            <container id="aspace_f270eceb199fd534eb6bebc5cf95ff82" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref230_so1" level="file">
+          <did>
+            <unittitle>"Tolerance to Salt Spray of Plants of Coastal Dunes," undated</unittitle>
+            <container id="aspace_4bbd2ba1f5b0cf16f681b80abe12b6e0" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref232_h99" level="series">
+        <did>
+          <unittitle>Greenland expedition</unittitle>
+          <unitdate>1936-1941</unitdate>
+        </did>
+        <c02 id="aspace_ref233_9eb" level="file">
+          <did>
+            <unittitle>Correspondence: Louise Boyd, 1937-1941 (2 folders)</unittitle>
+            <container id="aspace_ae3842a8ee0fba45414b87b3a19e1bea" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref234_ctu" level="file">
+          <did>
+            <unittitle>Photographs (contact prints): Images taken by Louise Boyd, 1937 (3 of 4
+              folders)</unittitle>
+            <container id="aspace_b594df16ad35373df7c39b65bf9def44" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref235_wn0" level="file">
+          <did>
+            <unittitle>Photographs (contact prints): Images taken by Louise Boyd, 1937 (1 of 4
+              folders)</unittitle>
+            <container id="aspace_f1e021c2b41b5e36197a931d7352365e" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref236_okc" level="file">
+          <did>
+            <unittitle>Photographs of Moss Rings on Jan Mayen Island taken by Louise Boyd on her
+              Artic Expedition, 1937; Letter, 1938 Apr. 15</unittitle>
+            <container id="aspace_8891ac67513f0a1bdf53346a5cbac38c" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref237_vbp" level="file">
+          <did>
+            <unittitle>Henry Oosting's Diary, 1937 Summer</unittitle>
+            <container id="aspace_25c43d00253322b98621713eb414cfe5" label="Mixed Materials"
+              type="box">5</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r46d5pg7w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Henry Oosting's Diary, 1937 Summer"
+              xpointer="ark:/87924/r46d5pg7w"/>
+          </did>
+        </c02>
+        <c02 id="aspace_ref238_vfd" level="file">
+          <did>
+            <unittitle>Photographs by Henry Oosting and Others, 1937</unittitle>
+            <container id="aspace_71ae8a334d18f3bbd1a25f6ef8ec60d2" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref249_fya" level="file">
+          <did>
+            <unittitle>Nitrate negatives (RESTRICTED), 1937 (16 sleeves)</unittitle>
+            <container id="aspace_34acd218c4b7e982dc6c84f78a0d113d" label="Mixed Materials"
+              type="box">6</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4xk84v9j"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Polarbjorn off mud: image 1"
+              xpointer="ark:/87924/r4xk84v9j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4cj87r2r"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Polarbjorn off mud: image 2"
+              xpointer="ark:/87924/r4cj87r2r"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4445hh7w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Polarbjorn off mud: image 3"
+              xpointer="ark:/87924/r4445hh7w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4gb1xn79"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Polarbjorn off mud: image 4"
+              xpointer="ark:/87924/r4gb1xn79"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4wp9tc09"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 1"
+              xpointer="ark:/87924/r4wp9tc09"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41g0j057"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 2"
+              xpointer="ark:/87924/r41g0j057"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4rx93j6x"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 3"
+              xpointer="ark:/87924/r4rx93j6x"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4hh6cb3n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 4"
+              xpointer="ark:/87924/r4hh6cb3n"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4804xq52"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 5"
+              xpointer="ark:/87924/r4804xq52"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40g3h36g"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 6"
+              xpointer="ark:/87924/r40g3h36g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4ms3k64c"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 7"
+              xpointer="ark:/87924/r4ms3k64c"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4gh9bf4w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 8"
+              xpointer="ark:/87924/r4gh9bf4w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4nv99g5d"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 9"
+              xpointer="ark:/87924/r4nv99g5d"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4sj19w7v"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 10"
+              xpointer="ark:/87924/r4sj19w7v"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4x921p91"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Scenes about ship, walrus, seal, people: image 11"
+              xpointer="ark:/87924/r4x921p91"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4s17sz1r"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Danish station and dogs, Sandodden: image 1"
+              xpointer="ark:/87924/r4s17sz1r"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4n87347s"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Danish station and dogs, Sandodden: image 2"
+              xpointer="ark:/87924/r4n87347s"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4ws8hr62"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Danish station and dogs, Sandodden: image 3"
+              xpointer="ark:/87924/r4ws8hr62"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41j97d2j"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Danish station and dogs, Sandodden: image 4"
+              xpointer="ark:/87924/r41j97d2j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r47s7hx9g"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Danish station and dogs, Sandodden: image 5"
+              xpointer="ark:/87924/r47s7hx9g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40c4sq47"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Danish station and dogs, Sandodden: image 6"
+              xpointer="ark:/87924/r40c4sq47"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4td9nd66"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Danish station and dogs, Sandodden: image 7"
+              xpointer="ark:/87924/r4td9nd66"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r42z12v36"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Maps, Jan Mayen: image 1"
+              xpointer="ark:/87924/r42z12v36"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4z60c69d"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Maps, Jan Mayen: image 2"
+              xpointer="ark:/87924/r4z60c69d"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40v89n8t"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Maps, Jan Mayen: image 3"
+              xpointer="ark:/87924/r40v89n8t"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r48c9r87t"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Pyrola, Blomster Bay: image 1"
+              xpointer="ark:/87924/r48c9r87t"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4w37m135"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Pyrola, Blomster Bay: image 2"
+              xpointer="ark:/87924/r4w37m135"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r44m91g32"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Cassiope mat, Leirevag, Belula, Blomsterbukta: image 1"
+              xpointer="ark:/87924/r44m91g32"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r47659m3f"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Cassiope mat, Leirevag, Belula, Blomsterbukta: image 2"
+              xpointer="ark:/87924/r47659m3f"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4bz61d6s"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Icebergs, Franz Joseph: image 1"
+              xpointer="ark:/87924/r4bz61d6s"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4zp3w54q"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Icebergs, Franz Joseph: image 2"
+              xpointer="ark:/87924/r4zp3w54q"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r43f4kt0s"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Icebergs, Franz Joseph: image 3"
+              xpointer="ark:/87924/r43f4kt0s"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r48w3871k"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Icebergs, Franz Joseph: image 4"
+              xpointer="ark:/87924/r48w3871k"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4542jd74"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice floes, Link, Jim: image 1"
+              xpointer="ark:/87924/r4542jd74"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41c1tm4g"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: &quot;Quest&quot; as she comes out of the fog: image 1"
+              xpointer="ark:/87924/r41c1tm4g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r45q4rr67"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: &quot;Quest&quot; as she comes out of the fog: image 2"
+              xpointer="ark:/87924/r45q4rr67"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4x63bb08"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 1"
+              xpointer="ark:/87924/r4x63bb08"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41z41z4f"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 2"
+              xpointer="ark:/87924/r41z41z4f"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r49c6s591"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 3"
+              xpointer="ark:/87924/r49c6s591"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4gb1xn5b"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 4"
+              xpointer="ark:/87924/r4gb1xn5b"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4348gm9m"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 5"
+              xpointer="ark:/87924/r4348gm9m"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r46w96f2k"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 6"
+              xpointer="ark:/87924/r46w96f2k"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r49z90h71"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 7"
+              xpointer="ark:/87924/r49z90h71"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r46688q36"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 8"
+              xpointer="ark:/87924/r46688q36"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r42f7jw8z"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 9"
+              xpointer="ark:/87924/r42f7jw8z"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4fq9qb0x"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 10"
+              xpointer="ark:/87924/r4fq9qb0x"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r43n20k2w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 11"
+              xpointer="ark:/87924/r43n20k2w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4zw18x7w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 12"
+              xpointer="ark:/87924/r4zw18x7w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r47d2qc74"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 13"
+              xpointer="ark:/87924/r47d2qc74"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4cn6z453"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 14"
+              xpointer="ark:/87924/r4cn6z453"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40c4sq5q"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 15"
+              xpointer="ark:/87924/r40c4sq5q"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4445hh8c"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 16"
+              xpointer="ark:/87924/r4445hh8c"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r47w67b1b"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Ice off Clavering Isle: image 17"
+              xpointer="ark:/87924/r47w67b1b"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r45x25j3c"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Talus slopes, Tyroler Fiord: image 1"
+              xpointer="ark:/87924/r45x25j3c"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4fb4wr6k"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Talus slopes, Tyroler Fiord: image 2"
+              xpointer="ark:/87924/r4fb4wr6k"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4k35mj97"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Talus slopes, Tyroler Fiord: image 3"
+              xpointer="ark:/87924/r4k35mj97"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r49p2wb6n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Eskimo ruins: image 1"
+              xpointer="ark:/87924/r49p2wb6n"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r48g8fp17"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Eskimo ruins: image 2"
+              xpointer="ark:/87924/r48g8fp17"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r44q7qv8z"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Eskimo ruins: image 3"
+              xpointer="ark:/87924/r44q7qv8z"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40z7124m"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Eskimo ruins: image 4"
+              xpointer="ark:/87924/r40z7124m"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4dr2pf1q"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Eskimo ruins: image 5"
+              xpointer="ark:/87924/r4dr2pf1q"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r45717t1j"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: Eskimo ruins: image 6"
+              xpointer="ark:/87924/r45717t1j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4jh3d73w"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: unidentified: image 1"
+              xpointer="ark:/87924/r4jh3d73w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4901zm78"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: unidentified: image 2"
+              xpointer="ark:/87924/r4901zm78"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4b56d924"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: unidentified: image 3"
+              xpointer="ark:/87924/r4b56d924"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r42n4zp3r"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Greenland Expedition: unidentified: image 4"
+              xpointer="ark:/87924/r42n4zp3r"/>
+          </did>
+        </c02>
+        <c02 id="aspace_ref239_f22" level="file">
+          <did>
+            <unittitle>Notes and Records, 1937 (2 folders)</unittitle>
+            <container id="aspace_721ca434ef640a31100b9463f8daed52" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref240_tmc" level="file">
+          <did>
+            <unittitle>Notes and Writings, 1937 (2 folders)</unittitle>
+            <container id="aspace_3bc20cf4b4c0a4bc9612afd7864f11c2" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref241_dsi" level="file">
+          <did>
+            <unittitle>Printed Material and Maps, 1936; Miscellaneous Items, 1937</unittitle>
+            <container id="aspace_29007d101d08707d20f1da1d10211bfa" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref242_752" level="file">
+          <did>
+            <unittitle>Personal Correspondence, 1937</unittitle>
+            <container id="aspace_1be476defbe8ca08b5b3e3b26ce6801f" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref243_qhx" level="file">
+          <did>
+            <unittitle>Clippings, 1937</unittitle>
+            <container id="aspace_5c217b363b8944de169a4f74d95bfec3" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref244_l3i" level="file">
+          <did>
+            <unittitle>Handmade Poster featuring Print Photographs with Identification, 1937 (loose
+              prints were placed in an archival photograph sleeve)</unittitle>
+            <container id="aspace_b497575aaf524c9c1054334b211bf8e9" label="Mixed Materials"
+              type="oversize-folder">1</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

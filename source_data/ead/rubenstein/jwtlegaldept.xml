@@ -1,0 +1,2307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/jwtlegaldept/">jwtlegaldept</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the J. Walter Thompson Company. Legal Department Records,
+               1936-1979 <num>RL.00721</num>
+            </titleproper>
+            <author>Processed by: Ferriss Buck; machine-readable finding aid created by: Jessica
+               Wood</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2009</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003878646</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-04-11 16:38:04
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>J. Walter Thompson Company. Legal Department records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">J. Walter Thompson Company</corpname>
+         </origination>
+         <unitid>RL.00721</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">10.6 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1936/1979" type="inclusive">1936-1979</unitdate>
+         <physloc id="aspace_25746df32c844747056b96ffbd2d5ec5">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_e8e4ca741905d7ad1ccf1e6959fdbb20">Founded in 1864, the J. Walter
+            Thompson Company (JWT) is one of the largest and oldest enduring advertising agencies in
+            the United States. The J. Walter Thompson Company (JWT) Legal Department Records contain
+            releases for models and photographers associated with JWT campaigns between 1936-1979,
+            and especially the 1950s. The collection also contains publications associated with JWT
+            clients which required model releases. Companies represented in the collection include
+            Ford, Gillette, Kodak, Lever Brothers, Pacific Mills (Cocheco Manufacturing Company),
+            Pan American World Airways, Quaker Oats, Radio Corporation of America (RCA), Seven-Up,
+            Singer, and Uncle Ben's. Photographers mentioned or whose work appears in the collection
+            include Richard Avedon, Ralph Bartholomew, Anton Bruehl, Horst, Otto Mayo, Valentino
+            Sarra, and Francesco Scavullo. Acquired as part of the John W. Hartman Center for Sales,
+            Advertising &amp; Marketing History.</abstract>
+         <physdesc id="aspace_f015d8809b972160219652902c705b6e">
+            <extent>7900 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_223f812d060c93ae0f02495f91263fb7">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_bc952d506bb8929d30177bbb6a2f3131">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>However, materials may not be photocopied.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_aebc00f5f15d0f00242353ddbf13e036">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_b6749ac87e523db1cace377c2f9e07cb">
+         <head>Preferred Citation</head>
+         <p>J. Walter Thompson Legal Department Records, 1936-1979, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_a760a7d628982f7728d40bdc658064af">
+         <head>Provenance</head>
+         <p>The J. Walter Thompson Legal Department Records, were pulled from storage by the David
+            M. Rubenstein Rare Book &amp; Manuscript Library in 1986.</p>
+      </acqinfo>
+      <processinfo id="aspace_a114bed5506e4d98d06879ed31229cf2">
+         <head>Processing Information</head>
+         <p>Processed by Ferriss Buck, July 1986</p>
+         <p>Encoded by Jessica Wood, March 2009</p>
+         <p>Accessions 2644, 32A9, 34A2, 34A1, 36A1, 6464, 6612, 68A1, 8107, 8648, 8858, 9578,
+            10363, 10365, 10396, 11165, 12180, 12180, 12874, 12882, 17038, 3342, 10277, 12337,
+            13006, 13746, 13777, 14295, 19029, 22586, 22588, 24764, 25789, 19396, 19397, 19400,
+            16063, 19432, 20851, 20912, 20945, 20963, 20964, 20965, 20966, 20967, 38A15, 63A22,
+            24707, 26821, 34A5, 37B16, 38A16, 39A26, 77A7 were merged into one collection, described
+            in this finding aid. </p>
+      </processinfo>
+      <scopecontent id="aspace_cc9baf15deeb036c698f6680cd678d52">
+         <head>Collection Overview</head>
+         <p>The JWT Legal Department Records date from 1936-1979, with the majority of materials
+            dating from the 1950s. The collection primarily contains release forms, photographs and
+            publications associated with JWT campaigns. The collection also contains routine legal
+            contracts which list the terms of agreement between the client, talent and the J. Walter
+            Thompson Company. Companies represented in the collection include Ford, Gillette, Kodak,
+            Lever Brothers, Pacific Mills (Cocheco Manufacturing Company), Pan American , Quaker
+            Oats, Radio Corporation of America (RCA), Seven-Up, Singer, and Uncle Ben's.
+            Photographers mentioned or whose work appears in the collection include Richard Avedon,
+            Ralph Bartholomew, Anton Bruehl, Horst, Otto Mayo, Valentino Sarra, and Francesco
+            Scavullo. </p>
+         <p>
+            <emph render="bold">Restrictions on Access: </emph> Materials may not be
+            photocopied.</p>
+      </scopecontent>
+      <arrangement id="aspace_0f588d4e49a4d8ed6ff81cfbc5e05a1e">
+         <head>Collection Arrangement</head>
+         <p> The collection is divided into six series: <emph render="bold">Model Releases</emph>,
+               <emph render="bold">Photographers</emph>, <emph render="bold">Publications</emph>,
+               <emph render="bold">Reports</emph>, <emph render="bold">Model-Client-Date
+               Cards</emph>, and <emph render="bold">Overscale Talent Releases</emph>. The <emph
+               render="bold">Model Releases Series</emph> and the <emph render="bold">Photographers
+               Series</emph> contain photographs and photostats of models as they often appeared in
+            an advertisement. Attached to the visual is a signed release by the model specifying the
+            length of the contract, the client and the date. The <emph render="bold">Publications
+               Series</emph> contains an assortment of publications requiring model releases, and
+            especially Ford newsletters from the 1950s. The <emph render="bold">Reports
+               Series</emph> consists of contour sheets for Pacific Mills, as well as a Kodak
+            marketing consideration. The <emph render="bold">Model-Client Date Cards Series</emph>
+            consist of index cards of models used by the various clients. The <emph render="bold"
+               >Overscale Talent Releases Series</emph> include routine legal contracts which list
+            the terms of agreement between the client, talent and the J. Walter Thompson Company.
+            They specify the length of the contract, the client and the date. The bulk of the
+            contracts are in their original format and therefore have actual signatures of the
+            talent. <emph render="doublequote">Overscale</emph> refers to the fact that these
+            contracts remunerated above normal union scale wages.</p>
+         <p>The Model Releases are arranged alphabetically by client and then by model and date. The
+            Photographers files are arranged alphabetically by photographer and then by client and
+            date. The Publications are arranged alphabetically by client and then by the name of the
+            publication and date. Reports are arranged by client. The Model-Client index cards are
+            arranged alphabetically by model in the first two boxes and by client (Kodak only) in
+            the third box. The Overscale Talent Releases are arranged alphabetically by client, then
+            by the talent name and then by date.</p>
+      </arrangement>
+      <separatedmaterial id="aspace_b66a479f304ea96bd5436a361d9067de">
+         <head>Separated Material</head>
+         <p>Correspondence, mundane visuals and releases, and advertisements were removed from the
+            collection. The advertisements were relocated in RG 10 Proof Collection. Drafts of the
+            releases and correspondence pertaining to the releases have been removed from the
+            collection. [Per JWT Archivist notes prior to the transfer of records to Duke
+            University.]</p>
+      </separatedmaterial>
+      <relatedmaterial id="aspace_c1f19288642bed61628fa6fcb610dd59">
+         <head>Related Material</head>
+         <p>Related materials may be found in the following Hartman Center collections of the <emph
+               render="bold">J. Walter Thompson Company Archives</emph>:</p>
+         <p>
+            <extref
+               xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtadvertisingverticalfiles/">
+               <emph render="bold">Advertising Vertical Files</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtdocumentation/">
+               <emph render="bold">Corporate Documentation</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtdomesticads/">
+               <emph render="bold">Domestic Advertisements Collection</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwttreasureroffice/">
+               <emph render="bold"/>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtbernstein/">
+               <emph render="bold">Sidney Ralph Bernstein Company History Files</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtdevinejohnf/">
+               <emph render="bold">John F. Devine Papers</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtseymour/">
+               <emph render="bold">Dan Seymour Papers</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtwilsoneg/">
+               <emph render="bold">Edward G. Wilson Papers</emph>
+            </extref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Advertising agencies -- United States -- History -- 20th
+            century</subject>
+         <subject source="lcsh">Advertising -- Photographers</subject>
+         <genreform source="aat">Legal forms</genreform>
+         <corpname source="ingest">United States Lines Company</corpname>
+         <persname source="ingest">Scavullo, Francesco, 1921-2004</persname>
+         <corpname source="ingest">Seven-Up Company</corpname>
+         <corpname source="ingest">Singer Company</corpname>
+         <corpname source="ingest">Uncle Ben's, Inc.</corpname>
+         <corpname source="ingest">Pan American World Airways, Inc.</corpname>
+         <corpname source="ingest">Quaker Oats Company</corpname>
+         <corpname source="ingest">Radio Corporation of America</corpname>
+         <persname source="ingest">Sarra, Valentino, 1903-</persname>
+         <corpname source="ingest">J. Walter Thompson Company</corpname>
+         <corpname source="ingest">John W. Hartman Center for Sales, Advertising &amp; Marketing
+            History</corpname>
+         <corpname source="ingest">Lever Brothers and Unilever, ltd</corpname>
+         <persname source="ingest">Avedon, Richard</persname>
+         <persname source="ingest">Mayo, Otto</persname>
+         <persname source="ingest">Bartholomew, Ralph, 1907-1985</persname>
+         <persname source="ingest">Breuhl, Anton, 1900-</persname>
+         <corpname source="ingest">Ford Motor Company</corpname>
+         <corpname source="ingest">Chesebrough-Pond's.</corpname>
+         <corpname source="ingest">Gillette Company</corpname>
+         <corpname source="ingest">Cocheco Manufacturing Company</corpname>
+         <persname source="ingest">Horst, 1906-1999</persname>
+         <corpname source="ingest">Eastman Kodak Company</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref14_731" level="series">
+            <did>
+               <unittitle>Model Releases, 1940-1966</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">16 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_06b7e2a7b67b3d0eca587af8319476c6">
+               <head>Scope and Contents note</head>
+               <p>Consists of photographs and photostats of models as they often appeared in an
+                  advertisement. Attached to the images is a signed release by the model. The model
+                  releases are arranged alphabetically by client and then by model and date.</p>
+            </scopecontent>
+            <c02 id="aspace_ref16_9fy" level="file">
+               <did>
+                  <unittitle>Alexander Smith, 1954, 1957</unittitle>
+                  <container id="aspace_b6d555cd3c1abc1d81ec87c09f4c70c8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_u7o" level="file">
+               <did>
+                  <unittitle>Aquascutum</unittitle>
+               </did>
+               <c03 id="aspace_ref18_yer" level="file">
+                  <did>
+                     <unittitle>Archie Campbell, 1957</unittitle>
+                     <container id="aspace_fcd437fff28a37e5906be3b73e6b3cea" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref19_3ix" level="file">
+                  <did>
+                     <unittitle>Major Wylie, 1955</unittitle>
+                     <container id="aspace_8e3380668ba2c414e540fe165cd4217b" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref20_4w6" level="file">
+               <did>
+                  <unittitle>Ballantine, 1954</unittitle>
+                  <physdesc id="aspace_3bae97c84877bb794fb562b1ad28f8a8">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c6602b86eaf82499297011d59b26e15c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_4bm" level="file">
+               <did>
+                  <unittitle>Burroughs Adding Machine</unittitle>
+               </did>
+               <c03 id="aspace_ref23_kg7" level="file">
+                  <did>
+                     <unittitle>Fernando Arias, 1956</unittitle>
+                     <container id="aspace_d1d43b97cdf92ab0f634d2f61a28c3cd" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref24_qo4" level="file">
+               <did>
+                  <unittitle>Chesebrough Pond's, 1927-1959</unittitle>
+                  <physdesc id="aspace_da91a71ae186d042e775d5b5ee34292e">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_60dc5f395de5256e44f53750bbc18449" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_kzs" level="file">
+               <did>
+                  <unittitle>Chesebrough Pond's, 1927-1959 (continued)</unittitle>
+                  <physdesc id="aspace_0db0fc0332d5b207711ab369435c2211">
+                     <extent>10 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1d196c9a6d53c1e0ea53bd54eae3c61b" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_aw4" level="file">
+               <did>
+                  <unittitle>Chesebrough Pond's, 1927-1959 (continued)</unittitle>
+                  <physdesc id="aspace_432618cf1d67c58742105c92c1ec5bed">
+                     <extent>11 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f74626c47a42a673dbcb7320a8a2ac3b" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_tyb" level="file">
+               <did>
+                  <unittitle>Ford, 1953-1964</unittitle>
+                  <physdesc id="aspace_fbdce6b1aa6e4375e3c9b802c2eb76ef">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5ef949a76dc9c4a34a6f5f892f6e0219" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_wrg" level="file">
+               <did>
+                  <unittitle>Lever Brothers, Lux, 1954-1973</unittitle>
+                  <physdesc id="aspace_6780bc238932362eeb06b94eee7fb4eb">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1a11466c86cde770fa72b410eb725993" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_1cv" level="file">
+               <did>
+                  <unittitle>Lever Brothers, Lux, 1954-1973 (continued)</unittitle>
+                  <physdesc id="aspace_4b9d9ecfd1ef2d20624dc196cd964d2b">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2a453c469464951b5062752b69ae4e63" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_cqa" level="file">
+               <did>
+                  <unittitle>Lever Brothers, Lux, 1954-1973 (continued)</unittitle>
+                  <physdesc id="aspace_f5061e4840e2949271138d7833ecfb90">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_6c344b36c167736216c0dbba0f85e28c" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_7o9" level="file">
+               <did>
+                  <unittitle>Lever Brothers, Lux, 1954-1973 (continued)</unittitle>
+                  <physdesc id="aspace_39c00ef846ad40ef775a7ec68cf1fec2">
+                     <extent>12 folders</extent>
+                  </physdesc>
+                  <container id="aspace_641846ced90a253def00be1968390a2d" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_9qa" level="file">
+               <did>
+                  <unittitle>Lever Brothers, Lux, 1954-1973 (continued)</unittitle>
+                  <physdesc id="aspace_1c93fc079a0d4ce654893f73c6c28319">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_114e965eaa63b7cbc6f076a55c4202bf" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_2mz" level="file">
+               <did>
+                  <unittitle>Lever Brothers, Lux, 1954-1973 (continued)</unittitle>
+                  <physdesc id="aspace_fc188f9ffbc4aadbaee82cf146f58628">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_664da588bc044bd85b35d8cd2cd662e7" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_e7u" level="file">
+               <did>
+                  <unittitle>Liebman Breweries, Inc., 1962-1963</unittitle>
+                  <container id="aspace_cd6048af017796521a1e67595c9a1f03" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_e76" level="file">
+               <did>
+                  <unittitle>Oneida</unittitle>
+               </did>
+               <c03 id="aspace_ref46_nu1" level="file">
+                  <did>
+                     <unittitle>Donald W. Douglas, Jr., 1957</unittitle>
+                     <container id="aspace_e4ee3e77e41b1ab30d2c2569eeecc5ba" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_ltx" level="file">
+                  <did>
+                     <unittitle>Allen B. DuMont, 1957</unittitle>
+                     <container id="aspace_7a4d5e25aee9200b55bc6bffc6e38ae3" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_yzd" level="file">
+                  <did>
+                     <unittitle>Richard Halliday, 1958</unittitle>
+                     <container id="aspace_cb22b5c669b95d2aac8bbc2a8ed01f87" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_lin" level="file">
+                  <did>
+                     <unittitle>Bob Hope, 1957</unittitle>
+                     <container id="aspace_b136e3acf8365884e53ad8e3e74e2ed6" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_ckd" level="file">
+                  <did>
+                     <unittitle>Art Linkletter, 1958</unittitle>
+                     <container id="aspace_1144c8f741fb517eea05adab88a94560" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref51_b7c" level="file">
+               <did>
+                  <unittitle>Pacific Mills, 1946-1955</unittitle>
+                  <physdesc id="aspace_35485aa388f9566ec10033ecf27f9225">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ad2f316f5c9e5106949cf34bda119476" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_9ow" level="file">
+               <did>
+                  <unittitle>Pharma-Craft Corporation, 1952-1954</unittitle>
+                  <physdesc id="aspace_9013a24b8e6ced39d0781dce5967fad8">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2c0217d1c26ffb96fd6c2e920e2b3e9e" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_ki0" level="file">
+               <did>
+                  <unittitle>Prince Matchabelli</unittitle>
+               </did>
+               <c03 id="aspace_ref56_ln9" level="file">
+                  <did>
+                     <unittitle>Carroll Morrow, Jr., 1963-1964</unittitle>
+                     <container id="aspace_7f565b55536575836c6da12b8205ee7c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref57_1tm" level="file">
+               <did>
+                  <unittitle>Pro-phy-lac-tic Brush Co., 1962</unittitle>
+                  <container id="aspace_96c66755a15557c0af85a49df9ba9b15" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_8gm" level="file">
+               <did>
+                  <unittitle>RCA</unittitle>
+               </did>
+               <c03 id="aspace_ref59_y4q" level="file">
+                  <did>
+                     <unittitle>Pearl S. Buck, 1965</unittitle>
+                     <container id="aspace_0a96c6a34edb8d5c140f89874aa9d63f" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_iya" level="file">
+                  <did>
+                     <unittitle>Erich Leinsdorf, 1965</unittitle>
+                     <container id="aspace_dcb80417aa04e9e44c91e7d30cbad65f" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_svq" level="file">
+                  <did>
+                     <unittitle>Mary Martin, 1965</unittitle>
+                     <container id="aspace_d019bde0b1da63245e1c8afeee83020d" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_wuy" level="file">
+                  <did>
+                     <unittitle>Otto Preminger, 1966</unittitle>
+                     <container id="aspace_95fdad89d06c28747341256bb8e9ef41" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref63_dz7" level="file">
+               <did>
+                  <unittitle>Radio Free Europe, 1950-1956</unittitle>
+                  <container id="aspace_fe81ec1210b36d3d3c6e564046fb9b69" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_yn2" level="file">
+               <did>
+                  <unittitle>Religion in American Life</unittitle>
+               </did>
+               <c03 id="aspace_ref65_3h4" level="file">
+                  <did>
+                     <unittitle>Norman Rockwell, 1965</unittitle>
+                     <container id="aspace_890995696c364e6dc3df0fa6549febe7" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref66_imr" level="file">
+               <did>
+                  <unittitle>United Church Canvas, 1952-1954</unittitle>
+                  <container id="aspace_85b89101da98a2ca80f2f58a37fd2f26" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_em5" level="file">
+               <did>
+                  <unittitle>U.S. Brewers</unittitle>
+               </did>
+               <c03 id="aspace_ref68_29s" level="file">
+                  <did>
+                     <unittitle>Donald O'Connor, Mitzi Gaynor, 1960</unittitle>
+                     <container id="aspace_7e485eb34d94173086b0390c90578349" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_nxa" level="file">
+                  <did>
+                     <unittitle>Esther Williams, 1960</unittitle>
+                     <container id="aspace_7ac33a655cb65cc18c475ec13ec964e5" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref70_lez" level="file">
+               <did>
+                  <unittitle>U.S. Lines, 1951-1963</unittitle>
+                  <physdesc id="aspace_8d26cd7dd71e8a48f33bdcdc8bac1bfb">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a81a6b46ec7074e43ec2d50956aa2995" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_hg4" level="file">
+               <did>
+                  <unittitle>U.S. Lines, 1951-1963 (continued)</unittitle>
+                  <physdesc id="aspace_49d0fcdad1995442ec5d2f99425ae5f7">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8bb2d33b976803ec269478ee3854f6dc" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_505" level="file">
+               <did>
+                  <unittitle>U.S. Lines, 1951-1963 (continued)</unittitle>
+                  <physdesc id="aspace_226d24c0c64d14b4b89ef444ac23f5ee">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c5d6e725dc861bff3e25ea42e6bddbc9" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_01y" level="file">
+               <did>
+                  <unittitle>United States Treasury, 1952-1954</unittitle>
+                  <container id="aspace_85a0be83f6e16a05b07f7001bba4af0a" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_lem" level="file">
+               <did>
+                  <unittitle>Webb Young Trader, 1946-1947</unittitle>
+                  <container id="aspace_d6d4be503af05c17d62d996cdfa43450" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_9ck" level="file">
+               <did>
+                  <unittitle>J.B. Williams Co., 1940-1952</unittitle>
+                  <container id="aspace_5b66a01647b924df8c680a22a91f5202" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref80_vtk" level="series">
+            <did>
+               <unittitle>Photographers, 1953-1967</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">1 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_abe5d51cb9eb41d58b38d39246c75fab">
+               <head>Scope and Contents note</head>
+               <p>Contains photographs and photostats of models as they often appeared in
+                  advertisements. Attached to these images are signed releases by models. Items are
+                  arranged alphabetically by photographer and then by client and date.</p>
+            </scopecontent>
+            <c02 id="aspace_ref82_wzl" level="file">
+               <did>
+                  <unittitle>Richard Avedon</unittitle>
+                  <container id="aspace_325eff513ba8bec96f51fa97a41b8ab4" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+               <c03 id="aspace_ref83_1fv" level="file">
+                  <did>
+                     <unittitle>Champion Spark Plugs, 1956</unittitle>
+                     <container id="aspace_67a839398b2d41ba524ed666aefbe297" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_7p3" level="file">
+                  <did>
+                     <unittitle>Chesebrough Pond's, 1965-1966</unittitle>
+                     <container id="aspace_1fcf51333ecfff09aec77d5308828707" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref85_0vh" level="file">
+                  <did>
+                     <unittitle>Ford, 1957-1958</unittitle>
+                     <container id="aspace_02c0a90cbc272c29a46f18bbf98750e7" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_dlh" level="file">
+                  <did>
+                     <unittitle>Owens Illinois Glass, circa1966</unittitle>
+                     <container id="aspace_1cb169f1573af60e050557af0df39bab" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_b10" level="file">
+                  <did>
+                     <unittitle>Pacific Mills, 1955-1956</unittitle>
+                     <physdesc id="aspace_462dd31f5d0c7ab11afff22eaf443df3">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_8c389609a6a245c770dd9ef37f23580c" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref89_1v7" level="file">
+                  <did>
+                     <unittitle>Singer, 1966</unittitle>
+                     <container id="aspace_7453b042476ee6c480a2d4720fb79d78" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref90_9dw" level="file">
+               <did>
+                  <unittitle>Ralph Bartholomew</unittitle>
+               </did>
+               <c03 id="aspace_ref91_cba" level="file">
+                  <did>
+                     <unittitle>Brillo, 1953-1954</unittitle>
+                     <physdesc id="aspace_f053f7b5ba881aba447c6f8d5e7e5e8c">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_b333511cf76e2f656adf5688a504b1d1" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref93_3mc" level="file">
+               <did>
+                  <unittitle>Anton Bruehl</unittitle>
+               </did>
+               <c03 id="aspace_ref94_jo9" level="file">
+                  <did>
+                     <unittitle>Ballantine, 1954</unittitle>
+                     <container id="aspace_58702f972191e910a865c1f8b48bb3e1" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref95_yky" level="file">
+                  <did>
+                     <unittitle>R.T. French, 1956</unittitle>
+                     <container id="aspace_1ce63ea0076ee4074ad3bb8e2524ef03" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_rzz" level="file">
+                  <did>
+                     <unittitle>J.B. Williams Co., 1955</unittitle>
+                     <container id="aspace_630155584929fa9f309e3c631f607757" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref97_mvl" level="file">
+               <did>
+                  <unittitle>Horst P. Horst</unittitle>
+               </did>
+               <c03 id="aspace_ref98_t4b" level="file">
+                  <did>
+                     <unittitle>Chesebrough-Pond's, 1964</unittitle>
+                     <container id="aspace_955b901236ec6f087ecda4b5ffcf9d6b" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref99_abw" level="file">
+                  <did>
+                     <unittitle>Fieldcrest, 1956</unittitle>
+                     <container id="aspace_69ae0d67cd702eca2d0c0355c65889f5" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_zcv" level="file">
+                  <did>
+                     <unittitle>Lever Brothers, 1953</unittitle>
+                     <container id="aspace_97856bcaf4584f39f0f818ea7e5df665" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref101_k62" level="file">
+                  <did>
+                     <unittitle>Pacific Mills, 1953</unittitle>
+                     <container id="aspace_4d6acd9f7076fda504a04533083055bb" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref102_rjk" level="file">
+                  <did>
+                     <unittitle>Scott Paper, 1958</unittitle>
+                     <container id="aspace_26100f79c2bc36869bcb30e7aa5f0ccd" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref103_f67" level="file">
+                  <did>
+                     <unittitle>Singer, 1964-1965</unittitle>
+                     <container id="aspace_f6601306e6e917eae428d106c7285447" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref104_hnz" level="file">
+                  <did>
+                     <unittitle>J.B. Williams Co., 1956-1957</unittitle>
+                     <container id="aspace_4f72ad6878ff9d431c5935ae8c3a3e7a" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref105_0u7" level="file">
+                  <did>
+                     <unittitle>Wool Bureau, 1956, 1958</unittitle>
+                     <container id="aspace_820fe2d982b74b023ef466d36f42097d" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref106_ace" level="file">
+               <did>
+                  <unittitle>Otto Maya</unittitle>
+               </did>
+               <c03 id="aspace_ref107_2t8" level="file">
+                  <did>
+                     <unittitle>Pacific Mills, 1955</unittitle>
+                     <container id="aspace_65471c14d5219976dfdb9276d9022d03" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref108_s3o" level="file">
+               <did>
+                  <unittitle>Valentino Sarra</unittitle>
+               </did>
+               <c03 id="aspace_ref109_180" level="file">
+                  <did>
+                     <unittitle>Lever Brothers, 1953</unittitle>
+                     <container id="aspace_a8b9c886b158e4c709b4cf42ac581536" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref110_phr" level="file">
+                  <did>
+                     <unittitle>Institute of Life Insurance, circa 1950s</unittitle>
+                     <container id="aspace_9d1676b8d613cb97a653d6773f52408b" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref111_w3g" level="file">
+               <did>
+                  <unittitle>Francesco Scavullo</unittitle>
+               </did>
+               <c03 id="aspace_ref112_dsy" level="file">
+                  <did>
+                     <unittitle>Chesebrough-Pond's, 1965</unittitle>
+                     <container id="aspace_9e74861bf128012d7a548a01c9964530" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref113_ir7" level="file">
+                  <did>
+                     <unittitle>Pacific Mills, 1954-55</unittitle>
+                     <physdesc id="aspace_747abb194afb92c29b4070209e3ea929">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2ffe40ee61e2044cbb062dd7f854690e" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref115_xjp" level="file">
+                  <did>
+                     <unittitle>Pan Am, 1967</unittitle>
+                     <container id="aspace_dcadb98482ae3abdb696b85b0fa079ba" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref116_0wm" level="file">
+                  <did>
+                     <unittitle>Burlington, 1956</unittitle>
+                     <container id="aspace_74c7885c57e361603b51ac97fe1b4365" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref117_iyp" level="file">
+                  <did>
+                     <unittitle>Wool Bureau, 1958</unittitle>
+                     <container id="aspace_ca9f5df7f1fe27fe0015be6efeba3eda" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref118_o6k" level="file">
+               <did>
+                  <unittitle>Harry Watts</unittitle>
+               </did>
+               <c03 id="aspace_ref119_91y" level="file">
+                  <did>
+                     <unittitle>Alexander Smith, 1954</unittitle>
+                     <container id="aspace_c65be4690b23297bb067ae2054b1fe03" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref121_4cl" level="series">
+            <did>
+               <unittitle>Publications, 1953-1970</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">1 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_f928170ac6f11d5bfde3386184c496c6">
+               <head>Scope and Contents note</head>
+               <p>Contains an assortment of publications which required model releases, and
+                  especially Ford newsletters from the 1950s. The materials are arranged
+                  alphabetically by client and then by the name of the publication and date.</p>
+            </scopecontent>
+            <c02 id="aspace_ref123_4x6" level="file">
+               <did>
+                  <unittitle>Citizen's Committee</unittitle>
+                  <container id="aspace_ff699c5b7eca7bdcb8799848dbb2b347" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+               <c03 id="aspace_ref124_clc" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">March...March...March...The Fifth Year of the
+                           March,</title> 1959-1960</unittitle>
+                     <container id="aspace_94cef486183f8bb6b0ad2973ccff7737" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref125_e98" level="file">
+                  <did>
+                     <unittitle>Annual report, 1960-1961</unittitle>
+                     <container id="aspace_7bfe90d932c1d53a6b884353729f2361" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref126_nh5" level="file">
+               <did>
+                  <unittitle>Ford</unittitle>
+               </did>
+               <c03 id="aspace_ref127_w57" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Clues</title>, 1955-1966</unittitle>
+                     <physdesc id="aspace_5ebce6d139c7e09429af2d3b4a6f9fa6">
+                        <extent>9 folders</extent>
+                     </physdesc>
+                     <container id="aspace_4b3ac8fc768336257c6247067ab802ba" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_0nj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Buyer's Digest</title>, 1960-1966</unittitle>
+                     <physdesc id="aspace_af2698558ef33a3894505d2b9d068ef4">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0544001785d543cff0a5d2045d0f4264" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref131_ydj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Facts</title>, 1956-1960</unittitle>
+                     <physdesc id="aspace_d4613fe53d6c6414e346bd45b6dbb8a9">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_4b1da885dc16b8f1a6a55bb270eaefed" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref133_142" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Ford News Flash</title>, 1959-1960</unittitle>
+                     <physdesc id="aspace_1d4e74865a35787d56d1ac0a64d3a1a9">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_4b8ad9da31b70ee70998d0c03490563e" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref135_xpk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Ford Owner Newsletter</title>, 1963-1965</unittitle>
+                     <physdesc id="aspace_fe58c2a4350ae9a1c71a960a3def8fba">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_5ed26efbf24bd8a80a0c99c070ff4997" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref137_080" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Ford Truck Times</title>, 1970</unittitle>
+                     <container id="aspace_c04dbf8fe1ee68b6f153a073bc25ad78" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref138_owk" level="file">
+               <did>
+                  <unittitle>U.S. Brewer's Foundation</unittitle>
+               </did>
+               <c03 id="aspace_ref139_if4" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">ABC of Beer Advertising</title>, 1953</unittitle>
+                     <container id="aspace_6057d25f1785ce4eacf4bcd61add09d1" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref141_51m" level="series">
+            <did>
+               <unittitle>Reports, 1949-1953, 1970</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">1 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_ccda9402a47fc8d529afb214616738ac">
+               <head>Scope and Contents note</head>
+               <p>Consists of two folders relating to JWT clients Pacific Mills and Kodak. The
+                  Pacific Mills folder contains files related to the introduction of contour sheets
+                  from the years 1949-1953. The Kodak folder details a marketing consideration from
+                  1970. The folders were arranged alphabetically by client.</p>
+            </scopecontent>
+            <c02 id="aspace_ref143_9ov" level="file">
+               <did>
+                  <unittitle>Kodak, Sid Olson, 1970</unittitle>
+                  <container id="aspace_bd003504c26f5e6873e7edc53f388cb2" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_1l0" level="file">
+               <did>
+                  <unittitle>Pacific Mills, reports, 1949-1953</unittitle>
+                  <container id="aspace_6c3b0c10694a429a8a77f3b0fdbfdb7c" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref146_pr2" level="series">
+            <did>
+               <unittitle>Model-Client-Date Cards, 1936-1949</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">3 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_0aa0e0f5c074deba1e8173eb5991e0dd">
+               <head>Scope and Contents note</head>
+               <p>Series includes three black boxes with index cards of models used by the various
+                  clients. Items are arranged alphabetically by model in the first two boxes and by
+                  client (Kodak only) in the third box.</p>
+            </scopecontent>
+            <c02 id="aspace_ref148_1gm" level="file">
+               <did>
+                  <unittitle>Abbott, Ruth--Hylan, James</unittitle>
+                  <container id="aspace_3cf97561d246d46a027f152e2b6a03ca" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref149_t7l" level="file">
+               <did>
+                  <unittitle>Ibsen, Leonore--Szore, Joseph</unittitle>
+                  <container id="aspace_100394371befaca25728a50c49a6c9f7" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref150_6ye" level="file">
+               <did>
+                  <unittitle>Taconelli, Sergio Cavalla--Zwill, Adrianna (Kodak only),
+                     1943-1949</unittitle>
+                  <container id="aspace_e519614ce23c3bb2f79afd47661c902d" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref152_eq5" level="series">
+            <did>
+               <unittitle>Overscale Talent Releases,1959-1978</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">3 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_b861c5c15110b59bac7e471067b7b3d6">
+               <head>Scope and Contents note</head>
+               <p>Includes routine legal contracts which list the terms of agreement between the
+                  client, talent and the J. Walter Thompson Company. They specify the length of the
+                  contract, the client and the date. The bulk of the contracts are in their original
+                  format and therefore have actual signatures of the talent. <emph
+                     render="doublequote">Overscale</emph> refers to the fact that these contracts
+                  remunerated above normal union scale wages.</p>
+            </scopecontent>
+            <c02 id="aspace_ref154_rsu" level="file">
+               <did>
+                  <unittitle>Brillo</unittitle>
+                  <container id="aspace_671abbb66aba6c8b6cf32d075c4f8c9b" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+               <c03 id="aspace_ref155_iu4" level="file">
+                  <did>
+                     <unittitle>Arnold Stang, 1965</unittitle>
+                     <container id="aspace_b5bab07fbab6aa736bc01087894f883b" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref156_jae" level="file">
+               <did>
+                  <unittitle>Burger King</unittitle>
+               </did>
+               <c03 id="aspace_ref157_qoy" level="file">
+                  <did>
+                     <unittitle>Phyllis Hyman, 1977</unittitle>
+                     <container id="aspace_aae003a02b0714873424545c1c709b1e" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref158_7g5" level="file">
+               <did>
+                  <unittitle>Champion Spark Plug</unittitle>
+               </did>
+               <c03 id="aspace_ref159_pnu" level="file">
+                  <did>
+                     <unittitle>Tom Bosley, 1976</unittitle>
+                     <container id="aspace_f6971438267bcf0ea7ea21c31f80c510" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref160_j1t" level="file">
+                  <did>
+                     <unittitle>Roger Maris, 1969</unittitle>
+                     <container id="aspace_bf02f9b45f3ce1a6e16e9ac26449f22b" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_zk7" level="file">
+                  <did>
+                     <unittitle>Pat Summerall, 1969</unittitle>
+                     <container id="aspace_75eb66f6f51aa33f1dd148457da64750" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref162_at1" level="file">
+               <did>
+                  <unittitle>Chase &amp; Sanborn</unittitle>
+               </did>
+               <c03 id="aspace_ref163_4p1" level="file">
+                  <did>
+                     <unittitle>Mr. and Mrs. McCluskey, 1970</unittitle>
+                     <container id="aspace_6368578d9cc1572a37fa9d9fdfa3b631" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref164_q16" level="file">
+               <did>
+                  <unittitle>Congoleum</unittitle>
+               </did>
+               <c03 id="aspace_ref165_swn" level="file">
+                  <did>
+                     <unittitle>Cyril Ritchard, 1969</unittitle>
+                     <container id="aspace_94f2137ec0a6b5caa46b8768a964d66a" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref166_c53" level="file">
+               <did>
+                  <unittitle>Dymo Visual Stephens</unittitle>
+               </did>
+               <c03 id="aspace_ref167_gxt" level="file">
+                  <did>
+                     <unittitle>Ann Flood, 1977</unittitle>
+                     <container id="aspace_89d8539acc80eb411b5338d9d76ab4b1" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref168_sqf" level="file">
+               <did>
+                  <unittitle>Eaton</unittitle>
+               </did>
+               <c03 id="aspace_ref169_zit" level="file">
+                  <did>
+                     <unittitle>John S. Palmer (Bud), 1971, 1976</unittitle>
+                     <container id="aspace_3784beac24fd1276a5e17bf7d8a3c8ed" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref170_o9d" level="file">
+               <did>
+                  <unittitle>First National City Bank</unittitle>
+               </did>
+               <c03 id="aspace_ref171_pao" level="file">
+                  <did>
+                     <unittitle>Marion Hailey, 1968</unittitle>
+                     <container id="aspace_8f962a91f09cf380e341047385cc7851" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref172_qml" level="file">
+                  <did>
+                     <unittitle>Steve Lawrence/Edie Gorme, 1968</unittitle>
+                     <container id="aspace_b560de894d843981932511b2f426fc52" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref173_mnr" level="file">
+                  <did>
+                     <unittitle>Bob and Ray, 1969</unittitle>
+                     <container id="aspace_d6512c4d27ea2fc7c76511de29758df0" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref174_730" level="file">
+               <did>
+                  <unittitle>Ford</unittitle>
+               </did>
+               <c03 id="aspace_ref175_ez7" level="file">
+                  <did>
+                     <unittitle>Jane Bizzell, 1971</unittitle>
+                     <container id="aspace_77e4fdc7c966ec7c018c1ebb418a5cee" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref176_k2t" level="file">
+                  <did>
+                     <unittitle>Rogue Brown, 1966</unittitle>
+                     <container id="aspace_7beba8643e18f147c0deb73938add796" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref177_nil" level="file">
+                  <did>
+                     <unittitle>Jack Christianson, 1966</unittitle>
+                     <container id="aspace_89df2922cbd74c4c8b4d3b58ba6c4f19" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref178_tzh" level="file">
+                  <did>
+                     <unittitle>Sid Caesar, 1970</unittitle>
+                     <container id="aspace_a1340861717a1118387650c130915d93" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_1zy" level="file">
+                  <did>
+                     <unittitle>Roy Clark, 1975</unittitle>
+                     <container id="aspace_e7d8250143a4703e78bc4482db40ab80" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_nt4" level="file">
+                  <did>
+                     <unittitle>Vic Damone, 1966-1967</unittitle>
+                     <container id="aspace_3c4834240a14c29cca2b40ae3daaba10" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_u7d" level="file">
+                  <did>
+                     <unittitle>Ann Davis, 1966</unittitle>
+                     <container id="aspace_100b1ad121ea37976fadd01a620879b2" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref182_kvz" level="file">
+                  <did>
+                     <unittitle>Art Devlin, 1966</unittitle>
+                     <container id="aspace_bd560cabbccc8c1c7d4194f639141b04" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref183_u03" level="file">
+                  <did>
+                     <unittitle>Fearsome Four, 1966</unittitle>
+                     <container id="aspace_7f543de48bb6f025e2ef105ebcbb5146" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref184_d46" level="file">
+                  <did>
+                     <unittitle>John Fitch, 1970</unittitle>
+                     <container id="aspace_78391e81fab0907197790c3a27ab1f2c" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_kgj" level="file">
+                  <did>
+                     <unittitle>Ernie Ford, 1966</unittitle>
+                     <container id="aspace_7e955536850bf1fea5c33ab2362ab6dc" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref186_c2g" level="file">
+                  <did>
+                     <unittitle>Walt Frazier, 1970</unittitle>
+                     <container id="aspace_93c365c73a90b681f17062dc28348e6d" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref187_954" level="file">
+                  <did>
+                     <unittitle>Jim Gibbons, 1966</unittitle>
+                     <container id="aspace_f98b570c586d0ad2b40d47478551374f" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref188_8tg" level="file">
+                  <did>
+                     <unittitle>Harry Gilmar, 1966</unittitle>
+                     <container id="aspace_47cbe67ec4b367a7c9cdafbc8928ac0a" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref189_app" level="file">
+                  <did>
+                     <unittitle>Buddy Greco, 1966</unittitle>
+                     <container id="aspace_d8207ad8e7ad8ac97190ee0575b6d6a5" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref190_res" level="file">
+                  <did>
+                     <unittitle>Merle Haggard, 1976-1978</unittitle>
+                     <container id="aspace_309cf891cb53468c1db3ce07c6ddce44" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref191_y3n" level="file">
+                  <did>
+                     <unittitle>Ron Kramer, 1966</unittitle>
+                     <container id="aspace_8e0a52320f5a661307e12b7621d0aed0" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref192_ny3" level="file">
+                  <did>
+                     <unittitle>J.P. McCarthy, 1970</unittitle>
+                     <container id="aspace_f8dd7cbf39d8a071037bcf89f73b86d9" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref193_ocr" level="file">
+                  <did>
+                     <unittitle>Louis Nye, 1966</unittitle>
+                     <container id="aspace_c3f6ab9d5f0583b8bbe87b60c1309531" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref194_fy7" level="file">
+                  <did>
+                     <unittitle>Milt Plum, 1966</unittitle>
+                     <container id="aspace_ad6f49d5b7f0900cdafc75d24ca2a4e1" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref195_bkc" level="file">
+                  <did>
+                     <unittitle>Gene Rayburn, 1969</unittitle>
+                     <container id="aspace_c82fd871cebd8741b98b301ecbcca9d6" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref196_vtx" level="file">
+                  <did>
+                     <unittitle>Tom Ryan, 1976</unittitle>
+                     <container id="aspace_bad6c9c672221db804745a7af9c75a26" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_ote" level="file">
+                  <did>
+                     <unittitle>Chris Schenkel, 1963</unittitle>
+                     <container id="aspace_d7955ebe1bd45633ca1d0c4a9fc60bd6" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref198_0mu" level="file">
+                  <did>
+                     <unittitle>Serendipity Singers, 1966</unittitle>
+                     <container id="aspace_68dc6558311ddf0d3ed1b060914c333a" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_dvm" level="file">
+                  <did>
+                     <unittitle>Jackie Stewart, 1978</unittitle>
+                     <container id="aspace_5da904cd941781f1983bd11cfc53ded8" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref200_f0f" level="file">
+                  <did>
+                     <unittitle>Wayne Walker, 1966</unittitle>
+                     <container id="aspace_5d205c9fb6af013b62960ee45878298b" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref201_buf" level="file">
+                  <did>
+                     <unittitle>Tommy Watkins, 1966</unittitle>
+                     <container id="aspace_2c8c1d86bb3d76eaf57d11588eac8827" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref202_8v2" level="file">
+                  <did>
+                     <unittitle>James Whitmore, 1970</unittitle>
+                     <container id="aspace_794becbb90a57dfef66ae877d87bf392" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref203_gzn" level="file">
+                  <did>
+                     <unittitle>Tammy Wynette, 1975-1976</unittitle>
+                     <container id="aspace_8512682dffd58eebb45731a5a1a97ec6" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref204_72p" level="file">
+               <did>
+                  <unittitle>Gillette</unittitle>
+               </did>
+               <c03 id="aspace_ref205_7h8" level="file">
+                  <did>
+                     <unittitle>Henry Aaron, 1970</unittitle>
+                     <container id="aspace_d80b7268b5dd84cd61e94e565e1c7849" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref206_3b1" level="file">
+                  <did>
+                     <unittitle>Alou Bros., 1972</unittitle>
+                     <container id="aspace_4793b30c22173b4b82137844a2f5b70f" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref207_2jp" level="file">
+                  <did>
+                     <unittitle>Robert Bonds, 1971</unittitle>
+                     <container id="aspace_0339a2d7c8b99cfc8e260db2a2fc0f44" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref208_8xv" level="file">
+                  <did>
+                     <unittitle>John Brodie, 1970</unittitle>
+                     <container id="aspace_d3f1a9c2a69a0fefb9a30f381e9a628a" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref209_gn0" level="file">
+                  <did>
+                     <unittitle>Lenny Dawson, 1970</unittitle>
+                     <container id="aspace_94f159820b0fc0114f9ff98b54eb2e51" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref210_lam" level="file">
+                  <did>
+                     <unittitle>Tom Gorman, 1972</unittitle>
+                     <container id="aspace_58c8bb3271218af720ef5872a6923694" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref211_r3h" level="file">
+                  <did>
+                     <unittitle>Ray Hodges, 1972</unittitle>
+                     <container id="aspace_206926292b2df6138e31862603355a96" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref212_olw" level="file">
+                  <did>
+                     <unittitle>Calvin Murphy, 1972</unittitle>
+                     <container id="aspace_58b3f1de6be639e0ed5e2a20df70392d" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref213_k47" level="file">
+                  <did>
+                     <unittitle>Tony Oliva, 1972</unittitle>
+                     <container id="aspace_bfa2fa63c5ed06f3fb7fbf59487a43f0" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref214_t00" level="file">
+                  <did>
+                     <unittitle>Jersey Joe Wolcott, 1972</unittitle>
+                     <container id="aspace_63a17285bcaf79bb7cc2019e2269b138" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref215_inr" level="file">
+               <did>
+                  <unittitle>Theodore Hamm Brewing Co.</unittitle>
+               </did>
+               <c03 id="aspace_ref216_fap" level="file">
+                  <did>
+                     <unittitle>Rocky Graziano, 1969-1970</unittitle>
+                     <container id="aspace_973854a4d7cd7b71d7d2f63cdedd83fb" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref217_udp" level="file">
+                  <did>
+                     <unittitle>Sugar Ray Robinson, 1969-1970</unittitle>
+                     <container id="aspace_7a736954ebaab32faf73532a36ff3d07" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref218_yq7" level="file">
+               <did>
+                  <unittitle>Institute of Life Insurance</unittitle>
+               </did>
+               <c03 id="aspace_ref219_swx" level="file">
+                  <did>
+                     <unittitle>Byron Carlson, 1965-1966</unittitle>
+                     <container id="aspace_bd1d1f5faf88d24db8b20d6d3190d0d7" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref220_7ik" level="file">
+               <did>
+                  <unittitle>Irving Trust</unittitle>
+               </did>
+               <c03 id="aspace_ref221_zvy" level="file">
+                  <did>
+                     <unittitle>Alfred Drake, 1970</unittitle>
+                     <container id="aspace_0ea46a2b86096087209952c290a8b07a" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref222_0he" level="file">
+               <did>
+                  <unittitle>Kodak</unittitle>
+                  <container id="aspace_983913f6fdfa57f9040a3be1bd904c39" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+               <c03 id="aspace_ref223_ejm" level="file">
+                  <did>
+                     <unittitle>Don Adams, 1978</unittitle>
+                     <container id="aspace_1da0c344a9d9b6fef13e6d70d731a4c3" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref224_lig" level="file">
+                  <did>
+                     <unittitle>Joanna Barnes, 1971</unittitle>
+                     <container id="aspace_677fdff1d548ec74e033c58f463c0f47" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref225_7d0" level="file">
+                  <did>
+                     <unittitle>George Burns, 1976</unittitle>
+                     <container id="aspace_b11ab334b127e655042fc064f11f3c52" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref226_kpt" level="file">
+                  <did>
+                     <unittitle>Vicki Carr, 1977</unittitle>
+                     <container id="aspace_cc8f937843120455eb002e4e7490f81b" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref227_flb" level="file">
+                  <did>
+                     <unittitle>John Forsythe, 1971</unittitle>
+                     <container id="aspace_18876d39e9bf46cb2bcfd9655bc0171f" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref228_num" level="file">
+                  <did>
+                     <unittitle>Burl Ives, 1977</unittitle>
+                     <container id="aspace_163d2f90cea387f999badb5c88d7ff3c" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref229_r71" level="file">
+                  <did>
+                     <unittitle>Peggy Lee, 1975</unittitle>
+                     <container id="aspace_035dc3669702f6122b208ca3206d3a9f" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref230_djn" level="file">
+                  <did>
+                     <unittitle>Art Linkletter, 1969</unittitle>
+                     <container id="aspace_132caefb0d9fb1582eea6cbbd1171e58" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref231_758" level="file">
+                  <did>
+                     <unittitle>Janet Lynn, 1974</unittitle>
+                     <container id="aspace_8c1f87bab8c0a68ba8eb1107356ebe4b" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref232_395" level="file">
+                  <did>
+                     <unittitle>Barry Manilow, 1975</unittitle>
+                     <container id="aspace_7e5634d1b465f20003dc477b2877810a" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref233_tps" level="file">
+                  <did>
+                     <unittitle>Elizabeth Montgomery, 1969</unittitle>
+                     <container id="aspace_57a7d8eab9bc4fca3ed1fe2fa236ea46" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref234_oy5" level="file">
+                  <did>
+                     <unittitle>Louis Nye, 1970</unittitle>
+                     <container id="aspace_3f33619fa5ff615a4a0605a30724621a" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref235_a3h" level="file">
+                  <did>
+                     <unittitle>Jesse Owens, 1972</unittitle>
+                     <container id="aspace_823b99bba7f4e9e103748be39bd1d107" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref236_821" level="file">
+                  <did>
+                     <unittitle>Vic Perry, 1972</unittitle>
+                     <container id="aspace_4e99bed427a48756afd82bb453c46de3" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref237_6nl" level="file">
+                  <did>
+                     <unittitle>Carl Reiner, 1971-1972</unittitle>
+                     <container id="aspace_c91e88e3b3759b4174aa9aab04059995" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref238_0zk" level="file">
+                  <did>
+                     <unittitle>Don Scardino, 1977</unittitle>
+                     <container id="aspace_ae83e8f7338bdc8a41b0bd16521915f4" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref239_12b" level="file">
+                  <did>
+                     <unittitle>Spinners, 1975</unittitle>
+                     <container id="aspace_e34db2b118652e93576124695f0a269a" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref240_j19" level="file">
+                  <did>
+                     <unittitle>Burr Tillstrom, 1971</unittitle>
+                     <container id="aspace_42befc257247f52ebd118aec24fd551c" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref241_17o" level="file">
+                  <did>
+                     <unittitle>Dick Van Dyke, 1970-1972</unittitle>
+                     <container id="aspace_a91e661376c709443f6f6c944054e76b" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref242_ba4" level="file">
+               <did>
+                  <unittitle>Lever Brothers</unittitle>
+               </did>
+               <c03 id="aspace_ref243_zdq" level="file">
+                  <did>
+                     <unittitle>Jane Fonda, 1965</unittitle>
+                     <container id="aspace_087eb06e5cd3655999f6d6ad7435b452" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref244_he4" level="file">
+                  <did>
+                     <unittitle>Patsy Kelly, 1978</unittitle>
+                     <container id="aspace_04743700b9591702381d72d977c5bb37" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref245_0w7" level="file">
+                  <did>
+                     <unittitle>Cheryl Ladd, 1977</unittitle>
+                     <container id="aspace_ccb6f74f37993686bab908a2ce07ae94" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref246_skt" level="file">
+                  <did>
+                     <unittitle>Gillis McGill, 1965</unittitle>
+                     <container id="aspace_797e5376e06cc4dd3696b82a2e109971" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref247_qia" level="file">
+                  <did>
+                     <unittitle>Betsy Palmer, 1971</unittitle>
+                     <container id="aspace_dbe4b826d943ae73048cc1567e3aab46" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref248_5p4" level="file">
+                  <did>
+                     <unittitle>Pamela Powell, 1972</unittitle>
+                     <container id="aspace_47a6f68b15e7402121a35556458e152f" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref249_vnj" level="file">
+                  <did>
+                     <unittitle>Debbie Reynolds, 1964</unittitle>
+                     <container id="aspace_3f89f2aa372a4792f492e838ca8be9bf" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref250_rrx" level="file">
+                  <did>
+                     <unittitle>Sharon Tate, 1966</unittitle>
+                     <container id="aspace_b6e511b5607d33c433d78704f539d87e" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref251_487" level="file">
+               <did>
+                  <unittitle>Libby, McNeill &amp; Libby</unittitle>
+               </did>
+               <c03 id="aspace_ref252_ukf" level="file">
+                  <did>
+                     <unittitle>Tony Randall, 1969</unittitle>
+                     <container id="aspace_3639a50a744005ac81eeb4b537ac624e" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref253_875" level="file">
+               <did>
+                  <unittitle>Liggett &amp; Myers, 1964-1966</unittitle>
+               </did>
+               <c03 id="aspace_ref254_q1c" level="file">
+                  <did>
+                     <unittitle>Eva Gabor, 1964-1966</unittitle>
+                     <container id="aspace_be3d409348f28116676ed7c29bea83b9" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref255_xf3" level="file">
+                  <did>
+                     <unittitle>David Madden, 1966-1967</unittitle>
+                     <container id="aspace_b6928486ad67c6f9d6cd5db0303d22ac" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref256_i9b" level="file">
+                  <did>
+                     <unittitle>Wayne Tippit, 1966-1967</unittitle>
+                     <container id="aspace_3891fcd2445af6a18d11660b8fa8ca5f" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref257_tv3" level="file">
+               <did>
+                  <unittitle>Manufacturers National Bank of Detroit</unittitle>
+                  <container id="aspace_4cc1ab75f1f00b7436d7dae98d95ea13" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+               <c03 id="aspace_ref258_qs6" level="file">
+                  <did>
+                     <unittitle>Dom de Louise, 1970</unittitle>
+                     <container id="aspace_9e8813aa4965bf16be2145f962224340" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref259_azt" level="file">
+               <did>
+                  <unittitle>Miles Labs</unittitle>
+               </did>
+               <c03 id="aspace_ref260_on8" level="file">
+                  <did>
+                     <unittitle>Mel Blanc, 1971</unittitle>
+                     <container id="aspace_5fde378eb15fd23e0ebe2c03837469ad" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref261_bcu" level="file">
+                  <did>
+                     <unittitle>John Carradine, 1969</unittitle>
+                     <container id="aspace_5bf9ef067a386fc56bf386546e8180f6" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref262_mgg" level="file">
+                  <did>
+                     <unittitle>Peggy Fleming, 1970</unittitle>
+                     <container id="aspace_d3d669405b340afefc4f69cf4f5c473f" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref263_fl7" level="file">
+                  <did>
+                     <unittitle>Patrick Fox, 1969</unittitle>
+                     <container id="aspace_2aa5856da9e6492e85ce196c0d3c57e2" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref264_kjb" level="file">
+                  <did>
+                     <unittitle>Peter Graves, 1976</unittitle>
+                     <container id="aspace_f0c7b1208c7a24c063346671bf1f5aca" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref265_450" level="file">
+                  <did>
+                     <unittitle>Shari Lewis, 1972</unittitle>
+                     <container id="aspace_b51fdd6d1e670d3338d87c02ab1ba7f5" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref266_wvq" level="file">
+                  <did>
+                     <unittitle>Ed Reimers, 1968</unittitle>
+                     <container id="aspace_905e9acef7c6752ae0ab02f72f6f50e5" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref267_0e8" level="file">
+                  <did>
+                     <unittitle>Michael Rives, 1969</unittitle>
+                     <container id="aspace_ed34e12254ebcc7726f010d6b67a2d91" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref268_2e6" level="file">
+               <did>
+                  <unittitle>Monroe Auto</unittitle>
+               </did>
+               <c03 id="aspace_ref269_hsl" level="file">
+                  <did>
+                     <unittitle>Dick Weber, 1975</unittitle>
+                     <container id="aspace_43c3531a65d04f7d4150c93eee5dcdc7" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref270_r7g" level="file">
+               <did>
+                  <unittitle>Pan Am</unittitle>
+               </did>
+               <c03 id="aspace_ref271_6it" level="file">
+                  <did>
+                     <unittitle>Jon Charles Castaga, 1967</unittitle>
+                     <container id="aspace_809c8b1704bfd57a236a00c6ba52ac65" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref272_zyw" level="file">
+                  <did>
+                     <unittitle>Henry Clive, 1967</unittitle>
+                     <container id="aspace_24082b61beb3690a7ffcac93b509e633" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref273_i9i" level="file">
+                  <did>
+                     <unittitle>Geary Decker, 1966</unittitle>
+                     <container id="aspace_c8935eb96cb1a75fd15ad2a93312e49b" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref274_pmr" level="file">
+                  <did>
+                     <unittitle>Susan Dougherty, 1967</unittitle>
+                     <container id="aspace_5704d31ecadb731b2304b8be7069959f" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref275_5p9" level="file">
+                  <did>
+                     <unittitle>Jim Galbraith, 1966-1967</unittitle>
+                     <container id="aspace_b2239fdd8acbd0ba5f5133071d9edddc" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref276_tjw" level="file">
+                  <did>
+                     <unittitle>Elizabeth Josephson, 1967</unittitle>
+                     <container id="aspace_37829442296a200a7e9b1c104aaa6bf6" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref277_dqf" level="file">
+                  <did>
+                     <unittitle>Robert Lamouroux, 1967</unittitle>
+                     <container id="aspace_b959a994218fe1a0249ff59067d5b279" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref278_umv" level="file">
+                  <did>
+                     <unittitle>Virginia and William Lock, 1960-1964</unittitle>
+                     <container id="aspace_7d506ca6b2ffbeb29c82a38b636d6c5e" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref279_law" level="file">
+                  <did>
+                     <unittitle>Janice Pennington, 1966</unittitle>
+                     <container id="aspace_8b2ecb68e93da9c7aabc6f5bd07ee411" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref280_1vy" level="file">
+                  <did>
+                     <unittitle>Annabel Popovic, 1966-1967</unittitle>
+                     <container id="aspace_77d4ef939a3713ecb53c6ed167ade29a" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref281_vmm" level="file">
+                  <did>
+                     <unittitle>Joe E. Roxx, 1966</unittitle>
+                     <container id="aspace_b09bcde0eaa04d9d5db852b30f14f9c7" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref282_d4k" level="file">
+                  <did>
+                     <unittitle>Society of Seven, 1969</unittitle>
+                     <container id="aspace_6710ccbea0d0feae4f6a3993a90085af" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref283_yok" level="file">
+                  <did>
+                     <unittitle>Cathy Steele, 1967</unittitle>
+                     <container id="aspace_86776188de7b196e16458d588dbcbf1d" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref284_2o2" level="file">
+               <did>
+                  <unittitle>Phillips Petroleum</unittitle>
+               </did>
+               <c03 id="aspace_ref285_2kr" level="file">
+                  <did>
+                     <unittitle>Mel Allen, 1972</unittitle>
+                     <container id="aspace_ded2c789c47db6ee26c6a2fd6bcf6791" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref286_i6q" level="file">
+                  <did>
+                     <unittitle>Johnny Bench, 1971</unittitle>
+                     <container id="aspace_f1ce1e572f6e75f68f7598db7b489fcf" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref287_mvt" level="file">
+                  <did>
+                     <unittitle>Joe Garagiola, 1968</unittitle>
+                     <container id="aspace_6dec4c09cb17f5c85ba0711027349565" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref288_gv8" level="file">
+                  <did>
+                     <unittitle>Curt Gowdy, 1968</unittitle>
+                     <container id="aspace_b1dc781f8a9532f083c2f82710433c0f" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref289_5ta" level="file">
+                  <did>
+                     <unittitle>Gale Sayers, 1970</unittitle>
+                     <container id="aspace_dcf6b95d7f39f8a5e63a06031b2e2438" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref290_21i" level="file">
+                  <did>
+                     <unittitle>Tom and Nancy Seaver, 1970</unittitle>
+                     <container id="aspace_4de3eb2df4bfe6347947f03dc28d7e50" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref291_67r" level="file">
+               <did>
+                  <unittitle>Quaker Oats</unittitle>
+               </did>
+               <c03 id="aspace_ref292_f9c" level="file">
+                  <did>
+                     <unittitle>Tom Ewell, 1969</unittitle>
+                     <container id="aspace_f4e0c1d13bf790741babbeb6d705ef8c" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref293_y9k" level="file">
+               <did>
+                  <unittitle>RCA</unittitle>
+               </did>
+               <c03 id="aspace_ref294_sqr" level="file">
+                  <did>
+                     <unittitle>Don Adams, 1968</unittitle>
+                     <container id="aspace_dc12123ea81113c9b1429474f8baa1af" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref295_dg2" level="file">
+                  <did>
+                     <unittitle>Bruce Gordon, 1969</unittitle>
+                     <container id="aspace_898a9e8a7861bdd38666450013eb2230" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref296_rko" level="file">
+                  <did>
+                     <unittitle>David Huddleston, 1976</unittitle>
+                     <container id="aspace_58244f41c9865f27df521e5e08affd2a" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref297_db1" level="file">
+                  <did>
+                     <unittitle>Ted Lewis, 1968</unittitle>
+                     <container id="aspace_f103b24617ee460967e79ec6ca31fa1b" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref298_sqe" level="file">
+                  <did>
+                     <unittitle>Vaughn Monroe, 1969</unittitle>
+                     <container id="aspace_3bf2c9bbe041ce1895b1a427be43d89c" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref299_0rz" level="file">
+                  <did>
+                     <unittitle>Greg Morris, 1969</unittitle>
+                     <container id="aspace_ab3828b2c7fbbe629e166cb9e02e5a7f" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref300_5xt" level="file">
+                  <did>
+                     <unittitle>Cyril Ritchard, 1969</unittitle>
+                     <container id="aspace_49c6c5732cdb124c626df60696611578" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref301_e8a" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Reader's Digest</title>
+                  </unittitle>
+               </did>
+               <c03 id="aspace_ref302_yl2" level="file">
+                  <did>
+                     <unittitle>Danny Thomas, 1978</unittitle>
+                     <container id="aspace_c54f1946eba03e69f028d60b5b2dc4cb" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref303_z5r" level="file">
+               <did>
+                  <unittitle>R.J. Reynolds</unittitle>
+               </did>
+               <c03 id="aspace_ref304_8cf" level="file">
+                  <did>
+                     <unittitle>Stephen Scott, 1970</unittitle>
+                     <container id="aspace_d9f7f4ac92ad8ab7330a323f3e984510" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref305_4j1" level="file">
+                  <did>
+                     <unittitle>Myra Waldo, 1972</unittitle>
+                     <container id="aspace_9fbadd78e01ce0da5a0bfb9742c67a60" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref306_pvr" level="file">
+               <did>
+                  <unittitle>Scott Paper</unittitle>
+               </did>
+               <c03 id="aspace_ref307_5ho" level="file">
+                  <did>
+                     <unittitle>Kristina Holland, 1970</unittitle>
+                     <container id="aspace_50d19cf240428301a436cb3d5c9e8b6a" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref308_dx8" level="file">
+                  <did>
+                     <unittitle>Jenna McMahon, Richard Clau, 1967</unittitle>
+                     <container id="aspace_c0848ff1741159f2f705d7a472442ad8" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref309_x6e" level="file">
+                  <did>
+                     <unittitle>Carol Morley, 1975</unittitle>
+                     <container id="aspace_074eac9e1c7cb63ce3e8002eb25e5d08" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref310_v6q" level="file">
+                  <did>
+                     <unittitle>Mae Questel, 1972</unittitle>
+                     <container id="aspace_35189206e802fa242188aa2dc6ba9b9f" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref311_8zk" level="file">
+               <did>
+                  <unittitle>Seven-Up</unittitle>
+               </did>
+               <c03 id="aspace_ref312_t5o" level="file">
+                  <did>
+                     <unittitle>Irwin Corey, 1968</unittitle>
+                     <container id="aspace_07aa37fc265bb030d928efebfe7eb8c3" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref313_f0m" level="file">
+                  <did>
+                     <unittitle>Geoffrey Holder, 1970</unittitle>
+                     <container id="aspace_8cf148364b3bd398424053a545d3b8c9" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref314_pcn" level="file">
+                  <did>
+                     <unittitle>Gary Middlecoff, 1966</unittitle>
+                     <container id="aspace_f6e6379b42542f2b6ed20e6f519d28e6" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref315_opu" level="file">
+               <did>
+                  <unittitle>Singer</unittitle>
+               </did>
+               <c03 id="aspace_ref316_i5z" level="file">
+                  <did>
+                     <unittitle>Don Ho, 1967</unittitle>
+                     <container id="aspace_e356372a95bba4ac65993f3eebdb741a" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref317_9y2" level="file">
+               <did>
+                  <unittitle>Standard Brands</unittitle>
+               </did>
+               <c03 id="aspace_ref318_f1f" level="file">
+                  <did>
+                     <unittitle>Kate Smith, 1969-1970</unittitle>
+                     <container id="aspace_defeb623f4438c6954dc8725049e810d" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref319_pzp" level="file">
+               <did>
+                  <unittitle>Squibb Beech-Nut</unittitle>
+               </did>
+               <c03 id="aspace_ref320_h4o" level="file">
+                  <did>
+                     <unittitle>Orson Bean, 1971</unittitle>
+                     <container id="aspace_b81c0136de4c4f36ed0910578b62a395" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref321_3px" level="file">
+               <did>
+                  <unittitle>Uncle Ben's</unittitle>
+               </did>
+               <c03 id="aspace_ref322_em6" level="file">
+                  <did>
+                     <unittitle>Ed McMahon, 1969-1971</unittitle>
+                     <container id="aspace_ee0f4f43739e74431107f11b87283315" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref323_l7b" level="file">
+               <did>
+                  <unittitle>U.S. Marines</unittitle>
+               </did>
+               <c03 id="aspace_ref324_j0f" level="file">
+                  <did>
+                     <unittitle>Christopher George, 1976</unittitle>
+                     <container id="aspace_0f55cc25bb65c306250d036a64ccdf76" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref325_hzm" level="file">
+               <did>
+                  <unittitle>Warner-Lambert</unittitle>
+               </did>
+               <c03 id="aspace_ref326_u8x" level="file">
+                  <did>
+                     <unittitle>Jeanne Evert, 1978</unittitle>
+                     <container id="aspace_33d37ab167157c21576323940b44ac49" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref327_8b3" level="file">
+                  <did>
+                     <unittitle>Clint Howard, 1978</unittitle>
+                     <container id="aspace_614656ff9b62dc7aafc35bfb4b0695db" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref328_qnp" level="file">
+                  <did>
+                     <unittitle>Y.A. Tittle, 1966</unittitle>
+                     <container id="aspace_f3f8535a8b5a8871d9cf1b8c2860a019" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref329_2eu" level="file">
+                  <did>
+                     <unittitle>William Wyndom, 1970</unittitle>
+                     <container id="aspace_19974644091960193eb96df083f6ec4f" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref330_o7r" level="file">
+               <did>
+                  <unittitle>Water Pik</unittitle>
+               </did>
+               <c03 id="aspace_ref331_fej" level="file">
+                  <did>
+                     <unittitle>Robert Fuller, 1976</unittitle>
+                     <container id="aspace_cea82b80596e6ad8bd34dbbb3ed5fd3e" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref332_cr4" level="file">
+               <did>
+                  <unittitle>Whitehall Pharmaceuticals</unittitle>
+               </did>
+               <c03 id="aspace_ref333_53r" level="file">
+                  <did>
+                     <unittitle>Warren Hull, 1966</unittitle>
+                     <container id="aspace_39aabd3a63f10642ba3d8561b471add5" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref334_xj2" level="file">
+               <did>
+                  <unittitle>W.F. Young</unittitle>
+               </did>
+               <c03 id="aspace_ref335_k5p" level="file">
+                  <did>
+                     <unittitle>Don McNeill, 1972</unittitle>
+                     <container id="aspace_a2110e4b90db1caf3b1033fcb804df48" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref336_sfi" level="file">
+                  <did>
+                     <unittitle>Don Wilson, 1969</unittitle>
+                     <container id="aspace_7d4587acddf723d0b0253ffd63c2f59b" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

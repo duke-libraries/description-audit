@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/kilbyjohn/">kilbyjohn</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the John Richardson Kilby papers, 1680-1919 and undated, bulk
+               1840-1889 <num>RL.00778</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+               Paula Jeannet and Jennifer Snow</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2013</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000864896</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:21:56
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>John Richardson Kilby papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Kilby, John Richardson, 1819-1878</persname>
+         </origination>
+         <unitid>RL.00778</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">14 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1680/1919" type="inclusive">1680-1919 and undated bulk
+            1840-1889</unitdate>
+         <physloc id="aspace_ee9f02f69db5f23d9b6d3d20e3025bef">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_dce8337cd6ae53d1bb90359ed1d55599">Kilby and his son, Wilbur John Kilby
+            (1850-1907), were both lawyers of Suffolk, Virginia, and of members of the Riddick
+            family. Correspondence and legal and other papers of Kilby and of his son, Wilbur John
+            Kilby (1850-1907), both lawyers, of Suffolk, Va., and of members of the Riddick family.
+            The bulk of the collection concerns such legal activities of the Kilbys as
+            administration of estates, collection of bills, and adjustments of property. The
+            collection is important in part for its early records of families and references to
+            politics and social conditions of Nansemond County, Virginia, but also for its
+            references to slavery, the American Colonization Society and conditions in Liberia, and
+            for its slave lists from the Riddick and Glazebrook families. There are many wills, one
+            of which refers to the manumission of slaves. Other items refer to the legal affairs of
+            the Riddick family, Richard H. Riddick, merchant of Pantego, N.C., and agent of the
+            Albemarle Swamp Land Company; pro-Civil War activities of the Methodist Episcopal
+            Church; Southampton Insurrection of 1831; Civil War action near Shepherdstown and
+            Fredericksburg; African American soldiers during Reconstruction; the Negro Reformatory
+            Association of Virginia; the gold rush of Pike's Peak, Colorado; a Suffolk, Va. cholera
+            epidemic; and the Panic of 1857.</abstract>
+         <physdesc id="aspace_e1d2a96e4de2fe3f15f4bb982480b3dd">
+            <extent>Approx. 39,509 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_2a85c430f8b5a188b895364ef898ed38">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_2c435e399603477cfc2e8f267a9ce39b">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_3e28306367abae4544fe65157a39f96b">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_d979ed157edf969eab43e4460f7cb093">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], John Richardson Kilby Papers, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_dc0d0b6f3933d5dcf30aed2210b3e1a9">
+         <head>Provenance</head>
+         <p>The John Richardson Kilby papers were received by the David M. Rubenstein Rare Book
+            &amp; Manuscript Library as a gift from 1942-1952.</p>
+      </acqinfo>
+      <processinfo id="aspace_f16312698851a2120d1baee7f8399fd2">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff</p>
+         <p>Encoded by Paula Jeannet and Jennifer Snow, November 2013</p>
+         <p>Accessions acquired from 1942-1952 were merged into one collection, described in this
+            finding aid.</p>
+      </processinfo>
+      <scopecontent id="aspace_9720e4944bd5653eed19c30a65385d22">
+         <head>Collection Overview</head>
+         <p>Correspondence and legal and other papers of Kilby and of his son, Wilbur John Kilby
+            (1850-1907), both lawyers, of Suffolk, Virginia, and of members of the Riddick family.
+            The bulk of the collection dates from 1840-1889 and concerns such legal activities of
+            the Kilbys as administration of estates, collection of bills, and adjustments of
+            property. The collection is important in part for its records of families and social
+            conditions of Nansemond County, Virginia.</p>
+         <p>Other important subjects include genealogical information for other families; the case
+            of Harriet Whitehead, whose mind was impaired by the loss of her family in the Nat
+            Turner Southampton Insurrection, 1831; freedom for slaves, with references to the work
+            of the American Colonization Society and to life and conditions in Liberia; legal
+            affairs of the Riddick family, Richard H. Riddick, merchant of Pantego, N.C., and agent
+            of the Albemarle Swamp Land Company; pro-Civil War activities of the Methodist Episcopal
+            Church; the Suffolk, Va. cholera epidemic (1849); the Panic of 1857 and the Pike's Peak,
+            Colorado gold rush in 1859; action around Fredericksburg and Shepherdstown during the
+            Civil War; African American soldiers in Charleston, S.C. during Reconstruction;
+            Nansemond County, Virginia politics, especially during W. J. Kilby's career; and the
+            Negro Reformatory Association of Virginia.</p>
+         <p>Several slave lists date from 1839-1858. The most extensive is of the Riddick family in
+            undated legal papers. As the Office of Clerk of County burned in 1866, the legal,
+            financial, and genealogical records are valuable for their information. A partial list
+            of wills also exists, including the wills of Josiah Riddick, Richard Riddick, and John
+            Glazebrook. One will, later contested, stipulates the manumission of a slave. Volumes
+            include daybooks, memoranda, account books, notebooks, both professional and personal,
+            as well as broadsides of land sales in Nansemond County, Virginia. The genealogical
+            records are a photocopy of the printed genealogy of the Kilby, Jynes, Riddick, and
+            Glazebrook families.</p>
+      </scopecontent>
+      <index id="aspace_01acbe8cfd2532c91b17eac1279a52e6">
+         <head>Partial List of Wills in Collection by Name, County, and Date (mostly copies of
+            original wills)</head>
+         <p>These can be found in the Legal Papers Series.</p>
+         <indexentry>
+            <title>Transfer, Katharine, widow of Philemon Haywood, quoting will of Henry Lowe, Sr.,
+               1747 Oct. 13</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, William Crawford, 1762 Jan. 27</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, George Veale, 1776 Jan. 16</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, Samuel Veale, 1793 Mar. 12</title>
+         </indexentry>
+         <indexentry>
+            <title>Wm. Garrison, Jr., 1776, Accomack Co., Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>Jonathan Garrison, 1789, Accomack Co., Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>George Garrison, 1789, Accomack Co., Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>George Garrison, 1788 Mar.</title>
+         </indexentry>
+         <indexentry>
+            <title>John Garrison, 1795, Accomack Co., Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>Rachel Garrison, 1801, Accomack Co., Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, George Hall, 1823 May 7</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, William Deams, 1825</title>
+         </indexentry>
+         <indexentry>
+            <title>Thomas Radwell, 1819 Jan. 2, Mansemone [Nansemond?] Co., Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>John Glazebrook, 1824 July 13, Hanover Co. Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>Legal document on this will, 1847 Oct.</title>
+         </indexentry>
+         <indexentry>
+            <title>Sarah Shivers, 1827 Nov. 28, Isle of Wight Co. Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, Alfred Ames, 1830 Jan. 19</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, Josiah Riddick, 1838 Sept. 16, Nansemond Co., Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, John Harrell, 1840 Mar. 2</title>
+         </indexentry>
+         <indexentry>
+            <title>Joseph Wright, 1840 May 29, Nansemond Co., Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, William Addison, 1841 Mar. 21</title>
+         </indexentry>
+         <indexentry>
+            <title>William Murphrey, Nansemond Co., 1841 July 31</title>
+         </indexentry>
+         <indexentry>
+            <title>James Parker, 1843 Jan. 23, Nansemond Co.</title>
+         </indexentry>
+         <indexentry>
+            <title>Joseph Corbell, 1809 May 19</title>
+         </indexentry>
+         <indexentry>
+            <title>Joseph Vaughan, 1855 Aug. 3, Nansemond Co.</title>
+         </indexentry>
+         <indexentry>
+            <title>Thomas Tartt, 1856 Feb. 11, Norfolk Co.</title>
+         </indexentry>
+         <indexentry>
+            <title>Robert H. Tatem, 1856 May 21, Norfolk Co.</title>
+         </indexentry>
+         <indexentry>
+            <title>William Green, 1857 Jan. 5, Isle of Wight Co.</title>
+         </indexentry>
+         <indexentry>
+            <title>Exum Jenkins 1857 Nov. 20, Nansemond Co.</title>
+         </indexentry>
+         <indexentry>
+            <title>Richard Riddick, n.d., Beaufort Co., revoked in favor of later will (1857 Nov.
+               13?), original</title>
+         </indexentry>
+         <indexentry>
+            <title>Richard Riddick, 1857 Dec. 13, Beaufort Co., original</title>
+         </indexentry>
+         <indexentry>
+            <title>John Gray, 1858 May 25, original</title>
+         </indexentry>
+         <indexentry>
+            <title>Excerpts, Theoderick Robertson, 1853 July 21</title>
+         </indexentry>
+         <indexentry>
+            <title>Drewry Waller, 1859 May 28, Southhampton Co.</title>
+         </indexentry>
+         <indexentry>
+            <title>Extract, Mrs. Bunch, 1861 Aug. 12</title>
+         </indexentry>
+         <indexentry>
+            <title>James Majitt, 1861 Apr. 4, Va.</title>
+         </indexentry>
+         <indexentry>
+            <title>Lumuel Vaughan, 1862 Nov. 10, Hanover Co.; codicil, 4 June 1864</title>
+         </indexentry>
+         <indexentry>
+            <title>Archie C. Godwin, 1863 June 13, N.C., original</title>
+         </indexentry>
+         <indexentry>
+            <title>Thomas Hall, 1863 Nov. 2, Isle of Wight</title>
+         </indexentry>
+         <indexentry>
+            <title>William H. Goodwin, 1864 Aug. 31, Nansemond Co.</title>
+         </indexentry>
+         <indexentry>
+            <title>Nancy Barrett, 1855 Nov. 17, Isle of Wight, original</title>
+         </indexentry>
+         <indexentry>
+            <title>William H. Summerell, 1864 Nov. 14, Southampton</title>
+         </indexentry>
+         <indexentry>
+            <title>Ro. Laurence, 1865 Oct. 28, Nansemond</title>
+         </indexentry>
+         <indexentry>
+            <title>Jesse Perry, 1863 Aug 8, Nansemond</title>
+         </indexentry>
+      </index>
+      <controlaccess>
+         <geogname source="lcsh">Colorado -- Gold discoveries</geogname>
+         <geogname source="lcsh">Charleston (S.C.) -- Social conditions</geogname>
+         <geogname source="lcsh">Nansemond County (Va.) -- Genealogy</geogname>
+         <geogname source="lcsh">Fredericksburg (Va.) -- History -- 19th century</geogname>
+         <subject source="lcsh">African Americans -- Colonization -- Africa</subject>
+         <subject source="lcsh">Cholera -- Virginia -- Suffolk</subject>
+         <subject source="lcsh">Depressions -- 1857 -- Virginia</subject>
+         <subject source="lcsh">Lawyers -- Virginia -- Suffolk -- Correspondence</subject>
+         <subject source="lcsh">Merchants -- North Carolina -- Pantego</subject>
+         <subject source="lcsh">Probate law and practice -- Virginia</subject>
+         <subject source="lcsh">Reconstruction (U.S. history, 1865-1877) -- South Carolina</subject>
+         <subject source="lcsh">Southampton Insurrection, 1831</subject>
+         <geogname source="lcsh">Virginia -- History -- Civil War, 1861-1865</geogname>
+         <geogname source="lcsh">Virginia -- History</geogname>
+         <geogname source="lcsh">Suffolk (Va.) -- History</geogname>
+         <geogname source="lcsh">Nansemond County (Va.) -- Politics and government</geogname>
+         <corpname source="ingest">Albemarle Swamp Land Company</corpname>
+         <persname source="ingest">Riddick, Richard H.</persname>
+         <corpname source="ingest">Negro Reformatory Association of Virginia</corpname>
+         <corpname source="ingest">Methodist Episcopal Church -- History -- Civil War,
+            1861-1865</corpname>
+         <persname source="ingest">Kilby, Wilbur John, 1850-1907</persname>
+         <famname source="ingest">Kilby family</famname>
+         <corpname source="ingest">American Colonization Society</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref11_xs5" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1840-1907 and undated</unittitle>
+               <physdesc id="aspace_c14fb0a37b8b8d10b91b7952e16713db">
+                  <extent>42 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref13_vtb" level="file">
+               <did>
+                  <unittitle>1840-1850 Apr.; case of Harriet Whitehead; photographs; information on
+                     collection</unittitle>
+                  <container id="aspace_00084b25989e952d2814babd065807c4" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref14_yoz" level="file">
+               <did>
+                  <unittitle>1850 May-1852</unittitle>
+                  <container id="aspace_9766efe1895db99aad3684a8e30f0b73" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_e27" level="file">
+               <did>
+                  <unittitle>1853-1855 June</unittitle>
+                  <container id="aspace_2292a379d51f2f4ce16b711ef86f24cd" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_rdz" level="file">
+               <did>
+                  <unittitle>1855 July-1856</unittitle>
+                  <container id="aspace_5b4e1e5fdab845196d2b349cd1ae9b2e" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_rqt" level="file">
+               <did>
+                  <unittitle>1857</unittitle>
+                  <container id="aspace_c88aa639baa46abe36a16baa3a8ae5fe" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_9qu" level="file">
+               <did>
+                  <unittitle>1858 Jan.-1859 Aug.</unittitle>
+                  <container id="aspace_d378c06141f4a462a51bbefbb522ac65" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_sdr" level="file">
+               <did>
+                  <unittitle>1859 Sept.-1862</unittitle>
+                  <container id="aspace_65be64768bc949287f9d60febe4b4d82" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_51b" level="file">
+               <did>
+                  <unittitle>1863-Sept. 1866</unittitle>
+                  <container id="aspace_c4fe29d0287cfff749717449f1eebfe3" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_e48" level="file">
+               <did>
+                  <unittitle>1866 Oct-Aug 1867</unittitle>
+                  <container id="aspace_8e3bd85603a70645403ed3c964eb1b93" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_36x" level="file">
+               <did>
+                  <unittitle>1867 Sept.-Feb. 1868</unittitle>
+                  <container id="aspace_85ab5697ffd2d14827bc71e6fb39c08b" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_072" level="file">
+               <did>
+                  <unittitle>1868 March-1868 Aug.</unittitle>
+                  <container id="aspace_fac6917d172d77117ca8685d7c605554" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_9mt" level="file">
+               <did>
+                  <unittitle>1868 Sept.-1869 April</unittitle>
+                  <container id="aspace_a791f7a3537e1769e9a3f2ba6d9ed4fd" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_tcg" level="file">
+               <did>
+                  <unittitle>1869 May-1870 Feb.</unittitle>
+                  <container id="aspace_60fc779400af740dae47cbb17581ef95" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_nnq" level="file">
+               <did>
+                  <unittitle>1870 March-1870 Sept.</unittitle>
+                  <container id="aspace_384a93350b78b4dc07328aeaac26f94a" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_4ls" level="file">
+               <did>
+                  <unittitle>1870 Oct.-1871 April</unittitle>
+                  <container id="aspace_6d0070e2d8949c1371ea4602234bf223" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_0dq" level="file">
+               <did>
+                  <unittitle>1871 May-Nov.</unittitle>
+                  <container id="aspace_08b1f6223d2478e00ee6d18fb0157999" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_jw3" level="file">
+               <did>
+                  <unittitle>1871 Dec.-1872 April</unittitle>
+                  <container id="aspace_67ab0bee184591db6bb209d6a82749b1" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_wd7" level="file">
+               <did>
+                  <unittitle>1872 May-1872 Oct.</unittitle>
+                  <container id="aspace_f334c7265589aae944dd87212443e501" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_uu9" level="file">
+               <did>
+                  <unittitle>1872 Nov.-1873 March</unittitle>
+                  <container id="aspace_35108b76af9fd91f9bcc305d0ea58ca2" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_x7s" level="file">
+               <did>
+                  <unittitle>1873 April-1873 Oct.</unittitle>
+                  <container id="aspace_6130822721cd0705bf604d50385c7356" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_k6p" level="file">
+               <did>
+                  <unittitle>1873 Nov.-1874 May</unittitle>
+                  <container id="aspace_4b2c8b72f155d33f4285701a2176e563" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_9bb" level="file">
+               <did>
+                  <unittitle>1874 June-1874 Dec.</unittitle>
+                  <container id="aspace_0ace91c6f2cb153f2d626afd3e1cb8a8" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_e8w" level="file">
+               <did>
+                  <unittitle>1875 Jan.-1875 June</unittitle>
+                  <container id="aspace_6f88bdfe17bfb34b3a00f6a8186f54d0" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_bee" level="file">
+               <did>
+                  <unittitle>1874 July-1876 Jan.</unittitle>
+                  <container id="aspace_26b3774e753a1ba85715ad00ede3903e" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_yq7" level="file">
+               <did>
+                  <unittitle>1876 Feb.-1876 Aug.</unittitle>
+                  <container id="aspace_7900a1603334718167bd01926a8ca9af" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_k9x" level="file">
+               <did>
+                  <unittitle>1876 Sept.-1877 Sept.</unittitle>
+                  <container id="aspace_fc9ff00ff6d9a7bad75de15b903c2144" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_7nd" level="file">
+               <did>
+                  <unittitle>1877 Oct.-1878 Dec.</unittitle>
+                  <container id="aspace_7bf5593be34afe81333fb6ae1b85db7a" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_g5w" level="file">
+               <did>
+                  <unittitle>1879-1881 June</unittitle>
+                  <container id="aspace_23d8df091b16c33d764a8ed439ced742" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_842" level="file">
+               <did>
+                  <unittitle>1881 July-1883 March</unittitle>
+                  <container id="aspace_5fd22980064b79399874a95e6243a407" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_p2s" level="file">
+               <did>
+                  <unittitle>1883 April-1886 June</unittitle>
+                  <container id="aspace_e1536c4bb841e4891693df35a70ec344" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_82d" level="file">
+               <did>
+                  <unittitle>1885 July-1886 Dec.</unittitle>
+                  <container id="aspace_fa7b7a431ed9ffbda152253363631fba" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_v5d" level="file">
+               <did>
+                  <unittitle>1887-1888 Aug.</unittitle>
+                  <container id="aspace_c8eaddd21073ae4521c5e4ab693e8f6a" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_7dy" level="file">
+               <did>
+                  <unittitle>1888 Sept.-1890 June</unittitle>
+                  <container id="aspace_12c16c72e08fdd4333ac95cfbd635f83" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_3og" level="file">
+               <did>
+                  <unittitle>1890 July-1891</unittitle>
+                  <container id="aspace_e3996ef0ef46fb961b1d20ca4a9da717" label="Mixed Materials"
+                     type="box">34</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_cj6" level="file">
+               <did>
+                  <unittitle>1892 Jan.-1893 Dec.</unittitle>
+                  <container id="aspace_2be3ab225224b7b73331084fa24bdbfe" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_5ks" level="file">
+               <did>
+                  <unittitle>1894 Jan.-1895 June</unittitle>
+                  <container id="aspace_856020f65a4332e80f665f84c3669bc4" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_mgy" level="file">
+               <did>
+                  <unittitle>1895 July-1896 Aug.</unittitle>
+                  <container id="aspace_a222fce4633b7d4838c07eb78d32b0e8" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_qwx" level="file">
+               <did>
+                  <unittitle>1896 Sept.-1897 Dec.</unittitle>
+                  <container id="aspace_1c3a67397316f7900cee0a32ee079518" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_4yw" level="file">
+               <did>
+                  <unittitle>1898 Jan.-1899 Dec.</unittitle>
+                  <container id="aspace_1f8d031b5f7edd69e628418fb3fd4184" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_dcx" level="file">
+               <did>
+                  <unittitle>1900-1901</unittitle>
+                  <container id="aspace_c52e58b2f12c6620bd6b969f16659ddc" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_x5x" level="file">
+               <did>
+                  <unittitle>1902-1905 May</unittitle>
+                  <container id="aspace_354652e2f5559de4b22e3151a4c562c5" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_f9h" level="file">
+               <did>
+                  <unittitle>1905 June-1907 Dec. and undated</unittitle>
+                  <container id="aspace_352232656d93425572c060b25478e650" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref55_41y" level="series">
+            <did>
+               <unittitle>Legal Papers Series, 1680-1907 and undated</unittitle>
+               <physdesc id="aspace_763d76fecc41e7b5baf77367afa4a2c0">
+                  <extent>18 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref57_ey4" level="file">
+               <did>
+                  <unittitle>1680-1842</unittitle>
+                  <container id="aspace_5371afc0ccb23e6988f05b744d768cb7" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_66r" level="file">
+               <did>
+                  <unittitle>1843-1851</unittitle>
+                  <container id="aspace_fd019b47d07deafd46150844e39a3ce6" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_51p" level="file">
+               <did>
+                  <unittitle>1852-1855</unittitle>
+                  <container id="aspace_bb6304d4c303bcf9c4f63f4d3d9547b2" label="Mixed Materials"
+                     type="box">45</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_5os" level="file">
+               <did>
+                  <unittitle>1856-1858</unittitle>
+                  <container id="aspace_593f6958b079fea9e6483f9252d429c0" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_a7g" level="file">
+               <did>
+                  <unittitle>1859-1863</unittitle>
+                  <container id="aspace_725d41efc16d2f0f7a8ded844c516df8" label="Mixed Materials"
+                     type="box">47</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_wrd" level="file">
+               <did>
+                  <unittitle>1864-1866</unittitle>
+                  <container id="aspace_80087830fbf0ca0a5a7678553c4b68d7" label="Mixed Materials"
+                     type="box">48</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_dia" level="file">
+               <did>
+                  <unittitle>1867-1868</unittitle>
+                  <container id="aspace_4e0b25f3db2215e5f974a9101b75e789" label="Mixed Materials"
+                     type="box">49</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_lkq" level="file">
+               <did>
+                  <unittitle>1869-1871 Sept.</unittitle>
+                  <container id="aspace_e0f33ac5a7c27f6edbab11e3df231e39" label="Mixed Materials"
+                     type="box">50</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_8gn" level="file">
+               <did>
+                  <unittitle>1871 Oct.-1874 June</unittitle>
+                  <container id="aspace_c9b00c1cc663b729b508ac47f7acf852" label="Mixed Materials"
+                     type="box">51</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_u0v" level="file">
+               <did>
+                  <unittitle>1874 July-1877</unittitle>
+                  <container id="aspace_5ea553a677874addde215380b62b7916" label="Mixed Materials"
+                     type="box">52</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_e36" level="file">
+               <did>
+                  <unittitle>1878-1882</unittitle>
+                  <container id="aspace_dcd0066e673e5c6695d6be24a1dd3bc9" label="Mixed Materials"
+                     type="box">53</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_6qc" level="file">
+               <did>
+                  <unittitle>1883-1886</unittitle>
+                  <container id="aspace_bcdcf60c7be3791a98c9aeeaeefd5828" label="Mixed Materials"
+                     type="box">54</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_ae2" level="file">
+               <did>
+                  <unittitle>1887-1892</unittitle>
+                  <container id="aspace_4d8a3f6e86b6e263ba0a685d324c93be" label="Mixed Materials"
+                     type="box">55</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_gp0" level="file">
+               <did>
+                  <unittitle>1893-1907</unittitle>
+                  <container id="aspace_7d2e6f29c49eeb21ee02d7834ecff887" label="Mixed Materials"
+                     type="box">56</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_caz" level="file">
+               <did>
+                  <unittitle>Miscellaneous papers and undated items</unittitle>
+                  <physdesc id="aspace_37c294991114fcadc5d18fb1ee5ebb42">
+                     <extent>4 boxes</extent>
+                  </physdesc>
+                  <container id="aspace_66e77c29eb4447992880ec615b6c698a" label="Mixed Materials"
+                     type="box">57-60</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref73_hq0" level="series">
+            <did>
+               <unittitle>Financial Papers Series, 1814-1909 and undated</unittitle>
+               <physdesc id="aspace_99d8b8221decd97acf1e723b2a11d60b">
+                  <extent>25 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref75_y9l" level="file">
+               <did>
+                  <unittitle>1814-1840s</unittitle>
+                  <container id="aspace_0762708b03d23313e9bc281a00b26e4b" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_wew" level="file">
+               <did>
+                  <unittitle>1840s</unittitle>
+                  <physdesc id="aspace_3469d3f976e8d9a87f563856fb14427e">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+                  <container id="aspace_d4bf06cd408971be40bb4cf4fa6ac9f4" label="Mixed Materials"
+                     type="box">62-63</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_fwq" level="file">
+               <did>
+                  <unittitle>1850s</unittitle>
+                  <physdesc id="aspace_24566b94a98c99cdc305f2c59bedfdbb">
+                     <extent>5 boxes</extent>
+                  </physdesc>
+                  <container id="aspace_30cdc75f2f9117d07f553ed4bde0bec6" label="Mixed Materials"
+                     type="box">64-68</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_bhq" level="file">
+               <did>
+                  <unittitle>1850s-1860</unittitle>
+                  <container id="aspace_57273a583d53176130c7b21103d91032" label="Mixed Materials"
+                     type="box">69</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_cu4" level="file">
+               <did>
+                  <unittitle>1860-1866</unittitle>
+                  <container id="aspace_560e7546dbc568a72ec510065ab63c6c" label="Mixed Materials"
+                     type="box">70</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_jta" level="file">
+               <did>
+                  <unittitle>1867-1869, 1860</unittitle>
+                  <container id="aspace_f84e42a3d56ba2b30c3ee7344bf62d44" label="Mixed Materials"
+                     type="box">71</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_2lc" level="file">
+               <did>
+                  <unittitle>1860s</unittitle>
+                  <physdesc id="aspace_8b2c6c095f279acd3adc86ff952ca705">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+                  <container id="aspace_6a600ade2f324c640914157a85c57a68" label="Mixed Materials"
+                     type="box">72-3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_64e" level="file">
+               <did>
+                  <unittitle>1860s-1870s</unittitle>
+                  <container id="aspace_3054c037316310be80e59206e65d0b1e" label="Mixed Materials"
+                     type="box">74</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_d34" level="file">
+               <did>
+                  <unittitle>1870s</unittitle>
+                  <physdesc id="aspace_880d11021755473bb085b1bad836b7d4">
+                     <extent>5 boxes</extent>
+                  </physdesc>
+                  <container id="aspace_8903be60c6cd9dc71f04ea708e96d4ca" label="Mixed Materials"
+                     type="box">75-79</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_lm9" level="file">
+               <did>
+                  <unittitle>1870s-1880s</unittitle>
+                  <container id="aspace_f8c335c54cc6b3c28aa6ef2597ae0a7a" label="Mixed Materials"
+                     type="box">80</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_6pe" level="file">
+               <did>
+                  <unittitle>1880s-1890s</unittitle>
+                  <container id="aspace_c5fae272957eecd7bff829a4c60bba8e" label="Mixed Materials"
+                     type="box">81</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_evd" level="file">
+               <did>
+                  <unittitle>1890s-1900s</unittitle>
+                  <container id="aspace_edb3a1e446f86e30f85cc4ba55d358c4" label="Mixed Materials"
+                     type="box">82</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_6e6" level="file">
+               <did>
+                  <unittitle>Undated</unittitle>
+                  <container id="aspace_e4b159f32c897aac43f48605f5186bae" label="Mixed Materials"
+                     type="box">83</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_s9l" level="file">
+               <did>
+                  <unittitle>Undated, also printed material</unittitle>
+                  <container id="aspace_0afc30dbc8b3d4d92fa55089a288c995" label="Mixed Materials"
+                     type="box">84</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_tk8" level="file">
+               <did>
+                  <unittitle>Genealogy, miscellaneous papers, volumes</unittitle>
+                  <container id="aspace_164ca9bad21fb6624584f84b81a4575b" label="Mixed Materials"
+                     type="box">85</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

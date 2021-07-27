@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/chick/">chick</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Jesse Chickering Papers, 1805-1919 <num>RL.00222</num>
+            </titleproper>
+            <author>Machine-readable finding aid created by Alvin PollockElectronic Text UnitUC
+               Berkeley Library</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001582406</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 14:37:12
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Jesse Chickering papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Chickering, Jesse, 1797-1855</persname>
+         </origination>
+         <unitid>RL.00222</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+            <extent altrender="carrier">7 boxes; 2 oversize folders</extent>
+         </physdesc>
+         <unitdate normal="1805/1919" type="inclusive">1805-1919</unitdate>
+         <physloc id="aspace_0efc6042e4c1e910ec2a58fb9a33e887">For current information on the
+            location of these materials, please consult the library's online catalog.</physloc>
+         <langmaterial id="aspace_1710e0dc7e426a6cd32181e69812fea2">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_313d2ef2bcfa402b45b9c18c140aed27">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_176e0917aab5d58b3dc4029ade100330">
+         <head>Use Restrictions</head>
+         <p>For more information on the copyright interests pertaining to this collection, please
+            consult Research Services staff.</p>
+      </userestrict>
+      <prefercite id="aspace_485be5a3da14438051e5a9c145c1f933">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Papers of Jesse Chickering, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <processinfo id="aspace_b0e40844d15cd9dc763db6db2845b16e">
+         <head>Processing Information</head>
+         <p>Encoded by Alvin Pollock, Electronic Text Unit, UC Berkeley Library</p>
+      </processinfo>
+      <bioghist id="aspace_93d129ed0d2d43e1b73a97c681e9b219">
+         <head>Biographical Note</head>
+         <p>Jesse Chickering, 1797-1855, was an author and political economist.</p>
+      </bioghist>
+      <scopecontent id="aspace_bb31bb9ac529ca8fedf644740f187a43">
+         <head>Collection Overview</head>
+         <p>Contains journals, correspondence, financial papers, writings and speeches, and printed
+            materials. Most material concerns Chickering's career as author and political economist.
+            The Writings and Speeches Series contains the manuscript drafts of Chickering's
+            writings, including his <title type="simple" render="doublequote">Statistical View of
+               the Population of Massachusetts from 1765 to 1840</title> (1846); <title
+               type="simple" render="doublequote">Emigration into the United States</title> (1848);
+               <title type="simple" render="doublequote">Reports on the Census of Boston</title>
+            (1851); and <title type="simple" render="doublequote">Letter addressed to the President
+               of the United States on Slavery, considered in Relation to the Principles of
+               Constitutional Government in Great Britain and in the United States</title> (1855).
+            Other subjects in this series include constellations, bank reports from several Boston
+            banks, Harvard alumni, and publication of Chickering's work.</p>
+         <p>The Correspondence Series includes personal letters and letters pertaining to research
+            on Massachusetts population growth. Correspondents include: Levi Woodbury, George
+            Ticknor, John Langdon Sibley, David Henshaw, George Bancroft, Henry I. Bowditch, Horace
+            Mann, Daniel Webster, and James Buchanan (Harvard Librarian). Immigration, slavery, and
+            Harvard University are also mentioned in the correspondence. The Journals Series
+            contains statistical information on immigration into the United States between 1819 and
+            1855, with emphasis on Massachusetts. The Miscellaneous Series includes information
+            pertaining to astronomy, including cloth maps with astronomical models and
+            planetaria.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">Massachusetts -- Population</geogname>
+         <subject source="lcsh">Banks and banking, American -- Massachusetts -- Boston</subject>
+         <subject source="lcsh">Astronomical models</subject>
+         <subject source="lcsh">Immigrants -- United States -- Massachusetts</subject>
+         <subject source="lcsh">Constellations</subject>
+         <subject source="lcsh">Slavery -- Law and legislation</subject>
+         <subject source="lcsh">Planetaria</subject>
+         <persname source="ingest">Woodbury, Levi, 1789-1851</persname>
+         <persname source="ingest">Webster, Daniel, 1782-1852</persname>
+         <persname source="ingest">Mann, Horace, 1796-1859</persname>
+         <persname source="ingest">Henshaw, David, 1791-1852</persname>
+         <persname source="ingest">Ticknor, George, 1791-1871</persname>
+         <persname source="ingest">Sibley, John Langdon, 1804-1885</persname>
+         <persname source="ingest">Chickering, Jesse, 1797-1855</persname>
+         <corpname source="ingest">Harvard University -- Alumni</corpname>
+         <persname source="ingest">Bancroft, George, 1800-1891</persname>
+         <persname source="ingest">Bowditch, Henry I. (Henry Ingersoll), 1808-1892</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref9_bad" level="series">
+            <did>
+               <unittitle>Journal Series</unittitle>
+            </did>
+            <c02 id="aspace_ref10_flv" level="file">
+               <did>
+                  <unittitle>1819-1871</unittitle>
+                  <physdesc id="aspace_231eb527ce2e9048551e24221ddbedfc">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9a73180524a1e4797e033f5e01a773bd" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref12_1wf" level="series">
+            <did>
+               <unittitle>Correspondence Series</unittitle>
+            </did>
+            <c02 id="aspace_ref13_xeh" level="file">
+               <did>
+                  <unittitle>1821-1858</unittitle>
+                  <physdesc id="aspace_8d8f171f4ac45b9ecbc0854aca0615b1">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ea8052bcea0508bee5bf080fa23092fe" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref15_u9c" level="series">
+            <did>
+               <unittitle>Financial Papers Series</unittitle>
+            </did>
+            <c02 id="aspace_ref16_d0q" level="file">
+               <did>
+                  <unittitle>1859, undated</unittitle>
+                  <physdesc id="aspace_6743f994c800b8572818584085b1b8c6">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c11765abbd694306e9b8ff0ce9d885fc" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref18_cij" level="series">
+            <did>
+               <unittitle>Writings and Speeches Series</unittitle>
+            </did>
+            <c02 id="aspace_ref19_pbi" level="file">
+               <did>
+                  <unittitle>Astronomical, 1827-1828, undated</unittitle>
+                  <container id="aspace_d75d8223b79e3bd5d147a54bd3ed41e2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_8ro" level="file">
+               <did>
+                  <unittitle>Banks, undated</unittitle>
+                  <container id="aspace_60747e676fe9813adec2d9a448036058" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_wed" level="file">
+               <did>
+                  <unittitle>Bank Dividend Report, 1841, undated</unittitle>
+                  <container id="aspace_63ade26123b8f6819280eb5909116c04" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_fmo" level="file">
+               <did>
+                  <unittitle>Constitution and Government, 1758-1780, undated</unittitle>
+                  <container id="aspace_2f8372a9f7a0965d912a95a8b57c059e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_t2v" level="file">
+               <did>
+                  <unittitle>Convents and Catholicism, 1794-1835, undated</unittitle>
+                  <container id="aspace_f988e5c51bde24f841facbd5ebfb82d3" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_hcq" level="file">
+               <did>
+                  <unittitle>Harvard Alumni, 1852, undated</unittitle>
+                  <physdesc id="aspace_dc305b40b4b7a1147a63d0857828894b">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b0b6e300c525874c773fffa200549125" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_zfg" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Immigration into the United States,</emph>
+                     1847-1851, undated</unittitle>
+                  <physdesc id="aspace_ea8e8cd37d29c322fbf75978c81f359f">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1571519302161915703dce87aa57bc06" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_m6w" level="file">
+               <did>
+                  <unittitle>Legislative Representation, 1853, undated</unittitle>
+                  <container id="aspace_d235fb31f7fe7f249ff5e2fe75ac0b9d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_coe" level="file">
+               <did>
+                  <unittitle>Market Bank Report, 1835-1841, undated</unittitle>
+                  <container id="aspace_ae2a0ad6011479674a41d2b18c8917c9" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_6mk" level="file">
+               <did>
+                  <unittitle>Medical, 1835, undated</unittitle>
+                  <container id="aspace_c3773aff799442034e74b622dfc5c006" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_q5f" level="file">
+               <did>
+                  <unittitle>North and City Bank Reports, 1841-1845, undated</unittitle>
+                  <container id="aspace_af1c898a1fba26652e2460110fdd1a02" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_c3w" level="file">
+               <did>
+                  <unittitle>On the Declaration of Independence, undated</unittitle>
+                  <container id="aspace_7e98f9172b488bb92abf5a840e1542a1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_buf" level="file">
+               <did>
+                  <unittitle>Population, 1830, undated</unittitle>
+                  <container id="aspace_8a8f3f4aaebb687af9db77678c708124" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_wll" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Reports on the Census of Boston, 1851</emph>,
+                     undated</unittitle>
+                  <container id="aspace_f43d47dc03bf660725c1cc9e95b5a069" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_9pr" level="file">
+               <did>
+                  <unittitle>Slavery:</unittitle>
+               </did>
+               <c03 id="aspace_ref36_2gv" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Nebraska Question,</emph> 1854</unittitle>
+                     <container id="aspace_e8f02c02699c608d68b28eedef59497b" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_r2w" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">North American Review, Slavery and the Missouri
+                           Question,</emph> 1820</unittitle>
+                     <container id="aspace_3b96be8f46df675504eefaf4d66b3586" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_key" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Slavery in the United States Constitutionally
+                           Considered,</emph> undated</unittitle>
+                     <container id="aspace_6260ef0882aa62be99b6b2f10b7d754c" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref39_yxa" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Statistical View of the Population of Massachusetts
+                        from 1765-1840</emph>
+                  </unittitle>
+                  <container id="aspace_3f8c05398d6a7e426727b76d7e0e1b06" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_816" level="file">
+               <did>
+                  <unittitle>Wealth in Mass., undated</unittitle>
+                  <container id="aspace_adc22bf11bb224587f45a424864a844f" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_7mp" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1821-1851, undated</unittitle>
+                  <physdesc id="aspace_d94086b31f1a8bb8f4cb79264d386364">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a872cba5a43d8a13bf7bafb149077ce9" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref43_gas" level="series">
+            <did>
+               <unittitle>Printed Materials Series, 1826-1855 and undated</unittitle>
+               <physdesc id="aspace_0ea3e4591c9b2aa0bca69091761e91c0">
+                  <extent>5 folders</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref45_9m0" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Constitution and by-laws of the American Statistical
+                        Association</title>
+                  </unittitle>
+                  <container id="aspace_5db7c0e46be855d95d9b7dfa0f962731" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_ei0" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Influence of slavery upon the white population</title>
+                  </unittitle>
+                  <container id="aspace_2b83ca8c9c2f075c87ea4bebb3771e9c" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_f8u" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The United States Constitution.</title>
+                  </unittitle>
+                  <container id="aspace_eb5c6633ff34e9da402b5d23767ff985" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_hw7" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Letter addressed to the President of the United States
+                        on slavery</title>
+                  </unittitle>
+                  <container id="aspace_649ddf4e22ab0d07920f8b2509de3460" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_3ni" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Nouvelles idées sur la population</title>
+                  </unittitle>
+                  <container id="aspace_70d1ec3ad5dedd73214b72934a974a93" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_5bh" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Address of the Hon. Edward Everett, at the anniversary
+                        of the American Colonization Society, January</title>
+                  </unittitle>
+                  <container id="aspace_8240392b71cd91f8f08f519d0ee17844" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_bsx" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Colonization.</title>
+                  </unittitle>
+                  <container id="aspace_86839435160a3dc4a2fc7e5a15d62125" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_10v" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The history of Charlestown, Massachusetts</title>
+                  </unittitle>
+                  <container id="aspace_550b49278d911348ba296cd488f33718" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_04o" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Does slavery Christianize the negro?</title>
+                  </unittitle>
+                  <container id="aspace_a288ffeef2ae5311f2f1cddff79af275" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_ehv" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The "ruin" of Jamaica</title>
+                  </unittitle>
+                  <container id="aspace_57d560335de032262dbb403136cbb8d4" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_p9n" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The inter-state slave trade.</title>
+                  </unittitle>
+                  <container id="aspace_ea8f2bb79447d530185b7a0cafa2e993" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_nfa" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">American steam navigation.</title>
+                  </unittitle>
+                  <container id="aspace_cfa6a7631688475f7f662ed52c4ade8d" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_qia" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">White slavery in the United States.</title>
+                  </unittitle>
+                  <container id="aspace_76ca83f526a77eacfb670261cf036e4f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_s3p" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Tables showing the number of emigrants and recaptured
+                        Africans sent to the colony of Liberia</title>
+                  </unittitle>
+                  <container id="aspace_3a108bf78df0589fbecade1f8597e709" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_rns" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Anti-slavery tracts</title>
+                  </unittitle>
+                  <container id="aspace_377020a208278c329511462d6c8cb9ef" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref60_e81" level="series">
+            <did>
+               <unittitle>Miscellaneous Series</unittitle>
+            </did>
+            <c02 id="aspace_ref61_xnh" level="file">
+               <did>
+                  <unittitle>General, 1821-1864, undated</unittitle>
+                  <container id="aspace_19dfa933072702de4ca6d0384be079dc" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_uvs" level="file">
+               <did>
+                  <unittitle>Astronomical studies, undated</unittitle>
+                  <container id="aspace_c87fefc0f97f0d82e5fe6eb5689bbc27" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_mlq" level="file">
+               <did>
+                  <unittitle>Clippings, 1854-1851, undated</unittitle>
+                  <container id="aspace_0f9cd15723d72bbc48b2589f87df3804" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_bt8" level="file">
+               <did>
+                  <unittitle>Legal papers, 1805-1860, undated</unittitle>
+                  <container id="aspace_fb0c0fba6882bb30f23e6520a43ab67d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_cmq" level="file">
+               <did>
+                  <unittitle>Railroads, 1836-1843, undated</unittitle>
+                  <physdesc id="aspace_4679181b33effede2f1b5b76c8030134">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f32dca0d226504d1623ca19874fa1dd6" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref67_jl7" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <c02 id="aspace_ref68_0wu" level="subseries">
+               <did>
+                  <unittitle>Writings and Speeches Series</unittitle>
+               </did>
+               <c03 id="aspace_ref69_wsm" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Statistical View of the Population of
+                           Massachusetts from 1765-1840.</emph> undated</unittitle>
+                     <container id="aspace_f883d9f8026a440d97d8371335a3321d" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref70_z40" level="subseries">
+               <did>
+                  <unittitle>Printed Material Series</unittitle>
+               </did>
+               <c03 id="aspace_ref71_juz" level="file">
+                  <did>
+                     <unittitle>1838-1918, undated</unittitle>
+                     <container id="aspace_a10416fc90b99c7a34bcc343ed4e6e5b" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref72_hkx" level="subseries">
+               <did>
+                  <unittitle>Miscellaneous Series</unittitle>
+               </did>
+               <c03 id="aspace_ref73_2tu" level="file">
+                  <did>
+                     <unittitle>Astronomical studies, undated</unittitle>
+                     <physdesc id="aspace_d34265ed7c3ea70826a5328604013dbf">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_91b7b4ee1a4654b24d6f437b690d997e" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_8n4" level="file">
+                  <did>
+                     <unittitle>General, undated</unittitle>
+                     <container id="aspace_aad956edbf26589b95c32a6f82c36e39" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref76_vb8" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, 1821-1864 and undated</unittitle>
+                     <container id="aspace_de43ca456702e3a778c69a07f8787765" label="Mixed Materials"
+                        type="oversize-folder">2</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/williams/">williams</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the James T. Williams Papers, 1836-1947 <num>RL.01385</num>
+            </titleproper>
+            <author>Processed by: Janie C. Morris; machine-readable finding aid created by: Stephen
+               Miller</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001043651</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 13:13:39
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>James T. Williams papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Williams, James T., 1881-1969</persname>
+         </origination>
+         <unitid>RL.01385</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">48 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1836/1947" type="inclusive">1836-1947</unitdate>
+         <physloc id="aspace_9a22559bb096ddadafa27501e4b119c6">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_5047cd86a543e61332ddd0d5ee3badae">
+            <extent>36,000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_a92f8722939d4b56fec96976de929bc8">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_d6b36c916d470eb2f9b6455196e1626a">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_d16077b70e0e831ea6bb48b3fdd1ebc7">
+         <head>Use Restrictions</head>
+         <p>copyright interests in these papers have not been transferred to the University. For
+            more information consult the section on copyright in the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_dd30b6bfed4a899ba392eb426a080125">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], James T. Williams Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_a685638c4b9860ad4ef43cf71796023d">
+         <head>Provenance</head>
+         <p>The Williams Papers were purchased by Duke University Library in 1970.</p>
+      </acqinfo>
+      <processinfo id="aspace_80cda7d64a15bac40f5256e24e868734">
+         <head>Processing Information</head>
+         <p>Processed by: Janie C. Morris</p>
+         <p>Encoded by Stephen Miller</p>
+         <p>Completed October 25, 1991</p>
+      </processinfo>
+      <bioghist id="aspace_69ef677143120a06e112c0f22e3b493d">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1881, Aug. 10</date>
+               <eventgrp>
+                  <event>Born, Lincolnton, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1897-1898</date>
+               <eventgrp>
+                  <event>Attended Furman College in Greenville, S.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1898-1900</date>
+               <eventgrp>
+                  <event>Attended the University of the South, Sewanee, Tenn.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1901</date>
+               <eventgrp>
+                  <event>Received B.A. from Columbia University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1901-1902</date>
+               <eventgrp>
+                  <event>Employed at <title type="simple" render="italic">The State</title>
+                     newspaper in Columbia, S.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1902-1906</date>
+               <eventgrp>
+                  <event>Washington correspondent for Associated Press (AP)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1904</date>
+               <eventgrp>
+                  <event>AP representative at Democratic and Republican national conventions</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1905 </date>
+               <eventgrp>
+                  <event>AP representative at Portsmouth Peace Conference</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1906-1908</date>
+               <eventgrp>
+                  <event>Washington correspondent for the <title type="simple" render="italic"
+                        >Boston Evening Transcript</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1907</date>
+               <eventgrp>
+                  <event>Elected member of U.S. Naval Institute</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1908</date>
+               <eventgrp>
+                  <event>Worked for Republican Party and on campaign staff of William Howard
+                     Taft</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1909</date>
+               <eventgrp>
+                  <event>U.S. Civil Service Commissioner. Contracted tuberculosis and admitted to
+                     Fort Bayard Army Hospital in New Mexico.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1910-1912</date>
+               <eventgrp>
+                  <event>Editor and part owner of the <title type="simple" render="italic">Tucson
+                        Citizen</title> newspaper</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1912</date>
+               <eventgrp>
+                  <event>Delegate-at-large from Arizona at Republican National Convention</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1912-1925</date>
+               <eventgrp>
+                  <event>Editor of the <title type="simple" render="italic">Boston Evening
+                        Transcript,</title> a Republican newspaper</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1917</date>
+               <eventgrp>
+                  <event>Applied for service in U.S. Army and was rejected because of physical
+                     disability</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1920</date>
+               <eventgrp>
+                  <event>Decorated Knight of the Order of Leopold (Belgium) and Commander of the
+                     Order of the Crown (Italy)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1924</date>
+               <eventgrp>
+                  <event>Received honorary (D.C.L.) degree from the University of the South;
+                     Appointed to Board of Visitors to the U.S. Naval Academy by President
+                     Coolidge</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1925-1927</date>
+               <eventgrp>
+                  <event>Columnist for the <title type="simple" render="italic">Boston
+                        American,</title> a Hearst paper</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1925-1937</date>
+               <eventgrp>
+                  <event>Contributing editor for Hearst's <title type="simple" render="italic"
+                        >National Syndicate</title> in Washington, D.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1928</date>
+               <eventgrp>
+                  <event>Received LL.D. from Norwich University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1937-1938</date>
+               <eventgrp>
+                  <event>Washington representative for the <title type="simple" render="italic"
+                        >Chicago Daily News</title> foreign service</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1939-1947</date>
+               <eventgrp>
+                  <event>Employed at Sperry Gyroscope Corporation for public relations</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1967</date>
+               <eventgrp>
+                  <event>Returned to Greenville, S.C. to live with sister</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1969, Dec. 26</date>
+               <eventgrp>
+                  <event>Died in Greenville, S.C.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>After 1937 and for the remainder of his career, he lectured across the country and was a
+            free lance writer. Member of Sigma Alpha Epsilon fraternity, Society of the Cincinnati,
+            and Metropolitan, Cosmos, Army and Navy clubs.</p>
+      </bioghist>
+      <scopecontent id="aspace_c26b6698f3ff4f2e19a8b26d392c2d2f">
+         <head>Collection Overview</head>
+         <p>The Williams Papers span the period 1836 to 1947 with the bulk dating from 1904 to 1942.
+            The collection contains the following series: Diaries and Reminiscences; Correspondence;
+            Subject Files; Legal Papers; Financial Papers; Writings and Speeches; Miscellaneous;
+            Clippings; Printed Material; and Pictures. Correspondence comprises the majority of the
+            collection and particularly focuses on Williams's professional career during the period
+            from 1910 to 1925 when he was editor of the <title type="simple" render="italic">Tucson
+               Citizen</title> and the <title type="simple" render="italic">Boston Evening
+               Transcript.</title> While the collection documents aspects of Williams's personal and
+            professional life from his college days through the early 1940s, the last twenty years
+            of his life are not included. There is as well very little information about the Teapot
+            Dome Affair in the correspondence, which occurred during the period covered by the
+            collection.</p>
+         <p>Williams wrote, spoke, and accumulated material about a variety of topics and concerns
+            which are represented in different parts of the collection. Among the most prominent are
+            Aviation and the Presidential Elections of 1916, 1920, and 1924 which are found in the
+            Correspondence, Subject Files, Writings and Speeches, Clippings, Printed Material and
+            Pictures Series; Military preparedness before the entry of the United States into World
+            War I in the Correspondence, Subject Files, Writings and Speeches, and Pictures Series;
+            Arizona's efforts to achieve statehood in the Correspondence, Legal Papers, and Writings
+            and Speeches Series; Massachusetts politics in the Diaries and Reminiscences,
+            Correspondence, Writings and Speeches, Clippings, and Printed Material Series; and Peace
+            and disarmament in the Correspondence, Subject Files, Clippings and Printed Material
+            Series. Prominent politicians such as Warren G. Harding and Herbert Hoover are
+            represented in the Correspondence, Writings and Speeches, and Clippings Series. The
+            collection would be of interest to researchers studying the League of Nations, the
+            Republican Party during the first quarter of the 20th century, and the political and
+            social climate in Greenville, S.C..</p>
+         <p>The Correspondence Series illustrates that as a leading spokesman for the Republican
+            Party, Williams corresponded with many public figures concerning the topics above. After
+            moving to Tucson, Williams became involved in Arizona's efforts to become a state. He
+            represented the positions taken by President Taft and expressed these viewpoints in
+            numerous editorials related to political matters. Many letters criticize Woodrow Wilson
+            and Josephus Daniels for their policies relating to military preparedness and foreign
+            relations. Of particular note are Williams's strong opposition to the League of Nations
+            and his correspondence in the collection with leading opponents of the League, including
+            Henry Cabot Lodge (1850-1924), William Edgar Borah, Hiram Warren Johnson, and Frank
+            Bosworth Brandegee.</p>
+         <p>Also included in the Correspondence Series is extensive family correspondence containing
+            material about the social life and political affairs in Greenville, S.C., where
+            Williams's father was mayor, and about his mother's family, the McBees of Lincolnton,
+            N.C. Numerous letters were written by his uncles, Silas McBee, a noted Episcopal
+            clergyman and editor in New York; William Ephraim Mikell, Dean of the Law School at the
+            University of Pennsylvania; and William Alexander Guerry, an Episcopal bishop in South
+            Carolina. There are also letters from cousins, Mary Vardrine McBee, who founded Ashley
+            Hall, a school for girls in Charleston, South Carolina, and Alexander Guerry, who served
+            in various positions at the University of Chatanooga and at The University of the South.
+            Other correspondents in the series include William Howard Taft, Leonard Wood, Nicholas
+            Murray Butler, Albert J. Beveridge, Calvin Coolidge, Frank H. Hitchcock, Charles Nagel,
+            Theodore Roosevelt, and John Wingate Weeks.</p>
+         <p>Related collections include the Vardry Alexander McBee Papers at Duke University, the
+            Silas McBee and the McBee Family collections at the University of North Carolina at
+            Chapel Hill, the James Thomas Williams (1845-1936) Papers at the University of South
+            Carolina, and an interview with Williams in the Biographical Oral History Collection at
+            Columbia University.</p>
+      </scopecontent>
+      <controlaccess>
+         <genreform source="aat">Menus</genreform>
+         <subject source="lcsh">Presidents -- United States -- Election -- 1916</subject>
+         <subject source="lcsh">Air mail service -- United States -- Photographs</subject>
+         <geogname source="lcsh">United States -- Military policy</geogname>
+         <subject source="lcsh">Aeronautics -- United States</subject>
+         <geogname source="lcsh">Arizona -- Politics and government -- To 1950</geogname>
+         <subject source="lcsh">Presidents -- United States -- Election -- 1924</subject>
+         <subject source="lcsh">Presidents -- United States -- Election -- 1920</subject>
+         <geogname source="lcsh">Greenville (S.C.)</geogname>
+         <subject source="lcsh">Disarmament</subject>
+         <subject source="lcsh">Peace</subject>
+         <geogname source="lcsh">Massachusetts -- Politics and government 1865-1950</geogname>
+         <persname source="ingest">Beveridge, Albert Jeremiah, 1862-1947</persname>
+         <corpname source="ingest">Republican Party (U.S. : 1854- )</corpname>
+         <persname source="ingest">Borah, William Edgar, 1865-1940</persname>
+         <persname source="ingest">Brandegee, Frank Bosworth, 1864-1924</persname>
+         <persname source="ingest">Butler, Nicholas Murray, 1862-1947</persname>
+         <persname source="ingest">Coolidge, Calvin, 1872-1933</persname>
+         <persname source="ingest">Daniels, Josephus, 1862-1948</persname>
+         <persname source="ingest">Guerry, Alexander</persname>
+         <persname source="ingest">Harding, Warren G. (Warren Gamaliel), 1865-1923</persname>
+         <persname source="ingest">Hitchcock, Frank H. (Frank Harris), 1867-1935</persname>
+         <persname source="ingest">Hoover, Herbert, 1874-1964</persname>
+         <persname source="ingest">Johnson, Hiram, 1866-1945</persname>
+         <corpname source="ingest">League of Nations</corpname>
+         <persname source="ingest">Nagel, Charles, 1849-1940</persname>
+         <persname source="ingest">Weeks, John W. (John Wingate), 1860-1926</persname>
+         <persname source="ingest">Taft, William H. (William Howard), 1857-1930</persname>
+         <persname source="ingest">Williams, James T., 1881-1969</persname>
+         <persname rules="dacs" source="naf">Roosevelt, Theodore</persname>
+         <persname rules="dacs" source="naf">Wilson, Woodrow</persname>
+         <persname rules="dacs" source="naf">Lodge, Henry Cabot</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_oi3" level="series">
+            <did>
+               <unittitle>Diaries and Reminiscences Series, 1909-1923</unittitle>
+            </did>
+            <scopecontent id="aspace_a59e6ef9a69723c01b312236c3d19e26">
+               <head>Scope and Contents note</head>
+               <p>Several diaries, none kept very consistently, and a few pages of reminiscences
+                  chiefly relating to Massachusetts politics and social engagements. One
+                  reminiscence (March 26, 1909) concerns a meeting with President Taft when
+                  Willliams was asked to become the United States Civil Service Commissioner.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_7ml" level="file">
+               <did>
+                  <unittitle>Diaries, and Reminiscences, 1909-1923</unittitle>
+                  <physdesc id="aspace_c223d57266a1f7c074c4e3b39f897ca6">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d96feff902378bfbce31c56cfc7c2ab2" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref17_y4h" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1868-1947 and undated (bulk 1910-1925)</unittitle>
+            </did>
+            <scopecontent id="aspace_1174cf3bad782b974af2d8eabfadcfba">
+               <head>Scope and Contents note</head>
+               <p>Documents Williams's personal and professional life from college through the
+                  1940s. Contains lengthy correspondence with his parents, siblings, and other
+                  relatives. Arranged in chronological order. Also includes two index file boxes
+                  numbered 1a and 1b that contain subject entries to the Correspondence. Autograph
+                  cards for the most prominent correspondents have been filed into the Manuscript
+                  Division's card catalog.</p>
+            </scopecontent>
+            <c02 id="aspace_ref18_qlg" level="file">
+               <did>
+                  <unittitle>1868-1904, Mar.</unittitle>
+                  <physdesc id="aspace_134c368292c2c4106b1c02e4fd66a64f">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fc9ec3c5a599f88b7c19a91f0fe2d828" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_7q8" level="file">
+               <did>
+                  <unittitle>1904, Apr.-1904, Nov.</unittitle>
+                  <physdesc id="aspace_0980894e3aeb558c8244796ffe145b27">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4fb5eee558d92c52c5dec9121d47657b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_2c8" level="file">
+               <did>
+                  <unittitle>1904, Dec.-1905, Aug.</unittitle>
+                  <physdesc id="aspace_09e6ff2e45e769820d3e71fd654657bf">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7b8f4aa47bbd67a6bd88a369c7e66978" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_xwd" level="file">
+               <did>
+                  <unittitle>1905, Sept.-1907, July</unittitle>
+                  <physdesc id="aspace_4c0829a19a593db22493bc52f1ec3747">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c7b0d1d9cbbe5cbfaf680d40b5aabba2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_lqp" level="file">
+               <did>
+                  <unittitle>1907, Aug.-1909, Mar.</unittitle>
+                  <physdesc id="aspace_b656c579da62e03452aa9fe9a9f6116c">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_dc35b23928e331ec8280f43ff1908884" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_7d1" level="file">
+               <did>
+                  <unittitle>1909, Apr.-June</unittitle>
+                  <physdesc id="aspace_67157882d1aea37a2215afe03555d9a6">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_0337a9dea58cd7504c5f3204f440a5b7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_nv8" level="file">
+               <did>
+                  <unittitle>1909, July-Nov.</unittitle>
+                  <physdesc id="aspace_b82b58b49d0423b8958d465ee0aa5ca7">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_28e0e07b8a08e7949fa1d44a8caeb4db" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_nxf" level="file">
+               <did>
+                  <unittitle>1909, Dec. -1910, Mar.</unittitle>
+                  <physdesc id="aspace_39b59ba77841143586573a31ab5159c5">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_662615f11eec474c063b96c2c0fa9d5e" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_sex" level="file">
+               <did>
+                  <unittitle>1910, Apr.-July</unittitle>
+                  <physdesc id="aspace_db046e0e8288aa61660ecc46e05a9422">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1eb3f8db2a89170c3f7a83bf692a3fc9" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_fzx" level="file">
+               <did>
+                  <unittitle>1910, Aug.-Oct.</unittitle>
+                  <physdesc id="aspace_01314841d6a9fe613b2c9517e86bfaaa">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d053fea8383c0bbc037fa0e4b7641069" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_thv" level="file">
+               <did>
+                  <unittitle>1910, Nov.-1911, Feb.</unittitle>
+                  <physdesc id="aspace_d24b358c76f557c61a28f616901428b3">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_eaf4d1bc5d2d855752e2d8599e110797" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_u33" level="file">
+               <did>
+                  <unittitle>1911, Mar.-Aug.</unittitle>
+                  <physdesc id="aspace_50cf0800c45e113e8b15bfe6b2c193a6">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ee84d7f7dee6734536a2f3b2ffab5e54" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_aw3" level="file">
+               <did>
+                  <unittitle>1911, Sept.-Dec., undated</unittitle>
+                  <physdesc id="aspace_1f1c38f24fd1d5a92b59234c5c426362">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c29227faea9bb9625518cafa1ca3d7e5" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_yn7" level="file">
+               <did>
+                  <unittitle>1912, Jan.-May 20</unittitle>
+                  <physdesc id="aspace_bdb264e5171c108b3fe2510d785c076f">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_00399ce247e315c6f3e2b712b92132d4" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_x5n" level="file">
+               <did>
+                  <unittitle>1912, May 21-1912, Dec., undated</unittitle>
+                  <physdesc id="aspace_b68c7943f13114f01c39f3c65a752fd1">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_77d523d73f99ac9a7d96bdd3498003f7" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_opk" level="file">
+               <did>
+                  <unittitle>1913, Jan.-Apr.</unittitle>
+                  <physdesc id="aspace_54f8bb80800a8c16baaf5212f48ca257">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e1ec3403cdb41281681481c7a041e354" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_qmw" level="file">
+               <did>
+                  <unittitle>1913, May-Aug.</unittitle>
+                  <physdesc id="aspace_11c4b613c0eeaed6366d0b88cd441e32">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4952e9d8d6588e53c8fa34da306e6a84" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_jyb" level="file">
+               <did>
+                  <unittitle>1913, Sept.-Nov.</unittitle>
+                  <physdesc id="aspace_8ff4d8ad4eb00f04e38d4ae3e7352848">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_da203d99b572ee981f112f053266b30f" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_wnn" level="file">
+               <did>
+                  <unittitle>1913, Dec.-1914, Mar.</unittitle>
+                  <physdesc id="aspace_9f35f951dd82bc4b74ec8023ecb17897">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1dc8dca7ffe3cf895f81b94b2fd08a12" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_9cn" level="file">
+               <did>
+                  <unittitle>1914, Apr.-July</unittitle>
+                  <physdesc id="aspace_46b676b4842cd76a0ccd2beea3fb5e80">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4ef343026c0a66c058c9f996ef059a4c" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_skl" level="file">
+               <did>
+                  <unittitle>1914, Aug.-Nov.</unittitle>
+                  <physdesc id="aspace_6d1bb5c765a77f25367dcae38656b5d2">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5df7b50ba521b8cd030fe14253eadf89" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_x5x" level="file">
+               <did>
+                  <unittitle>1914, Dec.-1915, Feb. 14</unittitle>
+                  <physdesc id="aspace_5452f0f24219a3c9508bc1800bd491c8">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ab2940653471ba48b95ab2cf1b0e5d98" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_g0u" level="file">
+               <did>
+                  <unittitle>1915, Feb.-Apr.</unittitle>
+                  <physdesc id="aspace_75c28597a30906b58ee15047fe407a6a">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_61f6a7e279c9cf81f54b8ac1dded2260" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_pa5" level="file">
+               <did>
+                  <unittitle>1915, Apr.-Aug. 15</unittitle>
+                  <physdesc id="aspace_5917d494e27eca65640c254ba2b4e319">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_593be540e47c4035d5c2b2b15727861c" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_h32" level="file">
+               <did>
+                  <unittitle>1915, Aug 16-Nov.</unittitle>
+                  <physdesc id="aspace_6bbdbe175283da5a09ea5f8833455bf8">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_57f3cccd020c54296254d9867f1e1700" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_2d9" level="file">
+               <did>
+                  <unittitle>1915, Dec.-1916, Mar.</unittitle>
+                  <physdesc id="aspace_39136221c33810ccddb362d6dba86158">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5f3d550bb417e9be40740da0cf2c2c88" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_inv" level="file">
+               <did>
+                  <unittitle>1916, Apr.-Aug.</unittitle>
+                  <physdesc id="aspace_280cec4562f1a4485936f1a534131351">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3b0fc7e508980a5821f163037439c97d" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_6u1" level="file">
+               <did>
+                  <unittitle>1916, Sept.-Dec., undated</unittitle>
+                  <physdesc id="aspace_903d8ab546a9b945b3272157d447258b">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5bb0a099ea6b2dffb9d3b69088a40b39" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_lim" level="file">
+               <did>
+                  <unittitle>1917, Jan.-Aug.</unittitle>
+                  <physdesc id="aspace_5448a63d11dc6a14013e26d2fce3bca3">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c4da0cae049477c14271951f27361edf" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_i23" level="file">
+               <did>
+                  <unittitle>1917, Sept.-1918, Apr.</unittitle>
+                  <physdesc id="aspace_029594c8e0fc4884bda87db987b26fb5">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4738554132412bedd7d2e55ae77ce07d" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_7i8" level="file">
+               <did>
+                  <unittitle>1918, May-Oct.</unittitle>
+                  <physdesc id="aspace_f1c59cbaffc2048abaa916a0d9aaeb3f">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fb1169f4ae14bc93082733a3eff7d832" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_3kk" level="file">
+               <did>
+                  <unittitle>1918, Nov.-1919, Apr.</unittitle>
+                  <container id="aspace_391df4f2bc946c2736615b654420cb93" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_i77" level="file">
+               <did>
+                  <unittitle>1919, May-July</unittitle>
+                  <physdesc id="aspace_8a12c3992f3256ad9ec04d536fd6ab0f">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_24e456fa8027609fb0df5d4d83693778" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_4u7" level="file">
+               <did>
+                  <unittitle>1919, Aug.-Nov.</unittitle>
+                  <physdesc id="aspace_708e0d0f95c270033249497d07639362">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_dc889c890f0c149aaa137aa1ac29fd39" label="Mixed Materials"
+                     type="box">34</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_0di" level="file">
+               <did>
+                  <unittitle>1919, Dec.-1920, Mar.</unittitle>
+                  <physdesc id="aspace_e56671db3a43be7dab5e23bfcc3882f9">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_eda67917c5cbed548d9ce67afed7006c" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_dpk" level="file">
+               <did>
+                  <unittitle>1920, Apr.-Aug.</unittitle>
+                  <physdesc id="aspace_5104b3569890c4ddee693ed97bdbfae9">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f3fea589f64a8735a5201f031f744c34" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_44p" level="file">
+               <did>
+                  <unittitle>1920, Sept.-1921, Jan.</unittitle>
+                  <physdesc id="aspace_988b5bbd2fed5e1a9f896f4e0c2e5c87">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a50a5cb9359a258c5596933f86a748af" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_38x" level="file">
+               <did>
+                  <unittitle>1921, Feb.-May</unittitle>
+                  <physdesc id="aspace_e37c3f9477d7d7861fb1e8377dba0610">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5d0ec2afcbfe2c2e6d7b81370cca7d90" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_nsz" level="file">
+               <did>
+                  <unittitle>1921, May-Sept. 15</unittitle>
+                  <physdesc id="aspace_1ed0642fc7e78e6bb068137e9bc59a99">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8929b47b72532ceb5fee0ba9c610d502" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_42b" level="file">
+               <did>
+                  <unittitle>1921, Sept. 16-1922, Jan. 15</unittitle>
+                  <container id="aspace_ac2ca9ff34a9b67ce7ba45067f050aa5" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_1hf" level="file">
+               <did>
+                  <unittitle>1922, Jan. 16-1922, Apr. 15</unittitle>
+                  <container id="aspace_9cfbc80aa09f11d0daf20b39e50d0aaa" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_vjm" level="file">
+               <did>
+                  <unittitle>1922, Apr.16-1922, July</unittitle>
+                  <container id="aspace_9d93bf04d8f3198e1faedbf7202381c7" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_7i4" level="file">
+               <did>
+                  <unittitle>1922, Aug.-Nov. 15</unittitle>
+                  <physdesc id="aspace_d74ef8ad3c9e0af5e2b8ee07e2980c75">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1662d855f34d8ef19f753bc5e525819d" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_q4g" level="file">
+               <did>
+                  <unittitle>1922, Nov. 16-1923, Jan.</unittitle>
+                  <physdesc id="aspace_04b2c520360a18c143cba6a575722e90">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e09730b315cb022577d7624d0e299b35" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_bt7" level="file">
+               <did>
+                  <unittitle>1923, Feb.-Apr.</unittitle>
+                  <physdesc id="aspace_795b387fd70f01e5e2e25f0e8d45f342">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e60cf07ac64c60112f5ca55f2a81e497" label="Mixed Materials"
+                     type="box">45</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_li8" level="file">
+               <did>
+                  <unittitle>1923, May-July 15</unittitle>
+                  <physdesc id="aspace_fb96dc9505603189305eea95c0a5330d">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a81e5e407e35e0d53ccc17266dc1e70b" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_kmg" level="file">
+               <did>
+                  <unittitle>1923, July 16-Oct. 15</unittitle>
+                  <physdesc id="aspace_dee859a6444eb941de4110a33ad76331">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1c061f21505db9115d18fb61c62082c8" label="Mixed Materials"
+                     type="box">47</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_wl1" level="file">
+               <did>
+                  <unittitle>1923, Oct. 16-Dec., undated</unittitle>
+                  <physdesc id="aspace_6e7d905d123ed91da8767df7eebbc301">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7af6fd59c6fe75978bf730f02a3ef009" label="Mixed Materials"
+                     type="box">48</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_sqg" level="file">
+               <did>
+                  <unittitle>1924, Jan.-May</unittitle>
+                  <physdesc id="aspace_9cd04dc6248fa54394105ac80221f1fd">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d0e22b8bb0e2884c4bbf3b9a8b2f7a8b" label="Mixed Materials"
+                     type="box">49</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_qnl" level="file">
+               <did>
+                  <unittitle>1924, June-Sept.</unittitle>
+                  <physdesc id="aspace_e5d0b14d9b71b77603f71c2b369d7e5b">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f0fb63245b16bcb5f77282a09a21fff6" label="Mixed Materials"
+                     type="box">50</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_xqa" level="file">
+               <did>
+                  <unittitle>1924, Oct.-1925, Jan. 15</unittitle>
+                  <physdesc id="aspace_0ff381bc3a6c627279a77f0009adeabd">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_181092a1fdfad6dd94e9e65154285641" label="Mixed Materials"
+                     type="box">51</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_a1w" level="file">
+               <did>
+                  <unittitle>1925, Jan. 16-Apr. 15</unittitle>
+                  <physdesc id="aspace_b198a04b9a7e40396386b387210f649b">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c15792b5f9a23d02f09ebd48b9af43d1" label="Mixed Materials"
+                     type="box">52</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_q2y" level="file">
+               <did>
+                  <unittitle>1925, Apr. 16-Sept.</unittitle>
+                  <physdesc id="aspace_84ad882933cbffd31b7bed58abba3ccc">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_79de262154a74678484c762d78345a1a" label="Mixed Materials"
+                     type="box">53</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_k7a" level="file">
+               <did>
+                  <unittitle>1925, Oct.-1926, Apr.</unittitle>
+                  <physdesc id="aspace_04762fde81a86af494c984fc18ceaf96">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_cebf7ddb936f02434ff8aeeb47a9e52d" label="Mixed Materials"
+                     type="box">54</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_yrn" level="file">
+               <did>
+                  <unittitle>1926, May-Dec.</unittitle>
+                  <physdesc id="aspace_866865bb1b0de6f8a98ebc1c9481b5d2">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d2881487a405a77fbe17abf5d46e81ae" label="Mixed Materials"
+                     type="box">55</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_dil" level="file">
+               <did>
+                  <unittitle>1927-1930</unittitle>
+                  <physdesc id="aspace_73a71bbb2705bfb22ed2679dea329364">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d94fec295dc24beedd393093b89805ef" label="Mixed Materials"
+                     type="box">56</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref126_ss5" level="file">
+               <did>
+                  <unittitle>1931-1938</unittitle>
+                  <physdesc id="aspace_6181a0d875e33f1aaf5d3c05b44db333">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7a375b10008d85a746c12dc69ce319bb" label="Mixed Materials"
+                     type="box">57</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_1e3" level="file">
+               <did>
+                  <unittitle>1939-1942, July</unittitle>
+                  <physdesc id="aspace_2a1d1c9dfb2172c2739b0a45f3fb1b10">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8ae413b24fcd6738b368f17262200f52" label="Mixed Materials"
+                     type="box">58</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_vv8" level="file">
+               <did>
+                  <unittitle>1942, Aug.-1947, undated</unittitle>
+                  <physdesc id="aspace_b178a8b6c2b2f87c6e54dd7ad90a1109">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_18beaa7527c9ac985ddc6ea830d0edb5" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_dx9" level="file">
+               <did>
+                  <unittitle>undated</unittitle>
+                  <physdesc id="aspace_4610a2d0a32bfe9e4466617fe7215686">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_bda5945d08607c9b97b805b621e3e329" label="Mixed Materials"
+                     type="box">60</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref135_tsq" level="series">
+            <did>
+               <unittitle>Subject Files Series, 1906-1941 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_e807b68a450b21a72799a3a524bbc4b4">
+               <head>Scope and Contents note</head>
+               <p>Reports, writings, press releases, memoranda, financial papers, and printed
+                  materials. Some files may have been used as background material for Williams's
+                  newspaper articles. Arranged alphabetically by topic and within each topic
+                  chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref136_wyn" level="file">
+               <did>
+                  <unittitle>Aeronautics and Aviation, 1921-1925</unittitle>
+                  <physdesc id="aspace_a8bfebfcf1894681bf354c6268295ba8">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_6ed92af46b427146f6999aa1a30b1f20" label="Mixed Materials"
+                     type="box">60</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_7zk" level="file">
+               <did>
+                  <unittitle>Aeronautics and Aviation:</unittitle>
+                  <container id="aspace_b828f07810725f57579a51f9d492abd9" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+               <c03 id="aspace_ref139_pvw" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <container id="aspace_051f0f97b9b770b68138e39899a8d6dc" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref140_4jv" level="file">
+                  <did>
+                     <unittitle>War Department Report, 1923</unittitle>
+                     <container id="aspace_e70efc0ee13c570be728dbf66ff3b92a" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref141_noa" level="file">
+               <did>
+                  <unittitle>American Legion, 1915-1931</unittitle>
+                  <container id="aspace_8e921e8cc8eafd9b5173a2144ccba6f4" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref142_ulw" level="file">
+               <did>
+                  <unittitle>Federal Council of Churches, 1919-1928</unittitle>
+                  <container id="aspace_08102a284480a02834edd8abf0034b9a" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref143_2dt" level="file">
+               <did>
+                  <unittitle>Labor, 1907-1925</unittitle>
+                  <container id="aspace_22bb8d71c12bd5159e9641f4337c6249" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_xky" level="file">
+               <did>
+                  <unittitle>Massachusetts, 1913-1925, undated</unittitle>
+                  <physdesc id="aspace_805e0810a31760314162c28020440212">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_475a4074f586c94dcb60b8414834f878" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_fv3" level="file">
+               <did>
+                  <unittitle>Peace and Disarmament, 1919-1920s</unittitle>
+                  <container id="aspace_f563be7cf39522318d582c86d7aa4be6" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref147_uq1" level="file">
+               <did>
+                  <unittitle>Politics, 1911-1925, undated</unittitle>
+                  <container id="aspace_dc3b92ec80799c678431a2414ad0542e" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref148_7pk" level="file">
+               <did>
+                  <unittitle>Presidential Inaugurations, 1905-1941</unittitle>
+                  <container id="aspace_ef8ea642df482b1e1a3d6e283acf28f3" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref149_832" level="file">
+               <did>
+                  <unittitle>Railroads, 1913-1922</unittitle>
+                  <container id="aspace_b46ad384e0296b0b3494f6c074298748" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref150_lcc" level="file">
+               <did>
+                  <unittitle>U.S. Army, 1906-1925</unittitle>
+                  <physdesc id="aspace_4e029c9ae85114c354d12136fce6480d">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a193176568a5784423b4a9edddb57492" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_40n" level="file">
+               <did>
+                  <unittitle>U.S. Army, undated</unittitle>
+                  <container id="aspace_1d339c47d697fda348a7d9bee884bdc9" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref153_zhq" level="file">
+               <did>
+                  <unittitle>U.S. Department of Agriculture, 1925</unittitle>
+                  <container id="aspace_148ac08dc5c62e074513e798abcbd632" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref154_00e" level="file">
+               <did>
+                  <unittitle>U.S. Department of the Interior, 1925-1926</unittitle>
+                  <container id="aspace_a5bef17c86c65dcb745e56f0bf42f49c" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref155_tgm" level="file">
+               <did>
+                  <unittitle>U.S. Navy, 1913-1925, undated</unittitle>
+                  <physdesc id="aspace_05bed003d1d34b1c68824c214d498717">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_bddf8465018207b5ed3116c29960e82c" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref157_wm1" level="file">
+               <did>
+                  <unittitle>Washington Conference on the Limitation of Armaments, 1921,
+                     Sept.-Nov.</unittitle>
+                  <container id="aspace_88c1977e92004b663f37b369224f80d8" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref158_n2k" level="file">
+               <did>
+                  <unittitle>Washington Conference on the Limitation of Armaments, 1921, Dec.
+                     1-1923</unittitle>
+                  <physdesc id="aspace_b2082f8c4023fdd583c160f7c0c7e421">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a912d497e2035252e179584fd68073ad" label="Mixed Materials"
+                     type="box">64</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref160_ron" level="file">
+               <did>
+                  <unittitle>Williams, James T (1881-1969) and family</unittitle>
+                  <container id="aspace_a14380238b943741808fd958a5267e7e" label="Mixed Materials"
+                     type="box">64</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref161_c4p" level="file">
+               <did>
+                  <unittitle>World War I and Aftermath, 1914-1919, undated</unittitle>
+                  <container id="aspace_6f1d1c140f50271aab17292124e89dd0" label="Mixed Materials"
+                     type="box">64</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref163_rqq" level="series">
+            <did>
+               <unittitle>Legal Papers Series, 1910-1943 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_bcbac5e155b24fed2fc1db6042a124f7">
+               <head>Scope and Contents note</head>
+               <p>Several briefs. Relates to the purchase of printing supplies and a publishing
+                  company; the relationship between civilian and military law; and the authorization
+                  of the construction and leasing of an airplane landing field in Boston, Mass. to
+                  the United States government. Also contains a proclamation proclaiming Arizona a
+                  state, rent lease agreements, insurance policies, and contracts for Williams to
+                  speak at various events. Arranged chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref164_jiq" level="file">
+               <did>
+                  <unittitle>1910-1943 and undated</unittitle>
+                  <physdesc id="aspace_c8f09582679ec9ab1e16c3004ee1104f">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_765431ba29333532b3c1a6f5b64c2a8a" label="Mixed Materials"
+                     type="box">65</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref167_swh" level="series">
+            <did>
+               <unittitle>Financial Papers Series, 1904-1947 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_e8d1afb871720beefd68d78662f98372">
+               <head>Scope and Contents note</head>
+               <p>Chiefly receipts for personal items such as clothing. Also contains a financial
+                  statement of the Tucson Printing and Publishing Company for 1911, information
+                  about annual dues for different organizations, and income tax returns. Arranged
+                  chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref168_0wl" level="file">
+               <did>
+                  <unittitle>1904-1947</unittitle>
+                  <physdesc id="aspace_01a2335c00efcd909504ced80d0c6929">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5a13e0ad88a4df4eeedf28ff18562a28" label="Mixed Materials"
+                     type="box">65</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref171_epp" level="series">
+            <did>
+               <unittitle>Writings and Speeches Series, 1889-1940s</unittitle>
+            </did>
+            <scopecontent id="aspace_60b6d8c7a2bfe49f2b25ab9cddf982e1">
+               <head>Scope and Contents note</head>
+               <p>Handwritten and typewritten papers on a variety of topics, including social,
+                  political, and business issues. Contains extracts of Herbert Hoover's speeches
+                  from the time of his nomination for President in 1928 to 1931. Divided into two
+                  sections, one arranged by date, the other by subject and for the most part
+                  undated. Also includes fragments. Extracts of Hoover's speeches arranged at the
+                  end of the series.</p>
+            </scopecontent>
+            <c02 id="aspace_ref172_bq6" level="subseries">
+               <did>
+                  <unittitle>Chronological</unittitle>
+               </did>
+               <c03 id="aspace_ref173_ajq" level="file">
+                  <did>
+                     <unittitle>1889-ca. 1913</unittitle>
+                     <physdesc id="aspace_e957af1ec4d9cb789c16d89518f93f8f">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_b128fa5aa5e1978017d6a1b760c76ab5" label="Mixed Materials"
+                        type="box">66</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_4qo" level="file">
+                  <did>
+                     <unittitle>1914-1916</unittitle>
+                     <physdesc id="aspace_dc463cfbe84a15e2f40203a6ad0efbb3">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_af10c3820c3e93e08b932700ea1949e1" label="Mixed Materials"
+                        type="box">67</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref177_k7u" level="file">
+                  <did>
+                     <unittitle>1917-1920</unittitle>
+                     <physdesc id="aspace_d765b40eba0a6237e16f4140aaed2318">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_496b9b151fc35e6a80f10c650f1a4ff8" label="Mixed Materials"
+                        type="box">68</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_rg5" level="file">
+                  <did>
+                     <unittitle>1921, Jan.-1922, June</unittitle>
+                     <physdesc id="aspace_06de7e8d763c4ad27249017c80930c7e">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_dce3d9ce234851c687dff01322b83416" label="Mixed Materials"
+                        type="box">69</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_8un" level="file">
+                  <did>
+                     <unittitle>1922, July-1924</unittitle>
+                     <physdesc id="aspace_f86c7dcce5c3f6c5b2b933547fb02e24">
+                        <extent>7 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d7f942da9d3eb2e0090e6918a4933863" label="Mixed Materials"
+                        type="box">70</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref183_2h7" level="file">
+                  <did>
+                     <unittitle>1925-1929</unittitle>
+                     <physdesc id="aspace_0d51f3c947ebfa472d3966943e0a1215">
+                        <extent>7 folders</extent>
+                     </physdesc>
+                     <container id="aspace_e95da5f35e656be8dbe40804cf8a768d" label="Mixed Materials"
+                        type="box">71</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_j5c" level="file">
+                  <did>
+                     <unittitle>1920s</unittitle>
+                     <container id="aspace_c2b4c1171e06861a1bfeeda8f58c0427" label="Mixed Materials"
+                        type="box">71</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref186_3h2" level="file">
+                  <did>
+                     <unittitle>1920s</unittitle>
+                     <physdesc id="aspace_e75b017b017d4164e633814374b71290">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_32698868bc08b8f8c1f9cd84e46f617b" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref188_e7g" level="file">
+                  <did>
+                     <unittitle>1921-1940s, undated</unittitle>
+                     <physdesc id="aspace_58813a3350081ad32c546435f6b021cf">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_b560bb8a30f939fa7384688edf7d2351" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref190_gyz" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <physdesc id="aspace_e608b7c762351510ca0ae1ff414f6319">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_363697faa0f4be73ddd5bbe3e6ac7e56" label="Mixed Materials"
+                        type="box">73</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref192_vj3" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <physdesc id="aspace_5c42c49f4e827b3771114a10024aabab">
+                        <extent>8 folders</extent>
+                     </physdesc>
+                     <container id="aspace_eba5f9c8e350d7aab35bfe523556befa" label="Mixed Materials"
+                        type="box">74</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref194_una" level="file">
+                  <did>
+                     <unittitle>undated</unittitle>
+                     <container id="aspace_233d125a45204dadec3aff053b52b130" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref195_sir" level="subseries">
+               <did>
+                  <unittitle>Topical</unittitle>
+               </did>
+               <c03 id="aspace_ref196_38l" level="file">
+                  <did>
+                     <unittitle>Arizona, undated</unittitle>
+                     <container id="aspace_6e4c97f3d389ac34fdc0fa029e9884b0" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_9jj" level="file">
+                  <did>
+                     <unittitle>Armament and Warfare, undated</unittitle>
+                     <container id="aspace_ca925455aa52e500c89a239df75d2747" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref198_2yh" level="file">
+                  <did>
+                     <unittitle>Aviation, undated</unittitle>
+                     <container id="aspace_62338819b4c60a60f16a9d430d9ae41e" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_9i5" level="file">
+                  <did>
+                     <unittitle>Business and Labor, undated</unittitle>
+                     <container id="aspace_210d9c20c27ca5beb7365113ee22399f" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref200_8im" level="file">
+                  <did>
+                     <unittitle>Education, undated</unittitle>
+                     <physdesc id="aspace_003fa9e264561c10fc0065bf21ead0cd">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f6b27e67889db30c22c56bbc1e07a376" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref202_swu" level="file">
+                  <did>
+                     <unittitle>Eulogies and Biographies, 1920s, undated</unittitle>
+                     <container id="aspace_26005603f06f25283b17098d50d60437" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref203_pw7" level="file">
+                  <did>
+                     <unittitle>Foreign Relations, undated</unittitle>
+                     <physdesc id="aspace_5f3667b7397c4ce481305d7e2f532b9a">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2c56777d2eccd4f0e0d2fa7308c00568" label="Mixed Materials"
+                        type="box">75</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref205_ooh" level="file">
+                  <did>
+                     <unittitle>Health, undated</unittitle>
+                     <container id="aspace_a01acd339c403c15f35e0d0a4ce7be7d" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref206_1e2" level="file">
+                  <did>
+                     <unittitle>Immigration, undated</unittitle>
+                     <container id="aspace_0af91e6a15c764a1476cf9ad089de1e1" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref207_7lg" level="file">
+                  <did>
+                     <unittitle>Massachusetts, undated</unittitle>
+                     <container id="aspace_a5e157b1c46047a45f09ebe9f7b68c3c" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref208_vf8" level="file">
+                  <did>
+                     <unittitle>Military, undated</unittitle>
+                     <container id="aspace_f2830008f4d1b9f9c205a55f1fc49305" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref209_691" level="file">
+                  <did>
+                     <unittitle>Press, undated</unittitle>
+                     <container id="aspace_40cb6cdc5e59063b2b8578c26b261802" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref210_r8d" level="file">
+                  <did>
+                     <unittitle>Social Problems, undated</unittitle>
+                     <container id="aspace_e9f1effa79342f542957457094e8bebe" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref211_rit" level="file">
+                  <did>
+                     <unittitle>Tariffs, undated</unittitle>
+                     <container id="aspace_11c45b91de9fa3f98cb384f7b88334cb" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref212_cnt" level="file">
+                  <did>
+                     <unittitle>Transportation and Communication, undated</unittitle>
+                     <container id="aspace_68e44fb170b3a7e443e3acb378ec861b" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref213_ze3" level="file">
+                  <did>
+                     <unittitle>Hoover, Herbert, 1928-1931</unittitle>
+                     <container id="aspace_e104cb674ecbfe4a00e22c2dd9e53cd5" label="Mixed Materials"
+                        type="box">76</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref215_awg" level="series">
+            <did>
+               <unittitle>Miscellaneous Series, 1885-1942 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_60d370d5646e51656b2105b7d506046a">
+               <head>Scope and Contents note</head>
+               <p>Resolutions honoring various people; report cards of siblings; minutes of various
+                  associations; reminders about speaking engagements; and sundry notes. Also
+                  contains note, address, and datebooks which may have been used to gather
+                  information for newspaper articles. Loose pages arranged chronologically followed
+                  by the bound material arranged chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref216_axh" level="file">
+               <did>
+                  <unittitle>1885-1942, undated</unittitle>
+                  <container id="aspace_aa0c9ff10c0ec3cf829c2229ba866d28" label="Mixed Materials"
+                     type="box">76</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref217_2u6" level="file">
+               <did>
+                  <unittitle>Note, Address, and Datebooks, 1888-1915</unittitle>
+                  <container id="aspace_4d629280c8b90118a4ce33ce314eaf76" label="Mixed Materials"
+                     type="box">76</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref218_ssx" level="file">
+               <did>
+                  <unittitle>Note, Address, and Datebooks, 1917-1923 and undated</unittitle>
+                  <container id="aspace_4e94b3cd720576e9d7891048f1a34301" label="Mixed Materials"
+                     type="box">77</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref220_dk2" level="series">
+            <did>
+               <unittitle>Clippings Series, 1912-1945 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_8b873f4b97cf8e377af65a05b84957f2">
+               <head>Scope and Contents note</head>
+               <p>Subdivided into two subseries Scrapbooks and Subjects.</p>
+            </scopecontent>
+            <c02 id="aspace_ref221_tak" level="subseries">
+               <did>
+                  <unittitle>Scrapbooks, 1912-1926.</unittitle>
+               </did>
+               <scopecontent id="aspace_2a59c6ad3bd3b1c730b807fde558cb47">
+                  <head>Scope and Contents note</head>
+                  <p>The majority contain Williams' editorials from the Boston Evening Transcript.
+                     One contains clippings relating to Carmi A. Thompson's mission as the personal
+                     emissary of Calvin Coolidge to the Philippine Islands to make an economic
+                     survey in 1926. Arranged in chronological order.</p>
+               </scopecontent>
+               <c03 id="aspace_ref222_c65" level="file">
+                  <did>
+                     <unittitle>1912, Jan. 3-1916, Apr. 20</unittitle>
+                     <container id="aspace_b8d2eb0b907ef92668b5c51ddb80c2b3" label="Mixed Materials"
+                        type="box">77</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref223_bgi" level="file">
+                  <did>
+                     <unittitle>1916, Apr. 21-1917, Nov. 17</unittitle>
+                     <container id="aspace_a3f90d621a3eb60c4454c8680d13e36b" label="Mixed Materials"
+                        type="box">78</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref224_t6a" level="file">
+                  <did>
+                     <unittitle>1917, Nov. 17-1919, Mar. 1</unittitle>
+                     <container id="aspace_dc226a078e35a96f32006815f7c8b116" label="Mixed Materials"
+                        type="box">79</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref225_jkk" level="file">
+                  <did>
+                     <unittitle>1919, Mar.-1920, Oct. 29(2 vols.)</unittitle>
+                     <container id="aspace_b40fdded94caa6ec47b0108c159d00a1" label="Mixed Materials"
+                        type="box">80</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref226_hli" level="file">
+                  <did>
+                     <unittitle>1920, Oct. 30-1922, Feb. 6(2 vols.)</unittitle>
+                     <container id="aspace_f111fb9dd9ec139662e9911f44a2a867" label="Mixed Materials"
+                        type="box">81</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref227_f0y" level="file">
+                  <did>
+                     <unittitle>1922, Feb. 11-1924, Dec.</unittitle>
+                     <container id="aspace_799c2d8417158b618588ccabd190b4b0" label="Mixed Materials"
+                        type="box">82</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref228_bbh" level="file">
+                  <did>
+                     <unittitle>Philippines, 1926, July-August</unittitle>
+                     <container id="aspace_4ab557482755dbaf447a63ff1e1771e2" label="Mixed Materials"
+                        type="box">82</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref230_8s1" level="subseries">
+               <did>
+                  <unittitle>Subjects, 1909-1926 and undated</unittitle>
+               </did>
+               <scopecontent id="aspace_e6be6f72fe5cad6c13ac375b429564d2">
+                  <head>Scope and Contents note</head>
+                  <p>Subdivided into topics. Several were either by or about Williams. Represented
+                     in the subject clippings is information about the Carmi Thompson investigation
+                     in the Philippines while Williams was in the Philippines working for the Boston
+                     American. Also contains information about speeches he made on various topics.
+                     Arranged in alphabetical order by topic and chronologically within each
+                     topic.</p>
+               </scopecontent>
+               <c03 id="aspace_ref231_nju" level="file">
+                  <did>
+                     <unittitle>Aviation, 1916-1925, undated</unittitle>
+                     <container id="aspace_037be9515258a61bea8db1a5aa8b243c" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref232_mnd" level="file">
+                  <did>
+                     <unittitle>Coolidge, Calvin, 1920-1926, undated</unittitle>
+                     <physdesc id="aspace_577d6d836295c6b067be31ccba7e6409">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_a9fe0eb8e79d5e954e796e9e0e159f8e" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref234_amd" level="file">
+                  <did>
+                     <unittitle>Harding, Warren G., 1921-1923</unittitle>
+                     <container id="aspace_efea9606f690934cb042ad6a2bbc4622" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref235_yog" level="file">
+                  <did>
+                     <unittitle>Ku Klux Klan, 1923-1925</unittitle>
+                     <container id="aspace_e1ff5dedd207b968f626558b8a262435" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref236_l0b" level="file">
+                  <did>
+                     <unittitle>Landon, Alf M., 1936</unittitle>
+                     <container id="aspace_eaf76300e27ab7d320deb8c294fe4579" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref237_sg7" level="file">
+                  <did>
+                     <unittitle>League of Nations and World Court, 1919-1925</unittitle>
+                     <container id="aspace_6604b15e5029ca82768e513f16ecb24b" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref238_n4h" level="file">
+                  <did>
+                     <unittitle>Massachusetts, 1913-1926</unittitle>
+                     <container id="aspace_3f1c330ba18ba6aa75f5b0dd366077a5" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref239_emk" level="file">
+                  <did>
+                     <unittitle>Mitchell, William, 1925, undated</unittitle>
+                     <container id="aspace_b7a3069f125254ea2ab27a8a1b7aa5b8" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref240_049" level="file">
+                  <did>
+                     <unittitle>Philippine Independence Movement, 1923-1926, undated</unittitle>
+                     <container id="aspace_399386afe01f239865af9e3ad8f6609a" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref241_kaj" level="file">
+                  <did>
+                     <unittitle>Presidential Campaigns, 1912-1920</unittitle>
+                     <physdesc id="aspace_12a8157e608ab2546a0fe043a9e054eb">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_cc93bf6ad94564fcef5e91dec1d05b58" label="Mixed Materials"
+                        type="box">83</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref243_ygo" level="file">
+                  <did>
+                     <unittitle>Presidential campaign, 1924</unittitle>
+                     <physdesc id="aspace_288429ffc5f5178ccae73b4065300bc6">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9cd8e3418484d58c98547674c532a6b7" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref245_r8t" level="file">
+                  <did>
+                     <unittitle>Prohibition, 1921-1926</unittitle>
+                     <container id="aspace_b7676e1a1e4efac35368c8d01aa34b40" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref246_217" level="file">
+                  <did>
+                     <unittitle>Roosevelt, Theodore, 1909-1921</unittitle>
+                     <container id="aspace_3cb6d0caa4f1dec5c072f62a6f09615d" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref247_fli" level="file">
+                  <did>
+                     <unittitle>Taft, William H., 1910-1921</unittitle>
+                     <container id="aspace_f96fd3ef76c50a1aa503071a6d8c23ea" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref248_avx" level="file">
+                  <did>
+                     <unittitle>Williams, James T. (1881-1969), 1909-1941, undated</unittitle>
+                     <physdesc id="aspace_14c1193ac6b7267cca0972ed65f0c634">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_e539536c1f89e01ae88a426f014adcef" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref250_8ru" level="file">
+                  <did>
+                     <unittitle>Williams family, 1921-1945, undated</unittitle>
+                     <container id="aspace_945012284f24b3d2b4efe0ec1ee51d4e" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref251_5xp" level="file">
+                  <did>
+                     <unittitle>Wilson, Woodrow, 1913-1924, undated</unittitle>
+                     <container id="aspace_140e8312e9ac7125cd9a854f5fd3eed5" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref252_rcz" level="file">
+                  <did>
+                     <unittitle>Wood, Leonard, 1903-1927</unittitle>
+                     <container id="aspace_ad09b514a742e1e394557ee81a7fc9c8" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref253_t6w" level="file">
+                  <did>
+                     <unittitle>World Disarmament, 1919-1930, undated</unittitle>
+                     <container id="aspace_0def2f4c3aca53ef87ede23a118b37c1" label="Mixed Materials"
+                        type="box">84</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref256_cz2" level="series">
+            <did>
+               <unittitle>Printed Material Series, 1836-1947 and undated</unittitle>
+            </did>
+            <odd id="aspace_b2023412a536f5abbefe1c4dc994c0a1">
+               <head>General note</head>
+               <p>[1836 material is located in Box 95 (Oversize)]</p>
+            </odd>
+            <scopecontent id="aspace_4a1cbacd72200e90bfcba5ec529deda2">
+               <head>Scope and Contents note</head>
+               <p>Subdivided into two subseries, one by date, the other by types of printed material
+                  in alphabetical order. Includes printed political speeches, sermons, Boston
+                  Evening Transcript editorials, political pamphlets, periodical tearsheets, and
+                  material about the League of Nations. Contains political postcards, poetry,
+                  flyers, hymns, ribbons, campaign buttons, and press buttons for different state
+                  and national conventions, including some from the Republican National Convention
+                  in 1912. Also various programs and flyers of clubs where Williams spoke.</p>
+            </scopecontent>
+            <c02 id="aspace_ref257_72x" level="file">
+               <did>
+                  <unittitle>1892-1915</unittitle>
+                  <physdesc id="aspace_5b2350c96149bc261b6f4c08dee5f16d">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_95a4be670587a49fed9f9679f2ba895e" label="Mixed Materials"
+                     type="box">85</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref259_2y7" level="file">
+               <did>
+                  <unittitle>1916-1922</unittitle>
+                  <physdesc id="aspace_946c095743cbd858e9c2b3cdf4f39160">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2870a1f2f0b1e4bdb952c78f98a001ce" label="Mixed Materials"
+                     type="box">86</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref261_qhz" level="file">
+               <did>
+                  <unittitle>1923-1939</unittitle>
+                  <physdesc id="aspace_1c6679b8352b45dd08d0e7bbb16fbd22">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_6b81181360def8d6f20536ffe4f44984" label="Mixed Materials"
+                     type="box">87</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref263_bhs" level="file">
+               <did>
+                  <unittitle>1940-1947, undated</unittitle>
+                  <physdesc id="aspace_5adeaa49ee8bd5111d660b979769edd0">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fde5a7f70274d11716ace3e777d86eb8" label="Mixed Materials"
+                     type="box">88</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref265_rn1" level="file">
+               <did>
+                  <unittitle>Church bulletins</unittitle>
+                  <container id="aspace_7b8c52dce96016ad6853727ea4f214f6" label="Mixed Materials"
+                     type="box">88</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref266_c87" level="file">
+               <did>
+                  <unittitle>Invitations and cards</unittitle>
+                  <container id="aspace_d7cace0a77daaa7ae87ad7d64f6272af" label="Mixed Materials"
+                     type="box">88</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref267_pd1" level="file">
+               <did>
+                  <unittitle>Invitations and cards</unittitle>
+                  <physdesc id="aspace_ef135b30aa18d48cc23ec5bc7562c654">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_597603101522edb7337c9bd5ecffe886" label="Mixed Materials"
+                     type="box">89</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref269_rtl" level="file">
+               <did>
+                  <unittitle>Membership cards, Passes, etc.</unittitle>
+                  <container id="aspace_c9f61c5e6d2b7f0cf25c91ba55f4b944" label="Mixed Materials"
+                     type="box">89</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref270_k4r" level="file">
+               <did>
+                  <unittitle>Menus</unittitle>
+                  <physdesc id="aspace_ef5d93e7d665f91aeff0421b983f6917">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8ad282747bb7d9f7f041e3fdaebd306a" label="Mixed Materials"
+                     type="box">89</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref272_ita" level="file">
+               <did>
+                  <unittitle>Political campaign memorabilia</unittitle>
+                  <physdesc id="aspace_dd54aa29c12d76a78400dcdd53ea4f03">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d56ce3d37f1cb9c312d10a2dd3b6dda8" label="Mixed Materials"
+                     type="box">90</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref274_c0p" level="file">
+               <did>
+                  <unittitle>Programs</unittitle>
+                  <container id="aspace_4c34f45b16625dc9a63734a6b5e7a1f8" label="Mixed Materials"
+                     type="box">90</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref275_tcv" level="file">
+               <did>
+                  <unittitle>Publications:</unittitle>
+               </did>
+               <c03 id="aspace_ref276_uhp" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Air Service Newsletter,</title> 1921-1925,
+                        July</unittitle>
+                     <physdesc id="aspace_631a18c18683a472d86afb5306522ab7">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_7426b8199e655ba1dde0c544ac4a0e34" label="Mixed Materials"
+                        type="box">90</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref278_e7n" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">David Lawrence's Weekly,</title> 1933</unittitle>
+                     <container id="aspace_5e3f5ef8c782100953b1bf7255673205" label="Mixed Materials"
+                        type="box">90</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref279_gsw" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">National Council for Reduction of Armaments
+                           Bulletin,</title> 1922-1923</unittitle>
+                     <container id="aspace_cc29177050d3f01437b31bd5df2eac1f" label="Mixed Materials"
+                        type="box">90</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref282_7ic" level="series">
+            <did>
+               <unittitle>Pictures Series, 1905-1935 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_a6500a485ecfdc08e75e1a2bda2ec349">
+               <head>Scope and Contents note</head>
+               <p>Includes photographs of early airplanes, including those used in the United States
+                  air mail service as well as unidentified pilots in front of airplanes. Also two
+                  photographs of persons rehearsing for the Equal Rights Pageant to be given by the
+                  National Woman's Party in Colorado Springs on September 23 [year unavailable]
+                  which are located in the Pictures: Political, 1905-1924 and undated folder; signed
+                  portraits of Leonard Wood, Frank H. Hitchcock, and Charles Nagel; a few
+                  photographs of Fort Bayard, N.M., where Williams went to recover from
+                  tuberculosis; and several of Williams and members of his family.</p>
+            </scopecontent>
+            <c02 id="aspace_ref283_ys5" level="file">
+               <did>
+                  <unittitle>Agriculture, undated</unittitle>
+                  <container id="aspace_6e7c05c092116bdafbe89dc94079bb3b" label="Mixed Materials"
+                     type="box">91</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref284_c5q" level="file">
+               <did>
+                  <unittitle>Aviation:</unittitle>
+               </did>
+               <c03 id="aspace_ref285_kaw" level="file">
+                  <did>
+                     <unittitle>Aerial photographs, 1922 and undated</unittitle>
+                     <container id="aspace_011461e756b6135a0e196166af186f79" label="Mixed Materials"
+                        type="box">91</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref286_kxo" level="file">
+                  <did>
+                     <unittitle>Aircraft, undated</unittitle>
+                     <container id="aspace_1c4b94cb173dd1d85c1460dc88262d01" label="Mixed Materials"
+                        type="box">91</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref287_f56" level="file">
+               <did>
+                  <unittitle>Aviation: People, 1911-1927 and undated</unittitle>
+                  <container id="aspace_67b0af6a5e3e68a88a7464ea500c0672" label="Mixed Materials"
+                     type="box">92</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref288_iwp" level="file">
+               <did>
+                  <unittitle>Military (Miscellaneous), 1916-1923 and undated</unittitle>
+                  <physdesc id="aspace_921255fc96abca0aa9a2e44f690af3d9">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_26aaea96137ace20ad4cb102d8f1abb7" label="Mixed Materials"
+                     type="box">92</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref290_fr0" level="file">
+               <did>
+                  <unittitle>People:</unittitle>
+               </did>
+               <c03 id="aspace_ref291_edc" level="file">
+                  <did>
+                     <unittitle>Coolidge, Calvin, 1923 and undated</unittitle>
+                     <container id="aspace_41edab7bd5b6104a834210baf06eeb9f" label="Mixed Materials"
+                        type="box">92</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref292_40h" level="file">
+                  <did>
+                     <unittitle>Lincoln, Abraham, undated</unittitle>
+                     <container id="aspace_7f7d605c1b3ad8b46904ac33de8af5ea" label="Mixed Materials"
+                        type="box">92</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref293_87r" level="file">
+                  <did>
+                     <unittitle>Roosevelt, Theodore, 1918 and undated</unittitle>
+                     <container id="aspace_27327cd893f64282c2459f6974ca27a8" label="Mixed Materials"
+                        type="box">92</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref294_52v" level="file">
+                  <did>
+                     <unittitle>Williams, James T., (1845-1936) 1918 and undated</unittitle>
+                     <container id="aspace_f4053e650bbd3cd332eb3f6ef6267d54" label="Mixed Materials"
+                        type="box">92</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref295_jsk" level="file">
+                  <did>
+                     <unittitle>Williams, James T., (1881-1969) 1918 and undated</unittitle>
+                     <container id="aspace_303ef96542399809f708a149252b5345" label="Mixed Materials"
+                        type="box">92</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref296_p31" level="file">
+                  <did>
+                     <unittitle>Williams Family Groups, 1905 and undated</unittitle>
+                     <container id="aspace_24b4610a5a4fc3e250373276153ca3a5" label="Mixed Materials"
+                        type="box">92</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref297_n3j" level="file">
+                  <did>
+                     <unittitle>Williams Family Photos--Children, undated</unittitle>
+                     <container id="aspace_b74ab49a965595b1fdeca3d95bd4cb53" label="Mixed Materials"
+                        type="box">92</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref298_a41" level="file">
+                  <did>
+                     <unittitle>Williams, James, Vardry, Silas, and Sumner, 1919 and
+                        undated</unittitle>
+                     <container id="aspace_3ed44f3fa2c16d813ddc7a6b68509853" label="Mixed Materials"
+                        type="box">92</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref299_b7p" level="file">
+                  <did>
+                     <unittitle>Political figures, 1922 and undated</unittitle>
+                     <container id="aspace_7a8c2fd584b387789f049a606dff1639" label="Mixed Materials"
+                        type="box">93</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref300_kl2" level="file">
+                  <did>
+                     <unittitle>Signed portraits, 1904-1919 and undated</unittitle>
+                     <container id="aspace_d888592eadb21782b8af45921f384c58" label="Mixed Materials"
+                        type="box">93</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref301_hma" level="file">
+                  <did>
+                     <unittitle>Identified, 1923-1930</unittitle>
+                     <container id="aspace_c03cb80b2f3c8a816e0a832a9e34565a" label="Mixed Materials"
+                        type="box">93</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref302_q87" level="file">
+                  <did>
+                     <unittitle>Unidentified:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref303_izw" level="file">
+                     <did>
+                        <unittitle>Men, undated</unittitle>
+                        <container id="aspace_02d01614c2cb63e2a2ae73ce7b9f675a"
+                           label="Mixed Materials" type="box">93</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref304_9v5" level="file">
+                     <did>
+                        <unittitle>Groups, undated</unittitle>
+                        <container id="aspace_8240506de5405379c3dd4d7f0821bb58"
+                           label="Mixed Materials" type="box">93</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref305_2kt" level="file">
+                     <did>
+                        <unittitle>With James T. Williams, undated</unittitle>
+                        <container id="aspace_e0089d78aa709e109fc77c4a5bbc499c"
+                           label="Mixed Materials" type="box">93</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref306_hxw" level="file">
+                     <did>
+                        <unittitle>Women, undated</unittitle>
+                        <container id="aspace_58cd36d96f867e1e2352290d541c699b"
+                           label="Mixed Materials" type="box">93</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref307_oyu" level="file">
+               <did>
+                  <unittitle>Places:</unittitle>
+               </did>
+               <c03 id="aspace_ref308_fxa" level="file">
+                  <did>
+                     <unittitle>Alaska, 1915 and undated</unittitle>
+                     <container id="aspace_71a01c7599fd7abc25166e59122b1648" label="Mixed Materials"
+                        type="box">93</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref309_d8i" level="file">
+                  <did>
+                     <unittitle>Arizona, undated</unittitle>
+                     <container id="aspace_7d6eb5414a6263d32bb09871144a41e7" label="Mixed Materials"
+                        type="box">93</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref310_0fy" level="file">
+                  <did>
+                     <unittitle>Fort Bayard, N.M., undated</unittitle>
+                     <container id="aspace_4e438895ca1e26800e18ff72e52006d5" label="Mixed Materials"
+                        type="box">94</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref311_2ap" level="file">
+                  <did>
+                     <unittitle>Oxford, England, undated</unittitle>
+                     <container id="aspace_9b4b84fc9cf84fcd5e911f502607b199" label="Mixed Materials"
+                        type="box">94</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref312_f93" level="file">
+                  <did>
+                     <unittitle>Pacific, 1908-1926 and undated</unittitle>
+                     <container id="aspace_6db40b7669eb974b78236f36acbbc17d" label="Mixed Materials"
+                        type="box">94</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref313_9sy" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, 1935 and undated</unittitle>
+                     <container id="aspace_560940ea778b498155caa28e62b08b7d" label="Mixed Materials"
+                        type="box">94</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref314_64i" level="file">
+               <did>
+                  <unittitle>Political, 1905-1924 and undated</unittitle>
+                  <container id="aspace_2f85ce0d17ca0476c1fde542a9da7e6e" label="Mixed Materials"
+                     type="box">94</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref315_3fw" level="file">
+               <did>
+                  <unittitle>Rifle Team, undated</unittitle>
+                  <container id="aspace_0a07c71cc978685b0199d3943c9ca35f" label="Mixed Materials"
+                     type="box">94</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref316_vxc" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1920-1922 and undated</unittitle>
+                  <physdesc id="aspace_f650a61ddf9b4ca31b44abcb1eff7946">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3d9ace6680f2ee09ecaa0956945c0a7b" label="Mixed Materials"
+                     type="box">94</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref319_77i" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <c02 id="aspace_ref320_td3" level="file">
+               <did>
+                  <unittitle>Correspondence Series,1918-1940</unittitle>
+                  <container id="aspace_3c21c3a6b9bbfb686f868c4ff58484d6" label="Mixed Materials"
+                     type="box">95</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref321_vpw" level="file">
+               <did>
+                  <unittitle>Subject Files Series, 1925</unittitle>
+                  <container id="aspace_2ed880318136084b1e58de2305ace2f3" label="Mixed Materials"
+                     type="box">95</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref322_z34" level="file">
+               <did>
+                  <unittitle>Legal Papers, 1921-1925</unittitle>
+                  <container id="aspace_aa6d84d17d52bc4d8964778e5b5b242d" label="Mixed Materials"
+                     type="box">95</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref323_ecn" level="file">
+               <did>
+                  <unittitle>Writings and Speeches, 1925</unittitle>
+                  <container id="aspace_2c985ed440657b90959c049305396fcf" label="Mixed Materials"
+                     type="box">95</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref324_u1t" level="file">
+               <did>
+                  <unittitle>Writings and Speeches, 1921</unittitle>
+                  <container id="aspace_42d5d5230d8f51f3f35ad9ecf18be258" label="Mixed Materials"
+                     type="oversize-box">97</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref325_3p6" level="file">
+               <did>
+                  <unittitle>Miscellaneous Series, 1920</unittitle>
+                  <container id="aspace_8f4ad2e87f3b45a6bb7986baedaffbaa" label="Mixed Materials"
+                     type="box">95</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref326_njf" level="file">
+               <did>
+                  <unittitle>Miscellaneous Series, undated</unittitle>
+                  <container id="aspace_c3751a9f95ceb6fbf69bf43729737835" label="Mixed Materials"
+                     type="oversize-box">97</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref327_ztq" level="file">
+               <did>
+                  <unittitle>Clippings Series, 1919-1926</unittitle>
+                  <container id="aspace_971cf8901c7df2631ae4ea322d0b48ee" label="Mixed Materials"
+                     type="box">95</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref328_b85" level="file">
+               <did>
+                  <unittitle>Clippings Series, 1908-1930</unittitle>
+                  <container id="aspace_e1f413cdb46b20ccee89094678dbc6a1" label="Mixed Materials"
+                     type="box">96</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref329_wqh" level="file">
+               <did>
+                  <unittitle>Clippings Series, 1914-1926</unittitle>
+                  <container id="aspace_e03b31d93860e9857d389f5171302d0d" label="Mixed Materials"
+                     type="oversize-box">97</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref330_dsn" level="file">
+               <did>
+                  <unittitle>Printed Material Series, 1836-1923</unittitle>
+                  <container id="aspace_af7929b1bf1b16320d2d8c3b9ecdd124" label="Mixed Materials"
+                     type="box">95</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref331_jml" level="file">
+               <did>
+                  <unittitle>Printed Material Series, 1903-1947 and undated</unittitle>
+                  <physdesc id="aspace_025b4fc93a6d05dce297421471149162">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d8b13cc9cca490877e761bd01a816aec" label="Mixed Materials"
+                     type="oversize-box">97</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref333_843" level="file">
+               <did>
+                  <unittitle>Pictures Series, undated</unittitle>
+                  <container id="aspace_f279f73a1d328e665667e9630d4e870b" label="Mixed Materials"
+                     type="box">95</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref334_zpd" level="file">
+               <did>
+                  <unittitle>Pictures Series, undated</unittitle>
+                  <container id="aspace_de30b8f58fc3d93580774c7407a4bd69" label="Mixed Materials"
+                     type="oversize-box">97</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

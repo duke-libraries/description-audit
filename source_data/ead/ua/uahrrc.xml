@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/uahrrc/">uahrrc</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Office of Human Resources Reference Collection, 1950-[ongoing]
+                  <num>UA.01.11.0031</num>
+            </titleproper>
+            <author>Processed by: Thomas Harkins; machine-readable finding aid created by: Sherrie
+               Bowser</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003838251</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 20:55:40
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Office of Human Resources Reference collection</unittitle>
+         <origination label="creator">
+            <corpname source="naf">Duke University. University Archives</corpname>
+         </origination>
+         <unitid>UA.01.11.0031</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1950/2004" type="inclusive">1950-[ongoing]</unitdate>
+         <physloc id="aspace_b19fda9f33aeeb084de73f635ce0054d">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_47a552f6a0a0a61841e59316c892f14b">The Office of Human Resources
+            Reference Collection contains files of memoranda, personnel policy notices, employee
+            handbooks and newsletters, policy manuals, news clippings, literature on training
+            opportunities, and other materials concerning the personnel management functions of the
+            University. Materials date from the early 1950s through the 1990s. Major subjects
+            include benefits, wages and salaries, upward mobility programs and training, services
+            for employees, employee awards and appreciation events, and personnel policies and work
+            rules. This collection was compiled from a variety of sources by the University Archives
+            for use in reference and research.</abstract>
+         <physdesc id="aspace_f9e96f05ce61fd0267f54f0818eb2b15">
+            <extent>2,500 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_19f32d7cd66d256e3055d6f59989f50e">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_904740072bf8bad3734e42af6b22361f">
+         <head>Access Restrictions</head>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_a27498d799b8155563f08878158b0a46">
+         <head>Copyright Notice</head>
+         <p>Copyright for Official University records is held by Duke University; all other
+            copyright is retained by the authors of items in these papers, or their descendants, as
+            stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite id="aspace_da46231506b05f7937b85eb4d395ec71">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Office of Human Resources Reference Collection, Duke
+            University Archives, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke
+            University.</p>
+      </prefercite>
+      <acqinfo id="aspace_ee45418f90bbfe900e91440075b3cfd4">
+         <head>Provenance</head>
+         <p>The Office of Human Resources Reference Collection was compiled by University Archives
+            staff from a variety of sources for reference and research.</p>
+      </acqinfo>
+      <processinfo id="aspace_16008ac16c1d7d4a50ebde2e9d06bddd">
+         <head>Processing Information</head>
+         <p>Processed by Thomas Harkins, March 2004</p>
+         <p>Encoded by Sherrie Bowser, December 2007</p>
+         <p>Updated by Molly Bragg, August 2011</p>
+         <p>Accessions were merged into one collection, described in this finding aid. </p>
+      </processinfo>
+      <processinfo id="aspace_bb4be65b190a9e788225ef23c40da41e">
+         <head>Processing Information note</head>
+         <p>This collection was created as part of the reorganization of the ready reference files
+            to consolidate non-record material pertaining to the University's human resources
+            management functions into a reference collection. Files concerning the subject were
+            found under various headings in Small Collections, under Employee ...; Employment
+            Office; Human Resources, Department of; and Personnel Department, and also in artificial
+            collections about the Personnel Department and the Human Resources Department; Policy
+            Manuals; Wage and Salary Administration; Employee Relations Office, and Employee
+            Unions.</p>
+      </processinfo>
+      <bioghist id="aspace_99d3c824c278e7195a815c7318f93df2">
+         <head>Historical Note</head>
+         <chronlist>
+            <head>Chronology List</head>
+            <chronitem>
+               <date>1948/1949</date>
+               <eventgrp>
+                  <event>The position of Personnel Director first appeared in the University
+                     Bulletin. The appointee, Walter G. Cooper, reported to the Business Manager and
+                     Comptroller. The Personnel Department was given authority over all "employees
+                     of the University who are not directly connected in a professional capacity
+                     with its social or academic activities."</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1969/1970</date>
+               <eventgrp>
+                  <event>The Personnel Department had the following structure: Director, Wage and
+                     Salary, Personnel Records, Employment Office, Medical Center Personnel,
+                     Training and Development, Cost Reduction</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1980-1982</date>
+               <eventgrp>
+                  <event>The Human Resources division was created and structured as follows:
+                     Director (an Assistant Vice President), Benefits and Records, Employee
+                     Relations, Employee Services, Wage and Salary, Human Resources Development,
+                     Employment Office, Labor Relations</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1997</date>
+               <eventgrp>
+                  <event>Administration, Benefits Administration, Temporary Services, Employee
+                     Occupational Health Services, Learning/Training and Organizational Development,
+                     Rewards and Recognition [formerly Wage and Salary], Recruitment.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>2000</date>
+               <eventgrp>
+                  <event>The Human Resources division became headed by a Vice President</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_c7c10da9879f87d8975f84c4f815ec3d">
+         <head>Collection Overview</head>
+         <p>The Office of Human Resources Reference Collection contains files of memoranda,
+            personnel policy notices, employee handbooks and newsletters; policy manuals; news
+            clippings, brochures, and other printed materials. The collection is organized in five
+            series: 1) Management 2) Personnel Department 3) Awards 4) Training 5) Benefits</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_ee5e21f01b2d4c330b73080515f6af4a">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection"> Labor Unions Reference Collection,
+                  1965-1982.</unittitle>
+               <repository label="Repository">University Archives, Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Office of Human Resources records,
+                  1979-[ongoing].</unittitle>
+               <repository label="Repository">Duke University Archives, Duke
+                  University.</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Academic Council Records see Non-Academic Employees
+                  Committee</unittitle>
+               <repository label="Repository">University Archives, Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection"> Student Organizations Reference Collection,
+                  1913-ongoing. see Student-Employee Relations Coalition</unittitle>
+               <repository label="Repository">University Archives, Duke University.</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">College personnel management -- North Carolina -- Durham</subject>
+         <subject source="lcsh">Employee fringe benefits -- North Carolina -- Durham</subject>
+         <subject source="lcsh">Labor unions -- North Carolina -- Durham</subject>
+         <subject source="lcsh">College teachers -- Retirement -- Handbooks, manuals, etc.</subject>
+         <corpname source="ingest">Duke University -- Employees</corpname>
+         <corpname source="ingest">Duke University -- Handbooks, manuals, etc.</corpname>
+         <corpname source="ingest">Duke University -- Quarter Century Club</corpname>
+         <corpname source="ingest">Duke University. Office of Human Resources</corpname>
+         <corpname source="naf">Duke University. University Archives</corpname>
+         <corpname source="ingest">Duke University -- Personnel management</corpname>
+         <corpname source="ingest">Duke University. Personnel Department -- History</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref15_u4y" level="series">
+            <did>
+               <unittitle>Management</unittitle>
+            </did>
+            <c02 id="aspace_ref16_w5c" level="file">
+               <did>
+                  <unittitle>Administration Memoranda, 1950</unittitle>
+                  <container id="aspace_38171d873b69d72886e543353b942549" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_p8d" level="file">
+               <did>
+                  <unittitle>Personnel Department Supervisors' Manual, 1962</unittitle>
+                  <container id="aspace_f90c38918d94511a504ad0f357b68db8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_3a0" level="file">
+               <did>
+                  <unittitle>Supervisors' Handbook, 1982/1986</unittitle>
+                  <container id="aspace_c95ac42116739f19a990eed06ef2122e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_4k6" level="file">
+               <did>
+                  <unittitle>"Guideline" [supervisors' newsletter], 1970-1971</unittitle>
+                  <container id="aspace_9d4c65a5f55f4ec622ca6b6e6227ef79" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_bur" level="file">
+               <did>
+                  <unittitle>Area wage survey, 1970</unittitle>
+                  <container id="aspace_665cb6b04891ba80d59409b74b3a6bb6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_39g" level="file">
+               <did>
+                  <unittitle>Wage and salary workshop handbook, [1974-1978]</unittitle>
+                  <container id="aspace_e8d949865278d37ffcd6cf36dd380b77" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_sfs" level="file">
+               <did>
+                  <unittitle>Position classification guide, 1962</unittitle>
+                  <container id="aspace_65dbbaa5b6d91e15e676eaa877982eb8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_jim" level="file">
+               <did>
+                  <unittitle>Position description and classification proposal [1967]</unittitle>
+                  <container id="aspace_caeee6acc60ecb4e27edc216a76904a0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_vp9" level="file">
+               <did>
+                  <unittitle>A Study of the Duke University Personnel Management System, 1980
+                     [report]</unittitle>
+                  <container id="aspace_533b683ed08f5003d844a3fa184409b9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_dth" level="file">
+               <did>
+                  <unittitle>Work Culture Task Force, 1998 (2 folders)</unittitle>
+                  <container id="aspace_bfef74437e1ea469d234896f37f9ee14" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_pyi" level="file">
+               <did>
+                  <unittitle>Drug-free work environment, 1998</unittitle>
+                  <container id="aspace_8790e3333ff6f7c84e99554479214a0b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref27_l64" level="series">
+            <did>
+               <unittitle>Personnel Department</unittitle>
+            </did>
+            <c02 id="aspace_ref28_spl" level="file">
+               <did>
+                  <unittitle>Employment office, 1970-1986</unittitle>
+                  <container id="aspace_2958ef2852aa5105c64b8beae3b1150f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_tdq" level="file">
+               <did>
+                  <unittitle>Personnel Department Clippings</unittitle>
+                  <container id="aspace_cf20c18de9d959833d9cba088abeac77" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_9rx" level="file">
+               <did>
+                  <unittitle>Personnel Department Memoranda, circa 1951-1990 + undated
+                     (8f)</unittitle>
+                  <container id="aspace_b32c851f53993d3284e7133ec7c69ecb" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_lis" level="file">
+               <did>
+                  <unittitle>Personnel notices, circa 1969-1994</unittitle>
+                  <container id="aspace_4dc9bd6e8a682f2b54e2d34081479e48" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_07v" level="file">
+               <did>
+                  <unittitle>Severe weather policy, 1974/1975</unittitle>
+                  <container id="aspace_86b8f872fb9c9e911e1e1a5e101033c5" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_ct2" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Employee Life</emph> [newsletter], 1968</unittitle>
+                  <container id="aspace_7df1c78b01b1ac3c310f2767a1971f95" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_b9m" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Update: Duke Employees News Release</emph> circa
+                     1973-1988</unittitle>
+                  <container id="aspace_f11e03a74f421846bf84463898339f26" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_m7f" level="file">
+               <did>
+                  <unittitle>Employee handbooks and work rules, 1960-1974</unittitle>
+                  <container id="aspace_f80bccc859acda4ae306813055e43205" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_f1b" level="file">
+               <did>
+                  <unittitle>Duke University Personnel Policy Manual, 1970</unittitle>
+                  <container id="aspace_6b0d58d5e428b0d0d62d66e0e5f8dc05" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_if1" level="file">
+               <did>
+                  <unittitle>Duke University Personnel Policy Manual, superseded material, 1974-1981
+                     (5 folders)</unittitle>
+                  <container id="aspace_216bf490a80643c2f871f940e1ff17f2" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_v5n" level="file">
+               <did>
+                  <unittitle>Duke University Personnel Policy Manual, superseded material, 1981-1996
+                     (2 folder)</unittitle>
+                  <container id="aspace_3ac92dd9aa1763d1a4a42ff557b072cd" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_w5t" level="file">
+               <did>
+                  <unittitle>Duke University Personnel Policy Manual, February, 1985 (2
+                     folders)</unittitle>
+                  <container id="aspace_31acf79bd7f1025b0050bb83218330ae" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref40_aug" level="series">
+            <did>
+               <unittitle>Awards</unittitle>
+            </did>
+            <c02 id="aspace_ref41_vac" level="file">
+               <did>
+                  <unittitle>Service awards, 1968- (includes Presidential and Quarter-Century
+                     awards) (4 folders)</unittitle>
+                  <container id="aspace_278210a4923f143ef1419cc055e60cfb" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref42_xn4" level="series">
+            <did>
+               <unittitle>Training</unittitle>
+            </did>
+            <c02 id="aspace_ref43_wi2" level="file">
+               <did>
+                  <unittitle>Employee training, memoranda and schedules, 1967-1986</unittitle>
+                  <container id="aspace_800921445ceb2a9f28f617acab7ac442" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_iuo" level="file">
+               <did>
+                  <unittitle>Training and Organizational Development, 1987-1993</unittitle>
+                  <container id="aspace_7abe08cd14a8f0cd460ef16a4bb78f82" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_ja2" level="file">
+               <did>
+                  <unittitle>Training and Organizational Development Job Enhancement Program, 1985,
+                     1987</unittitle>
+                  <container id="aspace_e4cc72a46ca2c6d327fc07019f5457c9" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_5iw" level="file">
+               <did>
+                  <unittitle>University Center for Management and Professional Development,
+                     1994-1997</unittitle>
+                  <container id="aspace_99a24f99002fc41488f3d4223c01291e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_rr5" level="file">
+               <did>
+                  <unittitle>Learning and Organizational Development, 1999-2001</unittitle>
+                  <container id="aspace_38100e883230f93891523a99e02eab7c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_7g5" level="file">
+               <did>
+                  <unittitle>Paths for Employee Progress, [1971] and Critical needs job training,
+                     circa 1990</unittitle>
+                  <container id="aspace_19b49c2c0c536a1930cb32582b61c418" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref49_5ki" level="series">
+            <did>
+               <unittitle>Benefits</unittitle>
+            </did>
+            <c02 id="aspace_ref50_zhv" level="file">
+               <did>
+                  <unittitle>Benefits, general, 1955</unittitle>
+                  <container id="aspace_0ab4221ac6bf41756e440af2420c7aee" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_72y" level="file">
+               <did>
+                  <unittitle>Benefits: faculty and staff, 1957-1965</unittitle>
+                  <container id="aspace_6821dfb93f810073b88e8a4f18bc0ddb" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_nqz" level="file">
+               <did>
+                  <unittitle>Day Care Assistance, 1971-</unittitle>
+                  <container id="aspace_2735713fd49ad2f3da284c632be759ef" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_w4j" level="file">
+               <did>
+                  <unittitle>Faculty benefits handbooks, 1969, 1973, 1987 (2 folders)</unittitle>
+                  <container id="aspace_6b7f3c05a542010f9cea294b9c568b24" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_4c9" level="file">
+               <did>
+                  <unittitle>Staff benefits and policy handbooks, 1974, 1978</unittitle>
+                  <container id="aspace_e2d5241bd81d27d637d0b0b8af6f3279" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_q1n" level="file">
+               <did>
+                  <unittitle>Staff benefits guides, 1989 (2 folders)</unittitle>
+                  <container id="aspace_af13c4fef63cff444347b049ec2522a2" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_ss4" level="file">
+               <did>
+                  <unittitle>Faculty and staff retirement plan, circa 1950</unittitle>
+                  <container id="aspace_3ca17177d6059131bf19ba696ce8d77c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_m7q" level="file">
+               <did>
+                  <unittitle>Retirement planning guide for faculty, 1995</unittitle>
+                  <container id="aspace_ee907e2968c4a0fd4d27fae40c5ecd78" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_ost" level="file">
+               <did>
+                  <unittitle>Employees' retirement plan, 1954</unittitle>
+                  <container id="aspace_8aed010fcea14db15b8c40ae5620a84b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_7oq" level="file">
+               <did>
+                  <unittitle>Staff Benefits Guide and Packets, 1989</unittitle>
+                  <container id="aspace_564bc9bb26d7f8deb4f3c7e86a5fabb1" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_hlw" level="file">
+               <did>
+                  <unittitle>Life insurance, 1962-1974</unittitle>
+                  <container id="aspace_fcf0ae1fbab1e1ec343fc390297ee3fc" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_ero" level="file">
+               <did>
+                  <unittitle>Disability insurance, 1971-1991</unittitle>
+                  <container id="aspace_f98d1d05d34bb1ca83c94498567dad8d" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_b8g" level="file">
+               <did>
+                  <unittitle>Tuition benefit, 1962</unittitle>
+                  <container id="aspace_7bdb4394b70abbec54cc0dcda8dd7053" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_f7q" level="file">
+               <did>
+                  <unittitle>Comparable benefits for same-sex spousal equivalents, 1995</unittitle>
+                  <container id="aspace_d44c8b9ae43845b09ea3c8cae77c3979" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_18m" level="file">
+               <did>
+                  <unittitle>Benefits Fair/Open enrollment, 1999/2000</unittitle>
+                  <container id="aspace_d9549d212269367e3809748b16e14cf8" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_6pi" level="file">
+               <did>
+                  <unittitle>Employee and family programs, 1985</unittitle>
+                  <container id="aspace_01fb033f13460475c7d106a7d3d593a3" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_amg" level="file">
+               <did>
+                  <unittitle>Child and family programs, 1989</unittitle>
+                  <container id="aspace_b48fad2dcf4f81a61ccc9986afab6b52" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_tgn" level="file">
+               <did>
+                  <unittitle>Employee programs, misc.</unittitle>
+                  <container id="aspace_ec843f4431e0c057d21e20d4b9aed91d" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_33e" level="file">
+               <did>
+                  <unittitle>Personal Assistance Service</unittitle>
+                  <container id="aspace_8c7c47963f05463a68873327d26eb3d5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_v13" level="file">
+               <did>
+                  <unittitle>Employee week, 1987</unittitle>
+                  <container id="aspace_e02b274a847710c7d052fbfb8838792f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_2qt" level="file">
+               <did>
+                  <unittitle>Employee appreciation posters, 1994</unittitle>
+                  <container id="aspace_369293aa6e0b75563edb2806b6acf157" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_zng" level="file">
+               <did>
+                  <unittitle>Supervisor's Handbook, circa 1982</unittitle>
+                  <container id="aspace_6c1b8fe73db58dc7b9f53f51cf695a62" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_bua" level="file">
+               <did>
+                  <unittitle>Live for Life Health Promotion, 1989</unittitle>
+                  <container id="aspace_bb373fa2d063be1cbaf582b27f3a4285" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_il0" level="file">
+               <did>
+                  <unittitle>Handbooks and literature (duplicates)</unittitle>
+                  <container id="aspace_b9e4318bd2f10eb1cbcd0200db23ede9" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,2450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/lofton/">lofton</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the George Augustus Lofton Papers, 1784-1941 <num>RL.00818</num>
+            </titleproper>
+            <author>Processed by: John Gribble; Assisted by: Alex Byrd, Brent Johanson, Rachel
+               Pottinger; Machine-readable finding aid created by: Stephen Douglas Miller</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001582407</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 01:48:20
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>George Augustus Lofton papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Lofton, George Augustus, 1839-1914</persname>
+         </origination>
+         <unitid>RL.00818</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">14.2 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1784/1941" type="inclusive">1784-1941</unitdate>
+         <physloc id="aspace_4a6c59e7f5bab3cf90299324756d2a25">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_8e6f2e522606751a16d4ee11ea8927f2">
+            <extent>1800 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_ebefa0f3baf02ccf74d4616fda0a3af9">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_2843f5d47bfe8336e79fb8acc3b8ab51">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_c17b28d9e0bb49ebd0bd60a35b8706d4">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in the Lofton Papers have not been transferred to Duke
+            University. For further information, see the section on copyright in the Regulations and
+            Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_840212acee786734219b2881b2bc88a8">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], The Papers of George Augusts Lofton, David M. Rubenstein Rare
+            Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_ff465536cff25451c65f8847c4a171d2">
+         <head>Provenance</head>
+         <p>The George Augustus Lofton Papers (1874-1941) were purchased by the David M. Rubenstein
+            Rare Book &amp; Manuscript Library in 1989.</p>
+      </acqinfo>
+      <processinfo id="aspace_eb24c4fbf2aa06f36d52a8481e833529">
+         <head>Processing Information</head>
+         <p>Processed by: John Gribble; Assisted by: Alex Byrd, Brent Johanson, Rachel Pottinger</p>
+         <p>Completed November 15, 1993</p>
+         <p>Encoded by Stephen Douglas Miller</p>
+      </processinfo>
+      <bioghist id="aspace_55244f68f80c4f018f3ed6445445ce9b">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1839, Dec. 25</date>
+               <eventgrp>
+                  <event>Born, Panola County, Miss.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1861 - 1865</date>
+               <eventgrp>
+                  <event>Served in the Confederate States of America, 9th Georgia Battalion
+                     Artillery</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1865- 1867</date>
+               <eventgrp>
+                  <event>Principal, Wade Academy, Webster County, Ga.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1867- 1868</date>
+               <eventgrp>
+                  <event>Admitted to bar; practiced at Americus, Ga.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1868- 1869</date>
+               <eventgrp>
+                  <event>Ordained Baptist minister; pastor of several country churches in
+                     Georgia</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1870- 1872</date>
+               <eventgrp>
+                  <event>Pastor, Dalton, Ga.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1871</date>
+               <eventgrp>
+                  <event>A.M., Mercer University, Ga.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1872-1877</date>
+               <eventgrp>
+                  <event>Pastor, First Church, Memphis, Tenn.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1873-1876</date>
+               <eventgrp>
+                  <event>President, Southern Baptist Publishing Society</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1877-1884</date>
+               <eventgrp>
+                  <event>Pastor, Third Church, St. Louis, Mo.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1880</date>
+               <eventgrp>
+                  <event>D.D., Baylor University (Tex.)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1885-1887</date>
+               <eventgrp>
+                  <event>Pastor, Talladega, Ala.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1888</date>
+               <eventgrp>
+                  <event>Pastor, Central Church, Nashville, Tenn.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1889</date>
+               <eventgrp>
+                  <event>President, State Board Missions, Tenn.</event>
+                  <event>Authored <title type="simple" render="italic">Character Sketches</title>
+                  </event>
+                  <event>Moderator, Nashville Association of Baptist Churches</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1897</date>
+               <eventgrp>
+                  <event>Authored <title type="simple" render="italic">Harp of Life</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1899</date>
+               <eventgrp>
+                  <event>Authored <title type="simple" render="italic">Baptist Reformation,
+                        1611-1641, A.D.</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1900</date>
+               <eventgrp>
+                  <event>LL.D., University of Nashville</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1902</date>
+               <eventgrp>
+                  <event>Authored <title type="simple" render="italic">The Master Wheel</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1914, Dec.11</date>
+               <eventgrp>
+                  <event>Died</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_dea972d9ad3242b39dcd73e5ffc41d84">
+         <head>Collection Overview</head>
+         <p>The George Augustus Lofton Papers span the years 1874-1941, although the bulk of the
+            material dates from 1875-1900. They consist of correspondence, writings and sermons,
+            clippings, book reviews, and printed materials. The collection principally relates to
+            Lofton's career as a Baptist minister serving churches in Dalton, Gal; Memphis, Tenn.
+            (First Church); St. Louis, Mo. (Third Church); Talladega, Ala.; and Nashville, Tenn.
+            (Central Church). The collection mostly contains handwritten sermons and sermon notes,
+            and includes little family or personal material, although a few family letters are in
+            the Correspondence Series. The Correspondence Series, however, primarily contains
+            letters critiquing Lofton's works, <title type="simple" render="italic">Review of the
+               Question</title> and <title type="simple" render="italic">Bible Thoughts and
+               Themes.</title> The Writings and Speeches Series documents Lofton's intellectual
+            growth throughout his career as author and minister. This series also contains Lofton's
+            published text, <title type="simple" render="italic">Character Sketches</title> (1890),
+            and a manuscript draft of his autobiography titled, <title type="simple"
+               render="doublequote">My Family Garden.</title> Lofton's sermons and sermon notes
+            track both his spiritual development and writing skills throughout the years of his
+            ministry. The sermon notes reveal his views on slavery, capital punishment, and foreign
+            mission work. The Printed Materials Series includes published brochures and sermons
+            written by Lofton and others, 1881-1914. The Miscellaneous Series contains an assortment
+            of items from 1873-1940 including Lofton family photographs and other materials.
+            Included are items pertaining to Baptist minister George Law Stewart and Dr. Adiel
+            Sherwood.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Sermons -- Baptist</subject>
+         <subject source="lcsh">Baptists -- Clergy</subject>
+         <subject source="lcsh">Capital punishment -- Southern States</subject>
+         <subject source="lcsh">Slavery -- United States -- Emancipation</subject>
+         <subject source="lcsh">Authors, American -- Southern States</subject>
+         <subject source="lcsh">Mission -- Sermons</subject>
+         <persname source="ingest">Lofton, George Augustus, 1839-1914</persname>
+         <persname source="ingest">Stewart, George L.</persname>
+         <persname source="ingest">Sherwood, Adiel, 1791-1879</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_fbc" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1877-1921, undated</unittitle>
+            </did>
+            <c02 id="aspace_ref13_mao" level="file">
+               <did>
+                  <unittitle>1877-1921, undated</unittitle>
+                  <container id="aspace_3546bb6aa83526ef642d71d2551e69ca" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref14_26n" level="series">
+            <did>
+               <unittitle>Writings and Speeches Series, 1870-1900, undated</unittitle>
+            </did>
+            <arrangement id="aspace_b0528e08ba39d6c428ee0191144a112d">
+               <head>Arrangement note</head>
+               <p>Three subseries: Manuscripts, Sermons (arranged alphabetically), and Sermon Notes.
+                     <title type="simple" render="doublequote">My Family Garden</title> is a history
+                  of the Lofton family.</p>
+            </arrangement>
+            <c02 id="aspace_ref15_xs8" level="subseries">
+               <did>
+                  <unittitle>Manuscripts Subseries</unittitle>
+               </did>
+               <c03 id="aspace_ref16_c58" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Character Sketches,</title> 1890</unittitle>
+                     <container id="aspace_6a50f6ef3e43142884e1fe53abc86065" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref17_7qi" level="file">
+                  <did>
+                     <unittitle>Draft, <title render="doublequote">My Family Garden,</title>
+                        undated</unittitle>
+                     <container id="aspace_c62ca645b7a7a920faf831b196f36f76" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref18_eqo" level="subseries">
+               <did>
+                  <unittitle>Sermons Subseries</unittitle>
+               </did>
+               <c03 id="aspace_ref19_bp4" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">A</title> - <title render="italic"
+                           >Accountability</title>
+                     </unittitle>
+                     <container id="aspace_d2651d0444aa27d4d0e32d656bbaddba" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref20_g16" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Acquaintance</title> - <title render="italic"
+                           >Address</title>
+                     </unittitle>
+                     <container id="aspace_7ac2d082d47bf853b19ad4ff879e6e62" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref21_m5h" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Address</title> - <title render="italic">All
+                           Important</title>
+                     </unittitle>
+                     <container id="aspace_7f513775ebaeee45b13dabc3a3ab354f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref22_yk5" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The All Important Question</title>
+                     </unittitle>
+                     <container id="aspace_34b77735ba383e11bff16bccf8f5132f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref23_pwx" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">All in All</title> - <title render="italic"
+                           >Always</title>
+                     </unittitle>
+                     <container id="aspace_885c028e2e0a6ff6b79c46c56c4e692f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref24_92x" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">American</title> - <title render="italic"
+                           >Angel's</title>
+                     </unittitle>
+                     <container id="aspace_82a1d6c19f22cced624f2fd6a56a8361" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref25_b8j" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Answer</title> - <title render="italic"
+                           >Atheistic</title>
+                     </unittitle>
+                     <container id="aspace_2db7d946b2a16db5b9bcad6307d63ebe" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref26_oft" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Atonement</title> - <title render="italic"
+                           >Awakened</title>
+                     </unittitle>
+                     <container id="aspace_63b4d572a5aaafda350b1e8bf411ad2f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref27_bm5" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">B</title> - <title render="italic">Baptist</title>
+                     </unittitle>
+                     <container id="aspace_2d8d16ff7a6eb9b4e001628ce8cc9a6f" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref28_sd7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Baptist Faith</title> - <title render="italic">Barren
+                           Fig</title>
+                     </unittitle>
+                     <container id="aspace_4dee1cfa662281904757ba6a6984dbba" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref29_d4x" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Baptist Trophy, 1876</title>
+                     </unittitle>
+                     <container id="aspace_2be103508de2cd4b151b2c8761a88297" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref30_32a" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Bearing Each</title> - <title render="italic"
+                           >Besetting Son</title>
+                     </unittitle>
+                     <container id="aspace_ab4eff8c87231eda39815739112840d1" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref31_ff8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Best You Can</title> - <title render="italic">Bible
+                           Doctrine</title>
+                     </unittitle>
+                     <container id="aspace_5f28eb158eb79f9dbfaac67604993a88" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_b5o" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Bible in the Public Schools</title> - <title
+                           render="italic">Bible Theory of Sanctification</title>
+                     </unittitle>
+                     <container id="aspace_8a0037044c6eec98423aa20b37b5d395" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref33_tcu" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Bible Thoughts and Themes for Young Men</title> -
+                           <title render="italic">Blessedness of Giving</title>
+                     </unittitle>
+                     <container id="aspace_d23135af380a0475628eac2482a4475d" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_dxz" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Blind Bartnaeus</title> - <title render="italic"
+                           >Boodle and Whiskey</title>
+                     </unittitle>
+                     <container id="aspace_952a19f1c429a1ea3bed515e76ebbed3" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref35_6as" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Bread of Life</title> - <title render="italic"
+                           >By-path Meadow</title>
+                     </unittitle>
+                     <container id="aspace_8d171c420e597c5aa897fce9762a8b0b" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_z1i" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Capital Punishment: The Law of God and Nature</title>
+                        - <title render="italic">Causal Things Without Effect</title>
+                     </unittitle>
+                     <container id="aspace_e53c7b29d07d2cd8672cca21f7b1c1f9" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_opj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Causes of Spiritual Declension</title> - <title
+                           render="italic">Child likeness: the Condition of Entrance Into God's
+                           Kingdom</title>
+                     </unittitle>
+                     <container id="aspace_f46ce988dcd267269c1dd2ce252ff966" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_bgx" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Christ at the Door</title> - <title render="italic"
+                           >Christ the Door</title>
+                     </unittitle>
+                     <container id="aspace_c316f808c129619bd01f2a24d2ec6953" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_6ev" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Christ, the Only Personal...</title> - <title
+                           render="italic">Christ's Example of Activity</title>
+                     </unittitle>
+                     <container id="aspace_626a5bb682884bf337aa2811e797abb7" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_o4k" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Christian Charity</title> - <title render="italic"
+                           >The Christian's High Vocation</title>
+                     </unittitle>
+                     <container id="aspace_20ca1270b07709b50c9c0014a2a843f9" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_a3e" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Christian's Prize</title> - <title
+                           render="italic">Church Independence</title>
+                     </unittitle>
+                     <container id="aspace_402a7546fb3a135e20451f0b4e8a4497" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_fay" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Church of the Living God</title> - <title
+                           render="italic">Church Sunday Entertainment</title>
+                     </unittitle>
+                     <container id="aspace_5c5b6fda1cb83b4b91bedf0f2a4c45f1" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_i5a" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Cities of Refuge</title> - <title render="italic"
+                           >The Coming of Christ</title>
+                     </unittitle>
+                     <container id="aspace_6461768a32a0216cac5e0ab7d28ef89e" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_wmr" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Coming Empire</title> - <title render="italic"
+                           >Communion with Christ</title>
+                     </unittitle>
+                     <container id="aspace_42fa39b0f502a40248a798e5b21ddef2" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_9fw" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Compassion of Christ</title> - <title
+                           render="italic">The Condition of Revival</title>
+                     </unittitle>
+                     <container id="aspace_47c904e565817de1a4aa2c87fb49e20f" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_l8k" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Conditions of Spiritual Prosperity</title> - <title
+                           render="italic">Conscience</title>
+                     </unittitle>
+                     <container id="aspace_35388082efd01bef71033914a5335bfd" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_iqk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Consistency</title> - <title render="italic">Crime
+                           and Misfortune of Ignorance</title>
+                     </unittitle>
+                     <container id="aspace_adb3527c85bf643bf97346463f2dafad" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_0mm" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Crisis of the Cross</title> - <title
+                           render="italic">The City of Despair</title>
+                     </unittitle>
+                     <container id="aspace_e5188431150aaa86c7b0799bed736ea8" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_vmf" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Crystallizing Force of Habit</title> - <title
+                           render="italic">David's Sin</title>
+                     </unittitle>
+                     <container id="aspace_4cd75cb4210946670c3927d869401c03" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_z4x" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">David's Sins</title> - <title render="italic">Death
+                           and Judgment</title>
+                     </unittitle>
+                     <container id="aspace_6a2d5030d42c0f3a4e798c919c1036ae" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_1o8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Debit Without Credit</title> - <title render="italic"
+                           >The Devil as an Angel of Light</title>
+                     </unittitle>
+                     <container id="aspace_5d5d03fd0231d5e45a73b59c63234605" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_uk7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Devil's Shake</title> - <title render="italic"
+                           >Did Christ Come to Save the Gentiles</title>
+                     </unittitle>
+                     <container id="aspace_d1399c71979a63d430cab9e3c60e014f" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_syw" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Dignity and Moral Effect of Work</title> - <title
+                           render="italic">The Divine Purchase</title>
+                     </unittitle>
+                     <container id="aspace_eda25cfab2983fbdfa4477d4c7fcd3ba" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_rpi" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Divine Evolution</title> - <title render="italic"
+                           >The Divine Pastoral of Ruth</title>
+                     </unittitle>
+                     <container id="aspace_3bfe91c8d78fe4b0105a1e3600e69874" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref55_9a8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Divine Signet</title> - <title render="italic"
+                           >Doing and Knowing</title>
+                     </unittitle>
+                     <container id="aspace_535d85f38162f3aa7b6fc204fedbb68b" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref56_hyc" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Doodle bug</title> - <title render="italic">The
+                           Drunkard Maker</title>
+                     </unittitle>
+                     <container id="aspace_936f20e7e129999c9d299982adae80cb" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_0k4" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Ecclesiastical Obedience to Pastoral Rule</title> -
+                           <title render="italic">Efficient Service</title>
+                     </unittitle>
+                     <container id="aspace_d1783c97c13b42e890713d1e3b86ea15" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref58_39a" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Efficiency of the Spirit</title> - <title
+                           render="italic">Elijah and the Ravens</title>
+                     </unittitle>
+                     <container id="aspace_4b9f985473536645577830224387962e" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref59_no7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Elijah No. 1</title> - <title render="italic"
+                           >Eloquence: A Virtue</title>
+                     </unittitle>
+                     <container id="aspace_79d7cb86039aab190046506bed0f9358" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_m4g" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Exhalation of Joseph</title> - <title
+                           render="italic">The Endowment of the Holy Spirit</title>
+                     </unittitle>
+                     <container id="aspace_375b25cae122f040662b7cf521a5d8ce" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_wtu" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Ephraim Joined to his Idol</title> - <title
+                           render="italic">Essentials to Cross Bearing</title>
+                     </unittitle>
+                     <container id="aspace_f900589dd1e8af68d51b64d30ee88562" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_sz9" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Esther's Faith and Courage</title> - <title
+                           render="italic">Eternity</title>
+                     </unittitle>
+                     <container id="aspace_1561702fbef0b475c1e807ae89ec7e66" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_n7m" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Eternity of Hell</title> - <title render="italic"
+                           >Everybody's Doing It</title>
+                     </unittitle>
+                     <container id="aspace_8ab10367a40824308ce024d9cb6cdad8" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_rmt" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Evidence of Genuineness</title> - <title
+                           render="italic">Excellency of the Knowledge of Christ</title>
+                     </unittitle>
+                     <container id="aspace_2fc69d63d2563d33715bf24d62b32e1c" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_z2n" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Existing Errors Regarding Immorality and the Future
+                           State</title> - <title render="italic">Faith the Only Medium of
+                           Grace</title>
+                     </unittitle>
+                     <container id="aspace_01d243e4fc0f4c51302ca1812a0584c1" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_d7l" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Faith, the Result of Ordination</title> - <title
+                           render="italic">Faithful in Little Things</title>
+                     </unittitle>
+                     <container id="aspace_08290141cd9377930f0ffa4d0e5eb52b" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_edf" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Faithful Saying</title> - <title render="italic"
+                           >The Fall of Satan</title>
+                     </unittitle>
+                     <container id="aspace_2577a91105dfa38d3a9d863fc1b75c30" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref68_jym" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Family Alter</title> - <title render="italic">A
+                           Fast Young Man</title>
+                     </unittitle>
+                     <container id="aspace_5d58b5238705b48bceeca061a55481ec" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_dbf" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Fatal Fall and Final Triumph of Man</title> - <title
+                           render="italic">The Final Triumph</title>
+                     </unittitle>
+                     <container id="aspace_89895faf6b36acd1de54c0a36169bc3a" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref70_kfe" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Final Fixedness of Habit</title> - <title
+                           render="italic">The First Great Victory</title>
+                     </unittitle>
+                     <container id="aspace_2ad7be560838a174a880362ce5b1c4d8" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_j3v" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Fixed Heart</title> - <title render="italic"
+                           >Forgetting the Things Behind</title>
+                     </unittitle>
+                     <container id="aspace_79a4ecfb19374f3cd7d8de2764f89f16" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref72_tiz" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Forgiveness</title> - <title render="italic">The
+                           Fountain and Issues of Life</title>
+                     </unittitle>
+                     <container id="aspace_4b0841266955d021935801e362339f3e" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_4gk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Friend of Publicans and Sinners</title> - <title
+                           render="italic">The Fruitfulness of Death</title>
+                     </unittitle>
+                     <container id="aspace_4249a80cf45861eaf32d563fd8e679bb" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref74_24x" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Full Assurance</title> - <title render="italic">The
+                           Fullness of Christ 3</title>
+                     </unittitle>
+                     <container id="aspace_9636325503d4cb669cb6cf872fe43af7" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_wcn" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Fullness of Christ 4</title> - <title
+                           render="italic">Future Punishment</title>
+                     </unittitle>
+                     <container id="aspace_b2c86d5a587412f18eb3e59173dc409a" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref76_fsq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Future Reward and Punishment Alike Eternal</title> -
+                           <title render="italic">The Glory of the Cross</title>
+                     </unittitle>
+                     <container id="aspace_c98fdac27fe3ce82958ee6fe6c82aad4" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref77_z3g" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Glory of the Cross</title> - <title
+                           render="italic">Go Forward</title>
+                     </unittitle>
+                     <container id="aspace_430b0372564e5951d9cee70a285c63a8" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref78_jfc" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">God a Consuming Fire</title> - <title render="italic"
+                           >God's Good Things</title>
+                     </unittitle>
+                     <container id="aspace_ae76673396ea0268665e7753d7b1e495" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_kzn" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">God's Goodness a Motive to Repentance</title> -
+                           <title render="italic">God's Kingdom and Righteousness First</title>
+                     </unittitle>
+                     <container id="aspace_1d826ca5c7eaf7d704b9c70e8540c876" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_vxq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">God's Ownership and Service</title> - <title
+                           render="italic">God's Peculiar People</title>
+                     </unittitle>
+                     <container id="aspace_b30abde79fb94a0d8b3ff4b29b58813a" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_tav" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">God's People</title> - <title render="italic">The
+                           Golden Calf</title>
+                     </unittitle>
+                     <container id="aspace_09130da4d91e1f8408d28a5a20218e0a" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_lqi" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Our Golden Calves</title> - <title render="italic"
+                           >Gospel Fishing</title>
+                     </unittitle>
+                     <container id="aspace_4045e1215947d4ba19018718a5afe203" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref83_29i" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Gospel Fountain</title> - <title render="italic"
+                           >The Grace of Compromise</title>
+                     </unittitle>
+                     <container id="aspace_e586c53a7793159a853f2db14865f9f3" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_wv2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Grace of Liberality</title> - <title
+                           render="italic">The Great Advocate</title>
+                     </unittitle>
+                     <container id="aspace_5b555d702d8ef3b1a140498c5635defd" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref85_ecb" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Great Commandment</title> - <title
+                           render="italic">Great is Diana of the Epliesiaus</title>
+                     </unittitle>
+                     <container id="aspace_775bb4b2e507ae3cafbfbf90034278e5" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_ee6" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Great Invitation</title> - <title render="italic"
+                           >The Great Salvation</title>
+                     </unittitle>
+                     <container id="aspace_e9880dd750a82c3dfd2e84ae155baa47" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_3j5" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Great Salvation</title> - <title render="italic"
+                           >The Great Supper</title>
+                     </unittitle>
+                     <container id="aspace_3b165e4e2f7bbf1a61e95f2149e2ab6f" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref88_vj6" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Greatest Wrong</title> - <title render="italic"
+                           >Habitual Drinking</title>
+                     </unittitle>
+                     <container id="aspace_11f4f60b86c492c2b25084297c7b5763" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref89_pg5" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Habitual Drinking and It's Remedy</title> - <title
+                           render="italic">The Half Has Never Been Told</title>
+                     </unittitle>
+                     <container id="aspace_9a59e01cf7e24c2827eb0824b34069f1" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref90_aa2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Hardship of Sin</title> - <title render="italic"
+                           >Heaven</title>
+                     </unittitle>
+                     <container id="aspace_bf104a68636dece2d9a0d1ed547ec7c2" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref91_t6r" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Heavenly Citizenship</title> - <title render="italic"
+                           >Heredity</title>
+                     </unittitle>
+                     <container id="aspace_98142a3b1b6cd01a0a8c92afced7a79a" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref92_9se" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The High Rock</title> - <title render="italic">The
+                           Honor Christ</title>
+                     </unittitle>
+                     <container id="aspace_a5cd062d4c83b515a0abd0449d840e40" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref93_v2d" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Hope</title> - <title render="italic">How to Build
+                           the Church</title>
+                     </unittitle>
+                     <container id="aspace_14a0a6ee04986221ef048a56588bab6a" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref94_vbl" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">How to Convert Sinners</title> - <title
+                           render="italic">I Gave My Life for Thee</title>
+                     </unittitle>
+                     <container id="aspace_6ece1f8a4e21defae45362ecce4d0695" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref95_4ll" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Ignored and Discarded</title> - <title
+                           render="italic">Immortality</title>
+                     </unittitle>
+                     <container id="aspace_543df18190bb90b769e3a73e576b31a7" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_pat" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Immorality-Natural</title> - <title render="italic"
+                           >Immortality Typical II</title>
+                     </unittitle>
+                     <container id="aspace_e88bd0b0eb536f9640e7e88474ef7cbd" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref97_oie" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Immutability of God's Love in Christ</title> - <title
+                           render="italic">The Impotency of the Sword</title>
+                     </unittitle>
+                     <container id="aspace_077df7eaaafdfa0f66402957de8eddaf" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref98_c05" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Incompatible Witness</title> - <title
+                           render="italic">Inferences from the Breckenridge Trial</title>
+                     </unittitle>
+                     <container id="aspace_6dc54e7b42d69be19302a9f36b1794f8" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref99_3b8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Insecurity</title> - <title render="italic">Isaiah's
+                           Fig Potilla</title>
+                     </unittitle>
+                     <container id="aspace_8268c7ef6f3fe092ba890f41a35e839e" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_mmf" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Jesus of the Age</title> - <title render="italic"
+                           >Is There at Hell...</title>
+                     </unittitle>
+                     <container id="aspace_ac08c7c5e7b86513f971cca10e1cf2ea" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref101_9og" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Is There a True Christianity in the World To
+                           Day</title> - <title render="italic">John the Baptist</title>
+                     </unittitle>
+                     <container id="aspace_f35e02381fe7920a8f54ae65c874b848" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref102_cdf" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">John's Gospel</title> - <title render="italic">Joseph
+                           the Dreamer</title>
+                     </unittitle>
+                     <container id="aspace_561efe1ff6cd385a4674e54fb2096169" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref103_t2k" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Joshua's Decided Religion</title> - <title
+                           render="italic">The Judgment</title>
+                     </unittitle>
+                     <container id="aspace_d744d2a6ae43a51826fcb6ab142f1ef2" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref104_zck" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Judicial Blindness</title> - <title render="italic"
+                           >Knowing the Unknowable, Measuring the Immeasurable</title>
+                     </unittitle>
+                     <container id="aspace_c2982d646b3c058e00686ced9956596f" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref105_kqb" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Knowledge of Christ</title> - <title
+                           render="italic">The Last Enemy</title>
+                     </unittitle>
+                     <container id="aspace_7b73c314d880dec2559d65f3430a8c5b" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref106_0ou" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Last Enemy is Ours</title>
+                     </unittitle>
+                     <container id="aspace_8d30aa47e37e0d87a7d31d9cb9f2500c" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref107_hwo" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Last Judgment</title> - <title render="italic"
+                           >Lessons From the 1st Miracle</title>
+                     </unittitle>
+                     <container id="aspace_12d5dee06f493b34b0b2b42619bf0ac4" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref108_snz" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Lessons From the Valley of the Dead</title> - <title
+                           render="italic">Liberty: the Genius of Christianity</title>
+                     </unittitle>
+                     <container id="aspace_725a75d32829f2107804412776223f48" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref109_79x" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Liberty, Part 1</title> - <title render="italic">The
+                           Light of God's Countenance</title>
+                     </unittitle>
+                     <container id="aspace_48870f29ad303dabdf0c0da6b1236972" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref110_t6j" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Lilly in the Bag</title> - <title render="italic"
+                           >Loathing God's Lightbread</title>
+                     </unittitle>
+                     <container id="aspace_a1ad906f4fecbab12993df92a9bf2e39" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref111_4hp" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Dr. Lofton's 19th Anniversary</title> - <title
+                           render="italic">The Lord's Supper</title>
+                     </unittitle>
+                     <container id="aspace_107387bff6fda5b5bba4128c63b8bbb4" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref112_1td" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Loss of Moral Resistance</title> - <title
+                           render="italic">Lot's Temptation</title>
+                     </unittitle>
+                     <container id="aspace_1a02e91eda9fc63031570df65e62e744" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref113_c1j" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Lot's Wife</title> - <title render="italic">The Love
+                           of Christ...Part 2</title>
+                     </unittitle>
+                     <container id="aspace_aa3fcc18a798eff8d3c2c8cde83fc368" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref114_kcr" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Love of Christ...</title> - <title
+                           render="italic">Love's Epitome</title>
+                     </unittitle>
+                     <container id="aspace_9429a9bda0099c85200a6f6d9ab7a51c" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref115_ico" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Love's Labor Not Lost</title> - <title
+                           render="italic">Man's Fearful and Wonderful Being</title>
+                     </unittitle>
+                     <container id="aspace_d4e82e1dd7d7f7398ae94e870b6f3902" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref116_bgn" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Man's First Commission</title> - <title
+                           render="italic">Marriage</title>
+                     </unittitle>
+                     <container id="aspace_52e97de57561139aa9b20780726b671a" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref117_f49" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Me</title> - <title render="italic">The Messicaic
+                           Symbolism of Great Pyramid</title>
+                     </unittitle>
+                     <container id="aspace_da20399393500f65499e091d3efd378e" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref118_k00" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Microscopic Observations</title> - <title
+                           render="italic">The Mighty Minority</title>
+                     </unittitle>
+                     <container id="aspace_9e9e99b15316857858754437632b3d80" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref119_cmo" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Mighty to Save</title> - <title render="italic">The
+                           Miracle of the (?) Demoniacs and Il-Lessions</title>
+                     </unittitle>
+                     <container id="aspace_35e418021752f04540ed5f4a66275fbf" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref120_r0k" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">A Miraculous Deliverance</title> - <title
+                           render="italic">Mission of John the Baptist</title>
+                     </unittitle>
+                     <container id="aspace_4008f211113f3cc6f9e592116e6e742f" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref121_83d" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Missionary Zeal of Christianity</title> - <title
+                           render="italic">Modern Paganism</title>
+                     </unittitle>
+                     <container id="aspace_1fb7df2ffb8745bae2f3d0d6a430eb5b" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref122_5bq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Modern Perils</title> - <title render="italic">More
+                           to Follow</title>
+                     </unittitle>
+                     <container id="aspace_93b12d1860ae92c23738a397d02209e8" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref123_lg0" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Mother and the Model Child</title> - <title
+                           render="italic">Municipal Righteousness</title>
+                     </unittitle>
+                     <container id="aspace_b0ef44531cc3b3116f9f3bba688f2de8" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref124_z7l" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Murder and Capital Punishment</title> - <title
+                           render="italic">Nashville Under the Electric Laugh</title>
+                     </unittitle>
+                     <container id="aspace_0e7a3626af9fe9c2437bf5119685c834" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref125_bcz" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Nashville's Stumbling Blocks</title> - <title
+                           render="italic">Nelson Merry Memorial</title>
+                     </unittitle>
+                     <container id="aspace_73e1e446842316908e4766895acc377f" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_rp1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The New Creature</title> - <title render="italic"
+                           >Ninth Anniversary Sermon</title>
+                     </unittitle>
+                     <container id="aspace_9b5f8ea58bb38f47a7c8bbd867ba3dd9" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref127_2lm" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">No Other Name</title> - <title render="italic"
+                           >Non-Resistance as a Force</title>
+                     </unittitle>
+                     <container id="aspace_7d5769a0cf2574b31108e639414b97a4" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref128_j2k" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Not Ashamed of the Gospel</title> - <title
+                           render="italic">Now</title>
+                     </unittitle>
+                     <container id="aspace_5f89fc36e5862520a48c7a87846a8b72" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_t0j" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Obedience</title> - <title render="italic">One Thing
+                           Needful</title>
+                     </unittitle>
+                     <container id="aspace_1e1b40b45d6204864bb32d2bd66fc84b" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref130_y37" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Only Religion of Life...</title> - <title
+                           render="italic">The Only Way</title>
+                     </unittitle>
+                     <container id="aspace_b1cce330d7c149c489e902094e60b120" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref131_htu" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Opportune Activity</title> - <title render="italic"
+                           >Our Home Mission Resources</title>
+                     </unittitle>
+                     <container id="aspace_9b3e42cda2207eaa4b644ee84d89bdb1" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref132_o2v" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Our Institutions of Vice</title> - <title
+                           render="italic">Our Superior Righteousness</title>
+                     </unittitle>
+                     <container id="aspace_9db4139f944344bd581eaf1c63aae81a" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref133_otz" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Our Sympathetic High Priest</title> - <title
+                           render="italic">Parable of the Talents</title>
+                     </unittitle>
+                     <container id="aspace_ce39dc9419e6530cacd0526ec104d870" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref134_qp8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Passover</title> - <title render="italic">Paul at
+                           Antioch</title>
+                     </unittitle>
+                     <container id="aspace_33531393dfefe4444c83f56ab958c67a" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref135_bdp" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Paul at Melita</title> - <title render="italic">Paul
+                           in Rome</title>
+                     </unittitle>
+                     <container id="aspace_37db835f3274a261b70e07faba09121c" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref136_gol" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Paul in Shipwreck</title> - <title render="italic"
+                           >Paul's Encouragement at Corinth</title>
+                     </unittitle>
+                     <container id="aspace_551fc9bbb49ab8055aa2355e52c8ab5d" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref137_co7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Paul's Good Fight</title> - <title render="italic"
+                           >Paul's Metaphors</title>
+                     </unittitle>
+                     <container id="aspace_99f4a3e735d8759a498f6f810e46146a" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref138_o1r" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Paul's Metaphors</title>
+                     </unittitle>
+                     <physdesc id="aspace_8c82b1955e136d2161655f63af574ce1">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1adf14defab3432697fb055976f8e18e" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref140_i0i" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Paul's Metaphors</title> - <title render="italic">A
+                           Peculiar People</title>
+                     </unittitle>
+                     <container id="aspace_785cbdfa0701e65b03ca549881f0a0f6" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref141_zh3" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Penitent's Prayer</title> - <title
+                           render="italic">Perfection</title>
+                     </unittitle>
+                     <container id="aspace_30ccdc7e055242499eb20c4cb1ef5144" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref142_2t3" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Perfection</title> - <title render="italic"
+                           >Perseverance of All Saints</title>
+                     </unittitle>
+                     <container id="aspace_26dc76c5e3806fc16039f9c746e9358a" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref143_qrp" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Personal Effort</title> - <title render="italic"
+                           >Peter's Confession</title>
+                     </unittitle>
+                     <container id="aspace_8feb434b6ecd3f151f09022183a7fef4" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref144_bn7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Peter's Deliverance</title> - <title render="italic"
+                           >The Philosophy of Fear</title>
+                     </unittitle>
+                     <container id="aspace_145e69ac2a824f49e40679118f5c446b" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref145_7rq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Philosophy of Prayer</title> - <title
+                           render="italic">Possibilities of Faith</title>
+                     </unittitle>
+                     <container id="aspace_9eb80f83a902f5abc19dc92239b5d627" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref146_q9c" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Possibilities Without Culture</title> - <title
+                           render="italic">Power of Religious Education</title>
+                     </unittitle>
+                     <container id="aspace_008688dddf07b5e1ce0b646b84121207" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref147_87t" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Power of the Holy Ghost</title> - <title
+                           render="italic">Prayer</title>
+                     </unittitle>
+                     <container id="aspace_08dca2ec2daf47847250bc3269ed00a6" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref148_ob4" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Preacher in Politics</title> - <title
+                           render="italic">Prejudice</title>
+                     </unittitle>
+                     <container id="aspace_edf5c4120a1571b00bb589548225769f" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref149_fly" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Preservation of All Saints</title> - <title
+                           render="italic">Procrastination</title>
+                     </unittitle>
+                     <container id="aspace_641ce044a9c55844c66494578cfab326" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_w53" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Procrastination of Felix</title> - <title
+                           render="italic">The Province of Faith</title>
+                     </unittitle>
+                     <container id="aspace_fbdd6e37423594e67be12a8ec980116d" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref151_ol3" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Province of the Sword</title> - <title
+                           render="italic">The Real Presence</title>
+                     </unittitle>
+                     <container id="aspace_e56613e42f2cf83c9f7b4cb6e7886143" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref152_u1v" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Reasoning Together</title> - <title render="italic"
+                           >Relation of Christianity to Law and Order</title>
+                     </unittitle>
+                     <container id="aspace_c95b1d23f629c58e260385fc7fead466" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref153_tm9" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Religion and Crime</title> - <title render="italic"
+                           >The Religious Memories of the Confederate Soldier</title>
+                     </unittitle>
+                     <container id="aspace_9db3a4a8a809117e9055a6fdb20bb8a2" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref154_gkk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Remarkable Conversations: Cornelius Remarkable
+                           Conversations: Saul</title>
+                     </unittitle>
+                     <container id="aspace_588e9e028127f9bddda90c4e8857f379" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref155_w80" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Remarkable Conversations: Simon Magus</title> -
+                           <title render="italic">The Rending of the Veil</title>
+                     </unittitle>
+                     <container id="aspace_bdb598396b8ae1b3c83324b0bf792fe3" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref156_mn0" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Rending Veil</title> - <title render="italic"
+                           >Respect for the Sacred</title>
+                     </unittitle>
+                     <container id="aspace_301ea2812535b9eb3352f6f661d2c285" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_5i2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Responsibility According to Ability</title> - <title
+                           render="italic">Resurrection f Lazarus</title>
+                     </unittitle>
+                     <container id="aspace_b3ae4c9058a43ccf92d467b264f9b237" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_3qo" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Revitalization</title> - <title render="italic">That
+                           Richmond Ring</title>
+                     </unittitle>
+                     <container id="aspace_8be5992f13e0bf1c98ee776bb6e48a87" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref159_hrj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Rights of Property</title> - <title
+                           render="italic">Running Against Hindrances</title>
+                     </unittitle>
+                     <container id="aspace_dbca63f6b74fd188569c2a6e61b6d033" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref160_y7c" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Ruth</title> - <title render="italic">The Safety of
+                           Loyalty</title>
+                     </unittitle>
+                     <container id="aspace_069a75ed1e1c3dff0ff250dfcaed0bb7" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_j9h" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Salvation and Security</title> - <title
+                           render="italic">Sanctification</title>
+                     </unittitle>
+                     <container id="aspace_71e6fa087ca31d16281b71854d36022f" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref162_6si" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Saul a Persecutor</title> - <title render="italic"
+                           >Saved by Water</title>
+                     </unittitle>
+                     <container id="aspace_85bf2816f3ee20b99576c0c3302737ac" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref163_bgj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Saving Others, Not Himself</title> - <title
+                           render="italic">Science Falsely so Called</title>
+                     </unittitle>
+                     <container id="aspace_842caa8c1e4b6a952a8771f76e209225" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_7a8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Scriptural Figures Illustrative of the Spirit's
+                           Coming and Work</title> - <title render="italic">Seeking God While He May
+                           be Found</title>
+                     </unittitle>
+                     <container id="aspace_d1cbbfda05c2fdf34add82f49622ba2c" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref165_9tg" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Seeking and Saving the Lost</title> - <title
+                           render="italic">The Self Confident Fool</title>
+                     </unittitle>
+                     <container id="aspace_2e6b1c0021cc5d8d7a007ec5e764c36a" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref166_v9n" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Self Consecration Part 1</title> - <title
+                           render="italic">Self Denial</title>
+                     </unittitle>
+                     <container id="aspace_415095553ba58365e6ec6036c6c1744e" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref167_cud" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Self-Denial</title> - <title render="italic">The
+                           Seven Beatitudes</title>
+                     </unittitle>
+                     <container id="aspace_3bc9788afbb3552fca0ae5c43547559b" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref168_l2n" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Shepard and the Sheep</title> - <title
+                           render="italic">The Sin of Ignorance</title>
+                     </unittitle>
+                     <container id="aspace_0b14f63538a2566a27b459aa87ed6935" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref169_iax" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Sin Unto Death</title> - <title render="italic"
+                           >The Sinner's Self-Judgment</title>
+                     </unittitle>
+                     <container id="aspace_29fb341de90f1f805dd7ab5e2aa5884e" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref170_ajg" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Smitten Rock</title> - <title render="italic"
+                           >Solomon, a type of Christ</title>
+                     </unittitle>
+                     <container id="aspace_72e266b8c4b445039077a35aedc08cfe" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref171_h7q" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Somewhat and the Few Things Which Ruin
+                           Churches</title> - <title render="italic">Southern Baptist
+                           Convention</title>
+                     </unittitle>
+                     <container id="aspace_2a61536ba9ee69fe2daab2aa29d3cce8" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref172_jxj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Soul Winning as a Vocation</title> - <title
+                           render="italic">The Spirit of Christ</title>
+                     </unittitle>
+                     <container id="aspace_34c7f88f7512500fc306479bd8843973" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref173_bdq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Spirit Power</title> - <title render="italic">The
+                           Stone Before the Spulchur</title>
+                     </unittitle>
+                     <container id="aspace_b4317785873b86369b70d8f9890ba2bb" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref174_ng5" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Stone Ezel</title> - <title render="italic"
+                           >Submission</title>
+                     </unittitle>
+                     <container id="aspace_2c9d63a7bdcd1180af01e746849a1965" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_nol" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Succession</title> - <title render="italic">Sunday
+                           Schools</title>
+                     </unittitle>
+                     <container id="aspace_fdae932f629775315ecf0e27204b1efc" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref176_it0" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Sunday Visitation</title> - <title render="italic"
+                           >The Sy (?) Woman</title>
+                     </unittitle>
+                     <container id="aspace_7def6aece5ec41d148494e68066a41b8" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref177_wre" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Symmetrical Development</title>
+                     </unittitle>
+                     <container id="aspace_40f9fbb5d2be09e51236ee947a8c759d" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref178_aop" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Taffy</title> - <title render="italic">The Test of
+                           Fidelity</title>
+                     </unittitle>
+                     <container id="aspace_ae75a684c95ed5ceffdab9508017c778" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_xef" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Test Question</title> - <title render="italic"
+                           >Thanksgiving</title>
+                     </unittitle>
+                     <container id="aspace_cf43ff750f3ad40ec342f1efe8cac13a" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_tlc" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Thanksgiving</title>
+                     </unittitle>
+                     <container id="aspace_ca08d8e755bb350af67604f694fa8a39" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_ckv" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Thanksgiving</title> - <title render="italic">Things
+                           Settled</title>
+                     </unittitle>
+                     <container id="aspace_786d55576a6c6206ebe270de4374796e" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref182_vrx" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Thinking and Believing</title> - <title
+                           render="italic">Through Death to Life</title>
+                     </unittitle>
+                     <container id="aspace_4e16b5d15df3b7d1a3250124c8acbc9e" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref183_fm8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Thought That Turns</title> - <title
+                           render="italic">To Day</title>
+                     </unittitle>
+                     <container id="aspace_b58dcc48917189fffef4c6cb75e80a24" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref184_3yb" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Tomorrow</title> - <title render="italic">Training of
+                           Children</title>
+                     </unittitle>
+                     <container id="aspace_97bf5609e0a09e44f4439c7812eae566" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_ix2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Trail of Christ</title> - <title render="italic"
+                           >Trial of Abram's Faith</title>
+                     </unittitle>
+                     <container id="aspace_858ddb947d5fef0aab4d6e33aa5632f1" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref186_wwe" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Trinity of Graces</title> - <title
+                           render="italic">My Trip to Europe 3</title>
+                     </unittitle>
+                     <container id="aspace_28f482def26d0f589155c93a649c7b2d" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref187_fji" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Triumphant Cross</title> - <title render="italic"
+                           >Trust In God</title>
+                     </unittitle>
+                     <container id="aspace_7c119a37cc1a55efe6e9b63c26233adb" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref188_lr9" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Truth as in Jesus</title> - <title
+                           render="italic">the Two Ways</title>
+                     </unittitle>
+                     <container id="aspace_12ad972815c3423a34c29aa4b8afcc17" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref189_niv" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Unanswerable Argument</title> - <title
+                           render="italic">Universal Dominion of Christ</title>
+                     </unittitle>
+                     <container id="aspace_dd2c329719ddba7958b0e34b364ede6c" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref190_c4r" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Universality of Missions</title> - <title
+                           render="italic">The Unrighteous Mammon</title>
+                     </unittitle>
+                     <container id="aspace_5ba84dd136717fb13a426e7960793960" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref191_8bh" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Unused Forces Among Southern Baptist</title> - <title
+                           render="italic">the Value of the Soul</title>
+                     </unittitle>
+                     <container id="aspace_2fdccd27c84334fc7cd9af1704c00b8f" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref192_fsb" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Value of Time</title> - <title render="italic"
+                           >Vanity Fair</title>
+                     </unittitle>
+                     <container id="aspace_a660683499a83d59ae738f66c76aa32c" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref193_4wo" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Verily! Verily!</title> - <title render="italic">the
+                           Voice of Conscience</title>
+                     </unittitle>
+                     <container id="aspace_4057dc9b65b8a56dc9b9568ad53730a3" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref194_3qk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Wages of Sin</title> - <title render="italic"
+                           >Walking on the Sea</title>
+                     </unittitle>
+                     <container id="aspace_628d5520c467b6e205a826890c319254" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref195_vwi" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">A Wasted Life</title> - <title render="italic">The
+                           Way, The Truth, The Life</title>
+                     </unittitle>
+                     <container id="aspace_f28fe0f334bb6d4d422fe2f13fb50318" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref196_2uv" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Way to Have More</title> - <title render="italic"
+                           >The Weeping Christ</title>
+                     </unittitle>
+                     <container id="aspace_8251b3d9ec648baa81e5f47f41d57830" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_5bk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Weeping Mothers of Jerusalem</title> - <title
+                           render="italic">On What Side Are You?</title>
+                     </unittitle>
+                     <container id="aspace_cf1a6c1c7cbe002911b760d25851a364" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref198_1od" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">What Shall the Harvest Be</title> - <title
+                           render="italic">Where Are We?</title>
+                     </unittitle>
+                     <container id="aspace_ea2d97222fb059aa2409ed60e8cfc589" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_6ad" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Where Are We?</title> - <title render="italic">Where
+                           Are We in Society?</title>
+                     </unittitle>
+                     <container id="aspace_e7159c15c9b0b628a243085e89763ae3" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref200_88h" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Where Are We In Discipline</title> - <title
+                           render="italic">The Whole Bunch Sin Offering</title>
+                     </unittitle>
+                     <container id="aspace_0326db0bd0505fd6091cd1e5b83e367c" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref201_1si" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Why Do I Do Right</title> - <title render="italic"
+                           >Without Excuse</title>
+                     </unittitle>
+                     <container id="aspace_b97cc91a749aec4fcf7af5443a378e03" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref202_0bn" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Witness of Christ</title> - <title
+                           render="italic">Work</title>
+                     </unittitle>
+                     <container id="aspace_726a567c3adf2bc7299e036e2c514e12" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref203_lfm" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Work of a Decade</title> - <title render="italic"
+                           >Worldliness and Its Remedy</title>
+                     </unittitle>
+                     <container id="aspace_b9e56c02f1684f30fe5f003d0b201b0c" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref204_z2w" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The World's Christmas</title> - <title
+                           render="italic">The Young Man and His Difficulties</title>
+                     </unittitle>
+                     <container id="aspace_85c996702dbf8aba6e0a93a8a043f4cd" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref205_prh" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Young Man and His Success</title> - <title
+                           render="italic">The Youth of Saul</title>
+                     </unittitle>
+                     <container id="aspace_f9c078a3634b55dd135e5c26b2694845" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref206_mcc" level="file">
+                  <did>
+                     <unittitle>Sermons, untitled</unittitle>
+                     <physdesc id="aspace_a3d0137e9b9f150dd5f7393b5e419b56">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c9f0e7603e912dbc037f4665832a3df3" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref208_068" level="file">
+                  <did>
+                     <unittitle>Sermons, untitled</unittitle>
+                     <physdesc id="aspace_5ddae92229db0d0b6edfa92da06e7885">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_45b59eddc57e7317d6225a411ba0ab4e" label="Mixed Materials"
+                        type="box">31</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref210_cah" level="subseries">
+               <did>
+                  <unittitle>Sermon Notes Subseries</unittitle>
+               </did>
+               <c03 id="aspace_ref211_0ws" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Account of Francis Baupfield</title> - <title
+                           render="italic">Attraction of the Cross</title>
+                     </unittitle>
+                     <container id="aspace_38df748d3329460f1bb6777ab46d3fdc" label="Mixed Materials"
+                        type="box">32</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref212_fvi" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Baptism</title> - <title render="italic"
+                           >Business</title>
+                     </unittitle>
+                     <container id="aspace_c4bad8786ee52cfcf0410d3e073eb5e7" label="Mixed Materials"
+                        type="box">32</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref213_bye" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Calling and Use of Men</title> - <title
+                           render="italic">The Citizenship of Freedom</title>
+                     </unittitle>
+                     <container id="aspace_e707ecd5eafabd47e8939a01fae35b1b" label="Mixed Materials"
+                        type="box">32</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref214_ws2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Cleansing Blood</title> - <title render="italic"
+                           >Deeper Water</title>
+                     </unittitle>
+                     <container id="aspace_b4a592283bebe8ca12ed4dcf2b82c078" label="Mixed Materials"
+                        type="box">32</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref215_p06" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Deity and Supremacy of Christ</title> - <title
+                           render="italic">Driving nails for God</title>
+                     </unittitle>
+                     <container id="aspace_8c6a904dfe44f81e3cd18a50c0c3c6a0" label="Mixed Materials"
+                        type="box">32</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref216_o2n" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Easy Yoke and the Light Burden</title> - <title
+                           render="italic">Falling Into God's Hands Unprepared</title>
+                     </unittitle>
+                     <container id="aspace_518e25e79fc944e4c3cc31fb21294a28" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref217_wvi" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Fear of Opportunity</title> - <title
+                           render="italic">The Glory of the Cross</title>
+                     </unittitle>
+                     <container id="aspace_6f049768b97468202b10cffd465bf2ec" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref218_uv2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Golden Calf</title> - <title render="italic"
+                           >House Missions</title>
+                     </unittitle>
+                     <container id="aspace_3d2d5699c87b3fbd9ba8e24e79f7c7ff" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref219_dcq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Hope of the Godless</title> - <title render="italic"
+                           >Is Life Worth Living</title>
+                     </unittitle>
+                     <container id="aspace_fc663edea7e4f9bf53465e6cff44e8c1" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref220_xr4" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Issues of Life</title> - <title render="italic"
+                           >Liberty</title>
+                     </unittitle>
+                     <container id="aspace_e852c93769c1cf4e3cc38633b6620a4a" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref221_jmw" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Life Insurance</title> - <title render="italic"
+                           >Millennium</title>
+                     </unittitle>
+                     <container id="aspace_e4a6c3cdacad9b559f52611231678779" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref222_qrx" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Ministerial Relief</title> - <title render="italic"
+                           >Our Bethels</title>
+                     </unittitle>
+                     <container id="aspace_b631d6a5002af9a5029d8e1ccee8e90f" label="Mixed Materials"
+                        type="box">34</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref223_gup" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Our High Calling</title> - <title render="italic"
+                           >Prayer</title>
+                     </unittitle>
+                     <container id="aspace_c752d5d3631befdd28db40f859d39030" label="Mixed Materials"
+                        type="box">34</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref224_deo" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Predestination</title> - <title render="italic">The
+                           Reasonable Hope</title>
+                     </unittitle>
+                     <container id="aspace_21cee73c382e74f2d123a2678c7ebdef" label="Mixed Materials"
+                        type="box">34</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref225_ga8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Reign of God</title> - <title render="italic">The
+                           Sin Unto Death</title>
+                     </unittitle>
+                     <container id="aspace_0d2d2e6dc8b1623895822dc817d3351f" label="Mixed Materials"
+                        type="box">34</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref226_8ew" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Sliding from God</title> - <title render="italic">The
+                           Sunrise of Christianity</title>
+                     </unittitle>
+                     <container id="aspace_1b1e72eee927dd1a385feebb56c2d6e6" label="Mixed Materials"
+                        type="box">34</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref227_ub2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Temporal and the Eternal</title> - <title
+                           render="italic">The Two Mays</title>
+                     </unittitle>
+                     <container id="aspace_202271b59c634dd42b6b0d9340e6695a" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref228_ohj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Unattained</title> - <title render="italic">What
+                           Baptists Stand For</title>
+                     </unittitle>
+                     <container id="aspace_49c2de854ab6f512e211da799319d453" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref229_amn" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">What is Prayer</title> - <title render="italic">The
+                           World for Christ</title>
+                     </unittitle>
+                     <container id="aspace_dd1d5062d5d4284e9866589351726a8d" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref230_t28" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, undated</unittitle>
+                     <container id="aspace_e64f3060ee46013c91e89967be35e832" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref232_z8x" level="series">
+            <did>
+               <unittitle>Miscellaneous Series</unittitle>
+            </did>
+            <c02 id="aspace_ref233_b29" level="file">
+               <did>
+                  <unittitle>Printed Material,1881 - 1914, undated</unittitle>
+                  <container id="aspace_8dd01bee9f54bc57a3a79282f0865142" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref234_hb5" level="file">
+               <did>
+                  <unittitle>Clippings,1889 - 1920s, undated</unittitle>
+                  <container id="aspace_23012489155a1c2f3b6e2f3e63a8be8d" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref235_2io" level="subseries">
+               <did>
+                  <unittitle>Legal Papers and Family Photographs</unittitle>
+               </did>
+               <c03 id="aspace_ref236_7ct" level="file">
+                  <did>
+                     <unittitle>General,1873 - 1912, undated</unittitle>
+                     <container id="aspace_1ef4d2509bc49bded10191d89c1c449e" label="Mixed Materials"
+                        type="box">36</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref237_sgy" level="file">
+                  <did>
+                     <unittitle>Sherwood, Dr. Adiel, undated</unittitle>
+                     <container id="aspace_cb9972020bae57d673db68f78e15e6e8" label="Mixed Materials"
+                        type="box">36</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref238_21k" level="file">
+                  <did>
+                     <unittitle>Stewart, George L., 1918-1940, undated</unittitle>
+                     <container id="aspace_4997d9ab4ded43b032ea80da3032c33b" label="Mixed Materials"
+                        type="box">36</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

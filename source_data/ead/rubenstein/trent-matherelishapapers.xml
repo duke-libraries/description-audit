@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-matherelishapapers/"
+         >trent-matherelishapapers</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Elisha Mather papers, 1792-1799 <num>RL.10660</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002147995</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:23:01
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Elisha Mather papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Mather, Elisha.</persname>
+         </origination>
+         <unitid>RL.10660</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 items</extent>
+         </physdesc>
+         <unitdate normal="1792/1799" type="inclusive">1792-1799</unitdate>
+         <physloc id="aspace_a5f52f731e9ed401d0e1ada9a6cd0f6c">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_20032551ee7f23fd67f9f7cc22f0edeb">Documents, unsigned. Statements of
+            accounts with doctors Elisha and Samuel Mather.</abstract>
+         <langmaterial id="aspace_06e71d58c2e339dd09c5e6f6685bc572">Materials in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_5f9a34c141621be770053482d2b7aaec">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_7ca62d20c23c59a3178bccb0296b596b">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_9ef3cc095ec7f92d2c5a747281422aa8">
+         <head>Preferred Citation</head>
+         <p>Elisha Mather papers, 1792-1799, David M. Rubenstein Rare Book &amp; Manuscript Library,
+            Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_4882b00d5a0fa168a38a7489fba939df">
+         <head>Provenance</head>
+         <p>Source unknown</p>
+      </acqinfo>
+      <processinfo id="aspace_3ae706674eabedea30146d283ae1a7b3">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <bioghist id="aspace_f2ba05f85b96105576363b68f4bc09b3">
+         <head>Historical Note</head>
+         <p>Physician of Lyme, Conn.</p>
+      </bioghist>
+      <scopecontent id="aspace_19e3a6693e04addef7295f2f38868bf4">
+         <head>Collection Overview</head>
+         <p>Documents, unsigned. Statements of accounts with doctors Elisha and Samuel Mather.</p>
+      </scopecontent>
+      <odd id="aspace_e929e41cc5dead4c57cdfbbae47f2c14">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <persname source="ingest">Mather, Elisha.</persname>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/uamanchester/">uamanchester</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Alan K. Manchester Papers, 1905-1975 <num>UA.29.02.0245</num>
+            </titleproper>
+            <author>Processed by: University Archives staff; machine-readable finding aid created
+               by: Jill Katte</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003205741</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-30 05:11:23
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Alan K. Manchester papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Manchester, Alan Krebs, b. 1897</persname>
+         </origination>
+         <unitid>UA.29.02.0245</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1905/1975" type="inclusive">1905-1975</unitdate>
+         <physloc id="aspace_0ba1b6cd1338fd15a1a2c7d745de0488">For current information on the
+            location of these materials, please consult University Archives, Duke
+            University.</physloc>
+         <abstract id="aspace_f42b59188aa421fd6a0e9a89221f3172">Alan K. Manchester (1897-1983)
+            served as a faculty member in the Department of History at Duke University (1929-1967).
+            Administrative positions held at Duke include Assistant Dean of Trinity College (1934),
+            Dean of Freshmen (1935-1949), Dean of Undergraduate Studies (1949-1956), and Dean of
+            Trinity College (1956-1964). Manchester also worked as a cultural affairs officer at the
+            United States Embassy in Rio de Janeiro (1951-1952) and as a specialist for the U. S.
+            State Department's International Exchange Service Program (Summers of 1954-55). Papers
+            include correspondence, clippings, photographs, slides, and diaries. Records prior to
+            1929 pertain to Manchester's childhood and consist of old report cards, school programs,
+            and correspondence. Later records reflect Manchester's activities as a historian,
+            Foreign Service officer, and administrator. Major subjects include Latin American and
+            South American history and economic and political relations between Brazil and Great
+            Britain. The majority of the material is in English. Some material is in Spanish and
+            Portuguese.</abstract>
+         <physdesc id="aspace_b2b7849a53f2ccc9d1189fed1ceae3f0">
+            <extent>2,000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_d1d2c251aea8992acd282b5aec174714">The majority of the material is
+            in English. Some material is in Spanish and Portuguese. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_6418b61c782f3e6923e2ded85c3d4fce">
+         <head>Access Restrictions</head>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>For a period of twenty-five years from the origin of the material, permission in writing
+            from the office of origin and the University Archivist is required for use. After
+            twenty-five years, records that have been processed may be consulted with the permission
+            of the University Archivist.</p>
+         <p>In off-site storage; 48 hours advance notice is required for use.</p>
+      </accessrestrict>
+      <userestrict id="aspace_42937067bcf7a8efd4984f24c2c40c9f">
+         <head>Use Restrictions</head>
+         <p>Copyright for Official University records is held by Duke University; all other
+            copyright is retained by the authors of items in these papers, or their descendants, as
+            stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite id="aspace_3eaf9c9c91036de5b428002b286b3bb6">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Alan K. Manchester Papers, Duke University Archives, David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_c38ce59fcf8337e6d84b5b5734a71172">
+         <head>Provenance</head>
+         <p>The Alan K. Manchester Papers were received by the University Archives as a transfer in
+            1983-1984.</p>
+      </acqinfo>
+      <processinfo id="aspace_c30b608b78605bb4f051d90e63c22ab2">
+         <head>Processing Information</head>
+         <p>Processed by University Archives staff</p>
+         <p>Completed November, 2002</p>
+         <p>Encoded by Jill Katte, November 22, 2002</p>
+      </processinfo>
+      <bioghist id="aspace_9ca4b3bb865416b5ecb18401feb2f2af">
+         <head>Biographical and Historical Note</head>
+         <p>Educator, historian, cultural affairs liaison and consultant, and administrator. Born in
+            Camden, New Jersey on July 2, 1897. Married Mary Elizabeth Onderdonk on June 28, 1922.
+            Received A. B. from Vanderbilt University (1920), M. A. from Columbia University (1922),
+            and Ph. D. from Duke University (1930). Positions held prior to employment at Duke:
+            Instructor of English, Oklahoma University (1920-1921), Director, Moore Institute,
+            Campinas, Sao Paolo, Brazil (1925-1927). Joined Duke faculty as an instructor in the
+            History department (1929-1935). Eventually became an assistant professor (1935-1942),
+            associate professor (1942-1950), and full professor (1950-1967). Eventually held a
+            Distinguished Service Professorship at Duke. Administrative positions held at Duke
+            include Assistant Dean of Trinity College (1934), Dean of Freshmen (1935-1949), Dean of
+            Undergraduate Studies (1949-1956), and Dean of Trinity College (1956-1964). Retired in
+            1967. Other activities outside Duke University included cultural affairs officer at the
+            United States Embassy in Rio de Janeiro (1951-1952), specialist for the U. S. State
+            Department's International Exchange Service Program (Summers of 1954-55) and consultant
+            (1956-1958). Died July 31, 1983 in Durham, N.C.</p>
+      </bioghist>
+      <scopecontent id="aspace_c344cc7a1d487bfb2b6b38aa5c581567">
+         <head>Collection Overview</head>
+         <p>Collection consists of correspondence, clippings, photographs, slides, and diaries, bulk
+            1929-1970. Records prior to 1929 pertain to Manchester's childhood and consist of old
+            report cards, school programs, and correspondence. Later records reflect Manchester's
+            activities as a historian, Foreign Service officer, and administrator</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_695a31e0aab8f40d3d5e90da0b84b1b2">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Title:">Dean Alan K. Manchester Records, <unitdate
+                     normal="1850/1967" era="ce" calendar="gregorian" type="inclusive"
+                     >1850-1967</unitdate>, <unitdate normal="1949/1967" era="ce"
+                     calendar="gregorian" type="bulk">bulk 1949-1967</unitdate>.</unittitle>
+               <repository label="Repository:">University Archives, Duke University.</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <geogname source="lcsh">Brazil -- Commerce -- Great Britain</geogname>
+         <geogname source="lcsh">Brazil -- Relations -- Great Britain</geogname>
+         <geogname source="lcsh">Great Britain -- Commerce -- Brazil</geogname>
+         <geogname source="lcsh">Brazil -- Commerce -- History</geogname>
+         <geogname source="lcsh">Brazil -- History -- Study and teaching</geogname>
+         <geogname source="lcsh">South America -- History -- Study and teaching</geogname>
+         <geogname source="lcsh">Great Britain -- Relations -- Brazil</geogname>
+         <geogname source="lcsh">Latin America -- History -- Study and teaching (Higher) -- United
+            States</geogname>
+         <corpname source="ingest">Duke University -- Faculty</corpname>
+         <corpname source="ingest">Duke University. Trinity College of Arts and Sciences</corpname>
+         <persname source="ingest">Manchester, Alan Krebs, b. 1897</persname>
+         <persname source="ingest">Manchester, Alan Krebs, b. 1897</persname>
+         <corpname source="ingest">United States. Embassy (Brazil)</corpname>
+         <corpname source="ingest">Duke University. Department of History</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_i0c" level="series">
+            <did>
+               <unittitle>Subject Files, 1905-1970, bulk ca. 1920-1970 <lb/>
+               </unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_a429a6074c006f20c11a7374750e6de5">
+               <head>Scope and Contents note</head>
+               <p>These records contain letters congratulating Manchester on his appointment as Dean
+                  of Undergraduate Studies, retirement correspondence, and letters of appreciation
+                  usually from former students or their family members. Article clippings often
+                  concern Manchester's visits to various Latin American countries as either a
+                  Cultural Affairs Officer (1951-1952) or as a State Department Specialist (1954 and
+                  1955). Some of these clippings are in Spanish and Portuguese. Also included are
+                  photographs of Manchester at various stages of life, construction on Duke's West
+                  Campus, and South America. Other papers consist of some of Manchester's personal
+                  writings and documents (such as passports and report cards), administrative and
+                  professional records (such as student course evaluations, reviews, and the
+                  functions and origins of the Dean of Undergraduate Studies), and civic and
+                  cultural activities and engagements.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_vs8" level="file">
+               <did>
+                  <unittitle>Article-"The Growth of the Brazilian Bureaucracy,
+                     1808-1821."</unittitle>
+                  <container id="aspace_5e1f31672506f91fa7868f660bc53b59" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_rds" level="file">
+               <did>
+                  <unittitle>Book Reviews, 1938-1969</unittitle>
+                  <container id="aspace_0e0c0fbedbe9242cf149373ab74d2968" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_vfz" level="file">
+               <did>
+                  <unittitle>Brazil</unittitle>
+               </did>
+               <c03 id="aspace_ref17_bav" level="file">
+                  <did>
+                     <unittitle>Clippings, 1951-1952</unittitle>
+                     <physdesc id="aspace_e1d90690e6d7b3a910a613f1c96acc05">
+                        <extent>[3 folders]</extent>
+                     </physdesc>
+                     <container id="aspace_77cd629fabade760c499743ec8039230" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref19_h6t" level="file">
+                  <did>
+                     <unittitle>Cultural Affairs Officer, 1951-1952</unittitle>
+                     <physdesc id="aspace_4a4d3e94b1d12f3834407979472b9beb">
+                        <extent>[2 folders]</extent>
+                     </physdesc>
+                     <container id="aspace_7b4a292c4c200b861a9c94f2efd06cd0" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref21_c7p" level="file">
+                  <did>
+                     <unittitle>Standard Phonic Drill Club, 1952</unittitle>
+                     <container id="aspace_af1a85398ce2133629465ddad898f5d5" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref22_60q" level="file">
+               <did>
+                  <unittitle>Brazil, 1951-1952, South America, 1954-1955, and Canada,
+                     1956.</unittitle>
+                  <container id="aspace_2b9b57ed9754038ea8b7595e686836fa" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_y24" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <c03 id="aspace_ref24_xd9" level="file">
+                  <did>
+                     <unittitle>ca. 1931-1944</unittitle>
+                     <container id="aspace_f963dc3753819d5a9da33ba84f550a85" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref25_beu" level="file">
+                  <did>
+                     <unittitle>1933-1970</unittitle>
+                     <container id="aspace_178487a59fb97c72a64fbe7ad46c4274" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref26_46c" level="file">
+                  <did>
+                     <unittitle>ca. 1940-1968</unittitle>
+                     <container id="aspace_a2590e4a5d774c57ce5bbecea8bae09e" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref27_14k" level="file">
+                  <did>
+                     <unittitle>Letters of congratulations on appointment as Dean of Undergraduate
+                        Studies, 1949</unittitle>
+                     <container id="aspace_203f997a1b09f6cd9fe6389665486133" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref28_yb6" level="file">
+               <did>
+                  <unittitle>Curriculum Vitae and Retirement Correspondence, 1963-1964</unittitle>
+                  <container id="aspace_5c2df1de6dbe1fe181305ed5357ba5df" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_zux" level="file">
+               <did>
+                  <unittitle>Duke University</unittitle>
+               </did>
+               <c03 id="aspace_ref30_tqt" level="file">
+                  <did>
+                     <unittitle>Alumni Affairs: Off-Campus Activities, 1938-1962</unittitle>
+                     <container id="aspace_c02b6f3988e2b80ac68cf0c8be2b5926" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref31_qci" level="file">
+                  <did>
+                     <unittitle>Clippings, 1934-1954</unittitle>
+                     <container id="aspace_7cf145fff153e26ddfe7f267c6dc8e01" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_3vt" level="file">
+                  <did>
+                     <unittitle>ROTC, 1953-1964</unittitle>
+                     <container id="aspace_8c5051e952b67c4929bc60628ae57da1" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref33_kve" level="file">
+                  <did>
+                     <unittitle>Student [Course] Evaluations, ca. 1960 and undated</unittitle>
+                     <container id="aspace_dcfe2c08f8bbce19893c1634369e7358" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_7od" level="file">
+                  <did>
+                     <unittitle>Student [Course] Evaluations: "European Expansion and Imperialism,"
+                        ca. 1966</unittitle>
+                     <container id="aspace_b45af8383bb08a99f7dcd00a67f6c19a" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref35_l1o" level="file">
+               <did>
+                  <unittitle>Inter-American Cultural Council, 1959</unittitle>
+                  <container id="aspace_b3a0a5cce58d4de3cd36aa0e16817bd8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_kk4" level="file">
+               <did>
+                  <unittitle>Kiwanis Club, 1934-1962</unittitle>
+                  <container id="aspace_29384772ae17f68cbefb7e6754c2ef03" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_psl" level="file">
+               <did>
+                  <unittitle>Masters Thesis, 1922</unittitle>
+                  <container id="aspace_ddf95c90c2a50980282f46ed2eb101fd" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_wnk" level="file">
+               <did>
+                  <unittitle>Miscellaneous clippings, ca. 1925, 1927</unittitle>
+                  <container id="aspace_468c5ebc5347ca4be8b0e7ab49491c42" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_ha1" level="file">
+               <did>
+                  <unittitle>Miscellaneous scrapbook contents, 1933-1934</unittitle>
+                  <container id="aspace_e8ce6009a3a102a6e9fa88c3bafef463" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_wgo" level="file">
+               <did>
+                  <unittitle>National and International Activities, 1959-1961</unittitle>
+                  <container id="aspace_09b021fb84829874e24c9270feee74ab" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_ve7" level="file">
+               <did>
+                  <unittitle>Personal Documents</unittitle>
+                  <container id="aspace_30b9f1ef7b187e85af3a664b25dee6f5" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_mwo" level="file">
+               <did>
+                  <unittitle>Personal Writings and Recommendations of Manchester, ca.
+                     1920</unittitle>
+                  <container id="aspace_1550e17d8c03c928974651ec919aff46" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_2d4" level="file">
+               <did>
+                  <unittitle>Photos</unittitle>
+               </did>
+               <c03 id="aspace_ref44_7oz" level="file">
+                  <did>
+                     <unittitle>Duke-related</unittitle>
+                     <container id="aspace_0aaa7e80e2c4e14d13e9dbb2afb3bc78" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_me7" level="file">
+                  <did>
+                     <unittitle>Early photos</unittitle>
+                     <container id="aspace_9c4802a380d75a9a02f7dbe715381e18" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_o3d" level="file">
+                  <did>
+                     <unittitle>South America</unittitle>
+                     <container id="aspace_975f86a397796b91c12b317343b52461" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref47_18y" level="file">
+               <did>
+                  <unittitle>Publications, 1972-1974</unittitle>
+                  <container id="aspace_427bc749219761594f384db94af2d105" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_t4l" level="file">
+               <did>
+                  <unittitle>Publications and Related Material, 1930-1970</unittitle>
+                  <container id="aspace_5810a18ce53a1285486ce4ec8ce3fec0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_dzb" level="file">
+               <did>
+                  <unittitle>Research Notes and an article rough draft</unittitle>
+                  <container id="aspace_73820d38205355b2ab158a4ddfaf5ad7" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_jil" level="file">
+               <did>
+                  <unittitle>Retirement, 1964</unittitle>
+                  <container id="aspace_9361cddf213b74ce72845d7c24f23cb9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_6ik" level="file">
+               <did>
+                  <unittitle>Seminar: Brazilian History, University of South Carolina, October
+                     1967</unittitle>
+                  <container id="aspace_9b023eee1e04efd558476a1ad9696d5a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_1pl" level="file">
+               <did>
+                  <unittitle>South America, 1954 and 1955</unittitle>
+                  <physdesc id="aspace_0ccb5f076d30965973eb6e554c0856eb">
+                     <extent>[2 folders]</extent>
+                  </physdesc>
+                  <container id="aspace_3a5e095ffa2af39b9ad3e79be311c68c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_18i" level="file">
+               <did>
+                  <unittitle>South America-Clippings, 1954-1955</unittitle>
+                  <physdesc id="aspace_8d6357cf6bc4e94bc6f3484f3a4e2bc2">
+                     <extent>[3 folders]</extent>
+                  </physdesc>
+                  <container id="aspace_046aab81f09316d5b8893033f46e1f6b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_ycu" level="file">
+               <did>
+                  <unittitle>Speaking Engagements and Other Activities: Cultural, Civic and
+                     Educational Organizations, 1936-1960</unittitle>
+                  <container id="aspace_9ca8540119c26e67f8cccf5276b440a7" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_zms" level="file">
+               <did>
+                  <unittitle>Speaking Engagements and Other Activities: Cultural, Civic and
+                     Educational Organizations-Clippings, 1933-1966</unittitle>
+                  <container id="aspace_4e102781d2bd7285402fde5bdbb0eda2" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_wfj" level="file">
+               <did>
+                  <unittitle>Symposia and Conferences, 1936-1966</unittitle>
+                  <container id="aspace_65424f369fb226142b4deab557b6e750" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_7vo" level="file">
+               <did>
+                  <unittitle>United Nations Activities-Clippings, 1956-1966</unittitle>
+                  <container id="aspace_f52bbe137309e170962460fa19eed4d9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref61_vdd" level="series">
+            <did>
+               <unittitle>Slides, 1951-1968 <lb/>
+               </unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_1f55e6cfce4334b40a3bcb91a6f197b9">
+               <head>Scope and Contents note</head>
+               <p>Arranged according to container number, the slides are images of Portugal, Spain,
+                  Europe, Latin America, Canada, New England, and various parts of North Carolina.
+                  The Latin America slides may have been taken while Manchester served as a Cultural
+                  Affairs Officer in Brazil (1951-1952) or as a Specialist for the State
+                  Department's International Exchange Service program. The Canadian slides were most
+                  likely taken when Manchester visited many Canadian universities and colleges while
+                  attending a Commonwealth Studies Conference in the summer of 1956. In addition to
+                  the slides, there exist logs for most of the slides and diaries of many of the
+                  trips. The logs contain codes for specific images on the slides, and the diaries
+                  are informal records of expenditures, miles covered, and activities.</p>
+            </scopecontent>
+            <c02 id="aspace_ref63_219" level="item">
+               <did>
+                  <unittitle>Portugal, 1964, 1968</unittitle>
+                  <container id="aspace_af59cbb543cd6fde7a5eff6d3dfb9115" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_2a605664e7b7c7efe5479beb4fbe8348"
+                     parent="aspace_af59cbb543cd6fde7a5eff6d3dfb9115" type="slide-box"
+                     >1-2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_2pg" level="item">
+               <did>
+                  <unittitle>Portugal, 1964, 1968</unittitle>
+                  <container id="aspace_82a1db462ad121dd28219b8ca03c7249" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_d9f230d1d7f175a6662e05e8ba243ae8"
+                     parent="aspace_82a1db462ad121dd28219b8ca03c7249" type="slide-box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_fik" level="item">
+               <did>
+                  <unittitle>Spain, 1964</unittitle>
+                  <container id="aspace_fb9c01dfd18efe3c3e221be3f1a26a66" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_8sp" level="item">
+               <did>
+                  <unittitle>Europe: Copenhagen -- Lake Como, 1964</unittitle>
+                  <container id="aspace_41bec5701d4b9fb3f5aaf5f3a1be1396" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_49e4d84420403969844e82503e1f312c"
+                     parent="aspace_41bec5701d4b9fb3f5aaf5f3a1be1396" type="slide-box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_buj" level="item">
+               <did>
+                  <unittitle>Blue Ridge Parkway: Mabry Mill-- Grandfather Mtn., undated</unittitle>
+                  <container id="aspace_92197ccf95a746e700287e21a7670593" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_49a3777dc340a5cd7dfa20654bee51cf"
+                     parent="aspace_92197ccf95a746e700287e21a7670593" type="slide-box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_kzq" level="item">
+               <did>
+                  <unittitle>Blue Ridge Parkway, Roan Mountain, Cherokee, Old Salem, Laurel Lake,
+                     Edenton, New Bern, Wilmington, Outer Banks, Gross Cottage, Atlantis</unittitle>
+                  <container id="aspace_c223a5c66712c6021bc30a3ea5f59a10" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_14b113689462ebbb54298ed031eaf913"
+                     parent="aspace_c223a5c66712c6021bc30a3ea5f59a10" type="slide-box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_1bc" level="item">
+               <did>
+                  <unittitle>Duke Gardens, Duke Campus, Manchester residence</unittitle>
+                  <container id="aspace_daacfec4b25ee10e7f7cd46db3fbb8cb" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_b00de1bcda0c618900ab1d6854d74dc9"
+                     parent="aspace_daacfec4b25ee10e7f7cd46db3fbb8cb" type="slide-box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_cr8" level="item">
+               <did>
+                  <unittitle>State Dept. Latin American Slide Collection:
+                     Durham--Medellin</unittitle>
+                  <container id="aspace_d3d7e60cdff710c0b72c9cb3dd540977" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_6597d596e96b84023b435f104089f936"
+                     parent="aspace_d3d7e60cdff710c0b72c9cb3dd540977" type="slide-box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_44o" level="item">
+               <did>
+                  <unittitle>State Dept. Latin American Slide Collection: Bogota--Piura</unittitle>
+                  <container id="aspace_1ca8d57222037deb54e45e0dc18866a1" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_bb731da53926772806c107c586eb57ff"
+                     parent="aspace_1ca8d57222037deb54e45e0dc18866a1" type="slide-box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_vib" level="item">
+               <did>
+                  <unittitle>State Dept. Latin American Slide Collection: Peruvian Andes--Ouro
+                     Preto</unittitle>
+                  <container id="aspace_d85a21df7b0a7d78110a315c89299328" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_faa3c28ef518445e1eb21f3bf24b478b"
+                     parent="aspace_d85a21df7b0a7d78110a315c89299328" type="slide-box"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_27f" level="item">
+               <did>
+                  <unittitle>State Dept. Latin American Slide Collection: Ouro
+                     Preto--Rio</unittitle>
+                  <container id="aspace_2ead78c426a63cb9d466e0a572b7a439" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_8de37571331897e0435416c333cbf330"
+                     parent="aspace_2ead78c426a63cb9d466e0a572b7a439" type="slide-box"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_wv2" level="item">
+               <did>
+                  <unittitle>State Dept. Latin American Slide Collection: Rio, Brasilia,
+                     Victoria</unittitle>
+                  <container id="aspace_3dc3111c5cd378c2f8698bf91e5ba11c" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_937d9c786b5bc5ae6217dd27c3841a16"
+                     parent="aspace_3dc3111c5cd378c2f8698bf91e5ba11c" type="slide-box"
+                     >12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_q3p" level="item">
+               <did>
+                  <unittitle>State Dept. Latin American Slide Collection: Salvador--Puerto
+                     Rico</unittitle>
+                  <container id="aspace_66dc6d3bc1dd29d0ac68e76cb69e6dac" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_ffc2e0327ae5cc837f6e1d8d63119d0e"
+                     parent="aspace_66dc6d3bc1dd29d0ac68e76cb69e6dac" type="slide-box"
+                     >13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_xzd" level="item">
+               <did>
+                  <unittitle>State Dept. Latin American Slide Collection:
+                     Ontario--Victoria</unittitle>
+                  <container id="aspace_3077086026add6773dd3b862554d6da6" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_088daf104900a0a354bf0d694c0f4501"
+                     parent="aspace_3077086026add6773dd3b862554d6da6" type="slide-box"
+                     >14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_wzl" level="item">
+               <did>
+                  <unittitle>Canadian Collection: Yellowstone, Mt. Rushmore, Badlands, Clayton, Cape
+                     Breton</unittitle>
+                  <container id="aspace_4ff7f2c658527ac6569039f2e7012911" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_4adc853b1290c4ee31484347232d2a93"
+                     parent="aspace_4ff7f2c658527ac6569039f2e7012911" type="slide-box"
+                     >15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_xol" level="item">
+               <did>
+                  <unittitle>Canadian Collection: Cape Breton, New England, La Gaspesie</unittitle>
+                  <container id="aspace_3c45f5d8db4bfd5294cdd874b2664daa" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_8a0d9cf593c34ad859a2b6a8340a1d09"
+                     parent="aspace_3c45f5d8db4bfd5294cdd874b2664daa" type="slide-box"
+                     >16</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

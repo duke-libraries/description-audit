@@ -1,0 +1,2227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/efcraven/">efcraven</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the E. F. Craven Company Records, 1793-1991 and undated, bulk
+               1907-1965 <num>RL.00353</num>
+            </titleproper>
+            <author>Processed by Melissa J. Delbridge, Kelly Cottrell, Edna Riggs, Sandra Hack;
+               machine-readable finding aid created by Robin LaPasha</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001024960</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 16:21:56
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>E. F. Craven Company records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">E. F. Craven Co.</corpname>
+         </origination>
+         <unitid>RL.00353</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">42 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1793/1991" type="inclusive">1793-1991 and undated bulk
+            1907-1965</unitdate>
+         <unitdate normal="1907/1965" type="bulk">bulk</unitdate>
+         <physloc id="aspace_04aaeaaff453560ba253bbadec313cff">For current information on the
+            location of these materials, please consult the library's online catalog.</physloc>
+         <physdesc id="aspace_b64a92e1a6c8c216ec2734aad31d7110">
+            <extent>Approximately 33,750 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_29a592b8ae11d263ff0b234ca1a1643a">English </langmaterial>
+      </did>
+      <accessrestrict id="aspace_1cb21ee276348c8928fc3de05ff0fff3">
+         <head>Access Restrictions</head>
+         <p>Collection is open.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>In addition, all or portions of this collection may be housed off-site in Duke
+            University's Library Service Center. There may be a 48-hour delay in obtaining these
+            materials.</p>
+         <p>Also, some of the materials in this collection are not immediately accessible, because
+            they require further processing before use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_f9226037a19d73a5a0fe69cf61c055b7">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in the records of the E. F. Craven Company have not been
+            transferred to Duke University. For further information, see the section on copyright in
+            the Regulations and Procedures of the David M. Rubenstein Rare Book &amp; Manuscript
+            Library.</p>
+      </userestrict>
+      <prefercite id="aspace_358c32ddf22d94f81f9054b95d468855">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], E. F. Craven Company Records, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_4858563a7b9620a8c492095692f0662f">
+         <head>Provenance</head>
+         <p>The E. F. Craven Company Records were donated to the Manuscript Department in 1978 by
+            Franklin Duval Craven, the son of Eli Franklin Craven. Mr. Craven also provided support
+            for the processing of the collection.</p>
+      </acqinfo>
+      <processinfo id="aspace_99d34f157b3c64809eac66472a8ff80f">
+         <head>Processing Information note</head>
+         <p>Processed by Melissa J. Delbridge, Kelly Cottrell, Edna Riggs, and Sandra Hack</p>
+         <p>Encoded by Robin LaPasha</p>
+      </processinfo>
+      <bioghist id="aspace_eab66701a88b7ef2e9a0055d91a286d8">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1907</date>
+               <eventgrp>
+                  <event>Eli Franklin Craven sold road building machinery built by various
+                     manufacturers</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1918</date>
+               <eventgrp>
+                  <event>Craven built his first office building (13,000 square feet) on Morehead
+                     Avenue in Greensboro, NC</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1925</date>
+               <eventgrp>
+                  <event>Craven built larger three-story building adjoining his existing one and
+                     facing on Elm Street</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1926</date>
+               <eventgrp>
+                  <event>Craven incorporated his business as E. F. Craven Company. His son Franklin
+                     Duval Craven began working for him as a salesman</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1964</date>
+               <eventgrp>
+                  <event>F. Duval Craven became President of the company after his father's
+                     death</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>Nov. 1975</date>
+               <eventgrp>
+                  <event>E. F. Craven Company was sold to Brocar, Inc., retaining same officers and
+                     employees. Company's name changed to EFC Associates, Inc.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1978</date>
+               <eventgrp>
+                  <event>F. Duval Craven retired</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1993 Mar. 30</date>
+               <eventgrp>
+                  <event>Death of F. Duval Craven</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Although Eli Franklin Craven founded the company named for him, the Craven family's
+            involvement in the sale of road-building machinery began with his father Eli Asbury
+            Craven (1824-1912). The elder Craven, a Methodist minister, sold farm and road machinery
+            in Causey, NC before 1895. Around the turn of the century, both he and his son
+            represented Acme Road Machinery, a company based in Frankfort, New York. Eli F. Craven
+            sold machines produced by other companies as well, including Studebaker Brothers,
+            Russell Grader Manufacturing Company, and John Deere Plow Company. Soon he became known
+            to his customers as "E. F. Craven, the Road Machinery Man."</p>
+         <p>Craven's business flourished after the 1921 issuance of North Carolina's first road
+            bonds. In 1926, after the incorporation of the company, Craven changed the slogan to "E.
+            F. Craven Company, the Road Machinery Men," and sales totalled over $1,000,000.00. Eli
+            Franklin Craven was manager. His son, F. Duval Craven, worked for the company as a
+            salesperson.</p>
+         <p>During the 1940's, Franklin Duval Craven took an increasingly active role in the
+            management of the company. Duval served as General Manager by 1948. At his father's
+            death in 1964, he became the president of E. F. Craven Company. At this time, his
+            brother Edwin Asbury Craven (1909-1966) was Vice-President and Treasurer. In 1977, F.
+            Duval Craven gave up many of the operating responsibilities of the company. Charles A.
+            Hines, Jr. became President and Chief Operating Officer. </p>
+         <p>In November 1975, F. Duval Craven sold the company to John J. Brogan of West Chatham,
+            Massachusetts and Charles C. Carson of New York City (Brocar, Inc.), who changed the
+            name to EFC Associates. The company retained the same officers and staff.</p>
+      </bioghist>
+      <scopecontent id="aspace_85f73ffce20001af321388f7ab35f61d">
+         <head>Collection Overview</head>
+         <p>The E. F. Craven Company Records document the development of a North Carolina road
+            machinery dealership from a small family business into a multi-million dollar
+            corporation. The material spans the years from 1793 to 1991; the bulk of the collection
+            is dated 1907-1965.</p>
+         <p>Much of the material in the early years of the <emph render="bold">Correspondence
+               Series</emph> consists of communication to and from equipment dealers and customers
+            concerning the sale and repair of road machinery. The Cravens usually included
+            information on the health and activities of family members in their business letters to
+            each other. E. A. Craven frequently offered financial and spiritual advice to his son,
+            writing his responses on the back of his son's letters to him, so that the letter and
+            the reply appear on opposite sides of the same page. Between December 1912 and January
+            1916 there is a considerable amount of correspondence between family members regarding
+            the execution of Eli A. Craven's will. Many letters written between 1907 and 1930 are
+            written on stationery illustrated with detailed renderings of various types of early
+            road-building equipment.</p>
+         <p>From the late 1920's until the 1940's, Franklin Duval Craven ran the Asheville office of
+            E. F. Craven Company, frequently travelling on sales trips. E. F. Craven often wrote
+            encouraging his son in his work and giving him advice on sales strategy. Letters from E.
+            A. Craven and E. F. Craven reflect the deep religious beliefs of the two men and the
+            importance they placed in conducting their lives and their business in a moral
+            fashion.</p>
+         <p>During World War II, several of the company's employees served in the armed forces.
+            Duval Craven corresponded frequently with them, and copies of his letters and their
+            replies can be found among the correspondence from the war years.</p>
+         <p>As the organizational structure of the company increased in complexity, the amount of
+            family correspondence in the collection decreased. Interoffice communications comprise a
+            large amount of the correspondence after the 1960's.</p>
+         <p>The files in the <emph render="bold">Legal Papers</emph>, <emph render="bold">Financial
+               Records</emph>, and <emph render="bold">Directors' Minutes Series</emph> combine to
+            form a profile of the E. F. Craven Company: its sales, expansions, customer base, and
+            its staff and leaders. Of particular interest is its relationship with the NC Highway
+            Commission and state officials. Early materials in the <emph render="bold">Legal Papers
+               Series</emph> relate to the business and land-holding activities of the Craven family
+            in the late 19th and early 20th centuries.</p>
+         <p>Among the items in the <emph render="bold">Printed Materials Series</emph> is a nearly
+            complete run of <title type="simple" render="italic">The Road Machinery News</title>, a
+            serial published by E. F. Craven Company from 1925 until 1978. This newsletter contained
+            news about road construction, information and advertisements regarding road building
+            machinery, and a column "A Line or Two," written by E. F. Craven. In these editorials,
+            Craven expressed his moral and spiritual philosophies. The articles were compiled in
+            1975 and published as a volume entitled <title type="simple" render="italic">A Line or
+               Two</title>. Educational material on general sales techniques published in 1928 and
+            1929 is also included in the <emph render="bold">Printed Materials Series</emph>. These
+            books and pamphlets were used in the hiring and training of E. F. Craven Company sales
+            staff.</p>
+         <p>The <emph render="bold">Visual Materials Series</emph> includes photographs, silent
+            motion picture films, and illustrated trade catalogs demonstrating the attributes of
+            road construction machinery and road-building techniques of the early twentieth century.
+            Use copies must be made of moving images before content can be accessed. Please contact
+            the Research Services staff before coming to use this series.</p>
+         <p>Both Eli F. Craven and Eli A. Craven became members of the Religious Society of Friends
+            (Quakers) in the 1890's. Occasional references to the Craven family's support of the
+            Society of Friends are found in documents throughout the collection. Items specifically
+            concerned with the Religious Society of Friends are grouped in the <emph render="bold"
+               >Subject Files</emph> under the same name.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Road construction -- Equipment and supplies</subject>
+         <subject source="lcsh">Family corporations -- North Carolina</subject>
+         <subject source="lcsh">Children's writings, American</subject>
+         <subject source="lcsh">Corporations -- North Carolina -- History -- 20th century</subject>
+         <subject source="lcsh">Business records</subject>
+         <subject source="lcsh">Selling</subject>
+         <subject source="lcsh">Road construction -- North Carolina -- History</subject>
+         <subject source="lcsh">Road machinery -- Trade and manufacture</subject>
+         <subject source="lcsh">Earthmoving machinery</subject>
+         <subject source="lcsh">Road machinery</subject>
+         <subject source="lcsh">Road construction equipment industry -- History</subject>
+         <subject source="lcsh">Construction equipment</subject>
+         <persname source="ingest">Craven, Eli Franklin, 1875-1964</persname>
+         <persname source="ingest">Craven, Eli Asbury, 1824-1912</persname>
+         <corpname source="ingest">E. F. Craven Co.</corpname>
+         <persname source="ingest">Craven, F. Duval (Franklin Duval), 1906-1993</persname>
+         <corpname source="ingest">EFC Associates, Inc.</corpname>
+         <corpname source="ingest">E. F. Craven Company</corpname>
+         <corpname source="ingest">Society of Friends -- North Carolina</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_9wr" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1866-1991 and undated, bulk 1907-1952</unittitle>
+               <physdesc id="aspace_fbbe55a6887939a83cc1ed26bf7b8453">28 containers</physdesc>
+            </did>
+            <scopecontent id="aspace_da70fa59cfc56fcfe91b54a11f32ec27">
+               <head>Scope and Contents note</head>
+               <p>Consists of letters and copies of letters to and from the Cravens, their
+                  employees, and their business associates. Arranged chronologically by year. In
+                  years for which a large amount of correspondence exists, the letters are arranged
+                  in one to six-month increments. Includes two letter copy books containing letters
+                  written by Eli A. Craven and Eli Franklin Craven between 1901 and 1905.</p>
+            </scopecontent>
+            <c02 id="aspace_ref15_f0j" level="file">
+               <did>
+                  <unittitle>1866-1906, April</unittitle>
+                  <physdesc id="aspace_363a4c492109c21997c64ed6a261124f">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7b17356c648bec2b75ad99f61319d346" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_g8g" level="file">
+               <did>
+                  <unittitle>1906, April-1907, March 23</unittitle>
+                  <physdesc id="aspace_2a20a3e311a4688b2fbbb1abcba7c27a">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_76c19e1b91842335e2fa42f8799e001b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_c02" level="file">
+               <did>
+                  <unittitle>1907, March 24- Sept.</unittitle>
+                  <physdesc id="aspace_7178802f4d0f17ddbdf5772deeb53fa2">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_05ef476968eda2c28aba5793c3e383af" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_hdn" level="file">
+               <did>
+                  <unittitle>1907, Oct.-1908, Apr.</unittitle>
+                  <physdesc id="aspace_d3b3ae98d4bfcea3177396c9452de3f3">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b6e8f011826cd279bef3ac3f9020ca0b" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_fq1" level="file">
+               <did>
+                  <unittitle>1908, May-Sept.</unittitle>
+                  <physdesc id="aspace_cf76fff0af747752cadca5a052058f66">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3ecf4cf4476c64395b22c736975dd10c" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_v5x" level="file">
+               <did>
+                  <unittitle>1908, Oct.-1909, Oct.</unittitle>
+                  <physdesc id="aspace_561fc12a5392afe5e497d7ec4f9e2d31">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f0413d970f305665a831777f04a9adf7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_cdk" level="file">
+               <did>
+                  <unittitle>1909, Nov.-1910, June</unittitle>
+                  <physdesc id="aspace_284fdcdff9f4fe32421e12ac064a99cc">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_26265e966e2c406f726021506e7a0776" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_lli" level="file">
+               <did>
+                  <unittitle>1910, July-Dec.</unittitle>
+                  <physdesc id="aspace_1759b9ec43b0dedcb4dbf29f9ab103cf">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_51dd641e4631c6ad62148abe8fbbde56" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_dq1" level="file">
+               <did>
+                  <unittitle>1911, Jan.-Mar.</unittitle>
+                  <physdesc id="aspace_d83af2d41d9bed020f9d21e62ae37f56">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_716192a600f9cfd18a81981f718a8f53" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_508" level="file">
+               <did>
+                  <unittitle>1911, Apr.-June</unittitle>
+                  <physdesc id="aspace_a4371c42cd50953e43b85d58e12b8ec5">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f42fb8d4d975e22678755a7c552064ad" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_qzc" level="file">
+               <did>
+                  <unittitle>1911, July-1912, Feb.</unittitle>
+                  <physdesc id="aspace_678447a224059e4d5b9306b3586980dc">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fff0b50414058d1f26d88f9c513f862c" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_141" level="file">
+               <did>
+                  <unittitle>1912, Mar.-1914, Mar.</unittitle>
+                  <physdesc id="aspace_a8d9df2d977c49ebe6efff8dbc08be54">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c8e46f7b8fc05cb260067fd951849551" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_jqr" level="file">
+               <did>
+                  <unittitle>1914, Apr.-1915, Nov. 15</unittitle>
+                  <physdesc id="aspace_e6875d0fa110bf9fa9f7e7f31d75d7d4">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_78fafc7082321cfe68053b72c29419d4" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_mth" level="file">
+               <did>
+                  <unittitle>1915, Nov. 16-Dec.</unittitle>
+                  <physdesc id="aspace_af98540b7cdae572f7dbe761f62dfa87">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d1a82b35672c6756b978e637a2a21f6b" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_ywj" level="file">
+               <did>
+                  <unittitle>1917, Jan.-1928, Dec.</unittitle>
+                  <physdesc id="aspace_d943d8e19d4e14c320ae1d8f586a7825">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f1606e807a16f7936cbb1fcf9446bc2c" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_c4s" level="file">
+               <did>
+                  <unittitle>1929, Jan.-1930, Dec.</unittitle>
+                  <physdesc id="aspace_487dad0f441961e6b5334d97145ac201">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9f04ba69ab58073f74623890628e9b6b" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_16q" level="file">
+               <did>
+                  <unittitle>1931, Jan.-1933, Apr.</unittitle>
+                  <physdesc id="aspace_da4c85ff3b9dfc157f300b898f1c8efa">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b550583858638cae55290b161d16f7e0" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_ivj" level="file">
+               <did>
+                  <unittitle>1933, May-1934, Dec.</unittitle>
+                  <physdesc id="aspace_1b5ac79ff98c89eedd5c65d6e62db487">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8089841fd3408f92c8b5c7aaf870052b" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_pf1" level="file">
+               <did>
+                  <unittitle>1935, Jan.-1936, Dec.</unittitle>
+                  <physdesc id="aspace_974e867a61bbb77f4baa05d3cd27d28c">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c53584b811f18e5076e45b743a8a3112" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_76u" level="file">
+               <did>
+                  <unittitle>1937, Jan.-1941, Dec.</unittitle>
+                  <physdesc id="aspace_a33728aab85d14136c8f366b1b9b711a">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1a36dbea01adea4f26c58acbf47f43e6" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_64g" level="file">
+               <did>
+                  <unittitle>1942, Jan.-1944, Dec.</unittitle>
+                  <physdesc id="aspace_f98be5b8274d90c52fa4dcb2dda968ea">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ca4a7afd5ed13c440f2844508563954d" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_f0k" level="file">
+               <did>
+                  <unittitle>1945, Jan.-1947</unittitle>
+                  <physdesc id="aspace_96852e7cb57754766caf352f790ddced">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4b9c60ad6ae7df2e6ae0a70b0d15181b" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_gfz" level="file">
+               <did>
+                  <unittitle>1948, Jan.-1955</unittitle>
+                  <physdesc id="aspace_e70475af03a96d10f3ca8f1669456de9">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8b5216dbd9d11b320b9d2ff2db0adbc0" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_1kl" level="file">
+               <did>
+                  <unittitle>1956-1965</unittitle>
+                  <physdesc id="aspace_71c434277e66853124aae78f47728f13">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_78d3d80eb2a214f4cb02ba37e2cf9dcb" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_8sz" level="file">
+               <did>
+                  <unittitle>1966, Jan.-1969</unittitle>
+                  <physdesc id="aspace_ee1009914839510bdaee3ae033fcd30a">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5a2cfa4fd73df1ca4a972d6cf50b1d9b" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_6gi" level="file">
+               <did>
+                  <unittitle>1970-1974</unittitle>
+                  <physdesc id="aspace_4c372f8edcbbff95243a04eec26586ec">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c7cfca7fa232738c190d6658f50b0b04" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_2j6" level="file">
+               <did>
+                  <unittitle>1975, Jan.-1979</unittitle>
+                  <physdesc id="aspace_515cd10dee73d40790b6644fa2b0dac9">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9188cdaee04c6ec010dcf9b4f62a44e9" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_7x1" level="file">
+               <did>
+                  <unittitle>1980-1991, n.d.</unittitle>
+                  <physdesc id="aspace_cc5f63ad288d5208a7ccefbacde7c5d9">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2989ae00b87d1ed37eb242646ba864cc" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_ld4" level="file">
+               <did>
+                  <unittitle>Vol. No. 1 Letter copy book, 1901-1903 (contains vol. 1)</unittitle>
+                  <container id="aspace_ca1a05bb25fad693ccecdcf0a25ed21a" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_e74" level="file">
+               <did>
+                  <unittitle>Vol. No. 2 Letter copy book, 1904-1905 (contains vol. 2)</unittitle>
+                  <container id="aspace_4d9697870bb7040075ed2e8c8f927705" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref74_wzs" level="series">
+            <did>
+               <unittitle>Financial Records Series, 1855-1985 and undated, bulk
+                  1900-1975</unittitle>
+               <physdesc id="aspace_4f93a274ea9a4d7bffa689b911aef810">81 containers</physdesc>
+            </did>
+            <scopecontent id="aspace_112f7c7944a7809dd4a66b2dce164ce0">
+               <head>Scope and Contents note</head>
+               <p>Includes statements, invoices, reports, tax forms, cancelled stock certificates,
+                  and payroll records. Most of the items were generated by the E. F. Craven Company
+                  and its suppliers. Arranged chronologically by year. Refer to container list for
+                  description of volumes. See oversize material as well.</p>
+            </scopecontent>
+            <c02 id="aspace_ref76_cq3" level="file">
+               <did>
+                  <unittitle>1884-1915</unittitle>
+                  <physdesc id="aspace_60510e66586e6c1aa4119e62b147b8c2">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_46623d447677eb25120da0bbfa07e6d2" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_74j" level="file">
+               <did>
+                  <unittitle>1916-1925</unittitle>
+                  <physdesc id="aspace_65a6cd512d9fbfcd7f0a3aaaebbebaf9">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_945cecc5a63a39b491bf48709a58d34d" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_5wb" level="file">
+               <did>
+                  <unittitle>1926-1939</unittitle>
+                  <physdesc id="aspace_dc1e1e96affe41166a84971a4dc453cd">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4551c269ddeaf3fa9f5c579b9a6c4537" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_nue" level="file">
+               <did>
+                  <unittitle>1940-1965</unittitle>
+                  <physdesc id="aspace_aed15beb20e60a108c06c23481957f48">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fffc2da0f05fbb4bd2dd75a7d541ef52" label="Mixed Materials"
+                     type="box">34</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_5gm" level="file">
+               <did>
+                  <unittitle>1966-1976</unittitle>
+                  <physdesc id="aspace_eedc827043dc6087800144f5ff8d2e39">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_00604dddad289c1bcd8662dd40b4b0c7" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_bza" level="file">
+               <did>
+                  <unittitle>1977-1985, n.d.</unittitle>
+                  <physdesc id="aspace_3c67ccfb2e99196d8a8cc45b7f8bdb83">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_edc961ea254329a138871282e374a218" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_9fs" level="file">
+               <did>
+                  <unittitle>Price lists from Acme Road Machinery Co., n.d.</unittitle>
+                  <container id="aspace_be8fb0d153eb6b98eaedb7f14dc4d1fc" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_5kq" level="file">
+               <did>
+                  <unittitle>Stock stubs and certificates</unittitle>
+                  <container id="aspace_1b36a1bea7bea47f113aaf7eac63e8c0" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_37d" level="file">
+               <did>
+                  <unittitle>Vol. No. 3 Account Book, 1855-1868</unittitle>
+                  <container id="aspace_b22dd55f967cdeec8e7a09d02e9de122" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_ja1" level="file">
+               <did>
+                  <unittitle>Vol. No. 4 Account Book, 1872-1878</unittitle>
+                  <container id="aspace_7d854b7b6d1561c32187cc81c93090f3" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_w6i" level="file">
+               <did>
+                  <unittitle>Vol. No. 5 Sales Book, 1892</unittitle>
+                  <container id="aspace_6d7a9978fd942c002c408abe3f4f4ab7" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_wn4" level="file">
+               <did>
+                  <unittitle>Vol. No. 6 Cash Book, 1897-1913</unittitle>
+                  <container id="aspace_07c6d10b4cce1dea7d89c7e61c7f8cb6" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_ytt" level="file">
+               <did>
+                  <unittitle>Vol. No. 7 Bankbook: Greensboro National Bank, 1899-1901</unittitle>
+                  <container id="aspace_1d59bba1a2479a065ce903af0c991f60" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_y2r" level="file">
+               <did>
+                  <unittitle>Vol. No. 8 Sales Comparison Book, 1907-1929</unittitle>
+                  <container id="aspace_928dc98ca699c56b4881938580bcd4c3" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_0w5" level="file">
+               <did>
+                  <unittitle>Vol. No. 9 Cash Book, 1915-1926</unittitle>
+                  <container id="aspace_3db743bf791e042adae932d2d30e3518" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_xk9" level="file">
+               <did>
+                  <unittitle>Vol. No. 10 Bankbook, 1917-1923</unittitle>
+                  <container id="aspace_10e31e3f915994eac8af2e92275b6028" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_6kh" level="file">
+               <did>
+                  <unittitle>Vol. No. 11 Account Book, 1920-1924</unittitle>
+                  <container id="aspace_14e250c0b4499bc22a6bbeb2f3c261e9" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_lga" level="file">
+               <did>
+                  <unittitle>Vol. No. 12 Expense Book, 1924-1926</unittitle>
+                  <container id="aspace_b89b172657f0996b1008f9ffabcad120" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_9yx" level="file">
+               <did>
+                  <unittitle>Vol. No. 13 Audit Report, 1924-1925</unittitle>
+                  <container id="aspace_503c75f57574d92c6248981f1a9774d6" label="Mixed Materials"
+                     type="box">38 (contains vols. 3-13)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_d0s" level="file">
+               <did>
+                  <unittitle>Vol. No. 14 Payroll Book, 1926-1935</unittitle>
+                  <container id="aspace_52adaf90a5d7962b78bf7c4b715177dc" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_9bs" level="file">
+               <did>
+                  <unittitle>Vol. No. 15 Expense Book, May 1927</unittitle>
+                  <container id="aspace_9a257ffa405f8c28fafc9c18c6a65f39" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_4sz" level="file">
+               <did>
+                  <unittitle>Vol. No. 16 Expense Book, July 1927</unittitle>
+                  <container id="aspace_34600199504639e8384ba8880ca61445" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_4gd" level="file">
+               <did>
+                  <unittitle>Vol. No. 17 Expense Book, July 1927</unittitle>
+                  <container id="aspace_ac49be31700cfbefccc9999a81740333" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_y9l" level="file">
+               <did>
+                  <unittitle>Vol. No. 18 Cash Journal, 1927-1928</unittitle>
+                  <container id="aspace_fbf18be9a2a07e054ad62afa5521530e" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_0s0" level="file">
+               <did>
+                  <unittitle>Vol. No. 19 Sales Comparison Book, 1927</unittitle>
+                  <container id="aspace_d2443b892e38c94cb6d6813915765d38" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_u72" level="file">
+               <did>
+                  <unittitle>Vol. No. 20 Schedule of Rental &amp; Depreciation of Construction
+                     Equipment, 1928</unittitle>
+                  <container id="aspace_35226eef2b1a3bb64099df227595cdb5" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_89d" level="file">
+               <did>
+                  <unittitle>Vol. No. 21 Ledger, 1928</unittitle>
+                  <container id="aspace_a040f92dd2bfe686fc4b1c064c8a361d" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_lgs" level="file">
+               <did>
+                  <unittitle>Vol. No. 22 Account Book, 1929</unittitle>
+                  <container id="aspace_cd19a70a05351d74eaa6d866419c5697" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_jkp" level="file">
+               <did>
+                  <unittitle>Vol. No. 23 Schedule of Rental &amp; Depreciation of Construction
+                     Equipment, 1930-1939</unittitle>
+                  <container id="aspace_944c9a9e41c2668bd044b8f95e413c29" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_yj2" level="file">
+               <did>
+                  <unittitle>Vol. No. 24 Order Book, 1933</unittitle>
+                  <container id="aspace_f405033ced25c20df3d042f462df9bda" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_5jo" level="file">
+               <did>
+                  <unittitle>Vol. No. 25 Order Book, 1936</unittitle>
+                  <container id="aspace_bad79f2130be750147e6c5afe93fc5e5" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_vty" level="file">
+               <did>
+                  <unittitle>Vol. No. 26 Record of Tax-Deductible Business Expenditures,
+                     1937-1941</unittitle>
+                  <container id="aspace_313627441c119a1ccbadbeaf0c5bddf9" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_8z1" level="file">
+               <did>
+                  <unittitle>Vol. No. 27 Cash Book, 1941-1943</unittitle>
+                  <container id="aspace_82ed768a4d8621215f311f24ea818298" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_na2" level="file">
+               <did>
+                  <unittitle>Vol. No. 28 Cash Book, 1944-1946</unittitle>
+                  <container id="aspace_46ac404174bfa92a4f611337accc702a" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_huf" level="file">
+               <did>
+                  <unittitle>Vol. No. 29 Sales Book, 1946-1947</unittitle>
+                  <container id="aspace_402316208daef65dac2f4ac29e362cad" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref117_bh3" level="file">
+               <did>
+                  <unittitle>Vol. No. 30 Sales Book, 1947-1949</unittitle>
+                  <container id="aspace_58cf5be9ca45b8552a8a2ae2cfd2ed38" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_0ai" level="file">
+               <did>
+                  <unittitle>Vol. No. 31 Bills Payable &amp; Bills Receivable, 1921, Aug.-1925,
+                     Aug.</unittitle>
+                  <container id="aspace_305fda433d7e21f1604cb262f334b5c6" label="Mixed Materials"
+                     type="box">39 (contains vols. 14-31)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_nyw" level="file">
+               <did>
+                  <unittitle>Vol. No. 32 Stock Ledger, 1927-1982</unittitle>
+                  <container id="aspace_ddc73f2a9d1671f08397ebff51d220fe" label="Mixed Materials"
+                     type="box">40 (contains vols. 32-37)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_kbj" level="file">
+               <did>
+                  <unittitle>Vol. No. 33 Account Book, 1910-1918</unittitle>
+                  <container id="aspace_909e6737ec59b2f7e9df6fa2fc7dd70f" label="Mixed Materials"
+                     type="box">40 (contains vols. 32-37)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_3z8" level="file">
+               <did>
+                  <unittitle>Vol. No. 34 Account Book, 1910-1917</unittitle>
+                  <container id="aspace_375c9c1e4ae429de07cd8373e30caabe" label="Mixed Materials"
+                     type="box">40 (contains vols. 32-37)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_9bm" level="file">
+               <did>
+                  <unittitle>Vol. No. 35 Cash Book, 1975-1982</unittitle>
+                  <container id="aspace_a95523237d1d7a1be1bbf30eff10d028" label="Mixed Materials"
+                     type="box">40 (contains vols. 32-37)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_oj1" level="file">
+               <did>
+                  <unittitle>Vol. No. 36 Appraisal Report, 1981, Aug. 31</unittitle>
+                  <container id="aspace_74d40942a1a2814e596a314aedad749c" label="Mixed Materials"
+                     type="box">40 (contains vols. 32-37)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_111" level="file">
+               <did>
+                  <unittitle>Vol. No. 37 Appraisal Report, 1981, Sept. 1</unittitle>
+                  <container id="aspace_a01228ecdaf690a49ecf5d2fd6e0b542" label="Mixed Materials"
+                     type="box">40 (contains vols. 32-37)</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_jms" level="file">
+               <did>
+                  <unittitle>Order books, 1910-1917</unittitle>
+                  <physdesc id="aspace_6b3a47b3dd371e6bf54102d07b6f5567">
+                     <extent>28 items</extent>
+                  </physdesc>
+                  <container id="aspace_0c9c53b966dc4be4e2ff3b648046ab93" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_x13" level="file">
+               <did>
+                  <unittitle>Vol. No. 38 Order Book, 1917, Jan.-1918, June</unittitle>
+                  <container id="aspace_1fdbc01c57ad67501553b2bac5a87501" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_wxv" level="file">
+               <did>
+                  <unittitle>Vol. No. 39 Order Book, 1918, June-1919, Dec.</unittitle>
+                  <container id="aspace_943cd219bbca5f6bc843b74e2139c65c" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref129_qgn" level="file">
+               <did>
+                  <unittitle>Vol. No. 40 Order Book, 1920, Jan.-Sept.</unittitle>
+                  <container id="aspace_d6a086b55786fa88530427bf821ad893" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_nhr" level="file">
+               <did>
+                  <unittitle>Vol. No. 41 Order Book, 1922, Aug. 27-1924, Jan.</unittitle>
+                  <container id="aspace_c7ce0c90ad7a99b7c4524272c5b7c4e1" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_rxj" level="file">
+               <did>
+                  <unittitle>Vol. No. 42 Order Book, 1924, Jan.-1925, Mar.</unittitle>
+                  <container id="aspace_b850ba635f3819cd5b8e473ce711ecb2" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_f9n" level="file">
+               <did>
+                  <unittitle>Vol. No. 43 Order Book, 1925, Mar.-1926, Apr.</unittitle>
+                  <container id="aspace_3a9a3b3cc48650afaf5f3f4619326b7f" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_5ib" level="file">
+               <did>
+                  <unittitle>Vol. No. 44 Order Book, 1926, Apr.-1927, June</unittitle>
+                  <container id="aspace_948ea4ef4236694eb284ff20e491e7ca" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_7e2" level="file">
+               <did>
+                  <unittitle>Vol. No. 45 Order Book, 1927, June-1928, Nov.</unittitle>
+                  <container id="aspace_880d04d7f407b22f99b3607caf7d61d9" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_fak" level="file">
+               <did>
+                  <unittitle>Vol. No. 46 Order Book, 1928, Nov.-1930, July</unittitle>
+                  <container id="aspace_0e82113c4df13078f226d513fa3fa76a" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_cqz" level="file">
+               <did>
+                  <unittitle>Vol. No. 47 Order Book, 1930, July-1932 Nov.</unittitle>
+                  <container id="aspace_5ad74682ca3025e387ae9b5a759bec5c" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref137_w45" level="file">
+               <did>
+                  <unittitle>Vol. No. 48 Order Book, 1932, Nov.-1934, Dec.</unittitle>
+                  <container id="aspace_a5bc3af787dbfef26a1dbcacd2bf185f" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_vxr" level="file">
+               <did>
+                  <unittitle>Vol. No. 49 Notes and Bills Receivable and Payable,
+                     1921-1922</unittitle>
+                  <container id="aspace_b7510b71abfd54bdb65d94ef16d50c91" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref139_40q" level="file">
+               <did>
+                  <unittitle>Vol. No. 50 Bills Receivable, 1925-1927</unittitle>
+                  <container id="aspace_2aaae572111b4dedd8ef046e62463382" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref140_d9g" level="file">
+               <did>
+                  <unittitle>Vol. No. 51 Notes and Bills Receivable, 1925-1928</unittitle>
+                  <container id="aspace_13b884d14def82d5295b350351dc54a3" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref141_yhb" level="file">
+               <did>
+                  <unittitle>Vol. No. 52 Factory Invoice Records, 1922, Aug.-1924, Mar.</unittitle>
+                  <container id="aspace_cbc5f2a4ea4dbda2378f8f41e413c2b0" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref142_10g" level="file">
+               <did>
+                  <unittitle>Vol. No. 53 Factory Invoice Records, 1924, Feb.-1925, July</unittitle>
+                  <container id="aspace_5aad5ddb0cd1a13d9b9405331fab2c7c" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref143_jjh" level="file">
+               <did>
+                  <unittitle>Vol. No. 54 Factory Invoice Records, 1925, July-1926, July</unittitle>
+                  <container id="aspace_6f1b28a06d768ce73545aff22d41aa07" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_jhn" level="file">
+               <did>
+                  <unittitle>Vol. No. 55 Ledger, 1913-1917, May</unittitle>
+                  <container id="aspace_77f57c99a79c6de9ea467840f961d506" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref145_umk" level="file">
+               <did>
+                  <unittitle>Vol. No. 56 Ledger, 1917, Apr.-1919, Jan.</unittitle>
+                  <container id="aspace_53cd4ef2e4244b9675e06d81c168af6d" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_ogm" level="file">
+               <did>
+                  <unittitle>Vol. No. 57 Cash Journal, 1920, Jan.-1922, Apr.</unittitle>
+                  <container id="aspace_4baea5a222e519abb7a06c9e7a083b75" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref147_53a" level="file">
+               <did>
+                  <unittitle>Vol. No. 58 Cash Journal, 1922, May-1923, Feb.</unittitle>
+                  <container id="aspace_dff83e817e05e0d0144fb80d01f6927a" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref148_een" level="file">
+               <did>
+                  <unittitle>Vol. No. 59 Cash Journal and Daily Financial Statement, 1922,
+                     Mar.-1925, Dec.</unittitle>
+                  <container id="aspace_47b1ebfcb9527789539c92bed5cdc860" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref149_wnq" level="file">
+               <did>
+                  <unittitle>Vol. No. 60 Equipment Sales and Ownership Record, 1927</unittitle>
+                  <container id="aspace_c56ed8417b3ccfd88206d37684d0b35e" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref150_fi1" level="file">
+               <did>
+                  <unittitle>Vol. No. 61 Factory Invoice Records, 1926, June-1926, Sept.</unittitle>
+                  <container id="aspace_18ece593d5bb17d97d7ff8ff4d2f6895" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref151_ho5" level="file">
+               <did>
+                  <unittitle>Vol. No. 62 Equipment Sales and Ownership Record, 1917-1927</unittitle>
+                  <container id="aspace_8045023fcbe476c8b724ab401a45456c" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_268" level="file">
+               <did>
+                  <unittitle>Vol. No. 63 Ledger, 1910-1915</unittitle>
+                  <container id="aspace_9b1641d24ef01e957cdb95daae5cd7e2" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref153_sx9" level="file">
+               <did>
+                  <unittitle>Vol. No. 64 Equipment Ownership Record, 1921-1927</unittitle>
+                  <container id="aspace_33a83896cbddbd45d8ab3065e0956c6d" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref154_tcz" level="file">
+               <did>
+                  <unittitle>Vol. No. 65 Cash Receipt Journal, 1918-1919</unittitle>
+                  <container id="aspace_dd64fbde841364a9766b32175d31436e" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref155_vew" level="file">
+               <did>
+                  <unittitle>Vol. No. 66 Cash Receipt Journal, 1920-August 1922</unittitle>
+                  <container id="aspace_cd67e0ac99f1921e5f76eea71c510552" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref156_gxj" level="file">
+               <did>
+                  <unittitle>Vol. No. 67 Cash Receipt Journal, 1922-1923</unittitle>
+                  <container id="aspace_220cdb6ee974fdb71bce965e24c2c424" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref157_vpl" level="file">
+               <did>
+                  <unittitle>Vol. No. 68 Record of Sales by Individuals 1921-1926</unittitle>
+                  <container id="aspace_c8148647463077dc6c26ac917aa48fc7" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref158_dkr" level="file">
+               <did>
+                  <unittitle>Vol. No. 69 Account Journal, 1921, Oct.-1923, Feb.</unittitle>
+                  <container id="aspace_365e8bd475cec880e3234b98d6ebb182" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref159_lz0" level="file">
+               <did>
+                  <unittitle>Vol. No. 70 Record of Paid Freight Bills, 1922-1925</unittitle>
+                  <container id="aspace_c0e6960ef9d07001d7a348883006fb63" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref160_wyf" level="file">
+               <did>
+                  <unittitle>Vol. No. 71 Monthly Balances on Open Accounts, 1925-1926</unittitle>
+                  <container id="aspace_61ebbb4212b52770434f892a2edf6593" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref161_0po" level="file">
+               <did>
+                  <unittitle>Vol. No. 72 Monthly Balances and Payments on Open Accounts,
+                     1927-1928</unittitle>
+                  <container id="aspace_5a5dffc5b438825728ca6cae9f10369d" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref163_gmo" level="series">
+            <did>
+               <unittitle>Legal Papers, 1793-1983 and undated, bulk 1910-1983</unittitle>
+               <physdesc id="aspace_d7873c9baded4ef921126b60a2fdd512">3 containers</physdesc>
+            </did>
+            <scopecontent id="aspace_bd663a02a9f7c7ae2fc7c2957e62367a">
+               <head>Scope and Contents note</head>
+               <p>Early legal papers consist of land transactions, property inventories, summonses,
+                  and wills. Among the other items are contracts between E. F. Craven Company and
+                  various manufacturers of road machinery regarding the sale of their products;
+                  documents regarding the 1968 controversy over the North Carolina Highway
+                  Commission's specifications for road machinery; the 1974 merger agreement between
+                  E. F. Craven Company and Pitt Realty Corporation; and the 1975 purchase agreement
+                  between E. F. Craven Company and Brocar, Incorporated. Arranged chronologically by
+                  year.</p>
+            </scopecontent>
+            <c02 id="aspace_ref165_owu" level="file">
+               <did>
+                  <unittitle>Papers, 1793-1965</unittitle>
+                  <physdesc id="aspace_720443a1ef161879ec329c6d19f95beb">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5a6c84e56f312b5f224d8a9977f39f0a" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref167_7ir" level="file">
+               <did>
+                  <unittitle>N.C. Highway Commission, 1966-1967</unittitle>
+                  <container id="aspace_d07e6776172d80bc7b1e536ac11bbe27" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref168_2mi" level="file">
+               <did>
+                  <unittitle>Papers, 1968-1974</unittitle>
+                  <container id="aspace_1e3aa9cbdc7dbf7154c4eda2cdd4996d" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref169_dqb" level="file">
+               <did>
+                  <unittitle>Motor Grader Hearing, 1968, Jan. 19-1968, Mar. 5</unittitle>
+                  <physdesc id="aspace_2750bb72e44a1c6c0dd0f99513a5556b">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_eb7366688b8ae1cc38cef008641a23c8" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref171_3x3" level="file">
+               <did>
+                  <unittitle>Pitt-Craven Merger, 1974</unittitle>
+                  <physdesc id="aspace_507c31bf78d96521872093b22989cbc5">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fa9d84794b0ad049ae196fe43ef3539e" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref173_5qu" level="file">
+               <did>
+                  <unittitle>Purchase agreement, 1975, Nov. 14</unittitle>
+                  <physdesc id="aspace_ea19c38c737874120a6d94b6944a5b8d">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a9709554db38a42fe329620742eecc96" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref175_ufh" level="file">
+               <did>
+                  <unittitle>Lease agreement, 1975, Nov. 14</unittitle>
+                  <container id="aspace_2fb659b1c2217133c76deaabdbcb99a0" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref176_x92" level="file">
+               <did>
+                  <unittitle>Papers, 1975-1978</unittitle>
+                  <container id="aspace_b46beebff5d6cb81aae3e7f5807569ae" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref177_gtr" level="file">
+               <did>
+                  <unittitle>D &amp; L Limited Partnership Closing Documents, 1982, Nov.
+                     15</unittitle>
+                  <container id="aspace_5d2b57f628b3c87eaaa5b4d59456ea55" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref178_di1" level="file">
+               <did>
+                  <unittitle>Papers, 1982-1983, n.d.</unittitle>
+                  <container id="aspace_8837f0b473e1c075c4fb9bcb30f0af92" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref180_d18" level="series">
+            <did>
+               <unittitle>Directors' Minutes Series, 1926-1983</unittitle>
+               <physdesc id="aspace_65bb777431e1f0f02b1b3396a6d99f00">2 containers</physdesc>
+            </did>
+            <scopecontent id="aspace_279a57e6201d0edaf97d245a13278188">
+               <head>Scope and Contents note</head>
+               <p>Includes a copy of the Certificate of Incorporation and the by-laws of E. F.
+                  Craven Company as well as a continuous run of the minutes of the Board of
+                  Directors from 1926-1983. Arranged chronologically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref182_oya" level="file">
+               <did>
+                  <unittitle>Directors' Minutes, 1926-1974</unittitle>
+                  <physdesc id="aspace_082099f1ec0ca876ef1fbb07c2525793">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e5a6cdb7c8778d4e8759f58c286780f0" label="Mixed Materials"
+                     type="box">45</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref184_jjn" level="file">
+               <did>
+                  <unittitle>Directors' Minutes, 1975-1983</unittitle>
+                  <physdesc id="aspace_3340dbb6be78fd34edd7d0ea94c09eaa">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_0ca4b70b3606ab9ffa436b15407351ee" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref187_54i" level="series">
+            <did>
+               <unittitle>Visual Materials Series, 1901-1980 and undated</unittitle>
+               <physdesc id="aspace_fb12c0cc2b8bf522805234487ef8df2e">5 containers</physdesc>
+            </did>
+            <scopecontent id="aspace_8832b40673c5e8012beb4fe7cbed6f10">
+               <head>Scope and Contents note</head>
+               <p>Photographs, demonstration catalogs, and 16mm. motion picture films of machinery
+                  sold by E. F. Craven Company; photographs of the Craven family and company
+                  employees; and pictures of the E. F. Craven Company buildings and construction
+                  sites comprise this series.</p>
+            </scopecontent>
+            <arrangement id="aspace_bd402c7f6e7b797c34b65df0721969c7">
+               <head>Arrangement note</head>
+               <p>Arranged in three general categories: Machinery (subdivided alphabetically by
+                  manufacturer), People, and Places. Items are arranged chronologically by year
+                  within these categories with some exceptions being made due to housing
+                  constraints. Refer to the container list for descriptions of films and volumes.
+                  Also see oversize material.</p>
+            </arrangement>
+            <accessrestrict id="aspace_5ed2c65a1265836d27856681cfb74997">
+               <head>Conditions Governing Access note</head>
+               <p>[Originals of films are closed to use. Technical Services staff need to arrange
+                  for use copies to be made before contents can be accessed. Please contact Research
+                  Services staff before coming to use the collection.]</p>
+            </accessrestrict>
+            <c02 id="aspace_ref189_r8d" level="subseries">
+               <did>
+                  <unittitle>Machinery Subseries</unittitle>
+               </did>
+               <c03 id="aspace_ref190_plg" level="file">
+                  <did>
+                     <unittitle>Photographs</unittitle>
+                  </did>
+                  <c04 id="aspace_ref191_4s1" level="file">
+                     <did>
+                        <unittitle>Allis-Chalmers, 1930-1989, n.d.</unittitle>
+                        <physdesc id="aspace_722b1cd2b1348065a30dce81385f697c">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_c477deae2e2b1cffc71c991f30e3d6dc"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref193_ajn" level="file">
+                     <did>
+                        <unittitle>Best-Midget, 1920-1977, n.d.</unittitle>
+                        <container id="aspace_ed05680bcd6e20ec61b34ad75d09f707"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref194_r2j" level="file">
+                     <did>
+                        <unittitle>Bucyrus Erie, 1930-1979, n.d.</unittitle>
+                        <physdesc id="aspace_2707ad72084921f2ab0738453e9d8640">
+                           <extent>4 folders</extent>
+                        </physdesc>
+                        <container id="aspace_255c7cecd027f5af2bfd0bae65dbb656"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref196_w48" level="file">
+                     <did>
+                        <unittitle>Peerless-Russell, 1932-1977, n.d.</unittitle>
+                        <container id="aspace_cfae497bf1963fa214bf85ed27aa442d"
+                           label="Mixed Materials" type="box">48</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref197_ep1" level="file">
+                     <did>
+                        <unittitle>Russell Manufacturing Catalog Pages, ca. 1918</unittitle>
+                        <physdesc id="aspace_487fc86cdf124920f54d1f1ea7b2be6b">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_fda4cd7df0a9edab7a226ae615e82523"
+                           label="Mixed Materials" type="box">48</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref199_w4p" level="file">
+                     <did>
+                        <unittitle>Sandusky, Unidentified, 1920-1977, n.d.</unittitle>
+                        <container id="aspace_dad3eefc3fde3a663e7b1df4a9e76dfe"
+                           label="Mixed Materials" type="box">48</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref200_sxv" level="file">
+                     <did>
+                        <unittitle>Unidentified and miscellaneous, 1920-1980, n.d.</unittitle>
+                        <container id="aspace_73f298e941d2d73553ee98b04a69ee47"
+                           label="Mixed Materials" type="box">48</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref201_zmm" level="file">
+                  <did>
+                     <unittitle>Albums</unittitle>
+                     <container id="aspace_41762e9839c2e105550f5201dbb8f647" label="Mixed Materials"
+                        type="box">49 (contains vols. 73-78)</container>
+                  </did>
+                  <c04 id="aspace_ref202_qck" level="file">
+                     <did>
+                        <unittitle>Vol. No. 73 Littleford Tar and Asphalt Heaters Photographic
+                           Catalog, n.d.</unittitle>
+                        <container id="aspace_78dfbf9e5987d1e643c384007f974cc8"
+                           label="Mixed Materials" type="box">49 (contains vols. 73-78)</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref203_rsr" level="file">
+                     <did>
+                        <unittitle>Vol. No. 74 Allis-Chalmers Manufacturing Catalog,
+                           1928-1929</unittitle>
+                        <container id="aspace_276eddf165524944b5b67718d03f1c02"
+                           label="Mixed Materials" type="box">49 (contains vols. 73-78)</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref204_kbn" level="file">
+                     <did>
+                        <unittitle>Vol. No. 75 Erie Shovel Catalog, n.d.</unittitle>
+                        <container id="aspace_6d7faaaf5a33252754f6fbbf58692bba"
+                           label="Mixed Materials" type="box">49 (contains vols. 73-78)</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref205_qcv" level="file">
+                     <did>
+                        <unittitle>Vol. No. 76 Frank G. Hough Company Album, n.d.</unittitle>
+                        <container id="aspace_8d29e5aaf118b232b85691e66958fd58"
+                           label="Mixed Materials" type="box">49 (contains vols. 73-78)</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref206_3bl" level="file">
+                     <did>
+                        <unittitle>Vol. No. 77 Universal Crane Catalog, ca. 1920</unittitle>
+                        <container id="aspace_9c741d651c94847c60208eeea37e1d0f"
+                           label="Mixed Materials" type="box">49 (contains vols. 73-78)</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref207_uh8" level="file">
+                     <did>
+                        <unittitle>Vol. No. 78 Parsons Company Catalog, ca. 1920</unittitle>
+                        <container id="aspace_57484f65076003b50f69939a19aee134"
+                           label="Mixed Materials" type="box">49 (contains vols. 73-78)</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref208_tjs" level="file">
+                  <did>
+                     <unittitle>Film Reels</unittitle>
+                     <container id="aspace_c7fe944c46d33216e62bce47e6d2809d" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+                  <accessrestrict id="aspace_278d8f604bbc68b15d78df58bea1fed9">
+                     <head>Conditions Governing Access note</head>
+                     <p>[Original films are closed to use. Technical Services staff need to arrange
+                        for use copies to be made before contents can be accessed. Please contact
+                        Research Services staff before coming to use the collection.]</p>
+                  </accessrestrict>
+                  <c04 id="aspace_ref209_135" level="file">
+                     <did>
+                        <unittitle>1. Russell Grader with Caterpillar tractor and Adams back-sloper
+                           attachment, n.d.</unittitle>
+                        <container id="aspace_aa8e8c8ccaf1125c9e3742a52a853c72"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref210_3x9" level="file">
+                     <did>
+                        <unittitle>2. Terracing with county maintenance equipment (Allis-Chalmers
+                           HD7 Diesel 22 Tractor) in Texas, Missouri, Oklahoma, and Iowa,
+                           n.d.</unittitle>
+                        <container id="aspace_efad36e31e8f4b3b4133d39a40930c82"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref211_9bo" level="file">
+                     <did>
+                        <unittitle>3. American Asphalt Company loading rock and sand with Haiss
+                           loaders in Chicago, Illinois, n.d.</unittitle>
+                        <container id="aspace_1a3137a4934a6a8746cf0489da3a1f96"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref212_svc" level="file">
+                     <did>
+                        <unittitle>4. <title render="italic">How to Build a Modern Mixed-In-Place
+                              Road Surface</title> Written text gives step-by-step explanation.
+                           Littleford Distributor and Littleford Bituminous Resurfacer,
+                           n.d.</unittitle>
+                        <container id="aspace_f34bc83cc38ed160938418a39892121d"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref213_8ob" level="file">
+                     <did>
+                        <unittitle>5. Machinery not identified. Dated 6/15/1928. Road construction;
+                           in Raleigh, NC.</unittitle>
+                        <container id="aspace_ff95c3bfa5571b00c594987360d91ea7"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref214_jq3" level="file">
+                     <did>
+                        <unittitle>6. Haiss Excavator. Digging wet clay and macadam. Filmed in
+                           Illinois and at the state capitol grounds in Olympia, WA, ca.
+                           1927.</unittitle>
+                        <container id="aspace_c0026535c9e25136a3b1584133ca655a"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref215_7yp" level="file">
+                     <did>
+                        <unittitle>7. Haiss Excavator. Loading sand and rock in Chicago, IL and
+                           Rockville, NY, n.d.</unittitle>
+                        <container id="aspace_4f0fd7f68f220093487eea1a6b713f73"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref216_fzo" level="file">
+                     <did>
+                        <unittitle>8. Haiss excavation and concrete pouring. Digging subway under
+                           Illinois Central Station, n.d.</unittitle>
+                        <container id="aspace_c9350f6bc223cfb5fbf4462fa67ea666"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref217_eso" level="file">
+                     <did>
+                        <unittitle>9. Tractor pulling trees. Machinery not identified,
+                           n.d.</unittitle>
+                        <container id="aspace_e6929a18d49ae0201a18e5be9e547699"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref218_5qs" level="file">
+                     <did>
+                        <unittitle>10. Haiss creeper, grader, and loader. Late 1920's.</unittitle>
+                        <container id="aspace_8ad9554bed298b9d9556eb50ec8ada5c"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref219_pip" level="file">
+                     <did>
+                        <unittitle>11. Adams grader and back-sloper with leaning wheel,
+                           1928.</unittitle>
+                        <container id="aspace_8921d201f839f6862f363f4330e772d5"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref220_n4t" level="file">
+                     <did>
+                        <unittitle>12. Bucyrus-Erie Steam Shovel. Excavating underground in some
+                           shots, n.d.</unittitle>
+                        <container id="aspace_9384eda464032692ef36eac87745360c"
+                           label="Mixed Materials" type="box">50</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref222_47y" level="subseries">
+               <did>
+                  <unittitle>People Subseries</unittitle>
+               </did>
+               <c03 id="aspace_ref223_2mh" level="file">
+                  <did>
+                     <unittitle>Photographs, 1901-1989, n.d.</unittitle>
+                     <physdesc id="aspace_e92881f558298ddb3fdaa54b7b6c39e2">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_31a5b5f9d3f8648d77b715ff0a2e5154" label="Mixed Materials"
+                        type="box">51</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref225_3bx" level="file">
+                  <did>
+                     <unittitle>Oversize photographs, 1920s, n.d.</unittitle>
+                     <container id="aspace_428a969aa546b46158fb3a9aa8ddbab8" label="Mixed Materials"
+                        type="box">65 (2nd 70:H)</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref226_btj" level="subseries">
+               <did>
+                  <unittitle>Places Subseries</unittitle>
+               </did>
+               <c03 id="aspace_ref227_45j" level="file">
+                  <did>
+                     <unittitle>1900-1978, n.d.</unittitle>
+                     <physdesc id="aspace_fc36d5148f49a50769042273f1752cf8">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ff3bf3ac5528a75b9eba5078199397ba" label="Mixed Materials"
+                        type="box">51</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref232_r0m" level="series">
+            <did>
+               <unittitle>Printed Materials Series, 1880-1990 and undated, bulk
+                  1907-1990</unittitle>
+               <physdesc id="aspace_d8584d4e7998b0a8ab825bc3003898a9">7 containers</physdesc>
+            </did>
+            <scopecontent id="aspace_70fb3d3d0e5bf6d6879256ec66189ae7">
+               <head>Scope and Contents note</head>
+               <p>Consists of unused stationery, serials, advertisements, catalogs, and pamphlets
+                  produced by E. F. Craven Company and machinery companies with whom they did
+                  business as well as articles and a book written by Eli Franklin Craven. Includes
+                  clippings of articles about E. F. Craven Company and the Craven family. See
+                  container list for description of volumes.</p>
+            </scopecontent>
+            <c02 id="aspace_ref234_tjw" level="file">
+               <did>
+                  <unittitle>Serials</unittitle>
+                  <container id="aspace_c9338507152199f948951899bbdbdf92" label="Mixed Materials"
+                     type="box">52</container>
+               </did>
+               <c03 id="aspace_ref235_cfb" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Road Machinery News:</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="aspace_ref236_qo8" level="file">
+                     <did>
+                        <unittitle>Introduction, 1983, Aug. 25</unittitle>
+                        <container id="aspace_911798597f5e9e410f489579c49940d2"
+                           label="Mixed Materials" type="box">52</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref237_1tp" level="file">
+                     <did>
+                        <unittitle>1925, Mar.-1960, Nov.</unittitle>
+                        <physdesc id="aspace_dc78776399b21b65f1ba2294ac37c8ab">
+                           <extent>12 folders</extent>
+                        </physdesc>
+                        <container id="aspace_2b1a80c1501c32e2fb700a4b71f71761"
+                           label="Mixed Materials" type="box">52</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref239_xmg" level="file">
+               <did>
+                  <unittitle>Serials</unittitle>
+                  <container id="aspace_e5e22e32bdbe9e91c85aa0b85956fb53" label="Mixed Materials"
+                     type="box">53</container>
+               </did>
+               <c03 id="aspace_ref240_5n1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Road Machinery News:</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="aspace_ref241_pxi" level="file">
+                     <did>
+                        <unittitle>1960-1978, Jan.</unittitle>
+                        <physdesc id="aspace_44fc3770dc41dca4063e4506f7ee028c">
+                           <extent>6 folders</extent>
+                        </physdesc>
+                        <container id="aspace_db84ba8fe77843d609fc4e2fe99311dd"
+                           label="Mixed Materials" type="box">53</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref243_dkp" level="file">
+                  <did>
+                     <unittitle>Baker, Bucyeus-Erie, <title render="italic">Enginews,</title>
+                        <title render="italic">Russell News</title>
+                     </unittitle>
+                     <container id="aspace_78749279d881365c13e4286ed1da88a2" label="Mixed Materials"
+                        type="box">53</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref244_s4r" level="file">
+               <did>
+                  <unittitle>Catalogs:</unittitle>
+                  <container id="aspace_488405d7b237289b91bda3e70410fe56" label="Mixed Materials"
+                     type="box">54 (contains vols. 79-88)</container>
+               </did>
+               <c03 id="aspace_ref245_7zh" level="file">
+                  <did>
+                     <unittitle>Vol. No. 79 E. F. Craven Company Catalog, 1943-1944</unittitle>
+                     <container id="aspace_74304deb38e53b946fbe0e5bd86f9232" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref246_zmm" level="file">
+                  <did>
+                     <unittitle>Vol. No. 80 E. F. Craven Company Catalog, 1953</unittitle>
+                     <container id="aspace_4a30bc25d0415046fd0c98d70b574305" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref247_7lc" level="file">
+                  <did>
+                     <unittitle>Vol. No. 81 E. F. Craven Company Catalog, 1973</unittitle>
+                     <container id="aspace_28c93742277b62e345f6c2b6965c90ca" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref248_jvy" level="file">
+                  <did>
+                     <unittitle>Vol. No. 82 Allis-Chalmers United Tractor Catalog, 1930</unittitle>
+                     <container id="aspace_a3403acd5507d4800ebec00d376f3411" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref249_uhb" level="file">
+                  <did>
+                     <unittitle>Vol. No. 83 Allis-Chalmers Ind"U"strial Catalog, 1930</unittitle>
+                     <container id="aspace_22261ca520ab450ffe2f8835eefaf56f" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref250_14t" level="file">
+                  <did>
+                     <unittitle>Vol. No. 84 Rawlings Implement Company Catalog, 1916</unittitle>
+                     <container id="aspace_9dfde8638c067dfdd87d02c826f93584" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref251_an0" level="file">
+                  <did>
+                     <unittitle>Vol. No. 85 Russell Grader Repair Parts Catalog, n.d.</unittitle>
+                     <container id="aspace_ccb41008d4db849cfbb38496f62a48ce" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref252_tcd" level="file">
+                  <did>
+                     <unittitle>Vol. No. 86 Russell Grader Manufacturing Company Catalog,
+                        1926-1927</unittitle>
+                     <container id="aspace_7d3a1044f6917c14c492208ba90739a2" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref253_rwr" level="file">
+                  <did>
+                     <unittitle>Vol. No. 87 Russell Grader Manufacturing Company Catalog,
+                        1914</unittitle>
+                     <container id="aspace_c254ba4b3b6916b9427560c5b23c5df4" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref254_jbe" level="file">
+                  <did>
+                     <unittitle>Vol. No. 88 John Deere Plow Company Catalog, 1916</unittitle>
+                     <container id="aspace_4a82993efbef93a5d1c33747a5462b6a" label="Mixed Materials"
+                        type="box">54 (contains vols. 79-88)</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref255_lsx" level="file">
+               <did>
+                  <unittitle>Catalogs:</unittitle>
+                  <container id="aspace_b2cd0b8df4091425f1d35dedc45dfe47" label="Mixed Materials"
+                     type="box">55 (contains vols. 89-93)</container>
+               </did>
+               <c03 id="aspace_ref256_fkf" level="file">
+                  <did>
+                     <unittitle>Vol. No. 89 Stag Manganese Steel Catalog, n.d.</unittitle>
+                     <container id="aspace_0f143dbf321620fa709302181fd5d10e" label="Mixed Materials"
+                        type="box">55 (contains vols. 89-93)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref257_a65" level="file">
+                  <did>
+                     <unittitle>Vol. No. 90 Acme Road Machinery Company Price List,
+                        1900-1910</unittitle>
+                     <container id="aspace_ab742fe7c76f2b2b99aebd9b37720f15" label="Mixed Materials"
+                        type="box">55 (contains vols. 89-93)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref258_hyc" level="file">
+                  <did>
+                     <unittitle>Vol. No. 91 E. F. Craven Company Catalog, 1924-1926</unittitle>
+                     <container id="aspace_0a8facbdbe174ca342f851e4eacd96a5" label="Mixed Materials"
+                        type="box">55 (contains vols. 89-93)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref259_wol" level="file">
+                  <did>
+                     <unittitle>Vol. No. 92 Powers Highway Catalog and Directory, 1932</unittitle>
+                     <container id="aspace_e84643df45369a1214a1e0efd7d57d50" label="Mixed Materials"
+                        type="box">55 (contains vols. 89-93)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref260_7ok" level="file">
+                  <did>
+                     <unittitle>Vol. No. 93 Western Wheeled Scraper Company Catalog, ca.
+                        1927</unittitle>
+                     <container id="aspace_aaf20fc968875661f77e5dc7cdcf1427" label="Mixed Materials"
+                        type="box">55 (contains vols. 89-93)</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref261_9j1" level="file">
+               <did>
+                  <unittitle>Catalogs:</unittitle>
+                  <container id="aspace_ab877767416dd1647c39f20e688228db" label="Mixed Materials"
+                     type="box">56 (contains vols. 94-95)</container>
+               </did>
+               <c03 id="aspace_ref262_xmg" level="file">
+                  <did>
+                     <unittitle>Vol. No. 94 <title render="italic">Earth Mover,</title>
+                        1927</unittitle>
+                     <container id="aspace_6753810937a759e3da0a0959a7f06cd6" label="Mixed Materials"
+                        type="box">56 (contains vols. 94-95)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref263_ei1" level="file">
+                  <did>
+                     <unittitle>Vol. No. 95 <title render="italic">Earth Mover,</title>
+                        1928</unittitle>
+                     <container id="aspace_e6396f3ef45171d505f85038db0980bc" label="Mixed Materials"
+                        type="box">56 (contains vols. 94-95)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref264_eed" level="file">
+                  <did>
+                     <unittitle>"Practical Selling" pamphlets, 1929</unittitle>
+                     <container id="aspace_7c1ba11130e9cd0261c18dfdd92b3135" label="Mixed Materials"
+                        type="box">57 (contains vols. 96-97)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref265_4wa" level="file">
+                  <did>
+                     <unittitle>Sales Training notebook, 1922-1977</unittitle>
+                     <container id="aspace_d77cf4406957f7b74e93370ccf640969" label="Mixed Materials"
+                        type="box">57 (contains vols. 96-97)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref266_nqf" level="file">
+                  <did>
+                     <unittitle>Vol. No. 96 <title render="italic">Illustrated Selling,</title>
+                        1928</unittitle>
+                     <container id="aspace_7507dc24be3d4706038523886e8c8375" label="Mixed Materials"
+                        type="box">57 (contains vols. 96-97)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref267_w4z" level="file">
+                  <did>
+                     <unittitle>Vol. No. 97 <title render="italic">A Line or Two,</title>
+                        1975</unittitle>
+                     <container id="aspace_f41b1d6a9ff875d17bd3ed15e665e170" label="Mixed Materials"
+                        type="box">57 (contains vols. 96-97)</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref268_s4f" level="file">
+                  <did>
+                     <unittitle>Allis-Chalmers catalogs and literature, 1930s-1950s</unittitle>
+                     <container id="aspace_a2458b5b08931e72c499cd6f1e99db43" label="Mixed Materials"
+                        type="box">72</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref269_4bs" level="file">
+               <did>
+                  <unittitle>Advertising, stationery, etc., 1880-1990, n.d.</unittitle>
+                  <physdesc id="aspace_12745b194ab61990ba83ce9b85033666">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_16a11ce09139a81832923d7b6ce95302" label="Mixed Materials"
+                     type="box">58</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref271_4t8" level="file">
+               <did>
+                  <unittitle>Clippings, 1913, Jan. 15-1986, July, n.d.</unittitle>
+                  <container id="aspace_af9ac32d76788aef28fc7b21b3bcc1f4" label="Mixed Materials"
+                     type="box">58</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref273_f0w" level="series">
+            <did>
+               <unittitle>Subject Files Series, 1852-1987</unittitle>
+               <physdesc id="aspace_270d4563622e7682af8b87b55efa4c6a">1 container</physdesc>
+            </did>
+            <scopecontent id="aspace_2d384739368d46333871d25fe1fc4a80">
+               <head>Scope and Contents note</head>
+               <p>Consists of papers related to organizations or topics of interest to members of
+                  the Craven family. Groupings include Better Schools and Roads, Inc.; Genealogy;
+                  Greensboro Y.M.C.A.; Juvenilia; and the Religious Society of Friends. Arranged
+                  alphabetically by subject and chronologically by year within each subject.</p>
+            </scopecontent>
+            <c02 id="aspace_ref275_qn5" level="file">
+               <did>
+                  <unittitle>Better Schools and Roads, 1949-1971</unittitle>
+                  <container id="aspace_b7ff917f9f7aad171f438a7fda83efa5" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref276_6bb" level="file">
+               <did>
+                  <unittitle>Genealogy, 1852-1987</unittitle>
+                  <physdesc id="aspace_987b838275bb8ce9aa6d86e8d795add9">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d436dae96bd0c2df2c949812795ae0e8" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref278_sta" level="file">
+               <did>
+                  <unittitle>Juvenilia, 1893, Sept. 26-1975, May 5</unittitle>
+                  <physdesc id="aspace_44b8b4c233d556caca642ce9098f71b1">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b1dd488e2f89c55e3bad57e293823ae3" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref280_8zc" level="file">
+               <did>
+                  <unittitle>Religious Society of Friends, 1891-1976</unittitle>
+                  <container id="aspace_ec815f4e4baeb034369d038829abda9a" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref281_1ws" level="file">
+               <did>
+                  <unittitle>Y.M.C.A., 1928-1933</unittitle>
+                  <container id="aspace_883df2cb7d866b8de6eff5f5fb534a62" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref283_cr2" level="series">
+            <did>
+               <unittitle>Memorabilia Series, 1920-1948 and undated</unittitle>
+               <physdesc id="aspace_423768dab85d8031049cf484ff418efd">1 container</physdesc>
+            </did>
+            <scopecontent id="aspace_2d898576a1032616e13e4062275b4d4a">
+               <head>Scope and Contents note</head>
+               <p>Promotional items such as pencils, rulers, and luggage tags distributed by E. F.
+                  Craven Company and suppliers.</p>
+            </scopecontent>
+            <c02 id="aspace_ref285_8j5" level="file">
+               <did>
+                  <unittitle>Various memorabilia</unittitle>
+                  <container id="aspace_a60cddc00bb217b1fb4c32e405f8c29e" label="Mixed Materials"
+                     type="box">60</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref287_khn" level="series">
+            <did>
+               <unittitle>Miscellaneous Series, 1879-1978 and undated</unittitle>
+               <physdesc id="aspace_a0624dbd595d1420362de666d31c701b">1 container</physdesc>
+            </did>
+            <scopecontent id="aspace_3da9db51429f8c518f290a4fdd29834f">
+               <head>Scope and Contents note</head>
+               <p>Includes a notebook of biblical texts for sermons, pages from datebooks and
+                  appointment calendars, mailing lists, and drafts of editorials. Arranged
+                  chronologically by year.</p>
+            </scopecontent>
+            <c02 id="aspace_ref289_6ul" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <physdesc id="aspace_508ddf184907a42d93fd2513f7cfcfb9">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3fa45a3b5371d96df939929a24c5062c" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref292_ah9" level="series">
+            <did>
+               <unittitle>Previously Restricted Materials, 1916-1987 and undated, bulk
+                  1950s-1987</unittitle>
+               <physdesc id="aspace_1ba1cfa6c9ee4fbafa261d69d1503c8a">
+                  <extent>8 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_99faf3be5468911f3d4430c1ff7132d4">
+               <head>Scope and Contents note</head>
+               <p>Files contain various correspondence, business, legal, personal, and financial
+                  papers that had been restricted by F. Duval Craven for his lifetime. Material is
+                  now open to use. Materials relate to and were collected by F. Duval Craven, but
+                  many family members are represented, especially in the correspondence. The
+                  correspondence spans five decades and is divided into two groups: personal letters
+                  exchanged between F. Duval Craven and many family members, and business
+                  correspondence, much of it having to do with the Craven Company's contracts with
+                  the State of NC Highway Commission. Most of the correspondence is incoming,
+                  addressed to F. Duval Craven. Legal and financial papers include wills, legal
+                  contracts, legal suits and other disputes or issues, and memos and correspondence
+                  about the family business. The personal papers, a small group, include newspaper
+                  clippings, a few photographs, some memorabilia, post cards, grade school report
+                  cards, receipts from business/vacation trips, and campaign and political papers
+                  (electoral ballots)</p>
+               <p>The final group of folders contain aptitude tests carried out by a national
+                  testing firm on Craven Company employees during the fifties and sixties. These
+                  folders offer a detailed record of testing methods in the corporate world of the
+                  fifties and sixties. Some of the test reports are annotated by Craven after many
+                  years as to the outcome of the employee's performance, and note his assessment of
+                  this type of psychological and character testing. </p>
+               <p>The materials were sealed in envelopes. During processing they were kept in
+                  original order as found in envelopes (each folder or group of folders represents
+                  the contents of an envelope), then arranged by series in rough chronological
+                  order, with resulting date overlap between folders. Aptitude test folders are
+                  closed to research until 2016.</p>
+            </scopecontent>
+            <c02 id="aspace_ref294_jtc" level="file">
+               <did>
+                  <unittitle>Correspondence Series, 1933-1986</unittitle>
+               </did>
+               <c03 id="aspace_ref295_gjw" level="file">
+                  <did>
+                     <unittitle>1933-1978</unittitle>
+                     <physdesc id="aspace_2ef24e0ddc3c9f8895ea5aa305ede48d">
+                        <extent>20 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9baa7476a56c1ba607161ed165277f96" label="Mixed Materials"
+                        type="box">62</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref297_voy" level="file">
+                  <did>
+                     <unittitle>1952-1981</unittitle>
+                     <physdesc id="aspace_20572ee0d4c3c39d4b96372bc0416f6e">
+                        <extent>33 folders</extent>
+                     </physdesc>
+                     <container id="aspace_5e8afe938132dda7b3e8cd9e976d4826" label="Mixed Materials"
+                        type="box">63</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref299_n2n" level="file">
+                  <did>
+                     <unittitle>1972-1986</unittitle>
+                     <physdesc id="aspace_2b89f4cb7f6b1db26ee9d8d578a22d12">
+                        <extent>21 folders</extent>
+                     </physdesc>
+                     <container id="aspace_930e4cece6d1f9236294ed290562a39f" label="Mixed Materials"
+                        type="box">64</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref301_0zz" level="file">
+               <did>
+                  <unittitle>Legal and Financial Papers Series, 1916-1985</unittitle>
+               </did>
+               <c03 id="aspace_ref302_vjx" level="file">
+                  <did>
+                     <unittitle>1916-1965</unittitle>
+                     <physdesc id="aspace_0b488adfd20a73b283a6d9bfe5ddec86">
+                        <extent>22 folders</extent>
+                     </physdesc>
+                     <container id="aspace_94dcc5c406a27f7623ce47e82c503f36" label="Mixed Materials"
+                        type="box">65</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref304_80d" level="file">
+                  <did>
+                     <unittitle>1967-1985</unittitle>
+                     <physdesc id="aspace_a9725bc77166d4288c56219eb9477d40">
+                        <extent>21 folders</extent>
+                     </physdesc>
+                     <container id="aspace_95cb9071c2fdbd7f51c9fbe23656f73c" label="Mixed Materials"
+                        type="box">66</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref306_8xj" level="file">
+               <did>
+                  <unittitle>Personal Papers Series, 1922-1987</unittitle>
+               </did>
+               <c03 id="aspace_ref307_erz" level="file">
+                  <did>
+                     <unittitle>1922-1966</unittitle>
+                     <physdesc id="aspace_8f6ed89ee3c2094fd3f9a346039f33b3">
+                        <extent>21 folders</extent>
+                     </physdesc>
+                     <container id="aspace_8b50c74c300192a096af45c95b105c1d" label="Mixed Materials"
+                        type="box">67</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref309_ifl" level="file">
+                  <did>
+                     <unittitle>1966-1987</unittitle>
+                     <physdesc id="aspace_e2f06327ea98a39747cf63a482bdb4c6">
+                        <extent>19 folders</extent>
+                     </physdesc>
+                     <container id="aspace_520323c7c74aa88421dd9b86b17a222e" label="Mixed Materials"
+                        type="box">68</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref311_6lj" level="file">
+               <did>
+                  <unittitle>Aptitude Testing, 1958-1966 [CLOSED TO RESEARCH UNTIL
+                     2016.]</unittitle>
+               </did>
+               <c03 id="aspace_ref312_0l8" level="file">
+                  <did>
+                     <unittitle>1922-1966</unittitle>
+                     <physdesc id="aspace_f59d75f528755f4352c4655f096027b7">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_840cada5556d2a84a7bdc5eb018eeea8" label="Mixed Materials"
+                        type="box">69</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref315_cx3" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <c02 id="aspace_ref316_lq9" level="subseries">
+               <did>
+                  <unittitle>Financial Records Series</unittitle>
+               </did>
+               <c03 id="aspace_ref317_gpp" level="file">
+                  <did>
+                     <unittitle>Papers, 1907-1979</unittitle>
+                     <container id="aspace_15f498765d27c0e67f77661f831dfcfa" label="Mixed Materials"
+                        type="box">70</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref318_2fm" level="subseries">
+               <did>
+                  <unittitle>Legal Papers Series</unittitle>
+               </did>
+               <c03 id="aspace_ref319_wip" level="file">
+                  <did>
+                     <unittitle>Record of Indenture, 1812</unittitle>
+                     <container id="aspace_afafdd82d673374b0a03b205158b076c" label="Mixed Materials"
+                        type="box">70</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref320_bza" level="subseries">
+               <did>
+                  <unittitle>Visual Materials Series</unittitle>
+               </did>
+               <c03 id="aspace_ref321_gv9" level="file">
+                  <did>
+                     <unittitle>Machinery</unittitle>
+                  </did>
+                  <c04 id="aspace_ref322_31o" level="file">
+                     <did>
+                        <unittitle>Photographs, 1908-1911, n.d.</unittitle>
+                        <container id="aspace_30e5998784934a3cca76f02a0c901328"
+                           label="Mixed Materials" type="box">70</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref323_3pi" level="file">
+                  <did>
+                     <unittitle>People</unittitle>
+                  </did>
+                  <c04 id="aspace_ref324_4aw" level="file">
+                     <did>
+                        <unittitle>Photographs, 1926-1959, n.d.</unittitle>
+                        <container id="aspace_bf52b0fedc4b8f5e5987e965b5b790e0"
+                           label="Mixed Materials" type="box">70</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref325_fks" level="file">
+                  <did>
+                     <unittitle>Places</unittitle>
+                  </did>
+                  <c04 id="aspace_ref326_r55" level="file">
+                     <did>
+                        <unittitle>Photographs, ca. 1920-1929, n.d.</unittitle>
+                        <container id="aspace_fd0a12f2cd507418bbb19c83f2c22864"
+                           label="Mixed Materials" type="box">70</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref327_iqy" level="subseries">
+               <did>
+                  <unittitle>Printed Materials Series</unittitle>
+               </did>
+               <c03 id="aspace_ref328_8p4" level="file">
+                  <did>
+                     <unittitle>Machinery advertisements, n.d.</unittitle>
+                     <container id="aspace_db188bfd841a6f18112ab170fdf0adb2" label="Mixed Materials"
+                        type="box">70</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref329_hxz" level="file">
+                  <did>
+                     <unittitle>Machinery blueprints, 1908-1915</unittitle>
+                     <container id="aspace_ca6b4c56c4100fcb88b888dc0e70dced" label="Mixed Materials"
+                        type="box">70</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref330_rmj" level="file">
+                  <did>
+                     <unittitle>E. F. Craven Co. Calendar, 1931</unittitle>
+                     <container id="aspace_f6d5e6d04f0bd468e98cd7f276f3745c" label="Mixed Materials"
+                        type="box">70</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref331_pf5" level="file">
+                  <did>
+                     <unittitle>Blueprints for E. F. Craven equipment shop, 1979</unittitle>
+                     <container id="aspace_e3cba3c0ce45c8e32366b44b62cce1d1" label="Mixed Materials"
+                        type="box">70</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref332_cwp" level="file">
+                  <did>
+                     <unittitle>Miscellaneous</unittitle>
+                     <container id="aspace_f804cd4124f98c4a718e2bc3eaf239bd" label="Mixed Materials"
+                        type="box">71</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

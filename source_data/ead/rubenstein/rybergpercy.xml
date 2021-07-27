@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/rybergpercy/">rybergpercy</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Percy E. Ryberg papers, 1906-1991
+          <num>RL.01127</num></titleproper>
+        <author>Processed by: Ann Langford; machine-readable finding aid created by: Elizabeth
+          Arnold. </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2003</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003185228</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-08-30 09:48:57
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2015</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Percy E. Ryberg papers</unittitle>
+      <origination label="creator">
+        <persname role="cre" source="naf">Ryberg, Percy E. (Percy Edward), 1908-2001</persname>
+      </origination>
+      <unitid>RL.01127</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+        <extent altrender="carrier">11 boxes; 1 oversize folder</extent>
+      </physdesc>
+      <unitdate normal="1906/1991" type="inclusive">1906-1991</unitdate>
+      <abstract id="aspace_44cc77f82645583899c2a3239d1c0401">Collection primarily comprises New York
+        psychiatrist Percy E. Ryberg's personal family correspondence (in particular with his wife,
+        Barbara), diaries, and other personal papers, some of which speak to Ryberg's youth in
+        Argentina. Professional correspondence, articles, and other items document his career and
+        interests in sexual and mental health, substance abuse treatments, identity, spiritual and
+        astrological aspects of medicine, and other topics, and the publication of his book, <title
+          render="italic">Health, Sex, and Birth Control</title>. Also includes biographical and
+        genealogical information; photographs and photograph albums; and glass plate negatives.
+        Acquired by the History of Medicine Collections at Duke University.</abstract>
+      <langmaterial id="aspace_b933d36f740882543f0932ffb177bbf4">English. Some materials in Spanish.
+      </langmaterial>
+    </did>
+    <bioghist id="aspace_b40ce4af76c0948c0e5cd48a7827fc29">
+      <head>Biographical Note</head>
+      <p>Percy Edward Ryberg (February 26, 1908-December 16, 2001) was a New York-based psychiatrist
+        whose work focused on the treatment of alcoholism, mental health, gender identity, and
+        sexual health. He was also interested in spiritual and astrological aspects of healing. He
+        served as the president of the American Society of Addiction Medicine from 1965-1967. He was
+        married to Barbara "Bobbie" Ryberg (January 18, 1912-October 1, 2003) of Baltimore,
+        Maryland.</p>
+    </bioghist>
+    <accessrestrict id="aspace_8c6fcd1782e127ee1e1a335067302732">
+      <head>Access Restrictions</head>
+      <p>Portions of the collection are restricted. Portions of the Medical Research Materials are
+        restricted for 100 years. Glass plate negatives are also closed to use; digital scans may be
+        made. Contact the History of Medicine curator for permission to use these materials at least
+        four weeks in advance of your visit. </p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>All or portions of this collection may be housed off-site in Duke University's Library
+        Service Center. The library may require up to 48 hours to retrieve these materials for
+        research use.</p>
+      <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+        &amp; Manuscript Library to use this collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_4e0957f70f4bd36829c0bdb5a4be4c6d">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <acqinfo id="aspace_91ceaa91737ce8157f54b27932e3ca8e">
+      <head>Provenance</head>
+      <p>The Percy E. Ryberg papers were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library as a purchase in 2003.</p>
+    </acqinfo>
+    <prefercite id="aspace_510a10c64a539fea35ec1ee557d700c6">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Percy E. Ryberg papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <processinfo id="aspace_fe1039188fb2825518ae1ec4171d91fa">
+      <head>Processing Information</head>
+      <p>Processed by Ann Langford</p>
+      <p>Completed April 15, 2003</p>
+      <p>Encoded by Elizabeth Arnold</p>
+      <p>Collection re-processed and finding aid updated by Katrina Martin, June 2015. </p>
+      <p>Description and authority heading revised and subject headings added, Paula Jeannet, April
+        2019.</p>
+    </processinfo>
+    <scopecontent id="aspace_505d40d32b8fbf00ff782d98f5f3ecfa">
+      <head>Collection Overview</head>
+      <p>The collection consists primarily of psychiatrist Percy Ryberg's personal correspondence
+        (in particular with his wife, Barbara), diaries, and other personal papers (1908-1991), some
+        of which speak to his youth in Argentina. Ryberg's career as a physician and psychiatrist is
+        represented through professional correspondence, writings, and medical research material.
+        The material includes articles on the treatment of alcoholism in the mid-twentieth century,
+        the publication of his book Health, <title render="italic">Sex and Birth Control</title>,
+        and research on histamine reactions on the skin. Other topics that may be mentioned in the
+        papers include mental health treatment, gender identity, schizophrenia, and spiritual and
+        astrological aspects of medicine. There are also clippings and correspondence relating to
+        the trial of William Koch (1940s), a U.S. physician who claimed to have developed a cure for
+        cancer.</p>
+      <p>The collection also includes photographs (1906-1990s), mostly family snapshots and
+        professional portraits of Ryberg, and photograph albums documenting Ryberg's travels and
+        career. Glass plate negatives bear images of diplomas, and a military portrait of Ryberg
+        from 1942. </p>
+      <p>Acquired as part of the History of Medicine Collections at Duke University.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Alcoholism -- Treatment</subject>
+      <subject source="lcsh">Astrology -- Therapeutic use</subject>
+      <subject source="lcsh">Identity (Psychology)</subject>
+      <subject source="lcsh">Mental illness -- Treatment -- United States</subject>
+      <subject source="lcsh">Mental health</subject>
+      <subject source="lcsh">Psychiatrists -- Correspondence</subject>
+      <subject source="lcsh">Psychiatrists -- Diaries</subject>
+      <subject source="lcsh">Psychiatry -- History</subject>
+      <subject source="lcsh">Sexual health -- United States</subject>
+      <subject source="lcsh">Spiritual healing</subject>
+      <subject source="lcsh">Substance abuse -- Treatment</subject>
+      <geogname source="lcsh">Argentina -- History</geogname>
+      <geogname source="lcsh">New York (N.Y.)</geogname>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Glass plate negatives</genreform>
+      <genreform source="aat">Photograph albums</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <persname source="naf">Ryberg, Percy E. (Percy Edward), 1908-2001</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ca066b000621633af17b55eafb07301c" level="series">
+        <did>
+          <unittitle>Genealogy</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+        </did>
+        <c02 id="aspace_5cc344047e0ebece7277ee48aaa4d2f8" level="file">
+          <did>
+            <unittitle>Biographical sketch</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1
+                folders</extent></physdesc>
+            <container id="aspace_9caafb26e4971786aa6bef9567e4e673" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4382932c5726c9610a1d30b6e4cc9dfc" level="file">
+          <did>
+            <unittitle>Family tree and notes</unittitle>
+            <container id="aspace_0270cbcc3d67a09b2de3757c7261888c" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_9fa6a1e240d80b2c225aa8edba4fe4a6"
+              label="Mixed Materials [D04657064W]" type="folder">Oversize Folder 1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_de252ee5ba5da981a356b08fef06cc35" level="file">
+          <did>
+            <unittitle>Descendants of Joseph and Ann Taylor</unittitle>
+            <container id="aspace_2c8c9308353ccb5ed92f1f36724b0da6" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_1fe1658adfe1fb147be33c7353e273bf" level="file">
+          <did>
+            <unittitle>Taylor memoirs</unittitle>
+            <container id="aspace_11d16528ea420b44092a5cdb7563177a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_a239c6d3602ca90d98e14067e3a7c121" level="file">
+          <did>
+            <unittitle>Correspondence, 1942-1987</unittitle>
+            <unitdate type="inclusive">1942-1987</unitdate>
+            <container id="aspace_a55418ca442b1a83b1c1240bec2210b2" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_cf6c2886739516d0f05303f7891054b5" level="file">
+          <did>
+            <unittitle>Printed material, clippings</unittitle>
+            <container id="aspace_acdc06c31f9c78bb8e84e46715ec55b9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_d0ca36d9a41a5e4fc8328a4af5cf9b89" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <container id="aspace_8c5961ce2332608754a252e6bf79f10f" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_6a3255eb89704eb7d6685377a836494b" level="series">
+        <did>
+          <unittitle>Professional Activities</unittitle>
+          <unitdate normal="1910/1969" type="inclusive">1910s-1960s?</unitdate>
+        </did>
+        <c02 id="aspace_4d5fe52cf15573a9ea6127df2c5cf690" level="file">
+          <did>
+            <unittitle>Citizenship, national residency, birth records</unittitle>
+            <container id="aspace_824bf49faeceb16e0ad4990d044321a3" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_754e01277800ccd12cc7583b547509e9" level="file">
+          <did>
+            <unittitle>Curriculum vitae and professional profile</unittitle>
+            <container id="aspace_c0d606ab6246a70a111ec054839dce90" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_d225ba94d6abab953c5b32995a8f7868" level="file">
+          <did>
+            <unittitle>Announcements and events</unittitle>
+            <container id="aspace_ee3875456cea6df2dbf68a8c49b8aba5" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4298ad3127db00d730d32d9230054989" level="file">
+          <did>
+            <unittitle>Forms and applications</unittitle>
+            <container id="aspace_8d4c1dc6e4bba0549ef729ac69921541" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_29c5e216200a60fc76a961973e8f0930" level="file">
+          <did>
+            <unittitle>Certifications, memberships, diplomas</unittitle>
+            <container id="aspace_04a4a3d5469c0093b9e937172cccb498" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_80b84aaea962f91ee572ef57f38abdf3"
+              label="Mixed Materials [D04657064W]" type="folder">Oversize Folder 1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_9f992e82abe3bbaf15490bb32577be9f" level="file">
+          <did>
+            <unittitle>Awards, honors</unittitle>
+            <container id="aspace_8381ecb12e2a7e73b0b52e3cbbb3f486" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_3482f3a4d74dd4ea098f4a4520fb5386" level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate type="inclusive">1918-1991</unitdate>
+        </did>
+        <c02 id="aspace_714fb433926bc16349b98d546e9907f1" level="subseries">
+          <did>
+            <unittitle>General Correspondence</unittitle>
+            <unitid>1</unitid>
+          </did>
+          <c03 id="aspace_15f6f3d919aea6a3ade5a88d18e1753f" level="file">
+            <did>
+              <unittitle>1918-1929</unittitle>
+              <container id="aspace_db3cf82b5aaaaad7ef8f934bc4eb71a7" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_9ce19c33a52c44ee96dba4295ab0fdf8" level="file">
+            <did>
+              <unittitle>1930-1939</unittitle>
+              <container id="aspace_a66f96ceabe86630e4029e4a9dff5e24" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_0c0f3b309f2d20a846d5e8f27d82ad4a" level="file">
+            <did>
+              <unittitle>1940-1949</unittitle>
+              <container id="aspace_790fed42d01988e421a157f8bb35165a" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_7252fded219cb0ad6a8d72db44115cfc" level="file">
+            <did>
+              <unittitle>1950-1954</unittitle>
+              <container id="aspace_c6bf63f303bc060388b34dd3f2e02464" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_2a45cda0e54d1c0153ba50209d5bd81b" level="file">
+            <did>
+              <unittitle>1955-1959</unittitle>
+              <container id="aspace_2daf574ab3af1e2b1d2b0062722273db" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_9f2bc040a5f1bd0d6402609f5fba4ecf" level="file">
+            <did>
+              <unittitle>1960-1969</unittitle>
+              <container id="aspace_f75dcf770c83032fce07bc17c28a34f7" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_be508c947bb8a77bfeb727aea6f7174b" level="file">
+            <did>
+              <unittitle>1970-1979</unittitle>
+              <container id="aspace_f995b6a272d184dc04780b14e92c35b1" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_421df905e620bc23beb6ea6f19e3cc38" level="file">
+            <did>
+              <unittitle>1980-1991 and undated</unittitle>
+              <container id="aspace_30aa02b8ac829f4f13148661844e951f" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_b8ab4cacf9e5c4f75208c028d76b6e97" level="file">
+            <did>
+              <unittitle>Insurance </unittitle>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                  folders</extent></physdesc>
+              <container id="aspace_a1ae0344a51d32a158db66c59b1f4aab" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_95918d58eb4695c2f517ff47dc346b7e" level="subseries">
+          <did>
+            <unittitle>Professional Correspondence</unittitle>
+            <unitid>2</unitid>
+          </did>
+          <c03 id="aspace_503945f5515a40f7eda16f242539a9c9" level="file">
+            <did>
+              <unittitle>1937-1940</unittitle>
+              <container id="aspace_7c0e44e02fdffc1ddce95e79ad0bfd7f" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_7917fcebbd6114d55c80ac1bf990c9bb" level="file">
+            <did>
+              <unittitle>1950-1959</unittitle>
+              <container id="aspace_81c7bb5e3e58b84abd8789987f98a645" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_30aa0edc08ea61339ad7108199d11980" level="file">
+            <did>
+              <unittitle>1960-1969</unittitle>
+              <container id="aspace_e03bb5b0e2b35e8438e6541a19f6eab5" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_0e8544238d02c2efdd7996ee0405ebaa" level="file">
+            <did>
+              <unittitle>1970-1979</unittitle>
+              <container id="aspace_d068eca3c36227124cd4f996d57093c5" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_51b10e6185b4bb94987e6bac500da372" level="file">
+            <did>
+              <unittitle>1980-1991</unittitle>
+              <container id="aspace_7ef1e0bd280b92863b5f1f4362cc8594" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_f658417694da4363acd2baaff4bbeba9" level="file">
+            <did>
+              <unittitle>Printed material from professional correspondence</unittitle>
+              <container id="aspace_8381a8ff7fe62a8f20e4e97a4bc725ee" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_3e2960759718d13c821e4e2f53a0758e" level="series">
+        <did>
+          <unittitle>William Koch Trial</unittitle>
+          <unitdate type="inclusive">1938-1943</unitdate>
+        </did>
+        <c02 id="aspace_9776244c9b80fd505b46381f4fe80815" level="file">
+          <did>
+            <unittitle>Correspondence, 1938-1943</unittitle>
+            <container id="aspace_09d2a180c9fd09ed79faf8d223f2eacf" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7d4c824e5626f706e7012843b6bd735e" level="file">
+          <did>
+            <unittitle>Clippings, 1943</unittitle>
+            <container id="aspace_44011a441f90da540ad420a32c47820e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_92090127f6f92d7bc6b3716a387adac0" level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <c02 id="aspace_c20e3a677a1ec5e49ff58df2a94f6468" level="subseries">
+          <did>
+            <unittitle>Writings by Others</unittitle>
+            <unitid>3</unitid>
+          </did>
+          <c03 id="aspace_e7c135d7f2d238bb57bf9d8cba5d5b1b" level="file">
+            <did>
+              <unittitle>"Alcoholismo y medicina pscicomatica" by Dr. Jamie Braver, 1985 and "A
+                Social Perception of Freedom" by Dr. Hector Fontarosa</unittitle>
+              <unitdate type="inclusive">1985, undated</unitdate>
+              <container id="aspace_40d3514b5ca2dd518a1b6a837209c54c" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_e164eb9ffb7e25d528f08d0557538434" level="file">
+          <did>
+            <unittitle>Seminar on Alcoholism for Social Workers at Bronx Lebanon Hospital,
+              undated</unittitle>
+            <container id="aspace_931a505feb3ba11fa0d930f7cab420d2" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_eadef4ab4bd6ba078995a7d3932d7282" level="file">
+          <did>
+            <unittitle>Correspondence regarding establishment of weekly column</unittitle>
+            <unitdate type="inclusive">1954</unitdate>
+            <container id="aspace_a0d73a25da7effb099d572d67b75e717" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_618f35d7078e1ba6da3ee65b8cea8f8f" level="file">
+          <did>
+            <unittitle>Correspondence regarding publication of Health, Sex, and Birth
+              Control</unittitle>
+            <unitdate type="inclusive">1948-1955</unitdate>
+            <container id="aspace_1202d105fe7b5d588a63ad68a6dd4d53" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_2dd6bb89fcf92bf3f324a3b4197e883c" level="file">
+          <did>
+            <unittitle>Drafts, "A Combined Hospital Setting and AA in the Treatment of
+              Alcoholism"</unittitle>
+            <unitdate type="inclusive">1968-1971</unitdate>
+            <container id="aspace_7304cf35ce4a3716d89db41dc0caff0b" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+          <scopecontent id="aspace_917b31abd9c6182cb4b8b9119e91e902">
+            <head>Scope and Contents</head>
+            <p>Includes Spanish translations</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_00cfcba703047cd1934306d7c29ee3e1" level="file">
+          <did>
+            <unittitle>Correspondence regarding "A Combined Hospital Setting and AA in the Treatment
+              of Alcoholism"</unittitle>
+            <unitdate type="inclusive">1968-1971</unitdate>
+            <container id="aspace_a68d3d641a2a36f85bed84f8aa7af822" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_bf7f4da8a7252320a4290f81c97ba9db" level="file">
+          <did>
+            <unittitle>Drafts, "A Medically Oriented Program for Handling Alcoholism in the City of
+              New York" and "Report on Some Aspects of Alcoholism in England"</unittitle>
+            <unitdate type="inclusive">October 1963, undated</unitdate>
+            <container id="aspace_8300cde447fed48726cb8fce3fbbdfff" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_5d491e95253477646fdae25e292cca12" level="file">
+          <did>
+            <unittitle>Drafts, "Lecture on Venereal Disease"</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c00505f701c688b10084bfbfe1b6c89a" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_91349d2fbc6416ca21abd78507ebe195" level="file">
+          <did>
+            <unittitle>Miscellaneous drafts</unittitle>
+            <container id="aspace_b30455425825a577003c6f5204565274" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_45c4aa47cfeebf0b29776bdf7cf0ca7b" level="file">
+          <did>
+            <unittitle>Miscellaneous correspondence</unittitle>
+            <container id="aspace_8599fc9ff9cb69c7c34d1754f9e280c3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_c5082e422b60b28e8d1bcdfc0c72825d" level="series">
+        <did>
+          <unittitle>Medical Research Material</unittitle>
+        </did>
+        <accessrestrict id="aspace_24ef8638993f92b7e3e652f00752aee4">
+          <head>Conditions Governing Access</head>
+          <p>Portions of the Medical Research Materials are restricted for 100 years. Contact the
+            History of Medicine curator for permission to use these materials at least four weeks in
+            advance of your visit.</p>
+        </accessrestrict>
+        <c02 id="aspace_97e2756bf57e77d2bcc5e5c11e6d3529" level="file">
+          <did>
+            <unittitle>"Observations on Histamine Skin Reactions Before and Following Administration
+              of Histamine and Antihistamine "</unittitle>
+            <container id="aspace_4d2230eaed6076cfa123e477782daba2" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_6d99dd292067b8b2db253ab1080c7abc" level="file">
+          <did>
+            <unittitle>Observations on histamine skin flares</unittitle>
+            <container id="aspace_158775474de153c9e5b27e2ee436a93e" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <accessrestrict id="aspace_b417bfef90e3e1cdb6ef9743ecaf241b">
+            <head>Conditions Governing Access</head>
+            <p>This material is restricted for 100 years. Contact the History of Medicine curator
+              for permission to use these materials at least four weeks in advance of your
+              visit.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_87b91435890ee082e7f57bb7a3c68431" level="file">
+          <did>
+            <unittitle>Skin tests of histamines, 1939</unittitle>
+            <unitdate type="inclusive">1939</unitdate>
+            <container id="aspace_ccf6d7490c37a30cbb1c43e8c15195ba" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <accessrestrict id="aspace_18728084518a5bbf609ec8a797b00894">
+            <head>Conditions Governing Access</head>
+            <p>This material is restricted for 100 years. Contact the History of Medicine curator
+              for permission to use these materials at least four weeks in advance of your
+              visit.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_213f912fb5939bc66bd32fc8230e0f73" level="file">
+          <did>
+            <unittitle>Patient charts</unittitle>
+            <container id="aspace_c8fd0a27eef77e4d4cd31c00dfc99c3b" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <accessrestrict id="aspace_747f61ac2e685e22f83166c2da571b95">
+            <head>Conditions Governing Access</head>
+            <p>This material is restricted for 100 years. Contact the History of Medicine curator
+              for permission to use these materials at least four weeks in advance of your
+              visit.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_16278011b5c93eb65e88f8dfc2ab2fd4" level="file">
+          <did>
+            <unittitle>Treatment notes</unittitle>
+            <container id="aspace_0b93622dce6895007fede6f05b1bec69" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <accessrestrict id="aspace_162347e1efebf6758c74574d7effe34b">
+            <head>Conditions Governing Access</head>
+            <p>This material is restricted for 100 years. Contact the History of Medicine curator
+              for permission to use these materials at least four weeks in advance of your
+              visit.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_46497c30607773e873c44acab05fdadf" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <container id="aspace_0eec73321605ed24f1d893604045dd4f" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <accessrestrict id="aspace_5c4b10c6da4a1e1f13b83ee3cd953818">
+            <head>Conditions Governing Access</head>
+            <p>This material is restricted for 100 years. Contact the History of Medicine curator
+              for permission to use these materials at least four weeks in advance of your
+              visit.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_97e4318bb90414204e2d94d1802f5815" level="file">
+          <did>
+            <unittitle>Dr. Carl H Hannssen affidavit</unittitle>
+            <container id="aspace_05b1c7f6e0e15718d0be46d9f669fb41" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <accessrestrict id="aspace_0671aa4ac2ee4d89ecb919caa0c915ae">
+            <head>Conditions Governing Access</head>
+            <p>This material is restricted for 100 years. Contact the History of Medicine curator
+              for permission to use these materials at least four weeks in advance of your
+              visit.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="aspace_080b4b3dcd39899c9f445bd025a835f3" level="file">
+          <did>
+            <unittitle>Printed material</unittitle>
+            <container id="aspace_28c2672b7d9469a3325944795e8d9b3b" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <accessrestrict id="aspace_7716fade99afe513eca2d68b45bcfe8e">
+            <head>Conditions Governing Access</head>
+            <p>This material is restricted for 100 years. Contact the History of Medicine curator
+              for permission to use these materials at least four weeks in advance of your
+              visit.</p>
+          </accessrestrict>
+        </c02>
+      </c01>
+      <c01 id="aspace_4eb910c1e1400e354062f9689bf48e7e" level="series">
+        <did>
+          <unittitle>Diaries</unittitle>
+        </did>
+        <c02 id="aspace_aed386e695890a76741b008d0c833312" level="file">
+          <did>
+            <unittitle>1925</unittitle>
+            <container id="aspace_b30cc7c23a785ff9d4c386c292f18369" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b6ee7634ebfe31987fc18dce6c9d7bf7" level="file">
+          <did>
+            <unittitle>February 1926-April 1926, photocopy</unittitle>
+            <container id="aspace_b6dd9cef5bb1e17bfdb5ed7e0248fa47" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7b1a81e48aba28441f2460afd891aa8e" level="file">
+          <did>
+            <unittitle>July 1926-October 1926</unittitle>
+            <container id="aspace_a4c78cab89fe7b81d99047f76cd2af0b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b52d3cb5951f704c3640fd21100eb095" level="file">
+          <did>
+            <unittitle>October 1926-December 1926</unittitle>
+            <container id="aspace_a8baf4a9c7c77bc6767748626f3e582b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_148a5b414d2779280a4ba5f75312ae45" level="file">
+          <did>
+            <unittitle>December 1926-March 1927</unittitle>
+            <container id="aspace_e72fe2bc0d103618ed85a0005cf6f04a" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_bbf77949357c47d701b6e33be5f9bc88" level="file">
+          <did>
+            <unittitle>March 1927-June 1927</unittitle>
+            <container id="aspace_5e447877ef6c7ad019057bbb61de1e9e" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_8001379683810c6a2dcbabd0df88d4ff" level="file">
+          <did>
+            <unittitle>1937</unittitle>
+            <container id="aspace_dee6589b4e03696716145e9d73807e78" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7d32f91da19db314780399dfdcd69ee1" level="file">
+          <did>
+            <unittitle>1938</unittitle>
+            <container id="aspace_7c56f8fadf6d8a98667cfefc1edd3179" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c8a36b25ba20b957657892c822e40878" level="file">
+          <did>
+            <unittitle>1963</unittitle>
+            <container id="aspace_f14be8cfa38a5de2d7e68c1e3d98d112" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c5a2414f74d37b17e2004807a2012481" level="file">
+          <did>
+            <unittitle>1965</unittitle>
+            <container id="aspace_d5f91543fc99251ca356acea3bc27161" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_fb455470ed727581401145fa219ca523" level="file">
+          <did>
+            <unittitle>1979</unittitle>
+            <container id="aspace_f91ab46db8ed2805f7b7ba86e67b65d9" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c878556beefa0483cbdabeccd4955480" level="file">
+          <did>
+            <unittitle>1990, 1991</unittitle>
+            <container id="aspace_c0a062eec98e9c01ec63dc894bc3a2ff" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_a962fb7d1bd1b0f390fc778948cfe4c5" level="file">
+          <did>
+            <unittitle>Address book</unittitle>
+            <container id="aspace_fc7fbe081836d7bb7b103662003ebd8c" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_56e37d835d7002484d5617f3658b17c5" level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02 id="aspace_90f1260597f009702d4e7a8a8e3e8589" level="file">
+          <did>
+            <unittitle>Travel ephemera</unittitle>
+            <container id="aspace_d3903835bcfe17853e248a8dcab8e299" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ee52246bbcd7d3511eaf81707ed1c909" level="file">
+          <did>
+            <unittitle>Clippings and photocopies</unittitle>
+            <container id="aspace_5b8eff5cfb0be213e3c96c675bfa4358" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_bb3407da114ba9c7779bbe4ccfcb17eb" level="file">
+          <did>
+            <unittitle>Al Servico del País</unittitle>
+            <unitdate type="inclusive">1902-1952</unitdate>
+            <container id="aspace_740d0dbe3533f6563b18befbefd428d4" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+          <scopecontent id="aspace_ebfc7ec59b53e4033ddff240b5cefbca">
+            <head>Scope and Contents</head>
+            <p>Materials in Spanish. Includes Ryber's thoughts on sexual education as a
+              teenager.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_3d73ebe535e91de34e113f72c5edd38e" level="file">
+          <did>
+            <unittitle>Life-Giving Light by Charles Sheard</unittitle>
+            <unitdate type="inclusive">1933</unitdate>
+            <container id="aspace_79ba248c4bef2cd33ba8c16d27da6ddd" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c7cb3a2cfb551a749f49bf8afad638cc" level="file">
+          <did>
+            <unittitle>Events</unittitle>
+            <container id="aspace_ab1fddad7910c2a3dfef50c862505c55" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_116a0b1f8c67251520f3e98bcfdb8f44" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <container id="aspace_61df4728dcdbcf0d08d1ae70ade1183c" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+          <scopecontent id="aspace_9e989d6043a5ded565a2b5d082383ff2">
+            <head>Scope and Contents</head>
+            <p>Includes materials in Spanish</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="aspace_b5d25892258caa3c3d7a2adcd155420d" level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02 id="aspace_378599a866cd78eb08af525962d014f3" level="file">
+          <did>
+            <unittitle>Portraits of Percy Ryberg, undated</unittitle>
+            <container id="aspace_50411a5bbb08f31832e2d468e77452e6" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7f0c942bd7edfcbb8f7910aad12e10bf" level="file">
+          <did>
+            <unittitle>From professional activities</unittitle>
+            <unitdate type="inclusive">1934, 1971, 1983, undated</unitdate>
+            <container id="aspace_e1a4f908c58bb73b0317b2cad2c71c50" label="Mixed Materials"
+              type="box">7</container>
+            <container id="aspace_94e29b3aa6aac39421a056364bdb92b4"
+              label="Mixed Materials [D04657065X]" type="oversize-folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_498dd9508f1b9dcd491a85f7548a28fe" level="file">
+          <did>
+            <unittitle>Family portraits</unittitle>
+            <unitdate type="inclusive">1906-1913 and undated</unitdate>
+            <container id="aspace_89acc64c1c590337432e9d6ed91844bd" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_37f99c359f2b9dda25d4c6ea947f397a" level="file">
+          <did>
+            <unittitle>Wedding snapshots, Portrait of Barbara "Bobbie" Ryberg</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_95a3e293d8644d438a6170159e28fa95" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b71c2108ffa236a6ef981bc2e3b4a951" level="file">
+          <did>
+            <unittitle>Snapshots of Percy Ryberg</unittitle>
+            <unitdate type="inclusive">1969, 1986, 1987, and undated</unitdate>
+            <container id="aspace_becb5f4080f70edcd25c4f35a7cb4310" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_378880e38d8d282b0871e9ba7bc46f60" level="file">
+          <did>
+            <unittitle>Family snapshots</unittitle>
+            <unitdate type="inclusive">1967-1991 and undated</unitdate>
+            <container id="aspace_6f6b31d97b92e6e86b75f407fd79570d" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_acea79188e0cc701a372e3a82ae19712" level="file">
+          <did>
+            <unittitle>Snapshots, people</unittitle>
+            <container id="aspace_514c4663f87775f83ab391fe38841049" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ab7d80e6a78435dc8f8d19a5c93a249f" level="file">
+          <did>
+            <unittitle>Snapshots, landscapes</unittitle>
+            <container id="aspace_bc1e9b11d64bb88401f7d26b31a006ec" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_0aac9a44bcbc2264dd01a0daa8f90dc9" level="file">
+          <did>
+            <unittitle>Negatives, copies of certificates</unittitle>
+            <unitdate type="inclusive">1941</unitdate>
+            <container id="aspace_542bb79caa870cbf850fb2b80388cc66" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_08499f9c9c7628a05cc6b730cdb4f3ea" level="file">
+          <did>
+            <unittitle>Photograph album</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_14dc27c31e69be813cc728b97a7e12f9" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_cb62d7b3205799656f14117d3d236b97" level="file">
+          <did>
+            <unittitle>Photograph album</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_00dbf1114ea04fbb7fd79bbb788f33d2" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_94ed2117ead9542f74fddc6486c9f8bb" level="file">
+          <did>
+            <unittitle>Photograph album</unittitle>
+            <container id="aspace_4bcd52bc15dcb55a913c665383cd2bd1" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_1b1d188a4379521ce7f049ea5a2d4f63" level="file">
+          <did>
+            <unittitle>Photograph album</unittitle>
+            <container id="aspace_9760a01420de5343eea247e9265b871f" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_8f34a7c8f40111380641af0baab0f643" level="file">
+          <did>
+            <unittitle>Photograph album, Travel in Germany and United Kingdom</unittitle>
+            <unitdate type="inclusive">1937</unitdate>
+            <container id="aspace_79f710b25c6ba8482f9ceab026a5b8bb" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7858a4d7960df79bddce0a07505d71f2" level="file">
+          <did>
+            <unittitle>Family Portraits, oversize</unittitle>
+            <unitdate type="inclusive">1946, undated</unitdate>
+            <container id="aspace_311cb90abb98e337e98a95ebc58074a4" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_9aeeeedcf797264e5d483b0bae8fd127" level="file">
+          <did>
+            <unittitle>Photograph album</unittitle>
+            <container id="aspace_558852f06d1bb4ec3f828d020470f75d" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_690667590a28daba1e38b089dec25061" level="file">
+          <did>
+            <unittitle>Glass plate negatives</unittitle>
+            <container id="aspace_622ffa5f389477f0caf82a1fe2ff14d2" label="Mixed Materials"
+              type="box">10</container>
+            <container id="aspace_8d08e5e800cd1e0558506f87418f462e" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+          <scopecontent id="aspace_d356090d7afb05c063c5045b7b8565a3">
+            <head>Scope and Contents</head>
+            <p>Glass negatives bear images of Ryberg's diplomas and a military portrait of Ryberg
+              from 1942. Portrait has received treatment from Conservation.</p>
+          </scopecontent>
+          <phystech id="aspace_d129eeab0d24d69a4fdb4b388a3b4e54">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Because glass plates are fragile and vulnerable, digital surrogates are preferred for
+              research access. Please contact the Rubenstein staff before coming to use these
+              materials.</p>
+          </phystech>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

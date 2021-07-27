@@ -1,0 +1,2572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/bronfenbrennermartin/"
+         >bronfenbrennermartin</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Martin Bronfenbrenner Papers, 1939-1995 and undated
+                  <num>RL.00153</num>
+            </titleproper>
+            <author>Processed by: Danilo Da Silva, Chris Payne; machine-readable finding aid created
+               by: Danilo Da Silva, Paula Jeannet, and Chris Payne</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2010</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002423869</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:19:35
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Martin Bronfenbrenner papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Bronfenbrenner, Martin, 1914-1997</persname>
+         </origination>
+         <unitid>RL.00153</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">16.2 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1939/1995" type="inclusive">1939-1995 and undated</unitdate>
+         <physloc id="aspace_cbd50f534721fd5383df09a56edf223c">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_15d89f736378b8876909d79af65919f5">Economist on the faculty at Duke
+            University. The professional papers of Martin Bronfenbrenner span the years 1939 to 1995
+            and consist of correspondence, research files, memoranda, writings (published and
+            unpublished), teaching materials, reprints, clippings, and other papers, relating
+            chiefly to Bronfenbrenner's research and associations in the field of economics. Topics
+            in his research files, which make up the bulk of the collection, include income
+            distribution theory, economic development, Marxian and radical economics (including New
+            Left economics), labor economics, monetary economics, international economics, trade,
+            Japanese economy and Japanese history. The collection is organized into the following
+            series: Personal Files, Printed Material, Research and Writing Files, and Teaching
+            Material.</abstract>
+         <physdesc id="aspace_a9c8222cdf46ccd0670b990d26681d22">
+            <extent>Approximately 12,000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_8069f5f9c7861d9d65ab697fe1342968">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_9e4a647468a53661ff817081223106ac">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_ea827e3fc6f35af453fe2f133557c1ee">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_0a1a06feac444fcaccc5659982affbb7">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Martin Bronfenbrenner Papers, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_e9f1282c1c152aacf9be514811dde3d3">
+         <head>Provenance</head>
+         <p>The Martin Bronfenbrenner Papers were received by the David M. Rubenstein Rare Book
+            &amp; Manuscript Library as a gift in 1984, 1993, and 1997.</p>
+      </acqinfo>
+      <processinfo id="aspace_9490032102db980cfb580346855d125e">
+         <head>Processing Information</head>
+         <p>Processed by Danilo Da Silva, Chris Payne, June 2010</p>
+         <p>Encoded by Danilo Da Silva, Paula Jeannet, and Chris Payne, June 2010</p>
+         <p>The original accession from 1984 and additions 93-175, 97-071, and 97-134 were merged
+            into one collection, described in this finding aid.</p>
+      </processinfo>
+      <bioghist id="aspace_691ef9ba91e3bb74ab454dcfe8fc116b">
+         <head>Biographical Note</head>
+         <p>Martin Bronfenbrenner was born in Pittsburgh in 1914 and died in 1997 in Durham, North
+            Carolina, having just been made a Distinguished Fellow of the American Economics
+            Association. He received his Ph.D. in 1939 from the Universtiy of Chicago and after a
+            brief stint at the U.S. Treasury, enlisted in the U.S. Navy. He served in Japan during
+            and after the war, and had a role in the rebuilding of Japan's economy and its relations
+            with the U.S. Taking from his experiences in Japan, Bronfenbrenner published a volume of
+            fictional short stories entitled <title type="simple" render="italic">Tomioka Stories
+               from the Japanese Occupation.</title> From 1947 on, Bronfenbrenner worked exclusively
+            as a university professor. He served on the faculty of the University of Wisconsin
+            (1947-1957), Michigan State University (1957-1958), the University of Minnesota
+            (1958-1962), Carnegie Mellon (1962-1971), and Duke University where he held the Kenan
+            Chair from 1971 until 1984. In 1984, he moved to Japan as a professor of international
+            economics at the Aoyama Gakuin University in Tokyo, Japan, and in 1991 he returned to
+            Duke University where he taught until his death in 1997. Throughout this period
+            Bronfenbrenner's interests were very wide-ranging and included income distribution
+            theory, labor economics, Marxian and radical economics, development, Japanese economics
+            and history, comparative economic systems, monetary theory and the history of economics.
+            Bronfenbrenner served as vice-president of the American Economic Association
+            (1976-1977), president of the Southern Economic Association (1979-1980), and president
+            of the History of Economics Society (1982-1983).</p>
+      </bioghist>
+      <scopecontent id="aspace_147952fd728f13a3502c81c56d871bc1">
+         <head>Collection Overview</head>
+         <p>The professional papers of Martin Bronfenbrenner span the years 1939 to 1995 and consist
+            of correspondence, research files, memoranda, writings (published and unpublished),
+            teaching materials, reprints, clippings, and other papers, relating chiefly to
+            Bronfenbrenner's research and associations in the field of economics. The collection is
+            organized into the following series: <emph render="bold">Personal Files, Published
+               Material, Research and Writing Files,</emph> and <emph render="bold">Teaching
+               Material</emph>. The Personal Papers Series includes an unpublished autobiography, a
+            family history, and records of Bronfenbrenner's own U.S. loyalty hearings from
+            1954-1955. Files in the Teaching Material Series chiefly contain syllabi, course notes,
+            and exams dating from Bronfenbrenner's time at Carnegie, Duke, and in Japan, while the
+            Printed Material files mainly house reprints of many of his articles. The Research Files
+            Series, divided into topical subseries, makes up the bulk of the collection, including
+            Bronfenbrenner's research notes, articles, reprints, correspondence, lectures, and
+            drafts of Bronfenbrenner's writings; the materials offer a rich source of unique
+            research material on topics of interest to Bronfenbrenner such as income distribution
+            theory, economic development, Marxian and radical economics (including New Left
+            economics), labor economics, monetary economics, international economics, trade,
+            Japanese economy and Japanese history. The Research Files also contains a subseries of
+            research folders linked to individual economists in whose work Bronfenbrenner had an
+            interest, or with whom he corresponded, or both; names include Adelman, Baumol,
+            Friedman, Leijonhufvud, Minsky, Samuelson, Spengler, Solow, and Viner, with two folders
+            of material on Kei Shibata, who wrote on Marxian economics and economic equilibrium
+            during the 1930s.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">United States -- Politics and government -- 1953-1961</geogname>
+         <subject source="lcsh">Income distribution</subject>
+         <subject source="lcsh">Friedman, Milton, 1912-2006</subject>
+         <subject source="lcsh">International trade</subject>
+         <subject source="lcsh">Inflation (Finance)</subject>
+         <subject source="lcsh">Economics -- History -- 20th century</subject>
+         <subject source="lcsh">Economists -- Correspondence</subject>
+         <subject source="lcsh">Economists -- United States</subject>
+         <subject source="lcsh">Economics -- Study and teaching (Higher) -- United States</subject>
+         <geogname source="lcsh">China -- Economic conditions</geogname>
+         <subject source="lcsh">Chicago School of Economics</subject>
+         <subject source="lcsh">Demand for money</subject>
+         <subject source="lcsh">Labor economics</subject>
+         <geogname source="lcsh">Japan -- History</geogname>
+         <geogname source="lcsh">Japan -- Economic conditions</geogname>
+         <subject source="lcsh">International economic relations</subject>
+         <subject source="lcsh">Monetary policy</subject>
+         <subject source="lcsh">Marxian economics</subject>
+         <subject source="lcsh">Macroeconomics</subject>
+         <subject source="lcsh">Loyalty oaths -- United States</subject>
+         <geogname source="lcsh">United States -- Foreign economic relations -- Japan</geogname>
+         <geogname source="lcsh">United States -- Economic conditions</geogname>
+         <subject source="lcsh">Unemployment -- Effect of inflation on</subject>
+         <subject source="lcsh">Theory of distributions (Functional analysis)</subject>
+         <genreform source="aat">Clippings (information artifacts)</genreform>
+         <persname source="ingest">Adelman, Morris Albert</persname>
+         <persname source="ingest">Viner, Jacob, 1892-1970</persname>
+         <persname source="ingest">Spengler, Joseph J. (Joseph John), 1902-1991</persname>
+         <persname source="ingest">Leijonhufvud, Axel</persname>
+         <persname source="ingest">Minsky, Hyman P.</persname>
+         <persname source="ingest">Samuelson, Paul A. (Paul Anthony), 1915-2009</persname>
+         <persname source="ingest">Solow, Robert M.</persname>
+         <persname source="ingest">Baumol, William J.</persname>
+         <famname source="ingest">Bronfenbrenner family</famname>
+         <persname source="ingest">Bronfenbrenner, Martin, 1914-1997</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_gaj" level="series">
+            <did>
+               <unittitle>Personal Files Series, 1939-1983 and undated</unittitle>
+               <physdesc id="aspace_3026b6b26dafef10c9e8f43b439d0cbb">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_7bf0e2297dd631508b0d14f6fc421584">
+               <head>Scope and Contents note</head>
+               <p>Contains files maintained by Bronfenbrenner which include his unpublished
+                  dissertation, curriculum vitae, family correspondence, personal office files, and
+                  a family history and family tree from 1977. There are two folders dedicated to
+                  Bronfenbrenner's loyalty hearings in 1954 to 1955 when Bronfenbrenner's commitment
+                  to the United States was publicly questioned as was his interest in Marxian
+                  economics. There is one folder of short humorous poems written by Bronfenbrenner
+                  throughout his career, often using the pseudonym "The Beardless Beatnik."
+                  Bronfenbrenner's unpublished autobiography is also included in this series.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_77n" level="file">
+               <did>
+                  <unittitle>Correspondence, 1972-1983</unittitle>
+                  <container id="aspace_d2122d99c9487c9a4c57c3ec94d7340c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_di9" level="file">
+               <did>
+                  <unittitle>Doctoral thesis, <title render="doublequote">Monetary theory and
+                        general equilibrium,</title> 1939</unittitle>
+                  <container id="aspace_e54ae2d91dbdf52fa5e663dd60b23b0e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_x4w" level="file">
+               <did>
+                  <unittitle>Family history, 1973</unittitle>
+                  <container id="aspace_5d621cd48c5cebc17a5b8309ddd37a97" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_fh7" level="file">
+               <did>
+                  <unittitle>Loyalty hearing, 1954-1955</unittitle>
+                  <physdesc id="aspace_7c1336f9c3fe3eb3fc7d3ca0f09d90ec">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b8f2945b9c1243bdaf1eb6157fb4703c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_mq2" level="file">
+               <did>
+                  <unittitle>Personal office files, 1971-1983</unittitle>
+                  <physdesc id="aspace_55be2b7499f7441c50a49f80f142977f">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f638bac0a056a28996f3a0ce50e25bb2" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_h74" level="file">
+               <did>
+                  <unittitle>Curriculum vitae, 1977-1982, undated</unittitle>
+                  <container id="aspace_01a3b0961a499d11dfe4508a9ffac08c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_h4t" level="file">
+               <did>
+                  <unittitle>Scurrilous verse, undated</unittitle>
+                  <container id="aspace_50e06c97d1289ade93447305be4847a5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_ove" level="file">
+               <did>
+                  <unittitle>Unpublished autobiography, undated</unittitle>
+                  <container id="aspace_501ae3d025fbaf8101d3d53653dac596" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref25_6oj" level="series">
+            <did>
+               <unittitle>Printed Material Series, 1939-1995</unittitle>
+               <physdesc id="aspace_8ac546f18335653da447c42ac774e34e">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_5cc0fabd323b34781db995468e17e79c">
+               <head>Scope and Contents note</head>
+               <p>Chiefly contains offprints of journal articles and journal issues containing
+                  articles by Brofenbrenner. Additionally, there are individual copies of
+                  Bronfenbrenner's collection of short stories <title type="simple" render="italic"
+                     >Tomioko Stories</title>, recalling Bronfenbrenner's time in Japan when it was
+                  under American occupation, as well as <title type="simple" render="italic">Is the
+                     Business Cycle Obsolete?</title>, edited by Bronfenbrenner. The contents of the
+                  boxes are arranged in date order.</p>
+            </scopecontent>
+            <c02 id="aspace_ref27_ceo" level="file">
+               <did>
+                  <unittitle>Bronfenbrenner reprints and publications</unittitle>
+                  <container id="aspace_ab2a7edfac0b481b4b1f8191faeb57f8" label="Mixed Materials"
+                     type="box">2-5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref29_mww" level="series">
+            <did>
+               <unittitle>Research Files Series, 1939-1995</unittitle>
+               <physdesc id="aspace_de9ecce0eddf1bd958f263dab4266fd4">
+                  <extent>18 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_667b9055c64ab9ad8d357572d2b10d79">
+               <head>Scope and Contents note</head>
+               <p>Representing the main component of the Bronfenbrenner Papers, the series is
+                  subdivided into the following subseries: Development, Heterodox Topics, Income
+                  Distribution, Orthodox Topics, People, and Japan.</p>
+            </scopecontent>
+            <c02 id="aspace_ref31_s9n" level="subseries">
+               <did>
+                  <unittitle>Development Subseries, 1954-1990</unittitle>
+                  <physdesc id="aspace_fd0491ccf648658c0c336e8f604cb821">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+               </did>
+               <scopecontent id="aspace_a6beebf2bdf1d5ae3f209c838d74c4a5">
+                  <head>Scope and Contents note</head>
+                  <p>Folders house materials relating to one of Bronfenbrenner's ongoing interests,
+                     economic development, focused mainly on developing Asian countries or regions.
+                     The files contains notes, speeches, draft and published papers written by
+                     Bronfenbrenner, papers written by other authors relevant to Bronfenbrenner's
+                     research, relevant correspondence, newspaper articles, and other miscellaneous
+                     documents. Arranged alphabetically by original folder title.</p>
+               </scopecontent>
+               <c03 id="aspace_ref33_p8r" level="file">
+                  <did>
+                     <unittitle>China after Mao, 1982-1983</unittitle>
+                     <container id="aspace_62b575e60baabfb05e3866aa015f646f" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_6d6" level="file">
+                  <did>
+                     <unittitle>Committee for Economic Development: productivity, 1981</unittitle>
+                     <container id="aspace_c4dbf0c7fe7fdda3b3a2babd1c07e3a2" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref35_4h9" level="file">
+                  <did>
+                     <unittitle>Development programming, Malaysia, 1969-1973</unittitle>
+                     <container id="aspace_80c3fa4e432dba5c8cff66fdd32830f2" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_ylc" level="file">
+                  <did>
+                     <unittitle>Development profiles: hard and soft development,
+                        1963-1967</unittitle>
+                     <container id="aspace_9da68ae94d187b3729f907a7c4311b50" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_915" level="file">
+                  <did>
+                     <unittitle>Exports and foreign capital, 1968, 1979</unittitle>
+                     <container id="aspace_347f0e07038e0a4dbe33b687d9afd2a2" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_8c3" level="file">
+                  <did>
+                     <unittitle>IEA international conference in Tokyo, 1977</unittitle>
+                     <container id="aspace_16b29b663bc552529564bdc86d4e9f38" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_isi" level="file">
+                  <did>
+                     <unittitle>Indian sub-continent, 1961</unittitle>
+                     <container id="aspace_2678c39a6aece725a4683c20bfa1e8ee" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_eyp" level="file">
+                  <did>
+                     <unittitle>Indo-China, 1954, 1965</unittitle>
+                     <container id="aspace_a44357c218ba124f746c3c747009ee92" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_7o1" level="file">
+                  <did>
+                     <unittitle>Indonesia, 1962</unittitle>
+                     <container id="aspace_e2762719960cfea7396b78e97db77b95" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_0xu" level="file">
+                  <did>
+                     <unittitle>Korea, 1963, 1970</unittitle>
+                     <container id="aspace_314509fdefe4c86d3e20d0de63c21bc6" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_4pg" level="file">
+                  <did>
+                     <unittitle>Mahalanobis model, 1960-1962</unittitle>
+                     <physdesc id="aspace_8d42f996c9739b236ab5cc6f958d3638">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c1f9a02a8d0b74b8c3a2340283e177df" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_hz9" level="file">
+                  <did>
+                     <unittitle>NIEO, 1976-1978</unittitle>
+                     <container id="aspace_108ea5a1eba7f4fa6a29dda51ecfd415" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_i6k" level="file">
+                  <did>
+                     <unittitle>Notes on foreign aid, 1957</unittitle>
+                     <container id="aspace_a49427f7136abb9adbf287c18d2cccfe" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_50c" level="file">
+                  <did>
+                     <unittitle>Riots and hunger, 1968-1969</unittitle>
+                     <container id="aspace_8ca59b0cc5a84d6dce1ed93cb0591fad" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_oiq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Slobbovia meets the market,</title>
+                        1990</unittitle>
+                     <container id="aspace_8ec8e0e880fd2a388b0c3d23bee3ecb2" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_1gq" level="file">
+                  <did>
+                     <unittitle>Taiwan, 1969-72</unittitle>
+                     <container id="aspace_0c16feceff6136ceb8c84f98628754fe" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_bml" level="file">
+                  <did>
+                     <unittitle>Turkey, 1978-1981</unittitle>
+                     <container id="aspace_5cfd6d377f91311cd61546ed5e28cb83" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_1qh" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">The terms of convergence,</title>
+                        1982</unittitle>
+                     <container id="aspace_74283b295ec71e162ac3d6196440a282" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_419" level="file">
+                  <did>
+                     <unittitle>UNESCO paper, 1975</unittitle>
+                     <container id="aspace_050c1b93d59187254eaf09dfc524d59a" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_mtw" level="file">
+                  <did>
+                     <unittitle>United Nations Conference on Trade and Development (UNCTAD):
+                        Dependency, 1976-1977</unittitle>
+                     <container id="aspace_271ff1d23aaa41511b07eb3cd46ef11f" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_var" level="file">
+                  <did>
+                     <unittitle>USSR: general impressions, 1972, 1975</unittitle>
+                     <container id="aspace_35d81463f2bd2f5659fe0f971bc6f42d" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref55_ndv" level="file">
+                  <did>
+                     <unittitle>U.S.-USSR relations, 1975-1976</unittitle>
+                     <container id="aspace_a776f0f96dff88a9f6618ac10183160f" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref57_2cs" level="subseries">
+               <did>
+                  <unittitle>Heterodox Topics Subseries, 1953-1991 and undated</unittitle>
+                  <physdesc id="aspace_1221e2f1ac5f68377bb6bf9b003bf93c">
+                     <extent>5 boxes</extent>
+                  </physdesc>
+               </did>
+               <scopecontent id="aspace_25c4895d8801aa6547620f3cd8d52eef">
+                  <head>Scope and Contents note</head>
+                  <p>Bronfenbrenner conducted research, wrote papers and corresponded on topics
+                     which fell outside the range of traditional economic subject areas. In
+                     particular, Bronfenbrenner had a career-long interest in the work of Marx,
+                     Marxian economics, and radical political economy. While always critical of
+                     these approaches to economics, he was a strong proponent of academic freedom
+                     and respected Marxist approaches to economic analysis. Other topics include
+                     anti-Semitism, Reagonomics, black economics, futurology, and social
+                     responsibility. The folders contain notes, speeches, draft and published papers
+                     written by Bronfenbrenner, papers written by other authors relevant to
+                     Bronfenbrenner's research, correspondence, newspaper articles, and other
+                     miscellaneous papers. Ordered alphabetically by original folder title.</p>
+               </scopecontent>
+               <c03 id="aspace_ref59_sl6" level="file">
+                  <did>
+                     <unittitle>Alienation, 1971-1973</unittitle>
+                     <container id="aspace_612f22a8fcbcaee0066ed5738f198f0f" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_vdr" level="file">
+                  <did>
+                     <unittitle>Anti-economics, 1965, 1972</unittitle>
+                     <container id="aspace_e3e5e63ad0be8277bdcddac829df1ae0" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_2dx" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">The anti-semite Jew, a useful citizen?,</title>
+                        1966</unittitle>
+                     <container id="aspace_2cf621f4562a657022d27d9325649778" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_h23" level="file">
+                  <did>
+                     <unittitle>Appeal of confiscation, 1966, undated</unittitle>
+                     <container id="aspace_08ba9de5233cac5ea279a018a2997a90" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_khg" level="file">
+                  <did>
+                     <unittitle>Baran paper: Academic freedom, 1965-1971, undated</unittitle>
+                     <container id="aspace_bb19b90d7d39c4f0d1e14d443cb5f671" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_o7u" level="file">
+                  <did>
+                     <unittitle>Black economics, 1971</unittitle>
+                     <container id="aspace_1e09ea5822dc9f49d831698b2ef96d13" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_49f" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">A Calculus Suicide,</title> 1977</unittitle>
+                     <container id="aspace_77a5d7f849843f6a0192871bd6e76b61" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_808" level="file">
+                  <did>
+                     <unittitle>Comparative systems, 1972-1979</unittitle>
+                     <container id="aspace_2bdef88e4dfc5cb35646a4f3e9226927" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_mz2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Cooperative democracy: decentralized workers'
+                           management,</title> 1969</unittitle>
+                     <container id="aspace_46872552381e44e5c4e7dbb62e9c2497" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref68_oy0" level="file">
+                  <did>
+                     <unittitle>College of H and SS, 1968-1969</unittitle>
+                     <container id="aspace_3fad45709b5b9a07c515df7bf006801b" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_dk4" level="file">
+                  <did>
+                     <unittitle>Disarmament, 1961-1963</unittitle>
+                     <container id="aspace_cb88fe35a8fd278b480facb2f68a3ace" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref70_osm" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Do economists matter?,</title> 1975</unittitle>
+                     <container id="aspace_e962cb66be6d1fa023521d1b1a4c9906" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_dyf" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Economics as dentistry,</title> 1991</unittitle>
+                     <container id="aspace_fc6558c8fdd67a88217a21959b0e148d" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref72_e3w" level="file">
+                  <did>
+                     <unittitle>Economics in the near future, 1989</unittitle>
+                     <container id="aspace_7f044ef57984339ab17c405dd34ea3ee" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_cf2" level="file">
+                  <did>
+                     <unittitle>Futurology, 1973-1978</unittitle>
+                     <container id="aspace_07f60ff0c481febe9fbd7d7fd23fdaa4" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+                  <processinfo id="aspace_6168616a17d24a359df0d938fc4f517e">
+                     <head>Processing Information note</head>
+                     <p>[Item removed to Oversize material series.]</p>
+                  </processinfo>
+               </c03>
+               <c03 id="aspace_ref75_ave" level="file">
+                  <did>
+                     <unittitle>Hollis and Nell: methodology review, 1975-1977</unittitle>
+                     <container id="aspace_04b1a726600dbea7269c353d21ea7886" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref76_yz3" level="file">
+                  <did>
+                     <unittitle>Institutional economics, 1985</unittitle>
+                     <container id="aspace_f96e65104dc4cb5d6d3db5e7f7bfeeef" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref77_nq4" level="file">
+                  <did>
+                     <unittitle>Labour front, undated</unittitle>
+                     <container id="aspace_906a2023ce4abcdc21a56e3d084c534c" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref78_j27" level="file">
+                  <did>
+                     <unittitle>MacArthur memorial, 1976-1978, undated</unittitle>
+                     <container id="aspace_0a4892771241a7750317e23c52dfff2e" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_3pr" level="file">
+                  <did>
+                     <unittitle>Marriage market as a market, 1971-1973</unittitle>
+                     <container id="aspace_b307224067d84fb46c826c1920f09304" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_rlm" level="file">
+                  <did>
+                     <unittitle>Marxist capital consumption ratio, 1966-1968</unittitle>
+                     <container id="aspace_306761395ebdc2ee8ec6f038721cc2d0" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_piw" level="file">
+                  <did>
+                     <unittitle>Marxian distribution theory, undated</unittitle>
+                     <container id="aspace_4f49a529f8837ea233ec26342c0559de" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_wk3" level="file">
+                  <did>
+                     <unittitle>Marxian economics, 1963-1971, 1974</unittitle>
+                     <physdesc id="aspace_e39c9e28913f06aed90f2cdbfd756964">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_6e2549af6b783bd1fa6cbd5c2d461336" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_duh" level="file">
+                  <did>
+                     <unittitle>McCarthyism, 1953-1962</unittitle>
+                     <container id="aspace_c28cecd39e6c206a2f7d17c52ec5d06b" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+                  <processinfo id="aspace_7facaa13efb09ee5b317d4d2b3ac9929">
+                     <head>Processing Information note</head>
+                     <p>[Item removed to Oversize material series.]</p>
+                  </processinfo>
+               </c03>
+               <c03 id="aspace_ref86_4i0" level="file">
+                  <did>
+                     <unittitle>Meritocracy, 1974</unittitle>
+                     <container id="aspace_7a55ddd410336cd7457a661b9be3c1b1" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_t3s" level="file">
+                  <did>
+                     <unittitle>Methodology, 1962-1965</unittitle>
+                     <container id="aspace_2a22e80973f6cf7ec43eb5a582fca3f7" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref88_47h" level="file">
+                  <did>
+                     <unittitle>Miscellaneous essays, 1980, 1985, undated</unittitle>
+                     <container id="aspace_c8987328f88648ec9205313b66a4e894" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref89_jga" level="file">
+                  <did>
+                     <unittitle>Miscellaneous radicalism, 1969, undated</unittitle>
+                     <container id="aspace_7cb5361eac292c14b8e586dff647e87b" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref90_8qb" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">The new American system of political
+                           economy,</title> 1989</unittitle>
+                     <container id="aspace_56b1242ee3b290f343243381365f7b0d" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref91_wqf" level="file">
+                  <did>
+                     <unittitle>New Left conference, 1973-1974</unittitle>
+                     <container id="aspace_e3828bbf859c6021e601bd02a91c06d5" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref92_s8q" level="file">
+                  <did>
+                     <unittitle>New Left ideology, 1971-1973</unittitle>
+                     <container id="aspace_e01c1ca0599eb4523bf4d1d5cb8435d1" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref93_xkr" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">On Malthusian economics,</title>
+                        1979</unittitle>
+                     <container id="aspace_0d62279e863168695318a88365f72d85" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref94_qa1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Poetry, pushpin, utility,</title> 1975,
+                        undated</unittitle>
+                     <physdesc id="aspace_33d9c3b4aa5e91df20a1969707077244">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_3d2fcd63f3dce0958e4d79daf524d2d7" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_53v" level="file">
+                  <did>
+                     <unittitle>Psychiatric issues, 1953, 1962-1967</unittitle>
+                     <container id="aspace_c0dda06fa321709e3b14471ce55a99e2" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref97_fn5" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Quesnayan algebra,</title> 1986,
+                        undated</unittitle>
+                     <container id="aspace_c3e08e00fdc769ee7ec4ce4183440c09" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref98_6nq" level="file">
+                  <did>
+                     <unittitle>Radical political economy, 1968-1971, undated</unittitle>
+                     <physdesc id="aspace_ec3ffe99ab9abb42cb1773ba2d3db0fa">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1262d1c10cbcc5e87610db62c62c8261" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_gmw" level="file">
+                  <did>
+                     <unittitle>Reagonomics, 1981, undated</unittitle>
+                     <physdesc id="aspace_0ba9a28071b5e63dd9fe18caafbd02e7">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_8423aa356151a39b6b43cbd75f23d373" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref102_v4n" level="file">
+                  <did>
+                     <unittitle>Revival of rationing/economic stagnation, 1964-1969,
+                        undated</unittitle>
+                     <container id="aspace_1e89754b5b3cee1f25c0612aaa82cf3a" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref103_xzg" level="file">
+                  <did>
+                     <unittitle>Revolutions in economic thought, 1966-1970</unittitle>
+                     <container id="aspace_50b66a7dd6cf26044fdee762bc1db400" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref104_zah" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Roosevelt on economic humanism and market
+                           socialism,</title> 1969-1971</unittitle>
+                     <container id="aspace_5c82eac6c5512c8ef2aa078efc2a1bed" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref105_hwb" level="file">
+                  <did>
+                     <unittitle>Schumpeter, 1980</unittitle>
+                     <container id="aspace_872dee34767eec711fed6a48768bbbfd" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref106_zev" level="file">
+                  <did>
+                     <unittitle>Short essays, miscellaneous topics, 1980-1981, undated</unittitle>
+                     <container id="aspace_443132f95544421f96ea19ddaadc93c5" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref107_b2x" level="file">
+                  <did>
+                     <unittitle>Socialist designs, 1977</unittitle>
+                     <container id="aspace_d0324bac73ed41f97724b2378da6cc43" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref108_173" level="file">
+                  <did>
+                     <unittitle>Social responsibility of business/ugly corporate America</unittitle>
+                     <container id="aspace_a93e74687e9e2fce6e0255b1564d876d" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref109_em1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Statistical anti-semitism, Jewish and Gentile,
+                           1966,</title> undated</unittitle>
+                     <container id="aspace_953ca228dbba0d25b8f57dcabff5d517" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref110_iw0" level="file">
+                  <did>
+                     <unittitle>Student indiscipline, 1968-1970</unittitle>
+                     <physdesc id="aspace_97139534af7425cbf12116265f284b7a">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_83b9a9b3dea4ab25f73dc6f289eecb5c" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+                  <processinfo id="aspace_48d8dc746706c69eaead2f02687d0173">
+                     <head>Processing Information note</head>
+                     <p>[Item removed to Oversize material series.]</p>
+                  </processinfo>
+               </c03>
+               <c03 id="aspace_ref113_gxs" level="file">
+                  <did>
+                     <unittitle>Technological change, 1966, undated</unittitle>
+                     <container id="aspace_8bb2da4fb621e0c2fcdccf7079e1bf42" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref114_ym2" level="file">
+                  <did>
+                     <unittitle>Tenure, 1971-1976</unittitle>
+                     <container id="aspace_f57093a3ea24a8495cc9bee6fc8fa2f6" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref115_62u" level="file">
+                  <did>
+                     <unittitle>U.S. economic ideology, 1957-1958, 1977, undated</unittitle>
+                     <container id="aspace_2f92def9f42a2e53b81366dd291cb83c" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref116_ebl" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Vicissitudes of Marxian economics,</title>
+                        1970</unittitle>
+                     <container id="aspace_66986e4a1c0800d06eb0e0c2783281cf" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref117_5w6" level="file">
+                  <did>
+                     <unittitle>Welfare state, 1975-1976</unittitle>
+                     <container id="aspace_756a15de068b914e409fa9e671b0e4cd" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref118_tbi" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">What the radical economists are saying,</title>
+                        1973, undated</unittitle>
+                     <container id="aspace_c92da83b5558133af9f907e7b70c246e" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref119_fdi" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Why Johnny can't think straight,</title> 1982,
+                        undated</unittitle>
+                     <container id="aspace_0bade95579bf579ee57540f914ee4b08" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref121_e55" level="subseries">
+               <did>
+                  <unittitle>Income Distribution Subseries, 1940s-1980s</unittitle>
+                  <physdesc id="aspace_579caa943f3298dfbec5d40037130398">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+               </did>
+               <scopecontent id="aspace_9a0208996883088b6f54ee5503e95b23">
+                  <head>Scope and Contents note</head>
+                  <p>Bronfenbrenner's interest and research in income distribution spanned his
+                     entire professional career. Folders contain notes, speeches, drafts and
+                     publications written by Bronfenbrenner, papers written by others,
+                     correspondence, clippings, and other miscellaneous documents. Arranged
+                     alphabetically by original folder title.</p>
+               </scopecontent>
+               <c03 id="aspace_ref123_agk" level="file">
+                  <did>
+                     <unittitle>Alternative approaches, 1970s, 1980s</unittitle>
+                     <physdesc id="aspace_d73d01c93196937e62db6c4e3989bb79">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0ca9c1eb2dcd0ab09e1728cee4f2672d" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref125_leo" level="file">
+                  <did>
+                     <unittitle>American inequality, 1970s, 1980s</unittitle>
+                     <container id="aspace_519ffdc8abab3e2f1122d3a8e5d2414e" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_q90" level="file">
+                  <did>
+                     <unittitle>Automation, 1964</unittitle>
+                     <container id="aspace_e8e306007cdf42acbe535b3a0000df8f" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref127_kkv" level="file">
+                  <did>
+                     <unittitle>Corrections on income distribution theory, 1960s, 1970s</unittitle>
+                     <physdesc id="aspace_bb8433411f23cf63bf82b6bc2c5873e3">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f0ff37ff480692d2895feed5f188b338" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_ktl" level="file">
+                  <did>
+                     <unittitle>Economic growth, 1959</unittitle>
+                     <container id="aspace_04eeb496836bde6e66b088044bcc9295" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref130_phz" level="file">
+                  <did>
+                     <unittitle>Ethical issues, 1960s, 1970s</unittitle>
+                     <physdesc id="aspace_532093d2165271ce7943bbdb81ac6fc7">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_08bfd0f8555ab5b2a3c61864e8a417af" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref132_0k4" level="file">
+                  <did>
+                     <unittitle>Ethics and justice, 1970s</unittitle>
+                     <container id="aspace_4eac970340c6d42fd4a4db61185a163f" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref133_u3b" level="file">
+                  <did>
+                     <unittitle>Foreign distributions, 1960s</unittitle>
+                     <container id="aspace_a07c0a5ea6110dc4f4d44630e3ff7f62" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref134_r3y" level="file">
+                  <did>
+                     <unittitle>Growth rates of income and wealth, 1960s</unittitle>
+                     <container id="aspace_ebca13a9a9c9a5736ff8508d64107e51" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref135_1nw" level="file">
+                  <did>
+                     <unittitle>Guidelines and guideposts, 1960s</unittitle>
+                     <container id="aspace_b382ab096bb6dbb7d00846aa8c086e62" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref136_vn7" level="file">
+                  <did>
+                     <unittitle>Heterodox approaches to income distribution, undated</unittitle>
+                     <container id="aspace_1fae70290b3c27280f90f9ed4e05aab2" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref137_hgn" level="file">
+                  <did>
+                     <unittitle>Incidence of collective bargaining, 1973</unittitle>
+                     <container id="aspace_c1ca32c9e67f54d7c70dbb243411b840" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref138_8o8" level="file">
+                  <did>
+                     <unittitle>Kyoto data, 1980</unittitle>
+                     <container id="aspace_93bab5b7dc8c6f4d48b7637926898f2a" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref139_s10" level="file">
+                  <did>
+                     <unittitle>Lydall book</unittitle>
+                     <container id="aspace_54226004a9d0a9cf36316209a38a3177" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref140_jg4" level="file">
+                  <did>
+                     <unittitle>Methodology, 1940s, 1950s</unittitle>
+                     <container id="aspace_0a42ed0c86cbea3a0faca89d0d898390" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref141_m4r" level="file">
+                  <did>
+                     <unittitle>Microeconomic issues, 1960s, 1970s</unittitle>
+                     <container id="aspace_9bd8c39a66dd5c54b2a3bc867496f884" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref142_spd" level="file">
+                  <did>
+                     <unittitle>Neoclassical macro distribution theory, 1960s</unittitle>
+                     <container id="aspace_7d3cceb3b1a04671a9481539cb3ad62f" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref143_mes" level="file">
+                  <did>
+                     <unittitle>Other topics on distribution, 1970s</unittitle>
+                     <container id="aspace_14925eaf767822ef2e214331a0e213e7" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref144_t5b" level="file">
+                  <did>
+                     <unittitle>Poverty, 1980s</unittitle>
+                     <container id="aspace_72bfa70b3fd642ab764343d56e858441" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref145_azd" level="file">
+                  <did>
+                     <unittitle>Production functions, 1960s, 1970s</unittitle>
+                     <container id="aspace_ec2a80d45d22c0b8708413babbf89a6f" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref146_cys" level="file">
+                  <did>
+                     <unittitle>Stieglitz paper, 1968</unittitle>
+                     <container id="aspace_e6c3d02f9557b557a1e3ae33baf84afe" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref147_a9d" level="file">
+                  <did>
+                     <unittitle>Technological progress, 1966-1967</unittitle>
+                     <container id="aspace_661e580ecfa37bb2b3a86012a3fbbee6" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref148_zlk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Ten issues on distribution theory,</title>
+                        1970s</unittitle>
+                     <container id="aspace_0a4060fc8370c267210bc5838b2b7898" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref149_uwm" level="file">
+                  <did>
+                     <unittitle>U.S. income distribution, 1940s, 1960s</unittitle>
+                     <container id="aspace_e7c321b8c444281ab09986a0a33eefee" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_d8m" level="file">
+                  <did>
+                     <unittitle>Wages and employment, 1968</unittitle>
+                     <container id="aspace_e4d50194a1d5213972ce6182d69bf1cb" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref151_2vf" level="file">
+                  <did>
+                     <unittitle>Wage differentials, 1970s</unittitle>
+                     <container id="aspace_c9bd3d39a9fc9d12d381fa625d833cbc" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref153_34q" level="subseries">
+               <did>
+                  <unittitle>Japan Material Subseries, 1940s-1990s and undated</unittitle>
+               </did>
+               <scopecontent id="aspace_3e72320eb7968f92926f0cc6f0d496fc">
+                  <head>Scope and Contents note</head>
+                  <p>After the Second World War, Bronfenbrenner played an important consultative
+                     role in economic relations between the U.S. and Japan. His work and research on
+                     the Japanese economy during this period and in subsequent years cover almost
+                     all relevant economic issues, with emphasis on development economics, banking,
+                     and trade. The series also houses a published collection of short stories
+                     regarding his experience in Japan. Formats include research notes, speeches,
+                     writings by Bronfenbrenner, papers written by other authors relevant to his
+                     research, correspondence, newspaper articles, and other items. The folders are
+                     ordered alphabetically by original title.</p>
+               </scopecontent>
+               <c03 id="aspace_ref154_o6m" level="file">
+                  <did>
+                     <unittitle>Academics in Japan, 1974-1977</unittitle>
+                     <container id="aspace_641e91a444579972ead44162b17f6a36" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref155_hn5" level="file">
+                  <did>
+                     <unittitle>Banking system, 1969</unittitle>
+                     <container id="aspace_5ca12c7e8adfab9962cc0a6134e8b202" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref156_rg0" level="file">
+                  <did>
+                     <unittitle>Class notes</unittitle>
+                     <container id="aspace_c3e4e497277e5cd890672344842cbf65" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_tva" level="file">
+                  <did>
+                     <unittitle>Conferences, 1961-1963</unittitle>
+                     <container id="aspace_d32004011fe29a6bdd1568f8dbfb1951" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_uaz" level="file">
+                  <did>
+                     <unittitle>Consumer sovereignty, 1989</unittitle>
+                     <container id="aspace_7ae0d9bce449edc9af1184f42ff55a69" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref159_4lk" level="file">
+                  <did>
+                     <unittitle>Development economics, 1960s</unittitle>
+                     <container id="aspace_5897e58978b6af05825fc35476bf539b" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref160_3ey" level="file">
+                  <did>
+                     <unittitle>Economic aspects of occupation, 1960s and 1970s</unittitle>
+                     <physdesc id="aspace_452e46c8e65193ada3d4d69779c77f2e">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_31406b8d2652d0869eda2f11a2cab49e" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref162_syn" level="file">
+                  <did>
+                     <unittitle>Economic growth, 1960s and 1974</unittitle>
+                     <physdesc id="aspace_21d42956eb9e9c543ee3ba40121783f4">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_3e81557a5fb1fb14e302576f38275480" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_tha" level="file">
+                  <did>
+                     <unittitle>Economic history of occupation, 1970s</unittitle>
+                     <container id="aspace_ba5ed1fe76cc1ddbec283943eca59c34" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref165_l72" level="file">
+                  <did>
+                     <unittitle>Economic thought, 1955, 1967-1968</unittitle>
+                     <container id="aspace_fcdac3cacf2038e0794ccee940626107" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref166_102" level="file">
+                  <did>
+                     <unittitle>Education, 1987</unittitle>
+                     <container id="aspace_f6e2361b8036a4b16b8f93f1e297b05f" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref167_gwr" level="file">
+                  <did>
+                     <unittitle>Galbrathian economy, 1970</unittitle>
+                     <container id="aspace_0ed123daec0b1e17f0c96e035218a1ac" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref168_mi6" level="file">
+                  <did>
+                     <unittitle>Growth and recession, 1990s</unittitle>
+                     <container id="aspace_f1a5313a92aa12704ef90c17579c899a" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref169_tp1" level="file">
+                  <did>
+                     <unittitle>Harry Johnson memorial lecture, 1978</unittitle>
+                     <container id="aspace_8933994e94b70b998fd055674fcba239" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref170_9dv" level="file">
+                  <did>
+                     <unittitle>History of Japan, 1989</unittitle>
+                     <container id="aspace_d642cbfbfd6ed4f292118abfbc28c001" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref171_jlx" level="file">
+                  <did>
+                     <unittitle>Income distribution, 1960s</unittitle>
+                     <container id="aspace_faeadd6166f71cce7e6a7a5d5fc5621f" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref172_9zt" level="file">
+                  <did>
+                     <unittitle>Industrial revolution, 1968-1969</unittitle>
+                     <container id="aspace_fdb567d830283511084065d673a9de57" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref173_toe" level="file">
+                  <did>
+                     <unittitle>Japan Foundation, 1970s</unittitle>
+                     <container id="aspace_801057c3fb7dfbebebf3a9f9219beaae" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref174_pc7" level="file">
+                  <did>
+                     <unittitle>Japanese universities, 1960s</unittitle>
+                     <container id="aspace_f6825c3bde0417f2bfb163c64b8e3c5c" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_ni1" level="file">
+                  <did>
+                     <unittitle>Kanji vs Romaji, 1956 and 1977</unittitle>
+                     <container id="aspace_111d008e71c9f4a785f5e82b7d030caa" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref176_i19" level="file">
+                  <did>
+                     <unittitle>Kato-Kyoso (excessive competition), 1960s</unittitle>
+                     <container id="aspace_0b5024ee5bfa513f931966fdd0d81f23" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref177_k57" level="file">
+                  <did>
+                     <unittitle>Kenan Foundation, 1982-1984</unittitle>
+                     <container id="aspace_4e12c31a1202b664406e55fdb8089ee3" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref178_z55" level="file">
+                  <did>
+                     <unittitle>Labor economics, 1970s</unittitle>
+                     <container id="aspace_41f86513e50d78a8f89bd0d66ce97de6" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_btu" level="file">
+                  <did>
+                     <unittitle>Lessons of Japanese development, 1986</unittitle>
+                     <container id="aspace_1b13aabd5fc54218cba3a60d36122619" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_x6t" level="file">
+                  <did>
+                     <unittitle>Letters, 1980s</unittitle>
+                     <container id="aspace_eb3cb9b65377d566f33fa31882867325" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_0ll" level="file">
+                  <did>
+                     <unittitle>Lockheed in Japan, 1976-1977</unittitle>
+                     <container id="aspace_8768a5876ef0c3778f5f5833fb375b19" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref182_wj0" level="file">
+                  <did>
+                     <unittitle>Locomotive theory, 1978-1979</unittitle>
+                     <container id="aspace_253f043cb5b48d6d6bf065b60a62a954" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref183_mo2" level="file">
+                  <did>
+                     <unittitle>Loose materials on Japanese economy and economics</unittitle>
+                     <container id="aspace_d7c32fdf8f1b11493ac9f7458ea303b2" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref184_9g5" level="file">
+                  <did>
+                     <unittitle>Management</unittitle>
+                     <container id="aspace_ae0cc9da1301104a5af861e2f31a045f" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_rec" level="file">
+                  <did>
+                     <unittitle>Meiji Era, 1959 and 1960s</unittitle>
+                     <container id="aspace_5502c1cdebab60f837a8e7106c3c35bb" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref186_zhk" level="file">
+                  <did>
+                     <unittitle>Modern Japan, 1979-1980</unittitle>
+                     <container id="aspace_ea6be4c4ce4403e5f53332274c88aba6" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref187_kx8" level="file">
+                  <did>
+                     <unittitle>Miscellaneous</unittitle>
+                     <container id="aspace_3b40dc5598ae309c81ae1ede54115bd0" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref188_2mh" level="file">
+                  <did>
+                     <unittitle>News from Japan, 1980s</unittitle>
+                     <container id="aspace_91783054fd14989268f4a9979554344b" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref189_ugm" level="file">
+                  <did>
+                     <unittitle>Newspaper articles, 1980s and 1990s</unittitle>
+                     <container id="aspace_c74878201081203bcc1fa1d306648a9b" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref190_p3j" level="file">
+                  <did>
+                     <unittitle>NIEO proposals/debt problem, 1980s</unittitle>
+                     <container id="aspace_b79e040362ede2e4ae2bf43c6a7631f8" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref191_90w" level="file">
+                  <did>
+                     <unittitle>Notes</unittitle>
+                     <container id="aspace_cf6bbee0d22ef5dd3764fd350030c35a" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref192_oml" level="file">
+                  <did>
+                     <unittitle>Occupation economics, 1960s</unittitle>
+                     <container id="aspace_c08272ff830ff38e3dd5a38bee31cafd" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref193_enq" level="file">
+                  <did>
+                     <unittitle>Occupation of Japan, 1978-1979</unittitle>
+                     <physdesc id="aspace_a2b519e74889d7048f870ad1874bba18">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_a40e4a2c9938b84536592866e75b097b" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref195_x9z" level="file">
+                  <did>
+                     <unittitle>Open economy macroeconomics, 1980s</unittitle>
+                     <container id="aspace_6ab26be6425f4f53a498413b9e38642e" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref196_ptk" level="file">
+                  <did>
+                     <unittitle>Post-war recovery, 1940s</unittitle>
+                     <container id="aspace_06bf7c6e80f2d330a3db876904723909" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_px1" level="file">
+                  <did>
+                     <unittitle>Professor Takata, 1980</unittitle>
+                     <container id="aspace_1186f91fee3df4cceda57c11e084d8a3" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref198_7x3" level="file">
+                  <did>
+                     <unittitle>Productivity, 1981</unittitle>
+                     <container id="aspace_f46c77ba1f374f40096884df222015a5" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_c04" level="file">
+                  <did>
+                     <unittitle>Prospects of Japanese democracy, 1955</unittitle>
+                     <container id="aspace_b96acd13b3cb7fc3cc4216a94dfee47b" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref200_xk0" level="file">
+                  <did>
+                     <unittitle>Radharaman Prasad Sinha C.V.</unittitle>
+                     <container id="aspace_e6e5f9b070a9b0865e4e2a18b31c245a" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref201_zph" level="file">
+                  <did>
+                     <unittitle>Recession, 1970s</unittitle>
+                     <container id="aspace_9ebfd01300767a9db838738c0937c9e1" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref202_loh" level="file">
+                  <did>
+                     <unittitle>Relations between U.S. and Japan, 1970s</unittitle>
+                     <container id="aspace_5939f304318cf25e87bb40ed62cc67f6" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref203_2tp" level="file">
+                  <did>
+                     <unittitle>Shimomura controversy (Japan Development Bank), 1960s</unittitle>
+                     <container id="aspace_7e0378882c9781b0b2258737bda6eb51" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref204_8be" level="file">
+                  <did>
+                     <unittitle>Short stories, 1978</unittitle>
+                     <container id="aspace_8712a935d0ccee5dce2498bb2613640a" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref205_26f" level="file">
+                  <did>
+                     <unittitle>System of economic education, 1963</unittitle>
+                     <container id="aspace_67e228852b3a9fd4e4566bcb2ecfc198" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref206_uoc" level="file">
+                  <did>
+                     <unittitle>Taxation, 1949</unittitle>
+                     <container id="aspace_201b964548177d480a5bd33c7bb163be" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref207_3rw" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Tomioka Stories from Occupied Japan</title>
+                     </unittitle>
+                     <container id="aspace_1ae5740df9f7abdf00f6c36f8b091a95" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref208_y0o" level="file">
+                  <did>
+                     <unittitle>Trade notes and leaflets, 1950s-1970s</unittitle>
+                     <container id="aspace_3e430612fad29bbdf7e2975ad6171b45" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref209_6a2" level="file">
+                  <did>
+                     <unittitle>Trade council, 1960s and 1970s</unittitle>
+                     <physdesc id="aspace_065507f19aadc1aa941cb3389e8e10c5">
+                        <extent>1 of 3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_a998221168190726cb341bb13c18e25d" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref211_akl" level="file">
+                  <did>
+                     <unittitle>Trade council, 1960s and 1970s</unittitle>
+                     <physdesc id="aspace_0ba6521c4d0a2180324d4ffbb541b4fc">
+                        <extent>2 of 3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_933f1bc5bac44e65e144a02a68132b59" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref213_d1e" level="file">
+                  <did>
+                     <unittitle>Trade creation, undated</unittitle>
+                     <container id="aspace_a6fa9e662c371a630a31a0aed762ab1d" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref214_atf" level="file">
+                  <did>
+                     <unittitle>Trade U.S.-Japan and letters, 1971</unittitle>
+                     <container id="aspace_8329609e3da55958d674fdf011f2333d" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref215_8rn" level="file">
+                  <did>
+                     <unittitle>Trickle-down, 1980-1981</unittitle>
+                     <container id="aspace_a49658045de150e6c7e3212dd57a6581" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref216_ru5" level="file">
+                  <did>
+                     <unittitle>U.S.-Japan trade relations, 1961-1975</unittitle>
+                     <container id="aspace_09659e07856406b47da8e8c2db64831f" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref217_jow" level="file">
+                  <did>
+                     <unittitle>Value-added tax/Shoup visit, 1988</unittitle>
+                     <container id="aspace_9cbd1272ad6e57a1b5a240e1203cf69e" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref218_wdt" level="file">
+                  <did>
+                     <unittitle>War bride's problem, 1950s</unittitle>
+                     <container id="aspace_f2bd9d118a26a280cd40dc088a93db64" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref219_7zr" level="file">
+                  <did>
+                     <unittitle>Waseda university centennial, 1982</unittitle>
+                     <container id="aspace_72eef38023bca168188897d62525a307" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref220_5l2" level="file">
+                  <did>
+                     <unittitle>Welfare state, undated</unittitle>
+                     <container id="aspace_60204ccdf54a2bdfe955e5c04d8e5dfc" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref221_w0d" level="file">
+                  <did>
+                     <unittitle>Trade creation, undated</unittitle>
+                     <container id="aspace_3fa7e8909125d90f81c170dae5561ae9" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref222_900" level="file">
+                  <did>
+                     <unittitle>Western economy transported on Japan, 1983</unittitle>
+                     <container id="aspace_e5c93591845b831b9b02c9a34e9b4567" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref224_uy5" level="subseries">
+               <did>
+                  <unittitle>Orthodox Topics Subseries, 1950s-1994 and undated</unittitle>
+               </did>
+               <scopecontent id="aspace_5c7b3c6ccd6607e5034fc65954058dca">
+                  <head>Scope and Contents note</head>
+                  <p>Topics covered include macroeconomics, especially in U.S. monetary economics,
+                     international trade and economic growth theory. Formats include notes,
+                     speeches, drafts and other writings, papers written by other economicsts on
+                     topics relevant to Bronfenbrenner's research, correspondence relevant to the
+                     subject, clippings and articles, and other miscellaneous documents. Arranged
+                     alphabetically by original folder title.</p>
+               </scopecontent>
+               <c03 id="aspace_ref225_iyw" level="file">
+                  <did>
+                     <unittitle>Aggregate wage theory, 1978-1980</unittitle>
+                     <container id="aspace_ff11c5288ce8294d2597fdfb08ded5f0" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref226_ul2" level="file">
+                  <did>
+                     <unittitle>Baumol and Lovell papers, 1960s</unittitle>
+                     <container id="aspace_67905382c6b4614c67efc1a9d88ece0b" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref227_2iy" level="file">
+                  <did>
+                     <unittitle>Brain drain, 1960s</unittitle>
+                     <container id="aspace_45f062bb6b6981a09afb118a8381c241" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref228_xvk" level="file">
+                  <did>
+                     <unittitle>Business responsibility, 1970s</unittitle>
+                     <container id="aspace_a19e82c25c30bf629bdf739b6236a924" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref229_ra4" level="file">
+                  <did>
+                     <unittitle>Chicago School, 1979</unittitle>
+                     <container id="aspace_b19c2a9126d0342a353b1a97e2ae1dbc" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref230_bdc" level="file">
+                  <did>
+                     <unittitle>Cliometrics, 1977</unittitle>
+                     <container id="aspace_d8232209f28defd706b0bdd05a7438da" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref231_tl1" level="file">
+                  <did>
+                     <unittitle>Clinton health plans, 1994</unittitle>
+                     <container id="aspace_29de212a6ef12f8aaaa937d6dc3c9226" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref232_ulh" level="file">
+                  <did>
+                     <unittitle>Commission on money and credit, 1960s</unittitle>
+                     <container id="aspace_b7338f025437c546a7f2f6bf0a75bdc5" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref233_y0c" level="file">
+                  <did>
+                     <unittitle>Cost-push inflation, 1974</unittitle>
+                     <container id="aspace_ffa271f5b35ea0383bf3c700aa7e2bfc" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref234_t5h" level="file">
+                  <did>
+                     <unittitle>Crash of 1929, 1979</unittitle>
+                     <container id="aspace_874a7fdd87aae99dcbd0bf56d7b22ea9" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref235_r2r" level="file">
+                  <did>
+                     <unittitle>Currency choice defense, 1979-1980</unittitle>
+                     <container id="aspace_2349539e1655fce97b5c83da117f666b" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref236_9if" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Davidson on Keynes on money,</title>
+                        1979</unittitle>
+                     <container id="aspace_ffefc65e8076be14cde0ea5a8852e919" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref237_sjf" level="file">
+                  <did>
+                     <unittitle>Demand for money, 1960s</unittitle>
+                     <physdesc id="aspace_e23fc798fcb1413989c2820e801ca637">
+                        <extent>1 of 2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9f8598904beee1401cc741868ae84607" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref239_ptx" level="file">
+                  <did>
+                     <unittitle>Demand for money, 1960s</unittitle>
+                     <physdesc id="aspace_9e6f0f3e9e1f920704d8e0a56752b042">
+                        <extent>2 of 2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_f33f9b8773e1294d35b3650932e568a6" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref241_4fz" level="file">
+                  <did>
+                     <unittitle>Econometrics, 1950s</unittitle>
+                     <container id="aspace_ca8083a31db6a47751b8fa05fc197bea" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref242_cn0" level="file">
+                  <did>
+                     <unittitle>Economic controls, 1976</unittitle>
+                     <container id="aspace_4b98b14f07ef2f3db9309df22ce53e63" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref243_74l" level="file">
+                  <did>
+                     <unittitle>The economist's "ABC for reflation", 1986</unittitle>
+                     <container id="aspace_5ab13e946a87cdaa87cc4f3429e88c05" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref244_yzz" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Elasticity and absorption: approaches in
+                           international macroeconomics,</title> 1975</unittitle>
+                     <container id="aspace_0c79ed577e17759b1367cad677ceb03e" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref245_oeb" level="file">
+                  <did>
+                     <unittitle>Elasticity version of the equation of exchange, 1970s</unittitle>
+                     <container id="aspace_b557a685f0da1f8f9accb34f236773eb" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref246_6v6" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Encyclopedia of Social Sciences</title>: Inflation,
+                        1961-1963</unittitle>
+                     <container id="aspace_4fedb7c3d337cdc156528c65bef89342" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref247_16d" level="file">
+                  <did>
+                     <unittitle>Essays, 1989</unittitle>
+                     <container id="aspace_688d8419c947adb9cbba35868dcb80ef" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref248_9bh" level="file">
+                  <did>
+                     <unittitle>Free trade, protection and international income equality,
+                        1977</unittitle>
+                     <container id="aspace_e72a3846eac42ef8d014d0527f17fee5" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref249_m1j" level="file">
+                  <did>
+                     <unittitle>Friedman vs Keynes, 1966</unittitle>
+                     <container id="aspace_1e87fcd0d29037b1529f7e129c6113f4" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref250_mab" level="file">
+                  <did>
+                     <unittitle>Friedman-Mieselman controversy, 1965-1966</unittitle>
+                     <container id="aspace_902ca8eb87a93583cce74c1195925770" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref251_dyq" level="file">
+                  <did>
+                     <unittitle>Frey's dilemma, 1974</unittitle>
+                     <container id="aspace_2e27a41b02a8608e6a298d226a575ca5" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref252_uld" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Hoarding on the wing,</title> 1988</unittitle>
+                     <container id="aspace_ec931feb9699d28740b875e62a4f8158" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref253_8a3" level="file">
+                  <did>
+                     <unittitle>Indexation, 1978-1979</unittitle>
+                     <container id="aspace_bd4eaf1bfe20f76fa90b522b53ad6bb4" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref254_p5x" level="file">
+                  <did>
+                     <unittitle>Inflation, 1970</unittitle>
+                     <container id="aspace_331569ef30f2868e60bc07c415bd19d1" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref255_vur" level="file">
+                  <did>
+                     <unittitle>Inflation persistence</unittitle>
+                     <container id="aspace_c0c7dc5571692ec0acc150ef8b98b924" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref256_lb3" level="file">
+                  <did>
+                     <unittitle>Inflation and stagflation (to encyclopedia), 1983</unittitle>
+                     <container id="aspace_41d4d817d595413b2b9f147a9a2c1462" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref257_mq1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">International competitiveness and the U.S.
+                           dollar,</title> 1985-1987</unittitle>
+                     <container id="aspace_ece9c51cf2ae71025501e8a3cadc2096" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref258_xn6" level="file">
+                  <did>
+                     <unittitle>International macroeconomics, 1970</unittitle>
+                     <container id="aspace_77c0c23b3060a33d1a40eb5da80103c7" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref259_sxz" level="file">
+                  <did>
+                     <unittitle>International trade, 1965</unittitle>
+                     <container id="aspace_79c13af9dcba753234f699445c3f0111" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref260_fy4" level="file">
+                  <did>
+                     <unittitle>Japanese productivity, 1982</unittitle>
+                     <container id="aspace_76364755bd955b0a9ecfefea7e6a4092" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref261_abi" level="file">
+                  <did>
+                     <unittitle>Joint economic committee, 1969</unittitle>
+                     <container id="aspace_6206caedb5d6fb86dbd1632e6d70e283" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref262_kns" level="file">
+                  <did>
+                     <unittitle>Keynesian employment function, 1976</unittitle>
+                     <container id="aspace_fbe7862e4d6564f3604ad31dea5a2cdd" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref263_7ao" level="file">
+                  <did>
+                     <unittitle>Korea and the Yen-Dollar rate, 1990</unittitle>
+                     <container id="aspace_befb553113349ac71471e67ddacb40be" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref264_nhd" level="file">
+                  <did>
+                     <unittitle>"Let-'er-Rip" inflation policies, 1971</unittitle>
+                     <container id="aspace_4fd05a2ff6283a6a4dd40bcf01521159" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref265_8ry" level="file">
+                  <did>
+                     <unittitle>Labor-supply, 1965-1966</unittitle>
+                     <container id="aspace_44c23f9b6c41260335d236f682b33bea" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref266_lx4" level="file">
+                  <did>
+                     <unittitle>Land taxation, 1969</unittitle>
+                     <container id="aspace_b6b01df654906677037c9e11af296285" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref267_qvx" level="file">
+                  <did>
+                     <unittitle>Liquidity functions, 1959</unittitle>
+                     <container id="aspace_8bb63b79762fdaae9f215e9abf807e80" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref268_m4x" level="file">
+                  <did>
+                     <unittitle>Macroeconomics textbook draft, 1970-1974</unittitle>
+                     <physdesc id="aspace_3a4e70c4cf25e04973cc55643dd41c81">
+                        <extent>1 of 2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c4c83e1cb13a8c7fc6c251f9dde02869" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref270_tok" level="file">
+                  <did>
+                     <unittitle>Macroeconomics textbook draft, 1971-1974</unittitle>
+                     <physdesc id="aspace_95ffb83ce5fd78331974b5a15520e90d">
+                        <extent>2 of 2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_cb57014faf51534ec16965cab700fa25" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref272_dpd" level="file">
+                  <did>
+                     <unittitle>Marginalism in labor economics</unittitle>
+                     <container id="aspace_40cc97a204d6e5828c45a36a21c51d26" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref273_d5r" level="file">
+                  <did>
+                     <unittitle>Microeconomics of inflation, 1978-1979</unittitle>
+                     <container id="aspace_441d11e78d12628a10dc8f2e5ff8141b" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref274_f4n" level="file">
+                  <did>
+                     <unittitle>Monetary rules, 1960s</unittitle>
+                     <container id="aspace_4f30bc3833a49daebedd45f330f15307" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref275_ei8" level="file">
+                  <did>
+                     <unittitle>Monetary statistics of the U.S.</unittitle>
+                     <container id="aspace_7306072b1d66e79f891a2e36750c85dd" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref276_vzg" level="file">
+                  <did>
+                     <unittitle>Multiplier theory, 1961</unittitle>
+                     <container id="aspace_cbaf23272987f82226ddcfbf5a9cfd04" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref277_9eq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">On dumping gold,</title> 1979</unittitle>
+                     <container id="aspace_abc44516b797512eeeb90ee0c517400c" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref278_fz4" level="file">
+                  <did>
+                     <unittitle>OPEC, 1980s</unittitle>
+                     <container id="aspace_c30c8b355cdec13816e400c1b4c8d5f6" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref279_blg" level="file">
+                  <did>
+                     <unittitle>Phillips curve reconsidered</unittitle>
+                     <container id="aspace_ce823411a3229ac61169139f4f1ba2f4" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref280_b55" level="file">
+                  <did>
+                     <unittitle>Poverty, 1960s and 1970s</unittitle>
+                     <container id="aspace_3f4873ace1891dd16f61376df899e18d" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref281_6fx" level="file">
+                  <did>
+                     <unittitle>Private savings, 1960s</unittitle>
+                     <physdesc id="aspace_0792bfd7b0bab388eab22976606b0a5e">
+                        <extent>1 of 2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2fb93eac75c4bc36838b39703011a6d9" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref283_hki" level="file">
+                  <did>
+                     <unittitle>Private savings, 1981</unittitle>
+                     <physdesc id="aspace_4f02f05f2eabe3f0c8688033236ccafb">
+                        <extent>2 of 2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_bd0039237bf60467e128949d605328a4" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref285_sgd" level="file">
+                  <did>
+                     <unittitle>Profit theory, 1950s and 1960s</unittitle>
+                     <container id="aspace_2231154e35a4906ad9f4335b3d7928d7" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref286_hex" level="file">
+                  <did>
+                     <unittitle>Public appropriations, 1965</unittitle>
+                     <container id="aspace_4781406aaae06844b4da15e92849b1a8" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref287_uoz" level="file">
+                  <did>
+                     <unittitle>Scarcity hypothesis, 1968 and 1970</unittitle>
+                     <container id="aspace_8294078ac751b41edfa2881a1958485f" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref288_e57" level="file">
+                  <did>
+                     <unittitle>Sensitivity analysis for econometricians, 1972</unittitle>
+                     <container id="aspace_5a5ecf127cc95158be7db6f647064e16" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref289_sx2" level="file">
+                  <did>
+                     <unittitle>Statistical refinements of the inflation concept, 1965</unittitle>
+                     <container id="aspace_8f98726f0341bec7e134ff95f7fe27a8" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref290_a7e" level="file">
+                  <did>
+                     <unittitle>Square root rule, 1960s</unittitle>
+                     <container id="aspace_9bd3676a91659c2432307822b2d4c670" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref291_jt0" level="file">
+                  <did>
+                     <unittitle>Sraffa controversy, 1974</unittitle>
+                     <container id="aspace_37d248c12005344cf3fda242d432ecda" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref292_u4l" level="file">
+                  <did>
+                     <unittitle>Stagflation, 1970</unittitle>
+                     <physdesc id="aspace_c7a573ae972315f818049054d5ea6870">
+                        <extent>1 of 2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1541f8c8114132dc6cca33f8c637c9f4" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref294_szc" level="file">
+                  <did>
+                     <unittitle>Stagflation, 1974</unittitle>
+                     <physdesc id="aspace_ba9b0bfc7879badb4d6549edaf12e9cd">
+                        <extent>2 of 2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2ad0179fa1e16bddb54ef8086662435a" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref296_a1o" level="file">
+                  <did>
+                     <unittitle>Stagflation theory, 1976</unittitle>
+                     <container id="aspace_1c0eb45b5dd545bde9d694b73a9d4034" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref297_guo" level="file">
+                  <did>
+                     <unittitle>Theory of employment, 1986</unittitle>
+                     <container id="aspace_b7b3184d4b9f03a0d91c4318e8a5b60f" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref298_r53" level="file">
+                  <did>
+                     <unittitle>Walras's law, 1990</unittitle>
+                     <container id="aspace_0198c6c37d9be5294480f8ac329a8558" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref299_va6" level="file">
+                  <did>
+                     <unittitle>Wisconsin, 1985</unittitle>
+                     <container id="aspace_07921d31ef3f6761e095541fbcead08d" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref301_d9w" level="subseries">
+               <did>
+                  <unittitle>People Subseries, 1949-1993 and undated</unittitle>
+                  <physdesc id="aspace_ed549ef26fac2a002ee4e9955b098e7f">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+               </did>
+               <scopecontent id="aspace_022fe3129220e85b83599dedf4f2474a">
+                  <head>Scope and Contents note</head>
+                  <p>Following Bronfenbrenner's own filing system, this research-related subseries
+                     contains folders labelled with individuals' names, most of them notable
+                     economists, in whose research Bronfenbrenner was interested or with whom he
+                     corresponded, or both. There are also two "Miscellaneous" folders. The folders
+                     contain a mix of materials: correspondence between Bronfenbrenner and the
+                     economist named on the folder, annotated and unmarked articles, and papers by
+                     Bronfenbrenner or by others. There are two folders of materials concerning Kei
+                     Shibata, who during the 1930s wrote on Marxian economics and equilibrium
+                     balance. Arranged in alphabetical order by last name.</p>
+               </scopecontent>
+               <c03 id="aspace_ref303_wnn" level="file">
+                  <did>
+                     <unittitle>Adelman, M., 1949-1953</unittitle>
+                     <container id="aspace_ef59e405430e9feaac4efba529e96b9c" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref304_q1k" level="file">
+                  <did>
+                     <unittitle>Baumol, W., 1982</unittitle>
+                     <container id="aspace_97b4fa6d9c3fcba79f1c1921e295b14b" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref305_n78" level="file">
+                  <did>
+                     <unittitle>Davidson, P., 1979</unittitle>
+                     <container id="aspace_baaead47e3de2696c5e4343092f989c6" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref306_itw" level="file">
+                  <did>
+                     <unittitle>De Fremeny [Fremery?], 1971-1976</unittitle>
+                     <container id="aspace_844ba79e8defdb757c15693aafa288aa" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref307_3br" level="file">
+                  <did>
+                     <unittitle>Ferguson, C., 1971</unittitle>
+                     <container id="aspace_5518cb854e4b98b4af3e34962fb65b7d" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref308_o18" level="file">
+                  <did>
+                     <unittitle>Fitzgerald, B., 1971, 1975, undated</unittitle>
+                     <container id="aspace_44bbfc5db019ab46da67210cef3e49af" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref309_98j" level="file">
+                  <did>
+                     <unittitle>Friedman, M., 1952, 1971-1975</unittitle>
+                     <container id="aspace_5c1d0e5a4f61b38662b73700fea04d32" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref310_bdv" level="file">
+                  <did>
+                     <unittitle>Gross, E., 1976</unittitle>
+                     <container id="aspace_c346399b8a57ab52c85e11524e95b178" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref311_dwl" level="file">
+                  <did>
+                     <unittitle>Frisch, H., 1963-1979</unittitle>
+                     <container id="aspace_514bc4d3e638f1be82c1c5a0f481c65a" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref312_eag" level="file">
+                  <did>
+                     <unittitle>Galloway, L., undated</unittitle>
+                     <container id="aspace_945d1c146048540cb602e4ad9281e158" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref313_mjv" level="file">
+                  <did>
+                     <unittitle>Hamilton, E., 1975</unittitle>
+                     <container id="aspace_912db2aef3556e49a27de3cd7b137405" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref314_ndz" level="file">
+                  <did>
+                     <unittitle>Hollander, S., 1983, 1988</unittitle>
+                     <container id="aspace_80fec4c88ee3eb0c7a624d8ca03fec94" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref315_2ky" level="file">
+                  <did>
+                     <unittitle>Hollister, R., 1978</unittitle>
+                     <container id="aspace_a412d31d80b2ee2106c8f38810ea6cc7" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref316_2cr" level="file">
+                  <did>
+                     <unittitle>Kaldor, N., 1958</unittitle>
+                     <container id="aspace_c0621e9346934717ad5f030742bbf616" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref317_url" level="file">
+                  <did>
+                     <unittitle>Keesing, D., 1966</unittitle>
+                     <container id="aspace_b1998380593c9d35b36c5ddb7f0261ef" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref318_0zm" level="file">
+                  <did>
+                     <unittitle>Leijonhufvud, A., 1974</unittitle>
+                     <container id="aspace_390460623a6d8df92fc31894e3e66168" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref319_lny" level="file">
+                  <did>
+                     <unittitle>Lerner, A., 1982</unittitle>
+                     <container id="aspace_c5c02b9b48769c7fd6c13fed1a01e5a0" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref320_by0" level="file">
+                  <did>
+                     <unittitle>Mayer, T., 1965</unittitle>
+                     <container id="aspace_8611a7e66397a471f2bed89db45b7d58" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref321_afu" level="file">
+                  <did>
+                     <unittitle>Means, G., 1975</unittitle>
+                     <container id="aspace_1860e672439933759a516214b3f82305" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref322_fol" level="file">
+                  <did>
+                     <unittitle>Meltzer, A., 1968, 1993</unittitle>
+                     <container id="aspace_bb021a17cb1032ffa97cad218609f978" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref323_z8l" level="file">
+                  <did>
+                     <unittitle>Minsky, H., 1980</unittitle>
+                     <container id="aspace_047b94cd650d0a94e7c582204dfe6902" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref324_j96" level="file">
+                  <did>
+                     <unittitle>Miscellaneous professional correspondence, 1955-1992</unittitle>
+                     <physdesc id="aspace_83815760f1ef43d203462cddfb1c8a1e">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_185895140107423342d1cb1f7ffcc4c4" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref326_6cl" level="file">
+                  <did>
+                     <unittitle>Oshima, H., 1967</unittitle>
+                     <container id="aspace_66956cbbf48400c524479e9878a17651" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref327_r8g" level="file">
+                  <did>
+                     <unittitle>Rhomberg, R., 1968</unittitle>
+                     <container id="aspace_842875f924b4ec7e8b0d54c70235481d" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref328_yex" level="file">
+                  <did>
+                     <unittitle>Rothschild, K., 1964, undated</unittitle>
+                     <container id="aspace_2de63e505034731c8045117c971f4f7c" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref329_7mw" level="file">
+                  <did>
+                     <unittitle>Samuelson, P., 1980, undated</unittitle>
+                     <container id="aspace_5c18294a776ddfaef940c235a85da593" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref330_yig" level="file">
+                  <did>
+                     <unittitle>Sato, R., 1966</unittitle>
+                     <container id="aspace_1122233f7239c415830a25ddd500bb96" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref331_rvj" level="file">
+                  <did>
+                     <unittitle>Warburton, C., 1951</unittitle>
+                     <container id="aspace_f66ddd93a341961b3fcac1758ff9b495" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref332_ht9" level="file">
+                  <did>
+                     <unittitle>Sherman, H., 1966</unittitle>
+                     <container id="aspace_61d29bda8f89fff4b8f16058b59f12fe" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref333_gmt" level="file">
+                  <did>
+                     <unittitle>Shibata, K., 1962-1968, undated</unittitle>
+                     <physdesc id="aspace_420d7eb65e8efdf9b128e203111d3106">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_be44bc7e67210cdb035adbb0f1b8148d" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref335_1j8" level="file">
+                  <did>
+                     <unittitle>Slichter, S., 1958</unittitle>
+                     <container id="aspace_ceb51fd892a7e5d839467a05046d62da" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref336_1ut" level="file">
+                  <did>
+                     <unittitle>Smith, V., 1964</unittitle>
+                     <container id="aspace_bb2f8e150a022de642e06034ff7e2bc6" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref337_rpp" level="file">
+                  <did>
+                     <unittitle>Solow, R., 1972</unittitle>
+                     <container id="aspace_e4ac8834e6572a608b00999b8c154380" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref338_5lz" level="file">
+                  <did>
+                     <unittitle>Spengler, J., 1974</unittitle>
+                     <container id="aspace_a804b449b84d752c57bcb260a17a95a8" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref339_x4v" level="file">
+                  <did>
+                     <unittitle>Stein, H., 1982, undated</unittitle>
+                     <container id="aspace_a78d10c6ea5abb1a83510d10ecb23476" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref340_51w" level="file">
+                  <did>
+                     <unittitle>Sweezy, P., 1968</unittitle>
+                     <container id="aspace_aded992817748098d6deb5ffe7d493a6" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref341_h31" level="file">
+                  <did>
+                     <unittitle>Tullock, G., 1976-1977</unittitle>
+                     <container id="aspace_3fc433e94219fc4d5102df611572c57b" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref342_ubh" level="file">
+                  <did>
+                     <unittitle>Viner, J., 1969</unittitle>
+                     <container id="aspace_9f8775875619ece072f9845bfde33851" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref343_lt4" level="file">
+                  <did>
+                     <unittitle>Williams, J., 1974</unittitle>
+                     <container id="aspace_7972fabd970ec8c861841d5b8d0b58ae" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref344_alg" level="file">
+                  <did>
+                     <unittitle>Yasuba, Y., 1980, undated</unittitle>
+                     <container id="aspace_216a7668cc6c1716a5b77adbcd4a3e96" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref347_fmc" level="series">
+            <did>
+               <unittitle>Teaching Material Series, 1949-1996</unittitle>
+               <physdesc id="aspace_af1cfcc8de253533b62f56eccafad57c">
+                  <extent>5 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_0044d64ca563d0fcc0122fe3fef10faf">
+               <head>Scope and Contents note</head>
+               <p>Consists chiefly of lecture notes, examination papers, and course syllabi covering
+                  subjects that Bronfenbrenner taught through classes and seminars at
+                  Carnegie-Mellon, Duke and in Japan, including microeconomics, macroeconomics,
+                  income distribution, international economics, trade, Japanese history and the
+                  Japanese economy. Box 27 is dedicated to correspondence between Bronfenbrenner and
+                  his graduate students.</p>
+            </scopecontent>
+            <c02 id="aspace_ref349_c7b" level="file">
+               <did>
+                  <unittitle>Teaching files</unittitle>
+                  <container id="aspace_0a19fca3fd2c87713306b9adf52a6283" label="Mixed Materials"
+                     type="box">23-27</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref351_tsj" level="series">
+            <did>
+               <unittitle>Oversize Material, 1950-1969 and undated</unittitle>
+               <physdesc id="aspace_9f18df0d72d15aa479bda7bdff4c31f3">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_210b8939650375c6d8a2ffdc714912b0">
+               <head>Scope and Contents note</head>
+               <p>Clippings, newspapers, and other items from the Research Series, Heterodox and
+                  Japan subseries. A group of six Japanese campus newspapers contain front-page
+                  articles in the English language on 1969 student unrest and violence on Japanese
+                  campuses.</p>
+            </scopecontent>
+            <c02 id="aspace_ref353_33a" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Daily Cardinal</title>, Univ. of Wisconsin/Madison,
+                     article by Bronfenbrenner on Japanese university system, 1950 Oct.
+                     7</unittitle>
+                  <container id="aspace_0494facd9ae055c6eef8f451db574ce0" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref354_fuh" level="file">
+               <did>
+                  <unittitle>Clipping, article by Bronfenbrenner on Japanese students in U.S., 1950
+                     Dec.</unittitle>
+                  <container id="aspace_59f21462a6f80ba5bd53a6ee05899f69" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref355_fh8" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">McCarthy's Rise in Wisconsin,</title>
+                     <title render="italic">The Hindu</title>, Madras, article by Bronfenbrenner,
+                     1953 Sept. 21</unittitle>
+                  <container id="aspace_2ba2d0bb284e12db0172753a203fa675" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref356_06s" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Mita Campus</title>, Tokyo, Japan [English], campus
+                     newspapers, 1957 Apr.-1969 Nov.</unittitle>
+                  <physdesc id="aspace_9b23f1e55166812335c555d034602620">
+                     <extent>7 issues</extent>
+                  </physdesc>
+                  <container id="aspace_02d509a815797c60738f24c5e8e88081" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref358_dxx" level="file">
+               <did>
+                  <unittitle>Clipping from Carnegie-Mellon campus newspapers, article by
+                     Bronfenbrenner on student unrest, 1969 Sept. 19</unittitle>
+                  <container id="aspace_489c3b31bc1550d545f74fc826f6c27b" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref359_plf" level="file">
+               <did>
+                  <unittitle>Small color poster, Japanese, with images of 16 political and social
+                     scientists, including Bronfenbrenner, circa 1960s</unittitle>
+                  <container id="aspace_67da553b8223de6184fbd14daf024cb2" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref360_xfj" level="file">
+               <did>
+                  <unittitle>Statistical estimates of liquidity functions in the U.S.,
+                     undated</unittitle>
+                  <container id="aspace_8e1ada311ab30d1b738906b3d772ae54" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

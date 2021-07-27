@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/mosesfamily/">mosesfamily</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Moses family papers, 1859-1951 <num>RL.00916</num></titleproper>
+        <author>Paula Jeannet, Elizabeth Shesko</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2014</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003907903</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-03-24 14:59:43
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Moses family papers</unittitle>
+      <origination label="Creator">
+        <famname source="ingest">Moses family</famname>
+      </origination>
+      <unitid>RL.00916</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14 Linear Feet</extent>
+        <extent altrender="carrier">10 boxes</extent>
+        <physfacet>Approximately 10,400 items</physfacet>
+      </physdesc>
+      <unitdate normal="1859/1951" type="inclusive">1859-1951</unitdate>
+      <abstract id="aspace_44511fa045c1a66cab6bad6b44b2538b">Papers relate to a Jewish family
+        originally from South Carolina and Georgia, and residents of New York City, whose members
+        included drama critic and journalist Montrose Jonas Moses, his wife Dorothy Herne and other
+        Herne sisters, and his sister, author Belle Moses. The collection primarily consists of
+        manuscripts written by Belle Moses, as well as her research notes and letters. Notes,
+        clippings, diaries, letters, and other papers of Montrose J. Moses and Dorothy Herne also
+        represent a substantial portion. There are also five scrapbooks assembled by the Herne
+        sisters. Also included are family and travel photographs, nitrate negatives, physician
+        Montefiore Moses' visiting books, and memorabilia such as pins, calling cards, programs, and
+        other keepsakes. Print materials include literature, poetry, and textbooks published around
+        the turn of the century.</abstract>
+      <langmaterial id="aspace_94bdd7d3059bcb241524de69a112ed2a">Material in English</langmaterial>
+    </did>
+    <bioghist id="aspace_c9fb99b10dafa1a60c082eca4fe28a0c">
+      <head>Biographical Note</head>
+      <p>Jewish family originally from Charleston, S.C., and residents of New York City, whose
+        members included physician Montefiore Moses (1841-1878), who served in the Confederate Army,
+        eventually as assistant surgeon in Mississippi, and practiced medicine in Georgia and New
+        York; his son, New York City drama critic and author Montrose J. Moses (1878-1934);
+        Montrose's wife Dorothy Herne and several Herne sisters; and Montrose's sister, author Belle
+        Moses.</p>
+      <p>Belle Moses was the author of approximately thirty works written for children and adults on
+        American figures such as Louisa May Alcott, Charles Dickens, Lewis Carroll, and Paul
+        Revere.</p>
+    </bioghist>
+    <accessrestrict id="aspace_6fdaf602d69cebad60628bea618657f1">
+      <head>Access Restrictions</head>
+      <p>Negatives are closed to use; corresponding prints are available in the collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_072bf030f972f8d2979dd723933dd5cd">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <acqinfo id="aspace_fe89c5ec3f1fed7662a691dada2c0c74">
+      <head>Provenance</head>
+      <p>The Moses family papers were received by the David M. Rubenstein Rare Book &amp; Manuscript
+        Library as a deposit in 1986.</p>
+    </acqinfo>
+    <prefercite id="aspace_a2b3cb0d2ab4d6e27fe80a763199e0de">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Moses family papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <processinfo id="aspace_fc67d3087e6bad82f2b3fc681c0772ae">
+      <head>Processing Information</head>
+      <p>Accessioned by Rubenstein Library staff, 1986.</p>
+      <p>Encoded by Paula Jeannet and Elizabeth Shesko, June 2011.</p>
+      <p>Updated by Paula Jeannet to reflect presence of nitrate negatives. Negatives processed by
+        Holly Ren, March 2020.</p>
+      <p>Materials have not been ordered and described beyond their original condition.</p>
+    </processinfo>
+    <scopecontent id="aspace_44cb7764abfba692d61d367ff3ca4430">
+      <head>Collection Overview</head>
+      <p>The Moses family papers primarily consist of manuscripts written by Belle Moses, and
+        include her research notes and letters. Notes, clippings, letters, telegrams, diaries,
+        theater advertisements, book reviews, and other papers of Montrose J. Moses and Dorothy
+        Herne also represent a substantial portion. </p>
+      <p>Additional materials include five scrapbooks assembled by the Herne sisters; family and
+        travel photographs dating from the 19th to the 20th centuries, along with corresponding
+        nitrate negatives; and 19th century doctor's visiting books belonging to Montrose and
+        Belle's father, who was a physician in Georgia. Also present are memorabilia such as pins,
+        calling cards, programs, and other keepsakes. Print materials found in the collection
+        include literature, poetry, and textbooks published around the turn of the century.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_7de4df33303bde34986ee1915dc633d6">
+      <head>Related Material</head>
+      <p><archref><unittitle label="Collection"><extref
+              xlink:href="http://library.duke.edu/digitalcollections/rbmscl/mosesmontrosejonas/inv/"
+              >Montrose Jonas Moses Papers</extref>
+          </unittitle><repository label="Repository">David M. Rubenstein Rare Book &amp; Manuscript
+            Library, Duke University</repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Authors, American -- Correspondence</subject>
+      <subject source="lcsh">Drama -- History and criticism</subject>
+      <subject source="lcsh">English literature -- History and criticism</subject>
+      <subject source="lcsh">Jewish families -- New York (State) -- New York</subject>
+      <subject source="lcsh">Jewish families -- Southern States</subject>
+      <subject source="lcsh">Physicians -- Georgia -- History -- 19th century</subject>
+      <subject source="lcsh">Physicians -- New York (State) -- History -- 19th century</subject>
+      <subject source="lcsh">Theater -- United States -- History</subject>
+      <subject source="lcsh">Women authors, American -- 19th century</subject>
+      <subject source="lcsh">Women authors, American -- 20th century</subject>
+      <geogname source="lcsh">Georgia -- History</geogname>
+      <geogname source="lcsh">Lake George (N.Y.) -- Photographs</geogname>
+      <geogname source="lcsh">Lake Luzerne -- Photographs</geogname>
+      <geogname source="lcsh">New York (N.Y.)</geogname>
+      <geogname source="lcsh">Sewanee (Tenn.) -- Photographs</geogname>
+      <genreform source="aat">Cellulose nitrate film</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Negatives (photographs)</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Scrapbooks</genreform>
+      <persname source="ingest">Moses, Montrose Jonas, 1878-1934</persname>
+      <persname source="ingest">Moses, Belle</persname>
+      <persname source="ingest">Herne, Dorothy</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref15_vg8" level="file">
+        <did>
+          <unittitle>Dorothy Herne Moses personal letters</unittitle>
+          <container id="aspace_9bf538fc852a47a8dc4c9319f918818b" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref16_8of" level="file">
+        <did>
+          <unittitle>Diary, 1864</unittitle>
+          <container id="aspace_f1b988b9afb5614e91ab8908632e5094" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref17_1pk" level="file">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <container id="aspace_101c8d8b8d46bd2a49545a69b59b8a49" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref18_ixy" level="file">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+          <container id="aspace_a8e56bfbee57a7f322ea01f20900bb38" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref19_60s" level="file">
+        <did>
+          <unittitle>Dr. M.J. Moses physician's visiting books, 1869, 1874</unittitle>
+          <container id="aspace_269f06204e052eb5c8cef0f4b66b3e3a" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+        <scopecontent id="aspace_db723c968c05c2213393965f0e479120">
+          <head>Scope and Contents note</head>
+          <p>Probably Belle Moses's father, Monefiore J. Moses.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref21_nnv" level="file">
+        <did>
+          <unittitle>Belle Moses manuscript, 1924</unittitle>
+          <container id="aspace_230aaf0f3ffd12a49f75496e0f128a23" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref22_t3i" level="file">
+        <did>
+          <unittitle>Montrose J. Moses correspondence, 1921-1928</unittitle>
+          <container id="aspace_6031565e45917c126f66d0f8681025a5" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref23_1wj" level="file">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <container id="aspace_bed8c19c3c74e6c8f3d1ee52803f9110" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref24_esi" level="file">
+        <did>
+          <unittitle>Katherine Chrystal Herne scrapbooks, 1892</unittitle>
+          <container id="aspace_3e3833319b9875f2d9752e1b0d482cb2" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref25_ryn" level="file">
+        <did>
+          <unittitle>Dorothy Herne scrapbook, 1902</unittitle>
+          <container id="aspace_44054f207ab125d0771986d3ab49e78a" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref26_tq4" level="file">
+        <did>
+          <unittitle>Julie A. Herne scrapbooks, 1896-1898</unittitle>
+          <container id="aspace_096657eebdeafbb2530b1da58a13471b" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref27_5l7" level="file">
+        <did>
+          <unittitle>Print materials</unittitle>
+          <container id="aspace_1406e714692868de781b31132aef8faa" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref28_tud" level="file">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <container id="aspace_d0dba427594e6f60dfd8b52353a06485" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref29_56g" level="file">
+        <did>
+          <unittitle>Belle Moses manuscripts, 1905</unittitle>
+          <container id="aspace_7e3c28676376032ca38e349e3bcaf729" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref30_kvv" level="file">
+        <did>
+          <unittitle>Montrose J. Moses ledgers, 1923-1934</unittitle>
+          <container id="aspace_79755456f458d561f086382757aa29e4" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref31_so1" level="file">
+        <did>
+          <unittitle>"Papa's poems," 1864</unittitle>
+          <container id="aspace_07c712296d15702686bed208cad4acac" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref32_gvk" level="file">
+        <did>
+          <unittitle>Correspondence, programs, clippings, class notes 1899-1924</unittitle>
+          <container id="aspace_913037c263bd730fda9b67b82b0ef99b" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref33_395" level="file">
+        <did>
+          <unittitle>Print materials</unittitle>
+          <container id="aspace_09dfd4746465450c99bc72246c8b57c7" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref34_2gk" level="file">
+        <did>
+          <unittitle>Rose J. Moses correspondence, 1900-1916</unittitle>
+          <container id="aspace_5ec6e32f23d3083697d2a7b46bfab10b" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+        <scopecontent id="aspace_1c036bfa939c8b2675578de7f7a1b67d">
+          <head>Scope and Contents note</head>
+          <p>Belle Moses's mother.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref36_90o" level="file">
+        <did>
+          <unittitle>Montrose J. Moses correspondence, 1900-1906</unittitle>
+          <container id="aspace_fd5cb2dc27c865955bf9cd0a4d198f67" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref37_fuk" level="file">
+        <did>
+          <unittitle>Correspondence, 1860-1870</unittitle>
+          <container id="aspace_1a1dbd04243e79b1d23f501f5e8f07e0" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref38_mr9" level="file">
+        <did>
+          <unittitle>Belle Moses manuscripts</unittitle>
+          <container id="aspace_be9365475ed4db8fdb2764436aacaea1" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref39_sij" level="file">
+        <did>
+          <unittitle>Belle Moses correspondence, address books, receipts, 1860-1940</unittitle>
+          <container id="aspace_b618deee3ac0b1a8e35044bed7199402" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref40_jwn" level="file">
+        <did>
+          <unittitle>Print Materials</unittitle>
+          <container id="aspace_8108bc1d79b089cac3a74c2f38576334" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref41_ekj" level="file">
+        <did>
+          <unittitle>Montrose J. Moses correspondence, 1890-1920</unittitle>
+          <container id="aspace_88f12196350d1cba70a201fe133b1937" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref42_94g" level="file">
+        <did>
+          <unittitle>Dorothy Herne correspondence and diary, 1903</unittitle>
+          <container id="aspace_c020dc0c3eeb7a179811edc4e13c5d59" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref43_spt" level="file">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <container id="aspace_3c3965ce4f71ce827829f97c244a93ca" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref44_x4m" level="file">
+        <did>
+          <unittitle>Negatives (NITRATE)</unittitle>
+          <container altrender="Document-Letter" id="aspace_c6fe697be0b3e068786ca04b8c7c3d2a"
+            label="Mixed Materials" type="box">10</container>
+        </did>
+        <accessrestrict id="aspace_47490a91080789ad590fb08bb85cffc8">
+          <head>Conditions Governing Access</head>
+          <p>Negatives are closed to use. Corresponding prints for all or most of the images are
+            available in the collection.</p>
+        </accessrestrict>
+      </c01>
+      <c01 id="aspace_ref45_chy" level="file">
+        <did>
+          <unittitle>Mrs. Moses medical receipts</unittitle>
+          <container id="aspace_34d32c86add70a0bafdbcb139463beaa" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref46_8r8" level="file">
+        <did>
+          <unittitle>Belle Moses manuscripts and notes, 1890s</unittitle>
+          <container id="aspace_a8f7bc6cf37a28393161309e65e0be3c" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref47_88k" level="file">
+        <did>
+          <unittitle>Belle Moses manuscripts, clippings, notes, 1900-1930</unittitle>
+          <container id="aspace_5050c2db8406037fef4a680e170e9f62" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref48_jqw" level="file">
+        <did>
+          <unittitle>Print materials</unittitle>
+          <container id="aspace_e2e205d52863c5e34baed44eec2078be" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref49_7ty" level="file">
+        <did>
+          <unittitle>Belle Moses manuscripts, 1890-1900</unittitle>
+          <container id="aspace_bd29c4371d3688466b61ac63c2fb47a4" label="Mixed Materials" type="box"
+            >7</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref50_dn3" level="file">
+        <did>
+          <unittitle>Belle Moses correspondence, clippings, notes, diary, 1900-1937</unittitle>
+          <container id="aspace_2750a0f44fe40fc3747c1e81f0abd86c" label="Mixed Materials" type="box"
+            >7</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref51_hnw" level="file">
+        <did>
+          <unittitle><emph render="italic">Franklin Delano Roosevelt: The Minute Man of '33</emph>,
+            by Belle Moses</unittitle>
+          <container id="aspace_55a6d4165681ec33c43465982f0592e6" label="Mixed Materials" type="box"
+            >7</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref52_gpc" level="file">
+        <did>
+          <unittitle>Belle Moses manuscripts</unittitle>
+          <container id="aspace_e58e691c7c2068e5766e1969de841041" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref53_f6g" level="file">
+        <did>
+          <unittitle>Belle Moses correspondence, notes, book lists, clippings, 1892-1940</unittitle>
+          <container id="aspace_f65f629c55377f8e87382ba116cef3b1" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref54_hac" level="file">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <container id="aspace_4d2f25c9e8d639a17c6a2b8cf4c5ff27" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref55_tui" level="file">
+        <did>
+          <unittitle>Card catalog</unittitle>
+          <container id="aspace_9c0a6fbf013e876d755392cbd5cfaabd" label="Mixed Materials" type="box"
+            >9</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref56_56d" level="file">
+        <did>
+          <unittitle>Belle Moses manuscripts</unittitle>
+          <container id="aspace_a29f1462a0e86d9bacea52c3c2afe138" label="Mixed Materials" type="box"
+            >9</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref57_5ep" level="file">
+        <did>
+          <unittitle>Belle Moses correspondence, notes, clippings, 1930s</unittitle>
+          <container id="aspace_d0726425bfa8167c6dd7cdb263aa03fc" label="Mixed Materials" type="box"
+            >9</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

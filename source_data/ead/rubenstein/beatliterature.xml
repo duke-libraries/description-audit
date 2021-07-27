@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/beatliterature/"
+         >beatliterature</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Preliminary Guide to the Walter H. Smith Collection of Beat Literature,
+               1950-2009 <num>RL.00095</num>
+            </titleproper>
+            <author>Processed by: Meghan Lyon; machine-readable finding aid created by: Meghan
+               Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">004193982</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 12:20:08
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Walter H. Smith Collection of Beat Literature</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Smith, Walter H. (collector)</persname>
+         </origination>
+         <unitid>RL.00095</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4.1 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1950/2009" type="inclusive">1950-2009</unitdate>
+         <physloc id="aspace_98bf237ca0fa1e092ce2be86d3e1c30f">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_fd36a1d793771ddde2462d5e2222eb29">Walter H. Smith donated this
+            collection of Beat Literature. The majority relates to the career and life of Allen
+            Ginsberg, a founding member of the Beat Generation. Other writers represented include
+            Anne Waldman, Diane di Prima, and Anselm Hollo. Accessions (2009-0113) and (2009-0130)
+            (200 items; 3.5 lin. ft.; dated 1959-2003) include books, compilations, journals,
+            magazines, and other publications with works by and about Allen Ginsberg. Also included
+            are posters and broadsides advertising events, readings, or publications by Ginsberg;
+            many of these are signed. Accession (2010-0098) (25 items; 0.6 lin. ft.; dated
+            1950-2009) includes writings and some correspondence from Diane di Prima, Anselm Hollo,
+            and Anne Waldman; also includes some Allen Ginsberg materials. Accession (2011-0045) (27
+            items; 1.5 lin. ft.; dated 1963-2007) includes pamphlets and publications by Gary
+            Snyder.</abstract>
+         <physdesc id="aspace_7618fa1bac6eea8e422d85780229b978">
+            <extent>225 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_a1abf83bbdfe0541ba12ac07fedcc31b">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_3783337b67eba7fc03a841c93a647e88">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_760b50458b5ce4f4b08a21c28ae22597">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_196f73bac80659372e1e01b4c62ab7d8">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Walter H. Smith Collection of Beat Literature, David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_103cfdde32eb05ed244c9af8496c6801">
+         <head>Provenance</head>
+         <p>The Walter H. Smith Collection of Beat Literature was received by the David M.
+            Rubenstein Rare Book &amp; Manuscript Library as a gift in 2008, 2009, 2010, and
+            2011.</p>
+      </acqinfo>
+      <processinfo id="aspace_015dfb849437dfe72de94aa000f990fb">
+         <head>Processing Information</head>
+         <p>Processed by Meghan Lyon, August 2009</p>
+         <p>Encoded by Meghan Lyon, August 2009</p>
+         <p>Updated by Meghan Lyon, October 2010, April 2011</p>
+         <p>Materials may not have been ordered and described beyond their original condition. </p>
+         <p>Accessions included in this collection: 2009-0113, 2009-0130, 2010-0098</p>
+      </processinfo>
+      <bioghist id="aspace_f9915dd4c4e43f9edd2ee33af7ec82f5">
+         <head>Biographical Note</head>
+         <p>Walter H. Smith donated this collection of Beat literature. The majority of the
+            collection is by and about Allen Ginsberg, a poet and member of the Beat Generation.</p>
+         <p>Allen Ginsberg was born in Newark, New Jersey, and grew up in the New York area. He
+            entered Columbia University in the 1940s, where he developed close friendships with men
+            like Jack Kerouac and Neal Cassidy, who, with Ginsberg, were founding members of what
+            became known as the Beat Generation. Ginsberg's most famous work, <title type="simple"
+               render="italic">Howl and Other Poems</title>, was published in 1956, and became a
+            test case for fighting obscenity and censorship laws. He was also an outspoken proponent
+            for gay rights, the legalization of marijuana and other drugs, and free speech, and
+            frequently led protests against the Vietnam War during the 1960s and 1970s. He went on
+            to publish numerous volumes and compilations of poetry, and later became a professor at
+            Brooklyn College. He died in New York City at the age of 70. (Source: Academy of
+            American Poets, www.poets.org)</p>
+         <p>Diane di Prima was born in 1934 and became an important writer and poet in the Beat
+            movement. She has written over 40 books of poetry and prose, and has won numerous grants
+            and awards, including an Award for Lifetime Achievement from the National Poetry
+            Association in 1993. In 2009, she was named the Poet Laureate of San Francisco. (Source:
+            dianediprima.com)</p>
+         <p>Anne Waldman was born in 1945, and also joined the East Coast poetry scene in the 1960s.
+            She was a co-founder, with Allen Ginsberg and others, of the Jack Kerouac School of
+            Disembodied Poets, at Naropa Institute in Boulder, Colorado. She remains there as a
+            professor and director of the Naropa University Summer Writing Program.</p>
+         <p>Anselm Hollo, born in Finland in 1934, has lived in the United States since 1967. He is
+            a poet and translator, and has published over 40 titles of poetry. He also teaches
+            creative writing at Naropa University.</p>
+         <p>Born in 1930, Gary Snyder is a Pulitzer Prize winning poet, ecological activist, founder
+            of the Ring of Bone Zendo, and member of the English Department faculty of U.C.
+            Davis.</p>
+      </bioghist>
+      <scopecontent id="aspace_0bb1a0431dd4b3bea905c57ddc32a019">
+         <head>Collection Overview</head>
+         <p>Accessions (2009-0113) and (2009-0130) (200 items; 3.5 lin. ft.; dated 1959-2003)
+            include books, compilations, journals, magazines, and other publications with works by
+            and about Allen Ginsberg. Also included are posters and broadsides advertising events,
+            readings, or publications by Ginsberg; many of these are signed.</p>
+         <p>Accession (2010-0098) (25 items; 0.6 lin. ft.; dated 1964-2009) includes publications
+            and some correspondence from Beat Generation poets such as Anne Waldman, Diane di Prima,
+            Anselm Hollo, and Allen Ginsberg. Includes signatures of Hollo and Waldman.</p>
+         <p>Accession (2011-0045) (27 items; 1.5 lin. ft.; dated 1963-2007) includes publications,
+            pamphlets, and posters featuring works and readings by Gary Snyder.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">American literature -- 20th century</subject>
+         <subject source="lcsh">Beat generation</subject>
+         <subject source="lcsh">Beat generation in literature</subject>
+         <genreform source="aat">Posters</genreform>
+         <persname source="ingest">Waldman, Anne, 1945-</persname>
+         <persname source="ingest">Smith, Walter H. (collector)</persname>
+         <persname source="ingest">Snyder, Gary, 1930-</persname>
+         <persname source="ingest">Hollo, Anselm</persname>
+         <persname source="ingest">Smith, Walter H. (collector)</persname>
+         <persname source="ingest">Di Prima, Diane</persname>
+         <persname source="ingest">Ginsberg, Allen, 1926-1997</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_3vx" level="series">
+            <did>
+               <unittitle>Allen Ginsberg: Publications and Periodicals</unittitle>
+               <physdesc id="aspace_61423ee72fedccc1440d3a5b29d1ea20">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_21f57342f3a9bde355110825d9d1200b">
+               <head>Scope and Contents note</head>
+               <p>Includes books, journals, magazines and other periodicals, and various other
+                  publications that include work by or about Allen Ginsberg. Several include
+                  Ginsberg's signature.</p>
+            </scopecontent>
+            <arrangement id="aspace_f35b0a4181794e5a7f4b04afc621791a">
+               <head>Arrangement note</head>
+               <p>Materials listed first are stacked loose in the box; folders contain small, thin,
+                  or fragile publications.</p>
+            </arrangement>
+            <c02 id="aspace_ref14_0kr" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">American Review</title>, No. 16, 1973</unittitle>
+                  <container id="aspace_f193ac15f08ed9150efe50ced65da942" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_ht1" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Countdown</title>, No. 3, 1970</unittitle>
+                  <container id="aspace_5b693feaf32168e846dfc04af5d58947" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_y8w" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Countdown</title>, No. 2, 1970</unittitle>
+                  <container id="aspace_2afbe838f3c65ec4441e8ce90338ca7a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_4zi" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">New American Review</title>, No. 11, 1971</unittitle>
+                  <container id="aspace_a7535b8a25d265b72dc3740abf44b8fe" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_tpp" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Boss</title>, 1966</unittitle>
+                  <container id="aspace_35bca76da720a3de42f8d5f527f6888b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_4tj" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Little Caesar</title> (Lita Hornick article on Allen
+                     Ginsberg and Jack Kerouac School of Disembodied Poets at the Naropa Institute),
+                     No. 10, 1980</unittitle>
+                  <container id="aspace_dfe1da1b255883fc6ad0bb66c9b70488" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_shb" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Long Shot</title>, Vol. 27, 2004</unittitle>
+                  <container id="aspace_22eae47d2e0b9183eab603af8143bb50" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_m5c" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Long Shot</title>, Vol. 15, 1993</unittitle>
+                  <container id="aspace_4b4c79fd5f01c23488a33e877418d7ca" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_p4w" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Long Shot</title>, Vol. 4, 1986</unittitle>
+                  <container id="aspace_fe6d070f5ccbbb8d0ac3c65c0081b6b3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_nmk" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Long Shot</title>, 1982</unittitle>
+                  <container id="aspace_9299e50960b00d0a824b1f584bd80c8b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_5bq" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Paris Review</title> (Thomas Clark interview, signed
+                     on page 13), Vol. 10, No. 37, Spring 1966</unittitle>
+                  <container id="aspace_c62c0decce7b15659fbc17bc4d4f5e86" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_ub8" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Portable Lower East Side</title>, Vol. 6, No. 1,
+                     1989</unittitle>
+                  <container id="aspace_da5dc22b8a973d4632830bb7a2206533" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_e8q" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">ppHOO</title> (Bengali-English-French from India,
+                     memorial issue), 1998</unittitle>
+                  <container id="aspace_6c4ea762aa753574a9463f79d95a1d8d" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_u69" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Seventies</title> (signed by Robert Bly), No. 1,
+                     Spring 1972</unittitle>
+                  <container id="aspace_d6eeb57920cf5facffce0f40c028c312" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_n29" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">San Jose Studies</title>, Vol. XIX, No. 1, Fall
+                     1993</unittitle>
+                  <container id="aspace_0f291ade8d5305cfbdefa6ef5b7009a6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_z62" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Stony Brook</title>, Vol. 1, No. 2, 1968</unittitle>
+                  <container id="aspace_76708859586fe8e41437d27f24824dea" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_9tr" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Zero</title>, Vol. 2, 1979</unittitle>
+                  <container id="aspace_e1339e99ff806e20c34f836cd1a65e23" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_gcf" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Birth</title>, No. 3, 1960</unittitle>
+                  <container id="aspace_b4c365c4a0ac3d1e39b103be35f1bb7c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_nay" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">California Librarian</title>, Oct. 1970</unittitle>
+                  <container id="aspace_1f9b6cd6c78a04e5d854d13af8507b6b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_jan" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Cambridge Review</title> (Includes poem and review
+                     of <title render="italic">Howl</title>; signed by Allen Ginsberg), Dec.
+                     1956</unittitle>
+                  <container id="aspace_60d216fe4e67de02f7decdefcb1d5db6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_hw2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">New Directions</title>, No. 14, 1953</unittitle>
+                  <container id="aspace_766c6100d2faa0e440fa5fc6d3ca8bb1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_ffs" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The New York Quarterly</title> (signed by Allen
+                     Ginsberg), No. 2, Spring 1970</unittitle>
+                  <container id="aspace_1fa373d03a42efd503b3342b3f6e0d33" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_8g4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Mulch</title> (Ginsberg on Kerouac), Vol. 2, No. 2,
+                     1974</unittitle>
+                  <container id="aspace_1402ef19d2c2f0abf0f630dfe1d58351" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_x6d" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Adventures in Poetry</title>, Vol. 12, 1975</unittitle>
+                  <container id="aspace_3f3f432c2290f6c7e060f1bdc1cb6692" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_21ebc4591f5f6ea6922762719dedab50"
+                     parent="aspace_3f3f432c2290f6c7e060f1bdc1cb6692" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_4dl" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Intrepid</title>, No. 11/12, 1969</unittitle>
+                  <container id="aspace_d0649143502a9b44cf81e833c9bc0fda" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_4zo" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">East Side Review</title>, Vol. 1, No. 1,
+                     1972</unittitle>
+                  <container id="aspace_cc4b68801a4fa456ab4a54af6640ea7d" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_s8h" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Georgia Straight</title> (Thomas Forcade letter about
+                     Ginsberg controversy in Canadian underground newspaper), Vol. 7, No. 303,
+                     1973</unittitle>
+                  <container id="aspace_e26e6ba625c51d4d7985f0ab0babeb03" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_7bc5804bdbe667576e1e3793ba6e6b85"
+                     parent="aspace_e26e6ba625c51d4d7985f0ab0babeb03" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_hu7" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Magical Blend</title> (David Brown and Rebecca McGlen
+                     interview), No. 38, 1993</unittitle>
+                  <container id="aspace_6227a4290b2fff68fda4e8834d9f468a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_oke" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">New Age</title> (Peter Chowka interview; cover signed by
+                     Ginsberg), 1976</unittitle>
+                  <container id="aspace_b34c1a8089d5f7e86cd30d24065d631c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_kao" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The New Censorship</title>, Vol. 5, No. 4,
+                     1994</unittitle>
+                  <container id="aspace_da8300303b8699bc3420d35cb32cbf75" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_5t4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Nexus</title> (Ginsberg memorial issue), Vol. 32,
+                     1997</unittitle>
+                  <container id="aspace_42fbe6edd16d0f64280589213ecc4f5e" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_069c408ebf92169d336519d6cf29792f"
+                     parent="aspace_42fbe6edd16d0f64280589213ecc4f5e" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_2q4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Oui</title> (article by biographer Michael Schumacher),
+                     Vol. 11, No. 6, June 1982</unittitle>
+                  <container id="aspace_ca12e4dbf02eeb8a86e5741d2912b4c6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_nsq" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Parapluie</title>, No. 10, 1971</unittitle>
+                  <container id="aspace_9e7f4bfa2e4e0d68d068446f258c86de" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_nfq" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Playboy</title>, Vol. 15, No. 12, Dec. 1968</unittitle>
+                  <container id="aspace_b656926f3f37182ee2e6a492e61b57fe" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_1vm" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Nomad</title> (signed), No. 9, Summer 1961</unittitle>
+                  <container id="aspace_c53d317fef5da43571abe6c10f86bd1d" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_97e06b0485d8ca9f49dc81002cb0e289"
+                     parent="aspace_c53d317fef5da43571abe6c10f86bd1d" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_66a" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Big Sky</title>, No. 1, 1971</unittitle>
+                  <container id="aspace_2578f93c1722bbb248c05fe0e5acaed3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_g7e" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Big Sky</title>, No. 2, 1972</unittitle>
+                  <container id="aspace_62772fb4bbe745f3445f9af84fccf49c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_2yt" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Anthology of Underground Poetry</title>, Section 9,
+                     1971</unittitle>
+                  <container id="aspace_9fc0ec713fbf32a962ce643ebb4d944d" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_96k" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Columbia Review</title>, 1961</unittitle>
+                  <container id="aspace_c52027407ee3804d4ab2793475efb091" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_w6j" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Third Rail</title>, No. 8, 1987</unittitle>
+                  <container id="aspace_a6c4189ab1f0542a1fc17e09451ade52" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_2fe0acb5260c1a5533c8d2843cfe06ff"
+                     parent="aspace_a6c4189ab1f0542a1fc17e09451ade52" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_ryo" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Third Rail</title>, No. 7, 1985/1986</unittitle>
+                  <container id="aspace_02c3063e54bf50fea3161d21bb33ce43" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_z7r" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Synapse</title> 3, Jan. 1965</unittitle>
+                  <container id="aspace_afdfb1550bb8828763c599f78f977327" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_ori" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">So &amp; So</title>, Fall 1978</unittitle>
+                  <container id="aspace_ea5d85163665209aacdc103130d72565" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_s1j" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Ramparts</title>, Vol. 5, No. 5, Nov. 1966</unittitle>
+                  <container id="aspace_527441a479aae2563c84772be9335ad0" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_834d6b6b67a41ccc3050b2cf3269592e"
+                     parent="aspace_527441a479aae2563c84772be9335ad0" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_gio" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Shambhala Sun</title>, Vol. 2, No. 6, July
+                     1994</unittitle>
+                  <container id="aspace_22f40f546a768c171ad38ec2095a394e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_04x" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Shout!</title> Vol. 2, No. 1, 1996</unittitle>
+                  <container id="aspace_48c160ed1f40626de4791876cffeaa7e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_cig" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Swank</title>, Vol. 7, No. 6, Jan. 1961</unittitle>
+                  <container id="aspace_fe1ce5255d92bba90aafe986b5b463e3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_4p7" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Writer's Digest</title> (article by biographer Michael
+                     Schumacher), May 1984</unittitle>
+                  <container id="aspace_b39c8c41971b0590edd2e6925a81c38a" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_d45759e839e0dd84e1e8b0729f362624"
+                     parent="aspace_b39c8c41971b0590edd2e6925a81c38a" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_wry" level="file">
+               <did>
+                  <unittitle>Herschel Silverman, <title render="doublequote">High on the
+                        Beats.</title>
+                     <title render="italic">Atom Mind</title>, Vol. 4, No. 16, 1995</unittitle>
+                  <container id="aspace_0b5651f2bbed98da0b41ec2bac34fc14" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_5nb" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Bastard Angel</title> 1, 1972</unittitle>
+                  <container id="aspace_df4f557c646cff1c47a97303919e41c4" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_lbv" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Evergreen Review</title>, No. 42, Aug. 1966</unittitle>
+                  <container id="aspace_adfe2ab751bc4ae41dd9ccc0ca1eb452" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_8kv" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Evergreen Review</title>, No. 40, April 1966</unittitle>
+                  <container id="aspace_cdd9d95d620d59e88692b812d2c297dd" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_9204d64ce5079891859e54500a88ccbb"
+                     parent="aspace_cdd9d95d620d59e88692b812d2c297dd" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_7l5" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Milk Quarterly</title>, No. 8, 1975</unittitle>
+                  <container id="aspace_26941be212c6436c3fe7e4474f363180" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_vs1" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Vinduet</title>, No. 3, 1961</unittitle>
+                  <container id="aspace_db7e4ad2e7b828fe5cd14038d45ddcc2" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_dmq" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Eclipse</title>, 8/9, 1971</unittitle>
+                  <container id="aspace_da815df0d3d62c331bbe52dbeacf9c68" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_6fs" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Camera Austria</title>
+                  </unittitle>
+                  <container id="aspace_edf62b7f30817d737bc6748785857f87" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_c54bec8c6f9bc5f122f5d22bdcd3f79e"
+                     parent="aspace_edf62b7f30817d737bc6748785857f87" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_qmp" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">SF Weekly</title>, Vol. XIII, No. 50, Jan.
+                     1995</unittitle>
+                  <container id="aspace_9a4e2b269a4dc5a504d2ca7c7589fdf9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_ypr" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Opus International</title>, 1968</unittitle>
+                  <container id="aspace_44507170eb1473fc4eb8429b9f50f140" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_dnn" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Panjandrum</title> (vinyl LP and portfolio of broadsides
+                     and artwork), Vol. 1, No. 1, 1972</unittitle>
+                  <container id="aspace_447cea43ac5f0f9a7a354d6610f43ccb" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_4mc" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Sunday Camera Magazine</title>, Nov. 11,
+                     1984</unittitle>
+                  <container id="aspace_dd6af8de6a6af9a2fece57c01ed976ef" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_3d5670ebaa248802b9a765387e5f3109"
+                     parent="aspace_dd6af8de6a6af9a2fece57c01ed976ef" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_xqh" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Sunday Camera Magazine</title>, June 12,
+                     1987</unittitle>
+                  <container id="aspace_f6c4c417293c9c6f3096e9d42a7fac0e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_z4d" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Village Voice</title> (Ginsberg memorial issue),
+                     Vol. XLII, No. 15, 1997</unittitle>
+                  <container id="aspace_5e522cbed9e871e53e5530fe9875d6fa" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_3os" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Bloomsburg Review</title> (interview by Bill
+                     Trembley), Vol. 5, No. 9, 1985</unittitle>
+                  <container id="aspace_8c61ecf3d002060412d99caead541193" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_ns9" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Bookforum </title>(review by David Gates), Summer
+                     2005</unittitle>
+                  <container id="aspace_15c599e4da70fc3129dfa4568865a5aa" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_5n3" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">East West Journal</title> (Marilyn Webb article on early
+                     Naropa scene), May 1976</unittitle>
+                  <container id="aspace_6ea2ad498a7686adfe9758dbb8ab921f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_y60" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The American Poetry Review</title>, Vol. 23, No. 3,
+                     1994</unittitle>
+                  <container id="aspace_2dea856f9c37ab529f5e11071e1c2d10" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_6eff816b8c877c58860d830e3ad9e30f"
+                     parent="aspace_2dea856f9c37ab529f5e11071e1c2d10" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_pho" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Rolling Stone</title>, No. 761 (Ginsberg memorial
+                     issue), 1997</unittitle>
+                  <container id="aspace_9756fb96eaf49e0747f5812809a63bcd" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_l4t" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Rolling Stone</title>, No. 204, 1976</unittitle>
+                  <container id="aspace_478658a199b34bed8f1d1bf90dda5796" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_1l5" level="file">
+               <did>
+                  <unittitle>Jim Moore interview with Allen Ginsberg, <title render="italic">Hungry
+                        Mind Review</title>, No. 30, 1994</unittitle>
+                  <container id="aspace_6b3d340f376a6be91c7251f2d67d941c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref85_bzz" level="series">
+            <did>
+               <unittitle>Allen Ginsberg: Broadsides, Handbills, and Posters Series</unittitle>
+               <physdesc id="aspace_9f9abfa4675da2b5f74292d1d26ee691">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_489b0e7a8fd6e82c9e2d94b37d8712f9">
+               <head>Scope and Contents note</head>
+               <p>Posters and broadsides advertising events, readings, or publications by or about
+                  Allen Ginsberg.</p>
+            </scopecontent>
+            <c02 id="aspace_ref87_yn7" level="file">
+               <did>
+                  <unittitle>The Beat Generation, Spring class, 1982</unittitle>
+                  <container id="aspace_1905033be5f6ab3e919cdeec75e727a7" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_9c393c0809d888eacb4e70e106ea14fd"
+                     parent="aspace_1905033be5f6ab3e919cdeec75e727a7" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_oyw" level="file">
+               <did>
+                  <unittitle>First Annual Ginsberg Poetry Festival, 2003</unittitle>
+                  <container id="aspace_38f093ec40e9e03552cece77999327e2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_byb" level="file">
+               <did>
+                  <unittitle>New York Poets, German Publication, 1981</unittitle>
+                  <container id="aspace_4b8810ad0756cb1106828497b283e8ec" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_t1x" level="file">
+               <did>
+                  <unittitle>Kerouac Conference and Participants, 1982</unittitle>
+                  <container id="aspace_50f28306c43efd470efe77e7ae9ae48e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_f8x" level="file">
+               <did>
+                  <unittitle>A Celebration of Life, Boulder, CO, circa 1980</unittitle>
+                  <container id="aspace_332adc556ab8d8dc0781c916939564c2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_5ux" level="file">
+               <did>
+                  <unittitle>Reading at Columbia with Burroughs, 1975</unittitle>
+                  <container id="aspace_d93b12149d7f2c4dc6c92da7686fe0e8" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_zbj" level="file">
+               <did>
+                  <unittitle>Reading in Berkeley, CA, for Nyingmapa, 1971</unittitle>
+                  <container id="aspace_648833796ae8265b97e49ea2ae9e4346" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_6p5" level="file">
+               <did>
+                  <unittitle>Reading with Diane Di Prima, Denver, CO, 1982</unittitle>
+                  <container id="aspace_00a87041a465aab5b3778ddeee2ee84e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_568" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">San Francisco Oracle</title>, Vol. 1, No. 7,
+                     1969</unittitle>
+                  <container id="aspace_1a24b9a3c24d2e449492d1e02c10e2e5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_063" level="file">
+               <did>
+                  <unittitle>Promotional photograph by Robert Frank, circa 1990</unittitle>
+                  <container id="aspace_d8201fc02cb7589b74c5bc04e285a7aa" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_bf049cc03b8920c5607a5512770be9c7"
+                     parent="aspace_d8201fc02cb7589b74c5bc04e285a7aa" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_r65" level="file">
+               <did>
+                  <unittitle>Memorial services, Ann Arbor, MI, 1997</unittitle>
+                  <container id="aspace_bf214ac884331898d136de7a72b7cbdb" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_20t" level="file">
+               <did>
+                  <unittitle>Concert with Patti Smith, Ann Arbor, MI, 1996</unittitle>
+                  <container id="aspace_a58426244ea57ce2c1711b7e69f53e90" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_axk" level="file">
+               <did>
+                  <unittitle>Planet News Tribute in New York City, 1998</unittitle>
+                  <container id="aspace_9042f267d93a07504a92c30b2c6ee99e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_zao" level="file">
+               <did>
+                  <unittitle>Ginsberg Marathon, Ann Waldman, 2001</unittitle>
+                  <container id="aspace_2ae8f7df2b42c4a7bd8bdadab73061ee" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_ecs" level="file">
+               <did>
+                  <unittitle>50 Years of <title render="italic">Howl</title>, 2006</unittitle>
+                  <container id="aspace_d71abfa2ec118843dbdeca5ba0edb2fd" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_p0h" level="file">
+               <did>
+                  <unittitle>Ginsberg at Tribal Stomp by Greg Savalin, 1978</unittitle>
+                  <container id="aspace_611f56e1834cea5b7f6f06954cf3f241" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_hux" level="file">
+               <did>
+                  <unittitle>Tribal Stomp Greek Theatre, Berkeley, 1978</unittitle>
+                  <container id="aspace_3a3ac4c7d7f379ba006fb08d209b22fc" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_jlh" level="file">
+               <did>
+                  <unittitle>50 Years of <title render="italic">Howl</title>, limited edition
+                     (signed by artist), 2006</unittitle>
+                  <container id="aspace_e6730968850fd0ed64f4bd6668900768" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_n7g" level="file">
+               <did>
+                  <unittitle>First Blues LP (signed by Ginsberg and Bob Dylan), 1983</unittitle>
+                  <container id="aspace_8f8ef210f56903da2d7b79903b9af617" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_713" level="file">
+               <did>
+                  <unittitle>Ginsberg Tribute at Naropa, 1994</unittitle>
+                  <container id="aspace_0957654ac657e5e3c16586010acb3072" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_6a37cdf127aea44dde69cc566a62de9d"
+                     parent="aspace_0957654ac657e5e3c16586010acb3072" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_4ql" level="file">
+               <did>
+                  <unittitle>Tibetan Nyingmapa Benefit, 1971</unittitle>
+                  <container id="aspace_276a991a07605ca9d0bc16789f05a0f0" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_735" level="file">
+               <did>
+                  <unittitle>Promotional Rhino Records, 1993</unittitle>
+                  <container id="aspace_87b014adeb65b2e4c73c389d4ca744f5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_5xf" level="file">
+               <did>
+                  <unittitle>Concert with Patti Smith (signed by artist), 1996</unittitle>
+                  <container id="aspace_4397caf5c3a2cb03bf047044add01c73" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_u3f" level="file">
+               <did>
+                  <unittitle>Memorial Services and Concert (signed by artist), 1997</unittitle>
+                  <container id="aspace_c6943bb657a62ae1f3fa004f3538c8a1" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_ywb" level="file">
+               <did>
+                  <unittitle>Beat Rushmore, by Wavy Gravy, 2004</unittitle>
+                  <container id="aspace_1ac965af0aac85a91b28ad0159658545" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_2rf" level="file">
+               <did>
+                  <unittitle>Promotional poster for film <title render="italic">The Source</title>,
+                     1999</unittitle>
+                  <container id="aspace_f07b6506d22d2750e8b66d98e84b9556" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_x1n" level="file">
+               <did>
+                  <unittitle>Reading at the University of Kentucky (signed by Ginsberg),
+                     1993</unittitle>
+                  <container id="aspace_18f425670e5eb49d812ed23baefb788a" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_3058a0cfa753bedeb2386488eb96217f"
+                     parent="aspace_18f425670e5eb49d812ed23baefb788a" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_oh8" level="file">
+               <did>
+                  <unittitle>Reading in San Antonio, TX, 1980s</unittitle>
+                  <container id="aspace_7c38e51197bd8b82dfcd3a07df531c3b" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_qy8" level="file">
+               <did>
+                  <unittitle>Magazine advertisement for GAP khakis, 1993</unittitle>
+                  <container id="aspace_d7291b9617f017825f80b273d6533468" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_7uj" level="file">
+               <did>
+                  <unittitle>Reading at Brown University (signed by Ginsberg), 1985</unittitle>
+                  <container id="aspace_77c54795037d0847a7eaf54214f7bc77" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref117_o3v" level="file">
+               <did>
+                  <unittitle>Rogue Dalton Culture Brigade, 1984</unittitle>
+                  <container id="aspace_5319a523a3af80a57b38261f0f01d756" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_9gb" level="file">
+               <did>
+                  <unittitle>Shambhala (signed by Ginsberg), Cambridge, MA, 1983</unittitle>
+                  <container id="aspace_f1c6f079d84305034700d49b593ca2d6" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_gc5" level="file">
+               <did>
+                  <unittitle>Naropa Performing Arts Series (signed), 1987</unittitle>
+                  <container id="aspace_cc8fc7cd981ec1e74b392731331f887e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_d9t" level="file">
+               <did>
+                  <unittitle>Concert with Bhagavan Das, 1974</unittitle>
+                  <container id="aspace_395a41cb8c50a0f160b756f8159133c1" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_gcu" level="file">
+               <did>
+                  <unittitle>Reading at Bryn Mawr, PA, 1976</unittitle>
+                  <container id="aspace_f23b2639ccb8d36e2a128372ad0cd51d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_1yx" level="file">
+               <did>
+                  <unittitle>Naropa with Orlovsky and Scheenmon, 1980</unittitle>
+                  <container id="aspace_859bd0dcb088f0dd1e0909bbd05e346f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_t32" level="file">
+               <did>
+                  <unittitle>Gathering of the Tribes, second printing, 1967</unittitle>
+                  <container id="aspace_24108f7f3f6436c84a84c30b255cfb6a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_2t1" level="file">
+               <did>
+                  <unittitle>Various Poets at Tulagi's, 1970s</unittitle>
+                  <container id="aspace_d327996b1d4a82626920e69ab5e381a0" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_0074ce1e88eed471a3c9b23a47e3c635"
+                     parent="aspace_d327996b1d4a82626920e69ab5e381a0" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_a33" level="file">
+               <did>
+                  <unittitle>Flaming Youth at Barnard, circa 1974</unittitle>
+                  <container id="aspace_322d7fba3bc3b26b4d8958445bf933ad" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref126_62d" level="file">
+               <did>
+                  <unittitle>Naropa with Philip Whalen, circa 1975</unittitle>
+                  <container id="aspace_01b1506e535fba1a8265a5749575e2e5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_5qy" level="file">
+               <did>
+                  <unittitle>Rocky Flats Protest with Orlovesky, 1978</unittitle>
+                  <container id="aspace_ce6bea924838ac37df31540df88774b2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_263" level="file">
+               <did>
+                  <unittitle>Poetry in Motion with Creeley, 1983</unittitle>
+                  <container id="aspace_e387a2c1a983c765b9c9f1a6a557eecf" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref129_z28" level="file">
+               <did>
+                  <unittitle>New Blood Reading at Naropa (signed by Ginsberg), 1981</unittitle>
+                  <container id="aspace_87300825c9c08a0fb2084eafcf48b11f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_z8g" level="file">
+               <did>
+                  <unittitle>Reading at Rochester Institute (signed by Ginsberg), 1984</unittitle>
+                  <container id="aspace_1ad7b8ba97b072a24a85b30d30fced5c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_ujz" level="file">
+               <did>
+                  <unittitle>Naropa with Corso and Waldman, circa 1980</unittitle>
+                  <container id="aspace_8ab6f0309388109f4b3880c001dba493" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_46v" level="file">
+               <did>
+                  <unittitle>Workshop in New York City (signed by Ginsberg), 1985</unittitle>
+                  <container id="aspace_e7bd1aff0fe10c3eb3417c7a4f2ef2fb" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_b05743ac7798fdf2e7c82e60a682d52d"
+                     parent="aspace_e7bd1aff0fe10c3eb3417c7a4f2ef2fb" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_wl6" level="file">
+               <did>
+                  <unittitle>Reading in London, 1983</unittitle>
+                  <container id="aspace_0495922b494af06b6e2b1f49edda23eb" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_xd8" level="file">
+               <did>
+                  <unittitle>Reading in Holland (signed by Ginsberg), 1984</unittitle>
+                  <container id="aspace_b03171402154a6afa84854cb0a6cb9ef" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_4wd" level="file">
+               <did>
+                  <unittitle>Reading in Sweden, 1983</unittitle>
+                  <container id="aspace_f8b6e69c1ccdfa111e984d81a2c5ba02" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_j0p" level="file">
+               <did>
+                  <unittitle>Naropa with Amiri Baraka, circa 1983</unittitle>
+                  <container id="aspace_8f81ded6ad0e385c074490ed7a84a4d7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref137_fcj" level="file">
+               <did>
+                  <unittitle>Naropa with Orlovsky and Brownstein, circa 1978</unittitle>
+                  <container id="aspace_1e6658d59306df88d7c14c8002b6e8dc" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_siv" level="file">
+               <did>
+                  <unittitle>Rocky Flats Benefit Arts Festival, 1978</unittitle>
+                  <container id="aspace_ae7e336ecbe217fab74a0b51b35ec181" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref139_9dz" level="file">
+               <did>
+                  <unittitle>Three lectures (signed by Ginsberg), 1981</unittitle>
+                  <container id="aspace_3a9f0503c009028a1b6b78a2598b1b91" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref140_n7a" level="file">
+               <did>
+                  <unittitle>Kerouac Conference Historic Readings (signed by Ginsberg),
+                     1982</unittitle>
+                  <container id="aspace_9ab3512d5701c7f545b438b2822e8a3e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref141_z6o" level="file">
+               <did>
+                  <unittitle>Kerouac Conference with Kesey (signed by Ginsberg), 1982</unittitle>
+                  <container id="aspace_728434e2148ce9f05770eac34b14acae" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref142_q4k" level="file">
+               <did>
+                  <unittitle>The Beat Generation, Fall class, 1982</unittitle>
+                  <container id="aspace_864acbe0bf3b59360666f8d869fa665b" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref143_f9j" level="file">
+               <did>
+                  <unittitle>108 Images Exhibition in Venice, Italy, 1995</unittitle>
+                  <container id="aspace_0f3ae71fd46f8fb46fd50981cfbc5e7c" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_1u0" level="file">
+               <did>
+                  <unittitle>Reality Sandwiches, Nishen, Germany, 1989</unittitle>
+                  <container id="aspace_a4aaa4dbdad3638830da9a338378b9c6" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref145_g64" level="file">
+               <did>
+                  <unittitle>Tribute by artist Eric Drowker in New York City, 1998</unittitle>
+                  <container id="aspace_b9b7e66102d26c31a27d5d985876064c" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_olx" level="file">
+               <did>
+                  <unittitle>Mantra Reading with Gary Snyder, 1972</unittitle>
+                  <container id="aspace_88458303b978d3de75d1d57b37bf0ba7" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref147_4e8" level="file">
+               <did>
+                  <unittitle>Philip Glass and Allen Ginsberg, 17 November 1989</unittitle>
+                  <container id="aspace_66d223126dda2924a42c4370d862c52c" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref148_6bt" level="file">
+               <did>
+                  <unittitle>Undated photograph of Ginsberg and others</unittitle>
+                  <container id="aspace_26239d2774ae595e290eadbca52c55f8" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref149_dmi" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Song: Fie My Fum,</title>
+                     <title render="italic">Neurotica</title>, No. 6, 1950</unittitle>
+                  <container id="aspace_28e1e464ad05dcc39091de2220899d0e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref150_69k" level="file">
+               <did>
+                  <unittitle>50 Anniversary of <title render="italic">Howl</title>: Naropa
+                     University, 25 June 2006</unittitle>
+                  <container id="aspace_e861b8ae59c2228adf4da296f921856c" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref151_aei" level="file">
+               <did>
+                  <unittitle>Allen Ginsberg Memorial and Concert program, 25 May 1997</unittitle>
+                  <container id="aspace_0171a9dc77f535517ea26a9f5f17fcd9" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_8vm" level="file">
+               <did>
+                  <unittitle>A Memorial Tribute to Allen Ginsberg, 20 April 1997</unittitle>
+                  <container id="aspace_31c0769c411a1f2b22ef2a86e7aea4cc" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref153_m77" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Yowl</title> (Zippy the Pinhead comic), Bill
+                     Griffith, 1996</unittitle>
+                  <container id="aspace_c01597cd42eab41afc878a60c320d7cf" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref155_9qp" level="series">
+            <did>
+               <unittitle>Other Beat Poets and Writers, 1963-2009</unittitle>
+               <physdesc id="aspace_b79b8cffedd70c88a316df71185ab72a">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref157_o0h" level="subseries">
+               <did>
+                  <unittitle>Diane di Prima (2 folders)</unittitle>
+               </did>
+               <c03 id="aspace_ref158_der" level="file">
+                  <did>
+                     <unittitle>Reading announcement, 16 April 1967</unittitle>
+                     <container id="aspace_abac422530438e26dcfeebd396752e33" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref159_3j0" level="file">
+                  <did>
+                     <unittitle>Wedding announcement, 23 June 1972</unittitle>
+                     <container id="aspace_ef81768be65570404474b782c48fe0d3" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref160_tpd" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Mulch</title>, Vol. 3, No. 1, Fall 1974 (8
+                        poems)</unittitle>
+                     <container id="aspace_14151835852ca8de59007679baebd860" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_d0i" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Formal Birthday Poem-Feb 23, 1964,</title>
+                        <title render="italic">Poetmeat</title>, No. 6, 1964</unittitle>
+                     <container id="aspace_01304f941b3e7e30593a6a22c7de04e1" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref162_gyn" level="subseries">
+               <did>
+                  <unittitle>Anne Waldman (1 folder)</unittitle>
+               </did>
+               <c03 id="aspace_ref163_nj8" level="file">
+                  <did>
+                     <unittitle>Postcards (including a signature), 1994 and undated</unittitle>
+                     <container id="aspace_1e23170229fea2850b5e94b75d14e7cc" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_tf4" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Pressure,</title>
+                        <title render="italic">Big Sky</title>, No. 5, 1973</unittitle>
+                     <container id="aspace_751bd3d4a52977a4bd6f925e091297ad" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref165_8j7" level="subseries">
+               <did>
+                  <unittitle>Anselm Hollo (2 folders)</unittitle>
+               </did>
+               <c03 id="aspace_ref166_f0y" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Some Yak Turds,</title>
+                        <title render="italic">Doones</title>, Vol. 1, No. 2, undated (signed by
+                        Hollo, 2009)</unittitle>
+                     <container id="aspace_16bbcfdc5bab2673903740accd881ede" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref167_atc" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Pomology,</title>
+                        <title render="italic">Tlaloc</title>, No. 11, undated</unittitle>
+                     <container id="aspace_a29105d7e77f78c916b6353f4f14be44" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref168_at1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Have A Seat,</title>
+                        <title render="italic">Not Guilty!</title>, 1975 (signed by
+                        Hollo)</unittitle>
+                     <container id="aspace_fc9e9b00ee35aa1c94dfdf968978bbba" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref169_18a" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Gasworks</title>, Winter 1990 (6 poems; signed by
+                        Hollo)</unittitle>
+                     <container id="aspace_b050caa02d2b0f91fa9854f7540505da" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref170_b7n" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Cafe Review</title>, Vol. 6, Spring
+                        1995</unittitle>
+                     <container id="aspace_32a4b000d97650cfa18fd423eb662efd" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref171_ii5" level="subseries">
+               <did>
+                  <unittitle>Gary Snyder (4 folders, 8 books, 1 oversize folder)</unittitle>
+               </did>
+               <c03 id="aspace_ref172_nlg" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Mandala</title> No. 2, Summer 1975. Dutech poetry
+                        magazine.</unittitle>
+                     <container id="aspace_8683c5c410d90e4cd5d03cd2df268b86" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref173_sfy" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Synapse 4</title>, San Francisco Issue, May
+                        1965</unittitle>
+                     <container id="aspace_ffc9586cb3606c1add9995c13bb12486" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref174_d8w" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">New Measure</title> 6: Oxford University, Summer
+                        1967</unittitle>
+                     <container id="aspace_76bb5f12bc6dcde0a5607016453e21e7" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_4gj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Kutsu</title> No. 4, Journal of Backcountry Writing,
+                        1975</unittitle>
+                     <container id="aspace_e0b10e0335f5a23256d948413fdd0694" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref176_v9i" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Kutsu</title> No. 5, Journal of Backcountry Writing,
+                        1976</unittitle>
+                     <container id="aspace_504828a909b63274db1104b4beff36b9" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref177_ks2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Kutsu</title> No. 6, Journal of Backcountry Writing,
+                        1977</unittitle>
+                     <container id="aspace_903f734f823ac3a48657ed9f6c754807" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref178_tki" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Zero </title>No. 1., 1978</unittitle>
+                     <container id="aspace_bde1d1ac5677d9b933e5f90c15f34aa7" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_8mp" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Northwest Review</title>, Vol. 6 No. 3, Summer 1963.
+                        (Signed by Gary Snyder at his contribution.)</unittitle>
+                     <container id="aspace_2f9f78f649a1f3b712af95883fbee9bf" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_rio" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Northwest Review</title>, Vol. 8 No. 2, Summer 1973.
+                        Native American Poetry Issue.</unittitle>
+                     <container id="aspace_6c489885d9f6172918b65447f3b2a89b" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_n07" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Turkey Buzzard Review</title>, July 1977. Includes
+                        poems by Gary Snyder's first wife Joanne Kyger and other
+                        associates.</unittitle>
+                     <container id="aspace_7acef99ca08542b0e0dec0db3929e65a" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref182_809" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">River Styx</title> 4, 1979. Interview with Gary
+                        Snyder by Michael and Jan Castro.</unittitle>
+                     <container id="aspace_97a8a73346f29d1bfd11d049981ee468" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref183_ja2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Jimmy &amp; Lucy's House of "K"</title>, No. 9,
+                        January 1989. Poetry from a collaboration of "poets who meditate" at the
+                        Green Gulch Zen Garder Center, April 1987.</unittitle>
+                     <container id="aspace_bd05d02edf16b94b6d32a789189f055b" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref184_zma" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Eastwest</title> Vol. 7 No. 6, June 1977. "The
+                        Original Mind of Gary Snyder" interview by Peter Barry Chowka.</unittitle>
+                     <container id="aspace_857efd30ab59805a7e1e09a291885536" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_kgt" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Eastwest</title> Vol. 7 No. 7, July 1977. "Gary
+                        Snyder and the Arte of Writing."</unittitle>
+                     <container id="aspace_35db9af211ebb6807a5d69df0be39681" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref186_08l" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Eastwest</title> Vol. 7 No. 8, August 1977. "Gary
+                        Snyder on Poetry and Practice."</unittitle>
+                     <container id="aspace_ac8ced84220835284e363e357232d3ca" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref187_qh1" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The International Times</title>, No. 28, April 1968.
+                        Underground Newspaper from England.</unittitle>
+                     <container id="aspace_86dc4a463b1ef8ab52d1858d2662a744" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref188_nmm" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Bloomsbury Review</title> Vol. 27 No. 4,
+                        July/August 2007. Interview with Gary Snyder by Trevor Carolan.</unittitle>
+                     <container id="aspace_9b4af1ec3eccb384f3e1e99d0ba9d879" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref189_ujq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The American Poetry Review</title>, Vol. 15 No. 6,
+                        November/December 1986</unittitle>
+                     <container id="aspace_cffa7b77395cd03dfe7bad98816dba8a" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref190_sqw" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Poetry Flash</title> No. 267, April/May
+                        1996</unittitle>
+                     <container id="aspace_c84ed64ca441b22ff29bf472135a1a77" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref191_gji" level="file">
+                  <did>
+                     <unittitle>PBA Galleries (San Francisco) catalog. "Fine Literature of the 19th
+                        and 20th Centuries with the David Oakley Collection of Gary Snyder." 27
+                        September 2007</unittitle>
+                     <container id="aspace_8c1da794900b571556afc5112c3c903d" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref192_3sh" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Gary Snyder, Japan</title>, 1963. Photo postcard from
+                        Travels with Ginsberg. Published by The Allen Ginsberg Trust,
+                        2002</unittitle>
+                     <container id="aspace_9907a867bdafc209afacf36c981a3568" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref193_omv" level="file">
+                  <did>
+                     <unittitle>(Gary Snyder) <title render="italic">Verses of Heaven and
+                           Earth</title>. Postcard advertising a musical event in Oakland, CA with
+                        verses from Gary Snyder</unittitle>
+                     <container id="aspace_0c874ca66076f52e5b43c3fb98db0db4" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref194_2xn" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Beats in India: A Soul of Asia Symposium</title>.
+                        Program from an Asia Society Event, 14 June 2008</unittitle>
+                     <container id="aspace_12edcfd448a21ee52e31414cb63afac6" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref195_fxk" level="file">
+                  <did>
+                     <unittitle>Handbill: Reading by Gary Snyder at Trinity Episcopal Cathedral in
+                        Portland, Oregon</unittitle>
+                     <container id="aspace_6f17f07f080388ee47bc70e9e351e1fe" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref196_7t2" level="file">
+                  <did>
+                     <unittitle>Bookmark with Gary Snyder quote. From a bookstore in Vancouver,
+                        B.C.</unittitle>
+                     <container id="aspace_aff543425a3121351752dd29d0b08799" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_a3c" level="file">
+                  <did>
+                     <unittitle>Large poster with photo by Christopher Felver. Naropa Summer
+                        Institute, Boulder, Colorado, circa 1980</unittitle>
+                     <container id="aspace_30aa9c7f26ebf8a8dd53fb12276fd272" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref198_wa3" level="file">
+                  <did>
+                     <unittitle>Large poster of Gary Snyder playing with a dog, advertising Gary
+                        Snyder poetry reading benefit for the Zen Mountain Center, Fillmore
+                        Auditorium, 1967. Design by Gompers Saijo.</unittitle>
+                     <container id="aspace_cbeb574379d32280bd9551cd039f43ca" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_nbv" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Siberian Outpost</title> broadside, 2010. Signed by
+                        Gary Snyder, no. 69/99.</unittitle>
+                     <container id="aspace_2d9d3ce32fa2b094e5b5eee2a4ede105" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

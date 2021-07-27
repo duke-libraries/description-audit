@@ -1,0 +1,3228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+		langencoding="iso639-2b" repositoryencoding="iso15511">
+		<eadid countrycode="US" mainagencycode="US-NcD"
+			url="http://library.duke.edu/rubenstein/findingaids/smithvernon/">smithvernon</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vernon L. Smith Papers, 1938-2007 and undated
+						<num>RL.01220</num>
+				</titleproper>
+				<author>Processed by: Tanner Capps, Ted Holt, Paula Jeannet Mangiafico, Chloe
+					Rockow, Jen Snow, Kathryn Terrell, Hyeeyoung Kim; machine-readable finding aid
+					created by: Ted Holt, Paula Jeannet Mangiafico, Jen Snow</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+				<p>
+					<date>2010</date>
+				</p>
+				<address>
+					<addressline>411 Chapel Drive</addressline>
+					<addressline>Duke University</addressline>
+					<addressline>Durham 27708</addressline>
+					<addressline>special-collections@duke.edu</addressline>
+					<addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+							xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+							xlink:type="simple"/>
+					</addressline>
+				</address>
+			</publicationstmt>
+			<notestmt>
+				<note>
+					<p>Aleph Number: <num type="aleph">002342977</num>
+					</p>
+				</note>
+			</notestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>This finding aid was produced using ArchivesSpace on <date>2018-04-19 16:10:32
+					-0400</date>.</creation>
+			<langusage>English</langusage>
+			<descrules>Describing Archives: A Content Standard</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date>2014</date>
+				<item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and
+					imported to Archivists Toolkit</item>
+			</change>
+			<change>
+				<date>2017</date>
+				<item>Added description of electronic records.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+			<repository>
+				<corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+			</repository>
+			<unittitle>Vernon L. Smith papers</unittitle>
+			<origination label="creator">
+				<persname source="ingest">Smith, Vernon L.</persname>
+			</origination>
+			<unitid>RL.01220</unitid>
+			<physdesc altrender="whole">
+				<extent altrender="materialtype spaceoccupied">103.2 Linear Feet</extent>
+			</physdesc>
+			<physdesc altrender="part">
+				<extent altrender="materialtype spaceoccupied">3.1 Gigabytes</extent>
+			</physdesc>
+			<unitdate normal="1938/2007" type="inclusive">1938-2007 and undated</unitdate>
+			<physloc id="aspace_38943f424ecf6c832c365ee2969a2cab">For current information on the
+				location of these materials, please consult the Library's online catalog.</physloc>
+			<abstract id="aspace_9698e4c1c1a07524bebfcf8193b52aad">Economist and faculty member at
+				the University of Arizona specializing in experimental economics, price behavior,
+				and game theory. The Vernon L. Smith Papers span the years 1938-2007, covering the
+				majority of Smith's career as an economist in the United States, from his early
+				collegiate work at the California Institute of Technology and Harvard through his
+				professorship at the University of Arizona. Limited material also exists on
+				consulting work and academic scholarship after he left the University of Arizona in
+				2002. The collection is arranged in the following series: Correspondence, Electronic
+				Files, Personal Files, Print Material, Professional Service, Research and Writings,
+				and Teaching Material. Research topics include the development of a methodology for
+				experimental economics; the implementation of experimental economics into the
+				studies of asset trading, capital investment, game theory, environmental economics,
+				price behavior, strategic decision making, and utilities; and economic
+				decision-making, for which Smith was awarded the Nobel Prize in Economics in
+				2002.</abstract>
+			<physdesc id="aspace_60b3e366c52de5755e250dd7770add8b">
+				<extent>Approximately 64,500 Items</extent>
+			</physdesc>
+			<langmaterial id="aspace_6fa2501260228cef567d679c75337be7">Material in English
+			</langmaterial>
+		</did>
+		<accessrestrict id="aspace_9349276a25f3660d33639fdf17a46b36">
+			<head>Access Restrictions</head>
+			<p>Collection is open for research.</p>
+			<p>Electronic records in this collection have been migrated to a library server and
+				digital use copies can only be accessed onsite in the Rubenstein Library Reading
+				Room. To request access, please contact Research Services before coming to use these
+				records.</p>
+			<p>Email records contain Personal Identification numbers (PID), and are restricted.
+				pending expiration in 2077 or removal of PID.</p>
+			<p>Researchers must register and agree to copyright and privacy laws before using this
+				collection.</p>
+			<p>All or portions of this collection may be housed off-site in Duke University's
+				Library Service Center. The library may require up to 48 hours to retrieve these
+				materials for research use.</p>
+			<p>Please contact Research Services staff before visiting the David M. Rubenstein Rare
+				Book &amp; Manuscript Library to use this collection.</p>
+		</accessrestrict>
+		<userestrict id="aspace_1fec48c31f673e17907c9f8af9a51348">
+			<head>Copyright Notice</head>
+			<p>The copyright interests in this collection have not been transferred to Duke
+				University. For more information, consult the copyright section of the Regulations
+				and Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+		</userestrict>
+		<prefercite id="aspace_8e9260f3167887051870b45f4ba46315">
+			<head>Preferred Citation</head>
+			<p>[Identification of item], Vernon L. Smith Papers, David M. Rubenstein Rare Book &amp;
+				Manuscript Library, Duke University</p>
+		</prefercite>
+		<acqinfo id="aspace_6f68a608800737c683c665b691f39c24">
+			<head>Provenance</head>
+			<p>The Vernon L. Smith Papers were received by the David M. Rubenstein Rare Book &amp;
+				Manuscript Library as a gift from 1996-2008, and in 2013.</p>
+		</acqinfo>
+		<processinfo id="aspace_b4d60f8b53986d36738e2eb7e7d4fd1c">
+			<head>Processing Information</head>
+			<p>Processed by Tanner Capps, Ted Holt, Paula Jeannet Mangiafico, Chloe Rockow, Jen
+				Snow, Kathryn Terrell, February 2010; Hyeeyoung Kim, September 2017.</p>
+			<p>Encoded by Ted Holt, Paula Jeannet Mangiafico, Jen Snow, February 2010</p>
+			<p>Accessions 1996-106, 2000-416, 2001-168, 2004-004, 2008-001, and 2013-182 were merged
+				into one collection, described in this finding aid.</p>
+		</processinfo>
+		<bioghist id="aspace_52ca0c95bd7d368e3be9498f2b544fbe">
+			<head>Biographical Note</head>
+			<p>
+				<chronlist>
+					<head>Chronology List</head>
+					<chronitem>
+						<date calendar="gregorian" era="ce">January 1, 1927</date>
+						<event>Born in Tucson, Arizona</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1949</date>
+						<event>B.S.E.E., California Institute of Technology</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1952</date>
+						<event>M.A., University of Kansas</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1955</date>
+						<event>Received Ph.D. from Harvard University</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1951-1952</date>
+						<event>Appointed as Instructor of Economics, University of Kansas</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1954-1955</date>
+						<event>Served as Economist, Harvard Economics Research Project</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1955-1967</date>
+						<event>Professor, Purdue University</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1957</date>
+						<event>Publication of <title type="simple" render="doublequote">On the Use
+								of Engineering Data and Statistical Techniques in the Analysis of
+								Production and Technological Change: Fuel Requirements in the
+								Trucking Industry,</title>
+							<title type="simple" render="italic">Econometrica</title>
+						</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1957-1959</date>
+						<event>Research Consultant, RAND Corporation</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1958</date>
+						<event>Publication with K. David and J. Wiley of <title type="simple"
+								render="italic">Economics: An Analytical Approach</title>, </event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1958-1959</date>
+						<event>Faculty Research Fellow, Ford Foundation</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1961</date>
+						<event>Publication of <title type="simple" render="italic">Investment and
+								Production</title>, Harvard University Press</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1962</date>
+						<event>While a visiting professor at Stanford University, published <title
+								type="simple" render="doublequote">An Experimental Study of Market
+								Behavior,</title> in the <title type="simple" render="italic"
+								>Journal of Political Economy</title>, considered a landmark paper
+							on experimental economics</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1967-1968</date>
+						<event>Professor, Brown University</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1968-1975</date>
+						<event>Professor, University of Massachusetts</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1976-2002</date>
+						<event>Professor, University of Arizona</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1977</date>
+						<event>
+							<title type="simple" render="doublequote">The Principle of Unanimity and
+								Voluntary Consent in Social Choice</title> published in the <title
+								type="simple" render="italic">Journal of Political Economy</title>,
+							pioneering the systematic study of institutional design for public
+							choice decisions</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1979</date>
+						<event>Published <title type="simple" render="italic">Research in
+								Experimental Economics</title>, Vol. 1, as editor, Greenwich: JAI
+							Press</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1982</date>
+						<event>Publication of <title type="simple" render="italic">Research in
+								Experimental Economics</title>, Vol. 2</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1983- </date>
+						<event>Editorial Board of <title type="simple" render="italic">The Cato
+								Journal</title>
+						</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1985- </date>
+						<event>Associate Editor, <title type="simple" render="italic">Journal of
+								Economic Behavior and Organization</title>
+						</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1985</date>
+						<event>Publication of <title type="simple" render="italic">Research in
+								Experimental Economics</title>, Vol. 3, editor, Greenwich JAI Press,
+							1985</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1986-1987</date>
+						<event>Founding President, Economic Science Association</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1986-2001</date>
+						<event>Served as Research Director, Economics Science Laboratory (ESL) at
+							University of Arizona</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1992- </date>
+						<event>Editorial and Advisory Boards, <title type="simple" render="italic"
+								>Economic Theory</title>
+						</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1993</date>
+						<event>Consultant and lecturer, Prospect Electricity, Australia, on
+							privatizing electric power</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">1994</date>
+						<event>The 1994 <title type="simple" render="doublequote">Preferences,
+								Property Rights and Anonymity in Bargaining Games</title> in <title
+								type="simple" render="italic">Games and Economic Behavior</title> is
+							considered seminal to the systematic study of personal exchange</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">2001</date>
+						<eventgrp>
+							<event>Joined the faculty of George Mason University, along with other
+								colleagues from the ESL at Arizona</event>
+							<event>Director of the Interdisciplinary Center for Experimental Science
+								(ICES) at George Mason University</event>
+						</eventgrp>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">2002</date>
+						<event>Awarded Nobel Memorial Prize in Economic Sciences for his work on
+							empirical economic analysis, especially related to alternative market
+							mechanisms; shared prize with Daniel Kahneman of Princeton</event>
+					</chronitem>
+					<chronitem>
+						<date calendar="gregorian" era="ce">2008</date>
+						<event>Founded the Economic Science Institute at Chapman University in
+							Orange, California</event>
+					</chronitem>
+				</chronlist>
+			</p>
+		</bioghist>
+		<scopecontent id="aspace_3444b47a3906f99cb7d480ad43245f6b">
+			<head>Collection Overview</head>
+			<p>The Vernon L. Smith Papers span the years 1938-2007, covering the majority of Smith's
+				career as an economist in the United States, from his early collegiate work at the
+				California Institute of Technology and Harvard through his professorship at the
+				University of Arizona. Limited material also exists on consulting work and academic
+				scholarship after he left the University of Arizona in 2002. The collection is
+				arranged in the following series: <emph render="bold">Correspondence, Electronic
+					Files, Personal Files, Print Material, Professional Service, Research and
+					Writings</emph>, and <emph render="bold">Teaching Material</emph>. </p>
+			<p>The bulk of the papers reside in the Research and Writings Series, which contains
+				extensive files of Smith's research notes, reprints, and revisions of working papers
+				by Smith and others with added annotations. Broadly speaking, the research files
+				document important developments in experimental economics and Smith's seminal
+				contributions to this field of study. Recurring topics in this series include the
+				development of a methodology for experimental economics; the implementation of
+				experimental economics into the studies of asset trading, capital investment, game
+				theory, environmental economics (e.g., the allocation of natural resources such as
+				water), price behavior, strategic decision making, and utilities; and the behavior
+				toward as well as the psychology behind economic decisions, for which Smith was
+				awarded the Nobel Prize in Economics in 2002. With his theories on behavioral and
+				experimental economics, in part influenced by Leontief and Hurwicz, Smith analyzed
+				the functioning of institutions and communication systems such as auctions, utility
+				regulation and markets. An electronic version of Smith's <title type="simple"
+					render="italic">History of Experimental Economic Science at the University of
+					Arizona</title> is in the electronic files which have been migrated to a library
+				server. The extensive Print Material Series includes reprints of the journal
+				articles by Smith on similar material, many of which are also available through the
+				Duke Libraries general collections.</p>
+			<p>In addition to documenting Smith's work in theoretical economics, the Professional
+				Service Series, Research and Writings Series and Teaching Material Series follow his
+				professional activities primarily at the universities of Purdue, Brown,
+				Massachusetts, and especially at Arizona; his role as the Research Director at the
+				Economics Science Lab at the University of Arizona; his participation on various
+				committees; his work with institutions such as the National Science Foundation, the
+					<title type="simple" render="italic">Journal of Economic Behavior and
+					Organization</title> and the National Academy of Sciences; and his role as a
+				consultant on utility regulation both domestically and internationally. </p>
+			<p>Finally, the Correspondence Series, contains primarily professional and academic
+				correspondence concerning comments on his work by other economists; comments on
+				other's work, dating from Smith's editorial work for several journals; and academic
+				affairs, including recommendations and organizational letters for classes and
+				seminars. Notable correspondence includes early exchanges with Paul Samuelson
+				concerning Smith's graduate level work. In one folder of miscellaneous personal
+				correspondence at the end of the series, a colleague speaks at length in several
+				letters about the Cuban crisis and civil rights protests.</p>
+			<p>Detailed descriptions on the arrangement and content of each series can be found in
+				the respective sections in this collection guide.</p>
+		</scopecontent>
+		<controlaccess>
+			<subject source="lcsh">University of Arizona -- Faculty</subject>
+			<subject source="lcsh">Public utilities -- Prices</subject>
+			<subject source="lcsh">Public utilities -- Economic aspects</subject>
+			<subject source="lcsh">Production</subject>
+			<subject source="lcsh">Auctions -- Economic aspects</subject>
+			<subject source="lcsh">Capital investments</subject>
+			<subject source="lcsh">Economics -- Methodology</subject>
+			<subject source="lcsh">Economics -- Psychological aspects</subject>
+			<subject source="lcsh">Economists -- United States -- Correspondence</subject>
+			<subject source="lcsh">Economics -- Study and teaching</subject>
+			<subject source="lcsh">Economics -- Simulation methods</subject>
+			<subject source="lcsh">Economics -- Research</subject>
+			<subject source="lcsh">Prices</subject>
+			<subject source="lcsh">Markets</subject>
+			<genreform source="aat">Machine-readable records</genreform>
+			<subject source="lcsh">Game theory</subject>
+			<corpname source="ingest">University of Arizona. Dept. of Economics</corpname>
+			<corpname source="ingest">United States. Energy Information Administration</corpname>
+			<corpname source="ingest">National Academy of Sciences (U.S.)</corpname>
+			<persname source="ingest">Smith, Vernon L.</persname>
+		</controlaccess>
+		<dsc>
+			<c01 id="aspace_ref12_46z" level="series">
+				<did>
+					<unittitle>Correspondence Series, 1952-2007</unittitle>
+					<physdesc id="aspace_62f506829da6fe957fd322bd5dae6e56">
+						<extent>24 boxes</extent>
+					</physdesc>
+				</did>
+				<scopecontent id="aspace_3df8c20900146dab61ea9dd4946ace57">
+					<head>Scope and Contents note</head>
+					<p>Contains professional and academic correspondence, chiefly from 1971-1999.
+						Series contains routine academic correspondence, including recommendations
+						for students and faculty, as well as other academic affairs; works of other
+						economists; correspondence concerning Smith's publications; some discussions
+						of economic theory and applications; and professional correspondence
+						(including non-academic recommendations and job offers). The majority of the
+						series falls into three main categories: comments on other economists' work,
+						dating to his tenure as editor of several economics journals; comments from
+						colleagues, referees, and other academics on Smith's works; and academic
+						affairs (namely recommendations and routine organizational letters dealing
+						with classes and seminars). Notable correspondence includes early exchanges
+						with Paul Samuelson concerning Smith's thesis and graduate level work.
+						Because the series deals mostly with professional and academic
+						correspondence, there is little personal correspondence. Arranged in
+						chronological order.</p>
+				</scopecontent>
+				<accessrestrict id="aspace_a710eca8f5d51408f1c2f6e99f78b406">
+					<head>Conditions Governing Access</head>
+					<p>Electronic records in this series have been migrated to a library server and
+						digital use copies can only be accessed onsite in the Rubenstein Library
+						Reading Room. To request access, please contact Research Services before
+						coming to use these records.</p>
+				</accessrestrict>
+				<accessrestrict id="aspace_e8b7dd16420ed1a1aa887381e4d43fe0">
+					<head>Conditions Governing Access</head>
+					<p>Email records contain Personal Identification (PID) numbers. Restriction
+						expires in 2077, or upon the removal of PID.</p>
+				</accessrestrict>
+				<c02 id="aspace_ref14_2yi" level="file">
+					<did>
+						<unittitle>1952 Apr.-1959 Sept.</unittitle>
+						<container id="aspace_90a1f860a0c4b7245c7c0ff20658fc58"
+							label="Mixed Materials" type="box">1</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref15_mow" level="file">
+					<did>
+						<unittitle>1959 Sept.-1963 Aug.</unittitle>
+						<container id="aspace_ea4c2238be05cbe23e8fa3fa1c4b5c2c"
+							label="Mixed Materials" type="box">2</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref16_gws" level="file">
+					<did>
+						<unittitle>1963 Sept.-1967 Aug.</unittitle>
+						<container id="aspace_1134216388c89f0feb64721ca529d883"
+							label="Mixed Materials" type="box">3</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref17_4vg" level="file">
+					<did>
+						<unittitle>1967 Sept.-1971 Mar.</unittitle>
+						<container id="aspace_5875c584d13839a84500758a7392d802"
+							label="Mixed Materials" type="box">4</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref18_qci" level="file">
+					<did>
+						<unittitle>1971 Feb.-1974 Feb.</unittitle>
+						<container id="aspace_57a8efd25bf3aee91be6f1881ef34f2e"
+							label="Mixed Materials" type="box">5</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref19_p7q" level="file">
+					<did>
+						<unittitle>1975 Feb.-1978 Jan.</unittitle>
+						<container id="aspace_1584a051af71af8d8f995180d14744df"
+							label="Mixed Materials" type="box">6</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref20_9de" level="file">
+					<did>
+						<unittitle>1978 Jan.-1979 Dec.</unittitle>
+						<container id="aspace_1feff5e3100a626d3165e3487211683e"
+							label="Mixed Materials" type="box">7</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref21_60q" level="file">
+					<did>
+						<unittitle>1980 Jan.-1982 Mar.</unittitle>
+						<container id="aspace_55ab0bacffb2144951332a275a44e28e"
+							label="Mixed Materials" type="box">8</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref22_qps" level="file">
+					<did>
+						<unittitle>1982 July-1983 Nov.</unittitle>
+						<container id="aspace_7b0a75e5bdc06e58b02b48454f52681e"
+							label="Mixed Materials" type="box">9</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref23_wpp" level="file">
+					<did>
+						<unittitle>1983 Nov.-1984 Dec.</unittitle>
+						<container id="aspace_3368fd4bdf4c47af05d9b0d7891cdcf3"
+							label="Mixed Materials" type="box">10</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref24_jse" level="file">
+					<did>
+						<unittitle>1985 Jan.-1986 July</unittitle>
+						<container id="aspace_73e3b411d04c77816b6fcb656b12da7b"
+							label="Mixed Materials" type="box">11</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref25_w0i" level="file">
+					<did>
+						<unittitle>1986 Aug.-1987 Nov.</unittitle>
+						<container id="aspace_4eb2e361c1a9bf274b5a8f5323e5f232"
+							label="Mixed Materials" type="box">12</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref26_h3v" level="file">
+					<did>
+						<unittitle>1987 Nov.-1988 Dec.</unittitle>
+						<container id="aspace_40be5c835d8f2c74907acaf46159829e"
+							label="Mixed Materials" type="box">13</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref27_ep0" level="file">
+					<did>
+						<unittitle>1989 Jan.-1990 June</unittitle>
+						<container id="aspace_010730bb469d8263e7ad39836a93417a"
+							label="Mixed Materials" type="box">14</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref28_b25" level="file">
+					<did>
+						<unittitle>1990 June-1991 Sept.</unittitle>
+						<container id="aspace_9e342d6544cfa91cd1ac71b2039e1d4d"
+							label="Mixed Materials" type="box">15</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref29_0hw" level="file">
+					<did>
+						<unittitle>1991 Oct.-1992 Aug.</unittitle>
+						<container id="aspace_a4a996198d91e9fe2a29c272ab0cb306"
+							label="Mixed Materials" type="box">16</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref30_ozv" level="file">
+					<did>
+						<unittitle>1992 Sept.-1993 Aug.</unittitle>
+						<container id="aspace_0569ebd6a448148082365207e2bb254d"
+							label="Mixed Materials" type="box">17</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref31_imp" level="file">
+					<did>
+						<unittitle>1993 May-1994 Sept.</unittitle>
+						<container id="aspace_70a49bd099c484f8d46bed6253f1612a"
+							label="Mixed Materials" type="box">18</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref32_nc7" level="file">
+					<did>
+						<unittitle>1994 July-1995 Sept.</unittitle>
+						<container id="aspace_2bb6fc3d075dc1e5d5d4bde2df0be0f1"
+							label="Mixed Materials" type="box">19</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref33_b8t" level="file">
+					<did>
+						<unittitle>1995 Oct.-1997 June</unittitle>
+						<container id="aspace_9849e45e99e9f87bcdca54956ebd6eec"
+							label="Mixed Materials" type="box">20</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref34_ury" level="file">
+					<did>
+						<unittitle>1997 July-1999 June</unittitle>
+						<container id="aspace_419b9ec742953b2907672d13c4021d5d"
+							label="Mixed Materials" type="box">21</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref35_zcm" level="file">
+					<did>
+						<unittitle>1999 Jan.-2000 Dec.</unittitle>
+						<container id="aspace_fb22e892515d30b4b063c6454471cc2a"
+							label="Mixed Materials" type="box">22</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref36_9xo" level="file">
+					<did>
+						<unittitle>2001 Jan.-2003 Apr.</unittitle>
+						<container id="aspace_13f10432692957e7ea90563de183fe61"
+							label="Mixed Materials" type="box">23</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref37_wmr" level="file">
+					<did>
+						<unittitle>2003 May-2003 Dec.</unittitle>
+						<container id="aspace_e17001cde0d945833871d96406274e2d"
+							label="Mixed Materials" type="box">24</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref38_71c" level="file">
+					<did>
+						<unittitle>1981-1988 Referee Comments</unittitle>
+						<container id="aspace_bcefa85e0d8bee9d517f8746d1a30478"
+							label="Mixed Materials" type="box">24</container>
+					</did>
+				</c02>
+				<c02 id="aspace_c44fd67432ba9fd8875be85e4299529a" level="file">
+					<did>
+						<unittitle>GMU email correspondence</unittitle>
+						<unitdate normal="2002/2007" type="inclusive">circa 2002-2007</unitdate>
+						<physdesc id="aspace_2435412dbc079b6bf225bcad3f38d2e6">253 MBOX files;
+							approximately 2.6 gigabytes.</physdesc>
+						<container id="aspace_04a7a7100559542896f1a0cbc2b907db"
+							label="Mixed Materials" type="digital-materials"
+							>RL01220-SET-0002</container>
+					</did>
+					<scopecontent id="aspace_9a27a164965e48a68dc42cba7b273fa5">
+						<head>Scope and Contents</head>
+						<p>Consists of email messages exported from Vernon Smith's George Mason
+							University email account as MBOX files.</p>
+					</scopecontent>
+				</c02>
+				<c02 id="aspace_2e0ce294bceb3fabf9311fa60cefb6cf" level="file">
+					<did>
+						<unittitle>AOL email correspondence</unittitle>
+						<unitdate normal="2004/2007" type="inclusive">circa 2004-2007</unitdate>
+						<physdesc id="aspace_1f903ebb3c431ed26a73758ab9172c6f">1 PFC file and 57
+							MBOX files; approximately 385 megabytes.</physdesc>
+						<container id="aspace_063b8762e13a8eb1fe69bf6623d0a860"
+							label="Mixed Materials" type="digital-materials"
+							>RL01220-SET-0002</container>
+					</did>
+					<scopecontent id="aspace_33fbd3b5d21180bc886f3a5068119a17">
+						<head>Scope and Contents</head>
+						<p>Consists of email messages exported from Vernon Smith's AOL email account
+							as PFC file and MBOX files.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 id="aspace_ref40_sey" level="series">
+				<did>
+					<unittitle>Electronic Files Series, 2003-2004</unittitle>
+					<physdesc id="aspace_f0522c436db34c29c4fe580220b42835">
+						<extent>2 files</extent>
+					</physdesc>
+				</did>
+				<accessrestrict id="aspace_e3933139ba8dddb800cb569c394595d3">
+					<head>Conditions Governing Access</head>
+					<p>Electronic records in this series have been migrated to a library server and
+						digital use copies can only be accessed onsite in the Rubenstein Library
+						Reading Room. To request access, please contact Research Services before
+						coming to use these records.</p>
+				</accessrestrict>
+				<scopecontent id="aspace_c861643330695783b4551a0cd87cb823">
+					<head>Scope and Contents note</head>
+					<p>Includes a version of Smith's <title type="simple" render="italic">History of
+							Experimental Economic Science at the University of Arizona</title>.</p>
+				</scopecontent>
+				<c02 id="aspace_2c2a397d966643c35ff6df95420f970a" level="file">
+					<did>
+						<unittitle>
+							<title render="italic">History of Experimental Economic Science at the
+								University of Arizona</title>
+						</unittitle>
+						<unitdate normal="2003/2004" type="inclusive">2003-2004</unitdate>
+						<physdesc id="aspace_dfe97db7765fbf51f42855d984ee6c03">2 document files;
+							approximately 1.5 megabyte. </physdesc>
+						<container id="aspace_fce746e613a87ca13abc35397311b2e5"
+							label="Mixed Materials" type="digital-materials"
+							>RL01220-SET-0001</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 id="aspace_ref43_dnn" level="series">
+				<did>
+					<unittitle>Personal Files Series, 1938-2001 and undated</unittitle>
+					<physdesc id="aspace_0604b9947c692df8862f1c1b33da726f">
+						<extent>2 boxes</extent>
+					</physdesc>
+				</did>
+				<scopecontent id="aspace_2cafdd50bd9b8932ee6cf58c407992c2">
+					<head>Scope and Contents note</head>
+					<p>Contains Vernon Smith's academic coursework as a student, clippings,
+						calendars and planners, personal correspondence, and vitae. Academic
+						coursework includes early course notes, papers, and entrance as well as
+						final exams from Smith's student years at the California Institute of
+						Technology; the Samuelson material concerns a seminar taught by Samuelson
+						while Smith was pursuing a PhD at Harvard. The thesis appendix functions as
+						an explanation of the theories in Smith's main text, utilizing the results
+						of his economic work. Clippings chiefly deal with the awarding of various
+						professorships to Smith, and the Arizona Stock Exchange. The interview,
+						conducted for a book entitled <title type="simple" render="italic">Economics
+							in Our Times</title>, explores the subject of experimental economics and
+						Smith's role in the study of experimental economics. Arranged alphabetically
+						by subject.</p>
+				</scopecontent>
+				<c02 id="aspace_ref45_611" level="file">
+					<did>
+						<unittitle>Academic coursework</unittitle>
+						<container id="aspace_c5ec3a074d060c80c3c59b086e6206ce"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+					<c03 id="aspace_ref46_9di" level="file">
+						<did>
+							<unittitle>Appendix to thesis, pareto, undated</unittitle>
+							<container id="aspace_c607eb510f10e0e83430df541edb1c40"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref47_7oo" level="file">
+						<did>
+							<unittitle>California Institute of Technology, entrance exams,
+								1938-1946</unittitle>
+							<container id="aspace_ff436a39b942f07812bc619d0e442473"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref48_aeo" level="file">
+						<did>
+							<unittitle>Cal Tech, exams, 1944-1949</unittitle>
+							<container id="aspace_092c60f4d7d708eaa06acf714fa5159e"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref49_bsv" level="file">
+						<did>
+							<unittitle>Final Exams, 1947-1948</unittitle>
+							<container id="aspace_dad226c7115d7b95fbd5124a000070d0"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref50_bzd" level="file">
+						<did>
+							<unittitle>Economics 611</unittitle>
+							<container id="aspace_9a79ffd6ec4ea8d7ce62403ceba7f032"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref51_k1f" level="file">
+						<did>
+							<unittitle>AM 1b, homework and exams, 1948</unittitle>
+							<container id="aspace_7521c08e96c1afd1a357f7ba5d87c393"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref52_vlo" level="file">
+						<did>
+							<unittitle>Econ 304, development of economic thought to 1870,
+								undated</unittitle>
+							<container id="aspace_967af42b8811ff86e662bd84ff22e8c9"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref53_iw4" level="file">
+						<did>
+							<unittitle>Econ 305, development of economic thought, 1951</unittitle>
+							<container id="aspace_94128e807fd4a6693b1a8e710450e948"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref54_y0t" level="file">
+						<did>
+							<unittitle>Samuelson seminar, 1953</unittitle>
+							<container id="aspace_ca4472ad7481131b90a05702601e5a41"
+								label="Mixed Materials" type="box">25</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 id="aspace_ref55_ynv" level="file">
+					<did>
+						<unittitle>Calendars, 1983-1993</unittitle>
+						<physdesc id="aspace_5c7328f9c5ba72e4a44eeadc7e39be96">
+							<extent>2 folders</extent>
+						</physdesc>
+						<container id="aspace_23ba5d7d19025262f41a455a61163fee"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref57_bq9" level="file">
+					<did>
+						<unittitle>Clippings on Vernon Smith, 1986-1995</unittitle>
+						<container id="aspace_71a7a8e4fb775caf33a5d17ac1b4aeb9"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref58_8vf" level="file">
+					<did>
+						<unittitle>Correspondence, family, 1972-1973 and undated</unittitle>
+						<container id="aspace_9a18994da6783ede96a00c88d3c61b33"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref59_135" level="file">
+					<did>
+						<unittitle>Correspondence, personal</unittitle>
+						<container id="aspace_e445ea8d5ae97df42837a3a968b4ea1e"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref60_x7k" level="file">
+					<did>
+						<unittitle>Interview with Vernon Smith, undated</unittitle>
+						<container id="aspace_0575bb09e10f2880bb11de84f952478b"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref61_zhr" level="file">
+					<did>
+						<unittitle>Memoir, <title render="doublequote">Experimental Economics at
+								Purdue,</title> undated</unittitle>
+						<container id="aspace_235f6ea8625076615705a8f9407e712e"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref62_wf8" level="file">
+					<did>
+						<unittitle>Memorial, Em Weiler</unittitle>
+						<container id="aspace_02a87f5e891a08a241bec62a45560d24"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref63_sw0" level="file">
+					<did>
+						<unittitle>Monthly planners, 1980, 1988, 1993-1996</unittitle>
+						<container id="aspace_d54b5bb8388f6268e80fece8e675fde8"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref64_aws" level="file">
+					<did>
+						<unittitle>Vitae, 1979, 1988-2001</unittitle>
+						<physdesc id="aspace_92aa2a1f2f0509abb85397cd3159bfaf">2 folders</physdesc>
+						<container id="aspace_ce6b9023f2eeb12900ac3880538b6841"
+							label="Mixed Materials" type="box">25</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref66_jk5" level="file">
+					<did>
+						<unittitle>Weekly planners, 1997-2001</unittitle>
+						<container id="aspace_cff1e66556053981c6f2f779324203a4"
+							label="Mixed Materials" type="box">26</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 id="aspace_ref68_5hr" level="series">
+				<did>
+					<unittitle>Print Material Series, 1957-1991 and undated</unittitle>
+					<physdesc id="aspace_7a18d814103edce4f0eff12ac4ba125c">
+						<extent>6 boxes</extent>
+					</physdesc>
+				</did>
+				<scopecontent id="aspace_d890a91f5bc0eef4d0af5471f4f5e804">
+					<head>Scope and Contents note</head>
+					<p>Consists of two subgroupings: Clippings and Reprints. The clippings files
+						were assembled by Smith, and chiefly consist of newspaper and magazine
+						articles on topics such as auctions, energy resources, experimental
+						economics, fixed prices, government regulation, and the stock exchange.
+						Reprints chiefly consist of articles written by Smith, or for which he was a
+						contributing author. A large portion of the reprints are from a series
+						published by the Purdue University School of Industrial Management Institute
+						for Qualitative Research in Economics and Managment, which later became
+						known as the Purdue University, Herman C. Krannert Graduate School of
+						Industrial Administration, Institute for Research in the Behavior, Economic
+						and Management Sciences. Reprints are arranged chronologically.</p>
+				</scopecontent>
+				<c02 id="aspace_ref70_plm" level="file">
+					<did>
+						<unittitle>Clippings, 1975-1987</unittitle>
+						<container id="aspace_0579d36639f202f29ffc3187de9b83b7"
+							label="Mixed Materials" type="box">27</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref71_w8s" level="file">
+					<did>
+						<unittitle>Reprints, 1957-1967</unittitle>
+						<container id="aspace_fe6fca9cff92c2fa64979cbbf0dbfcb1"
+							label="Mixed Materials" type="box">28</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref72_8fr" level="file">
+					<did>
+						<unittitle>Reprints, 1968-1979</unittitle>
+						<container id="aspace_4057993a78fee71ff5f2306ed629fc07"
+							label="Mixed Materials" type="box">29</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref73_12r" level="file">
+					<did>
+						<unittitle>Reprints, 1980-1985</unittitle>
+						<container id="aspace_7f2471805f0c69cd68f8098a00c30769"
+							label="Mixed Materials" type="box">30</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref74_bmk" level="file">
+					<did>
+						<unittitle>Reprints, 1985-1991</unittitle>
+						<container id="aspace_3e8562bd5be76a5289f9f9fbcafc832a"
+							label="Mixed Materials" type="box">31</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref75_olp" level="file">
+					<did>
+						<unittitle>Reprints, 1992-2006 and undated</unittitle>
+						<container id="aspace_d3ca988fb6217ca06f4e9f765a168989"
+							label="Mixed Materials" type="box">173</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 id="aspace_ref77_kz9" level="series">
+				<did>
+					<unittitle>Professional Service Series, 1968-2000</unittitle>
+					<physdesc id="aspace_3d32501da0f331ca5e272703f22d5162">
+						<extent>8 boxes</extent>
+					</physdesc>
+				</did>
+				<scopecontent id="aspace_42b965f86d94fa3d52d8f87b1077e24b">
+					<head>Scope and Contents note</head>
+					<p>Series is arranged into topical groupings: Games and Economic Behavior;
+						Journal of Economic Behavior and Organization; National Academy of Sciences;
+						National Science Foundation; Presentations and Seminars. These are followed
+						by single folders in original order.</p>
+					<p>Chiefly contains files on the contributions Vernon Smith made to professional
+						associations such as the National Science Foundation, the Journal of
+						Economic Behavior and Organization, and the National Academy of Sciences, as
+						well as to the teaching profession, and to other associations. Contents are
+						varied, and include information on workshops and presentations given by
+						Smith at both the high school and faculty level, conferences he organized,
+						consultancy positions he held, and professional association committee work
+						he undertook. Other material on conferences attended by Smith can be found
+						in the Research and Writings Series; also, many folders deriving from his
+						undergraduate and graduate teaching can be found in the Teaching Series. In
+						addition, because of the nature of his contributions to economics research,
+						much of Smith's work for or with government or non-profit organizations such
+						as his economic analysis of pollution and recycling for federal government
+						agencies, is found in the Research and Writings Series rather than in
+						Professional Service.</p>
+				</scopecontent>
+				<c02 id="aspace_ref79_73m" level="file">
+					<did>
+						<unittitle>Games and Economic Behavior</unittitle>
+						<container id="aspace_5dddeea7bc0b8091c3712677ccb486a0"
+							label="Mixed Materials" type="box">32</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref80_53e" level="file">
+					<did>
+						<unittitle>J<title render="italic">ournal of Economic Behavior and
+								Organization</title>
+						</unittitle>
+						<container id="aspace_40f0820326d27d173fd6be57fc5c165f"
+							label="Mixed Materials" type="box">33</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref81_dqp" level="file">
+					<did>
+						<unittitle>
+							<title render="italic">Journal of Economic Behavior and
+								Organization</title>; National Academy of Sciences</unittitle>
+						<container id="aspace_46f2517525574c363286aea12f1df1ae"
+							label="Mixed Materials" type="box">34</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref82_txn" level="file">
+					<did>
+						<unittitle>National Academy of Sciences; National Science Foundation;
+							Presentations and Seminars</unittitle>
+						<container id="aspace_9c991ae3cf29f231d11ab802eb3db504"
+							label="Mixed Materials" type="box">35</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref83_p9l" level="file">
+					<did>
+						<unittitle>Presentations and Seminars; Other Files</unittitle>
+						<container id="aspace_ac1d47203c880a1c22b51c0cf424f818"
+							label="Mixed Materials" type="box">36</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref84_383" level="file">
+					<did>
+						<unittitle>Other files</unittitle>
+						<container id="aspace_fa3b03b31f22279de5d28af394f41561"
+							label="Mixed Materials" type="box">37-38</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref85_jtm" level="file">
+					<did>
+						<unittitle>Other files</unittitle>
+						<container id="aspace_2d6471fa02af3b84ce2eee93f6a62b94"
+							label="Mixed Materials" type="box">176</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 id="aspace_ref87_clz" level="series">
+				<did>
+					<unittitle>Research and Writings Series, 1950-2007 and undated</unittitle>
+					<physdesc id="aspace_df1a66b7a6d00ea76beee6990403a428">
+						<extent>120 boxes</extent>
+					</physdesc>
+				</did>
+				<scopecontent id="aspace_cc3ff6dcaef8d70a1b3937d788f889c0">
+					<head>Scope and Contents note</head>
+					<p>Arranged in the following subseries: Asset Trading, Experimental Economics,
+						Game Theory and Strategic Interactions, Natural Resources and Utilities,
+						Price Behavior, Other Writings, and Writings by Others.</p>
+				</scopecontent>
+				<c02 id="aspace_ref89_hok" level="subseries">
+					<did>
+						<unittitle>Asset Trading, 1971-1998, bulk 1980s-1990s</unittitle>
+						<physdesc id="aspace_2b4bb9a58eeaf3852439480b47ec0ddd">
+							<extent>16 boxes</extent>
+						</physdesc>
+					</did>
+					<c03 id="aspace_ref91_j9f" level="file">
+						<did>
+							<unittitle>Corporate finance, equilibrium, futures markets, credit
+								rationing, allocation of risk</unittitle>
+							<container id="aspace_12067cd0a59847b13e67d3c6d68158e4"
+								label="Mixed Materials" type="box">39-40</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref92_m3l" level="file">
+						<did>
+							<unittitle>Markets</unittitle>
+							<container id="aspace_61f45bbc51b296de2e21fca611acd7fd"
+								label="Mixed Materials" type="box">40-47</container>
+						</did>
+						<scopecontent id="aspace_afba2120f876b3cef4235426e51526a4">
+							<head>Scope and Contents note</head>
+							<p>Includes material on market bubbles and crashes, endowments and Coase
+								theorem, preference reversals, rational expectations, and market
+								contestability.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref94_iop" level="file">
+						<did>
+							<unittitle>Monopolies</unittitle>
+							<container id="aspace_82623a66607136d6e9f12a8e0bd5e5cb"
+								label="Mixed Materials" type="box">47-48</container>
+						</did>
+						<scopecontent id="aspace_ac7c1550052b2e276fb1292e26639939">
+							<head>Scope and Contents note</head>
+							<p>Includes <title type="simple" render="doublequote">Natural Monopoly
+									and Contestable Markets Hypothesis,</title> 1981-1983; <title
+									type="simple" render="italic">Empirical Study of Decentralized
+									Insitutions of Monopoly Restraint,</title> 1978.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref96_v5n" level="file">
+						<did>
+							<unittitle>Off-floor trading, 1987-1991</unittitle>
+							<container id="aspace_3bd7e973374675ff15456c3aa7547f3e"
+								label="Mixed Materials" type="box">48-49</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref97_qw5" level="file">
+						<did>
+							<unittitle>Asset trading data</unittitle>
+							<container id="aspace_bfd49a372b7230a86dd3e2e5eb42bd30"
+								label="Mixed Materials" type="box">49-54</container>
+						</did>
+						<scopecontent id="aspace_bb08558761404a4434e50014a859a841">
+							<head>Scope and Contents note</head>
+							<p>Major folder groupings include: mug, 1992; az, 1987-1988; po, posted
+								offer, 1979-1982;and treasury bills.</p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 id="aspace_ref99_xkf" level="subseries">
+					<did>
+						<unittitle>Experimental Economics Subseries, 1974-2001</unittitle>
+						<physdesc id="aspace_7a29070af779c984976343cfc97574fc">
+							<extent>22 boxes</extent>
+						</physdesc>
+					</did>
+					<scopecontent id="aspace_509e61cf2fbacc5403a6db2b48d8507c">
+						<head>Scope and Contents note</head>
+						<p>The first two boxes relate to the Economics Science Lab at the University
+							of Arizona. The next three boxes are NSF grant proposals. These are
+							followed by three boxes of writings by other economists and academics in
+							related fields, arranged alphabetically by author's last name and
+							overlap with the subseries Game Theory and Strategic Interactions. The
+							remainder of the subseries folders are arranged alphabetically by
+							topic.</p>
+					</scopecontent>
+					<c03 id="aspace_ref101_pb9" level="file">
+						<did>
+							<unittitle>Economics Science Lab, 1983-2000</unittitle>
+							<container id="aspace_691d40b8f4e6b1f4549af8ebf9a0ea71"
+								label="Mixed Materials" type="box">55-56</container>
+						</did>
+						<scopecontent id="aspace_1a8df4794a4c720737ea291c8948e3ee">
+							<head>Scope and Contents note</head>
+							<p>Includes budgets, executive committee minutes, lab development and
+								management, and research proposals. Some additional material may be
+								found interspersed throughout the Energy Utility materials.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref103_kaz" level="file">
+						<did>
+							<unittitle>Economics Science Lab materials</unittitle>
+							<container id="aspace_ad68c722566d57e29d839efbcef950e9"
+								label="Mixed Materials" type="box">174</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref104_01o" level="file">
+						<did>
+							<unittitle>NSF grant proposals, 1974-1992</unittitle>
+							<container id="aspace_646a8085b75f8d3f3c9ac67c6ff2dcea"
+								label="Mixed Materials" type="box">57-59</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref105_hk5" level="file">
+						<did>
+							<unittitle>Alphabetical files, <title render="doublequote">Experimental
+									Economics and Game Theory,</title> A-E</unittitle>
+							<container id="aspace_2a956e8ce6d7005ea7a4656d58a2079e"
+								label="Mixed Materials" type="box">60</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref106_5yc" level="file">
+						<did>
+							<unittitle>Alphabetical files, <title render="doublequote">Experimental
+									Economics and Game Theory,</title> E-M</unittitle>
+							<container id="aspace_91b173ffdf8e231857e1b5d4feed9396"
+								label="Mixed Materials" type="box">61</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref107_5hp" level="file">
+						<did>
+							<unittitle>Alphabetical files, <title render="doublequote">Experimental
+									Economics and Game Theory,</title> M-Z</unittitle>
+							<container id="aspace_2de59d1f735bc14121c2f62a0bd276f9"
+								label="Mixed Materials" type="box">62</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref108_bwk" level="file">
+						<did>
+							<unittitle>Experimental economics and auditing, 1987-1988</unittitle>
+							<physdesc id="aspace_5c90f65b7bc515630373f8922e2807d6">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_7c4ca3ad632488e78b390ade10f052e9"
+								label="Mixed Materials" type="box">63</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref110_g37" level="file">
+						<did>
+							<unittitle>Experimental economics dictionary entry</unittitle>
+							<physdesc id="aspace_8f43fe26f17262c1ea7876ea8711ebf7">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_0d783af147f31ffb26069eceda66df3c"
+								label="Mixed Materials" type="box">63</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref112_766" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Economics in the Lab,</title>
+								1994</unittitle>
+							<physdesc id="aspace_dcaf6936d81be906e9990223a66ef32d">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_6338635b053f5afe6eda0ddff1ca9191"
+								label="Mixed Materials" type="box">63</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref114_md1" level="file">
+						<did>
+							<unittitle>Energy Department seminars, 1984 and 1990</unittitle>
+							<physdesc id="aspace_af453c9a372a28c5257d966bfb0816d7">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_c6cbc46f1eff4e88d903f67cd2709dc4"
+								label="Mixed Materials" type="box">63</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref116_02i" level="file">
+						<did>
+							<unittitle>
+								<title render="italic">Experimental Economics,</title> drafts, notes
+								and research</unittitle>
+							<container id="aspace_fa02abad4cd9440bd9c7f46739d46993"
+								label="Mixed Materials" type="box">63-64</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref117_88w" level="file">
+						<did>
+							<unittitle>Free trade, 1991-1992</unittitle>
+							<container id="aspace_d1b362ddcb6c8b9a50fe350e5eeec0de"
+								label="Mixed Materials" type="box">64</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref118_fsv" level="file">
+						<did>
+							<unittitle>Foundation grants</unittitle>
+						</did>
+						<c04 id="aspace_ref119_39g" level="file">
+							<did>
+								<unittitle>Earhart foundation, 1982</unittitle>
+								<container id="aspace_13b373249e1db2c0b7ef76a015fcc1f6"
+									label="Mixed Materials" type="box">64</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref120_mu1" level="file">
+							<did>
+								<unittitle>Lynde and Harry Bradley foundation, 1989</unittitle>
+								<container id="aspace_af01c1c9be0915fb7cd4ca8a22a69484"
+									label="Mixed Materials" type="box">64</container>
+							</did>
+						</c04>
+					</c03>
+					<c03 id="aspace_ref121_pld" level="file">
+						<did>
+							<unittitle>
+								<title render="italic">Handbook of Experimental Economics</title>,
+								contributing articles, publication information and reviews,
+								1996</unittitle>
+							<physdesc id="aspace_fec4d30078be791d40a4ab2e8eac9ecd">
+								<extent>15 folders</extent>
+							</physdesc>
+							<container id="aspace_30950be77744688e18e348068e836e97"
+								label="Mixed Materials" type="box">64</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref123_hb9" level="file">
+						<did>
+							<unittitle>Lakatos, 1989</unittitle>
+							<physdesc id="aspace_9547a9d03e64ff7210bc7160a42c2940">
+								<extent>6 folders</extent>
+							</physdesc>
+							<container id="aspace_7914d94572b99b9aac8a763755ce8660"
+								label="Mixed Materials" type="box">64-65</container>
+						</did>
+						<scopecontent id="aspace_eb2a6196efc88d0c11de9c7e6ff885df">
+							<head>Scope and Contents note</head>
+							<p>Includes information on the individual and articles on his
+								contribution to the field of experimental economics.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref126_yon" level="file">
+						<did>
+							<unittitle>Law of unintended consequences, 1998</unittitle>
+							<container id="aspace_58f94ad173a3689c78ad12e1970a24e3"
+								label="Mixed Materials" type="box">65</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref127_z34" level="file">
+						<did>
+							<unittitle>Liberty Fund Lecture, Montana, 1972</unittitle>
+							<container id="aspace_7a693e647b1fcde4bfc141aad2dbeae0"
+								label="Mixed Materials" type="box">65</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref128_uw8" level="file">
+						<did>
+							<unittitle>Markets and Hayek hypothesis, 1982 and 1999-2001</unittitle>
+							<physdesc id="aspace_0c691a56dd85c4a7801338e1b2ee9467">
+								<extent>6 folders</extent>
+							</physdesc>
+							<container id="aspace_ee9b29b79554319db5ad025e7c212fc5"
+								label="Mixed Materials" type="box">65</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref130_5p3" level="file">
+						<did>
+							<unittitle>Experimental method and theory, 1982-1988 and
+								2001</unittitle>
+							<container id="aspace_38124bed5f46aa7fd4a41383b409e6d4"
+								label="Mixed Materials" type="box">65-66</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref131_rn6" level="file">
+						<did>
+							<unittitle>Microeconomics</unittitle>
+							<physdesc id="aspace_958f3b45ef5725a3616587b106ba8fbb">
+								<extent>7 folders</extent>
+							</physdesc>
+							<container id="aspace_401cab84b753298fb27916cd384b5933"
+								label="Mixed Materials" type="box">8</container>
+						</did>
+						<scopecontent id="aspace_f9202a96af41009a7daea2b6af2ba7ce">
+							<head>Scope and Contents note</head>
+							<p>Includes various manuscript drafts, articles and notes by Smith on
+								the subject of microeconomics.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref134_ad1" level="file">
+						<did>
+							<unittitle>Monetary rewards, reward saliency and incentive regulation,
+								1990-1993</unittitle>
+							<container id="aspace_a999b2b9764b369e243018e5491bf61c"
+								label="Mixed Materials" type="box">67-68</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref135_6e3" level="file">
+						<did>
+							<unittitle>
+								<title render="italic">Papers in Experimental Economics,</title>
+								1977-1984</unittitle>
+							<container id="aspace_fc68da3109709fcdec7211579f7fcb53"
+								label="Mixed Materials" type="box">68-69</container>
+						</did>
+						<scopecontent id="aspace_69fb2b6476904b5acc99cd5607e360f1">
+							<head>Scope and Contents note</head>
+							<p>Includes correspondence with publisher, drafts of contributing
+								essays, and notes.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref137_41p" level="file">
+						<did>
+							<unittitle>Political economy of exchange, 1986</unittitle>
+							<physdesc id="aspace_99faec9f759de85ecc3a51a6a2d91a55">
+								<extent>9 folders</extent>
+							</physdesc>
+							<container id="aspace_400df30b60ee5ba06a13a2efef07c0eb"
+								label="Mixed Materials" type="box">69</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref139_5yu" level="file">
+						<did>
+							<unittitle>Politics and antitrust regulation, 1980</unittitle>
+							<physdesc id="aspace_45c6cc8e7cb1ed5d07228016af1aba50">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_99d7e208dee96389a9bb162449289dda"
+								label="Mixed Materials" type="box">69</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref141_c8s" level="file">
+						<did>
+							<unittitle>
+								<title render="italic">Relevance of Lab Experiment to testing
+									Resource Allocation,</title>Ann Arbor conference manuscript,
+								notes and referee reports, 1977</unittitle>
+							<container id="aspace_375611ded3accda44037672d07242295"
+								label="Mixed Materials" type="box">70</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref142_68u" level="file">
+						<did>
+							<unittitle>Roth conference</unittitle>
+							<physdesc id="aspace_1944c579ebd5050c362854b8f257b894">2
+								folders</physdesc>
+							<container id="aspace_ed68e7c35fb94518e2ce0307010a5664"
+								label="Mixed Materials" type="box">70</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref144_cwi" level="file">
+						<did>
+							<unittitle>Seminars, articles by others and Smith, notes</unittitle>
+							<container id="aspace_87f09b2774115b86c08c196abe0b7905"
+								label="Mixed Materials" type="box">70-71</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref145_h97" level="file">
+						<did>
+							<unittitle>
+								<title render="italic">Research in Experimental Economics</title>,
+								v. 1-4</unittitle>
+							<container id="aspace_93806b57312d53f8ac70f603916bf200"
+								label="Mixed Materials" type="box">71-75</container>
+						</did>
+						<scopecontent id="aspace_8956fa87c65f46037be436a6fae6cacc">
+							<head>Scope and Contents note</head>
+							<p>Includes correspondence with contributing authors and publisher;
+								contributing essay drafts; and notes by Smith, series editor.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref147_8g1" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Theory, Experiment and
+									Economics,</title> in <title render="italic">Journal of Economic
+									Perspectives,</title> 1987-1989</unittitle>
+							<physdesc id="aspace_d42cec5d46d0bfe9c8e57560b78608aa">
+								<extent>7 folders</extent>
+							</physdesc>
+							<container id="aspace_144b40edac743266ffd1d1b4ed797392"
+								label="Mixed Materials" type="box">75</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref149_4qu" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Wizard who oversimplified,</title> paper
+								and rebuttal</unittitle>
+							<container id="aspace_39e89c1ddac9ef44436581cd7c94259b"
+								label="Mixed Materials" type="box">76</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref150_xec" level="file">
+						<did>
+							<unittitle>Permission to publish, forms</unittitle>
+							<container id="aspace_e9bc1bcd9f2f99a76b951e1d6362c18b"
+								label="Mixed Materials" type="box">76</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref151_p3c" level="file">
+						<did>
+							<unittitle>Data, 1978-1983 and undated</unittitle>
+							<container id="aspace_230b47686a0ac1cd5a55d8e1ef274adb"
+								label="Mixed Materials" type="box">76</container>
+						</did>
+						<scopecontent id="aspace_2f03db0dd33fbffc8c792c071cb0f891">
+							<head>Scope and Contents note</head>
+							<p>Includes charts of weekly experiments.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref153_xqg" level="file">
+						<did>
+							<unittitle>Other files</unittitle>
+							<container id="aspace_4aee55dc34090fdc8b295f4a79d70e00"
+								label="Mixed Materials" type="box">174</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 id="aspace_ref155_exp" level="subseries">
+					<did>
+						<unittitle>Game Theory and Strategic Interactions, 1990-2002</unittitle>
+						<physdesc id="aspace_6dfce06142826c4ee09cc1b40b10dd5f">
+							<extent>13 boxes</extent>
+						</physdesc>
+					</did>
+					<scopecontent id="aspace_580bcd54b215c30dadd5523c23be133b">
+						<head>Scope and Contents note</head>
+						<p>Arranged alphabetically by topic. See also the first three boxes of
+							Experimental Economics Subseries.</p>
+					</scopecontent>
+					<c03 id="aspace_ref157_a4g" level="file">
+						<did>
+							<unittitle>Bargaining games, 1991-1994</unittitle>
+							<container id="aspace_0db381bf6adebb65c7a41c59d58071a3"
+								label="Mixed Materials" type="box">77-78</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref158_n51" level="file">
+						<did>
+							<unittitle>Brain functioning and strategic decision making,
+								1992-1998</unittitle>
+							<physdesc id="aspace_ac376e25392d0f215bf75a1479f6eccb">
+								<extent>10 folders</extent>
+							</physdesc>
+							<container id="aspace_b20781915dc1aea8ae24cfbed582802a"
+								label="Mixed Materials" type="box">78</container>
+						</did>
+						<scopecontent id="aspace_9c44ef274a93817fcac734067a3a5594">
+							<head>Scope and Contents note</head>
+							<p>[Contains one color 5x7 photograph of Smith.]</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref161_m8z" level="file">
+						<did>
+							<unittitle>Centipede games, 1990-1994</unittitle>
+							<physdesc id="aspace_c53c777461cd2e366a54b2e5ea5ccab8">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_0720150ed0b31a51ef8b7bb62bdae5e1"
+								label="Mixed Materials" type="box">78</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref163_bbj" level="file">
+						<did>
+							<unittitle>Cooperation, reciprocity and trust, 1991-2002</unittitle>
+							<container id="aspace_28fddec8f707aca7b4a5d2242f5a54c4"
+								label="Mixed Materials" type="box">78-81</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref164_eds" level="file">
+						<did>
+							<unittitle>Cournot games, 1978, 2000</unittitle>
+							<physdesc id="aspace_45c29abf783669efe748557aa7d79247">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_dbe099363595da19af60c1d438340a4d"
+								label="Mixed Materials" type="box">81</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref166_89y" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Experimental Economics and Evolutionary
+									Psychology: Forward Signalling, Social Distance and Individuals
+									Rights,</title> 1994</unittitle>
+							<container id="aspace_c9b7d93ab6cdf346cc8d1153068d8025"
+								label="Mixed Materials" type="box">81</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref167_wan" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Intentionality, Detection and Mind: Why
+									does game form matter?,</title> 1999-2000</unittitle>
+							<container id="aspace_4217a105efc069a2ef7679dca5744f28"
+								label="Mixed Materials" type="box">81-82</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref168_cmi" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Toward a history of game theory,</title>
+								1992</unittitle>
+							<container id="aspace_d140af0045fdae062393d0e056716e74"
+								label="Mixed Materials" type="box">82</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref169_bu4" level="file">
+						<did>
+							<unittitle>Monetary rewards and incentives,</unittitle>
+						</did>
+						<c04 id="aspace_ref170_06a" level="file">
+							<did>
+								<unittitle>In ultimatum games, 1993-1994</unittitle>
+								<container id="aspace_a32d233328c2f8d4c55df048634a00a2"
+									label="Mixed Materials" type="box">82</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref171_ddk" level="file">
+							<did>
+								<unittitle>In strategic interactions, 2000</unittitle>
+								<container id="aspace_3d24c14818627f851349284bce8f1780"
+									label="Mixed Materials" type="box">82</container>
+							</did>
+						</c04>
+					</c03>
+					<c03 id="aspace_ref172_8py" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">The Paradox of Power,</title>
+								1996-1998</unittitle>
+							<container id="aspace_99486773a9d43c319160441866c0200c"
+								label="Mixed Materials" type="box">82-83</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref173_xv1" level="file">
+						<did>
+							<unittitle>Players, 1998-2000</unittitle>
+							<container id="aspace_e08d0c6614c7c2ff0618fc3192a8f91d"
+								label="Mixed Materials" type="box">83</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref174_lhp" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Sequential Bargaining and Game Theory
+									Experiments,</title> 1989</unittitle>
+							<physdesc id="aspace_f75c45c791a1e724c759b07f4fa5b938">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_aea719db49a47d733ee0ece2ecad7c7b"
+								label="Mixed Materials" type="box">84</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref176_ua6" level="file">
+						<did>
+							<unittitle>Ultimatum/Dictator games, 1993-2000</unittitle>
+							<container id="aspace_400613b8493a127c317eb3b17edff370"
+								label="Mixed Materials" type="box">84</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref177_c6f" level="file">
+						<did>
+							<unittitle>Data</unittitle>
+							<container id="aspace_a5b506f2b5815946d2bb811d83fbce63"
+								label="Mixed Materials" type="box">85-90</container>
+						</did>
+						<scopecontent id="aspace_aafb24fbe8c7dfba24ff214a27f37336">
+							<head>Scope and Contents note</head>
+							<p>Major folder groupings include: ultimatum, 1991; single blind, 1993;
+								fof, friend or foe, 1997; mach, machiavellian, 1998; asur,
+								assurance, 1995; exbarg, 1995-1997; dictator, 1993-1995.</p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 id="aspace_ref180_t4y" level="subseries">
+					<did>
+						<unittitle>Natural Resources and Utilities, 1969-2005 and
+							undated</unittitle>
+						<physdesc id="aspace_e0144cbcc79f9998f6590a52a7a7bb88">
+							<extent>24 boxes</extent>
+						</physdesc>
+					</did>
+					<scopecontent id="aspace_a38103006a6ec097c0130311cb53e35f">
+						<head>Scope and Contents note</head>
+						<p>This subseries consists of four parts: natural resources; utilities,
+							electric; utilites, smart markets; and utilities, natural gas. Material
+							on natural resources chiefly consists of proposals (mainly NSF),
+							research and writings dealing with issues of exhaustible resources
+							(land, oil and water) as well as resource preservation (recycling, waste
+							accumulation and Exxon Valdez accident assesment). Also includes
+							material for Smith's book <title type="simple" render="italic">Economics
+								of Natural and Exhaustible Resources</title>.</p>
+						<p>Material on electric utilities chiefly concerns the regulation and
+							deregulation of electric companies and consists of articles, charts,
+							clippings, drafts, and proposals. The principal regions researched
+							include Australia, New Zealand, the United Kingdom and the United States
+							(Alaska, California, Illinois, New Mexico but the majority refer to
+							Arizona). The bulk of the files deal with work conducted at the
+							Economics Science Lab; however, other partners in this enterprise
+							include Arizona Corporation Commission (ACC); Federal Energy Regulation
+							Commission (FERC); National Economic Research Associates (NERA);
+							Department of Energy (DOE); National Science Foundation (NSF); Goldwater
+							Institute; and various nationalized electric companies and government
+							agencies.</p>
+						<p>Material on smart markets concerns the network design for all utilities
+							but primarily electric and natural gas. Major groupings of folders deal
+							with research conducted for the industry in Hungary, and material for
+							Smith's book on smart markets. </p>
+						<p>Material on natural gas chiefly consists of data, drafts and research for
+							Smith's work entitled <title type="simple" render="doublequote"
+								>Experimental Auction Exchange for Pipeline Transmission
+								Networks</title>. Research was conducted in conjunction with the
+							FERC and Energy Information Administration (EIA). </p>
+						<p>Box 174 includes unsorted material relating to Natural Resources and
+							Utilities acquired through the 2013 accession.</p>
+					</scopecontent>
+					<c03 id="aspace_ref182_sd8" level="file">
+						<did>
+							<unittitle>Natural resources, 1970-2004</unittitle>
+							<container id="aspace_40937538b069621a461c45da3e542317"
+								label="Mixed Materials" type="box">90-93</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref183_b38" level="file">
+						<did>
+							<unittitle>Utilities, electric, 1969-2005 and undated</unittitle>
+							<container id="aspace_e8f4edf1c06655c0f1e3a5c0930eafea"
+								label="Mixed Materials" type="box">93-107</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref184_cod" level="file">
+						<did>
+							<unittitle>Utilities, smart markets, 1991-1994 and undated</unittitle>
+							<container id="aspace_cad40dd0fbec83e4425f9fdabc6103cc"
+								label="Mixed Materials" type="box">107-108</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref185_m9e" level="file">
+						<did>
+							<unittitle>Utilities, natural gas, 1987-1994 and undated</unittitle>
+							<container id="aspace_f504ba6d7f3a73c50aad6e2c552639ae"
+								label="Mixed Materials" type="box">108-114</container>
+						</did>
+						<scopecontent id="aspace_47eb7db1908638e0b0c4e339e6b4234e">
+							<head>Scope and Contents note</head>
+							<p>Includes data (charts, price regressions and experimental
+								auctions).</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref187_3v8" level="file">
+						<did>
+							<unittitle>Other files</unittitle>
+							<container id="aspace_7d1227be14380eed8b11c562551e0685"
+								label="Mixed Materials" type="box">174</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 id="aspace_ref189_zow" level="subseries">
+					<did>
+						<unittitle>Price Behavior, 1974-2000</unittitle>
+						<physdesc id="aspace_df2d9e7e7bc524755c07319582476d1d">
+							<extent>24 boxes</extent>
+						</physdesc>
+					</did>
+					<accessrestrict id="aspace_10b125ad0a35414e11deaf434a29fb4b">
+						<head>Conditions Governing Access</head>
+						<p>Electronic records in this subseries have been migrated to a library
+							server and digital use copies can only be accessed onsite in the
+							Rubenstein Library Reading Room. To request access, please contact
+							Research Services before coming to use these records.</p>
+					</accessrestrict>
+					<scopecontent id="aspace_0aaebbe7908ef1789f58ca5d10f81aa1">
+						<head>Scope and Contents note</head>
+						<p>Material concerns the theory and institutions of auctions and bidding.
+							Files primarily focus on double auctions, dutch auctions, english
+							auctions, multiple unit auctions and sealed bid auctions. Additional
+							groups include price controls and radio spectrum auctions.</p>
+					</scopecontent>
+					<c03 id="aspace_ref191_eeb" level="file">
+						<did>
+							<unittitle>Auctions, bidding and lotteries</unittitle>
+							<container id="aspace_3167f0f28c1aff1087be7b3b1d84aadb"
+								label="Mixed Materials" type="box">115-128</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref192_hi8" level="file">
+						<did>
+							<unittitle>Auctions, 1985</unittitle>
+							<physdesc id="aspace_4ac1eac0058c4f68b4b153d2c2120da4">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_7ab2263e9c7cfdcc12c339665e7dc947"
+								label="Mixed Materials" type="box">115</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref194_le3" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Competitive Market Institutions: Double
+									Auction vs. Sealed Bid Auctions,</title> 1979-1981</unittitle>
+							<physdesc id="aspace_fbc0bad4153199be46ce869711840161">
+								<extent>8 folders</extent>
+							</physdesc>
+							<container id="aspace_69a849d40aa86d365859baeb6d8c241d"
+								label="Mixed Materials" type="box">115</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref196_jxm" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">A Comparision of Posted Offer and Double
+									Auction Pricing Institutions,</title> 1983</unittitle>
+							<container id="aspace_72e6f211902ff9967be9a94c9ce2d9a1"
+								label="Mixed Materials" type="box">115</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref197_tak" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Experimental Comparision of Alternative
+									Rules for Competitive Market Exchange in Computerized Double
+									Auction Markets,</title> 1978-1980</unittitle>
+							<physdesc id="aspace_f1bea95d008db51f0fcb87f4eb1a6ae8">
+								<extent>5 folders</extent>
+							</physdesc>
+							<container id="aspace_3e2d0f4b1476c20fc9dd50e475768789"
+								label="Mixed Materials" type="box">116</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref199_hy5" level="file">
+						<did>
+							<unittitle>OCS leasing and auctions</unittitle>
+							<physdesc id="aspace_dcadedc9b11011328023a3f256d738f8">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_03eae662a51536b6852bd774a616dcc9"
+								label="Mixed Materials" type="box">116</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref201_c6o" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Why are not the Dutch and First Price
+									Auctions Isomorphic?</title>
+							</unittitle>
+							<container id="aspace_154bf944ca03a3adebd534a5d2ea77f9"
+								label="Mixed Materials" type="box">116</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref202_wgf" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Uncertainty and Partial Adjustment in
+									Double Auction Markets,</title> 1987</unittitle>
+							<container id="aspace_d64487417a32a8adc9aaf4d446caaef1"
+								label="Mixed Materials" type="box">116</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref203_qsn" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Modifying Market Theories in the Light
+									of Evidence,</title> 1989-1990</unittitle>
+							<container id="aspace_217ae8b4cfee7c7fb74c9e12717e2c6b"
+								label="Mixed Materials" type="box">116</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref204_h33" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Auctions,</title>
+								<title render="italic">The New Palgrave: a Dictionary of
+									Economics,</title> 1987-1991</unittitle>
+							<container id="aspace_a4bf8318c4d2fb57a406efea2934c1e5"
+								label="Mixed Materials" type="box">117</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref205_a9w" level="file">
+						<did>
+							<unittitle>COT research proposal</unittitle>
+							<container id="aspace_b1df6090d13aa3e22a001413f3e327d2"
+								label="Mixed Materials" type="box">117</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref206_14d" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Exogenous Uncertainty Increase the
+									Bid-Ask Spread in the Continuous Double Auction</title>
+							</unittitle>
+							<container id="aspace_2605b0c3e461cd99fec04c3c6af7e6d3"
+								label="Mixed Materials" type="box">117</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref207_ozx" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">An Experimental Study of the Plato
+									Computerized Double Auction Market Mechanism,</title>
+								1978</unittitle>
+							<physdesc id="aspace_058b72ed32de7911ebd4ad8d426c0bdf">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_a0410d059a1edc307cc2ccc6db55b5b7"
+								label="Mixed Materials" type="box">117</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref209_5wj" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Theory and Behavior of Single Object
+									Auctions,</title> 1980</unittitle>
+							<physdesc id="aspace_454bf401d23c10c7f0382995c2b9ad1a">
+								<extent>8 folders</extent>
+							</physdesc>
+							<container id="aspace_473e4569dbb393049be5e83d7924a678"
+								label="Mixed Materials" type="box">117</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref211_yq5" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Institutional Design for Electronic
+									Trading,</title> 1993-1994</unittitle>
+							<physdesc id="aspace_9f371054f5b88940f67ca2d6623411eb">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_86acafa9cb2f875782d7e4404af81127"
+								label="Mixed Materials" type="box">117</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref213_ih4" level="file">
+						<did>
+							<unittitle>Auctions with a lambda variable</unittitle>
+							<physdesc id="aspace_889b1979ae573b8bafef7fe616ca80ac">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_14f6cdf3f216b457451cc51ce563e6f6"
+								label="Mixed Materials" type="box">118</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref215_eap" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">In search for the Winner's
+									Curse,</title> 1983</unittitle>
+							<container id="aspace_1383903c42570d398ab5d9b3ff139925"
+								label="Mixed Materials" type="box">118</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref216_czl" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Bidding and Auction Institutions:
+									Experimental Results,</title> 1974-1976</unittitle>
+							<physdesc id="aspace_92af6bd1e92332f4f7c7148b59f240e8">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_343f2fae3cfba90ca9c4608b586dcb3a"
+								label="Mixed Materials" type="box">118</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref218_qxu" level="file">
+						<did>
+							<unittitle>Dutch auctions</unittitle>
+						</did>
+						<c04 id="aspace_ref219_fvt" level="file">
+							<did>
+								<unittitle>Articles</unittitle>
+								<physdesc id="aspace_406ba0073bc512dce186e66194ecc253">
+									<extent>2 folders</extent>
+								</physdesc>
+								<container id="aspace_61d890fb18e1c3c449f025895c5158ac"
+									label="Mixed Materials" type="box">118</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref221_qkc" level="file">
+							<did>
+								<unittitle>Charts</unittitle>
+								<physdesc id="aspace_bb757dc3b4b2d284d9fbfa22bf050611">
+									<extent>2 folders</extent>
+								</physdesc>
+								<container id="aspace_6908a43b0fe1eacf7671b4fb06e1d102"
+									label="Mixed Materials" type="box">118</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref223_0ip" level="file">
+							<did>
+								<unittitle>Notes</unittitle>
+								<container id="aspace_1230a319e60b813b6ebbcef64f614f30"
+									label="Mixed Materials" type="box">118</container>
+							</did>
+						</c04>
+					</c03>
+					<c03 id="aspace_ref224_ucu" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Incentives and Behavior in English,
+									Dutch and Sealed Bid Auctions,</title>
+							</unittitle>
+							<physdesc id="aspace_5b1b09fbb644be9df2cd07ed1e2fe684">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_c250650d13d706d7f7f6f2a414ae966e"
+								label="Mixed Materials" type="box">118</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref226_9ug" level="file">
+						<did>
+							<unittitle>PDA protocol</unittitle>
+							<container id="aspace_8200dcd6e1a236758dcb70569c8f31df"
+								label="Mixed Materials" type="box">118</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref227_dpn" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">The Discrete Bid First Price
+									Auction,</title> 1986</unittitle>
+							<container id="aspace_0efa7579ecc473b798c4866eac258dcb"
+								label="Mixed Materials" type="box">118</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref228_65q" level="file">
+						<did>
+							<unittitle>Sealed bid auction theory and behavior</unittitle>
+							<container id="aspace_ac9ff2ddc69048d6945294bb883ddb90"
+								label="Mixed Materials" type="box">118</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref229_s5g" level="file">
+						<did>
+							<unittitle>Auction bargaining mechanisms</unittitle>
+							<container id="aspace_b614df7e0e02a9cc08d0a8ec00b1268c"
+								label="Mixed Materials" type="box">119</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref230_3q0" level="file">
+						<did>
+							<unittitle>Bidding institutions, notes</unittitle>
+							<physdesc id="aspace_a436fbb129777d57be7b04ccfc6ee4bb">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_a46f4ed366a66bf5b57d03b70105a484"
+								label="Mixed Materials" type="box">119</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref232_fxm" level="file">
+						<did>
+							<unittitle>Bidding theory with risk preferences, 1983-1984</unittitle>
+							<physdesc id="aspace_a5ca70c961437c032e516dd8deccb316">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_64fef4736097cbae5ae9b369da6d9a29"
+								label="Mixed Materials" type="box">119</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref234_liv" level="file">
+						<did>
+							<unittitle>Properties auction</unittitle>
+							<container id="aspace_656c4fa5bfc9c2cffd5f64222a8c43c7"
+								label="Mixed Materials" type="box">119</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref235_42n" level="file">
+						<did>
+							<unittitle>Treasury auctions</unittitle>
+							<physdesc id="aspace_82ba0a0afba6420770aff36fe0712c86">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_31cb6946c852ab4049164b335ddfbe5b"
+								label="Mixed Materials" type="box">119</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref237_j5i" level="file">
+						<did>
+							<unittitle>Burlington Northern, certificate test program,
+								1988</unittitle>
+							<physdesc id="aspace_1ab8207113c317451a882ef19edf650c">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_1073fbcbd04254ef4e24965ae2636c9c"
+								label="Mixed Materials" type="box">119</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref239_14r" level="file">
+						<did>
+							<unittitle>Various articles on auctions</unittitle>
+							<container id="aspace_7779183724a654c7e3df4a667b866a14"
+								label="Mixed Materials" type="box">119</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref240_65e" level="file">
+						<did>
+							<unittitle>Auctions and markets institutional design</unittitle>
+							<container id="aspace_044c46e59fbdea542ffaef16cd30d2b3"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref241_zmf" level="file">
+						<did>
+							<unittitle>Boundaries of competitive price theory</unittitle>
+							<physdesc id="aspace_cf6051601f9f1e606321a06fcbb252e4">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_c2f2cb8e2e52924da2870bd8bb9c1bf4"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref243_36a" level="file">
+						<did>
+							<unittitle>PDA</unittitle>
+							<physdesc id="aspace_9315139173951fe26babddb72e56812b">
+								<extent>8 folders</extent>
+							</physdesc>
+							<container id="aspace_f058b7320c82b741d2ea8c1be2627cdd"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref245_08d" level="file">
+						<did>
+							<unittitle>DOA</unittitle>
+							<physdesc id="aspace_931dc35e536a7851a8f601dcc615a2fa">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_3ccf94af563114fc31ca272beb1b0eb4"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref247_h3w" level="file">
+						<did>
+							<unittitle>Sealed bid offer auctions</unittitle>
+							<container id="aspace_b1d9976e28a6832e517cd28349948292"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref248_gln" level="file">
+						<did>
+							<unittitle>Back up charts, all auctions</unittitle>
+							<container id="aspace_dfc7cf6921a24a08741672666d8ea110"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref249_ydb" level="file">
+						<did>
+							<unittitle>Sequential english auction</unittitle>
+							<container id="aspace_0c17c73d2cdaf2e715bfb74d6e1f0f33"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref250_w3j" level="file">
+						<did>
+							<unittitle>Old transparencies, auctions</unittitle>
+							<container id="aspace_812c414a835bd92068c48ccd4a365663"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref251_uu2" level="file">
+						<did>
+							<unittitle>BPA, board of overseers, demo, 1991 Oct. 25</unittitle>
+							<container id="aspace_a1b4e7d13e6d549fd1aa4caf91008b4b"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref252_arr" level="file">
+						<did>
+							<unittitle>Oral bid, double and offer auction charts</unittitle>
+							<container id="aspace_36993e465026a590b14bcc253c9acba6"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref253_42v" level="file">
+						<did>
+							<unittitle>Dutch auctions</unittitle>
+							<container id="aspace_5510f2705499a1d042991ab6cba31330"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref254_7wp" level="file">
+						<did>
+							<unittitle>Hooker lecture, McMaster university, 1988 Oct. 5</unittitle>
+							<container id="aspace_a96230fd2fb1e189be65c12d603ecafb"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref255_023" level="file">
+						<did>
+							<unittitle>Single and multiple unit auctions (sealed bid)</unittitle>
+							<container id="aspace_004c3e7cba3795630e55ff2048bdb240"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref256_1bv" level="file">
+						<did>
+							<unittitle>Two commodities for PDA designs, 1983-1986</unittitle>
+							<physdesc id="aspace_f1117801821ef8ab4d07ac41534f7090">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_c59a920a213ef43ff5481a21657d08c0"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref258_azv" level="file">
+						<did>
+							<unittitle>Multiple unit english clock auctions and assorted
+								alternatives</unittitle>
+							<physdesc id="aspace_b1a45fb3f47f144419a356d9c5520298">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_67006fbcc79d1bde4acfa3ec69145d31"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref260_p45" level="file">
+						<did>
+							<unittitle>Sealed bid offer auctions</unittitle>
+							<container id="aspace_8b5104a738b17317bff948ff5188f899"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref261_3ok" level="file">
+						<did>
+							<unittitle>Case studies, applied math, 1988</unittitle>
+							<container id="aspace_a4d1e440742790d4d30a9abc1d55deed"
+								label="Mixed Materials" type="box">120</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref262_zyl" level="file">
+						<did>
+							<unittitle>PCS auction, 1994</unittitle>
+							<container id="aspace_cd270c6e690b6721de062b5ff26d5aa3"
+								label="Mixed Materials" type="box">121</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref263_gzc" level="file">
+						<did>
+							<unittitle>N-4 regressions</unittitle>
+							<container id="aspace_a34635d5f68a84e2a8fa0bd1cb48b582"
+								label="Mixed Materials" type="box">121</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref264_uva" level="file">
+						<did>
+							<unittitle>Lotteries</unittitle>
+							<container id="aspace_cd2c5d864eb2bb9e767930e22ad46158"
+								label="Mixed Materials" type="box">121</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref265_qlq" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Individual Bidding with Simulated
+									Competition,</title> 1985</unittitle>
+							<container id="aspace_4465e0f224de665160651660af9d4bc9"
+								label="Mixed Materials" type="box">121</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref266_j7c" level="file">
+						<did>
+							<unittitle>Experiments</unittitle>
+						</did>
+						<c04 id="aspace_ref267_5ft" level="file">
+							<did>
+								<unittitle>Hugg</unittitle>
+								<container id="aspace_255ad43e730dc0280251d9c9d4a8414f"
+									label="Mixed Materials" type="box">121</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref268_f6z" level="file">
+							<did>
+								<unittitle>Miller</unittitle>
+								<physdesc id="aspace_4ce86edafdf9ef7b425c1fd2462dbb19">
+									<extent>2 folders</extent>
+								</physdesc>
+								<container id="aspace_96f4f3e3faf479ba5d677407ad736703"
+									label="Mixed Materials" type="box">121</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref270_7hr" level="file">
+							<did>
+								<unittitle>Plott-Smith</unittitle>
+								<container id="aspace_a645d6be1ea98c2fb48483bacde0e7d5"
+									label="Mixed Materials" type="box">121</container>
+							</did>
+						</c04>
+					</c03>
+					<c03 id="aspace_ref271_np4" level="file">
+						<did>
+							<unittitle>Instructions, double auction</unittitle>
+							<container id="aspace_86b7128650f1b8614a18a61da8a17b66"
+								label="Mixed Materials" type="box">121</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref272_8ja" level="file">
+						<did>
+							<unittitle>Q group proposal</unittitle>
+							<container id="aspace_767ef42915d70358662b1d3b3343fa00"
+								label="Mixed Materials" type="box">121</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref273_x5s" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Endogenous Entry and Exit in Common
+									Value Auctions,</title> 1991-1995</unittitle>
+							<physdesc id="aspace_5b34d049fcb9a08fc31db21b0602b42c">
+								<extent>4 folders</extent>
+							</physdesc>
+							<container id="aspace_acacb79a92fb4fe25a1fcd9ab3a4a4e8"
+								label="Mixed Materials" type="box">121</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref275_rhu" level="file">
+						<did>
+							<unittitle>Posted offer and DA comparisons</unittitle>
+							<container id="aspace_93de0798ce74b2436a15cb9dcbaa26fe"
+								label="Mixed Materials" type="box">121</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref276_gsn" level="file">
+						<did>
+							<unittitle>Dutch-English auctions, first-second, charts</unittitle>
+							<container id="aspace_445f985d109577da2a0bad630b6eedf6"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref277_qfv" level="file">
+						<did>
+							<unittitle>Discrimination vs competition in sealed-bid auctions,
+								charts</unittitle>
+							<container id="aspace_e3d2047e7c5d10178bf19be18d7b77fd"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref278_ax7" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Designing Auction Institutions for
+									Exchange,</title> 1999</unittitle>
+							<container id="aspace_2b44b3fe364cd3f48cd350a09026ebfe"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref279_e64" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Tests of a Heterogeneous Bidder's Theory
+									of First Price Auctions</title>
+							</unittitle>
+							<physdesc id="aspace_95668a8e30e2a877b51f28c20d33db4b">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_035d6bbfaad7a911104c9ace4191d62f"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref281_7us" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">The Effects of Rent Asymmetries in
+									Experimental Auction Markets,</title> 1982</unittitle>
+							<container id="aspace_5faa0cf002d9ea0d280f9e0409f52ac8"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref282_083" level="file">
+						<did>
+							<unittitle>Comparision of three auctions, Bratton</unittitle>
+							<container id="aspace_9a88459cb0eaddbbddb44a77cc4a771a"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref283_brc" level="file">
+						<did>
+							<unittitle>PLATO, 1978 and undated</unittitle>
+						</did>
+						<c04 id="aspace_ref284_rqw" level="file">
+							<did>
+								<unittitle>PLATO and TUTOR manual</unittitle>
+								<container id="aspace_0cd4604d2a9d6d31d6d6891efa26e238"
+									label="Mixed Materials" type="box">122</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref285_5y2" level="file">
+							<did>
+								<unittitle>PLATO experiments</unittitle>
+								<physdesc id="aspace_863556139a7b8ecb4f99b4535b195219">
+									<extent>2 folders</extent>
+								</physdesc>
+								<container id="aspace_08a06364f180e74de80ce1bd02523443"
+									label="Mixed Materials" type="box">122</container>
+							</did>
+						</c04>
+					</c03>
+					<c03 id="aspace_ref287_3v1" level="file">
+						<did>
+							<unittitle>Bidding for a demand curve</unittitle>
+							<container id="aspace_972e53ee330ad76a0a96cab66a5b5df9"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref288_wke" level="file">
+						<did>
+							<unittitle>Auctions and bidding, 1986</unittitle>
+							<container id="aspace_1baa35cccc6b820b68bc562e0fa80775"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref289_qa5" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Inducing Risk Neutral Preferences: an
+									examination in a controlled market enviroment</title>,
+								1986</unittitle>
+							<physdesc id="aspace_096ead9246304638e8c8b5cb70b11ed2">
+								<extent>4 folders</extent>
+							</physdesc>
+							<container id="aspace_b640ac44ab34626044d36dc1f5dcb0d4"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref291_bc4" level="file">
+						<did>
+							<unittitle>Lottery regressions and charts</unittitle>
+							<container id="aspace_7b0f3e91a61381079634ec9bb84fbd8c"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref292_r4k" level="file">
+						<did>
+							<unittitle>Charts of nonlinear regressions</unittitle>
+							<container id="aspace_63679aaede2d0133b588f0a46a6bfd9f"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref293_8yj" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">The Sealed-Bid Mechanism: an
+									experimental study,</title> 1987</unittitle>
+							<container id="aspace_386e6f5e875328ea9f8aefd40b86e0ef"
+								label="Mixed Materials" type="box">122</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref294_jd8" level="file">
+						<did>
+							<unittitle>Concurrent trading in two experimental markets with demand
+								interdependence, 2000</unittitle>
+							<physdesc id="aspace_ba1de5d17c79faf06ee6a0d04688dc44">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_c2ff5acda32873c27402f40cc85658bc"
+								label="Mixed Materials" type="box">123</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref296_0wo" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Theory and Behavior in Auctions: effects
+									of monetary rewards and decision cost,</title> Irvine conference
+								on decision theory</unittitle>
+							<container id="aspace_7b8795448b463dca75a6e82c6838a37b"
+								label="Mixed Materials" type="box">123</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref297_n46" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">An Experimental Examination of the
+									Walrasian Tatonnement Mechanism,</title> 1996</unittitle>
+							<physdesc id="aspace_6d4e7acbdbdad387f70832c923f353a9">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_b8819888cd13cf098abb87dd45b6e4c0"
+								label="Mixed Materials" type="box">123</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref299_hwr" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Numerical Computation of First Price
+									Auction with Heterogenous Risk,</title> 1998</unittitle>
+							<container id="aspace_0a009558ddebbdcbdea08f645d849836"
+								label="Mixed Materials" type="box">123</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref300_7ch" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Designing Auction Institutions: is
+									Double Dutch best?,</title> 1992</unittitle>
+							<physdesc id="aspace_839a928b7164954304ac3874bb347e0b">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_e11426c1002549e19c86d10f2b143e06"
+								label="Mixed Materials" type="box">123</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref302_5su" level="file">
+						<did>
+							<unittitle>First price auctions</unittitle>
+						</did>
+						<c04 id="aspace_ref303_che" level="file">
+							<did>
+								<unittitle>First price auction with fixed payment (charge) for
+									winning</unittitle>
+								<container id="aspace_0025491b4d30f04deb58347e8deea137"
+									label="Mixed Materials" type="box">123</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref304_ua6" level="file">
+							<did>
+								<unittitle>Rewards and behavior in first price auctions</unittitle>
+								<container id="aspace_a2b93811ab047a897e71258dc0191d4b"
+									label="Mixed Materials" type="box">123</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref305_yeq" level="file">
+							<did>
+								<unittitle>
+									<title render="doublequote">Rewards, Experience and Decision
+										Costs in First Price Auctions,</title> 1992-1993</unittitle>
+								<physdesc id="aspace_1710ee8b6049bf5c07e0d6106e3239a9">
+									<extent>2 folders</extent>
+								</physdesc>
+								<container id="aspace_6283f59a7624692c23403e95f2c03a46"
+									label="Mixed Materials" type="box">123</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref307_4lf" level="file">
+							<did>
+								<unittitle>
+									<title render="doublequote">Theory and Individual Behavior of
+										First Price Auctions,</title> 1986-1987</unittitle>
+								<physdesc id="aspace_166b57d9585270cc0cabc932f669702c">
+									<extent>7 folders</extent>
+								</physdesc>
+								<container id="aspace_e92cd9133715e1779e77fa3ff22abd43"
+									label="Mixed Materials" type="box">124</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref309_xfi" level="file">
+							<did>
+								<unittitle>
+									<title render="doublequote">Theory and Misbehavior in First
+										Price Auctions,</title> 1989-1992</unittitle>
+								<physdesc id="aspace_1cebead53bb53b60eb1cc4138d984d54">
+									<extent>Folders 1-3 of 9</extent>
+								</physdesc>
+								<container id="aspace_06158ffaffd5f504bfbb53b154cfaf51"
+									label="Mixed Materials" type="box">124</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref311_gs7" level="file">
+							<did>
+								<unittitle>
+									<title render="doublequote">Theory and Misbehavior in First
+										Price Auctions,</title> 1989-1992</unittitle>
+								<physdesc id="aspace_8bed3810c59b5fd142a7aea2b35a19dc">
+									<extent>Folders 4-9 of 9</extent>
+								</physdesc>
+								<container id="aspace_001f9a8273285af9e0c636d22a437be3"
+									label="Mixed Materials" type="box">125</container>
+							</did>
+						</c04>
+						<c04 id="aspace_00c1d2bc3cd9ac8a62408873e4e5f007" level="file">
+							<did>
+								<unittitle>Data</unittitle>
+								<unitdate normal="1991/1991">1991</unitdate>
+								<physdesc id="aspace_dce0395309bc63a0380a18de547ce8e9">1 disk image
+									derived from 3.5" floppy disk; approximately 3.1 megabytes. </physdesc>
+								<container id="aspace_6bd370aa97f0fb82c8ba9a2d301522d1"
+									label="Mixed Materials" type="digital-materials"
+									>RL01220-SET-0001</container>
+							</did>
+							<scopecontent id="aspace_82447278c993893c8b3126d0e3b3b9f4">
+								<head>Scope and Contents</head>
+								<p>The disk is labled as: First Price Auction Data; 2/6/91; Disk
+									001.</p>
+							</scopecontent>
+						</c04>
+					</c03>
+					<c03 id="aspace_ref313_cki" level="file">
+						<did>
+							<unittitle>Materials for reply to Kagel-Roth</unittitle>
+							<container id="aspace_8224b2eb8a0c4733978f6f9addb1e2e0"
+								label="Mixed Materials" type="box">125</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref314_9le" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Theory and Behavior of Multiple Unit
+									Auctions,</title> 1982-1984</unittitle>
+							<physdesc id="aspace_3f2d929c15b78bb2e846f99a6a4d0f1d">
+								<extent>Folders 1-4 of 17</extent>
+							</physdesc>
+							<container id="aspace_0c2462849c108f7246d41d22b89ea7a5"
+								label="Mixed Materials" type="box">125</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref316_g1x" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Theory and Behavior of Multiple Unit
+									Auctions,</title> 1982-1984</unittitle>
+							<physdesc id="aspace_156176f3ceee6b6ac61b7cd87fecf96d">
+								<extent>Folders 5-17 of 17</extent>
+							</physdesc>
+							<container id="aspace_54e823d960bde7ad8d38970b57630a73"
+								label="Mixed Materials" type="box">126</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref318_vzt" level="file">
+						<did>
+							<unittitle>Sealed bid auctions, Coppinger</unittitle>
+							<physdesc id="aspace_4d7b64154338c825ce85cf22b276d2f6">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_bf4f08f78836f9491e1ea232374b3a6d"
+								label="Mixed Materials" type="box">127</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref320_6fw" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">An Experimental Comparison of
+									Alternative Rules for Competitive Market Exchange,</title>
+								1979</unittitle>
+							<container id="aspace_f085844a8164e3a684005000720567c4"
+								label="Mixed Materials" type="box">127</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref321_6nc" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">A Test that Discriminates between Two
+									Models of the Dutch-First Auction Non-Isomorphism,</title>
+								1983</unittitle>
+							<physdesc id="aspace_781cb71bea8c57d711832b35170dfd5f">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_aa97de46258734a76333a1cb4933019e"
+								label="Mixed Materials" type="box">127</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref323_sdc" level="file">
+						<did>
+							<unittitle>Bidding theory for heterogenous bidders</unittitle>
+							<physdesc id="aspace_476fab9218d7bd5a5912fa408de6b95b">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_2bd0191104dca407f31faaa3850c284b"
+								label="Mixed Materials" type="box">127</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref325_0z6" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Combinatorial Auction Mechanism for
+									Airport Time Slot Allocation</title>
+							</unittitle>
+							<physdesc id="aspace_ef76d7c8d730d39724c288b134bf2116">
+								<extent>3 folders</extent>
+							</physdesc>
+							<container id="aspace_47fd1a364ecf006c5760c53b2716ab29"
+								label="Mixed Materials" type="box">127</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref327_5dj" level="file">
+						<did>
+							<unittitle>Bidding behavior in sealed bid discriminative
+								auctions</unittitle>
+							<container id="aspace_5601176dbd04fb8b77f3dd100618853a"
+								label="Mixed Materials" type="box">127</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref328_pa8" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">A Comparison of Posted-Offer and Double
+									Auction-Pricing Institutions,</title> 1980-1983</unittitle>
+							<container id="aspace_b32f81129826d7249728db12bdbcf718"
+								label="Mixed Materials" type="box">128</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref329_ie0" level="file">
+						<did>
+							<unittitle>Experimental development of sealed bid auction
+								theory</unittitle>
+							<physdesc id="aspace_1131254e5258c4f9ad11b094fdcb6b88">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_228640022ad80919ce7f4bf0c606674a"
+								label="Mixed Materials" type="box">128</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref331_ccn" level="file">
+						<did>
+							<unittitle>Combinatorial auction proposal, LECG/ESL/CALTECH,
+								1998</unittitle>
+							<container id="aspace_e45bcdcb58e6fc6630a624dcd81c9c58"
+								label="Mixed Materials" type="box">128</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref332_ltz" level="file">
+						<did>
+							<unittitle>Hand run call market sheets</unittitle>
+							<container id="aspace_3a2ae65e82eeb58ba4a00c387dbe28b5"
+								label="Mixed Materials" type="box">128</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref333_wcl" level="file">
+						<did>
+							<unittitle>Price controls</unittitle>
+							<container id="aspace_d82dabc7f8e9cd3bb55ab022c90a6391"
+								label="Mixed Materials" type="box">128</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref334_uws" level="file">
+						<did>
+							<unittitle>Radio spectrum auctions</unittitle>
+							<container id="aspace_703d3416c0c79a99d4459c5c64147dce"
+								label="Mixed Materials" type="box">129</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref335_657" level="file">
+						<did>
+							<unittitle>Data</unittitle>
+							<container id="aspace_d69bf8265ab456eaa342e3fbbd041cd2"
+								label="Mixed Materials" type="box">129-138</container>
+						</did>
+						<scopecontent id="aspace_33340603a6737414dd611a1130ee766e">
+							<head>Scope and Contents note</head>
+							<p>Major folder groupings include: PDA, S-bid, SDS, DFD, DSD and Dutch
+								auctions. They range in years between 1978-1983.</p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 id="aspace_ref338_3qz" level="subseries">
+					<did>
+						<unittitle>Other Writings, 1958-2007 and undated</unittitle>
+						<physdesc id="aspace_6851fbfc91d696b36be3e132b53f3817">
+							<extent>16 boxes</extent>
+						</physdesc>
+					</did>
+					<scopecontent id="aspace_b56cb1e10f8fb9988008c98ba87b4113">
+						<head>Scope and Contents note</head>
+						<p>Writings by Smith which do not fall under previous major divisions in the
+							Research and Writings Series. Arranged alphabetically by topic.</p>
+					</scopecontent>
+					<c03 id="aspace_ref340_kb9" level="file">
+						<did>
+							<unittitle>American Economic Association</unittitle>
+							<container id="aspace_c89d48959ff915c4b9325c3219200392"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+						<c04 id="aspace_ref341_muk" level="file">
+							<did>
+								<unittitle>
+									<title render="doublequote">On replicability</title>,
+									1981</unittitle>
+								<physdesc id="aspace_cf67660bc5795cdced8b97d8f779a712">
+									<extent>2 folders</extent>
+								</physdesc>
+								<container id="aspace_cab7239b41e620796e4244287700d1e8"
+									label="Mixed Materials" type="box">139</container>
+							</did>
+						</c04>
+						<c04 id="aspace_ref343_akq" level="file">
+							<did>
+								<unittitle>Psychology and economics, 1977</unittitle>
+								<container id="aspace_8fb8a58fb9e5710fe981efdc86715e74"
+									label="Mixed Materials" type="box">139</container>
+							</did>
+						</c04>
+					</c03>
+					<c03 id="aspace_ref344_95a" level="file">
+						<did>
+							<unittitle>Anomalies, 1987</unittitle>
+							<physdesc id="aspace_fdb4210ea649d75a9af5cfbf5ef0877c">2
+								folders</physdesc>
+							<container id="aspace_492e399afb85a37c0c3f341c39a79fef"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref346_o53" level="file">
+						<did>
+							<unittitle>Behavioral economics research and the foundations of
+								economics</unittitle>
+							<container id="aspace_6160176120b49501a7a61d509984c6b2"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref347_u32" level="file">
+						<did>
+							<unittitle>Cobweb</unittitle>
+							<physdesc id="aspace_093272ba2ccd3dad7023b1f7d5b1a479">
+								<extent>4 folders</extent>
+							</physdesc>
+							<container id="aspace_74e48d9af871eee9281b4f301ea55bbc"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref349_ey2" level="file">
+						<did>
+							<unittitle>Coursey, Don, charts</unittitle>
+							<container id="aspace_15b89a20c2423c9c5c7bf40f34b81716"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref350_ogx" level="file">
+						<did>
+							<unittitle>Consumer behavior, transparencies</unittitle>
+							<container id="aspace_c22137d8678d4ddb8086f875c9cdd7ca"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref351_mxd" level="file">
+						<did>
+							<unittitle>On <emph render="doublequote">Creation vs. Discovery </emph>
+								and <emph render="doublequote">The Origin of Predictable
+									Behavior,</emph>1984-1984</unittitle>
+							<physdesc id="aspace_7e7d2f8f383306e2eb6918ba72a5e8d3">
+								<extent>4 folders</extent>
+							</physdesc>
+							<container id="aspace_df8cf5da43bebd01377c65eba2bcfe22"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref353_r6l" level="file">
+						<did>
+							<unittitle>Economics will never be the same</unittitle>
+							<container id="aspace_d7358fb470168cd2df1c41b970a00a75"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref354_n8f" level="file">
+						<did>
+							<unittitle>Evaluations of econometric models, 1981</unittitle>
+							<container id="aspace_e4ff8d09cacf801118b430a6cea18ee4"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref355_6zy" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Humankind in prehistory</title>
+							</unittitle>
+							<physdesc id="aspace_efccd41afc7b3d39f7fb20e5e9a0b3e1">
+								<extent>Folders 1-4 of 8</extent>
+							</physdesc>
+							<container id="aspace_1e59245c1c07b05236083395bb4b3e09"
+								label="Mixed Materials" type="box">139</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref357_k24" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Humankind in prehistory</title>
+							</unittitle>
+							<physdesc id="aspace_386237cae533bea589c8c42b50ba8a74">
+								<extent>Folders 5-8 of 8</extent>
+							</physdesc>
+							<container id="aspace_9b30496b6617aedddf4ee30a8486c474"
+								label="Mixed Materials" type="box">140</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref359_e1z" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Economic principles in the emergence of
+									humankind</title>
+							</unittitle>
+							<physdesc id="aspace_d032317beb8a12bd5f98abd69b2b66b5">
+								<extent>4 folders</extent>
+							</physdesc>
+							<container id="aspace_6d9abab6b54752a87a22254b5e4088f2"
+								label="Mixed Materials" type="box">140</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref361_y6k" level="file">
+						<did>
+							<unittitle>On <title render="doublequote">emergence of social and
+									political institutions,</title> 1985</unittitle>
+							<physdesc id="aspace_2406b2ab7b6eaa83c524c2fe2ed49315">
+								<extent>4 folders</extent>
+							</physdesc>
+							<container id="aspace_2b1a740ad4a86995671088b1692bb49d"
+								label="Mixed Materials" type="box">141</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref363_1x2" level="file">
+						<did>
+							<unittitle>Externalities</unittitle>
+							<physdesc id="aspace_2b8f52930a1304ee0944993e35672d05">
+								<extent>9 folders</extent>
+							</physdesc>
+							<container id="aspace_9b8b884e8afc7cc1468f82aa5feafb03"
+								label="Mixed Materials" type="box">141</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref365_trp" level="file">
+						<did>
+							<unittitle>Fishing and Fisheries</unittitle>
+							<physdesc id="aspace_a12716e6835d746edbd183bcccc5631c">
+								<extent>8 folders</extent>
+							</physdesc>
+							<container id="aspace_a339f2e4d58836b1aa974891e0da1a49"
+								label="Mixed Materials" type="box">141</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref367_xhx" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Foundations of experimental political
+									economy,</title> Plott and Smith</unittitle>
+							<container id="aspace_0df80ed27d0a4f0d3149f6dddfd904ce"
+								label="Mixed Materials" type="box">141</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref368_4sy" level="file">
+						<did>
+							<unittitle>Fixed Cost Enviroments, 1996-1999</unittitle>
+							<physdesc id="aspace_e59bb1c729c10bfe919e0a671488330c">
+								<extent>5 folders</extent>
+							</physdesc>
+							<container id="aspace_a80b965b2f70f175223a16c4a0951e47"
+								label="Mixed Materials" type="box">142</container>
+						</did>
+						<scopecontent id="aspace_df256e16a4c47e44558ec946254550b1">
+							<head>Scope and Contents note</head>
+							<p>Includes material on oligopolies and core allocation.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref371_yu9" level="file">
+						<did>
+							<unittitle>Free institutions proposal, 1981</unittitle>
+							<container id="aspace_7f8a76331433d0de00b6f1fe44fae624"
+								label="Mixed Materials" type="box">142</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref372_yhx" level="file">
+						<did>
+							<unittitle>Frisco report, <title render="doublequote">An analysis of
+									rail piggyback transportation, </title>1958</unittitle>
+							<container id="aspace_48061141a562bb83ca02436fb681d69a"
+								label="Mixed Materials" type="box">142</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref373_q52" level="file">
+						<did>
+							<unittitle>Health and history, notes and paper, 1994</unittitle>
+							<physdesc id="aspace_a9dceb25cf9d5141ddf1313df709b496">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_3c000a1fcf53e5c0fca634c3767001e2"
+								label="Mixed Materials" type="box">142</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref375_k5o" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Human Nature: an economic
+									perspective,</title>
+								<title render="italic">Daedalus, </title>2004 Fall</unittitle>
+							<container id="aspace_e9b7a69c1234f1d1a91be8c9689d7c60"
+								label="Mixed Materials" type="box">142</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref376_z6j" level="file">
+						<did>
+							<unittitle>Hunting, 1973, 1985-1986 and undated</unittitle>
+							<physdesc id="aspace_125f2765edf32e930789dc820de239ea">
+								<extent>10 folders</extent>
+							</physdesc>
+							<container id="aspace_2a5d2c62343012180e258ad9c074bbdf"
+								label="Mixed Materials" type="box">143</container>
+						</did>
+						<scopecontent id="aspace_860d1c0d4cfcaf141e997515d1bcc9f2">
+							<head>Scope and Contents note</head>
+							<p>Includes big animals, EPA conference, <title type="simple"
+									render="doublequote">Hunting and Gathering Economies,</title>
+								and <title type="simple" render="doublequote">Economics of the
+									primitive hunter culture with applications to pleistocene
+									extinction and the rise of agriculture.</title>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref379_0qh" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">The Iraqi People's Fund,</title>
+								<title render="italic">Wall Street Journal, </title> 2003 Dec.
+								22</unittitle>
+							<container id="aspace_86c7bd2ce562ffd068265670e62191d8"
+								label="Mixed Materials" type="box">143</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref380_swe" level="file">
+						<did>
+							<unittitle>Man as an ecological factor within nature</unittitle>
+							<container id="aspace_a29c5279c0c1b824ef7b60a378ac5f32"
+								label="Mixed Materials" type="box">143</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref381_3ex" level="file">
+						<did>
+							<unittitle>Motivation theory and behavior under the decision cost
+								hypothesis, Smith and Walker</unittitle>
+							<container id="aspace_78c4434757d04201acf3bd8262c1ccd9"
+								label="Mixed Materials" type="box">143</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref382_g24" level="file">
+						<did>
+							<unittitle>New Zealand, 1987-1991</unittitle>
+							<physdesc id="aspace_588c377d6eee0bfadf6be1afbf9830d0">
+								<extent>5 folders</extent>
+							</physdesc>
+							<container id="aspace_2779ec51adee8234b03b27c4dc5c43e2"
+								label="Mixed Materials" type="box">144</container>
+						</did>
+						<scopecontent id="aspace_6b3cb1adc3c2d9fec1c1d0e262f7eed9">
+							<head>Scope and Contents note</head>
+							<p>Includes colonization, and the privatization and regulation of
+								airports and telecommunications.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref385_o44" level="file">
+						<did>
+							<unittitle>Plato nameset file</unittitle>
+							<container id="aspace_45d9b8a322b300ae4e3605075c556ca0"
+								label="Mixed Materials" type="box">144</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref386_8lu" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">In search of predatory pricing,</title>
+								Isaac and Smith, 1984-1985</unittitle>
+							<physdesc id="aspace_a22e571f08e59b17569ab8bb0d8500b9">
+								<extent>Folders 1-3 of 6 folders</extent>
+							</physdesc>
+							<container id="aspace_2ba1c197dad0ebea88ea9cccc90a471d"
+								label="Mixed Materials" type="box">144</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref388_3wn" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">In search of predatory pricing,</title>
+								Isaac and Smith, 1984-1985</unittitle>
+							<physdesc id="aspace_909521f553f6e6c3b1c5917714d0725b">
+								<extent>Folders 4-6 of 6 folders</extent>
+							</physdesc>
+							<container id="aspace_f65959436d7ce6780ec42d8543148c6a"
+								label="Mixed Materials" type="box">145</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref390_v8p" level="file">
+						<did>
+							<unittitle>Property rights, 1950, 1982, 1998 and undated</unittitle>
+							<physdesc id="aspace_451b9961ed9b3cb8bf9958f8a9ff46c8">
+								<extent>15 folders</extent>
+							</physdesc>
+							<container id="aspace_52986072c65aebafb0dbebe70ad63b31"
+								label="Mixed Materials" type="box">145-146</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref392_7up" level="file">
+						<did>
+							<unittitle>Public goods, 1970-1985, 2001-2004 and undated</unittitle>
+							<container id="aspace_4ead956600d1bc0d23a06cc6faa7498a"
+								label="Mixed Materials" type="box">146-149</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref393_dnz" level="file">
+						<did>
+							<unittitle>Public goods, data</unittitle>
+							<container id="aspace_e98dbb298eb99e9afd54b17594fc18fe"
+								label="Mixed Materials" type="box">149-152</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref394_xqw" level="file">
+						<did>
+							<unittitle>Rationality, 1984-1991</unittitle>
+							<physdesc id="aspace_455e57bc7626248ecaef659256db5179">
+								<extent>7 folders</extent>
+							</physdesc>
+							<container id="aspace_d4d05c83a1522a107b4ec4137c425cf8"
+								label="Mixed Materials" type="box">153</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref396_v8e" level="file">
+						<did>
+							<unittitle>Recycling, 1974-1975</unittitle>
+							<physdesc id="aspace_edd15cfb330d21fdbfe1461fbf2068ff">
+								<extent>2 folders</extent>
+							</physdesc>
+							<container id="aspace_6b951aca0050dc88cfe6f077a4b28603"
+								label="Mixed Materials" type="box">153</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref398_fj9" level="file">
+						<did>
+							<unittitle>Reflections on human actions after 50 years, 1999</unittitle>
+							<container id="aspace_6759312836a8a714136dd2113e55fa79"
+								label="Mixed Materials" type="box">154</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref399_qab" level="file">
+						<did>
+							<unittitle>Siegal and other notes on EUT</unittitle>
+							<container id="aspace_a22222193bae9e2deb08a5793165e54e"
+								label="Mixed Materials" type="box">154</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref400_ofn" level="file">
+						<did>
+							<unittitle>Supply and demand equations, undated</unittitle>
+							<container id="aspace_56e87ae9f9f808a44c1523de9a17bd98"
+								label="Mixed Materials" type="box">154</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref401_7gn" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Thoughts on neo-classical, contract
+									theories of state, </title> 1980</unittitle>
+							<container id="aspace_014a6159b00920d0a8c4d8870b5dce15"
+								label="Mixed Materials" type="box">154</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref402_jfu" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">The Two Faces of Adam Smith, </title>
+								<title render="italic">Southern Economic Journal,</title>
+								1998</unittitle>
+							<physdesc id="aspace_73d84bc28e1ffd9ba90fa022a1d7db80">
+								<extent>7 folders</extent>
+							</physdesc>
+							<container id="aspace_d5ceb2958c53424c5a0ccc4808481a47"
+								label="Mixed Materials" type="box">154</container>
+						</did>
+						<scopecontent id="aspace_ece62239a8047e87a0569e04e890b4a5">
+							<head>Scope and Contents note</head>
+							<p>Material derived in part from a revision to a previous paper
+								concerning property rights.</p>
+						</scopecontent>
+					</c03>
+					<c03 id="aspace_ref405_1dw" level="file">
+						<did>
+							<unittitle>Tournaments</unittitle>
+							<container id="aspace_0de53d5730cca8a4173310175aedd41d"
+								label="Mixed Materials" type="box">154</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref406_4d8" level="file">
+						<did>
+							<unittitle>
+								<title render="doublequote">Why market optimists say this bull has
+									legs, </title>
+								<title render="italic">Wall Street Journal</title>, 2007 May
+								23</unittitle>
+							<container id="aspace_5ca44a86a890df76fe9edf67e067092f"
+								label="Mixed Materials" type="box">154</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 id="aspace_ref408_8uf" level="subseries">
+					<did>
+						<unittitle>Writings by Others</unittitle>
+						<physdesc id="aspace_a3bdd621619726865e596ac65b726634">
+							<extent>7 boxes</extent>
+						</physdesc>
+					</did>
+					<scopecontent id="aspace_ede8b74ba517bea3fa51df5db02f70c6">
+						<head>Scope and Contents note</head>
+						<p>Primarily reprints of articles by others on various topics of interest to
+							Smith, which largely parallels the rest of the series: experimental
+							economics, game theory and strategic decision making, markets and price
+							behavior. Boxes 1 and 2 are alphabetical files by author last name,
+							respectivly A-N and N-W. Remaining files arranged as originally
+							received. Box 174 includes additional unsorted writings by others
+							acquired with the 2013 accession.</p>
+					</scopecontent>
+					<accessrestrict id="aspace_60ec10a8120f708082ad09a862c5062a">
+						<head>Conditions Governing Access</head>
+						<p>Electronic records in this subseries have been migrated to a library
+							server and digital use copies can only be accessed onsite in the
+							Rubenstein Library Reading Room. To request access, please contact
+							Research Services before coming to use these records.</p>
+					</accessrestrict>
+					<c03 id="aspace_ref410_76f" level="file">
+						<did>
+							<unittitle>Writings by others</unittitle>
+							<container id="aspace_1675762172a7a30ab6888564da899176"
+								label="Mixed Materials" type="box">155-161</container>
+						</did>
+					</c03>
+					<c03 id="aspace_ref411_kl8" level="file">
+						<did>
+							<unittitle>Writings by others</unittitle>
+							<container id="aspace_b6ba93b5dfa4767dfbdfa8e2b16ec1d1"
+								label="Mixed Materials" type="box">174</container>
+						</did>
+					</c03>
+					<c03 id="aspace_2769595be9ea9d6617d969937db440c9" level="file">
+						<did>
+							<unittitle>
+								<title render="italic">On the Suboptimality of Voluntary Public
+									Goods Provision</title> by R. Mark Isaac and James M.
+								Walker</unittitle>
+							<unitdate normal="1989/1989">1989</unitdate>
+							<physdesc id="aspace_aacc84285f7e61d0033b78dad64e3910">1 disk image
+								derived from 5.25" floppy disk; approximately 1.5 megabyte. </physdesc>
+							<container id="aspace_8f0b3df8e533254b52ee0e287b5a8717"
+								label="Mixed Materials" type="digital-materials"
+								>RL01220-SET-0001</container>
+						</did>
+						<scopecontent id="aspace_ba08a85927e0f74cad9ec13172de05af">
+							<head>Scope and Contents</head>
+							<p>The disk is labled as: Isaac &amp; Walker; Research in Experimental
+								Economics.</p>
+						</scopecontent>
+					</c03>
+				</c02>
+			</c01>
+			<c01 id="aspace_ref414_c62" level="series">
+				<did>
+					<unittitle>Teaching Material Series, 1957-2006 and undated</unittitle>
+					<physdesc id="aspace_bb323fb7a3ff5b2f2169d859ea5caca0">
+						<extent>11 boxes</extent>
+					</physdesc>
+				</did>
+				<scopecontent id="aspace_5392ec92745ac249663ec30e0d26d441">
+					<head>Scope and Contents note</head>
+					<p>These documents derive from Vernon L. Smith's lengthy teaching career at
+						institutions such as Purdue University, Brown University, University of
+						Massachusetts, and University of Arizona. The series is divided into two
+						subseries: Courses and Departmental. The subseries Courses chiefly consists
+						of assigned readings by Smith and others, course notes, transparencies,
+						student experiments, and exam subjects. The subseries also includes student
+						essays, class lists, and graduate advising information. The subseries
+						Departmental chiefly consists of committee meetings concerning issues of
+						honors candidates, fellowships, faculty, and promotion and tenure. The
+						documents are roughly arranged chronologically. Box 175 includes unsorted
+						materials acquired through the 2013 accession.</p>
+				</scopecontent>
+				<c02 id="aspace_ref416_79k" level="file">
+					<did>
+						<unittitle>Courses, 1957-1960s</unittitle>
+						<container id="aspace_39a443994e381b5c687dd454cffdcb3d"
+							label="Mixed Materials" type="box">162</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref417_5p1" level="file">
+					<did>
+						<unittitle>Courses, 1960s-1972</unittitle>
+						<container id="aspace_b46168d8c1331d0ece2c4974bcdd6981"
+							label="Mixed Materials" type="box">163</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref418_9iv" level="file">
+					<did>
+						<unittitle>Courses, 1970-1976</unittitle>
+						<container id="aspace_b0593141dea6fb2ae2eb227839bf1046"
+							label="Mixed Materials" type="box">164</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref419_1w3" level="file">
+					<did>
+						<unittitle>Courses, 1978-1983</unittitle>
+						<container id="aspace_56a1331fee166aa6276d697593670664"
+							label="Mixed Materials" type="box">165</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref420_dkp" level="file">
+					<did>
+						<unittitle>Courses, 1984-1988</unittitle>
+						<container id="aspace_92d5adbbc2338951d94f86f316298683"
+							label="Mixed Materials" type="box">166</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref421_kai" level="file">
+					<did>
+						<unittitle>Courses, 1988-1992</unittitle>
+						<container id="aspace_c1046cc3e5b325ebea47db613e3c8e4e"
+							label="Mixed Materials" type="box">167</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref422_rpo" level="file">
+					<did>
+						<unittitle>Courses, 1992-1994</unittitle>
+						<container id="aspace_051465d1df113085c7b5782f7d9154ab"
+							label="Mixed Materials" type="box">168</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref423_r22" level="file">
+					<did>
+						<unittitle>Courses, 1995-1998</unittitle>
+						<container id="aspace_cab61d8892731f864ff6a5590636ad13"
+							label="Mixed Materials" type="box">169</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref424_x03" level="file">
+					<did>
+						<unittitle>Courses, 1999-2006 and undated</unittitle>
+						<container id="aspace_4340ca3b767d761f578a47763fc34d3f"
+							label="Mixed Materials" type="box">170</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref425_ult" level="file">
+					<did>
+						<unittitle>Courses, undated</unittitle>
+						<container id="aspace_3ee058802c862332c4eec27b2ac71577"
+							label="Mixed Materials" type="box">171</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref426_cno" level="file">
+					<did>
+						<unittitle>Departmental materials, 1977-1997 and undated</unittitle>
+						<container id="aspace_ec529bd4cfe233f44c85cb73298ddcf7"
+							label="Mixed Materials" type="box">171-172</container>
+					</did>
+				</c02>
+				<c02 id="aspace_ref427_t21" level="file">
+					<did>
+						<unittitle>Economic Systems Design materials; other proposals; general
+							lecture notes</unittitle>
+						<container id="aspace_3070fb9f5848d02b29cb320481039b4c"
+							label="Mixed Materials" type="box">175</container>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

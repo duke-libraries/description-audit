@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/dixon/">dixon</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Wyatt T. Dixon Papers, 1850s-1987
+          <num>RL.00313</num></titleproper>
+        <author>Processed by Donna Longo DiMichele; machine-readable finding aid created by Robin
+          LaPasha</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">001530661</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-07-06 16:25:52
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Wyatt T. Dixon papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Dixon, Wyatt T.</persname>
+      </origination>
+      <unitid>RL.00313</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.6 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1850/1987" type="inclusive">1850s-1987</unitdate>
+      <physloc id="aspace_576167f8d5a31be89fe8e227498a97de">For current information on the location
+        of these materials, please consult the library's online catalog.</physloc>
+      <physdesc id="aspace_340e0440f405f666cf864dfc009a1040"><extent>Approx. 2700
+        Items</extent></physdesc>
+      <langmaterial id="aspace_60241aec05119441e21bf05ac70dd98a">English. </langmaterial>
+    </did>
+    <accessrestrict id="aspace_4676f246c4e9e187e970985776c342ee">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_46f32a5368825b61f1de7f0d0d506bc9">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in the Wyatt T. Dixon Papers have not been transferred to Duke
+        University. For further information, see the section on copyright in the Regulations and
+        Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_520c58a89b6bc2a1d14dd47b52718b23">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Wyatt T. Dixon Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_4278b7040a52db9a5b6b08c3dbc66db4">
+      <head>Provenance</head>
+      <p>The Wyatt T. Dixon Papers were received as a gift to the David M. Rubenstein Rare Book
+        &amp; Manuscript Library in 1981 and 1986.</p>
+    </acqinfo>
+    <processinfo id="aspace_88d4f2a40963c6d7964b3d34b19fe81e">
+      <head>Processing Information</head>
+      <p>Processed by Donna Longo DiMichele</p>
+      <p>Completed June 17, 1994</p>
+      <p>Encoded by Robin LaPasha</p>
+    </processinfo>
+    <bioghist id="aspace_521aae6aeb715b1fd7001fafe6e99a3e">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Missing Title</head>
+        <chronitem>
+          <date>1894, Oct. 27</date>
+          <eventgrp>
+            <event>Born, Durham, N.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1917, July 25</date>
+          <eventgrp>
+            <event>Called into service for the United States Army, 30th Division, 113th Field
+              Artillery, Battery C, Durham, N.C. Dixon made Company Clerk.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1917, Sept. 16</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C, moved to Camp Sevier, S.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1918, May 19</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C, moved to Camp Mills, Long Island, N.Y.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1918, May 27</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C, departed for France on the [Armagh ?]</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1918, June 7</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C, landed in Liverpool, England; departed England
+              on the Prince George</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1918, June 13</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C, arrived in La Havre, France</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1918, Sept. 12</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C, participated in the St. Michiel
+              offensive</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1918, Sept. 26</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C, participated in the Meuse-Argonne
+              campaign</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1919, Jan. 14</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C turned in their horses and supplies</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1919, March 19</date>
+          <eventgrp>
+            <event>113th Field Artillery, Battery C, returned to United States, landed at Newport
+              News, Va.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1919, June 1-1962</date>
+          <eventgrp>
+            <event>Writer and photographer for the Durham Morning Herald and The Durham Sun
+              newspapers, Durham Herald Co., Durham, N.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1933-1986</date>
+          <eventgrp>
+            <event>Wrote weekly columns, <title type="simple" render="doublequote">Along the
+                Battlefront</title> about World War I and <title type="simple" render="doublequote"
+                >How Times Do Change</title> about Durham, N.C., for The Durham Sun</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1962</date>
+          <eventgrp>
+            <event>Retired from The Durham Sun, but continued to write "How Times Do Change" until
+              1986</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1986, Jan. 1</date>
+          <eventgrp>
+            <event>Died, Durham, N.C.</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="aspace_a4798d743faf0b4c5ee25a3a666e607c">
+      <head>Collection Overview</head>
+      <p>The Wyatt T. Dixon Papers span the 1850s to 1987, although the bulk of the material dates
+        from 1918 to the 1960s. The collection consists of diaries, vintage photographs,
+        photomechanical prints, postcards, clippings, correspondence, speeches, scrapbooks, printed
+        materials, forms, military records, leaflets, and maps. The Photographs Series comprises the
+        largest portion of the collection. The collection documents the history of Durham, N.C., the
+        Dixon family, activities of the United States Army, American Expeditionary Forces, 30th
+        Division, 113th Field Artillery Unit, Battery C, from 1917 to 1919; Durham, North Carolina;
+        and Dixon's career as a journalist.</p>
+      <p>The World War I Series chronicles the activities of the American Expeditionary Forces,
+        113th Field Artillery Unit, Battery C, which consisted primarily of men from Durham, N.C.
+        Dixon's diaries chronicle the unit's movements and activities in the United States and
+        Europe including England, France, Belgium, and Luxembourg. Battery C was involved in the
+        Saint Michiel offensive and the Meuse-Argonne Campaign. The diaries describe camp life in
+        the United States and Europe, including daily routines; camp conditions; outbreaks of
+        measles and other medical situations; and the soldiers' personal recreational activities.
+        The journey by ship to Europe is also described in detail, including the sale of food to the
+        soldiers and the conditions on board. Civilian responses to the soldiers as they visited or
+        traveled through towns and cities in America, France, Belgium, and Luxembourg are noted
+        throughout the diaries. Dixon mentions a unit of African-American soldiers was at Mont Dore,
+        France. There are some snapshot photographs of Battery C which Dixon probably created with
+        his Kodak camera and some formal panoramic photographs of the entire unit. Letters written
+        by Dixon and his family while he was in the Army are found in the Writings Series.</p>
+      <p>The Writings Series contains some personal correspondence and a diary, but the bulk of the
+        series documents Dixon's career as a writer for newspapers published by the Durham Herald
+        Company in Durham, N.C. In his column <title type="simple" render="doublequote">How Times Do
+          Change,</title> Dixon described life in Durham and the surrounding area and the manner in
+        which cityscapes and social life had changed over the past decades. </p>
+      <p>The Photographs Series consists primarily of photographs and documents social life and
+        cityscapes in Durham, N.C. Images include buildings such as banks, businesses, cemeteries,
+        churches, court houses, dams and power plants, hospitals, hotels and inns, plantations
+        (abandoned), post offices, schools, and tobacco warehouses and factories. There are street
+        scenes and aerial views. Many of these local images appear to have been collected by Dixon
+        to illustrate his articles. Pictures of people include portraits of family members and
+        friends, and candid scenes of groups engaged in social activities. There are images of
+        events such as holiday celebrations and parades. Transportation, including trolleys, buses,
+        fire fighting equipment and train depots, is also documented.</p>
+      <p>The Durham Printed Materials Series and the Miscellaneous Series include information about
+        the City of Durham and Durham County, genealogical information about Dixon's family, and the
+        minutes book of a social club for young men.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Soldiers' writings, American</subject>
+      <subject source="lcsh">World War, 1914-1918 -- Veterans</subject>
+      <subject source="lcsh">Soldiers -- Diaries</subject>
+      <geogname source="lcsh">Durham (N.C.) -- History</geogname>
+      <genreform source="aat">Postcards</genreform>
+      <genreform source="aat">Photographs -- North Carolina -- Durham</genreform>
+      <subject source="lcsh">Veterans -- North Carolina</subject>
+      <geogname source="lcsh">Durham (N.C.)</geogname>
+      <geogname source="lcsh">Durham County (N.C.)</geogname>
+      <genreform source="aat">Cityscapes (representations)</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <persname source="ingest">Dixon, Wyatt T.</persname>
+      <corpname source="ingest">United States. Army. 113th Field Artillery, 1917-1919. Battery
+        C.</corpname>
+      <corpname source="ingest">United States. Army. American Expeditionary Forces</corpname>
+      <corpname source="ingest">United States. Army. Field Artillery, 113th. Battery C.</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref12_laj" level="series">
+        <did>
+          <unittitle>Writings Series, 1915-1987, undated (bulk 1930s-1980s).</unittitle>
+        </did>
+        <scopecontent id="aspace_761b8a161c1f0b194ef4c8334b4a4454">
+          <head>Scope and Contents note</head>
+          <p>Includes correspondence, a diary/autograph book, clippings, a scrapbook, printed
+            material, notes, and manuscripts. The first part of the series contains personal
+            correspondence and miscellaneous publications. The "How Times Do Change" Subseries
+            contains copies of Dixon's articles by that title and drafts and notes for articles, as
+            well as a volume of reproductions of the articles. The subseries is arranged with the
+            published volume first, followed by miscellaneous articles in chronological order, and
+            finally drafts and notes for articles arrranged by subject.</p>
+        </scopecontent>
+        <c02 id="aspace_ref13_j44" level="file">
+          <did>
+            <unittitle>Correspondence, 1918-1985, undated</unittitle>
+            <physdesc id="aspace_8a09d24704e339c0bf548bd2512f3949">4 folders</physdesc>
+            <container id="aspace_a61af804ac934fd75252b2f5bdef0778" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref15_pr4" level="file">
+          <did>
+            <unittitle>Diary/Notebook, 1915, Oct.-1917, Feb.</unittitle>
+            <container id="aspace_2f4d1ad360872234ee3a9eb8d8238710" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref16_zrk" level="file">
+          <did>
+            <unittitle>Mangum, Willie P.: Biographical sketch, undated</unittitle>
+            <container id="aspace_6087f8a65af7a2fb327a566e58617ec9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref17_ml9" level="file">
+          <did>
+            <unittitle><title render="doublequote">Municipal Progress Under Manager Government II.
+                Durham Gets More and Better Service.</title> In National Municipal Review, 14(8),
+              1925</unittitle>
+            <container id="aspace_6f2692e189be913930b5573d0eba17cc" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref18_c0s" level="file">
+          <did>
+            <unittitle>Newspaper articles, 1935, Aug.-1952, Apr.</unittitle>
+            <container id="aspace_9ad6b8a5fea4f22403ee72dbcae15a5d" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref19_nln" level="file">
+          <did>
+            <unittitle>Clippings scrapbook (re: Durham, N.C.), 1920s-1930s, undated</unittitle>
+            <container id="aspace_21ff7906f0e6ec7847d1bdcb8229d9aa" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref20_q68" level="subseries">
+          <did>
+            <unittitle><title render="doublequote">How Times Do Change</title> Subseries</unittitle>
+          </did>
+          <c03 id="aspace_ref21_7ax" level="file">
+            <did>
+              <unittitle>Published volume (article reprints), 1987</unittitle>
+              <container id="aspace_e6da470b2f8d6f51b7c543a85fe73396" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref22_dhp" level="file">
+            <did>
+              <unittitle>Newspaper articles, 1933, Sept.-1983, Mar., undated</unittitle>
+              <container id="aspace_f28dc10f164da1b0df5e5bb0b22a08e0" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref23_dty" level="file">
+            <did>
+              <unittitle>Drafts and notes for newspaper articles:</unittitle>
+            </did>
+            <c04 id="aspace_ref24_d9r" level="file">
+              <did>
+                <unittitle>Buildings, 1942-1982, undated</unittitle>
+                <container id="aspace_aaabe377b709748e197e8f1fa3486ebb" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref25_7gh" level="file">
+              <did>
+                <unittitle>Churches, 1949, undated</unittitle>
+                <container id="aspace_417a736023eae66d2ded8ca79fc81924" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref26_hu6" level="file">
+              <did>
+                <unittitle>Fire department and fires, 1974-1980, undated</unittitle>
+                <container id="aspace_a0659654de2e03218eaf468083e28a81" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref27_qam" level="file">
+              <did>
+                <unittitle>Government, city positions, directories, Durham overviews, 1946,
+                  undated</unittitle>
+                <container id="aspace_7c73cd837de05ae83ae04fb68489db9c" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref28_4yx" level="file">
+              <did>
+                <unittitle>Hotels, 1983, undated</unittitle>
+                <container id="aspace_e4e4d982551fe9bda29ac8b6dc35ca46" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref29_a5n" level="file">
+              <did>
+                <unittitle>Military, 1934-1945, undated</unittitle>
+                <container id="aspace_19992ac1182bba56e01b8e0b256a814f" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref30_dwj" level="file">
+              <did>
+                <unittitle>Newspapers, 1933, undated</unittitle>
+                <container id="aspace_6caa6dc03cf45ff5105f950f39e949e6" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref31_fw9" level="file">
+              <did>
+                <unittitle>People, 1933-1978, undated</unittitle>
+                <container id="aspace_d42c0d3a487df8b688c8db8cce115eed" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref32_77j" level="file">
+              <did>
+                <unittitle>Streets, transportation, utilities, 1963-1984, undated</unittitle>
+                <container id="aspace_c2b9fca5ee2cdd4e1a9bb11b125f5ffa" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref33_zbt" level="file">
+              <did>
+                <unittitle>Theaters, undated</unittitle>
+                <container id="aspace_af59f3cd86038c144fa32857aeda37e6" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref34_kyx" level="file">
+              <did>
+                <unittitle>Tobacco, undated</unittitle>
+                <container id="aspace_30e5f8aa096bb94749c64aa4191526c7" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref35_7j8" level="file">
+              <did>
+                <unittitle>Trinity College/Duke University, 1962-1980, undated</unittitle>
+                <container id="aspace_f4392b3b9eb6a6be5ece5237ef3e5085" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref36_8nv" level="file">
+              <did>
+                <unittitle>Miscellaneous, 1936-1984, undated</unittitle>
+                <physdesc id="aspace_584cae569306b8b56c08e2bfb26e4d72">2 folders</physdesc>
+                <container id="aspace_c8393b0416fae4fa2c6d7e38277184bc" label="Mixed Materials"
+                  type="box">2</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref39_nyo" level="series">
+        <did>
+          <unittitle>World War I Series, 1917-1980, undated (bulk 1917-1919).</unittitle>
+        </did>
+        <scopecontent id="aspace_dd00d2e4780f925fcf33110615425d5b">
+          <head>Scope and Contents note</head>
+          <p>Includes diaries, manuscripts, letters, printed material, a service record,
+            photographs, negatives, a passenger list, and clippings. See also oversize series.
+            Arranged with the diaries first, followed by a history of the unit, records from
+            reunions, and pictures at the end.</p>
+        </scopecontent>
+        <c02 id="aspace_ref40_4q9" level="file">
+          <did>
+            <unittitle>Diary fragment, 1917, July?</unittitle>
+            <container id="aspace_ed463f6910ccec14f9bfb1158c85fbc6" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref41_rmt" level="file">
+          <did>
+            <unittitle>Diary, 1917, Aug. 30-1918, July 14</unittitle>
+            <physdesc id="aspace_1b3ecd71220144d28e9a2e658a3d7644">2 folders</physdesc>
+            <container id="aspace_87ada6384ae2a25c04ec131ffebe7680" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref43_4nq" level="file">
+          <did>
+            <unittitle>Diary, 1918, Mar. 9-1919, Mar. 20</unittitle>
+            <physdesc id="aspace_50a6a6c9431621036b184bf780f5cb07">2 folders</physdesc>
+            <container id="aspace_30fa22be7e441e2fd12937916636d6f6" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref45_xff" level="file">
+          <did>
+            <unittitle>Diary transcription, 1917, Sept. 16-1919, Mar. 21</unittitle>
+            <container id="aspace_cf0e508f126138b245d22a49a0bacb84" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref46_l0c" level="file">
+          <did>
+            <unittitle>History of 113th Field Artillery, Battery C, ca. 1918</unittitle>
+            <container id="aspace_09099afcad7f2b1a9c70bae732db5ca8" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref47_771" level="file">
+          <did>
+            <unittitle>Printed material, ca. 1917</unittitle>
+            <container id="aspace_f4121316ad03889a319b2d6143b1569f" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref48_sb5" level="file">
+          <did>
+            <unittitle>Record Books: insurance, memos, and correspondence, 1918</unittitle>
+            <container id="aspace_e45724d8a9fcc279a5030a951b182ff3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref49_p0g" level="file">
+          <did>
+            <unittitle>Reunions, 113th Field Artillery Unit, Battery C, 1969-1980,
+              undated</unittitle>
+            <physdesc id="aspace_ae2fe4579891cfee1ed3dc8e48658144">2 folders</physdesc>
+            <container id="aspace_0c82f77b62253222794174b3d56d07c2" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref51_qf9" level="file">
+          <did>
+            <unittitle>Service record: Sims, Willie H., 1917</unittitle>
+            <container id="aspace_bd92fe891b53e3f69f35d838a642eacf" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref52_689" level="file">
+          <did>
+            <unittitle>Pictures: World War I: 113th Field Artillery, 1918, undated</unittitle>
+            <container id="aspace_eba60f7649c6f5d933f97842ab006d19" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref53_4fn" level="file">
+          <did>
+            <unittitle>Negatives: World War I: 113th Field Artillery, ca. 1918</unittitle>
+            <container id="aspace_f9f69752e57a4f2e0b137cf8c42dd832" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref55_w0q" level="series">
+        <did>
+          <unittitle>Durham: Printed Materials Series, 1873-1981, n.d</unittitle>
+        </did>
+        <scopecontent id="aspace_a818a643152a5f51641e140ee20dd74c">
+          <head>Scope and Contents note</head>
+          <p>Includes primarily printed material including advertisements, brochures, leaflets,
+            directories, clippings, reports and house organs. See also the Oversize Materials
+            series.</p>
+        </scopecontent>
+        <c02 id="aspace_ref56_x9x" level="file">
+          <did>
+            <unittitle>Businesses, 1884-1961, undated</unittitle>
+            <container id="aspace_09138e5acb90b7dff3e301f07599a62d" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref57_eoi" level="file">
+          <did>
+            <unittitle>Camp Butner, 1971, undated; Brooklyn Tabernacle Sunday School,
+              1892</unittitle>
+            <container id="aspace_b4f2ea9ad5120163f014ecbe5345e1ef" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref58_5zs" level="file">
+          <did>
+            <unittitle>City and county public Works, government and public services, 1873-1925,
+              undated</unittitle>
+            <physdesc id="aspace_28ca5f73c25244cd7033892a508d7633">2 folders</physdesc>
+            <container id="aspace_1573141bdc4007574c6eec7385a06c56" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref60_p3m" level="file">
+          <did>
+            <unittitle>Herald-Sun house organs, 1944-1975, undated</unittitle>
+            <container id="aspace_5c32a2c2e4bf264e04975d61aa8d4ab5" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref61_lw9" level="file">
+          <did>
+            <unittitle>Maps: City of Durham, 1881-1981; Durham County, undated</unittitle>
+            <container id="aspace_41ea48ecc591d868304b932764280070" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref62_xpj" level="file">
+          <did>
+            <unittitle>Organizations/Social clubs, 1913-1974</unittitle>
+            <container id="aspace_d501862913285e5499b4ae547e555c40" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref63_skw" level="file">
+          <did>
+            <unittitle>Promotional, 1913-1981, undated</unittitle>
+            <container id="aspace_b5bcbd97b3cb2bdbaeac6d7f3c655061" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref64_nmk" level="file">
+          <did>
+            <unittitle>Schools, 1881-1926</unittitle>
+            <container id="aspace_2b2877f5d1c30691c6916c401f4ed653" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref65_mf6" level="file">
+          <did>
+            <unittitle>Trinity College, 1889, undated</unittitle>
+            <container id="aspace_56cf7b33f0da24e988ad87b64d4af877" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref67_66p" level="series">
+        <did>
+          <unittitle>Miscellaneous Series, 1863-1986.</unittitle>
+        </did>
+        <scopecontent id="aspace_cdb7bab2fc96d2ea42412f43ea6f07f2">
+          <head>Scope and Contents note</head>
+          <p>Includes correspondence, clippings, notes, a sermon, lists, treasury forms, a social
+            club's minutes record book, poems, leaflets, and speeches.</p>
+        </scopecontent>
+        <c02 id="aspace_ref68_3xc" level="file">
+          <did>
+            <unittitle>Miscellaneous: 1863-1980, undated</unittitle>
+            <container id="aspace_627e4e34e0eef0158fe47995ea896e4e" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref69_ysd" level="file">
+          <did>
+            <unittitle>Biographical and genealogical information, 1936-1986, n.d</unittitle>
+            <container id="aspace_4dc9e3af3254b847535229bee1a2636d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref70_3rm" level="file">
+          <did>
+            <unittitle>Communist Party in North Carolina, 1950, July-ca. 1952</unittitle>
+            <container id="aspace_5514b260e908e217fed053e20dbff163" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref71_3tx" level="file">
+          <did>
+            <unittitle>Durham city and county, 1869-1974</unittitle>
+            <container id="aspace_0c43f7fd5a861b36a82b3c15a81bd671" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref72_dvl" level="file">
+          <did>
+            <unittitle>Speeches, 1963, undated</unittitle>
+            <container id="aspace_b926df3b35579f5b5a7399bd853e1cf4" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref73_ghk" level="file">
+          <did>
+            <unittitle>Top-Notch Club: Minute Book, 1913, Feb. 25-1914, May 7</unittitle>
+            <container id="aspace_7641245ba8429f65c2a76d1e1374d077" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref74_s4v" level="file">
+          <did>
+            <unittitle>Clippings: By authors other than Dixon or unsigned, 1924, Jan.-1986,
+              Jan.</unittitle>
+            <container id="aspace_c7325aa7a484eebc2f3e03f303d943d4" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref76_ka9" level="series">
+        <did>
+          <unittitle>Photographs Series, 1850s(?)-1976 and undated</unittitle>
+        </did>
+        <scopecontent id="aspace_d912d47b79d4bdebe10a142bcb0c0478">
+          <head>Scope and Contents note</head>
+          <p>Includes vintage albumen photographs, daguerreotypes, copy prints, photomechanical
+            prints, negatives, and postcards. See also oversize materials. Arranged by subject:
+            People: Identified, arranged alphabetically by surname of principal individual in the
+            photograph, and then People: Unidentified; followed by Groups: Identified, arranged
+            alphabetically, and then Groups: Unidentified; Places: Identified, arranged
+            alphabetically, and then Places: Unidentified; Miscellaneous; Postcards, arranged by
+            location; and Negatives.</p>
+        </scopecontent>
+        <c02 id="aspace_ref77_v0f" level="file">
+          <did>
+            <unittitle>People:</unittitle>
+            <container id="aspace_6dda4050eb8b78dbc650c71cc18e8588" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+          <c03 id="aspace_ref78_19q" level="file">
+            <did>
+              <unittitle>Identified: A-W, 1890s-1970s, undated</unittitle>
+              <physdesc id="aspace_7a09052582e2b950398940dee29ce637">4 folders</physdesc>
+              <container id="aspace_26c2c3229594d9300e96dd8f85e7e2a5" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref80_p0h" level="file">
+            <did>
+              <unittitle>Unidentified, 1953, undated</unittitle>
+              <container id="aspace_5abb428f46924f85ad2de70d7ec7f6b5" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref81_uoo" level="file">
+          <did>
+            <unittitle>Groups:</unittitle>
+          </did>
+          <c03 id="aspace_ref82_1m0" level="file">
+            <did>
+              <unittitle>Identified:</unittitle>
+            </did>
+            <c04 id="aspace_ref83_fus" level="file">
+              <did>
+                <unittitle>County and city officials, governors, judges, mayors, 1922-1953,
+                  n.d</unittitle>
+                <container id="aspace_358aecb2a5d1764c18e3e641e580620b" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref84_s7e" level="file">
+              <did>
+                <unittitle>Dixon, Wyatt T. with others, 1976, undated</unittitle>
+                <container id="aspace_6e7836e0c14fa4f8444edf4227f3df69" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref85_ewk" level="file">
+              <did>
+                <unittitle>Durham Morning Herald staff, 1920, undated</unittitle>
+                <container id="aspace_b2985e9124408f3fd97fff34f1d48ca9" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref86_w4e" level="file">
+              <did>
+                <unittitle>Empty Stocking Club, 1927-1952, undated</unittitle>
+                <container id="aspace_004b31491b75eb5fb059e752da9e99bd" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref87_l33" level="file">
+              <did>
+                <unittitle>Firemen, policemen, and street car operators, music groups, ca.
+                  1885-1900, undated</unittitle>
+                <container id="aspace_637acea409d173827654a930cd936b01" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref88_7kd" level="file">
+              <did>
+                <unittitle>Military and veterans, 1921-1971, undated</unittitle>
+                <container id="aspace_1ebf9c81a603a633f510c742173944e5" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref89_1wo" level="file">
+              <did>
+                <unittitle>Schools and orphanages, 1895-1926, undated</unittitle>
+                <container id="aspace_0749c483df65443372da33428d0bf8ab" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref90_d60" level="file">
+              <did>
+                <unittitle>Spanish-American war soldiers in camps in Kentucky and Georgia,
+                  1898</unittitle>
+                <container id="aspace_1442d0bc2ed093989d8d0c27174efc23" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref91_usq" level="file">
+              <did>
+                <unittitle>Trinity College and Duke University, 1925, undated</unittitle>
+                <container id="aspace_5473ee618b6e594d429c548b3b8863a7" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref92_sk5" level="file">
+              <did>
+                <unittitle>Miscellaneous, 1911-1953, undated</unittitle>
+                <container id="aspace_d227fdd40700b14b31fdc0fd30e08ee6" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref93_kyr" level="file">
+            <did>
+              <unittitle>Unidentified, 1957, undated</unittitle>
+              <container id="aspace_0725c66b76869e65d4232143096744d5" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref94_43p" level="file">
+          <did>
+            <unittitle>Places:</unittitle>
+          </did>
+          <c03 id="aspace_ref95_b74" level="file">
+            <did>
+              <unittitle>Aerial views of Durham, 1938-1960, undated</unittitle>
+              <container id="aspace_de1b301fdd3745fc634c35f5c1d1df61" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref96_5xc" level="file">
+            <did>
+              <unittitle>Banks, 1878-1973, undated</unittitle>
+              <container id="aspace_ce8b6b0dfac8effda05a2690b731a8fb" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref97_1fk" level="file">
+            <did>
+              <unittitle>Bennett Place, 1964, undated</unittitle>
+              <container id="aspace_3ae291dd56c41991be8680b953efddd4" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref98_v1n" level="file">
+            <did>
+              <unittitle>Buildings (miscellaneous):</unittitle>
+            </did>
+            <c04 id="aspace_ref99_hg1" level="file">
+              <did>
+                <unittitle>Identified: 1882-1969, undated</unittitle>
+                <physdesc id="aspace_4bb39b810b85597fba1fce5594cc514d">2 folders</physdesc>
+                <container id="aspace_e8960770c31939768582d946bb6474a3" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref101_hyb" level="file">
+              <did>
+                <unittitle>Unidentified, undated</unittitle>
+                <container id="aspace_a7da52a65826fbeca0328983cd3624bb" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref102_7on" level="file">
+            <did>
+              <unittitle>Businesses (various):</unittitle>
+            </did>
+            <c04 id="aspace_ref103_ghy" level="file">
+              <did>
+                <unittitle>General, undated</unittitle>
+                <container id="aspace_c4312b6b1c4d6b58ba991d07bc8caee0" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref104_8uo" level="file">
+              <did>
+                <unittitle>Interiors, 1904, undated</unittitle>
+                <container id="aspace_26ddc8ee01ba224dc409f957a80febd2" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref105_d28" level="file">
+            <did>
+              <unittitle>Camp Butner, 1945, undated</unittitle>
+              <container id="aspace_ddf6048ee50b2bdbf55b8124d7f6c800" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref106_3rt" level="file">
+            <did>
+              <unittitle>Cemeteries and burials, 1934-1954, undated</unittitle>
+              <container id="aspace_b93449f0f9e4644d5b673f4ba2972278" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref107_a0g" level="file">
+            <did>
+              <unittitle>Chapel Hill and Hillsborough, 1930, undated</unittitle>
+              <container id="aspace_04384d640f8684f21750dfa800fe468a" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref108_m2r" level="file">
+            <did>
+              <unittitle>Churches, ca. 1850(?)-1976, undated</unittitle>
+              <container id="aspace_8ba6fd0c914384e351eab77f59396027" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref109_2vq" level="file">
+            <did>
+              <unittitle>Courthouses, ca. 1887(?)-1963, undated</unittitle>
+              <container id="aspace_8dabe595ac2aef804073efea97f66ab1" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref110_zik" level="file">
+            <did>
+              <unittitle>Dams, power plants, 1899-1925, n.d</unittitle>
+              <container id="aspace_ce065493f07c05c1f901ef97ef355494" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref111_j6q" level="file">
+            <did>
+              <unittitle>Ft. Macon, 1935, undated</unittitle>
+              <container id="aspace_ef58aaef3c9b1779b3067370552edd7e" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref112_dl0" level="file">
+            <did>
+              <unittitle>Homes: Identified, 1883-1965</unittitle>
+              <physdesc id="aspace_699e0817ca27370ed24a0372d0d90d7d">2 folders</physdesc>
+              <container id="aspace_65274741ac9d40bc8590f35f94451748" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref114_cie" level="file">
+            <did>
+              <unittitle>Hospitals, ca. 1976(?), undated</unittitle>
+              <container id="aspace_f5be10c1355097bfa8d7bbb957695e84" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref115_fc2" level="file">
+            <did>
+              <unittitle>Hotels and inns, 1891-1975, undated</unittitle>
+              <container id="aspace_f321c955244a1fe12fcd17a531e3efc9" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref116_9hu" level="file">
+            <did>
+              <unittitle>Plantations: Fairntosh, undated, Stagville, undated</unittitle>
+              <container id="aspace_bbed23fdaee10cbc1cf948f8bfe827be" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref117_hnj" level="file">
+            <did>
+              <unittitle>Post offices, ca. 1906(?)-1961, undated</unittitle>
+              <container id="aspace_eb9941918151731f3705f9c02e11ad5f" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref118_rp8" level="file">
+            <did>
+              <unittitle>Schools, 1882-1992, undated</unittitle>
+              <container id="aspace_a3eacde74b6683ff2e7c977223cb0e61" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref119_7ak" level="file">
+            <did>
+              <unittitle>Streets:</unittitle>
+            </did>
+            <c04 id="aspace_ref120_c20" level="file">
+              <did>
+                <unittitle>Identified, 1895-1976, undated</unittitle>
+                <physdesc id="aspace_edbf496c61c4ae7414dda631221fef6a">2 folders</physdesc>
+                <container id="aspace_690387c8e500668b8b7c050f394a64ab" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref122_xex" level="file">
+              <did>
+                <unittitle>Unidentified, 1927-1963, undated</unittitle>
+                <container id="aspace_4bd8cc7b705fa9a384ca304fce93213e" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref123_p0r" level="file">
+            <did>
+              <unittitle>Tobacco warehouses, factories, barns, and stores, ca. 1870-1970,
+                undated</unittitle>
+              <container id="aspace_aa10c1ab86fb3ebabdd7635e5625a3f8" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref124_piw" level="file">
+            <did>
+              <unittitle>Trinity College, ca. 1892(?)-1960, undated</unittitle>
+              <physdesc id="aspace_96eadeea2d8ac2814e3ffa16e2117560">2 folders</physdesc>
+              <container id="aspace_98593fb47c331afe2ed7caca6a516d75" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref126_khw" level="file">
+            <did>
+              <unittitle>Trinity Methodist Church, 1860-1923</unittitle>
+              <container id="aspace_10cf4a666e6529245ef7304d2f4b3b07" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref127_ous" level="file">
+            <did>
+              <unittitle>YMCA, 1956, undated</unittitle>
+              <container id="aspace_f1a724b1bec6834425c1a873994a9d86" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref128_b9q" level="file">
+          <did>
+            <unittitle>Miscellaneous:</unittitle>
+          </did>
+          <c03 id="aspace_ref129_s0k" level="file">
+            <did>
+              <unittitle>Christmas/holiday, 1937-1967, undated</unittitle>
+              <container id="aspace_13efe1bffbab49b3a947abf0a151687b" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref130_pfl" level="file">
+            <did>
+              <unittitle>Hurricane Hazel, 1956</unittitle>
+              <container id="aspace_55c7d34659b4182b008b2ce2112a0a1e" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref131_3ik" level="file">
+            <did>
+              <unittitle>Parades, including military, 1895-1945, undated</unittitle>
+              <container id="aspace_2f92f396fca12f93410affafaf87f917" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref132_yzq" level="file">
+            <did>
+              <unittitle>Transportation, including depots and fire fighting equipment, ca. 1888- ca.
+                1968(?), undated</unittitle>
+              <container id="aspace_3f2661efda88736a14e2a3c177b04246" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref133_ep6" level="file">
+            <did>
+              <unittitle>Cook tent at Div. Hospital, Lexington, Ky., undated</unittitle>
+              <container id="aspace_9bf3a74ec66463bebe62e6c01b7e9241" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref134_iyb" level="file">
+          <did>
+            <unittitle>Postcards:</unittitle>
+          </did>
+          <c03 id="aspace_ref135_27m" level="file">
+            <did>
+              <unittitle>Durham, N.C., 1907-1967, undated</unittitle>
+              <physdesc id="aspace_5e3ee519a3713a0fc4c5c63d244de93a">2 folders</physdesc>
+              <container id="aspace_16f99ec8bd31489830a169b21bb1ed7c" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref137_6vt" level="file">
+            <did>
+              <unittitle>Chapel Hill and Hillsborough, N.C., undated</unittitle>
+              <container id="aspace_a3b6c0c6621fc90c0d32d0add4932721" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref138_fod" level="file">
+            <did>
+              <unittitle>Europe, undated</unittitle>
+              <container id="aspace_b6ae8c151c0ea08e477f3ff5cbdbb874" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref139_fzz" level="file">
+          <did>
+            <unittitle>Negatives:</unittitle>
+          </did>
+          <c03 id="aspace_ref140_pd0" level="file">
+            <did>
+              <unittitle>People:</unittitle>
+            </did>
+            <c04 id="aspace_ref141_fyh" level="file">
+              <did>
+                <unittitle>Identified: C-D, M, undated</unittitle>
+                <container id="aspace_63655e0e08b0d1f410d0ccd842e95d4f" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref142_uco" level="file">
+              <did>
+                <unittitle>Groups:</unittitle>
+              </did>
+              <c05 id="aspace_ref143_ekg" level="file">
+                <did>
+                  <unittitle>Identified, undated</unittitle>
+                  <container id="aspace_4ff588a6fbf0c7c6e4105f6d5db5274b" label="Mixed Materials"
+                    type="box">9</container>
+                </did>
+              </c05>
+              <c05 id="aspace_ref144_r4r" level="file">
+                <did>
+                  <unittitle>Unidentified, undated</unittitle>
+                  <container id="aspace_5d79cf6732dd48359c103ecd1236a045" label="Mixed Materials"
+                    type="box">9</container>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="aspace_ref145_92u" level="file">
+              <did>
+                <unittitle>Military and veterans, undated</unittitle>
+                <container id="aspace_8d94eeddf6c6c1f47c8c211e99568d73" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref146_2oq" level="file">
+            <did>
+              <unittitle>Places:</unittitle>
+            </did>
+            <c04 id="aspace_ref147_oxu" level="file">
+              <did>
+                <unittitle>Banks, undated</unittitle>
+                <container id="aspace_47477f3203b2a8d8b79647ae642168d8" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref148_ual" level="file">
+              <did>
+                <unittitle>Buildings: Identified: schools, library, bank, Masonic Temple,
+                  unidentified, undated</unittitle>
+                <container id="aspace_ede5597191e367dc9e5a7e2f0c444020" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref149_p4x" level="file">
+              <did>
+                <unittitle>Businesses (various), undated</unittitle>
+                <container id="aspace_315136a9234115b762cf0eb25adcb77e" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref150_inj" level="file">
+              <did>
+                <unittitle>Churches, 1878, undated</unittitle>
+                <container id="aspace_d9923d9817843b1639567c4b8895dbbb" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref151_71w" level="file">
+              <did>
+                <unittitle>Homes identified, undated</unittitle>
+                <container id="aspace_e172f9a8b960da5da436c351a7a683ab" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref152_l3q" level="file">
+              <did>
+                <unittitle>Hospitals, hotels, and inns, 1961, undated</unittitle>
+                <container id="aspace_dd96842691addf98dc1b6bc0df77cfc0" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref153_a71" level="file">
+              <did>
+                <unittitle>Plantations: Fairntosh, undated, Stagville, undated</unittitle>
+                <container id="aspace_80cfefd027c0da30085c03d4fd9f729e" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref154_p8z" level="file">
+              <did>
+                <unittitle>Tobacco warehouses and stores, undated</unittitle>
+                <container id="aspace_91483e932b97984b5d6f5f4f804fbef0" label="Mixed Materials"
+                  type="box">9</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref155_40v" level="file">
+            <did>
+              <unittitle>Miscellaneous: Transportation, undated</unittitle>
+              <container id="aspace_ff76ba75bba0b4aff94d8c2a1b9be7e0" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref156_155" level="file">
+            <did>
+              <unittitle>Postcards: Durham, undated</unittitle>
+              <container id="aspace_01e096d594efe03e63600b75a9b2bbe5" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref158_toi" level="series">
+        <did>
+          <unittitle>Oversize Materials</unittitle>
+        </did>
+        <c02 id="aspace_ref159_u69" level="subseries">
+          <did>
+            <unittitle>World War I Series</unittitle>
+          </did>
+          <c03 id="aspace_ref160_8c2" level="file">
+            <did>
+              <unittitle>Pictures:</unittitle>
+              <container id="aspace_a378171cad3c94dc60ca0484e8b35c01" label="Mixed Materials"
+                type="box">10</container>
+            </did>
+            <c04 id="aspace_ref161_21s" level="file">
+              <did>
+                <unittitle>113th Field Artillery Unit, Batteries A-E, Headquarters Co., Supply Co.,
+                  Officers, Field Artillery Unit, 1919, March 20</unittitle>
+                <container id="aspace_5f736387629d0e69e1f3d2e2f51bd276" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref162_w96" level="file">
+              <did>
+                <unittitle>113th Field Artillery Unit, Battery C, Camp Sevier, S.C., 1918,
+                  Feb.</unittitle>
+                <container id="aspace_fcfb6678475811255f2d7d9fb8c18cd9" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref163_4ti" level="file">
+              <did>
+                <unittitle>Unidentified soldiers, undated</unittitle>
+                <container id="aspace_5ece8c16fe821de7608bc9ca35bc4022" label="Mixed Materials"
+                  type="oversize-folder">1</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref164_c91" level="file">
+            <did>
+              <unittitle>113th Field Artillery Unit, Battery C, passenger list for returning
+                members, 1919, Feb. 28</unittitle>
+              <container id="aspace_d3799dd8b519a179ab48159fdbacd1d1" label="Mixed Materials"
+                type="oversize-folder">Folder 1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref165_zwi" level="subseries">
+          <did>
+            <unittitle>Durham Printed Material Series</unittitle>
+          </did>
+          <c03 id="aspace_ref166_r4x" level="file">
+            <did>
+              <unittitle>City and county public works, government and public services, 1911;
+                Promotional, 1905</unittitle>
+              <container id="aspace_93697574223300f1b54bd9e753ece9b6" label="Mixed Materials"
+                type="box">10</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref167_v0g" level="subseries">
+          <did>
+            <unittitle>Miscellaneous Series</unittitle>
+          </did>
+          <c03 id="aspace_ref168_po1" level="file">
+            <did>
+              <unittitle>Maps: City of Durham, 1891; Durham property owned by B. L. Duke, 1901;
+                railway routes in Va. and N.C., undated</unittitle>
+              <container id="aspace_80370aa3af09f10aa495ba557856f2fb" label="Mixed Materials"
+                type="oversize-folder">Folder 1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref169_7ol" level="subseries">
+          <did>
+            <unittitle>Pictures Series</unittitle>
+          </did>
+          <c03 id="aspace_ref170_yc0" level="file">
+            <did>
+              <unittitle>People:</unittitle>
+              <container id="aspace_cf86849af24438356276be5e2439f31f" label="Mixed Materials"
+                type="box">10</container>
+            </did>
+            <c04 id="aspace_ref171_nrm" level="file">
+              <did>
+                <unittitle>Identified: Government officials, 1948-; Durham Sun staff,
+                  n.d</unittitle>
+                <container id="aspace_61eb2e4d9ef6e79b34f668a7834a55c2" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref172_vgf" level="file">
+              <did>
+                <unittitle>Groups:</unittitle>
+              </did>
+              <c05 id="aspace_ref173_1nw" level="file">
+                <did>
+                  <unittitle>Identified, 1885, 1916, undated; unidentified, undated</unittitle>
+                  <container id="aspace_d69a872f80f672745aaab0e29bdf69ec" label="Mixed Materials"
+                    type="box">10</container>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref174_0s4" level="file">
+            <did>
+              <unittitle>Places:</unittitle>
+            </did>
+            <c04 id="aspace_ref175_hay" level="file">
+              <did>
+                <unittitle>Buildings: Identified, undated; unidentified, undated</unittitle>
+                <container id="aspace_5269fb448efc56edb33b23ad18596313" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref176_hcg" level="file">
+              <did>
+                <unittitle>Streets unidentified, ca. 1930-1961</unittitle>
+                <container id="aspace_e2bb9d7bb3389241d8a59e0fa92821c1" label="Mixed Materials"
+                  type="box">10</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref177_xty" level="file">
+            <did>
+              <unittitle>Miscellaneous: Parades, military, undated</unittitle>
+              <container id="aspace_ab6feff727663f6859e1c921225fca99" label="Mixed Materials"
+                type="box">10</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

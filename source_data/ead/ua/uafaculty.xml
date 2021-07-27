@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/uafaculty/">uafaculty</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Faculty Records, 1911-1986 <num>UA.28.01.0009</num>
+            </titleproper>
+            <author>Processed by: Jane Veronica Charles; machine-readable finding aid created by:
+               Kimberly Sims</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003839293</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-30 03:47:01
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Faculty records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">Duke University. Faculty</corpname>
+         </origination>
+         <unitid>UA.28.01.0009</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1911/1986" type="inclusive">1911-1986</unitdate>
+         <physloc id="aspace_e8ae77df3abd95a014c348c6d5ea1ca4">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_ddbff34527e13cb284f9c92add5fef9d">The responsibilities of faculty
+            members, in addition to planning classes and providing instruction, included enacting
+            regulations necessary to carry out instruction, advance the standards of work, and
+            develop the scholarly aims of the school. The Faculty also recommended degree candidates
+            and persons worthy of receiving academic distinction to the trustees. The records
+            document administrative and academic concerns of university faculty members and officers
+            from 1911-1986. They consist of bound volumes of minutes, reports, memoranda, agendas,
+            and correspondence. The records also include a few invitations, proposals,
+            announcements, newsletters, and newspaper clippings.</abstract>
+         <physdesc id="aspace_2a892a8e78f51096a9889fd862850085">
+            <extent>about 4,000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_b3f4027b2bded02350ddb5520a4b2433">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_38c61e45c73d3db6312cb39fbff77be0">
+         <head>Access Restrictions</head>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>Excepting publicly distributed material, for a period of twenty-five (25) years from the
+            origin of the records, permission in writing from the director of the office of record
+            and the University Archivist is required for use.</p>
+      </accessrestrict>
+      <userestrict id="aspace_29738bbe51c9830c50fac56e0842f216">
+         <head>Copyright Notice</head>
+         <p>Copyright for Official University records is held by Duke University; all other
+            copyright is retained by the authors of items in these papers, or their descendants, as
+            stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite id="aspace_47e7e158184a9b59830cd1465b183edd">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Faculty Records, Duke University Archives, David M. Rubenstein
+            Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_4f436ae3538b18fcc353c535fa8a6adf">
+         <head>Provenance</head>
+         <p>The Faculty Records were received by the University Archives as a transfer in
+            1955-1989.</p>
+      </acqinfo>
+      <processinfo id="aspace_7274728fda70c9cd7b9181b1c6a636a6">
+         <head>Processing Information</head>
+         <p>Processed by Jane Veronica Charles, Summer 2000</p>
+         <p>Encoded by Kimberly Sims, January 2008</p>
+         <p>Accessions A48-2256, A60-203, A73-152, A73-154, A73-155, A74-4, A75-58, A77-180, A79-27,
+            A79-76, A80-71, A88-30, and A89-89 were merged into one collection, described in this
+            finding aid. </p>
+      </processinfo>
+      <bioghist id="aspace_cfe88c7073d12c45617a556c14d0e7f7">
+         <head>Historical Note</head>
+         <p>In its meeting of January 8, 1892, the Board of Trustees of Trinity College appointed a
+            committee to "to collect and prepare a system of Rules, regulations and by-laws for the
+            government of the College." In this first set of bylaws, the Faculty of Trinity College
+            was defined to consist of "Professors, Assistant Professor and Instructors." The Faculty
+            was to assist the President "in the work of instruction, administration, and
+            discipline." Ten years later, the Trustees requested President John C. Kilgo to draw up
+            new bylaws for the school. In the Constitution and Bylaws of 1903, the Faculty was
+            defined to consist of all professors, adjunct professors, and instructors elected by the
+            Board of Trustees or its Executive Committee.</p>
+         <p> The responsibilities of faculty members, in addition to planning classes and providing
+            instruction, included enacting regulations necessary to carry out instruction, advance
+            the standards of work, and develop the scholarly aims of the school. The Faculty also
+            recommended degree candidates and persons worthy of receiving academic distinction to
+            the trustees. The president nominated all members of the faculty, represented them at
+            public meetings of the university, and called and presided at faculty meetings. The
+            president had to approve all actions of the Faculty, and could veto any action by it,
+            but had to submit his reasons to them in writing. When Duke University was founded in
+            1924, the trustees amended the University's Bylaws only slightly. The Faculty then
+            consisted of all professors, associate professors, assistant professors, and instructors
+            elected by the Board of Trustees or its Executive Committee. All other definitions and
+            responsibilities of faculty members remained the same. Beginning in 1936 the term
+            "General Faculty" is used in the Bylaws. Members of the General Faculty were responsible
+            for both instruction and research. Each of the colleges, graduate and professional
+            schools had their own faculties with deans elected by the trustees. Each faculty had
+            authority to carry out any educational functions within its field. In the Bylaws of 1952
+            the General Faculty is defined as the president, secretary of the university, officers
+            whom the president designated as primarily responsible for instruction and research,
+            full instructors or above engaged in work for which university degrees were awarded, and
+            faculty emeriti. </p>
+         <p> President Few renamed the Undergraduate Council the General Faculty Council at a
+            meeting held on October 28, 1937. According to the 1952 Bylaws, the General Faculty
+            Council consisted of the deans and assistant deans of Trinity College and the Woman's
+            College, the dean of the Graduate School, and the secretary of the General Faculty.
+            Membership also included the chairman and director of undergraduate studies in each
+            department offering instruction in the undergraduate colleges of liberal arts and
+            sciences, as well as one member elected by each department that had five or more
+            teachers giving instruction in arts and sciences. The General Faculty Council met once
+            per month. They discussed curriculum in arts and sciences as well as concerns about
+            education and policies. </p>
+         <p> Although the goals, responsibilities, and membership of the General Faculty remained
+            constant throughout the years, by 1952 the term "University Faculty" had come into use
+            instead. In addition to the definitions and responsibilities of the Faculty from
+            previous years, in the 1952 bylaws the Faculty was also expected to promote faculty and
+            student welfare; consult with and advise the president on matters of general university
+            policy; and receive information about the affairs of the university. The President
+            served as chairman of the Faculty and the Secretary of the University served as Faculty
+            secretary. The Faculty met regularly in October and February as well as before the June
+            commencement. They also met by request of the president, of the vice-president in the
+            division of education, or of twenty members of the Faculty. </p>
+         <p> As stated in the 1952 Bylaws, the Council on Undergraduate Teaching consisted of deans
+            and assistant deans of Trinity College, the Woman's College, the College of Engineering,
+            other officers and appointed members, and teachers of all ranks who devoted fifty
+            percent or more of their time to undergraduate instruction. The Council's goals involved
+            improving the quality and efficiency of teaching. The Council had the right to take any
+            action necessary to secure these goals. The Council on Undergraduate Teaching is
+            interchangeably referred to as the Council on Undergraduate Instruction. The origin of
+            the Council dates back to at least 1934. </p>
+         <p> Only a few minor changes affecting the definition of the Faculty have occurred in the
+            Bylaws since then. In the Bylaws of 1962, the provost, vice presidents, secretary,
+            registrar, and university librarian were included in the University Faculty. Other
+            changes in the bylaws over the years have provided for the carrying out of the Faculty's
+            functions through appropriate councils, committees, and other bodies. These have
+            included a Faculty Council (to oversee educational matters beyond the purview of the
+            individual school's faculties), a Council on Undergraduate Teaching, a Council on the
+            Instruction of Freshmen, and other committees. </p>
+         <p> Governance and Advisory Councils: As the institution developed President William
+            Preston Few prevailed upon the trustees to organize into committees so that Board
+            members could become more knowledgeable about and involved. Still, during Few's
+            administration he, Vice President and Treasurer Robert Lee Flowers and Dean of the
+            University William H. Wannamaker made decisions on matters of general university policy
+            subject to board approval. This pattern continued after Few's death, despite several
+            formal and informal requests from faculty for more involvement in governance. During and
+            after World War II, some faculty began to actively seek a greater role. In 1946 and
+            again in 1948, our AAUP chapter petitioned the trustees for permission to form a faculty
+            senate that would exercise legislative power. The Board tabled these requests. </p>
+         <p> Then, in 1950, the newly appointed President, Arthur Hollis Edens, convened a committee
+            to study the organization of the faculty. This "General Faculty's Commission on Faculty
+            Reorganization" submitted its report in 1952, and the Trustees revised the University
+            Bylaws to incorporate some of its recommendations. In the revisions, the organization
+            and responsibilities of the faculty were laid out in specific detail. The 1952 Bylaws
+            also created a faculty-administrative liaison committee called the University Council
+            (q.v.) as a standing committee of the General Faculty. The University Council acted as
+            an advisory body on matters of general University policy and interest. The revisions
+            also created an Undergraduate Faculty Council and an Engineering Faculty Council to
+            oversee undergraduate instruction. </p>
+         <p> In the 1962 revision of the University Bylaws, the Board of Trustees gave the faculty
+            authority to organize itself as it wished, thereby doing away with the very formal
+            structures of 1952. A report in March 1962 by the University Faculty's Committee on
+            Faculty Organization recommended formation of the Academic Council. The University
+            Policy Advisory Committee was also formed as a successor to the University Council. For
+            additional information about the history, structure and function of the Academic
+            Council, see Professor Don Fluke's history, in the Council's records here. </p>
+      </bioghist>
+      <scopecontent id="aspace_0c72edfce6ba20ab8a670fd321a96ce6">
+         <head>Collection Overview</head>
+         <p>Members of various faculty councils, committees, and governing bodies of Trinity College
+            and Duke University created these records between 1911 and 1986. The records document
+            administrative and academic concerns of university faculty members and officers during
+            this period of time. The records consist of bound volumes of minutes of the General
+            Faculty (also referred to as the Faculty and later renamed the University Faculty),
+            General Faculty Council, and the Council on Undergraduate Teaching (also called the
+            Council on Undergraduate Instruction), along with folders of other material. The bulk
+            consists of minutes, reports, memoranda, agendas, and correspondence. </p>
+         <p> These records reflect the actions of the following university bodies: the Commission on
+            Faculty Reorganization, the Council on Undergraduate Teaching, the (General) Faculty
+            Council, Faculty Meetings, the Faculty Organizational Committee, the Faculty Standing
+            Committee on the Curricula, and University Faculty Minutes. These records contain the
+            same types of documents as those found in the bound volumes; however, they also contain
+            a few invitations, proposals, announcements, newsletters, and newspaper clippings. </p>
+      </scopecontent>
+      <relatedmaterial id="aspace_120518c8d203131a30b8ac6c5a42a64f">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection">Faculty Reference Collection</unittitle>
+               <repository label="Repository">Duke University Archives</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Undergraduate Faculty Council of Arts and Sciences
+                  Records</unittitle>
+               <repository label="Repository">Duke University Archives</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Faculty Club of Duke University Records</unittitle>
+               <repository label="Repository">Duke University Archives</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Faculty Census Reports</unittitle>
+               <repository label="Repository">Duke University Archives</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Undergraduate Faculty Council Records</unittitle>
+               <repository label="Repository">Duke University Archives</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <corpname source="ingest">Duke University -- Committees</corpname>
+         <corpname source="ingest">Duke University -- Faculty</corpname>
+         <corpname source="ingest">Duke University -- Faculty -- History</corpname>
+         <corpname source="ingest">Duke University. General Faculty Council</corpname>
+         <corpname source="ingest">Duke University. Faculty Standing Committee on
+            Curricula</corpname>
+         <corpname source="ingest">Duke University. Faculty</corpname>
+         <corpname source="ingest">Duke University. Council on Undergraduate Teaching</corpname>
+         <corpname source="ingest">Duke University. Faculty Organizational Committee</corpname>
+         <corpname source="ingest">Duke University. Commission on Faculty Reorganization</corpname>
+         <corpname source="ingest">Duke University. Council on Undergraduate Instruction</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_yyy" level="series">
+            <did>
+               <unittitle>Minutes of Faculty Meetings, 1911-1986</unittitle>
+            </did>
+            <scopecontent id="aspace_22cdce02a95a4df60715ff59c748743b">
+               <head>Scope and Contents note</head>
+               <p>
+                  <emph render="bold">Minutes of the Faculty of Trinity College, 1911-1923</emph>
+               </p>
+               <p> Issues that pervaded the recorded minutes include standing committees,
+                  scheduling, funding, student petitions (to drop or substitute classes, for
+                  example), examinations, commencement, debates over graduation attire, fraternity
+                  regulations, scholarship regulations, extension work, academic requirements,
+                  committee appointments, new courses, grading, degree candidates, publications,
+                  graduate instruction and research. </p>
+               <p> The committees that the faculty served on include courses of instruction,
+                  admission, athletics, debating, executive, health and boarding halls, library,
+                  publications, public lectures and musical organizations, schedule, social
+                  organizations, and student life. </p>
+               <p> Other topics include absences or "cuts" from class, literary societies, memorial
+                  statements for recently deceased professors, the establishment of Phi Beta Kappa,
+                  concerns for Freshman and Sophomores (e.g., grades, distribution of work, etc.),
+                  the Glee Club, and lectures from visiting professors from universities such as the
+                  University of Chicago, Yale, and Johns Hopkins. The college catalogue, compulsory
+                  chapel exercises, cheating, honors, awards (the Wiley Grey and Braxton Craven
+                  Medals), the North Carolina Teachers Assembly, Watts Hospital, delegates sent to
+                  North Carolina Forestry Association in Raleigh, composition requirements, honorary
+                  degrees, student advisors, the Chanticleer, graduate students and athletics,
+                  summer school, and alumni reunions make-up additional topics. </p>
+               <p> Still others are the abolishment of the valedictory, delegates for the
+                  Association of Colleges and Schools of Southern States and the National Collegiate
+                  Association, the North Carolina Conference, military drills, accommodations for
+                  students leaving for World War I, salary increases, new courses, thesis
+                  requirements for Masters degrees, R.O.T.C. courses, and the Durham homecoming
+                  celebration for soldiers. The North Carolina Academy of Science, the Roosevelt
+                  Memorial Fund, admission of students from junior colleges, tutors for freshman,
+                  the grading system, Social Hygiene meetings, curriculum considerations, the
+                  National Convention in International Disarmament, representatives for National
+                  Conference on Standards of Colleges and Prep Schools, requirements for graduation,
+                  entrance requirements, sabbaticals, holidays, Board of Trustees, and committee on
+                  moving pictures compose further topics that faculty grappled with during their
+                  many meetings, over which President Few presided. </p>
+               <p> The few items in the two folders containing loose materials include reports,
+                  letters from students and collegiate organizations, and in-house notes that
+                  pertain to some of the same subjects listed above. </p>
+               <p>
+                  <emph render="bold">Minutes of the Faculty, Trinity College and Duke University,
+                     1923-1943</emph>
+               </p>
+               <p> Many of the same issues, including student petitions, grades, and various
+                  committee business engaged faculty members during these years. Additional concerns
+                  of the faculty during this period involve opening Duke University, better training
+                  of high school teachers, protocol for commencement, Saturday courses for teachers,
+                  adoption of mid-term examinations, a study revealing that women were behind in
+                  Math, honor system violations, certification of teachers, new programs, budget, a
+                  speech about Benjamin Duke, and cap and gowns. The Robert E. Lee Prize, Duke
+                  Memorial Fund, grade uniformity, Bible and Math requirements, parking,
+                  reorganization of faculties, combined arts-law degree, the Dean's list,
+                  undergraduate guidance department, University Chest Drive, dedication to President
+                  Few, and death of President Few are topics that prevailed during this time period.
+                  President Few presided. </p>
+               <p>
+                  <emph render="bold">Minutes of the General Faculty, 1944-1952</emph>
+               </p>
+               <p> The volumes in this category contain the same kinds of minutes, correspondence,
+                  and reports as in the other categories. The Minutes of the General Faculty also
+                  contain documents about the same subjects as found in the Minutes of the Faculty
+                  and Faculty Council. Other issues include the relationship between faculty and
+                  trustees, American Association of University Professors, retirement annuities,
+                  suspension of classes for events, and faculty reorganization reports. President
+                  Flowers presided. </p>
+               <p>
+                  <emph render="bold">Minutes of the University Faculty, 1952-1955</emph>
+               </p>
+               <p> This series of documents contains the same types of material and subject matter
+                  as the other series on University Faculty minutes. Additional issues of relevance
+                  here involve the structure of the University Council, academic salaries, and a
+                  report of the University Council to the University Faculty. Other topics worthy of
+                  note include the secret ballot for an honorary degree for Richard M. Nixon;
+                  elections for University Council; president's reports (housekeeping, buildings,
+                  finances, enrollment, etc.); off campus centers such as Highland Hospital in
+                  Asheville and Duke Marine Lab in Beaufort; President Edens' wish to improve
+                  cooperation with neighboring universities (NCSU, UNC, and the Woman's College of
+                  UNC) via library cooperation; desegregation (President Edens advocated making a
+                  small gesture towards desegregation in 1954 after Brown vs. Board of Education);
+                  and medical insurance for the faculty. President Edens presided. </p>
+               <p>
+                  <emph render="bold">Minutes of the University Faculty, 1955-1969</emph>
+               </p>
+               <p> Again, the types of materials and subject matter of the correspondence, minutes,
+                  and reports in this series overlap with that of the other records. Additional
+                  topics include reports of the president on issues such as the need to revamp
+                  Duke's policy on segregation, cooperation with southeastern liberal arts colleges
+                  via the 3-2 program, the new golf course, new faculty housing, enrollment
+                  problems, Faculty Handbook, new degree proposals, graduate school enrollment,
+                  college visitation program-traveling faculty members, national recognition
+                  (ranking), training inter-national students, faculty involvement in international
+                  organizations, international research, religious preferences, long range planning
+                  reports, and university expansion. Additional subjects include tuition awards for
+                  children of faculty, promotion of Duke University, improvement of public
+                  relations, varying views of different presidents on goals of university, awarding
+                  Richard M. Nixon Doctor of Laws, tenure, need of facilities, Bylaws, academic
+                  freedom, regrouping of departments into divisions, applicants admitted to Duke
+                  regardless of race, creed, or national origin in 1962, Academic Council, faculty
+                  benefits, Faculty Club, 1968 student vigil and strike by employees in Operations
+                  Hall and Dining Halls foments awareness of need for appreciation among faculty,
+                  the advancement program, and committee on University Employee relationships to
+                  support non-academic employees. In 1969 there was an African American student
+                  sit-in in the Central Records Office (Allen Building) that incited much debate
+                  among faculty during a meeting. Presidents Edens, Hart, and Knight presided. </p>
+               <p>
+                  <emph render="bold">University Faculty Minutes, 1969-1986</emph>
+               </p>
+               <p> Reports, minutes, agendas, and correspondence make-up the bulk of the documents
+                  housed in these folders. Topics include degree candidates, programs, the Faculty
+                  Handbook, committee appointments, faculty elections, memorials, the Academic
+                  Council, a presidential address, and faculty newsletters </p>
+               <p>
+                  <emph render="bold">Faculty Meetings, 1932-1978</emph>
+               </p>
+               <p> Correspondence, agendas, meeting minutes, memos, newspaper clippings, and reports
+                  are housed in these folders. Participants in faculty meetings reported to the
+                  General Faculty. The General Faculty appointed faculty to committees, such as the
+                  committee of undergraduate curriculum. The University Faculty determines degree
+                  candidates, honorary degrees, curriculum, etc. </p>
+            </scopecontent>
+            <c02 id="aspace_ref14_f10" level="file">
+               <did>
+                  <unittitle>Minutes of the Faculty, Trinity College, 1911-1916</unittitle>
+                  <container id="aspace_873a0bf3dbbdd78da65a751c2f04ddb3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_vbl" level="file">
+               <did>
+                  <unittitle>Minutes of the Faculty, Trinity College, 1916-1920</unittitle>
+                  <container id="aspace_073da535434967938e7af5bb266a117c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_11x" level="file">
+               <did>
+                  <unittitle>Minutes of the Faculty, Trinity College, 1920-1923</unittitle>
+                  <container id="aspace_77baaacff64b41fdd924e58e3dca95c6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_t1l" level="file">
+               <did>
+                  <unittitle>Minutes of the Faculty Meetings, Trinity College/Duke University,
+                     1923-1928</unittitle>
+                  <container id="aspace_c628a7250039dc12747342ed983e5ace" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_b9w" level="file">
+               <did>
+                  <unittitle>Minutes of the Faculty Meetings, Duke University, 1928-1933</unittitle>
+                  <container id="aspace_c165f70746e7981ea4d695967cb320ee" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_shl" level="file">
+               <did>
+                  <unittitle>Minutes of the Faculty Meetings (General), Duke University,
+                     1933-1943</unittitle>
+                  <container id="aspace_114f90404c3310818d27e3a37c4401be" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_mi8" level="file">
+               <did>
+                  <unittitle>Minutes of the General Faculty, Duke University, 1943-1951</unittitle>
+                  <container id="aspace_dc040b28eb4d91544726cd3fc93ecaf3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_dps" level="file">
+               <did>
+                  <unittitle>Minutes of General Faculty Meetings-Loose Material,
+                     1911-1920</unittitle>
+                  <container id="aspace_34e19d3b536f75125bbafac9bb98af0b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_utx" level="file">
+               <did>
+                  <unittitle>Minutes of General Faculty Meetings-Loose Material,
+                     1920-1923</unittitle>
+                  <container id="aspace_e6e93ad9f17e06269150acf3e59aebc4" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_mvl" level="file">
+               <did>
+                  <unittitle>Faculty Meetings, 1932-1969</unittitle>
+                  <container id="aspace_9722ff8aeb34bc10db1cd98433dc6f76" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_yva" level="file">
+               <did>
+                  <unittitle>Minutes of the General Faculty, Duke University, 1951-1952</unittitle>
+                  <container id="aspace_f2f5adea7d292ab0a4001358dd282b94" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_2te" level="file">
+               <did>
+                  <unittitle>Minutes of the University Faculty, Duke University,
+                     1952-1955</unittitle>
+                  <container id="aspace_6e3c46cbe635b782415e66c8fca9202a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_5n1" level="file">
+               <did>
+                  <unittitle>Minutes of the University Faculty, Duke University,
+                     1955-1960</unittitle>
+                  <container id="aspace_864109a691fd10b5352c3a02b6669ced" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_pia" level="file">
+               <did>
+                  <unittitle>Minutes of the University Faculty, Duke University,
+                     1960-1964</unittitle>
+                  <container id="aspace_c83788460f195eaea88a2ee7a6b5af49" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_dmf" level="file">
+               <did>
+                  <unittitle>Minutes of the University Faculty, Duke University,
+                     1964-1969</unittitle>
+                  <container id="aspace_5e292f98d8208808c5475bf64dd37dd5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_vsq" level="file">
+               <did>
+                  <unittitle>University Faculty Minutes, 1969-1970</unittitle>
+                  <container id="aspace_7368820cafd98dfced0b4698f82e0866" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_6vk" level="file">
+               <did>
+                  <unittitle>University Faculty Minutes, 1971-1972</unittitle>
+                  <container id="aspace_054e4aff01ed3f3bf23297daac46e9ea" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_7kj" level="file">
+               <did>
+                  <unittitle>University Faculty Minutes, 1972-1976</unittitle>
+                  <container id="aspace_ee119616f02c3dde7864bd44d43faf29" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_nuk" level="file">
+               <did>
+                  <unittitle>University Faculty Minutes, 1977-1981</unittitle>
+                  <container id="aspace_b22340653bfe0c1d54971fa822ba5212" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_04k" level="file">
+               <did>
+                  <unittitle>University Faculty Minutes, 1982-1986</unittitle>
+                  <container id="aspace_c6d4d84212df337a4bc695603e82938d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_z7v" level="file">
+               <did>
+                  <unittitle>Faculty Meetings, 1970-1978</unittitle>
+                  <container id="aspace_81989fece54aee927f021dfac8296e38" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref36_3xt" level="series">
+            <did>
+               <unittitle>Records of the Faculty Council, 1932-1951</unittitle>
+            </did>
+            <scopecontent id="aspace_2b8b0162d78d5bceee76fce675b8791a">
+               <head>Scope and Contents note</head>
+               <p>
+                  <emph render="bold">Minutes of the General Faculty Council, 1932-1951</emph>
+               </p>
+               <p> Meeting minutes as well as glued-in correspondence and reports compose the
+                  minutes of the General Faculty Council. The same subjects found throughout the
+                  pages of the Faculty Meetings are found in these records. The General Faculty
+                  Council came into existence by order of President Few in 1937, when he changed the
+                  name of the Undergraduate Council, which was also known informally as the Faculty
+                  Council, to the General Faculty Council. </p>
+               <p> Records concern the Woman's College, deficiency in writing, the function of the
+                  council, course listings, formation of the General Faculty Council, reorganization
+                  of departments into divisions, lengthening the teaching day, visiting
+                  professors-goal involved getting information from them regarding opportunities in
+                  American colleges for above average students, and a memoriam for President Few.
+                  President Few and Dean Wannamaker presided over these meetings. Other topics
+                  include the bookstore, curriculum acceleration, language requirements, freshman
+                  achievement and test scores, creation of department of aesthetics, "War Day
+                  Exercises," military duty, U.S. military Institute and correspondence college
+                  courses, credit for Naval courses, opening of and enrollment in Woman's College,
+                  problem with returning service men (credit/graduation), admission of veterans,
+                  special veterans services, committee on recognition of retiring faculty, and
+                  instituting a degree program for nursing. In addition, the Faculty Council was
+                  concerned with class over-crowding, Duke University Day, the no smoking rule,
+                  Founders Day, the national situation of American universities, religious emphasis
+                  week, and selective service tests. </p>
+               <p>
+                  <emph render="bold">Faculty Council, 1940-1952</emph>
+               </p>
+               <p> Correspondence, memoranda, reports, meeting minutes, and agendas. Topics include
+                  the teaching load, new courses, curricula, cheating, air science courses, special
+                  committees, honorary retiring faculty members, absences, the student rating of
+                  professors poll, catalogue, salary studies, finals, parking, attendance, and
+                  homecoming. </p>
+            </scopecontent>
+            <c02 id="aspace_ref37_4t3" level="file">
+               <did>
+                  <unittitle>Minutes of the General Faculty Council, Duke University,
+                     1932-1941</unittitle>
+                  <container id="aspace_e33bd1be5fda1c0b741efa4061f026f3" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_xua" level="file">
+               <did>
+                  <unittitle>Minutes of the Faculty Council, Duke University, 1941-1946</unittitle>
+                  <container id="aspace_485efd30c19b38356333c4321ffeafb5" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_1jc" level="file">
+               <did>
+                  <unittitle>Minutes of the Faculty Council, Duke University, 1946-1951</unittitle>
+                  <container id="aspace_0a3b74930d29ce77e5a44b0aa19a8fe5" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_r45" level="file">
+               <did>
+                  <unittitle>Faculty Council, 1940-1952</unittitle>
+                  <container id="aspace_98bf4ccc6ca52f07986ff3e842099fe5" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref42_ydy" level="series">
+            <did>
+               <unittitle>Committee Records, 1930-1934</unittitle>
+            </did>
+            <scopecontent id="aspace_c2cf451425320a222284b55521a2e061">
+               <head>Scope and Contents note</head>
+               <p>This series contains foldered and bound records created by various faculty
+                  committees.</p>
+               <p>
+                  <emph render="bold">A. Freshman Council and Freshman Faculty, 1930-1934</emph>
+               </p>
+               <p> Minutes, 1930-1934: Typed and hand-written minutes and reports on a system for
+                  reporting absences from class, the campus mail system, extra-curricular
+                  activities, freshman dormitories, fraternities, physical education, grading
+                  systems, faculty-student relations, examination schedules and related subjects.
+                  President Few and Dean Wannamaker attended the Council's meetings from time to
+                  time.</p>
+               <p>
+                  <emph render="bold">B. Council on Undergraduate Teaching</emph>
+               </p>
+               <p> Minutes, 1934-1949: Reports and meeting minutes on class size, scholarships,
+                  study time, tentative degree candidates, student petitions, student publications,
+                  educational research (promotion of student scholarship), homecoming, commencement,
+                  quality of teaching in prep schools, conference with high school principals,
+                  student etiquette (concern with "boot-licking"), grade distribution, cheating,
+                  course adjustments, honors, library book accessibility, grade curve, "block
+                  system" for exams, absences, future course offerings, scholastic records,
+                  placement tests, the Council on Undergraduate Teaching, summer school, lecture
+                  system, break-down of grades for all departments, and evaluation of grades and
+                  instruction are among the many topics included here. The following committees made
+                  decisions: calendar, curriculum, student-faculty relations, schedule, problems of
+                  teaching, extra-curricular activities, and other matters. Dean Wannamaker and
+                  President Few presided. </p>
+               <p> Miscellaneous records, 1934-1947: Materials include agendas, reports, memoranda,
+                  questionnaires, and correspondence. Main topics include divisional committees,
+                  freshman and sophomore class size, class periods, class schedules, public
+                  lectures, examination periods, the grading system, junior and senior courses, and
+                  degree requirements. Additional topics also are grade distribution, "cuts," number
+                  of freshman, scholarship statistics, vacations, committee lists and nominees,
+                  advanced courses, the bookstore, student-faculty relations, the honor system,
+                  professional ethics, undergraduate publications, and research. Other issues
+                  addressed included transportation, curriculum problems, evaluations of admission,
+                  failure, and achievement, the Woman's College, holidays, naval training or the
+                  V-12 program, the library, athletics, cheating, and the honor code. Topics remain
+                  constant throughout the years. The Report of the Committee on "Adequate Student
+                  Guidance," (folder 6) represents an analysis of guidance methods as applicable to
+                  undergraduate liberal arts college. The report includes definitions, a needs
+                  assessment, and sections on areas of guidance, testing, counseling, and criteria
+                  for effective counseling. Tables include testing data for Duke freshman, analysis
+                  of personal problems, and reasons for academic difficulty, all based on data
+                  collected via questionnaires. </p>
+               <p>
+                  <emph render="bold">C. Faculty Committee on the Teaching Load of Instructors,
+                     1940</emph>
+               </p>
+               <p> Reports and minutes about the enrollment of students in various university
+                  departments are housed in this folder.</p>
+               <p>
+                  <emph render="bold">D. Faculty Standing Committee on the Curricula,
+                     1941-1946</emph>
+               </p>
+               <p> Materials include correspondence, minutes, reports, proposals, memoranda, and
+                  agendas. Topics are degree program requirements, administration of curricula,
+                  guidance, admission requirements, honors, fellowships, freshman advisors, and
+                  academic probation. Note: Folders 19-20 contain the loose materials, dated
+                  1911-1923, from the bound volumes of the Minutes of the General Faculty Meetings,
+                  Trinity College.</p>
+               <p>
+                  <emph render="bold">E. Commission on Faculty Reorganization, 1951-1952</emph>
+               </p>
+               <p> Materials include agendas, correspondence, meeting minutes, and reports. A report
+                  on the chronology of the committee's work and an investigating sub-committee
+                  report are housed here. </p>
+               <p>
+                  <emph render="bold">F. Faculty Organization Committee, 1951-1962</emph>
+               </p>
+               <p> Document types: reports with cover letters. The contents of this folder include a
+                  1951 Report of the Commission on Faculty Reorganization to the General Faculty of
+                  Duke. It lists and discusses the chronology of the commission's work, and includes
+                  recommendations for the University Faculty, the University Council, the
+                  Undergraduate Faculty Council, the graduate school faculty, the engineering
+                  faculty school, and the faculties of the professional schools. This report also
+                  includes alternative plans for selecting members of the University Council. The
+                  additional two reports dated 1962 deal with the same issue in a similar way, and
+                  include cover letters. </p>
+            </scopecontent>
+            <c02 id="aspace_ref43_d6a" level="file">
+               <did>
+                  <unittitle>Council on Undergraduate Teaching-Minutes (v.), 1934-1941</unittitle>
+                  <container id="aspace_dd9823997e90fdb9f63947eee1234cae" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_t6l" level="file">
+               <did>
+                  <unittitle>Council on Undergraduate Teaching-Minutes, 1941-1949</unittitle>
+                  <container id="aspace_b814ba392cbc10ecff974326198deb35" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_qxo" level="file">
+               <did>
+                  <unittitle>Council on Undergraduate Teaching-Miscellaneous, 1934-1935</unittitle>
+                  <container id="aspace_3e8d841f59994f4d79fb4544bcd4aaf5" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_56x" level="file">
+               <did>
+                  <unittitle>Council on Undergraduate Teaching-Miscellaneous, 1935-1936</unittitle>
+                  <container id="aspace_a530b7e80fc2e3435f3be57ca95bf81f" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_f8y" level="file">
+               <did>
+                  <unittitle>Council on Undergraduate Teaching-Miscellaneous, 1937-1979</unittitle>
+                  <container id="aspace_a317b7bdf194fb250a274d393056f228" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_egf" level="file">
+               <did>
+                  <unittitle>Council on Undergraduate Teaching-Committee Report, undated (circa
+                     1930s)</unittitle>
+                  <container id="aspace_de19c766a75882c6c844cd07e795e080" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_8du" level="file">
+               <did>
+                  <unittitle>Faculty-Committee on the Teaching Load of Instructors, 1940</unittitle>
+                  <container id="aspace_81fa7d64731e9d5ccf44fe3b17b711cd" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_i3e" level="file">
+               <did>
+                  <unittitle>Faculty-Standing Committee on the Curricula, 1941-1946</unittitle>
+                  <container id="aspace_17835d35590a5890dd941c416f9eacae" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_0sq" level="file">
+               <did>
+                  <unittitle>Faculty-Standing Committee on the Curricula-Chairman,
+                     1941-1942</unittitle>
+                  <container id="aspace_6c095af3b06032fe767464815ba8b790" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_do3" level="file">
+               <did>
+                  <unittitle>Faculty-Standing Committee on the Curricula-Secretary,
+                     1941-1942</unittitle>
+                  <container id="aspace_3b63023c2706d824fda8f54affcc434a" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_ux5" level="file">
+               <did>
+                  <unittitle>Commission on Faculty Reorganization, 1951-1952</unittitle>
+                  <container id="aspace_92f3de9879a5915fee387717759a5277" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_mq0" level="file">
+               <did>
+                  <unittitle>Faculty Organization Committee, 1962</unittitle>
+                  <container id="aspace_3f097c04adb5df70027fcbdf7642156d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref56_67x" level="series">
+            <did>
+               <unittitle>Mailings and Miscellaneous Records, 1930-1979</unittitle>
+            </did>
+            <scopecontent id="aspace_dd8a5838e7c4dcf3ffb0fdecaac6d53f">
+               <head>Scope and Contents note</head>
+               <p>Miscellaneous memoranda, reports, notes, and other records apparently distributed
+                  to the faculty, 1940-1979. Materials include correspondence, newspaper clippings,
+                  announcements, memoranda, invitations, minutes, and reports. Topics include:
+                  applying for grants, the Academic Senate, new degree programs, honoraria, faculty
+                  publications, freshman concerns, family educational rights, international
+                  students, regulations for final exams and honor systems, degree candidate lists,
+                  post-war international problems, salary, commencement, long-range planning, the
+                  Woman's Student government Association, Bylaws, University Religious Council,
+                  segregation, attendance policies for undergraduates, and cooperative arrangements
+                  between Duke and UNC. Another subject involves the appointments of the University
+                  Executive Committee, the various departments, new faculty members and tenured
+                  faculty.</p>
+            </scopecontent>
+            <c02 id="aspace_ref57_f2c" level="file">
+               <did>
+                  <unittitle>Faculty-Miscellaneous records, 1930-1953</unittitle>
+                  <container id="aspace_2c041c6ced201f28cccdc80c1159ec1d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_7ul" level="file">
+               <did>
+                  <unittitle>Faculty-Miscellaneous records, 1954-1963</unittitle>
+                  <container id="aspace_695f8b7d937b61a0361d6217e4038196" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_1dc" level="file">
+               <did>
+                  <unittitle>Faculty-Miscellaneous records, 1964-1974</unittitle>
+                  <container id="aspace_834ea680c64d34a13ffe96b66b9ce492" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_tx0" level="file">
+               <did>
+                  <unittitle>Faculty-Miscellaneous records, 1975-1979</unittitle>
+                  <container id="aspace_a94142f3220a17b90e56008fbec5c3ef" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

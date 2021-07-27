@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/trentjosiah/">trentjosiah</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Josiah C. Trent papers, 1536-1961 and undated, bulk 1938-1951
+                  <num>RL.01307</num>
+            </titleproper>
+            <author>Processed by: Willeke Sandler; machine-readable finding aid created by: Paula
+               Jeannet Mangiafico and Willeke Sandler</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2012</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001742079</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-18 11:16:41
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+         <change>
+            <date>2017</date>
+            <item>Description for oversize diplomas and certificates addition processed and encoded
+               by Paula Jeannet Mangiafico.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Josiah C. Trent papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Trent, Josiah C. (Josiah Charles), 1914-1948</persname>
+         </origination>
+         <unitid>RL.01307</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">6.5 Linear Feet</extent>
+            <extent altrender="carrier">9 boxes; 1 oversize folder</extent>
+            <physfacet>approx. 1800 items</physfacet>
+         </physdesc>
+         <unitdate normal="1536/1961" type="inclusive">1536-1961 and undated</unitdate>
+         <unitdate normal="1938/1951" type="bulk">1938-1951</unitdate>
+         <abstract id="aspace_84184485789a556d7fea3e925aabca45">U.S. thoracic surgeon, rare book and
+            manuscript collector. The papers consist mostly of correspondence, printed material,
+            photographs, and lecture notes taken during medical training, as well as diplomas and
+            certificates of residency, and notes and drafts for published and unpublished research
+            and articles. The bulk of the material documents Dr. Trent's activities and publications
+            as collector and historian of medical practice, particularly surgery and epidemiology.
+            There are folders of photographic reproductions of medical texts and illustrations
+            dating from the 16th century to the 20th century, whose content is reflected in the
+            earliest dates for the collection. There is also material relating to Dr. Trent's death
+            and the subsequent donation of his rare book and manuscripts collection to the Duke
+            Medical Center Library, along with condolences and other items related to his wife, Mary
+            Duke Biddle Trent. Acquired as part of the History of Medicine Collections at Duke
+            University.</abstract>
+         <physdesc id="aspace_e0fdb586eef20a46030cf1204f464789">
+            <extent>approximately 1800 items</extent>
+         </physdesc>
+         <langmaterial id="aspace_aa6ae6a58cd8f7f08ccefc3651fa7e4a">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_aa6f9899406d7db8b198a5784b3403d3">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_47e1ab5fb18658552e2844b4cc6582ee">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_6f67edaad02dde8cf3eb0f70c9326cd1">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Josiah C. Trent papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_a6e20e2b45f3e1db622ea157250a6d14">
+         <head>Provenance</head>
+         <p>The Josiah C. Trent Papers were transferred to the David M. Rubenstein Rare Book &amp;
+            Manuscript Library from the Medical Center Library in 2011.</p>
+      </acqinfo>
+      <processinfo id="aspace_18fed4fbfc8113eba49b086838356d2e">
+         <head>Processing Information</head>
+         <p>Processed by Willeke Sandler, May 2012.</p>
+         <p>Encoded by Paula Jeannet Mangiafico and Willeke Sandler, May 2012.</p>
+         <p>Description of diplomas and certificates addition by Paula Jeannet Mangiafico, April
+            2017.</p>
+         <p>All accessions are described in this finding aid.</p>
+      </processinfo>
+      <scopecontent id="aspace_d3e55f164506f7777ddc3c1c898b157c">
+         <head>Collection Overview</head>
+         <p>The Josiah C. Trent papers consist mostly of correspondence, photographs, research
+            files, and notes and drafts of published and unpublished research and articles. Many of
+            these materials concern Dr. Trent's activities and publications as a collector and
+            historian of medical practice, particularly surgery and epidemiology. The collection
+            also includes printed materials, photographs, a card file - possibly of his personal
+            library, and lecture notes taken during his medical training, as well as diplomas and
+            certificates of residency. The Writings series reveals his wide interests in surgery,
+            medicine in general, the humanities, and medical history.</p>
+         <p>There is also material relating to Dr. Trent's death and the subsequent donation of his
+            large rare book, artifact, and manuscript collection to the Duke Medical Center Library.
+            Early dates in the collection refer to the content of reproductions of 16th-19th century
+            medical illustrations rather than their dates of reproduction.</p>
+         <p>The correspondence, found in the Subject Files folders, dates mostly from the 1940s and
+            1950s, documenting Dr. Trent's rare book and manuscript collecting, and his involvement
+            with various professional organizations and his association and friendships with
+            prominent figures in various fields: medical history - John Fulton, Henry Sigerist, W.
+            W. Francis; book collecting - Henry Schuman; Duke University - Wilburt Davison, Lenox D.
+            Baker. Some folders contain an index of the contents. </p>
+         <p>There is also some information concerning Mary Duke Biddle Trent Semans, Dr. Trent's
+            wife, who was instrumental in facilitating the support of the history of medicine
+            collections at Duke. </p>
+         <p>The collection also contains several hundred photographic prints and negatives
+            reproducing medical texts and illustrations dating from the 16th to 20th centuries. The
+            earliest dates in the collection refer to the content of the images, rather than their
+            reproduction by Dr. Trent, Duke Medical Library staff, and others, in the mid-20th
+            century. </p>
+         <p>The files were kept in Dr. Trent's medical office and contain relatively few items which
+            pertain to his private life. Items of a more personal nature may be found in the James
+            H. and Mary Duke Biddle Trent Semans Family Papers in the David M. Rubenstein Rare Book
+            &amp; Manuscript Library.</p>
+         <p>Acquired as part of the History of Medicine Collections at Duke University.</p>
+      </scopecontent>
+      <arrangement id="aspace_91d34e0bb6c7ee99f5017cba01e52359">
+         <head>Collection Arrangement</head>
+         <p>The Josiah C. Trent Papers are arranged in four series: <ref xlink:actuate="onRequest"
+               xlink:show="replace">Medical School Student Papers</ref>; <ref
+               xlink:actuate="onRequest" xlink:show="replace">Subject Files</ref>; <ref
+               xlink:actuate="onRequest" xlink:show="replace">Writings</ref>; and <ref
+               xlink:actuate="onRequest" xlink:show="replace">Photographs</ref>.</p>
+      </arrangement>
+      <relatedmaterial id="aspace_369c5a4a60da7085ff432d55da0e98d4">
+         <head>Related Material</head>
+         <p>Henry and Ida Schuman papers, circa 1930-1990s (contains correspondence with Dr. Trent),
+            David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+         <p>James H. and Mary Duke Biddle Trent Semans Family Papers (record group that forms part
+            of the Semans Family Papers), David M. Rubenstein Rare Book &amp; Manuscript Library,
+            Duke University</p>
+         <p>Dr. Josiah Trent Papers (chiefly professional papers as surgeon), Medical Center
+            Archives, Duke University </p>
+         <p>Trent Manuscripts Collection (over 700 small collections acquired by Dr. Trent; search
+            the term "Forms part of the Trent Manuscripts Collection" in the Duke Libraries
+            catalog), David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Book collecting</subject>
+         <subject source="lcsh">Epidemiology -- History</subject>
+         <subject source="lcsh">History of Medicine</subject>
+         <subject source="lcsh">Medical illustration</subject>
+         <subject source="lcsh">Medicine -- Study and teaching</subject>
+         <subject source="lcsh">Physicians -- United States -- Correspondence</subject>
+         <subject source="lcsh">Surgery -- History</subject>
+         <subject source="lcsh">Collectors and collecting -- North Carolina</subject>
+         <genreform source="aat">Negatives (photographs)</genreform>
+         <genreform source="aat">Photographs</genreform>
+         <corpname source="ingest">Duke University. Medical Center</corpname>
+         <persname source="ingest">Trent, Josiah C. (Josiah Charles), 1914-1948</persname>
+         <corpname source="ingest">University of Pennsylvania. School of Medicine</corpname>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+         <persname source="ingest">Semans, Mary Duke Biddle Trent</persname>
+         <persname source="ingest">Trent, Josiah C. (Josiah Charles), 1914-1948 --
+            Library</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_kpw" level="series">
+            <did>
+               <unittitle>Medical training, papers and diplomas, 1930s-1947</unittitle>
+               <physdesc id="aspace_c90a660aabe095e2adef3f235576d1c7">
+                  <extent>2 boxes; 1 oversize folder</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_d6924add40d89c2afa283d9ace5b071b">
+               <head>Scope and Contents note</head>
+               <p>Chiefly comprises exam materials, lecture notes, and diplomas and certificates
+                  from Dr. Trent's medical training at the University of Pennsylvania, University of
+                  Michigan, Ford Hospital (Michigan), and Duke University Medical School. Also
+                  contains a few medical licenses and society membership certificates, including one
+                  for his wife, Mary Duke Biddle Trent.</p>
+            </scopecontent>
+            <c02 id="aspace_ref15_gco" level="file">
+               <did>
+                  <unittitle>Examinations, 1937-1938</unittitle>
+                  <container id="aspace_79ee21c70da5223974257c9937559796" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_gfz" level="file">
+               <did>
+                  <unittitle>Lecture notes, circa 1930s-1940s</unittitle>
+                  <physdesc id="aspace_e09ea84d57a96626b0f77a04c9eb2ce3">
+                     <extent>5x8 and 4x7 note cards housed in 4 boxes</extent>
+                  </physdesc>
+                  <container id="aspace_583633e54382e669eb6f60a1b12fc910" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_026247444845ee1b68ace3d85a849ea8" level="file">
+               <did>
+                  <unittitle>Diplomas and certificates, 1938-1947</unittitle>
+                  <physdesc id="aspace_bbbe82062df58f2175d329ec69db2b5d">
+                     <extent>9 items</extent>
+                  </physdesc>
+                  <container id="aspace_f4ee55fb492bcd1b19378de21d6021a7" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_9531f3b2d244e7363059e2f5468f8247" level="file">
+               <did>
+                  <unittitle>Medical license to practice in North Carolina, 1940</unittitle>
+                  <container id="aspace_774f22097b19e1ce72a875ad0c95092b" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref19_tx5" level="series">
+            <did>
+               <unittitle>Subject files, 1852-1869, 1927-1961, bulk 1940s-1950s</unittitle>
+               <physdesc id="aspace_cf1ad68300eef7e48acb7e11eb7b8a31">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_532560da35341ef416030085e15ecc8d">
+               <head>Scope and Contents</head>
+               <p>Contains correspondence, notes, and papers, and a library card file, chiefly
+                  relating to Dr. Trent's activities as a collector, and the dedication of the Trent
+                  Collection at the Duke University Medical Center Library in 1949. There is also a
+                  folder of material on Dr. Trent's death, a folder concerning Mary Duke Biddle
+                  Trent, and some financial information. Some folders contain an index and folder
+                  description within. Folders are arranged alphabetically by original titles. A
+                  library card file is also housed in this series, most likely relating to titles in
+                  Dr. Trent's library.</p>
+            </scopecontent>
+            <c02 id="aspace_ref21_j1x" level="file">
+               <did>
+                  <unittitle>100 Most Influential Medical Books, 1946</unittitle>
+                  <container id="aspace_285632295a41dc43015d59723186bdce" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_6rv" level="file">
+               <did>
+                  <unittitle>Accession--ribbon copy, 1940s</unittitle>
+                  <container id="aspace_b5339ccf7b6c5631b3983c7f285fcc45" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_k17" level="file">
+               <did>
+                  <unittitle>Accession--duplicate copy</unittitle>
+                  <container id="aspace_bce206327578959731bc52d3f9677305" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_sx3" level="file">
+               <did>
+                  <unittitle>Angina pectoris, surgical treatment of, 1949</unittitle>
+                  <container id="aspace_3e724497fce97b962750340a607859c2" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_hjd" level="file">
+               <did>
+                  <unittitle>Appraisal, 1956, 1961</unittitle>
+                  <container id="aspace_8dd0108643983078e7805ca80c516665" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_y0b" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Army Medical Library News</title>, 1947-1948</unittitle>
+                  <container id="aspace_94452432522fb4c8abf6485c7763cb29" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_r9d" level="file">
+               <did>
+                  <unittitle>Bibliographical notes</unittitle>
+                  <container id="aspace_d298e06b5ebc6d7b84462559fa51d8b5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_bed" level="file">
+               <did>
+                  <unittitle>Bibliography, 1946</unittitle>
+                  <container id="aspace_a1b0506f414da3d2ef6d1af01516a439" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_vx6" level="file">
+               <did>
+                  <unittitle>Book orders/book dealers, 1944-1948</unittitle>
+                  <container id="aspace_98e8df74671e753468d05d608b38b6ca" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_og2" level="file">
+               <did>
+                  <unittitle>Bookstore, 1949 and undated</unittitle>
+                  <container id="aspace_bc546bfa9359cdf10acfb98cc84b737f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_li2" level="file">
+               <did>
+                  <unittitle>Bronchiectasis</unittitle>
+                  <container id="aspace_99ac2a238279b1253013213d082afb09" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_izi" level="file">
+               <did>
+                  <unittitle>Bronchoscopies, figures on, 1946-1947</unittitle>
+                  <container id="aspace_7ecc7ea26e03f1be53dde08e9b1f97d5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_wfu" level="file">
+               <did>
+                  <unittitle>Bronchoscopy, 1934, 1948</unittitle>
+                  <container id="aspace_1481730d5c9c828069eb3dcba191aa3a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_5ct" level="file">
+               <did>
+                  <unittitle>Card catalog--inquiries, 1943</unittitle>
+                  <container id="aspace_d86f8a7caba04f9da3f5d042b8938de4" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_0mz" level="file">
+               <did>
+                  <unittitle>Certificate [1948]</unittitle>
+                  <container id="aspace_5e2ffcbc0983975446bc7c24ad395f1e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_prs" level="file">
+               <did>
+                  <unittitle>Death of Josiah C. Trent, 1948-1949, 1956-1958</unittitle>
+                  <container id="aspace_b60755b7faa30355d2c8660dd5f90428" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_hqn" level="file">
+               <did>
+                  <unittitle>Dedication of Trent collection, 1949-1957</unittitle>
+                  <container id="aspace_7aba1c4ed497d117b38179f65a681c83" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_dbe" level="file">
+               <did>
+                  <unittitle>Dealers' descriptions, A-F</unittitle>
+                  <container id="aspace_98c51f1fb740369e4ecc0b0fe1c3b708" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_mc0" level="file">
+               <did>
+                  <unittitle>Dealers' descriptions, G-M</unittitle>
+                  <container id="aspace_969a0e7e1e9c74565c818194edc8bdac" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_i8j" level="file">
+               <did>
+                  <unittitle>Dealers' descriptions, M-Z, 1951 and undated</unittitle>
+                  <container id="aspace_787a7d50b8ee8082bdf8976d6de4eb53" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_7uy" level="file">
+               <did>
+                  <unittitle>Duke hospital wards and the eminent men for whom they are named,
+                     1931</unittitle>
+                  <container id="aspace_3e1e0a305daac6f03eac8cf96ecde511" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_3bo" level="file">
+               <did>
+                  <unittitle>Ephemera, 1946-1949</unittitle>
+                  <container id="aspace_e43baef05b077917ef7440ebec03307f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_42bc1d8aedce379401055459c34ca696">
+                  <head>Scope and Contents note</head>
+                  <p>Contains photographs, receipts, stamps, license, membership card, and
+                     invitation.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref44_mcc" level="file">
+               <did>
+                  <unittitle>Esophagus, cancer of, 1929-1941</unittitle>
+                  <container id="aspace_3c390be24bfe81477ca5967b3804573e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_rmc" level="file">
+               <did>
+                  <unittitle>Films, War Department</unittitle>
+                  <container id="aspace_b75d90b4e1f2a22c3ced9bd79384a5b1" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_e86" level="file">
+               <did>
+                  <unittitle>Hospital of San Hipólito</unittitle>
+                  <container id="aspace_2345eaa6e883bced9337aef6c6c51f04" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_p1o" level="file">
+               <did>
+                  <unittitle>Income tax, 1947</unittitle>
+                  <container id="aspace_1feb1a97890a86644d093b78a78c94d1" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_ncw" level="file">
+               <did>
+                  <unittitle>Income tax, 1948</unittitle>
+                  <container id="aspace_54833f1121672424924250bfb71c94f9" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_p92" level="file">
+               <did>
+                  <unittitle>Ivory manikins, 1949</unittitle>
+                  <container id="aspace_ca3095c119c44093182e7451e78ab8b9" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_g8t" level="file">
+               <did>
+                  <unittitle>Johnston, Christopher, 1950</unittitle>
+                  <container id="aspace_6065897539ceb5811b294b2166e27d44" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_1g4" level="file">
+               <did>
+                  <unittitle>Liability policy, 1948</unittitle>
+                  <container id="aspace_d787f690ad74dc007771a5c60a8be28b" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_t2p" level="file">
+               <did>
+                  <unittitle>Lists, etc., 1940, 1943 and undated</unittitle>
+                  <container id="aspace_02c7d5ae99d2d69950281ae31bb58740" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_ej3" level="file">
+               <did>
+                  <unittitle>Lithography</unittitle>
+                  <container id="aspace_a703d90e69fc84a1b3b56cd84da1ff3e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_o0o" level="file">
+               <did>
+                  <unittitle>Memorabilia</unittitle>
+                  <physdesc id="aspace_635fe3120a2d6ce5e11326126708586f">
+                     <extent>Door sign, with "Dr. Trent"</extent>
+                  </physdesc>
+                  <container id="aspace_bccacd8a27682a14bc0cb68105d74867" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_cto" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_13d51010214a607d4b46f0b7d1a52bab" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_m8l" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <physdesc id="aspace_b4cdf63164f037784c213333e6f6d81a">
+                     <extent>3x5 note cards</extent>
+                  </physdesc>
+                  <container id="aspace_f2eb2777b424ef1c84106c91f7f02772" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_pgi" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">New Gould's Medical Dictionary</title>, 1945</unittitle>
+                  <container id="aspace_a1eb67aba381c0d5ab95387837b31f10" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_w1e" level="file">
+               <did>
+                  <unittitle>Osler series, 1949-1950 and undated</unittitle>
+                  <physdesc id="aspace_4ff550f962976ea9ef854ad9abf823b6">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ffa23d21611e0fc145378cd714a9c391" label="Mixed Materials"
+                     type="box">3-4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_5c0" level="file">
+               <did>
+                  <unittitle>Pharmacy jars</unittitle>
+                  <container id="aspace_cc83ef86b5fed5acf38c4f1770c9ebb2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_xe9" level="file">
+               <did>
+                  <unittitle>Reprints, misc., 1936-1948 and undated</unittitle>
+                  <container id="aspace_7002cb59c023fd3fd2f2e13aac73f785" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_04d" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Selected Readings in Historical Medicine,</title>
+                     1947</unittitle>
+                  <container id="aspace_bd4f449432284eaade52c58ff33781a8" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_ium" level="file">
+               <did>
+                  <unittitle>Spurzheim portrait, presentation of, 1927</unittitle>
+                  <container id="aspace_76d79fecffb17cbdf48e4775e8305041" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_fe1" level="file">
+               <did>
+                  <unittitle>Subscription project, 1949-1950</unittitle>
+                  <container id="aspace_645683379ddd7cbd172f1356eea3952b" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_82c" level="file">
+               <did>
+                  <unittitle>Trent, Mary--miscellaneous, 1949-1958 and undated</unittitle>
+                  <container id="aspace_6344e479b760d4cabed9d7dfe853052a" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_agq" level="file">
+               <did>
+                  <unittitle>Trent collection--clippings, notes, and plans, 1940-1961</unittitle>
+                  <container id="aspace_23403a222e63173f12f1876bc905e3ae" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_lw0" level="file">
+               <did>
+                  <unittitle>The Trent family, 1852-1869, 1947-1959</unittitle>
+                  <container id="aspace_5a7c88f07d3ce13e9aeac9610b6eb312" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_1j9" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The U.S. Quarterly Book List</title>, 1947</unittitle>
+                  <container id="aspace_8e7690adf58e6268be4f66895610593d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_874" level="file">
+               <did>
+                  <unittitle>Correspondence on Walt Whitman, 1947-1948</unittitle>
+                  <container id="aspace_02e369dcdabf6b88fa84ed36ffab1159" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_fuc" level="file">
+               <did>
+                  <unittitle>Library card file</unittitle>
+                  <container id="aspace_613f73fafc1a997b5896d49f23856b7f" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+               <scopecontent id="aspace_ee588d983ea352e79ef0b59ad996970c">
+                  <head>Scope and Contents note</head>
+                  <p>Cards are contained in one box and probably derive from Dr. Trent's personal
+                     library.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref75_xal" level="series">
+            <did>
+               <unittitle>Writings, 1941-1949 and undated</unittitle>
+               <physdesc id="aspace_ebe6a2d6bf979569d71e2521768c4172">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_675d6ce0efaef74ffe61db342107704a">
+               <head>Scope and Contents note</head>
+               <p>Contains notes, drafts, and reprints of articles, publications, and presentations
+                  written and given by Dr. Trent. Most are related to historical studies of medical
+                  practices, particularly surgery and epidemiology. Unless noted, items are undated.
+                  Arranged alphabetically by title.</p>
+            </scopecontent>
+            <c02 id="aspace_ref77_ylq" level="file">
+               <did>
+                  <unittitle>Anesthesia, editorial notes, etc.</unittitle>
+                  <container id="aspace_f6c9ef99e30169ac70cd010e6ec450af" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_1bu" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Benjamin Rush in Edinburgh</title>
+                  </unittitle>
+                  <container id="aspace_ae2d139049d166f44dc4bdad30702f14" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_lzc" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Benjamin Waterhouse</title>
+                  </unittitle>
+                  <container id="aspace_fab3cb494a3e2f04b3db47f65810aefd" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_ee9" level="file">
+               <did>
+                  <unittitle>Book reviews, 1945-1948</unittitle>
+                  <container id="aspace_a4971e3441cd003e6a8c49e2e02feca2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_hox" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Chapters in the History of Thoracic Surgery</title>
+                  </unittitle>
+                  <container id="aspace_f038025d3773f3dc613860a9775c88db" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_o21" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">An Evaluation of Extrapleural Pneumonolysis with
+                        Lucite Plombage</title>
+                  </unittitle>
+                  <container id="aspace_6436ff0003baad262cf3e736b95ea1f1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_16t" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Evolution of the Aseptic Principle in
+                        Surgery,</title> 1945-1946</unittitle>
+                  <container id="aspace_ff85d5fa6108f00d942b5bf604123e66" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_2g6" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Five Letters of Marcus Aurelius to....John
+                        Houghton,</title> 1942</unittitle>
+                  <container id="aspace_d78efdd44f6824e8cb586baf3809addf" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_yxq" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Historical Aspects of Aseptic Surgical
+                        Techniques,</title> 1946</unittitle>
+                  <container id="aspace_0bf3145496c63d7a4082e708c5888fdf" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_hs8" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">History of Yellow Fever,</title> 1948</unittitle>
+                  <container id="aspace_1eaf3957e874b50ad3279001c17af258" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_nau" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">John Coakley Lettsom and his Literary
+                        Friends,</title> 1948</unittitle>
+                  <container id="aspace_2d9bfa80db6c23489dfed036ea903ac3" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_3fa" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Ligation of the innominate artery,</title>
+                     1946</unittitle>
+                  <container id="aspace_b7fd964d4c3d6b5df1f1e73f4484a6b4" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_f09" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Medical Supplies in the Confederate Army</title>
+                  </unittitle>
+                  <container id="aspace_27b747fc583313e548eb8eadc88e447b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_ru1" level="file">
+               <did>
+                  <unittitle>Miscellaneous publications, 1947 and undated</unittitle>
+                  <container id="aspace_f93a4214e9322265b84561d597bdc659" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_3mz" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Obstetrics and Gynecology in America,</title> 1947
+                     and undated</unittitle>
+                  <container id="aspace_33d7bd113ea23da66677229e7051bf25" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_uao" level="file">
+               <did>
+                  <unittitle>Panel for American Medical Association, 1947-1948</unittitle>
+                  <container id="aspace_c3c74d3dc2becadab736738635987afd" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_fxy" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Problems of Civil and Military Emergencies,</title>
+                     1941</unittitle>
+                  <container id="aspace_7faa0347ce03895fddb18e43ba222401" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_yrt" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Some comments upon the use of
+                        barbiturates...</title>
+                  </unittitle>
+                  <container id="aspace_52f9c0228ba294dd65f8bb361f6e49af" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_ixo" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Surgical Classics,</title> outline</unittitle>
+                  <container id="aspace_1c789336ab94f4a2d0e27494229c073a" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_iql" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Surgical Therapy of the Patent Ductus
+                        Arteriosus</title>
+                  </unittitle>
+                  <container id="aspace_0ffcaf1921b0f730d727367e2fae6832" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_1w1" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Thumbnail Sketches,</title> first
+                     series</unittitle>
+                  <container id="aspace_a32d5032f913af01c228ebe8f6183048" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_7em" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Thumbnail Sketches,</title> correspondence with Dr.
+                     Trent, 1945-1949</unittitle>
+                  <container id="aspace_1c5d9564bb830888afd4aa8b4ed67423" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_hu2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Thumbnail Sketches,</title> correspondence with
+                     Mrs. Trent, 1949</unittitle>
+                  <container id="aspace_f48f36da6ddcce7843c913a4bff9a87d" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_xa6" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Walt Whitman--a case study</title>
+                  </unittitle>
+                  <container id="aspace_3877ae81ebd29246cb8af19b81947801" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref102_hmo" level="series">
+            <did>
+               <unittitle>Photographs, 1536-1946 and undated</unittitle>
+               <physdesc id="aspace_258ff54541f80c79d98443552c58f2f5">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_b3781bbce100960cc7b4b269cb774e69">
+               <head>Scope and Contents note</head>
+               <p>Contains photographic prints and negatives that are reproductions of medical
+                  illustrations and texts dating from the 16th century to the 20th century. These
+                  dates refer to the content, and not to Dr. Trent's creation of the prints and
+                  negatives, which took place in the 1930s and 1940s. Many of the images are from
+                  German sources and some are housed in the Bettmann Archive. The prints and
+                  negatives are housed separately in 7.5x5.5 and 9x12 inch envelopes and arranged
+                  alphabetically by author or title. Unless otherwise noted, all titles include both
+                  negatives and prints.</p>
+            </scopecontent>
+            <c02 id="aspace_ref104_f94" level="file">
+               <did>
+                  <unittitle>Anatomical figurine. Syphilis. front view</unittitle>
+                  <container id="aspace_b58add4e116d8483673ad5e4b99d4b08" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_txf" level="file">
+               <did>
+                  <unittitle>Anatomical figurine. Syphilis. right side view</unittitle>
+                  <container id="aspace_74f708238b01363c97623682789b7d0b" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_5jm" level="file">
+               <did>
+                  <unittitle>Anatomical figurine. Syphilis. left side view</unittitle>
+                  <container id="aspace_ead4087db7ee4c1c585b455fb2a54c64" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_oh6" level="file">
+               <did>
+                  <unittitle>Anatomical figurine. Syphilis. rear view</unittitle>
+                  <container id="aspace_5076770649d8a471a8e4fabf4b13ede1" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_mlw" level="file">
+               <did>
+                  <unittitle>Antiseptic operation. From: Cheyne, <title render="doublequote"
+                        >Antiseptic Surgery</title>
+                  </unittitle>
+                  <container id="aspace_cf226f4a928978a2efe6560af6580975" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_3g4" level="file">
+               <did>
+                  <unittitle>Appert, <title render="doublequote">The Art of Preserving....</title>
+                     (1811)</unittitle>
+                  <container id="aspace_3581fdb7fb04ef89e8c612572a8f0f0e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_5it" level="file">
+               <did>
+                  <unittitle>Arconville, <title render="doublequote">Essai pour servir à l'histoire
+                        de la putrefaction...</title> (1766)</unittitle>
+                  <container id="aspace_0da519a2cfcea3bb7d71adc784eee365" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_aj2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Awakening call to the children of New
+                        England</title>
+                  </unittitle>
+                  <container id="aspace_0d4380f96b44e1f7df242fa1389e6031" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_crk" level="file">
+               <did>
+                  <unittitle>S. Bard, <title render="doublequote">A compendium of the history and
+                        practice of midwifery...</title> (1807)</unittitle>
+                  <container id="aspace_37da65c5116e21ece025bbc610a23810" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_3x5" level="file">
+               <did>
+                  <unittitle>Bergman operating. From: The Bettmann Archive</unittitle>
+                  <physdesc id="aspace_f43954be7bb82b8e05c56ae097c1d42e">
+                     <extent>print only</extent>
+                  </physdesc>
+                  <container id="aspace_28e0c4d38fe8567484b16d657fb90017" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_2f4" level="file">
+               <did>
+                  <unittitle>Bigelow, <title render="doublequote">Insensibility during surgical
+                        operations...</title> (1846)</unittitle>
+                  <container id="aspace_323e6dfd96b2ac20cf31d97fa5f4b784" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_ypp" level="file">
+               <did>
+                  <unittitle>Billroth operating. From: The Bettmann Archive</unittitle>
+                  <physdesc id="aspace_070a043ea59a2fc13cd3d8dc9244492e">
+                     <extent>print only</extent>
+                  </physdesc>
+                  <container id="aspace_a56a67fe028d99590f062003c6893b6d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_joh" level="file">
+               <did>
+                  <unittitle>Boston Medical and Surgical Journal. Nov. 18, 1846</unittitle>
+                  <container id="aspace_723c71be0c14f7450d3553ca1306094a" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_gcy" level="file">
+               <did>
+                  <unittitle>Dewees, A compendious system of midwifery... (1828)</unittitle>
+                  <container id="aspace_58c53919a4688bcbb4be0c260ebb0280" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_01s" level="file">
+               <did>
+                  <unittitle>Dutertre, Histoire generale des Antilles (1667)</unittitle>
+                  <container id="aspace_867c2b6cb9d007522c4d7ad0d0b9745c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_hv9" level="file">
+               <did>
+                  <unittitle>Gersdorff, Feldtbuch der Wundt-Artzney (1551)</unittitle>
+                  <physdesc id="aspace_5285b4b467f6b348fb97d901a415e5be">
+                     <extent>6 envelopes, prints only</extent>
+                  </physdesc>
+                  <container id="aspace_3a4b920b13b7e12553a8cee8da5a66d0" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_4tn" level="file">
+               <did>
+                  <unittitle>Gorgas, <title render="doublequote">A few general directions...
+                     </title>(1904)</unittitle>
+                  <container id="aspace_4da6108872e1ee730f4f9baa5748d7b5" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_mrq" level="file">
+               <did>
+                  <unittitle>Guenther, <title render="doublequote">Institutions</title>
+                     (1536)</unittitle>
+                  <container id="aspace_7aa0910cfd26b4534d25a197a8aa098a" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_2d2" level="file">
+               <did>
+                  <unittitle>J. Guiteras, <title render="doublequote">Experimental yellow
+                        fever...</title> (1901)</unittitle>
+                  <container id="aspace_223bfda51b52a132857d6ad694281997" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref126_vq0" level="file">
+               <did>
+                  <unittitle>Halsted, <title render="doublequote">Ligature and suture
+                        material...</title> (1913)</unittitle>
+                  <container id="aspace_26692d7b4e0a2747af43372349cb5435" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_4id" level="file">
+               <did>
+                  <unittitle>Halsted, operating. (1904) From: Mac Cullom's <title render="italic"
+                        >Halsted</title>
+                  </unittitle>
+                  <container id="aspace_48d4c2863450e4326f8100becadc03f7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_xpm" level="file">
+               <did>
+                  <unittitle>Harvey, <title render="doublequote">Exercitatio anatomica...</title>
+                     (1628)</unittitle>
+                  <container id="aspace_54c6c0e9ab09bbdfa90204cf3b9fba42" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref129_a39" level="file">
+               <did>
+                  <unittitle>Heister, Laurence. (1731) Pre-antiseptic operation.</unittitle>
+                  <container id="aspace_82f041689a85f9bc0e78fced2c66ab1e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_n4x" level="file">
+               <did>
+                  <unittitle>J. Hester, <title render="doublequote">A hundred and foureteene
+                        experiments...</title> (1596)</unittitle>
+                  <container id="aspace_aff8532889509bf9f98ed2fb771e7b16" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_z9k" level="file">
+               <did>
+                  <unittitle>Holmes, <title render="doublequote">The contagiousness of puerperal
+                        fever</title>
+                  </unittitle>
+                  <physdesc id="aspace_ae6af38cc24e3ca58782ca7d92996f03">
+                     <extent>negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_9a8c68bd424119ecbc1faec333516a3e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_jck" level="file">
+               <did>
+                  <unittitle>J. Hunter, <title render="doublequote">A treatise on the venereal
+                        disease</title> (1786)</unittitle>
+                  <container id="aspace_d5f0f94165e1e752eb492408566f7877" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_3xz" level="file">
+               <did>
+                  <unittitle>Innominate artery... (fig. 1)</unittitle>
+                  <container id="aspace_8a0725923cd7034750bc3b74e42734b4" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_er7" level="file">
+               <did>
+                  <unittitle>Innominate artery... (fig. 2)</unittitle>
+                  <container id="aspace_b794a8c53244c96256a60044ac32c756" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_aqb" level="file">
+               <did>
+                  <unittitle>Innominate artery... (fig. 3)</unittitle>
+                  <container id="aspace_b740ca4e9a0876dd5a008d434c6694a2" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref137_lfp" level="file">
+               <did>
+                  <unittitle>Innominate artery... (fig. 4)</unittitle>
+                  <container id="aspace_83c837b80ddf4e1921fc3d7b05b6bc58" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_t32" level="file">
+               <did>
+                  <unittitle>Innominate artery... (fig. 5)</unittitle>
+                  <container id="aspace_80b01889697694dc27e3202f49d8022e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref139_0rr" level="file">
+               <did>
+                  <unittitle>E. Jenner, <title render="doublequote">An inquiry into the causes and
+                        effects of the variolae vaccinae</title> (1798)</unittitle>
+                  <container id="aspace_dd69099dd28bf666e760ab36f06c839c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref140_eie" level="file">
+               <did>
+                  <unittitle>R. Koch, Gaffky and Loeffler, <title render="doublequote">Versuche über
+                        die Verwerthbarkeit heisser Wasserdämpfe...</title>
+                  </unittitle>
+                  <container id="aspace_63614f4a4292bd9dc4df0a26933d0df0" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref141_b4w" level="file">
+               <did>
+                  <unittitle>Leeuwenhoek</unittitle>
+                  <physdesc id="aspace_1c06f4719dca7e5d240de22fd31704a6">
+                     <extent>4 envelopes, negatives and prints</extent>
+                  </physdesc>
+                  <container id="aspace_c0ccf6ba2c89b2a0984acf2945787797" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref143_7ze" level="file">
+               <did>
+                  <unittitle>Lister, <title render="doublequote">On a new method of treating
+                        compound frature...</title>
+                     <title render="italic">Lancet</title>, June 1867</unittitle>
+                  <container id="aspace_a3b832ceb8d4e4db242074b63664ae7c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_rpz" level="file">
+               <did>
+                  <unittitle>Massachusetts General, operating amphitheater. (1888) From: The
+                     Bettmann Archive</unittitle>
+                  <physdesc id="aspace_b6b9838ab47549be023bc5def4eb70cd">
+                     <extent>print only</extent>
+                  </physdesc>
+                  <container id="aspace_7326bf090323e25f833cf966a44007e5" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_e6w" level="file">
+               <did>
+                  <unittitle>McBurney, operating. From: The Bettmann Archive</unittitle>
+                  <physdesc id="aspace_0d82b7e4790bba69eaa2d439b8a3d495">
+                     <extent>print only</extent>
+                  </physdesc>
+                  <container id="aspace_23f7cd247a0465bdee2828771c22395b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref148_ift" level="file">
+               <did>
+                  <unittitle>Meigs, Charles D. portrait</unittitle>
+                  <physdesc id="aspace_95c80387d6e9fc637fcf07485bc9afb6">
+                     <extent>negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_3c84324fbeef5c5c0ee82b6c445d029d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref150_cfp" level="file">
+               <did>
+                  <unittitle>Morgan, <title render="doublequote">A discourse upon the institution of
+                        medical schools...</title> (1765)</unittitle>
+                  <container id="aspace_a80c9e6db798333d705a3d2e48e3c19b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref151_5lp" level="file">
+               <did>
+                  <unittitle>Valentine Mott, portrait by James Henry Shegogue</unittitle>
+                  <physdesc id="aspace_ebfd3133fbeecd5c0c019f3a95db9913">
+                     <extent>2 envelopes, negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_571ae2cae63b058496bbf18c81375fcb" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref153_qib" level="file">
+               <did>
+                  <unittitle>V. Mott, portrait by James Henry Shegogue, verso</unittitle>
+                  <container id="aspace_935baa38d4f8054107a79184109b6690" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref154_ykz" level="file">
+               <did>
+                  <unittitle>V. Mott, Reflections on securing...</unittitle>
+                  <container id="aspace_695e17e994bd1869d1c2664ac9db2f52" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref155_zor" level="file">
+               <did>
+                  <unittitle>V. Mott, Reflections on securing... (fig. 1)</unittitle>
+                  <container id="aspace_7d31dcaece914219a3770985bf2503b7" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref156_21c" level="file">
+               <did>
+                  <unittitle>V. Mott, Reflections on securing... (fig. 2)</unittitle>
+                  <container id="aspace_5c4e44ad17388f7cdd20e6e069bb169c" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref157_jkm" level="file">
+               <did>
+                  <unittitle>Moynihan and Keen, Surgical masks. From: Moynihan, <title
+                        render="italic">Abdominal operations.</title> 2nd ed.; Keen and DaCosta,
+                     Surgery, vol. V, 1920</unittitle>
+                  <container id="aspace_fb0a7535ce2a95a42f44c1ec27c0a92a" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref158_53r" level="file">
+               <did>
+                  <unittitle>Neuber, <title render="doublequote">Anleitung zur Technik der
+                        antiseptischen Wundbehandlung...</title> (1883)</unittitle>
+                  <container id="aspace_a20749ad9af190dd98330a31b1e08a00" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref159_ly9" level="file">
+               <did>
+                  <unittitle>Neuber, <title render="doublequote">Die aseptische
+                        Wundbehandlung...</title> (1886)</unittitle>
+                  <container id="aspace_fb89a7fda9dcbb292bf7612c3524a1c3" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref160_ilb" level="file">
+               <did>
+                  <unittitle>Neuber, <title render="doublequote">Kurz Beschreibung der aseptische
+                        Wundbehandlung</title> (1892)</unittitle>
+                  <container id="aspace_72f2a1a96cce9e9b2caf5192ab04869d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref161_e6i" level="file">
+               <did>
+                  <unittitle>J. Nott, <title render="doublequote">On the cause of yellow
+                        fever</title>
+                  </unittitle>
+                  <container id="aspace_5612ef75209aa1a94ad46bc6f2886d44" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref162_qu1" level="file">
+               <did>
+                  <unittitle>Oliver, <title render="doublequote">A present to be given to teeming
+                        women...</title> (1694)</unittitle>
+                  <container id="aspace_d297a9e7413f467efe091aeaa5d6bbc5" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref163_hml" level="file">
+               <did>
+                  <unittitle>Pasteur, <title render="doublequote">Etudes sur le vin</title>
+                  </unittitle>
+                  <container id="aspace_c119c650ea53b9e45078f1e220b2b7f7" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref164_hn9" level="file">
+               <did>
+                  <unittitle>Patent ductus. Fig. 1</unittitle>
+                  <physdesc id="aspace_c921f0ce802f297344cd655acba96b59">
+                     <extent>negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_be810bdb0da40c9b030ee04597c06578" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref166_1bu" level="file">
+               <did>
+                  <unittitle>Patent ductus. Fig. 2</unittitle>
+                  <physdesc id="aspace_55597fe265a0eb07a04e6c1906b21c96">
+                     <extent>negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_7a78b2c826d8b24062dce7e9970a19da" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref168_sok" level="file">
+               <did>
+                  <unittitle>Pean, operating. From: The Bettmann Archive</unittitle>
+                  <physdesc id="aspace_717ba3150ac3caf6849c7bc9a6314cbd">
+                     <extent>print only</extent>
+                  </physdesc>
+                  <container id="aspace_f0b27e513ff6c1ba52ef11a066db89c5" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref170_3nq" level="file">
+               <did>
+                  <unittitle>Pringle, <title render="doublequote">Appendix, containing experiments
+                        upon septic...</title>
+                  </unittitle>
+                  <container id="aspace_3cbf4d086896786a45ccbcb99639f536" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref171_583" level="file">
+               <did>
+                  <unittitle>Pringle, <title render="doublequote">Appendix, containing experiments
+                        and observations...</title>
+                  </unittitle>
+                  <container id="aspace_bcefcac94e665032302d025b01cd4b9b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref172_dai" level="file">
+               <did>
+                  <unittitle>Redi, <title render="italic">Experimenta</title> (1671)</unittitle>
+                  <physdesc id="aspace_eb2545269ef365593f73b963e90ce3e1">
+                     <extent>4 envelopes, prints and negatives</extent>
+                  </physdesc>
+                  <container id="aspace_0103f6ab643bf58e12e7835101e73359" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref174_79u" level="file">
+               <did>
+                  <unittitle>W. Reed, et. al. <title render="doublequote">The etiology of yellow
+                        fever...</title> (1900)</unittitle>
+                  <container id="aspace_c65397554fe13c33ee948de73a79793f" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref175_zu2" level="file">
+               <did>
+                  <unittitle>W. Reed, <title render="doublequote">Experimental yellow fever</title>
+                     (1901)</unittitle>
+                  <physdesc id="aspace_2e8d8521528ec720e8532d283ff5a8a8">
+                     <extent>negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_5711f34ad3e456beacdf8a6360224f26" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref177_cq6" level="file">
+               <did>
+                  <unittitle>B. Rush, <title render="doublequote">An account of the bilious
+                        remitting yellow fever</title>
+                  </unittitle>
+                  <container id="aspace_eb585fbe6d12c619342f4ad56d9f8b2d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref178_t03" level="file">
+               <did>
+                  <unittitle>B. Rush, Letter to Dr. John Redman Coxe. (1804) From: John Mitchell,
+                        <title render="doublequote">On yellow fever in Virginia,</title> 1741 and
+                     1742</unittitle>
+                  <container id="aspace_91ef14838aade6469fdb4af8ae3cb3f8" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref179_hju" level="file">
+               <did>
+                  <unittitle>Sachs, <title render="doublequote">Ein Gesprech</title>
+                  </unittitle>
+                  <container id="aspace_77ee25e70935e16ffb6ca4f5708be3f4" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref180_uah" level="file">
+               <did>
+                  <unittitle>Schimmelbusch, <title render="doublequote">Anleitung zur aseptischen
+                        Wundbehandlung</title> (1892)</unittitle>
+                  <container id="aspace_cedd0120e912f3191e7b965706221690" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref181_3gj" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Ein schon geystlich liedt von dem Todt...</title>
+                  </unittitle>
+                  <container id="aspace_81b2ccc8b33779dc282d72168e955917" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref182_h2p" level="file">
+               <did>
+                  <unittitle>Semmelweis, <title render="doublequote">Die offenen Briefe...</title>
+                     (1899)</unittitle>
+                  <container id="aspace_c1c2a40e8cdeeb8f1ed99acbf796d721" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref183_ofn" level="file">
+               <did>
+                  <unittitle>Severinus, De recondita. (1632)</unittitle>
+                  <container id="aspace_d2a5f83e8ced815b351374f8bda92a36" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref184_f18" level="file">
+               <did>
+                  <unittitle>Severinus, Letter to John Houghton (1640), obverse</unittitle>
+                  <container id="aspace_54745798efcf01ebe26dc1032897c3a4" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref185_2bz" level="file">
+               <did>
+                  <unittitle>Severinus, Letter to John Houghton (1640), reverse</unittitle>
+                  <container id="aspace_dce7b383a49ce0320a684b939a3b857b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref186_vpq" level="file">
+               <did>
+                  <unittitle>Severinus, portrait</unittitle>
+                  <container id="aspace_089b8df1a25fd0f82e71045252ed801d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref187_3lj" level="file">
+               <did>
+                  <unittitle>Severinus, <title render="doublequote">Zootomia Democritæa</title>
+                  </unittitle>
+                  <physdesc id="aspace_080bc4016960e3c960953cd576a1ff84">
+                     <extent>4 envelopes, negatives and prints</extent>
+                  </physdesc>
+                  <container id="aspace_7367a4b0583837a0f6f2fa8b10c15e60" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref189_ep7" level="file">
+               <did>
+                  <unittitle>Smythe, Letter (1773)</unittitle>
+                  <container id="aspace_1ae83e8ecdda27c7f65a23ada2c06bed" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref190_4zf" level="file">
+               <did>
+                  <unittitle>Sternberg, <title render="doublequote">Report on the etiology and
+                        prevention of yellow fever</title> (1890)</unittitle>
+                  <physdesc id="aspace_ffd04083aa9e0447f2a3101e561be834">
+                     <extent>negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_cb7206fecfba59743c123bf488f5f66c" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref192_kin" level="file">
+               <did>
+                  <unittitle>J. Sterns. Letter to Mr. S. Akerly (1807)</unittitle>
+                  <physdesc id="aspace_678c861be5299f38e26671b76a6f84e4">
+                     <extent>negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_679dc126ace35cfc47b200a9a7a2f965" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref194_f65" level="file">
+               <did>
+                  <unittitle>Struck, <title render="doublequote">Mittheilungen aus dem kaiserlichen
+                        Gesundheitsamte</title> (1881)</unittitle>
+                  <container id="aspace_77460ecb2df5494335bb0d39c149ba5e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref195_t1b" level="file">
+               <did>
+                  <unittitle>Theodoric of Cervia</unittitle>
+                  <container id="aspace_d7af4b148ec8533a912310710e425450" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref196_w2a" level="file">
+               <did>
+                  <unittitle>Unidentified portrait</unittitle>
+                  <physdesc id="aspace_82cf41823cd8fa94ecbee5fcef911b8f">
+                     <extent>negatives only</extent>
+                  </physdesc>
+                  <container id="aspace_e0dde3762e1dc9bbdec4d219feafb971" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref198_78t" level="file">
+               <did>
+                  <unittitle>Vesalius</unittitle>
+                  <physdesc id="aspace_5a4a6e046abb6f3715cff27559ff85dd">
+                     <extent>prints only</extent>
+                  </physdesc>
+                  <container id="aspace_afa7563e36b11498e9252e4bdf004e1a" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref200_nrz" level="file">
+               <did>
+                  <unittitle>Watts, Mott, and Stevens. <title render="doublequote">The Medical and
+                        Surgical Register</title> (1818)</unittitle>
+                  <container id="aspace_342ac83c6eee3992ad7ca1b99f3dc892" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref201_96y" level="subseries">
+               <did>
+                  <unittitle>Oversize photographs (7.5x10.5 envelopes)</unittitle>
+               </did>
+               <c03 id="aspace_ref202_aqc" level="file">
+                  <did>
+                     <unittitle>Finlay, <title render="doublequote">El mosquito hipoteticamente
+                           considerado como agente...</title>
+                     </unittitle>
+                     <physdesc id="aspace_16ee82d04eec2808801227ecb6c88775">
+                        <extent>prints only</extent>
+                     </physdesc>
+                     <container id="aspace_8a0a2a87889b23343357d2521a40fca5" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_d5aae64f22cd22f4c5cac855a5ca9bb5"
+                        parent="aspace_8a0a2a87889b23343357d2521a40fca5" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref204_qb8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Institutionum anatomicarum secundum
+                           Galeni...</title>
+                     </unittitle>
+                     <physdesc id="aspace_31474814213a2ea2decb773dc12b082e">
+                        <extent>prints only</extent>
+                     </physdesc>
+                     <container id="aspace_4b0bda8fc4468bd5574cb8f9152efe04" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_803aa998bcdcfa5d260ce9f534d49260"
+                        parent="aspace_4b0bda8fc4468bd5574cb8f9152efe04" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref206_z47" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Ein schon geystlich liedt von dem
+                           Todt...</title>
+                     </unittitle>
+                     <physdesc id="aspace_7bb391f986ec9c38d8d7c661478727fc">
+                        <extent>print only</extent>
+                     </physdesc>
+                     <container id="aspace_e82eb4cd364759bf4dd3a1fb7140344d" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_25f2daaac647e56091e341a9a169010c"
+                        parent="aspace_e82eb4cd364759bf4dd3a1fb7140344d" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref208_oz3" level="file">
+                  <did>
+                     <unittitle>Vesalius</unittitle>
+                     <physdesc id="aspace_a029b1bd33c5233872b6a6e65d7d1b1e">
+                        <extent>print only</extent>
+                     </physdesc>
+                     <container id="aspace_faac8621cfb92aba7a9560fe9f538479" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_abe660aedb336a6be2eb74a7b4a1733c"
+                        parent="aspace_faac8621cfb92aba7a9560fe9f538479" type="folder">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref210_8uo" level="subseries">
+               <did>
+                  <unittitle>Oversize photographs (9x12 envelopes)</unittitle>
+               </did>
+               <c03 id="aspace_ref211_hrd" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Institutionum anatomicarum secundum
+                           Galeni...</title>
+                     </unittitle>
+                     <physdesc id="aspace_337cf5f890fbcbdfc4258df15d548a14">
+                        <extent>print, mounted</extent>
+                     </physdesc>
+                     <container id="aspace_eb76298d986fc1bb13ee59359cb97de4" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_efc34275b641cd8aece5d477b79963d1"
+                        parent="aspace_eb76298d986fc1bb13ee59359cb97de4" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref213_20t" level="file">
+                  <did>
+                     <unittitle>Severinus, Letter to John Houghton (1640)</unittitle>
+                     <physdesc id="aspace_7516ec67d7d927db514a975571a28008">
+                        <extent>prints, mounted</extent>
+                     </physdesc>
+                     <container id="aspace_a31638d7651abfa7745af1a7769992c8" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_9fa62514c4e4f3e603512577a4150d6f"
+                        parent="aspace_a31638d7651abfa7745af1a7769992c8" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref215_eex" level="file">
+                  <did>
+                     <unittitle>Severinus, portrait</unittitle>
+                     <physdesc id="aspace_2c9c2f5e8c4f2aede08413f93f9ceab8">
+                        <extent>print, mounted</extent>
+                     </physdesc>
+                     <container id="aspace_5d62ab9f164197330badf87a056833e6" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_c314411318c76712ed8d00ad2a83c398"
+                        parent="aspace_5d62ab9f164197330badf87a056833e6" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref217_f7h" level="file">
+                  <did>
+                     <unittitle>Severinus, <title render="doublequote">Zootomia
+                           Democritæa...</title> (1645)</unittitle>
+                     <physdesc id="aspace_62f315ed17d90d826eb53b3c82ad8862">
+                        <extent>print, mounted</extent>
+                     </physdesc>
+                     <container id="aspace_ff1446c6f41a65676baaa88848ab9f0c" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_e393d9e342131bbee221e12056cd161c"
+                        parent="aspace_ff1446c6f41a65676baaa88848ab9f0c" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref219_0c6" level="file">
+                  <did>
+                     <unittitle>Dr. T. Rush Spencer and staff (1862)</unittitle>
+                     <physdesc id="aspace_653e67728035d68e6dfac9990da8a6f7">
+                        <extent>print only</extent>
+                     </physdesc>
+                     <container id="aspace_3cb1caa127c30ca92b69e920e65218d9" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_de506fc0c3fcbb473addcd75dc5775a7"
+                        parent="aspace_3cb1caa127c30ca92b69e920e65218d9" type="folder">2</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

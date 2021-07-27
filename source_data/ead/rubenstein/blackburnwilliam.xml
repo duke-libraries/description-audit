@@ -1,0 +1,3370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/blackburnwilliam/"
+         >blackburnwilliam</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the William Blackburn Papers, 1859-1985 <num>RL.00115</num>
+            </titleproper>
+            <author>Processed by: Melissa Delbridge, Tania Roy, Dan Breem; machine-readable finding
+               aid created by: Melissa J. Delbridge, Meghan Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003371784</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 12:33:49
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>William Blackburn papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Blackburn, William, 1899-1972</persname>
+         </origination>
+         <unitid>RL.00115</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">20 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1859/1985" type="inclusive">1859-1985</unitdate>
+         <physloc id="aspace_56cdb33b516d1dcce416bd80118165bd">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_11b07bfd15babe88ed37ec50f190977f">William Blackburn was a professor of
+            English and creative writing at Duke University. The collection includes correspondence,
+            writings, teaching materials and notes, biographical and family papers, printed
+            materials, scrapbooks, audiovisual material, and photographs from William Blackburn and
+            his family.</abstract>
+         <physdesc id="aspace_97b76e60f62d7abb280c120c68a5a216">
+            <extent>15,000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_25388e830f3c22bd5ddbe1dcff9403d7">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_2d835d2cba215b098d847f21abe89dcd">
+         <head>Access Restrictions</head>
+         <p>RESTRICTED: Selected correspondence is restricted; see container list for details.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_c22a928e1fc3cf3c32495c0dc0edf509">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_92257e82de4a454cd10cc6a4d063f58b">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], William Blackburn Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_7d86184c13e8e855441a0551350c2f16">
+         <head>Provenance</head>
+         <p>The William Blackburn Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift.</p>
+      </acqinfo>
+      <processinfo id="aspace_753ae45401503da6e9b1b2bd9461559f">
+         <head>Processing Information</head>
+         <p>Processed by Melissa Delbridge, Tania Roy, Dan Breem, December 2003</p>
+         <p>Encoded by Melissa J. Delbridge, December 2003</p>
+         <p>Updated by Meghan Lyon, May 2010</p>
+         <p>Accessions 2007-0129, 2008-0071, 2010-0013 were merged into one collection, described in
+            this finding aid. </p>
+      </processinfo>
+      <bioghist id="aspace_40a3a08159136e758c3ee97fb37f5a1f">
+         <head>Biographical Note</head>
+         <p>William Blackburn was an author, editor, and professor of English and literary
+            composition at Duke University from 1926 until 1969. Born in 1899 to missionaries in
+            Persia, Blackburn spent his childhood in Seneca, South Carolina, and completed his
+            undergraduate studies at Furman University. He was a Rhodes Scholar at Oxford and
+            received his Ph.D. from Yale University in 1943. His academic scholarship was on
+            Elizabethan poetry; later in his career, he also edited the letters of Joseph
+            Conrad.</p>
+         <p>Blackburn's influence at Duke, however, stems from his creative writing classes, where
+            he taught and inspired many students who went on to become prominent contemporary
+            writers. His former students include Fred Chappell, William Styron, Reynolds Price,
+            James Applewhite, and Anne Tyler.</p>
+      </bioghist>
+      <scopecontent id="aspace_05d11f196262eb5c8f5e2fe385ced61c">
+         <head>Collection Overview</head>
+         <p>The William Blackburn papers are arranged in the following series: Correspondence;
+            Writings; Teaching Material; Duke University Literary and Artistic Projects;
+            Biographical Data and Family Papers; Printed Material; Scrapbooks; Audiovisual Material;
+            and Photographs. Correspondence includes Blackburn family letters, letters relating to
+            Blackburn's teaching and career at Duke University, and typescripts of letters by and
+            about Joseph Conrad. Writings include Blackburn's own writings and speeches as well as
+            those of students and his son Alexander Lambert Blackburn. Clippings mostly concern
+            Blackburn's academic work, literary events at Duke in which Blackburn was pivotal, and
+            reviews of the work of his students (including Anne Tyler, William Styron, and Reynolds
+            Price). The collection also includes numerous photographs of family members and some of
+            literary figures.</p>
+         <p>Addition (2007-0129) (200 items; 0.6 lin. ft.; dated 1937-1972) contains correspondence
+            between Blackburn and his daughter, Mary April Blackburn Hill.</p>
+         <p>Addition (2008-0071) (30 items; 0.1 lin. ft.; 1925-1973) includes correspondence between
+            William Blackburn and his brother, Clark, as well as additional papers from Elizabeth
+            Blackburn. Elizabeth's papers include correspondence and two literary compositions. </p>
+         <p>Addition (2010-0013) (200 items; 0.6 lin. ft.; dated 1928-1985) includes correspondence
+            between Blackburn and his wife, Elizabeth, especially during the breakup of their
+            marriage; notes about William Blackburn from his son, Alexander Blackburn; articles,
+            speeches, and clippings; and materials from his students and colleagues.</p>
+      </scopecontent>
+      <controlaccess>
+         <genreform source="aat">Photographs</genreform>
+         <subject source="lcsh">American literature -- Study and teaching</subject>
+         <persname source="ingest">Blackburn, William, 1899-1972</persname>
+         <persname source="ingest">Conrad, Joseph, 1857-1924</persname>
+         <corpname source="ingest">Duke University. Department of English -- Faculty</corpname>
+         <persname source="ingest">Blackburn, William, 1899-1972</persname>
+         <persname source="ingest">Blackburn, Alexander</persname>
+         <famname source="ingest">Blackburn family</famname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_tfo" level="series">
+            <did>
+               <unittitle>Correspondence, 1859-1974 and n.d.</unittitle>
+            </did>
+            <scopecontent id="aspace_541e0723b07b8f73398e2c1f2d54a45c">
+               <head>Scope and Contents note</head>
+               <p>Blackburn's personal and professional correspondence; letters to his students; and
+                  correspondence of several members of his family, especially of his son, Alexander
+                  Lambert Blackburn, his brothers George and Clark Blackburn, and his first wife
+                  Elizabeth Cheney Blackburn. Also contained in the series are copies of letters
+                  written by Joseph Conrad to his publishers and much of the correspondence between
+                  Blackburn and Reynolds Price.</p>
+            </scopecontent>
+            <c02 id="aspace_ref13_rny" level="subseries">
+               <did>
+                  <unittitle>Letters from Various Correspondents</unittitle>
+               </did>
+               <c03 id="aspace_ref14_40a" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1916-1944</unittitle>
+                     <physdesc id="aspace_39c74602e4c792f603f7fba2d9d1d457">
+                        <extent>10 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ff6dd1530e3e0595e9066054efffdf05" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref16_l2x" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1945-1956</unittitle>
+                     <physdesc id="aspace_85ecf1a88a4994b5bb319b88751dd6c0">
+                        <extent>11 folders</extent>
+                     </physdesc>
+                     <container id="aspace_74b05456197198a1fe7aa407e951c21f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref18_qbx" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1957-1964</unittitle>
+                     <physdesc id="aspace_a0e7a7124c80b715da89ace3e0c6e2b9">
+                        <extent>10 folders</extent>
+                     </physdesc>
+                     <container id="aspace_3bdc3eba65ba60188015b5b649f1d9b9" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref20_lvb" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1965-1973 and n.d.</unittitle>
+                     <physdesc id="aspace_87038d7724fc97db1d03d78395a9fe37">
+                        <extent>10 folders</extent>
+                     </physdesc>
+                     <container id="aspace_58aa38b88a2740a63bb4dbdaaff382c1" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref22_m2l" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1970-1972 and n.d.</unittitle>
+                     <physdesc id="aspace_81ccbe26b75fb329db6b212713a86ec5">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_56500b9c522e82cf8c1e42fcf34cb670" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref24_ib5" level="subseries">
+               <did>
+                  <unittitle>Early Extended Family Correspondence, 1859-1915 and n.d.</unittitle>
+               </did>
+               <c03 id="aspace_ref25_di2" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1859-1915 and n.d.</unittitle>
+                     <physdesc id="aspace_76cb987fd84615f4ee41eb5b54e8327e">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_bb18c165e4ac8f6d585eb64e6198cae5" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref27_rhf" level="subseries">
+               <did>
+                  <unittitle>Correspondence with Alexander Lambert Blackburn, 1938-1974 and
+                     n.d.</unittitle>
+               </did>
+               <c03 id="aspace_ref28_lhd" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1938-1946</unittitle>
+                     <physdesc id="aspace_47de07f68b6c525cf6c08622cd4e56c8">
+                        <extent>9 folders</extent>
+                     </physdesc>
+                     <container id="aspace_a3de90d5de37b163a986978465336a58" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref30_bin" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1947-1952</unittitle>
+                     <physdesc id="aspace_95f1a5fb27b78c7f743f89a26cfe8784">
+                        <extent>9 folders</extent>
+                     </physdesc>
+                     <container id="aspace_6fc428e20e7ad215a4bc6cf50ed5bcab" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_xtt" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1952-1964</unittitle>
+                     <physdesc id="aspace_0de7c10afc5109f21fdfdee095b73ce0">
+                        <extent>13 folders</extent>
+                     </physdesc>
+                     <container id="aspace_5e296fa8ff9e4223d9f074a2acab1b06" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_1bs" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1965-1974 and n.d.</unittitle>
+                     <physdesc id="aspace_e0fbed7dc105d3cee4ae93df3ff38cc5">
+                        <extent>9 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ce4fa23216e01f251b63049cca8f3c0e" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref36_lex" level="subseries">
+               <did>
+                  <unittitle>Correspondence with Clark and George Blackburn, 1918-1972 and
+                     n.d.</unittitle>
+               </did>
+               <c03 id="aspace_ref37_bcf" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1918-1972 and n.d.</unittitle>
+                     <physdesc id="aspace_03aea241dd9920f0cde7d7ee12d49079">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_fbf68629dc1d1d62ce05b899bd2737af" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref39_4a2" level="subseries">
+               <did>
+                  <unittitle>Correspondence with Elizabeth Cheney Blackburn, 1926-1972</unittitle>
+               </did>
+               <c03 id="aspace_ref40_hoe" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1926-1972</unittitle>
+                     <physdesc id="aspace_8b6793ff0a3b5a3c1fcd487c0bf9f912">
+                        <extent>8 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0bb0a4a6f9d73064ccc78e82a8aa0169" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref42_lvz" level="subseries">
+               <did>
+                  <unittitle>Letters by and about Joseph Conrad, 1898-1924</unittitle>
+               </did>
+               <c03 id="aspace_ref43_e8y" level="file">
+                  <did>
+                     <unittitle>Letters by and about Conrad, 1898-1924</unittitle>
+                     <physdesc id="aspace_65d226d3d217f055d8d31205c773d3b8">
+                        <extent>8 folders</extent>
+                     </physdesc>
+                     <container id="aspace_7d398ca19b92a9f351fcd927786e3f52" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref45_my2" level="subseries">
+               <did>
+                  <unittitle>Correspondence with Reynolds Price, 1953-1962</unittitle>
+               </did>
+               <c03 id="aspace_ref46_mg6" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1953-1962</unittitle>
+                     <physdesc id="aspace_c090e897410a9f50df9d537a696ef238">
+                        <extent>1 folder</extent>
+                     </physdesc>
+                     <container id="aspace_b5733944f7152dbf251acfbc72dacf6a" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref48_6ea" level="subseries">
+               <did>
+                  <unittitle>Correspondence with William Styron</unittitle>
+               </did>
+               <c03 id="aspace_ref49_tg5" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1944-1973 and n.d.</unittitle>
+                     <container id="aspace_2d9640358dc9503cf8a916e5c01e5ffc" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+                  <accessrestrict id="aspace_e7e52b01bcf7ab9a6c180886af2855be">
+                     <head>Conditions Governing Access note</head>
+                     <p>[Access Restricted.]</p>
+                  </accessrestrict>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref52_sj7" level="series">
+            <did>
+               <unittitle>Writings, 1921-1978 and n.d.</unittitle>
+            </did>
+            <c02 id="aspace_ref53_1xw" level="subseries">
+               <did>
+                  <unittitle>Writings by Blackburn</unittitle>
+               </did>
+               <c03 id="aspace_ref54_3t5" level="subseries">
+                  <did>
+                     <unittitle>Yale University Dissertation</unittitle>
+                     <container id="aspace_672a6ce03de50babd59c93f369d5db5e" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+                  <c04 id="aspace_ref55_6v6" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="doublequote">Matthew Arnold's <emph render="italic"
+                                 >Literature and Dogma</emph>: An Essay Towards a Better
+                              Apprehension of the Bible,</title> 1943</unittitle>
+                        <container id="aspace_a634e3a708fb36bf35f15449d47f7f9a"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref56_sa3" level="subseries">
+                  <did>
+                     <unittitle>Monographs and Edited Books</unittitle>
+                  </did>
+                  <c04 id="aspace_ref57_60w" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Letters of Joseph Conrad to William Blackwood and
+                              David S. Meldrum,</title> TS Drafts of Blackburn's apparatus,
+                           1958</unittitle>
+                        <container id="aspace_637083e1491fcb12cbf3902f30fe65bd"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref58_z6d" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">[Houghton-Mifflin Anthology of English
+                              Literature],</title> Correspondence and Questionnaire,
+                           1947</unittitle>
+                        <container id="aspace_5d1394e9b6ef7f46f051cefffe115d6c"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref59_uki" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">[Houghton-Mifflin Anthology of English
+                              Literature],</title> TS copies of selected poems, 1947</unittitle>
+                        <container id="aspace_486c97cb0f95a4851abe8a2fdce03d43"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref60_do9" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">[Houghton-Mifflin Anthology of English
+                              Literature],</title> TS copies of selected works, 1947</unittitle>
+                        <container id="aspace_f068e6299e087e56efe17e69b70e55ac"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref61_fv5" level="subseries">
+                  <did>
+                     <unittitle>Essays</unittitle>
+                  </did>
+                  <c04 id="aspace_ref62_y8t" level="file">
+                     <did>
+                        <unittitle>Academic essays, 1930-1948 and n.d.</unittitle>
+                        <container id="aspace_21106446e120bd6111e4019bb5911733"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref63_tdy" level="file">
+                     <did>
+                        <unittitle>Academic essays: <title render="doublequote">Lady Magdalen
+                              Herbert and her Son George,</title> Proof TS drafts, publication
+                           correspondence and notes, 1947-1951 and n.d.</unittitle>
+                        <container id="aspace_ebcad7171b17f908bf73744f8464eda3"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref64_169" level="file">
+                     <did>
+                        <unittitle>Non-academic essays and articles, 1928-1945 and n.d.</unittitle>
+                        <container id="aspace_263766c1d6df4e0aff3071473e1f1f5c"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref65_f0e" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="doublequote">An Awareness of the Arts: An Essay in
+                              Retrospect,</title>
+                           <title render="italic">Duke Alumni Register</title>, April
+                           1963</unittitle>
+                        <container id="aspace_ea45f1aa745c4279b224d2628b241b47"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref66_8eu" level="subseries">
+                  <did>
+                     <unittitle>Addresses and Lectures</unittitle>
+                  </did>
+                  <c04 id="aspace_ref67_9eq" level="file">
+                     <did>
+                        <unittitle>Addresses and lectures, 1921; 1942 and n.d.</unittitle>
+                        <container id="aspace_e376ae10b231e80227c3aa4085cb6268"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref68_vbc" level="subseries">
+                  <did>
+                     <unittitle>Book Reviews</unittitle>
+                  </did>
+                  <c04 id="aspace_ref69_1zl" level="file">
+                     <did>
+                        <unittitle>Book reviews by Blackburn, 1946-1962</unittitle>
+                        <container id="aspace_8ab25ca666c8847a1d0445a239e07653"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref70_7b6" level="file">
+                     <did>
+                        <unittitle>Book review of Blackburn's <title render="italic">Letters of
+                              Joseph Conrad to William Blackwood and Devid S. Meldrum</title>,
+                           1959</unittitle>
+                        <container id="aspace_21091c5a595bffdf9ee3c8ce5e8935f4"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref71_v58" level="subseries">
+                  <did>
+                     <unittitle>Blackburn's Appearance on ABC's <title render="italic">Meet the
+                           Professor</title>, 1963</unittitle>
+                  </did>
+                  <c04 id="aspace_ref72_r7f" level="file">
+                     <did>
+                        <unittitle>ABC press release, 1963 (2 copies)</unittitle>
+                        <container id="aspace_5d537f04b14245ea59d6b97d1ddd63e6"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref73_ma6" level="file">
+                     <did>
+                        <unittitle>Partial transcript, published in <title render="italic"
+                              >Mississippi Quarterly</title> 31, 1978</unittitle>
+                        <container id="aspace_b534b260b431dc7f62f8cabfa200e686"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref74_egt" level="subseries">
+                  <did>
+                     <unittitle>Notes and Fragments, n.d.</unittitle>
+                     <container id="aspace_6e0aa1fe927ded7d780074618b844c55" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_rnd" level="subseries">
+                  <did>
+                     <unittitle>Duke University Research Council</unittitle>
+                  </did>
+                  <c04 id="aspace_ref76_cqx" level="file">
+                     <did>
+                        <unittitle>Correspondence and grants, 1946-1955 and n.d.</unittitle>
+                        <container id="aspace_ab7addf8662b940e5cea0d5168518d84"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref77_9ua" level="subseries">
+               <did>
+                  <unittitle>Writings by Others</unittitle>
+               </did>
+               <c03 id="aspace_ref78_lbk" level="file">
+                  <did>
+                     <unittitle>Alexander Lambert Blackburn, <title render="doublequote">Diary of a
+                           Blackburn at Camp Desert Rock Operation,</title> October 1957</unittitle>
+                     <container id="aspace_2d40641e3d5620b0dbcc35ea0db79114" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_kar" level="file">
+                  <did>
+                     <unittitle>Alexander Lambert Blackburn, TS draft, <title render="doublequote"
+                           >The Earthly Comedy,</title> 1971 (2 copies)</unittitle>
+                     <container id="aspace_9f0726b9295d9bebce80a6d23510377d" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_48x" level="file">
+                  <did>
+                     <unittitle>Alexander Lambert Blacburn, ed., <title render="italic"
+                           >Sight</title> 1, June 1953</unittitle>
+                     <container id="aspace_382da7b46da734f24aa24f08f7a921eb" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_baq" level="file">
+                  <did>
+                     <unittitle>Alexander Lambert Blackburn, ed., <title render="italic">Writers
+                           Forum</title> 5, 1978</unittitle>
+                     <container id="aspace_fb5c18c1f877650478c8f122853debe6" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_1xz" level="file">
+                  <did>
+                     <unittitle>Fred Chappell, Six Propositions about Literature and History, <title
+                           render="italic">New Literary History</title> 1, 1970</unittitle>
+                     <container id="aspace_05526e616bc9dfd586ba61fa9b2de152" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref83_1q4" level="file">
+                  <did>
+                     <unittitle>Guy Davenport, <title render="doublequote">The Aeroplanes at
+                           Brescia,</title>
+                        <title render="italic">The Hudson Review</title>, n.d.</unittitle>
+                     <container id="aspace_7b2a1f940a40ff6305e7f52efa4092d5" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_jvm" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., William Blackburn, TS draft, <title render="italic"
+                           >Love, Boy</title>, n.d. (1), no apparatus</unittitle>
+                     <container id="aspace_baa18ad000d209aa6060afe7c9ad3d7d" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref85_o3a" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (2), Hyman to Angelo and Jo Bettoya, 1956-1962 and n.d.</unittitle>
+                     <container id="aspace_07971d6c2a75c884c3029c0c0e63c69e" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_xft" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (3), Hyman to Blackburn, 1947-1963</unittitle>
+                     <container id="aspace_26e5f27c1ea21b4a99c1b410d756c90f" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_jvf" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (4), Hyman to James Oliver Brown, 1953-1963</unittitle>
+                     <container id="aspace_d68d69c3f1a36a7b096527ce1c7e7018" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref88_vya" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (5), Hyman to Dinah and Mitzi Hyman, 1953-1959 and n.d.</unittitle>
+                     <container id="aspace_a6847d3af987ac49ba6c1965b2cc18d7" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref89_aq2" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (6), Hyman to his parents, 1943-1950</unittitle>
+                     <container id="aspace_42f6f0565873076936eb8a777006c456" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref90_mdr" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (7), Hyman to his wife, 1952-1962 and n.d.</unittitle>
+                     <container id="aspace_6dc9fef28097ad162b394e9b07a9a8c9" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref91_v4l" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (8), Hyman to Alvin G. Manuel, 1957-1961 and n.d.</unittitle>
+                     <container id="aspace_026cbe69af24721229a27277330db3b2" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref92_dmm" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (9), Hyman to Random House, Inc., 1954-1960</unittitle>
+                     <container id="aspace_e6ae9303a2e91b32cc246e6c590a4c5a" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref93_gmo" level="file">
+                  <did>
+                     <unittitle>Mac Hyman, ed., Blackburn, <title render="italic">Love, Boy</title>
+                        (10), Hyman to Henry Maxwell Steele, 1954-1962 and n.d.</unittitle>
+                     <container id="aspace_9c2e5a4433c1415548a86d924c69e21f" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref94_dkt" level="file">
+                  <did>
+                     <unittitle>Harry R. Jackson, TS draft, <title render="doublequote">Report on
+                           Allen Building Takeover,</title> 1969</unittitle>
+                     <container id="aspace_a2dac24cf7e0d95eb7c41ef5d4d8fe1c" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref95_ju6" level="file">
+                  <did>
+                     <unittitle>Diane Kelekyan, TS draft, <title render="doublequote">William
+                           Styron: The Child in the Writer,</title> 1972</unittitle>
+                     <container id="aspace_2ba80d2d150510c995d84f4ad9f6b331" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_gvj" level="file">
+                  <did>
+                     <unittitle>Kathryn Vale, <title render="doublequote">A Grain, Perhaps of
+                           Wheat,</title> 1964</unittitle>
+                     <container id="aspace_03491f8407faae2abc70e9a2cc99256c" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref97_2rx" level="series">
+            <did>
+               <unittitle>Course Material</unittitle>
+               <physdesc id="aspace_bc86352c9bc41028a4ead0322660209c">
+                  <extent>11 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref99_t7h" level="subseries">
+               <did>
+                  <unittitle>Lectures, Notes, and Research Clippings</unittitle>
+               </did>
+               <arrangement id="aspace_4e447fa86322a95dec83a065ffc9e699">
+                  <head>Arrangement note</head>
+                  <p>Alpha by subject; quotation marks denote instances in which Blackburn's folder
+                     titles have been retained.</p>
+               </arrangement>
+               <c03 id="aspace_ref100_er5" level="file">
+                  <did>
+                     <unittitle>Joseph Additson and Sir Richard Steele</unittitle>
+                     <container id="aspace_1ed09a1070fc191307c1ca82b1ace711" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref101_fam" level="file">
+                  <did>
+                     <unittitle>Matthew Arnold</unittitle>
+                     <container id="aspace_c3483c40c536bcf531e641f129442286" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref102_v0a" level="file">
+                  <did>
+                     <unittitle>Matthew Arnold and Baruch Spinoza</unittitle>
+                     <container id="aspace_34c812dcc324011418ffdcaf419c3e1b" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref103_hdv" level="file">
+                  <did>
+                     <unittitle>Thomas Arnold</unittitle>
+                     <container id="aspace_f53e77d3086a991141745cb8293a096f" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref104_912" level="file">
+                  <did>
+                     <unittitle>Jane Austen</unittitle>
+                     <container id="aspace_67f50bc4c4f45f684c6c82567df273be" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref105_14y" level="file">
+                  <did>
+                     <unittitle>Francis Beaumont and John Fletcher</unittitle>
+                     <container id="aspace_fd02e6e422b46997e1349caaed3b4a84" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref106_kqb" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Bibliography</title>
+                     </unittitle>
+                     <container id="aspace_013022d620469f9dd80aeba4e1bfac9f" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref107_45r" level="file">
+                  <did>
+                     <unittitle>William Blake</unittitle>
+                     <container id="aspace_a32085e73035db37a2afc03d8f611f78" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref108_p40" level="file">
+                  <did>
+                     <unittitle>Sir Thomas Browne (1 of 2 folders)</unittitle>
+                     <container id="aspace_1ec662291167a13fc3f7552bf7ec08ce" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref109_iur" level="file">
+                  <did>
+                     <unittitle>Sir Thomas Browne (2 of 2 folders)</unittitle>
+                     <container id="aspace_ffef30e96a5233d9329a67990731bda2" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref110_d5c" level="file">
+                  <did>
+                     <unittitle>Robert Browning (2 folders)</unittitle>
+                     <container id="aspace_be1b0b3a278a384ae416e4cbfd9bd62d" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref111_hqe" level="file">
+                  <did>
+                     <unittitle>John Bunyan</unittitle>
+                     <container id="aspace_b529c91845eac1320bcd6ebb5d9b10a5" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref112_vsd" level="file">
+                  <did>
+                     <unittitle>Fanny Burney</unittitle>
+                     <container id="aspace_190549dfabf7d88c46aa444090e58dde" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref113_cxc" level="file">
+                  <did>
+                     <unittitle>Robert Burns</unittitle>
+                     <container id="aspace_b6210f653ab7184f1111e51ac4349c3f" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref114_v4e" level="file">
+                  <did>
+                     <unittitle>George Gordon, Lord Byron</unittitle>
+                     <container id="aspace_cb423b5e261f660196f4edeec0328955" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref115_ban" level="file">
+                  <did>
+                     <unittitle>Thomas Campion</unittitle>
+                     <container id="aspace_f6f1f01404b4ce422dc607db92ae4914" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref116_yir" level="file">
+                  <did>
+                     <unittitle>Thomas Carlyle (4 of 5 folders)</unittitle>
+                     <container id="aspace_257e413a535464b86d7e9d192d364c71" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref117_323" level="file">
+                  <did>
+                     <unittitle>Thomas Carlyle (5 of 5 folders)</unittitle>
+                     <container id="aspace_c1966a60858a1e1a2860b7660055c9ff" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref118_iym" level="file">
+                  <did>
+                     <unittitle>Thomas Carlyle and German Literature</unittitle>
+                     <container id="aspace_8849698cb1ca0e312540f78d531495a9" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref119_hbm" level="file">
+                  <did>
+                     <unittitle>Thomas Carlyle, <title render="italic">Past and Present</title>
+                     </unittitle>
+                     <container id="aspace_1c8eff544d496319cca848bb15a91c28" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref120_0qj" level="file">
+                  <did>
+                     <unittitle>Benvenuto Cellini (2 folders)</unittitle>
+                     <container id="aspace_93df56a0a808374c277ab46901a121d0" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref121_rd4" level="file">
+                  <did>
+                     <unittitle>Philip Dormer Stanhope, Lord Chesterfield</unittitle>
+                     <container id="aspace_ddfb18ecbc2d4d79e0d57b347198d8ad" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref122_43x" level="file">
+                  <did>
+                     <unittitle>Samuel Taylor Coleridge</unittitle>
+                     <container id="aspace_09fdfc9aab9aa86876fb8c9af0ea18da" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref123_c6z" level="file">
+                  <did>
+                     <unittitle>William Collins</unittitle>
+                     <container id="aspace_c44963c3adf6723fe5e95b336d4cd05d" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref124_01j" level="file">
+                  <did>
+                     <unittitle>William Congreve</unittitle>
+                     <container id="aspace_b4b1f71562859539cb7713be7080b7e7" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref125_cyo" level="file">
+                  <did>
+                     <unittitle>Joseph Conrad</unittitle>
+                     <container id="aspace_14ab9a88d85b1bcf6c2ddbc134245fa1" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_uts" level="file">
+                  <did>
+                     <unittitle>William Cowper</unittitle>
+                     <container id="aspace_aceb9be1e8ed73c401f37fd2ce4aeccf" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref127_h9p" level="file">
+                  <did>
+                     <unittitle>Daniel Defoe</unittitle>
+                     <container id="aspace_4cd1d5c95a76892ac36583845e8fabaf" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref128_hwk" level="file">
+                  <did>
+                     <unittitle>Charles Dickens</unittitle>
+                     <container id="aspace_ddf1ee9875fe76c729efcf1bf243c037" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_tgb" level="file">
+                  <did>
+                     <unittitle>John Donne (1 of 2 folders)</unittitle>
+                     <container id="aspace_8a3ebce1bd0a2f649f1e3c9c55e8889f" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref130_evz" level="file">
+                  <did>
+                     <unittitle>John Donne (2 of 2 folders)</unittitle>
+                     <container id="aspace_69616a2dc9a9d10c3f6349ff2739a848" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref131_tn6" level="file">
+                  <did>
+                     <unittitle>John Donne and Izaak Walton</unittitle>
+                     <container id="aspace_6b91d9eeeca9ad7f4bf7f4586a877d9d" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref132_lsv" level="file">
+                  <did>
+                     <unittitle>John Dryden (2 folders)</unittitle>
+                     <container id="aspace_548a804d38856b36184b2af6b78d4cfe" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref133_6l0" level="file">
+                  <did>
+                     <unittitle>Early English drama</unittitle>
+                     <container id="aspace_b1520cdae7d378e498999d66aab52713" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref134_v0f" level="file">
+                  <did>
+                     <unittitle>T.S. Eliot (2 folders)</unittitle>
+                     <container id="aspace_a62c9c633a382a7e71706d6679a9042a" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref135_rej" level="file">
+                  <did>
+                     <unittitle>Elizabethan Prose</unittitle>
+                     <container id="aspace_cb2597fff026d004fd1809b36589d7d3" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref136_wuf" level="file">
+                  <did>
+                     <unittitle>Notes for English 56, <title render="doublequote">The Short
+                           Story</title>
+                     </unittitle>
+                     <container id="aspace_2ea9d3689d04a02db8fe5375b076e0d6" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref137_m6q" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Essays on Eighteenth-Century Thought</title>
+                     </unittitle>
+                     <container id="aspace_f93701aaa1c6e087a4f321507bc124f7" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref138_amf" level="file">
+                  <did>
+                     <unittitle>Henry Fielding, <title render="italic">Tom Jones</title>
+                     </unittitle>
+                     <container id="aspace_c58829aa73daa76f6adfa465e326642d" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref139_d1x" level="file">
+                  <did>
+                     <unittitle>Gustave Flaubert</unittitle>
+                     <container id="aspace_140c835f8586b99c8e350e02fd011f52" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref140_sn9" level="file">
+                  <did>
+                     <unittitle>John Fletcher</unittitle>
+                     <container id="aspace_034dad2aa13e2f4d531c571e55ea924c" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref141_5qs" level="file">
+                  <did>
+                     <unittitle>John Ford</unittitle>
+                     <container id="aspace_df5834981bbe9c86d11a3fb09509180d" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref142_ybn" level="file">
+                  <did>
+                     <unittitle>E.M. Forster</unittitle>
+                     <container id="aspace_efd7af157f53667509b343dcf7f08f89" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref143_0ra" level="file">
+                  <did>
+                     <unittitle>Freud and Literature</unittitle>
+                     <container id="aspace_f316aa038be46c6d9249ee4aa268e7d7" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref144_mqw" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">... from Novelists</title>
+                     </unittitle>
+                     <container id="aspace_bf4fe9b40d361bd815080c5007b64dd8" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref145_463" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Gawain</title>-poet</unittitle>
+                     <container id="aspace_99c848e7e8717419171bd24fd4d3a174" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref146_b95" level="file">
+                  <did>
+                     <unittitle>John Gay</unittitle>
+                     <container id="aspace_7a715ec0ecdb4d635acffca019e13989" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref147_bl3" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">God and the Bible</title>
+                     </unittitle>
+                     <container id="aspace_189893c52159872f012a674918fcf19b" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref148_u2y" level="file">
+                  <did>
+                     <unittitle>Oliver Goldsmith</unittitle>
+                     <container id="aspace_921cefdd9def18d3b0128bca3fe6433d" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref149_vg4" level="file">
+                  <did>
+                     <unittitle>Thomas Gray</unittitle>
+                     <container id="aspace_e9fdfea1160e29ff610c3e5279d6321e" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_nxy" level="file">
+                  <did>
+                     <unittitle>Robert Greene</unittitle>
+                     <container id="aspace_405770924e85737a41d7ec9035eb3f8b" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref151_80c" level="file">
+                  <did>
+                     <unittitle>Greek Tragedy</unittitle>
+                     <container id="aspace_dca396347234a2e8ec781f62a05fe6b9" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref152_lzf" level="file">
+                  <did>
+                     <unittitle>The Harrowing of Hell in Medieval Drama</unittitle>
+                     <container id="aspace_30fb4a0095366ba865728dfb78735eab" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref153_h1l" level="file">
+                  <did>
+                     <unittitle>William Hazlitt</unittitle>
+                     <container id="aspace_2a520b98c4e33565c8c84792c8d6d9ad" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref154_pds" level="file">
+                  <did>
+                     <unittitle>Thomas Heywood</unittitle>
+                     <container id="aspace_72f7dd8a7550618accbde18e507bd8e1" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref155_hs6" level="file">
+                  <did>
+                     <unittitle>Aldous Huxley</unittitle>
+                     <container id="aspace_69067041fc170e9c2f04b321e81f14cf" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref156_w59" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Jacobean Drama: Jonson to Shirley</title>
+                     </unittitle>
+                     <container id="aspace_907c54c1707409424f093828864af06d" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_mo6" level="file">
+                  <did>
+                     <unittitle>Samuel Johnson</unittitle>
+                     <container id="aspace_276505ff1ee8209bf642100938b0618b" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_n4n" level="file">
+                  <did>
+                     <unittitle>Ben Jonson</unittitle>
+                     <container id="aspace_f76bf36b6177bea9fed454a6b801c900" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref159_hml" level="file">
+                  <did>
+                     <unittitle>Ben Jonson, <title render="italic">The Alchemist</title>
+                     </unittitle>
+                     <container id="aspace_4449dac5877027c117932d9bcb04ba05" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref160_1ki" level="file">
+                  <did>
+                     <unittitle>Ben Jonson, <title render="italic">Volpone</title>
+                     </unittitle>
+                     <container id="aspace_d4f4dd6e4249946fd5f4b7e532a25ea6" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_yqo" level="file">
+                  <did>
+                     <unittitle>Ben Jonson and John Donne</unittitle>
+                     <container id="aspace_4e12df7893f630905afc84d35b85c77b" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref162_wox" level="file">
+                  <did>
+                     <unittitle>Ben Jonson's Poetry</unittitle>
+                     <container id="aspace_c77b4a4bedbb05e14620bb99d8884ede" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref163_3r9" level="file">
+                  <did>
+                     <unittitle>James Joyce</unittitle>
+                     <container id="aspace_c6ee8f3754d6882d82276954ea89e429" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_637" level="file">
+                  <did>
+                     <unittitle>John Keats</unittitle>
+                     <container id="aspace_f627918c23f471dbff28a8320185c684" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref165_28d" level="file">
+                  <did>
+                     <unittitle>Henry King and Milton's <title render="doublequote">Lycidas</title>
+                     </unittitle>
+                     <container id="aspace_060cb8bf5447c51820530553581fe0b6" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref166_szv" level="file">
+                  <did>
+                     <unittitle>Thomas Kyd</unittitle>
+                     <container id="aspace_f5c95a945af9c40a32a59156033c2284" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref167_xea" level="file">
+                  <did>
+                     <unittitle>Charles Lamb</unittitle>
+                     <container id="aspace_a4b8ecc6a4313bc74f194147ac509b2a" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref168_dry" level="file">
+                  <did>
+                     <unittitle>William Langland, <title render="italic">Piers Plowman</title>
+                     </unittitle>
+                     <container id="aspace_ffe682471e3d3c6dc023f704956ba1cb" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref169_s5r" level="file">
+                  <did>
+                     <unittitle>D.H. Lawrence</unittitle>
+                     <container id="aspace_38d3688b9200bae01105c8429ec6a8d4" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref170_wy1" level="file">
+                  <did>
+                     <unittitle>T.E. Lawrence</unittitle>
+                     <container id="aspace_197550906f4082c1c13afb81a0c3fb16" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref171_ivo" level="file">
+                  <did>
+                     <unittitle>Thomas Babington Macaulay</unittitle>
+                     <container id="aspace_e434d6576f7539e5c2a1cdb1ca4ef76b" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref172_w1v" level="file">
+                  <did>
+                     <unittitle>Niccolo Machiavelli</unittitle>
+                     <container id="aspace_973e7e5ed1d97af1633cfe365d9fd833" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref173_hhz" level="file">
+                  <did>
+                     <unittitle>Christopher Marlowe, <title render="italic">Doctor Faustus</title>
+                     </unittitle>
+                     <container id="aspace_ba2428ef4db03d0d25cc7267fa1f6f7a" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref174_eet" level="file">
+                  <did>
+                     <unittitle>Christopher Marlowe, <title render="italic">Edward II</title>
+                     </unittitle>
+                     <container id="aspace_1b9228a3e9cffc19462296201c539162" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_ez5" level="file">
+                  <did>
+                     <unittitle>Christopher Marlowe, <title render="doublequote">Hero and
+                           Leander</title>
+                     </unittitle>
+                     <container id="aspace_beb35c0b39ecd8f5cad83c28ede13aa6" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref176_5rn" level="file">
+                  <did>
+                     <unittitle>Christopher Marlowe, <title render="italic">The Jew of Malta</title>
+                     </unittitle>
+                     <container id="aspace_d14b0f5c4c2d27df5700ba5e50d30a90" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref177_6pj" level="file">
+                  <did>
+                     <unittitle>Christopher Marlowe, <title render="italic">Tamburlaine</title>
+                     </unittitle>
+                     <container id="aspace_cbfd6fa1090d9f7efa372779fb0fa8e9" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref178_hp9" level="file">
+                  <did>
+                     <unittitle>Andrew Marvell</unittitle>
+                     <container id="aspace_cbb2f21e0053cae27e51d656e891eb82" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_ryn" level="file">
+                  <did>
+                     <unittitle>Philip Massinger</unittitle>
+                     <container id="aspace_0834387e373029f0b30bbdb018cab7b1" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_zgq" level="file">
+                  <did>
+                     <unittitle>Thomas Middleton</unittitle>
+                     <container id="aspace_8af4237db133fd07bf443b7dc7c684eb" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_sks" level="file">
+                  <did>
+                     <unittitle>Thomas Middleton, Blurt, Master Constable, and Michaelmas
+                        Terme</unittitle>
+                     <container id="aspace_28ff4dad747af1bd2c23ad0d73e868c5" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref182_ymg" level="file">
+                  <did>
+                     <unittitle>John Milton</unittitle>
+                     <container id="aspace_8581847c16d0a76dfe65cdbdbe4f6083" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref183_03f" level="file">
+                  <did>
+                     <unittitle>John Milton, <title render="italic">Areopagitica</title>
+                     </unittitle>
+                     <container id="aspace_56d42529c4a4090659b9a4eeb8c93da4" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref184_pjj" level="file">
+                  <did>
+                     <unittitle>John Milton, <title render="italic">Paradise Lost</title>
+                     </unittitle>
+                     <container id="aspace_4b479204a7b7ec50855a2f6ec074e52c" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_18y" level="file">
+                  <did>
+                     <unittitle>John Milton, <title render="italic">Samson Agonistes</title> (2
+                        folders)</unittitle>
+                     <container id="aspace_d48b9e5684ff49cf26bc610c60bd65c7" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref186_wms" level="file">
+                  <did>
+                     <unittitle>Minor Poets of the Seventeenth Century</unittitle>
+                     <container id="aspace_d06a0915b77c5ef74d3ac9d856950d9a" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref187_aec" level="file">
+                  <did>
+                     <unittitle>Minor Victorian Poets</unittitle>
+                     <container id="aspace_a8d0e2d5851bada7b8e69199d8a3e309" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref188_wer" level="file">
+                  <did>
+                     <unittitle>Miscellaneous</unittitle>
+                     <container id="aspace_64f9e3a48e99de6e5e2ddbc1f3913068" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref189_rb8" level="file">
+                  <did>
+                     <unittitle>Miscellaneous: <title render="doublequote">Religious Essays</title>
+                     </unittitle>
+                     <container id="aspace_9fada34041ede2577210933fdd666c49" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref190_aef" level="file">
+                  <did>
+                     <unittitle>Michel de Montaigne</unittitle>
+                     <container id="aspace_906f2a91b33b1dc5fabf97b6c98a45e5" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref191_jn5" level="file">
+                  <did>
+                     <unittitle>Sir Thomas More</unittitle>
+                     <container id="aspace_a9bc8c7f8a58f7958b16fb106292a704" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref192_ndj" level="file">
+                  <did>
+                     <unittitle>Thomas Nashe</unittitle>
+                     <container id="aspace_221be1a002479baf1595312df63e4d26" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref193_pu0" level="file">
+                  <did>
+                     <unittitle>Margaret Lucas, Daughter of Newcastle</unittitle>
+                     <container id="aspace_30fceb7043926ed3e3a717b8843943d1" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref194_fma" level="file">
+                  <did>
+                     <unittitle>Sir Thomas North</unittitle>
+                     <container id="aspace_4fe7ffda3b69e2c523f50dc1327a3aa0" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref195_38x" level="file">
+                  <did>
+                     <unittitle>Sean O'Casey, <title render="italic">Juno and the Paycock</title>
+                     </unittitle>
+                     <container id="aspace_bcde24c891133822de1deeea91080f18" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref196_t6u" level="file">
+                  <did>
+                     <unittitle>Charles Osgood, <title render="italic">The Voice of England</title>
+                     </unittitle>
+                     <container id="aspace_a2e47fc75d6923c6dd0f4e719e4f5cd4" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_54e" level="file">
+                  <did>
+                     <unittitle>Sir Thomas Overbury</unittitle>
+                     <container id="aspace_f2e03bc219da9b88dc1a56eb97398ce6" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref198_5g6" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Pearl </title>and <title render="italic">Sir Gawain
+                           and the Green Knight</title>
+                     </unittitle>
+                     <container id="aspace_22fa137a5be26556524f7b5bc8bf4b7a" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_jek" level="file">
+                  <did>
+                     <unittitle>Samuel Pepys</unittitle>
+                     <container id="aspace_ed1a30d18abd6c3ce95d4ca6e4944383" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref200_kd7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Periodicals of the Eighteenth and Nineteenth
+                           Centuries</title>
+                     </unittitle>
+                     <container id="aspace_333c9000c51e746421270e861453a8b0" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref201_hvy" level="file">
+                  <did>
+                     <unittitle>Francis Petrarch</unittitle>
+                     <container id="aspace_8db2ad6aacb674e61d73a12c0f39deca" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref202_bfi" level="file">
+                  <did>
+                     <unittitle>Alexander Pope</unittitle>
+                     <container id="aspace_e564165504013e581421251aac613af1" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref203_ltk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Alexander Pope: Lecture Notes</title>
+                     </unittitle>
+                     <container id="aspace_44c40772e1b7981c2c58fc07965b9ce0" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref204_ucn" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Portraits</title>
+                     </unittitle>
+                     <container id="aspace_f4a7727bc356308cf7c8b70d05660e71" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref205_u4w" level="file">
+                  <did>
+                     <unittitle>Pre-Shakespearean Drama</unittitle>
+                     <container id="aspace_915117418a2b3999264dc5acd374acc6" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref206_6z2" level="file">
+                  <did>
+                     <unittitle>Ernest Renan</unittitle>
+                     <container id="aspace_6a8599a790c40b0aea87ffaef32bb532" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref207_bl6" level="file">
+                  <did>
+                     <unittitle>Samuel Richardson</unittitle>
+                     <container id="aspace_15451fc1afdbeaaa65aeb90bfa4d996c" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref208_yz0" level="file">
+                  <did>
+                     <unittitle>Restoration Poets and Dramatists</unittitle>
+                     <container id="aspace_a0e672b1aea610595af9956e6aeab9d1" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref209_fs2" level="file">
+                  <did>
+                     <unittitle>Thomas Sackville</unittitle>
+                     <container id="aspace_0cc933cbb71a248af7ada603625a1c9a" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref210_4lz" level="file">
+                  <did>
+                     <unittitle>St. Paul and Protestantism</unittitle>
+                     <container id="aspace_594ca25bb6e598642804c089305692a5" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref211_fgv" level="file">
+                  <did>
+                     <unittitle>Sir Walter Scott</unittitle>
+                     <container id="aspace_8473e69b5149917d721eab56ff203df0" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref212_0bz" level="file">
+                  <did>
+                     <unittitle>Sir Walter Scott, <title render="italic">Ivanhoe</title>
+                     </unittitle>
+                     <container id="aspace_f11891bd7e04910b26ad78782aa22fb1" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref213_5rh" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Second Shepherd's Play</title>
+                     </unittitle>
+                     <container id="aspace_b85eb4fe7930713a09257232be23d8a3" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref214_9nv" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Seventeenth-Century Poets: Notes and
+                           Essays</title>
+                     </unittitle>
+                     <container id="aspace_aa3fceff8aec576fa1c91143a88e0de8" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref215_n3o" level="file">
+                  <did>
+                     <unittitle>Seventeenth-Century Prose</unittitle>
+                     <container id="aspace_58698a2ab89e0dca06ee36ef3db9d33c" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref216_91o" level="file">
+                  <did>
+                     <unittitle>Richard Brinsley Sheridan</unittitle>
+                     <container id="aspace_c5e92b5c1917f3b2bf5288c54ec6ade1" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref217_ehd" level="file">
+                  <did>
+                     <unittitle>William Shakespeare, <title render="italic">1</title> and <title
+                           render="italic">2 Henry IV</title>
+                     </unittitle>
+                     <container id="aspace_26e6e5c89e9af2d5101d2937b843f266" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref218_2md" level="file">
+                  <did>
+                     <unittitle>William Shakespeare, <title render="italic">Hamlet</title>
+                     </unittitle>
+                     <container id="aspace_c819afc4f6020a3f91190b03838529f7" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref219_i6t" level="file">
+                  <did>
+                     <unittitle>William Shakespeare, <title render="italic">King Lear</title>
+                     </unittitle>
+                     <container id="aspace_3adc06a373b5bb5b5e4adfad19fa0f59" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref220_ezo" level="file">
+                  <did>
+                     <unittitle>William Shakespeare, <title render="italic">Othello</title>
+                     </unittitle>
+                     <container id="aspace_4ac178aa0d05b5204de4badf031032f6" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref221_0l4" level="file">
+                  <did>
+                     <unittitle>William Shakespeare, <title render="italic">Romeo and Juliet</title>
+                     </unittitle>
+                     <container id="aspace_4d59439964f05e2c23550c949a60f532" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref222_a1e" level="file">
+                  <did>
+                     <unittitle>William Shakespeare, <title render="italic">Troilus and
+                           Cressida</title>
+                     </unittitle>
+                     <container id="aspace_f6b685eddb378b31bd27a009eaa1631e" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref223_yx2" level="file">
+                  <did>
+                     <unittitle>William Shakespeare, <title render="italic">Venus and Adonis</title>
+                     </unittitle>
+                     <container id="aspace_78bdfd2a2430b2c9068eee74d961974b" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref224_hs2" level="file">
+                  <did>
+                     <unittitle>George Bernard Shaw</unittitle>
+                     <container id="aspace_f9f83be0903baf86c35cbeb2d24fb927" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref225_j72" level="file">
+                  <did>
+                     <unittitle>Percy Shelley</unittitle>
+                     <container id="aspace_c04889ce622f9be666c1ee1e93e22a88" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref226_8qr" level="file">
+                  <did>
+                     <unittitle>Sir Philip Sidney (2 folders)</unittitle>
+                     <container id="aspace_eda2528b9cda780c7b24c128b71c33a3" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref227_7gv" level="file">
+                  <did>
+                     <unittitle>Tobias Smollett</unittitle>
+                     <container id="aspace_24abae104337fb56103e6d36cff07a83" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref228_nnf" level="file">
+                  <did>
+                     <unittitle>Edmund Spenser, <title render="italic">The Faerie Queene</title>
+                     </unittitle>
+                     <container id="aspace_9602e217d0f98fdd6aee08a9679d5edc" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref229_n9u" level="file">
+                  <did>
+                     <unittitle>Edmund Spenser's Shorter Poetry</unittitle>
+                     <container id="aspace_c20fdc9c283f5c64d41a910f0bb56a7d" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref230_ckw" level="file">
+                  <did>
+                     <unittitle>Baruch Spinoza (2 folders)</unittitle>
+                     <container id="aspace_ce6f17ee9763e3f8ac86fd2803d0826d" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref231_hia" level="file">
+                  <did>
+                     <unittitle>Sir Richard Steele</unittitle>
+                     <container id="aspace_b2c18671827541658a481cf8db1a5ea5" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref232_k3h" level="file">
+                  <did>
+                     <unittitle>John Sterling (2 folders)</unittitle>
+                     <container id="aspace_45c2ff2f75ceef9c2e3dc32ed5592de7" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref233_epp" level="file">
+                  <did>
+                     <unittitle>Laurence Sterne</unittitle>
+                     <container id="aspace_f73b23fe7931fd6b103135398b40c12a" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref234_j8h" level="file">
+                  <did>
+                     <unittitle>Lytton Strachey</unittitle>
+                     <container id="aspace_9d1c3c9e68f090bcd8f6c32d883e8a10" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref235_ahw" level="file">
+                  <did>
+                     <unittitle>Lytton Strachey, <title render="italic">Elizabeth and Essex</title>
+                     </unittitle>
+                     <container id="aspace_254b0193310830b38ab6783bb6012333" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref236_0lc" level="file">
+                  <did>
+                     <unittitle>Lytton Strachley, <title render="italic">Queen Victoria</title>
+                     </unittitle>
+                     <container id="aspace_fe8f218a4c79870484231b2695d0ed06" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref237_de8" level="file">
+                  <did>
+                     <unittitle>Henry Howard, Earl of Surrey and Sir Thomas Wyatt</unittitle>
+                     <container id="aspace_625d6dca43cc0f9323de57801c06d9f3" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref238_eqo" level="file">
+                  <did>
+                     <unittitle>Jonathan Swift</unittitle>
+                     <container id="aspace_2946e194444e8d66005b5e3daf1b820f" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref239_n22" level="file">
+                  <did>
+                     <unittitle>Alfred, Lord Tennyson and Robert Browning-Bibliography</unittitle>
+                     <container id="aspace_829c9f955503c53f3be734ee969e81ca" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref240_bv9" level="file">
+                  <did>
+                     <unittitle>William Makepeace Thackeray</unittitle>
+                     <container id="aspace_2524bb2bf3b51bc187387c98376b31cf" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref241_fmy" level="file">
+                  <did>
+                     <unittitle>William Makepeace Thackeray, <title render="italic">Henry
+                           Esmond</title>
+                     </unittitle>
+                     <container id="aspace_be446ea5d97c8b3c6ea17b256ef8074d" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref242_arb" level="file">
+                  <did>
+                     <unittitle>James Thomson</unittitle>
+                     <container id="aspace_6335d2f25c8d8cbef082f67abc3b5d58" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref243_c93" level="file">
+                  <did>
+                     <unittitle>Cyril Tourneur, <title render="italic">The Revenger's
+                           Tragedy</title>
+                     </unittitle>
+                     <container id="aspace_dac9fd174a1bf8b02ca51613853bec51" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref244_tq7" level="file">
+                  <did>
+                     <unittitle>C.F. Tucker Brooke and Shakespeare</unittitle>
+                     <container id="aspace_64c83e484193eb3251f835c18d314b76" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref245_apv" level="file">
+                  <did>
+                     <unittitle>Tudor Drama</unittitle>
+                     <container id="aspace_8d5f0da4c3d2100b7981cbeb01cefefc" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref246_q1f" level="file">
+                  <did>
+                     <unittitle>Victorian England</unittitle>
+                     <container id="aspace_e75ebcd4417151b33e51cc83878f1775" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref247_89a" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">The Wakefield Master</title>
+                     </unittitle>
+                     <container id="aspace_9b5cb06658e61f5d54d8273610871c2f" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref248_xig" level="file">
+                  <did>
+                     <unittitle>Wakefield <title render="italic">Second Shepherd's Play</title>
+                     </unittitle>
+                     <container id="aspace_f77c4821bc079396c4f94c69ee8cf14f" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref249_i87" level="file">
+                  <did>
+                     <unittitle>Horace Walpole, Letters</unittitle>
+                     <container id="aspace_543ef8f4bebb430bd0e7de4d969a8f0f" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref250_e32" level="file">
+                  <did>
+                     <unittitle>Izaak Walton</unittitle>
+                     <container id="aspace_d4f456a51822ed9b4bc25a4db0dd35e7" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref251_220" level="file">
+                  <did>
+                     <unittitle>Thomas Warton the Elder; Josiah Warton; Thomas Warton the
+                        Younger</unittitle>
+                     <container id="aspace_1b9b6f60a76769118db9dca59ffc91cb" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref252_k0o" level="file">
+                  <did>
+                     <unittitle>John Webster, <title render="italic">The Duchess of Malfi</title>
+                     </unittitle>
+                     <container id="aspace_78df6753f24d96e04d7f567ce4ba85e2" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref253_4rj" level="file">
+                  <did>
+                     <unittitle>John Webster, <title render="italic">The White Devil</title>
+                     </unittitle>
+                     <container id="aspace_07d7661a9bd22e8a11b2c4f277c1bb34" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref254_57a" level="file">
+                  <did>
+                     <unittitle>William Wordsworth</unittitle>
+                     <container id="aspace_edda3418af2b3ae9fda75c7a8b9d376b" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref255_ybj" level="file">
+                  <did>
+                     <unittitle>Sir Thomas Wyatt</unittitle>
+                     <container id="aspace_341221812b3bd44f3923ab854a056b75" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref256_hcg" level="file">
+                  <did>
+                     <unittitle>Edward Young</unittitle>
+                     <container id="aspace_356af7b4c885499137982ed42620f3b7" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref258_7pm" level="subseries">
+               <did>
+                  <unittitle>Student Writings</unittitle>
+               </did>
+               <c03 id="aspace_ref259_uvc" level="file">
+                  <did>
+                     <unittitle>Essays, 1950 and n.d.</unittitle>
+                     <container id="aspace_885330b7366e348a7ad0d7bd89d26f83" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref260_ckv" level="file">
+                  <did>
+                     <unittitle>Poetry, 1937 and n.d.</unittitle>
+                     <container id="aspace_aa4177be48794f7cdd9132ef124289f2" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref261_r83" level="file">
+                  <did>
+                     <unittitle>Short Stories, n.d.</unittitle>
+                     <container id="aspace_fe3846a8d64010f0cd8ae00319d5f35d" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref262_2j2" level="subseries">
+               <did>
+                  <unittitle>Exams, Tests, and Quizzes</unittitle>
+               </did>
+               <c03 id="aspace_ref263_bzx" level="file">
+                  <did>
+                     <unittitle>English 143, 1944-1956 and n.d.</unittitle>
+                     <container id="aspace_1313f9cd465b5da5949484b6abc7882f" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref264_7s7" level="file">
+                  <did>
+                     <unittitle>English 144, 1945-1965 and n.d.</unittitle>
+                     <container id="aspace_519fa0e79cff6579a8ed41ce19003cf8" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref265_6de" level="file">
+                  <did>
+                     <unittitle>English 143 and English 144, unidentified and n.d.</unittitle>
+                     <container id="aspace_53fa2871dbc2c7d2b99855f853707083" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref266_b0p" level="file">
+                  <did>
+                     <unittitle>English S-157, 1950</unittitle>
+                     <container id="aspace_a0fabdb61d04fd5d035aa96625511e05" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref267_21f" level="subseries">
+               <did>
+                  <unittitle>Course Evaluations and Teaching Testimonials</unittitle>
+               </did>
+               <c03 id="aspace_ref268_o59" level="file">
+                  <did>
+                     <unittitle>Evaluations and testimonials, n.d.</unittitle>
+                     <container id="aspace_cdf2ec02c47a7edff8def543a9afdc35" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref269_o82" level="subseries">
+               <did>
+                  <unittitle>Duke University Administrative and Departmental Memoranda</unittitle>
+               </did>
+               <c03 id="aspace_ref270_90r" level="file">
+                  <did>
+                     <unittitle>Memoranda, 1938 and n.d.</unittitle>
+                     <container id="aspace_7d63253ccc0e53a022639266700c3549" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref271_iq4" level="subseries">
+               <did>
+                  <unittitle>Miscellany</unittitle>
+               </did>
+               <c03 id="aspace_ref272_u9s" level="file">
+                  <did>
+                     <unittitle>Miscellaneous material relating to Blackburn's students, 1951-1952
+                        and n.d.</unittitle>
+                     <container id="aspace_72969de3c691e0d3c838a514b5eec97d" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref273_t38" level="series">
+            <did>
+               <unittitle>Duke University Literary and Artistic Projects</unittitle>
+               <physdesc id="aspace_6ca848b3636125c2b39e86c185cb4ebf">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref275_9jp" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">One and Twenty: Duke Narrative and Verse,
+                        1924-1945</title>
+                  </unittitle>
+                  <container id="aspace_44644e6d9d68cf61b1d1ba48b43c2f68" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+               <c03 id="aspace_ref276_j2g" level="file">
+                  <did>
+                     <unittitle>Correspondence related to compilation and publication, 1944-1945 (2
+                        folders)</unittitle>
+                     <container id="aspace_e5eea4ac9b0cd41c2381c3158ae54d84" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref277_pna" level="file">
+               <did>
+                  <unittitle>Commentary on the <title render="italic">Archive</title>
+                  </unittitle>
+               </did>
+               <c03 id="aspace_ref278_770" level="file">
+                  <did>
+                     <unittitle>Clippings and memoranda related to the <title render="italic"
+                           >Archive</title>, 1953-1977 and n.d.</unittitle>
+                     <container id="aspace_5cfbd14e7f1ed696565c647e18637288" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref279_f6b" level="file">
+               <did>
+                  <unittitle>Duke Film Society</unittitle>
+               </did>
+               <c03 id="aspace_ref280_qgh" level="file">
+                  <did>
+                     <unittitle>Memoranda, 1950-1952</unittitle>
+                     <container id="aspace_a0e1d9acff925729a55884194df4942e" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref281_68t" level="file">
+               <did>
+                  <unittitle>Durham Literary Arts Festival</unittitle>
+               </did>
+               <c03 id="aspace_ref282_8lg" level="file">
+                  <did>
+                     <unittitle>Clippings, correspondence related to the festival, 1959-1971 and
+                        n.d.</unittitle>
+                     <container id="aspace_a6e4495c4ffe3a3820e2d6e7b2b1fa91" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref283_718" level="series">
+            <did>
+               <unittitle>Biographical Data and Family Papers</unittitle>
+               <physdesc id="aspace_c14cd8a87baf78af41422617c5bd5c7d">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref285_k30" level="subseries">
+               <did>
+                  <unittitle>Legal and Financial Papers</unittitle>
+                  <container id="aspace_69d1b64f6c0df4a644eb97451cc91531" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+               <c03 id="aspace_ref286_moa" level="file">
+                  <did>
+                     <unittitle>Blackburn's passports, 1923-1970</unittitle>
+                     <container id="aspace_308e785bf9b2163d28f0635219bdcd76" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref287_0ob" level="file">
+                  <did>
+                     <unittitle>Alien regisration documents for Blackburn's residences in Oxford and
+                        in Paris, 1923 and 1925</unittitle>
+                     <container id="aspace_e69651f5e130fbfeee47fe622c381312" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref288_z00" level="file">
+                  <did>
+                     <unittitle>Blackburn's notices of rank and salary, Duke University,
+                        1933-1968</unittitle>
+                     <container id="aspace_f546a6e97ed16e62064321c834feed17" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref289_dtu" level="file">
+                  <did>
+                     <unittitle>Elizabeth Cheney Blackburn's response to Blackburn's divorce action,
+                        1951</unittitle>
+                     <container id="aspace_fe227df32eef7159c8e191b65898e2d4" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref290_be1" level="file">
+                  <did>
+                     <unittitle>Blackburn's Duke pay stubs, 1954-1969</unittitle>
+                     <container id="aspace_37022f2f32bde15435dcdb1f78435c61" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref291_nim" level="file">
+                  <did>
+                     <unittitle>Blackburn's federal and North Carolina state income tax returns,
+                        1959-1965</unittitle>
+                     <container id="aspace_8a0e71e8604cc06245cc7dd05b1b6eb6" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref292_ww8" level="file">
+                  <did>
+                     <unittitle>Wachovia trust agreement, 1963-1964</unittitle>
+                     <container id="aspace_409d438743f06a2f21474d5a0ce4255e" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref293_9l5" level="file">
+                  <did>
+                     <unittitle>Life insurance premium contribution notice, n.d.</unittitle>
+                     <container id="aspace_99dd470c21dfe9d7a81bbd26142d8f07" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref294_p3h" level="subseries">
+               <did>
+                  <unittitle>Family Papers</unittitle>
+               </did>
+               <c03 id="aspace_ref295_doc" level="file">
+                  <did>
+                     <unittitle>Blackburn</unittitle>
+                  </did>
+                  <c04 id="aspace_ref296_o91" level="file">
+                     <did>
+                        <unittitle>Academic records</unittitle>
+                     </did>
+                     <c05 id="aspace_ref297_7le" level="file">
+                        <did>
+                           <unittitle>Academic records, 1921-1943 and n.d.</unittitle>
+                           <container id="aspace_c77e82160f93ae2c75aef13b14db7d64"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                        <accessrestrict id="aspace_25d1dc20f8601127a01a97ed2403ea1c">
+                           <head>Conditions Governing Access note</head>
+                           <p>Grade reports are restricted.</p>
+                        </accessrestrict>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref299_qek" level="file">
+                     <did>
+                        <unittitle>Material relating to Blackburn's life at Furman</unittitle>
+                     </did>
+                     <c05 id="aspace_ref300_mks" level="file">
+                        <did>
+                           <unittitle>
+                              <title render="italic">The Bonhomie</title>, 1921</unittitle>
+                           <container id="aspace_b13bd610295271ceeb67b1dac2a5926a"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref301_zjq" level="file">
+                        <did>
+                           <unittitle>
+                              <title render="doublequote">Buzzing Boosters Club,</title> 1920 and
+                              n.d.</unittitle>
+                           <container id="aspace_250e23b440d9ac84a5e73038bd1ce846"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref302_2u8" level="file">
+                        <did>
+                           <unittitle>Campus and intercollegiate oratorical contests,
+                              1920-1921</unittitle>
+                           <container id="aspace_d14478ffb21617f7eef5b43246bb0328"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref303_obn" level="file">
+                        <did>
+                           <unittitle>Commencement, 1921</unittitle>
+                           <container id="aspace_6e0cfe34dc76f787e6967a9816904d2a"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref304_haa" level="file">
+                        <did>
+                           <unittitle>Furman Glee Club programs, notices, 1918-1920 and
+                              n.d.</unittitle>
+                           <container id="aspace_a0288d5df231dee9378139826a8d3303"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref305_zi0" level="file">
+                        <did>
+                           <unittitle>
+                              <title render="italic">The Furman Hornet</title>, 1921 February
+                              19</unittitle>
+                           <container id="aspace_b4bdc7cf6472910c9cfb96698f31ef95"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref306_20r" level="file">
+                        <did>
+                           <unittitle>Pi Kappa Alpha Fraternity, 1921 and n.d.</unittitle>
+                           <container id="aspace_a7fac75720121a635da10179577a61fa"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref307_s2k" level="file">
+                        <did>
+                           <unittitle>Miscellany, 1921 and n.d.</unittitle>
+                           <container id="aspace_d3fc32446bd2d018505f8a87408ccb76"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref308_ren" level="file">
+                     <did>
+                        <unittitle>Material relating to Blackburn's life in Florence</unittitle>
+                     </did>
+                     <c05 id="aspace_ref309_vr9" level="file">
+                        <did>
+                           <unittitle>1945 and n.d.</unittitle>
+                           <container id="aspace_a11cc806b110f4c77f12beb7feb68722"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref310_rzn" level="file">
+                        <did>
+                           <unittitle>Blackburn's return to the U.S. aboard the <title
+                                 render="italic">USS Randolph</title>, 1945 and n.d.</unittitle>
+                           <container id="aspace_9571e8b6132ee24f600eca9755fcb239"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref311_n0t" level="file">
+                     <did>
+                        <unittitle>Material relating to Blackburn's publications, 1969 and
+                           n.d.</unittitle>
+                        <container id="aspace_e9e7966fa2a71cf385d0c1bf144f0300"
+                           label="Mixed Materials" type="box">26</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref312_sxe" level="file">
+                     <did>
+                        <unittitle>Material relating to Blackburn's Rhodes Scholarship,
+                           1919-1924</unittitle>
+                        <container id="aspace_0c2f546653cf2c42f3b6a1e3ce255351"
+                           label="Mixed Materials" type="box">26</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref313_ch1" level="file">
+                  <did>
+                     <unittitle>Blackburn's Family</unittitle>
+                  </did>
+                  <c04 id="aspace_ref314_e8r" level="file">
+                     <did>
+                        <unittitle>Alexander Lambert Blackburn</unittitle>
+                     </did>
+                     <c05 id="aspace_ref315_34d" level="file">
+                        <did>
+                           <unittitle>Academic records, 1944-1955</unittitle>
+                           <container id="aspace_9965791acf4bef542fcd38ca1e846f67"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                        <accessrestrict id="aspace_67138232dd07063205e0a134f848881f">
+                           <head>Conditions Governing Access note</head>
+                           <p>Grade reports are restricted.</p>
+                        </accessrestrict>
+                     </c05>
+                     <c05 id="aspace_ref317_zbv" level="file">
+                        <did>
+                           <unittitle>Material relating his life at the Phillips Academy, 1946-1947
+                              and n.d.</unittitle>
+                           <container id="aspace_9aeb7ca5d766c5eec491cea5489d9c8d"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref318_ech" level="file">
+                        <did>
+                           <unittitle>Material relating to his life at Yale, 1948</unittitle>
+                           <container id="aspace_87904859e5d08d096825f3323e90d88f"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref319_9hn" level="file">
+                     <did>
+                        <unittitle>Clark Waring Blackburn</unittitle>
+                     </did>
+                     <c05 id="aspace_ref320_lqj" level="file">
+                        <did>
+                           <unittitle>Material relating to his life in Greenville, South Carolina,
+                              1938</unittitle>
+                           <container id="aspace_7c0a80d6dcce9d17f756775ec6049c80"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref321_opz" level="file">
+                     <did>
+                        <unittitle>George Stebbins Blackburn</unittitle>
+                     </did>
+                     <c05 id="aspace_ref322_ait" level="file">
+                        <did>
+                           <unittitle>Academic records, 1919</unittitle>
+                           <container id="aspace_8ce079b597bc27e9a8a12d79654ffa53"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref323_8r6" level="file">
+                        <did>
+                           <unittitle>Material relating to his life at Furman, 1920-1922</unittitle>
+                           <container id="aspace_8f9b1adef2e9fde3f86b2c9ac1101507"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref324_pxe" level="file">
+                        <did>
+                           <unittitle>Material relating to his life at Yale, 1925-1926 (2
+                              folders)</unittitle>
+                           <container id="aspace_09a164569aa2247f2fbe4da731c2b393"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref325_49y" level="file">
+                        <did>
+                           <unittitle>Material relating to his work as an educator,
+                              1935-1942</unittitle>
+                           <container id="aspace_caf6c7972c3e58b8d26b2a460ac08231"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref326_p48" level="file">
+                     <did>
+                        <unittitle>Mary April Blackburn</unittitle>
+                     </did>
+                     <c05 id="aspace_ref327_axd" level="file">
+                        <did>
+                           <unittitle>Material relating to her education, 1944-1947</unittitle>
+                           <container id="aspace_727c980c3f0e42ea0bec6b4e1c58eff4"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref328_77w" level="file">
+                     <did>
+                        <unittitle>George Cole Stebbins</unittitle>
+                     </did>
+                     <c05 id="aspace_ref329_lm1" level="file">
+                        <did>
+                           <unittitle>Material relating to his work in the ministry, 1931 and
+                              1942(?)</unittitle>
+                           <container id="aspace_2d66183f276cd7408479a45095af419a"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref330_w4o" level="file">
+                     <did>
+                        <unittitle>Clark Waring</unittitle>
+                     </did>
+                     <c05 id="aspace_ref331_hid" level="file">
+                        <did>
+                           <unittitle>Academic records, 1906 and 1908</unittitle>
+                           <container id="aspace_609ab30325709d0b94d24f0f47739195"
+                              label="Mixed Materials" type="box">26</container>
+                        </did>
+                     </c05>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref332_k0r" level="subseries">
+               <did>
+                  <unittitle>Writings By and For Family Members</unittitle>
+               </did>
+               <c03 id="aspace_ref333_nwg" level="file">
+                  <did>
+                     <unittitle>Author unidentified-Notebook, 1896(?)</unittitle>
+                     <container id="aspace_627659abced3b8476fce60c5fc3be5b2" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref334_kip" level="file">
+                  <did>
+                     <unittitle>Authors unidentified, 1882, 1894, 1945, and n.d.</unittitle>
+                     <container id="aspace_fea0dc914a5187189f77c4347cb40b3b" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref335_zc4" level="file">
+                  <did>
+                     <unittitle>Blackburn, 1945 and n.d.</unittitle>
+                     <container id="aspace_ebe3831eea1792a5d2157f81e91d6c66" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref336_pgq" level="file">
+                  <did>
+                     <unittitle>Blackburn, Biography, n.d.</unittitle>
+                     <container id="aspace_9a12f0117f2daf1ba6d0a79a53ea2896" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref337_nl8" level="file">
+                  <did>
+                     <unittitle>Alexander Lambert Blackburn, 1939-1968 and n.d.</unittitle>
+                     <container id="aspace_e0a52b4e6e43f09e74c5a5264989acfe" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref338_p7b" level="file">
+                  <did>
+                     <unittitle>Amy Waring Blackburn</unittitle>
+                  </did>
+                  <c04 id="aspace_ref339_yl4" level="file">
+                     <did>
+                        <unittitle>William Blackburn's <title render="doublequote">Baby
+                              Book,</title> 1900</unittitle>
+                        <container id="aspace_04773546491549b0add5629a8b329314"
+                           label="Mixed Materials" type="box">27</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref340_tq2" level="file">
+                     <did>
+                        <unittitle>Journal, chronicling William Blackburn's infancy and daily life
+                           in Persia, 1900-1904</unittitle>
+                        <container id="aspace_0211fce5ab0c05b4b621b56726ead485"
+                           label="Mixed Materials" type="box">27</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref341_ydf" level="file">
+                     <did>
+                        <unittitle>Short stories, 1912</unittitle>
+                        <container id="aspace_e494c1423ea8a693993ebecf62af37ea"
+                           label="Mixed Materials" type="box">27</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref342_r6s" level="file">
+                  <did>
+                     <unittitle>Charles Stanley Blackburn--Biography, n.d.</unittitle>
+                     <container id="aspace_896eff18ed0982f48ceab6d48cdcec8a" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref343_zk7" level="file">
+                  <did>
+                     <unittitle>Charles Stanley Blackburn and Amy Waring Blackburn--Biography,
+                        1896</unittitle>
+                     <container id="aspace_2605bb5c7207829340bd18614054e6cb" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref344_u68" level="file">
+                  <did>
+                     <unittitle>Charles Stanley and Amy Waring Blackburn, records of missionary work
+                        in Persia, 1897-1902 and n.d.</unittitle>
+                     <container id="aspace_b7e28a8ce613c4618ab6993bec5776cd" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref345_qrc" level="file">
+                  <did>
+                     <unittitle>David Blackburn, 1971</unittitle>
+                     <container id="aspace_ae6d73b9a447750db198c5c18b39ef7c" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref346_mqg" level="file">
+                  <did>
+                     <unittitle>William Maxwell Blackburn--Biography, 1899 and n.d.</unittitle>
+                     <container id="aspace_9aa9006e76cfd5099644139036523975" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref347_g8j" level="file">
+                  <did>
+                     <unittitle>William Maxwell Blackburn</unittitle>
+                  </did>
+                  <c04 id="aspace_ref348_6un" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="doublequote">Constantine the Great,</title>
+                           1868(?)</unittitle>
+                        <container id="aspace_64bec701af9da176d5cbaaa60beed994"
+                           label="Mixed Materials" type="box">27</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref349_y4z" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="doublequote">Oliver Cromwell,</title> 1873(?)</unittitle>
+                        <container id="aspace_f4473ca7b0e6f913589c35a3c63f054b"
+                           label="Mixed Materials" type="box">27</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref350_a24" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="doublequote">Maps and Charts for Bible History,</title>
+                           January 1880</unittitle>
+                        <container id="aspace_a1d973ce617bb179b942a7290fa7d239"
+                           label="Mixed Materials" type="box">27</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref351_gx2" level="file">
+                     <did>
+                        <unittitle>Notes on geology and natural history, 1874(?)-1896(?) (1 of 2
+                           folders)</unittitle>
+                        <container id="aspace_91546ba5ed59668fbf58ecbf17880b1a"
+                           label="Mixed Materials" type="box">27</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref352_3dr" level="file">
+                     <did>
+                        <unittitle>Notes on geology and natural history, 1874(?)-1896(?) (2 of 2
+                           folders)</unittitle>
+                        <container id="aspace_420258cb20b11399546e4c8569080802"
+                           label="Mixed Materials" type="box">28</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref353_nup" level="file">
+                     <did>
+                        <unittitle>Notes on religion, n.d.</unittitle>
+                        <container id="aspace_d2d06aad1e7148a2af93391bdeece17a"
+                           label="Mixed Materials" type="box">28</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref354_r92" level="file">
+                     <did>
+                        <unittitle>Queen Elizabeth and the Reformation, 1885(?)</unittitle>
+                        <container id="aspace_aa19111d3d015aaf343ca1100b4fdecc"
+                           label="Mixed Materials" type="box">28</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref355_soz" level="file">
+                  <did>
+                     <unittitle>Eugene Grant, n.d.</unittitle>
+                     <container id="aspace_f54db6954f51663cdd03e3ac614c9d51" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref356_4kg" level="file">
+                  <did>
+                     <unittitle>Linn Taylor, n.d.</unittitle>
+                     <container id="aspace_def384cdc11f1a66bdce0f08f611d8e3" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref357_4up" level="file">
+                  <did>
+                     <unittitle>Malvina Waring, 1889(?) and n.d.</unittitle>
+                     <container id="aspace_894f65a46cc34b1f096fa7a5a9b45613" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref358_rpi" level="subseries">
+               <did>
+                  <unittitle>William Blackburn Scholarship Fund, 1973-1985</unittitle>
+                  <container id="aspace_36d2520d1aae69574d17e2a75610085f" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref359_8a1" level="subseries">
+               <did>
+                  <unittitle>Blackburn memorial service, 1972</unittitle>
+                  <container id="aspace_ea8a76d227e6873d4771a12a5e48fb5b" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref360_5va" level="subseries">
+               <did>
+                  <unittitle>Blackburn tribute, <title render="italic">Duke Alumni Register</title>
+                  </unittitle>
+               </did>
+               <c03 id="aspace_ref361_vc3" level="file">
+                  <did>
+                     <unittitle>Winter 1973</unittitle>
+                     <container id="aspace_eda3eee53492069504dc967c57a6a54f" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref362_3f7" level="file">
+                  <did>
+                     <unittitle>Partial clipping, Winter 1973</unittitle>
+                     <container id="aspace_7e8c16a1dee29a687d08dea59745bca4" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref363_zx8" level="subseries">
+               <did>
+                  <unittitle>Miscellany and Memorabilia</unittitle>
+               </did>
+               <c03 id="aspace_ref364_6hm" level="file">
+                  <did>
+                     <unittitle>Poems collected by Blackburn, 1916-1919 and n.d.</unittitle>
+                     <container id="aspace_7e6fb8f2814b731656226e2b9ecd318b" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref365_a8f" level="file">
+                  <did>
+                     <unittitle>Blackburn--Poetry readings, 1956, 1965 and n.d.</unittitle>
+                     <container id="aspace_32a7a5eed1756b3ee42e6283a2f39cda" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref366_sd8" level="file">
+                  <did>
+                     <unittitle>Blackburn--Donations to Perkins Library, Duke University, 1969 and
+                        1977</unittitle>
+                     <container id="aspace_9739d8c058d0c66b00aab6683e57bcfa" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref367_ci2" level="file">
+                  <did>
+                     <unittitle>Miscellany, n.d.</unittitle>
+                     <container id="aspace_5ed88268b388c5e58aceff95335727da" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref368_0oq" level="file">
+                  <did>
+                     <unittitle>Memorabilia, 1862-1921 and n.d.</unittitle>
+                     <container id="aspace_e845f8ea9ab56351558b7e7a9e268066" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref369_aqm" level="series">
+            <did>
+               <unittitle>Clippings</unittitle>
+               <physdesc id="aspace_91ead4bfc99020f57b2e67020610ddbe">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref371_xc6" level="file">
+               <did>
+                  <unittitle>Clippings related to life at Furman, his Rhodes Scholarship</unittitle>
+                  <container id="aspace_b8d6925994b9d3db1fdeb889d9810cf0" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref372_iiv" level="file">
+               <did>
+                  <unittitle>Clippings related to Duke, life in Durham</unittitle>
+                  <container id="aspace_e829d6c6ebed7bc93c2288718dda7526" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref373_hou" level="file">
+               <did>
+                  <unittitle>Clippings related to his family</unittitle>
+                  <container id="aspace_4bd61a4ce6308f32af68d6021abbf5d9" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref374_mn0" level="file">
+               <did>
+                  <unittitle>Clippings of reviews of his writings</unittitle>
+                  <container id="aspace_9f60afad2e560fb5eb7920b29145b267" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref375_epw" level="file">
+               <did>
+                  <unittitle>Articles by and about Blackburn's students</unittitle>
+                  <container id="aspace_3275251cff0d8f8891986d1a4a183839" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref376_zo9" level="series">
+            <did>
+               <unittitle>Printed Material</unittitle>
+               <physdesc id="aspace_7cc0aa0dafa33568448ad2d97ebe76e4">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref378_1q7" level="file">
+               <did>
+                  <unittitle>Periodicals</unittitle>
+                  <container id="aspace_0548ae5ab432a7984690e2c06ec2aae8" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+               <c03 id="aspace_ref379_776" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The American Oxonian</title>, April 1946</unittitle>
+                     <container id="aspace_622c6eaf7df0a702e59bec90ee5482e3" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref380_8zd" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Furman Echo</title>,</unittitle>
+                     <container id="aspace_dbc42f6d98650ba2a8dcbbf76dec4bd0" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+                  <c04 id="aspace_ref381_xe0" level="file">
+                     <did>
+                        <unittitle>December 1917</unittitle>
+                        <container id="aspace_2e86fb70af67e03acb116030af1a63be"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref382_u9q" level="file">
+                     <did>
+                        <unittitle>June 1919</unittitle>
+                        <container id="aspace_80401d8483ee42bde9edb75391bc55db"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref383_o3b" level="file">
+                     <did>
+                        <unittitle>April 1921 (2 copies)</unittitle>
+                        <container id="aspace_ce6620723ca3157139ff01de620a8140"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref384_htj" level="file">
+                     <did>
+                        <unittitle>October 1921</unittitle>
+                        <container id="aspace_136e66ec45aaa26dae2a15aa652ce30a"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref385_64a" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Furman Magazine</title>, Spring 1972</unittitle>
+                     <container id="aspace_4986fce74fd97c04738011ca07aa786b" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref386_x9h" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Historical Bulletin of Huron College, Pierre
+                           University, and Scotland Academy</title>, 1920 (2 copies, 1 without a
+                        cover)</unittitle>
+                     <container id="aspace_16e6e694e7c9890b8c95c496d1ea9f4e" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref387_5fz" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Huron College Bulletin</title>, May 24,
+                        1920</unittitle>
+                     <container id="aspace_3a0f0b892c655933d38c678d009b44bb" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref388_wrk" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Modern Fiction Studies</title>, February
+                        1955</unittitle>
+                     <container id="aspace_bf43d979b32ac6486608bf29f2d5b92d" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref389_udf" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">St. Andrew's Review</title>, 1972</unittitle>
+                     <container id="aspace_fbe1530bb8c28aaff27447e36ebd197d" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref390_88m" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Sight</title>, June 1953</unittitle>
+                     <container id="aspace_1511a0a6ba6dbf18227366c613fe40fc" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref391_ztb" level="file">
+               <did>
+                  <unittitle>Periodicals published by Duke University</unittitle>
+               </did>
+               <c03 id="aspace_ref392_246" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Archive</title>, January 1949</unittitle>
+                     <container id="aspace_aa84bc785a7e45607cf47b98d4a22281" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref393_vw8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Duke Alumni Register</title>,</unittitle>
+                  </did>
+                  <c04 id="aspace_ref394_475" level="file">
+                     <did>
+                        <unittitle>April 1963 (2 copies)</unittitle>
+                        <container id="aspace_f798a458c6338606f6086155cf269634"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref395_7xk" level="file">
+                     <did>
+                        <unittitle>November 1968</unittitle>
+                        <container id="aspace_754747f72de60919a45ee2d5d6ba71a1"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref396_sf8" level="file">
+                     <did>
+                        <unittitle>Winter 1973</unittitle>
+                        <container id="aspace_9850d45117dc9def11e0d8a169646672"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref397_mfq" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Duke 'n' Duchess</title>,</unittitle>
+                  </did>
+                  <c04 id="aspace_ref398_cd8" level="file">
+                     <did>
+                        <unittitle>October 1950</unittitle>
+                        <container id="aspace_fc88ab77914e4c7ee9551dbb1ae1ee86"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref399_jxv" level="file">
+                     <did>
+                        <unittitle>[December 1950?]</unittitle>
+                        <container id="aspace_8119c6452b7e28404edf2e195c941029"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref400_4c5" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Friends of Duke University Library</title>, 1971
+                        (2 copies)</unittitle>
+                     <container id="aspace_2a76c234c89b5735603f1bb256c696f8" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref401_1xb" level="file">
+               <did>
+                  <unittitle>Periodicals published by students</unittitle>
+               </did>
+               <c03 id="aspace_ref402_kbi" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Inner Chords</title>, 1971</unittitle>
+                     <container id="aspace_244c01d0922ce241958b57330e93bbe9" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref403_m2q" level="file">
+               <did>
+                  <unittitle>University Press Catalogues, 1938-1964</unittitle>
+                  <container id="aspace_2bffed8bc161a6c5056763a9dce09972" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref404_iha" level="file">
+               <did>
+                  <unittitle>Miscellany, 1907-1968 and n.d.</unittitle>
+                  <container id="aspace_292d9cccf7460249ec6908a52f3ee11a" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref405_h2o" level="file">
+               <did>
+                  <unittitle>Anthologies with Annotations by Blackburn</unittitle>
+                  <container id="aspace_107c658f8714f03aa7bd434f99b513f0" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref406_s8t" level="series">
+            <did>
+               <unittitle>Scrapbooks</unittitle>
+               <physdesc id="aspace_885d9fe16cc180e769fda4b52054c19a">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref408_mx2" level="file">
+               <did>
+                  <unittitle>Photo album of missionary work in Persia, [1896-1903]</unittitle>
+                  <container id="aspace_69cfeb1fd2c0a78abb52f8041c16ad65" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref409_8u7" level="file">
+               <did>
+                  <unittitle>Cartoons, n.d.</unittitle>
+                  <container id="aspace_98aeba2c15e7ca50f683022bd39d03b8" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref410_qrt" level="file">
+               <did>
+                  <unittitle>Family photo albums and two scrapbooks</unittitle>
+                  <container id="aspace_b359b77c929b9defbd12b5d4c9c55f23" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref411_8cd" level="file">
+               <did>
+                  <unittitle>Scrapbook</unittitle>
+                  <container id="aspace_2037067d02eafb1ee28318ce6ff130f8" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref412_1od" level="file">
+               <did>
+                  <unittitle>Cartoons, n.d.</unittitle>
+                  <container id="aspace_b3e9f22cf4a6df8d0c4b2937986be086" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref413_vyj" level="series">
+            <did>
+               <unittitle>Audio/Visual</unittitle>
+               <physdesc id="aspace_5ec15fd30676987b60eaf83960c09695">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref415_9om" level="file">
+               <did>
+                  <unittitle>3.75 ips audio tape of Blackburn lecturing on the letters of Mac Hyman,
+                     14 November 1969</unittitle>
+                  <container id="aspace_be62b55be284a9feba7f8862dbc3ca71" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref416_h1q" level="file">
+               <did>
+                  <unittitle>3.75 ips audio tape of Blackburn memorial service, 17 December
+                     1973</unittitle>
+                  <container id="aspace_ead05709e87464eaa239007181819e1c" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref417_mci" level="file">
+               <did>
+                  <unittitle>VHS copy of Blackburn's appearance on ABC's Meet the Professor,
+                     1963</unittitle>
+                  <container id="aspace_9e11797586d45e6bdb01c102513d6fa5" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref418_57s" level="file">
+               <did>
+                  <unittitle>Beta copy of Blackburn's appearance on ABC's Meet the Professor,
+                     1963</unittitle>
+                  <container id="aspace_a00a227d456cc2d6d5eb7d62775eb862" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref419_2lr" level="file">
+               <did>
+                  <unittitle>16mm film of Blackburn's appearance on ABC's Meet the Professor,
+                     1963</unittitle>
+                  <container id="aspace_8f9158fa286516d606d0ab2f8652be4b" label="Mixed Materials"
+                     type="box">34</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref420_zmz" level="series">
+            <did>
+               <unittitle>Photographs</unittitle>
+               <physdesc id="aspace_f88d9a04d5cff7f5e2e7d7118abf094a">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_5db47c755f7009824741bfc791153df3">
+               <head>Scope and Contents note</head>
+               <p>Includes unsorted and unarranged photographs of family members, travels, student
+                  portraits, and other events from Blackburn and his family's life.</p>
+            </scopecontent>
+            <c02 id="aspace_ref422_b4s" level="file">
+               <did>
+                  <unittitle>Photographs and postcards of students, family, travels</unittitle>
+                  <container id="aspace_52c24db6eba375a7cef267054f7b56df" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref423_lya" level="file">
+               <did>
+                  <unittitle>Photographs and postcards of students, family, travels</unittitle>
+                  <container id="aspace_cdab483f6c647f3a320c32fceefd1f39" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref424_u60" level="file">
+               <did>
+                  <unittitle>Photographs and postcards of students, family, travels</unittitle>
+                  <container id="aspace_fcd31303f6f75894ac6068ff60d597ae" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref425_e4h" level="file">
+               <did>
+                  <unittitle>Photographs and postcards of students, family, travels</unittitle>
+                  <container id="aspace_1b92e01f9ab0d7dcd835baeef4a89991" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref427_spg" level="series">
+            <did>
+               <unittitle>Restricted Series</unittitle>
+               <physdesc id="aspace_79184164cd1a2e99eb574e41ac2c3725">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <accessrestrict id="aspace_13aeb69cac6bff7448666608012c08fa">
+               <head>Conditions Governing Access note</head>
+               <p>These materials are restricted.</p>
+            </accessrestrict>
+            <c02 id="aspace_ref429_pso" level="file">
+               <did>
+                  <unittitle>Blackburn's grade books, 1927-1969 and n.d.</unittitle>
+                  <container id="aspace_a865f740d48eda682f2dae02ffb6d2ea" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref430_0vf" level="file">
+               <did>
+                  <unittitle>Academic records: Blackburn family grades and grade reports,
+                     1920-1955</unittitle>
+                  <container id="aspace_41ee68e940a0fa70c7c684f452581690" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref432_fqa" level="series">
+            <did>
+               <unittitle>Volumes</unittitle>
+               <physdesc id="aspace_ac6f4f701d4ac864b6855ca1f4c6e88b">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_816c63c427cd3f43f7a4191fa89d4d36">
+               <head>Scope and Contents note</head>
+               <p>These volumes were from Blackburn's personal library and include his annotations
+                  and notes.</p>
+            </scopecontent>
+            <c02 id="aspace_ref434_65o" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Golden Hind</title>, ed. by Lumson and Smith.
+                     1942.</unittitle>
+                  <container id="aspace_e9837dfd23fc54e22683d9044e72d943" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref435_nwm" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Shakespeare: Five Plays</title>, ed. by Kittredge.
+                     1941.</unittitle>
+                  <container id="aspace_c4957353976aa3a4309959dc5cf401b1" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref436_5w7" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Understanding Fiction</title>, ed. by Brooks and Warren.
+                     1959.</unittitle>
+                  <container id="aspace_0be58d767d0ee8cf36fb9b8d23186053" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref437_29u" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Seventeenth Century Prose and Poetry</title>, 1st
+                     edition, ed. by Coggin and Witherspoon.</unittitle>
+                  <container id="aspace_f86151a6c61f155d7c0170194322f7bd" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref438_525" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Seventeenth Century Prose and Poetry</title>, 2nd
+                     edition, ed. by Witherspoon and Warnke.</unittitle>
+                  <container id="aspace_3837e4692ebaadf8abed90f3af564b0d" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref440_nnq" level="series">
+            <did>
+               <unittitle>Accession (2007-0129), 1937-1972</unittitle>
+               <physdesc id="aspace_67d09717ec3e97378fc65626c8390c77">
+                  <extent>6 folders</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref442_jbu" level="file">
+               <did>
+                  <unittitle>Mary April Blackburn Hill correspondence (incoming),
+                     1945-1972</unittitle>
+                  <container id="aspace_92eb53bab2e2b11ad1dfa0b52c240953" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref443_m94" level="file">
+               <did>
+                  <unittitle>Mary April Blackburn Hill correspondence, 1937-1972 (5
+                     folders)</unittitle>
+                  <container id="aspace_eb716c358c9e3bcb1c8c5df501fb68a5" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref444_nvw" level="series">
+            <did>
+               <unittitle>Accession (2008-0071)</unittitle>
+               <physdesc id="aspace_c26960512246228be87e7274e45ba81b">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref446_515" level="file">
+               <did>
+                  <unittitle>Elizabeth Blackburn letters to Clark and Virginia Blackburn</unittitle>
+                  <container id="aspace_d7c303a10cac20bc19fc8dd7e881b922" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref447_lov" level="series">
+            <did>
+               <unittitle>Accession (2010-0013)</unittitle>
+               <physdesc id="aspace_4308de2149f10d387ed8be5697c7258a">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_255ffaf84060a7f1dcf559afe3690513">
+               <head>Scope and Contents note</head>
+               <p>Includes correspondence between William and Elizabeth Blackburn written during the
+                  breakup of their marriage. Also included are articles, clippings, genealogical
+                  materials, a speech, interviews, and miscellaneous printed materials from students
+                  and colleagues.</p>
+            </scopecontent>
+            <c02 id="aspace_ref449_yb2" level="file">
+               <did>
+                  <unittitle>Notes relating to William Blackburn from Alexander Blackburn's Meeting
+                     the Professor</unittitle>
+                  <container id="aspace_311deb8deff30dea444d90ec09836627" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref450_jet" level="file">
+               <did>
+                  <unittitle>Letters of William Blackburn and Elizabeth Blackburn, as well as some
+                     letters from Alexander Blackburn, Mary April Blackburn, Clark Blackburn,
+                     lawyers, et al.</unittitle>
+                  <container id="aspace_b1f0ef4dce3bafdbd044d15a90eab7ef" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref451_wvj" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <container id="aspace_5c7597dc6492952b1951caf35e42ad96" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref452_897" level="file">
+               <did>
+                  <unittitle>Family history materials, including genealogy</unittitle>
+                  <container id="aspace_f4609db5cc7fb1eb0515d220408344fa" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref453_x0r" level="file">
+               <did>
+                  <unittitle>Articles and a speech</unittitle>
+                  <container id="aspace_136abcde39000e395d550fc8c99cac17" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref454_328" level="file">
+               <did>
+                  <unittitle>Printed materials from about about students and colleagues</unittitle>
+                  <container id="aspace_18e12c45acb86dfe2c3fa6e96aa2d658" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref458_9vv" level="series">
+            <did>
+               <unittitle>Accession (2014-0213)</unittitle>
+               <physdesc id="aspace_f627dbd714299159efc0bff673f35c89">4 boxes.</physdesc>
+            </did>
+            <scopecontent id="aspace_1641684070eefd4e15cbf117d2baf838">
+               <head>Scope and Contents</head>
+               <p>Contains the correspondence of the Blackburn family from the 1920s-1980s.</p>
+            </scopecontent>
+            <c02 id="aspace_ref459_w65" level="series">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <scopecontent id="aspace_723c15ab624b3fa4f2c378a980d7eaa2">
+                  <head>Scope and Contents</head>
+                  <p>Arranged chronologically whenever possible.</p>
+               </scopecontent>
+               <c03 id="aspace_ref460_urs" level="file">
+                  <did>
+                     <unittitle>Amy Blackburn Correspondence</unittitle>
+                     <physdesc altrender="whole">
+                        <extent altrender="materialtype spaceoccupied">11 folders</extent>
+                     </physdesc>
+                     <unitdate type="inclusive">1920-1968, undated</unitdate>
+                     <container id="aspace_2fa7948e076f4941e5a98c9f0777f684" label="Mixed Materials"
+                        type="box">46</container>
+                     <container id="aspace_f5c1ccf0e140729b9abf930d4d0238c9" label="Mixed Materials"
+                        type="box">45</container>
+                  </did>
+                  <scopecontent id="aspace_55d72c5599d72c5e560fa75b85e440b4">
+                     <head>Scope and Contents</head>
+                     <p>Mostly letters from Amy Blackburn written to George and Libby Blackburn, the
+                        brother and sister-in-law of William Blackburn.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref466_44a" level="file">
+                  <did>
+                     <unittitle>William Blackburn Correspondence</unittitle>
+                  </did>
+                  <scopecontent id="aspace_c90be8ca0dd4cac7f8c50287f54424a8">
+                     <head>Scope and Contents</head>
+                     <p>Correspondence from William Blackburn to his brother George Blackburn, his
+                        sister Mallie Robertson, his nephew Brooke Blackburn, and his mother Amy
+                        Blackburn, as well as a few miscellaneous letters and fragments.</p>
+                  </scopecontent>
+                  <c04 id="aspace_ref463_r7p" level="file">
+                     <did>
+                        <unittitle>William Blackburn to George Blackburn</unittitle>
+                        <physdesc altrender="whole">
+                           <extent altrender="materialtype spaceoccupied">6 folders</extent>
+                        </physdesc>
+                        <unitdate type="inclusive">1920s-1972</unitdate>
+                        <container id="aspace_66f165754b55c4f3d3a45cb8a58140bd"
+                           label="Mixed Materials" type="box">46</container>
+                        <container id="aspace_18eac5dbd140888be84e35f88dca64d4"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref464_s4g" level="file">
+                     <did>
+                        <unittitle>William Blackburn to Mallie Blackburn Robertson</unittitle>
+                        <unitdate type="inclusive">1920s-1960s</unitdate>
+                        <container id="aspace_3f81a0ab8c6f7610a78e0b7078802bc4"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref470_csn" level="file">
+                     <did>
+                        <unittitle>William Blackburn to Brooke Blackburn</unittitle>
+                        <unitdate type="inclusive">1948-1970</unitdate>
+                        <container id="aspace_55af9b281358187b69c2abe85f4f4eca"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref471_ndp" level="file">
+                     <did>
+                        <unittitle>William Blackburn to Amy Blackburn</unittitle>
+                        <unitdate type="inclusive">1922-1960s</unitdate>
+                        <container id="aspace_47063efa9de38ff4e7fc9ca55f01f38b"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref465_835" level="file">
+                     <did>
+                        <unittitle>William Blackburn: Miscellaneous Family
+                           Correspondence</unittitle>
+                        <unitdate type="inclusive">1945-1967</unitdate>
+                        <container id="aspace_5aef4d9a1af50539056e5051abeb9e95"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref467_sn9" level="file">
+                     <did>
+                        <unittitle>Fragments</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container id="aspace_ab813214521bc1d410f36116c81f437d"
+                           label="Mixed Materials" type="box">47</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref468_wls" level="file">
+                  <did>
+                     <unittitle>Charles Blackburn Correspondence</unittitle>
+                     <unitdate type="inclusive">1920-1943</unitdate>
+                     <container id="aspace_21b57b5552e4710a0ba6b5add39dfaf5" label="Mixed Materials"
+                        type="box">48</container>
+                  </did>
+                  <scopecontent id="aspace_b9cb65798633b02ffdc678cd76a28ef3">
+                     <head>Scope and Contents</head>
+                     <p>Letters from Charles Blackburn, the father of William Blackburn.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref472_46k" level="file">
+                  <did>
+                     <unittitle>Mallie Blackburn Robertson Correspondence</unittitle>
+                     <physdesc altrender="whole">
+                        <extent altrender="materialtype spaceoccupied">3 folders</extent>
+                     </physdesc>
+                     <unitdate type="inclusive">1921-1980</unitdate>
+                     <container id="aspace_6d90db092f5e30fd0f79a6d133e060ad" label="Mixed Materials"
+                        type="box">48</container>
+                  </did>
+                  <scopecontent id="aspace_ec285bf76850452bba6a6ac0ba80dab2">
+                     <head>Scope and Contents</head>
+                     <p>Letters from Malvina (Mallie) Blackburn Robertson to her brother, George
+                        Blackburn, and her mother, Amy Blackburn.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref469_eh0" level="file">
+                  <did>
+                     <unittitle>Miscellaneous Correspondence</unittitle>
+                     <container id="aspace_f842344eb002d9537b2dd80cde26e682" label="Mixed Materials"
+                        type="box">48</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref456_rgm" level="series">
+            <did>
+               <unittitle>Oversize Material</unittitle>
+            </did>
+            <c02 id="aspace_ref457_oqc" level="file">
+               <did>
+                  <unittitle>Clipping</unittitle>
+                  <container id="aspace_cde122036d4c3371b9d6a9335e0b75d4" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

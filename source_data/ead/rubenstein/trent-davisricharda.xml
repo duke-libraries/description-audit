@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-davisricharda/"
+         >trent-davisricharda</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Richard A. Davis Letter to Dr. Robert H. Wilkins, 1994 January
+               31, Philadelphia <num>RL.10392</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003956850</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:07:42
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Richard A. Davis letter to Dr. Robert H. Wilkins, Philadelphia</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Davis, Richard A., 1925-</persname>
+         </origination>
+         <unitid>RL.10392</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+            <extent altrender="carrier">1 leaf</extent>
+         </physdesc>
+         <unitdate normal="1994/1994" type="inclusive">1994 January 31</unitdate>
+         <physloc id="aspace_932641c6227fe51dafa062457d843764">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <langmaterial id="aspace_c7d01f1b8c064265050238b190ef1f36">Materials in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_a5e8bdcbfb114ece31efc8b23ebe3fd8">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_47cc7860e65faa3e502e730d084e8b94">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_7e4cd329d4a00ec43c12f3d6683e006b">
+         <head>Preferred Citation</head>
+         <p>Richard A. Davis Letter to Dr. Robert H. Wilkins, 1994 January 31, Philadelphia, David
+            M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <processinfo id="aspace_d3bd77508c59c60486f3afc328082fe0">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <odd id="aspace_b8007439a10be4829db59797d58d7a87">
+         <head>General note</head>
+         <p>Attached: Photocopy of TLS from Harvey Cushing to A.N. Richards. New Haven, CT : 5
+            February 1936. 2 leaves.</p>
+      </odd>
+      <odd id="aspace_4678d5015c283b71dc32c02f2cf6096f">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <persname source="ingest">Davis, Richard A., 1925-</persname>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

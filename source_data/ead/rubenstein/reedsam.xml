@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/reedsam/">reedsam</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Sam Reed papers, 1973-2001 and undated
+          <num>RL.01075</num></titleproper>
+        <author>Ted Holt; Paula Jeannet</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2010</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">004279446</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-06-03 12:57:13
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+      <change>
+        <date>2016</date>
+        <item>Content for 2016 accession added; dates changed and scope and content notes added for
+          some files.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Sam Reed papers</unittitle>
+      <origination label="Creator">
+        <persname source="ingest">Reed, Sam, d. 1999</persname>
+      </origination>
+      <unitid>RL.01075</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.0 Linear Feet</extent>
+        <extent altrender="carrier">3 boxes</extent>
+      </physdesc>
+      <unitdate normal="1973/2001" type="inclusive">1973-2001 and undated</unitdate>
+      <physloc id="aspace_9ffe848a0a1f07d0a4ee8ba546bb2d75">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <abstract id="aspace_c54fc3ce958696cacc5082cb1e41cb73">Collection pertains to Reed's political
+        and community activism, the civil rights movement, and race and labor relations issues in
+        the South. Consists of the records of the Durham, N.C. organization founded by Reed, Trumpet
+        of Conscience, and a run of the newsletter of the same name, 1987-2000. Other papers include
+        correspondence, chiefly to Reed; photographs; obituaries, interviews, speeches, and new
+        articles by and about Sam Reed; fliers, invitations, and other items stemming from community
+        events; and awards. Topics covered or touched on by these materials include the history of
+        race relations in Durham, N.C.; Durham politics; activism in North Carolina and Durham; the
+        involvement of Duke University and North Carolina Central students, faculty, and
+        administration in local events; labor issues and unions; and, more generally, human rights
+        issues in the South. A selection of materials from the collection have been digitized and
+        are available in Duke Digital Collections. Acquired by the John Hope Franklin Research
+        Center for African and African American History and Culture.</abstract>
+      <physdesc id="aspace_e578ed66d74cfbaff37855e3e155afad"
+        label="General Physical Description note"><extent>Approximately 700
+        Items</extent></physdesc>
+      <langmaterial id="aspace_713ff40104dd20cd541081307dc8e33a">Material in English</langmaterial>
+    </did>
+    <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3z02zt7z"
+      xlink:role="ddr-collection-object" xlink:show="new"
+      xlink:title="Sam Reed and the Trumpet of Conscience" xpointer="ark:/87924/r3z02zt7z"/>
+    <accessrestrict id="aspace_d45f30480545e7fcea022fae5a8e2439">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>Original audiovisual materials are closed to use. Use of these materials may require
+        production of listening or viewing copies.</p>
+      <p>All or portions of this collection may be housed off-site in Duke University's Library
+        Service Center. The library may require up to 48 hours to retrieve these materials for
+        research use.</p>
+      <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+        &amp; Manuscript Library to use this collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_8c292a63fcbad742f5dfbbb63d9b97de">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_67d59e36e4902932c0738c1f7345e973">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Sam Reed Papers, David M. Rubenstein Rare Book &amp; Manuscript
+        Library, Duke University</p>
+    </prefercite>
+    <acqinfo id="aspace_f573c17a78651ae8887fa5b371b94182">
+      <head>Provenance</head>
+      <p>The Sam Reed Papers were received by the David M. Rubenstein Rare Book &amp; Manuscript
+        Library as a gift in 2009, 2012, and 2016.</p>
+    </acqinfo>
+    <processinfo id="aspace_115166e388661307fa91e08b37b098c7">
+      <head>Processing Information</head>
+      <p>Processed by Ted Holt, January 2010, and Paula Jeannet, July 2016.</p>
+      <p>Accession (s) described in this collection guide: 2009-0270, 2012-0244, 2016-0041. </p>
+    </processinfo>
+    <bioghist id="aspace_bd08919957408a1969b5d8975298218b">
+      <head>Biographical Note</head>
+
+
+      <chronlist>
+        <head>Chronology List</head>
+        <chronitem>
+          <date>1906 Aug. 20</date>
+          <eventgrp>
+            <event>Born Sam Pobiersky in a small Jewish village in the Ukraine</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1923</date>
+          <eventgrp>
+            <event>Emigrated to the United States with family and settled in Minnesota</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1925</date>
+          <eventgrp>
+            <event>Changed last name to Reed in honor of John Reed, author of <title type="simple"
+                render="italic">Ten Days that Shook the World</title>, a history of the Bolshevik
+              Revolution</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1973</date>
+          <eventgrp>
+            <event>Moved to Durham, N.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1987</date>
+          <eventgrp>
+            <event>Founded the <title render="italic">Trumpet of Conscience</title> newsletter and
+              organization</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1999</date>
+          <eventgrp>
+            <event>Elected vice-president of the Durham chapter of the NAACP</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1999 Aug. 3</date>
+          <eventgrp>
+            <event>Passed away at the age of 93 in Durham, N.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>2000 April</date>
+          <eventgrp>
+            <event><title render="italic">Trumpet of Conscience</title> ceased publication</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="aspace_daa1783240f1860890bc5929e2b9831a">
+      <head>Collection Overview</head>
+      <p>The collection pertains to the life and political activism of Sam Reed of Durham, North
+        Carolina, particularly in connection with the civil rights movement and race and labor
+        relations in the South. The records of the organization founded by Reed, Trumpet of
+        Conscience, include a nearly complete run of the newsletter of the same name, 1987-2000;
+        meeting notes, agendas, and speeches; mission and goal statements; ideas for community
+        events and fund-raising; and financial items, chiefly printing bills for the newsletter. A
+        folder also contains fliers, programs, invitations, and notes on Trumpet of Conscience
+        events, which were held in the Hayti Center, Duke Chapel, and N.C. Mutual Life Insurance
+        offices, among other locations. </p>
+      <p>Other papers include correspondence to Reed, chiefly relating to the Trumpet of
+        Conscience's work; obituaries, tributes, interviews, speeches, and news articles, by and
+        about Sam Reed; photographs of Reed and his wife, other activists, supporters, and local
+        politicians, and gatherings; and awards honoring Reed and the organization he founded. An
+        oral history of Sam Reed's life is present in the form of transcripts from four interviews
+        conducted in 1996-1997. </p>
+      <p>Topics covered or touched on by these materials include Sam Reed's life as a memeber of a
+        Jewish family who emigrated from the Ukraine; the U.S. Depression and political activism in
+        the U.S.; the history of race relations in Durham, North Carolina; civil rights actions in
+        North Carolina and Durham; Durham politics and politicians; the involvement of Duke
+        University and North Carolina Central students, faculty, and administration in various local
+        events; political action by Durham citizens groups; labor issues and unions; and, more
+        generally, human rights issues in the South.</p>
+      <p>A selection of materials from the collection have been digitized and are available in Duke
+        Digital Collections. Original audiovisual materials are closed to use; for access, please
+        consult with a reference archivist before coming to use the collection. Acquired as part of
+        the John Hope Franklin Research Center for African and African American History and
+        Culture.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">African Americans -- North Carolina -- Durham -- History</subject>
+      <subject source="lcsh">Civil rights movements -- North Carolina -- Durham</subject>
+      <subject source="lcsh">Labor movement -- North Carolina</subject>
+      <subject source="lcsh">Political activists -- North Carolina -- Durham</subject>
+      <subject source="lcsh">Political participation -- North Carolina -- Durham</subject>
+      <geogname source="lcsh">Durham (N.C.) -- History -- 20th century</geogname>
+      <geogname source="lcsh">Durham (N.C.) -- Periodicals</geogname>
+      <geogname source="lcsh">Durham (N.C.) -- Politics and government -- 20th century</geogname>
+      <geogname source="lcsh">Durham (N.C.) -- Race relations -- 20th century</geogname>
+      <geogname source="lcsh">Durham (N.C.) -- Social conditions -- 20th century</geogname>
+      <geogname source="lcsh">North Carolina -- Race relations</geogname>
+      <genreform source="aat">Audiocassettes</genreform>
+      <genreform source="aat">DVDs</genreform>
+      <corpname source="ingest">Trumpet of Conscience</corpname>
+      <persname source="ingest">Reed, Sam, d. 1999 -- Interviews</persname>
+      <corpname source="naf">John Hope Franklin Research Center for African and African American
+        History and Culture</corpname>
+      <persname source="ingest">Reed, Sam, d. 1999</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref16_oa9" level="series">
+        <did>
+          <unittitle>Sam Reed papers, 1973-2001 and undated</unittitle>
+          <physdesc id="aspace_27bd3dd27390cd2db45d0452a0c4a33b"
+            label="General Physical Description note"><extent>3 boxes</extent></physdesc>
+        </did>
+        <c02 id="aspace_ref18_6ls" level="file">
+          <did>
+            <unittitle>Articles collected by Sam Reed, 1973-1999</unittitle>
+            <container id="aspace_1c1729a7f1d3f87d568a573ae36231ce" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <scopecontent id="aspace_174685ccd4c35b377615b745afdf912d">
+            <head>Scope and Contents</head>
+            <p>A small collection of articles and clippings on various subjects, including Durham
+              race relations, labor issues, welfare reform, Native American society, and choosing a
+              Durham school superintendent.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref41_0mf" level="file">
+          <did>
+            <unittitle>Audio recordings, 1997, 2008</unittitle>
+          </did>
+          <accessrestrict id="aspace_1cc9eeedb5605c26d0b0e729f163a74e">
+            <head>Conditions Governing Access</head>
+            <p>Original media is closed to use; listening copies must be made for access to content.
+              Please contact the Rubenstein Library Research Services before coming to use this
+              material.</p>
+          </accessrestrict>
+          <c03 id="aspace_ref42_b79" level="file">
+            <did>
+              <unittitle>DVD: speech by Sam Reed for the 12th annual MLK Jr. celebration, 1997 Jan.
+                17</unittitle>
+              <container id="aspace_f924e64478a0ab10db2612a57314114c" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref43_xjh" level="file">
+            <did>
+              <unittitle>Audiocassette: Sam Reed, <title render="doublequote">Operation
+                  Goodwill,</title> WFTK radio, 1997</unittitle>
+              <container id="aspace_74bf92ac328cfde38f78652aab7a0988" label="Mixed Materials"
+                type="box">1</container>
+              <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r43j3d469"
+                xlink:role="audio-streaming" xlink:show="new"
+                xlink:title="Operation Goodwill radio interview with Sam Reed"
+                xpointer="ark:/87924/r43j3d469"/>
+            </did>
+          </c03>
+          <c03 id="aspace_ref44_k73" level="file">
+            <did>
+              <unittitle>CD-ROM: <title render="italic">Trumpet of Conscience</title> interviews;
+                Sam Reed biography; <title render="italic">Trumpet of Conscience</title> overview;
+                interview by Lois Deloatch, 2008 June</unittitle>
+            </did>
+            <processinfo id="aspace_b48677bcac00b443270447b08b0e174a">
+              <head>Processing Information note</head>
+              <p>[Files transferred to library server. Use copy must be made for access.]</p>
+            </processinfo>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref46_7nz" level="file">
+          <did>
+            <unittitle>Awards and honorary plaques, 1986-2001</unittitle>
+            <container id="aspace_9a1a5a95eca865a25f668018dd482ddf" label="Mixed Materials"
+              type="box">3</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4mk68c5f"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Keeper of the Dream Award plaque" xpointer="ark:/87924/r4mk68c5f"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4kw5bn58"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Keeper of the Dream Award plaque" xpointer="ark:/87924/r4kw5bn58"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4gt5jk2s"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Independent Weekly Citizen Award plaque" xpointer="ark:/87924/r4gt5jk2s"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4mw2cj41"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Certificate of Appreciation from Durham Board of County Commissioners"
+              xpointer="ark:/87924/r4mw2cj41"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4ht2kg1j"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Louis H. Gregory Race Unity Award" xpointer="ark:/87924/r4ht2kg1j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4rr1sq8n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Spirit of Hayti Awards plaque" xpointer="ark:/87924/r4rr1sq8n"/>
+          </did>
+        </c02>
+        <c02 id="aspace_6cf2f18e3a10f8e0bea31f302eca1362" level="file">
+          <did>
+            <unittitle>Awards and proclamations, Durham, 1986-1997</unittitle>
+            <container id="aspace_4d004ce97e8d05c62a15d7913f482ad6" label="Mixed Materials"
+              type="box">1</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3s756p2n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Labor Day proclamation, city of Durham" xpointer="ark:/87924/r3s756p2n"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3ww7736m"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Labor Day proclamation, Durham County" xpointer="ark:/87924/r3ww7736m"/>
+          </did>
+        </c02>
+        <c02 id="aspace_ref25_a0o" level="file">
+          <did>
+            <unittitle>Dorothy Brokaw papers, 1990s, 2000</unittitle>
+            <container id="aspace_16ab2328912526c48b110c2ee3972510" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <scopecontent id="aspace_4f73c3c5eaa78a3bc6a12c2d3941b994">
+            <head>Scope and Contents</head>
+            <p>Brokaw, a Durham resident and supporter of the Trumpet of Conscience group, passed
+              along this folder of papers for inclusion in the collection as it was being assembled.
+              Items include <title render="italic">Trumpet of Conscience</title> issues (refiled in
+              the collection), articles and clippings on race and labor, notes on a community
+              gathering, and a reprint of a poem about Martin Luther King, Jr.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref19_nm0" level="file">
+          <did>
+            <unittitle>Bill Chafe speech, 1997 April 3</unittitle>
+            <container id="aspace_56c62ffb483c07373edbc19819b1dfdc" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <scopecontent id="aspace_47f8643e85ad0e80138a247b10363581">
+            <head>Scope and Contents</head>
+            <p>Speech on the life of Dr. Martin Luther King Jr., given by Duke University Professor
+              of History William Chafe, in the form of a 51-page draft with edits and
+              annotations.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref20_2rw" level="file">
+          <did>
+            <unittitle>Correspondence, 1997 August 12-1999 June 23 and undated</unittitle>
+            <container id="aspace_206886e5bee21ea9f3e74cabe872395e" label="Mixed Materials"
+              type="box">1</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r33f4kr6h"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Letter from Sam Reed to editor of Durham Herald-Sun"
+              xpointer="ark:/87924/r33f4kr6h"/>
+          </did>
+          <scopecontent id="aspace_e2c18b743c54287a1e74f767f277f438">
+            <head>Scope and Contents</head>
+            <p>Chiefly correspondence to Sam Reed containing several responses to <title
+                render="italic">Trumpet of Conscience</title> articles, letters from similar
+              organizations, contributions and congratulations, and routine business notes. Also
+              contains two outgoing items written by Reed: a letter to the editor and a note to a
+              staff member.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref27_2o1" level="file">
+          <did>
+            <unittitle><title render="italic">Faith stories: interviews, writing, and artwork from
+                young members of Durham's faith communities</title>, circa 1998</unittitle>
+            <container id="aspace_c6c2b8d75ce4efdc2c4e4ffe17fa01e2" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <scopecontent id="aspace_13d4d337af61b0a39e4dfcc53cfff054">
+            <head>Scope and Contents</head>
+            <p>Soft-bound book of interfaith narratives in the form of oral histories of people of
+              different faiths, conducted by thirteen young people in Durham, N.C. Contains an
+              interview with Sam Reed. The Faith Stories project was coordinated by interns at Duke
+              University's Center for Documentary Studies.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref28_lwr" level="file">
+          <did>
+            <unittitle>Interviews of Sam Reed, 1996-1997</unittitle>
+            <container id="aspace_1fcfd818e5e96ebfda24186c0fc7a22e" label="Mixed Materials"
+              type="box">1</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3bz61c1n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Interview with Sam Reed, 1996" xpointer="ark:/87924/r3bz61c1n"/>
+          </did>
+          <scopecontent id="aspace_ccc4bc722e1e9cfbee43a0dbe75b4a51">
+            <head>Scope and Contents</head>
+            <p>A set of typewritten transcripts of four sequential interviews with Sam Reed, where
+              he narrates his life story, beginning with his family's origins in the Ukraine. Other
+              topics include early 20th century Russian history, emigration, the Depression, Reed's
+              family and his brother George Power's activism, Durham, N. C. history, and Reed's
+              political and community activism in Durham. The interviews were conducted by an
+              unknown person in 1996 (no date), then on April 27, May 25, and July 13, 1997.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_20a1ad009ddd4d9439a5c389da4e25e6" level="file">
+          <did>
+            <unittitle>Memorial tribute to Sam Reed, <title render="italic">Independent
+                Weekly</title>, Durham, 1999 August (oversize sheet)</unittitle>
+            <container id="aspace_12602a27b3c1554e9296f716cd35d3c1" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_658014967d34c48c75119898b9be4c99" level="file">
+          <did>
+            <unittitle>News article on memorial service for Sam Reed, <title render="italic">Durham
+                Herald Sun</title>, 1999 August (oversize sheet)</unittitle>
+            <container id="aspace_e0c878d15db3faa08fc83a01f52ae37a" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref39_mr0" level="file">
+          <did>
+            <unittitle>News articles, Sam Reed letters to the editor, 1979-1999 and
+              undated</unittitle>
+            <container id="aspace_7c2a302f4fcb552f361059e2b96764c7" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <scopecontent id="aspace_d77aecc83bd3aa3c4e5a5adbceb564ea">
+            <head>Scope and Contents</head>
+            <p>Consists of articles about Sam Reed and the organization Trumpet of
+              Conscience/Concerned Citizens United. Also includes a few letters to the editor
+              written by Sam Reed.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref31_34d" level="file">
+          <did>
+            <unittitle>Obituaries and tributes, Sam Reed and family, 1973, 1993, 1999</unittitle>
+            <container id="aspace_5e62506a00c091068830d864294cecc6" label="Mixed Materials"
+              type="box">1</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r34f1mm9r"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed obituary"
+              xpointer="ark:/87924/r34f1mm9r"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3v11vp7z"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed obituary"
+              xpointer="ark:/87924/r3v11vp7z"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r37659j76"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed, 1906-1999"
+              xpointer="ark:/87924/r37659j76"/>
+          </did>
+          <scopecontent id="aspace_281807f01407bd3d68f0402fae6bd5ce">
+            <head>Scope and Contents</head>
+            <p>Chiefly photocopies of Durham Herald-Sun newspaper obituaries for Sam Reed; also
+              includes a poem written in 1993 on the death of Sam Reed's wife Georgia Reed, and a
+              long testimonial for Sam Reed's brother and union activist George Powers, 1973.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref32_ogf" level="file">
+          <did>
+            <unittitle>Photographs, circa 1986-1997 and undated</unittitle>
+            <container id="aspace_6e35ce259f5ee52ca5a23508b22bb9a4" label="Mixed Materials"
+              type="box">1</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4jw89r32"
+              xlink:role="image-service" xlink:show="new" xlink:title="UPS strikers"
+              xpointer="ark:/87924/r4jw89r32"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40r9q73b"
+              xlink:role="image-service" xlink:show="new" xlink:title="John Hope Franklin"
+              xpointer="ark:/87924/r40r9q73b"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4np20n5j"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Dr. Menasse and Richard Peacock" xpointer="ark:/87924/r4np20n5j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41r6r423"
+              xlink:role="image-service" xlink:show="new" xlink:title="Durham City Manager"
+              xpointer="ark:/87924/r41r6r423"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4kk97g75"
+              xlink:role="image-service" xlink:show="new" xlink:title="Rally"
+              xpointer="ark:/87924/r4kk97g75"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4hx18v0x"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed beside desk"
+              xpointer="ark:/87924/r4hx18v0x"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4z60g558"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed sitting at table"
+              xpointer="ark:/87924/r4z60g558"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4nz83t33"
+              xlink:role="image-service" xlink:show="new" xlink:title="Memorabilia on sofa"
+              xpointer="ark:/87924/r4nz83t33"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r48p5zd5q"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed and his wife"
+              xpointer="ark:/87924/r48p5zd5q"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4zs2ph3w"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed working at table"
+              xpointer="ark:/87924/r4zs2ph3w"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r44j0f171"
+              xlink:role="image-service" xlink:show="new" xlink:title="Memorabilia on sofa"
+              xpointer="ark:/87924/r44j0f171"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r41z44x09"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed with man"
+              xpointer="ark:/87924/r41z44x09"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r43t9h95b"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Sam Reed receiving award from Baha'is of Durham County"
+              xpointer="ark:/87924/r43t9h95b"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4nk3983q"
+              xlink:role="image-service" xlink:show="new" xlink:title="Sam Reed portrait"
+              xpointer="ark:/87924/r4nk3983q"/>
+          </did>
+          <scopecontent id="aspace_e40332a17f56a7261508f37fa82cbdfa">
+            <head>Scope and Contents</head>
+            <p>Consists of black-and-white and color photographs in various sizes and types.
+              Subjects include Sam Reed, his wife, Durham politicians and supporters, and others,
+              including the Ciompi Quartet; events such as protests, gatherings, and a display of
+              Trumpet of Conscience publications. Includes a set of negatives and an index print
+              donated by Dorothy Brokaw, Durham resident and supporter, of a gathering with Sam Reed
+              and others at Durham Technical Communicty College in 1997.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_4efe3c61ba668ef5240e1640a702362b" level="file">
+          <did>
+            <unittitle>Photograph, black-and-white reproduction, portrait of Martin Luther King, Jr.
+              (oversize)</unittitle>
+            <container id="aspace_60dc4371d395205360caf05a556cd804" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4ce0a775e15b4011cf66dcd8b8c1cd17" level="file">
+          <did>
+            <unittitle>Race Relations Task Force (History), Eno River Unitarian Universalist
+              Fellowship (ERUUF), 1989-1996 (2015)</unittitle>
+            <container id="aspace_f38b057799bc3924dcb8a85354fcd771" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <scopecontent id="aspace_7f062486fb45eb1fd5396bd733747547">
+            <head>Scope and Contents</head>
+            <p>An outline of the history of the task force, 1989-1996, assembled in 2015 by Bill
+              Mahony, former member of the task force.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref40_a56" level="file">
+          <did>
+            <unittitle>Trumpet of Conscience: Event fliers, programs, speeches, and ephemera,
+              1996-1999 and undated</unittitle>
+            <container id="aspace_8c60664e3366e142da6c0810a7e859dd" label="Mixed Materials"
+              type="box">1</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r38911t8s"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience 12th anniversary celebration"
+              xpointer="ark:/87924/r38911t8s"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r34f1mn2t"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="12th annual Martin Luther King, Jr. birthday celebration"
+              xpointer="ark:/87924/r34f1mn2t"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3cz3280d"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Celebration of African American History Month and the tenth anniversary of the Trumpet of Conscience"
+              xpointer="ark:/87924/r3cz3280d"/>
+          </did>
+          <scopecontent id="aspace_19d79f219f2133e70f0a0003ede28ab8">
+            <head>Scope and Contents</head>
+            <p>Fliers advertise events supported or sponsored by Sam Reed and the Trumpet of
+              Conscience; locations included the North Carolina Mutual Insurance Company's offices,
+              the Hayti Center, and the Duke Chapel. Other items include cards with sayings, Sam
+              Reed's business card, pages with notes on an event guest list, and correspondence
+              about related events.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref47_051" level="file">
+          <did>
+            <unittitle>Trumpet of Conscience: Banner, undated</unittitle>
+            <container id="aspace_48df30f16f9c77d85a459ee1f19f81be" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+          <scopecontent id="aspace_21a32c7042755e23d93f414bad7a20ef">
+            <head>Scope and Contents</head>
+            <p>Cloth banner, approximately 9 3/4 x 96 inches.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref35_mad" level="file">
+          <did>
+            <unittitle>Trumpet of Conscience: Goals, agendas, endorsements, 1994-1999 and
+              undated</unittitle>
+            <container id="aspace_909f682e42b8808590d1f83ff2e3e98c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <scopecontent id="aspace_913dd4a66c7ece02b03a1d84420e84ff">
+            <head>Scope and Contents</head>
+            <p>Folder contains a mix of meeting notes, goals, agendas, and jottings by Sam Reed and
+              others for the Trumpet of Conscience organization. Includes a printed mission
+              statement, notes on the Eno River Festival as a vehicle for fund-raising, and ideas
+              for a retreat and a celebration.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref36_y9c" level="file">
+          <did>
+            <unittitle><title render="italic">Trumpet of Conscience</title>: Mailing list and
+              sponsors, 1994-1997 and undated</unittitle>
+            <container id="aspace_13001c9298bafa427de086ad6a695923" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <scopecontent id="aspace_f45f1db116623e1c1447869e3e9b05cd">
+            <head>Scope and Contents</head>
+            <p>Loose sheets and tablets with handwritten and typed lists of newsletter subscribers,
+              supporters, a directory of local progressive organizations, and labor union contacts
+              in Durham and North Carolina.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref38_yfq" level="file">
+          <did>
+            <unittitle><title render="italic">Trumpet of Conscience</title>: Newsletters,
+              1987-1994</unittitle>
+            <container id="aspace_aef6a6d4057088b765d96a6037f6c95d" label="Mixed Materials"
+              type="box">2</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4b856n2s"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 1 no. 3, undated"
+              xpointer="ark:/87924/r4b856n2s"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4h70c41z"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 1 no. 4, Sept. 1987"
+              xpointer="ark:/87924/r4h70c41z"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r49k48x2m"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 2 no. 1, Dec. 1987"
+              xpointer="ark:/87924/r49k48x2m"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r44q7tt3b"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 2 no. 3, March-Apr. 1988"
+              xpointer="ark:/87924/r44q7tt3b"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r47s7mw6t"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 2 no. 6, Oct.-Nov. 1988"
+              xpointer="ark:/87924/r47s7mw6t"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4x924n6c"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 3 no. 1, Dec. 1988-Jan. 1989"
+              xpointer="ark:/87924/r4x924n6c"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r40z7412f"
+              xlink:role="image-service" xlink:show="new" xlink:title="Trumpet, spring 1989"
+              xpointer="ark:/87924/r40z7412f"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4028sh3g"
+              xlink:role="image-service" xlink:show="new" xlink:title="Trumpet, May 1989"
+              xpointer="ark:/87924/r4028sh3g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3v40k26r"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, summer 1990" xpointer="ark:/87924/r3v40k26r"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3jq0sz1j"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, fall 1990" xpointer="ark:/87924/r3jq0sz1j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3t43j61j"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, Jan. 1991" xpointer="ark:/87924/r3t43j61j"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3t43j63h"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, March 1991" xpointer="ark:/87924/r3t43j63h"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3qb9v822"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, Fall 1991" xpointer="ark:/87924/r3qb9v822"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3dz03482"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 8 no. 2, March 1994"
+              xpointer="ark:/87924/r3dz03482"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3pg1hr7n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 9 no. 3, June 1994"
+              xpointer="ark:/87924/r3pg1hr7n"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3pc2tc9r"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 10 no. 4, Sept. 1994"
+              xpointer="ark:/87924/r3pc2tc9r"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3ft8dn32"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 10 no. 5, Nov. 1994"
+              xpointer="ark:/87924/r3ft8dn32"/>
+          </did>
+        </c02>
+        <c02 id="aspace_ac30b3b996f0a184404ebf9a43d38e76" level="file">
+          <did>
+            <unittitle><title render="italic">Trumpet of Conscience</title>: Newsletters,
+              1995-2000</unittitle>
+            <container id="aspace_f87b77c83a83c0943ca1600f32e5d8cc" label="Mixed Materials"
+              type="box">2</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3kk94f8p"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 11 no. 1, Jan.-Feb. 1995"
+              xpointer="ark:/87924/r3kk94f8p"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3dz03514"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 11 no. 2, spring 1995"
+              xpointer="ark:/87924/r3dz03514"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3jq0sz40"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 11 no. 3, fall 1995"
+              xpointer="ark:/87924/r3jq0sz40"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3dv1cr98"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 11 no. 4, winter 1995-96"
+              xpointer="ark:/87924/r3dv1cr98"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3959cb4p"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 11 no. 5, 1995?"
+              xpointer="ark:/87924/r3959cb4p"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r35h7bx3v"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 12 no. 1, spring 1996"
+              xpointer="ark:/87924/r35h7bx3v"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3959cb6n"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 12 no. 2, summer/fall 1996"
+              xpointer="ark:/87924/r3959cb6n"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3jm23k4h"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 12 no. 3, Nov. 1996"
+              xpointer="ark:/87924/r3jm23k4h"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3b27pt9m"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 13 no. 1, spring 1997"
+              xpointer="ark:/87924/r3b27pt9m"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3x05xg4f"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 13 no. 2, summer 1997"
+              xpointer="ark:/87924/r3x05xg4f"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r31r6n39h"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 12 no. 4, winter 1997"
+              xpointer="ark:/87924/r31r6n39h"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r35d8nj2h"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 13 no. 3, Aug. 1997"
+              xpointer="ark:/87924/r35d8nj2h"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3930nz6x"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 13 no. 4, Dec. 1997"
+              xpointer="ark:/87924/r3930nz6x"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3s756p0p"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 14 no. 1, Apr. 1998"
+              xpointer="ark:/87924/r3s756p0p"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3ng4gv6x"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 14 no. 2, June 1998"
+              xpointer="ark:/87924/r3ng4gv6x"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r36d5pd86"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 14 no. 2, Aug. 1998"
+              xpointer="ark:/87924/r36d5pd86"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r31n7xq8r"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 14 no. 3, Nov. 1998"
+              xpointer="ark:/87924/r31n7xq8r"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r31n7xr1t"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 15 no. 1, Feb. 1999"
+              xpointer="ark:/87924/r31n7xr1t"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r35d8nj4g"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 14 no. 4, Jan. 1999"
+              xpointer="ark:/87924/r35d8nj4g"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3hq3s23p"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 15 no. 2, May 1999"
+              xpointer="ark:/87924/r3hq3s23p"/>
+            <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r3d21rn25"
+              xlink:role="image-service" xlink:show="new"
+              xlink:title="Trumpet of Conscience, vol. 16 no. 3, Jan. 2000"
+              xpointer="ark:/87924/r3d21rn25"/>
+          </did>
+        </c02>
+        <c02 id="aspace_fe68faaa19bea60f581dad6c66e66e43" level="file">
+          <did>
+            <unittitle><title render="italic">Trumpet of Conscience</title>: Printers' bills,
+              treasurer's notes, 1995-1999</unittitle>
+            <container id="aspace_6dad55963a842902b4e3b74ce9faf393" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/barkerhiram/">barkerhiram</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Hiram Barker Papers, 1857-1895 <num>RL.00080</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+               Paula Jeannet</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2011</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">005190683</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:19:11
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Hiram Barker papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Barker, Hiram</persname>
+         </origination>
+         <unitid>RL.00080</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1857/1895" type="inclusive">1857-1895</unitdate>
+         <physloc id="aspace_b801a7605dec7fda5e87dd0e56cd1c62">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_2b64802805393042f0d3e4ba967cc03f">Prominent businessman and banker
+            from Farmington, New Hampshire; established and managed multiple business investments in
+            New Hampshire, the Dakota Territory, Florida, Iowa, Illinois, Kansas, Missouri,
+            Nebraska, and Minnesota in the late 19th century. Collection consists chiefly of
+            business correspondence dating from circa 1871-1886, almost all directed to Hiram Barker
+            in New Hampshire, although in some cases Barker was the author. Correspondents include
+            managers of Barker's businesses and investments in the Western territories and states of
+            Dakota, Florida, Illinois, Iowa, Kansas, Missouri, Nebraska, and Minnesota, and other
+            firms with whom Barker did business. Topics revolve around business matters and trends
+            in New Hampshire, the Western states and territories, including but not limited to real
+            estate loans and investments, land investments, banking and loans, financial
+            difficulties such as loan defaults, and ranching or farming in the Western states listed
+            above. A smaller group of letters concern personal and family matters of both the Barker
+            and Hayes family, into which Barker had married. Arranged by state in alphabetical
+            order.</abstract>
+         <physdesc id="aspace_f91a602b15917161096fe5706c0034eb">
+            <extent>1880 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_74d8a3a7b8515a19a5ba2b94b6a68763">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_c8a46bd6823b3aea1b028aeea5e632e3">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_3426f0e5ff8523a4442250430e91f556">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_906b04c61de8f5aa044aa45a536b3e3f">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Hiram Barker Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_17e01837887a69686ff39b0d22e912be">
+         <head>Provenance</head>
+         <p>The Hiram Barker Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a purchase in 1983.</p>
+      </acqinfo>
+      <processinfo id="aspace_702ae12b81ece415dba7d59cedc4cd2a">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff, 1984</p>
+         <p>Encoded by Paula Jeannet, December 2011</p>
+         <p>Accession(s) described in this finding aid: 1983</p>
+      </processinfo>
+      <bioghist id="aspace_51840b7de13e7a9b4f66cc083e415828">
+         <head>Biographical Note</head>
+         <p>Hiram Barker was a prominent businessman and banker from Farmington, New Hampshire. He
+            established and managed multiple business investments in New Hampshire, the Dakota
+            Territory, Florida, Iowa, Illinois, Kansas, Missouri, Nebraska, and Minnesota in the
+            late 19th century.</p>
+      </bioghist>
+      <scopecontent id="aspace_39d68b61ff3bcad556a57789dd033827">
+         <head>Collection Overview</head>
+         <p>Collection consists chiefly of business correspondence dating from circa 1871-1886,
+            almost all directed to Hiram Barker in New Hampshire, although in some cases Barker was
+            the author. Correspondents include managers of Barker's businesses and investments in
+            the Western territories and states of Dakota, Illinois, Iowa, Kansas, Missouri,
+            Nebraska, and Minnesota, and other firms with whom Barker did business. Topics revolve
+            around business matters and trends in New Hampshire, the Western states and territories,
+            including but not limited to real estate loans and investments, land investments,
+            banking and loans, financial difficulties such as loan defaults, and ranching or farming
+            in the Western states listed above. Businesses mentioned include the Central Bank of
+            Kansas, the Citizens Bank in Iowa, Topeka Loan and Investment Company in Kansas, and the
+            Eclipse Milling Company in Minnesota. There are also business papers relating to
+            Florida, including land investments in 1885, some of which involve the governor of
+            Florida and New Hampshire native George Franklin Drew, who may have also witnessed the
+            will of Reuben Hayes for which Barker was an executor. A small group of letters concern
+            personal and family matters of both the Barker and Hayes family, into which Barker had
+            married. A set of folders marked in the last box marked Miscellany contain chiefly
+            business receipts and unidentified letters dating from 1857-1895. Arranged by state in
+            alphabetical order.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">Middle West -- Economic development -- 19th century</geogname>
+         <geogname source="lcsh">Kansas -- Economic conditions -- 19th century</geogname>
+         <subject source="lcsh">Banks and banking -- United States -- 19th century</subject>
+         <subject source="lcsh">Industrialization -- West (U.S.) -- History</subject>
+         <subject source="lcsh">Industries -- Middle West -- History -- 19th century</subject>
+         <geogname source="lcsh">Florida -- Economic conditions -- 19th century</geogname>
+         <geogname source="lcsh">South Dakota -- Economic conditions -- 19th century</geogname>
+         <geogname source="lcsh">Illinois -- Economic conditions -- 19th century</geogname>
+         <geogname source="lcsh">Iowa -- Economic conditions -- 19th century</geogname>
+         <geogname source="lcsh">Missouri -- Economic conditions -- 19th century</geogname>
+         <geogname source="lcsh">New Hampshire -- Economic conditions -- 19th century</geogname>
+         <geogname source="lcsh">Minnesota -- Economic conditions -- 19th century</geogname>
+         <subject source="lcsh">Businesspeople -- New Hampshire -- Correspondence</subject>
+         <subject source="lcsh">Agriculture -- Middle West -- Economic aspects -- 19th
+            century</subject>
+         <persname source="ingest">Barker, Hiram</persname>
+         <famname source="ingest">Hayes family (N.H.)</famname>
+         <famname source="ingest">Barker family (N.H.)</famname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_4h6" level="series">
+            <did>
+               <unittitle>Hiram Barker Papers, 1857-1895</unittitle>
+               <physdesc id="aspace_b4bb8a249baf39d0dd47ff1996e0a5f2">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_a00b09ea317b09936b1e10f831ae0212">
+               <head>Scope and Contents note</head>
+               <p>Arranged in alphabetical order by state name. The last set of folders contains
+                  miscellaneous business receipts and unidentified or illegible correspondence from
+                  various locations.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_lxx" level="file">
+               <did>
+                  <unittitle>Collection Information Folder</unittitle>
+                  <container id="aspace_2cea969d4b7823f427b232216905cea1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_552420f907d393f6e57661056cd2e2f8">
+                  <head>Scope and Contents note</head>
+                  <p>Detailed descriptions related to largest groups of correspondence, including
+                     extracts transcribed from letters, details on family history, and comments on
+                     highlights and on the correspondents.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref16_vvr" level="subseries">
+               <did>
+                  <unittitle>Dakota Territory (South Dakota), 1880s</unittitle>
+                  <physdesc id="aspace_53447221e6ccf08f399a70f4744c05af">
+                     <extent>2 boxes</extent>
+                  </physdesc>
+               </did>
+               <c03 id="aspace_ref18_d6l" level="file">
+                  <did>
+                     <unittitle>Brule County Bank correspondence and legal/financial papers,
+                        1882-1886</unittitle>
+                     <container id="aspace_cf010dd8d8b5886258c868061cf80275" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref19_v6u" level="file">
+                  <did>
+                     <unittitle>Brule County miscellaneous business papers</unittitle>
+                     <container id="aspace_e3bf9dbe25711ff1bac45e8f3c8b8eba" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref20_q5e" level="file">
+                  <did>
+                     <unittitle>Madison Bank &amp; American Mortgage and Investment Company
+                        correspondence, 1885-1886</unittitle>
+                     <container id="aspace_430f6458be5aa034b2bdf7e75420428e" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref21_kjb" level="file">
+                  <did>
+                     <unittitle>Other Dakota business records</unittitle>
+                     <container id="aspace_0e7abfdd95752e648700417f1a206c7b" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref22_532" level="subseries">
+               <did>
+                  <unittitle>Florida business papers, 1880s</unittitle>
+                  <container id="aspace_153cdeffc9d96e0dbcfb8b7a6c6c172d" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_6x6" level="subseries">
+               <did>
+                  <unittitle>Illinois, 1871-1885 and undated</unittitle>
+               </did>
+               <c03 id="aspace_ref24_6xe" level="file">
+                  <did>
+                     <unittitle>B. L. Pease correspondence, 1871-1885 and undated</unittitle>
+                     <container id="aspace_db50fb3ae7fd793c03f617a561051222" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref25_8u7" level="file">
+                  <did>
+                     <unittitle>B. L. Pease, legal and financial papers</unittitle>
+                     <container id="aspace_b68286438f44cfd9e214300830225717" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref26_hjs" level="subseries">
+               <did>
+                  <unittitle>Iowa, 1871-1886</unittitle>
+               </did>
+               <c03 id="aspace_ref27_rwa" level="file">
+                  <did>
+                     <unittitle>Citizens Bank correspondence, 1871-1886</unittitle>
+                     <container id="aspace_c53add575b2e7b0d4db152337db33409" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref28_mww" level="file">
+                  <did>
+                     <unittitle>Citizens Bank legal and financial papers</unittitle>
+                     <container id="aspace_61ad7bb1f1d70ed064bfd3d4e5ea745b" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref29_21b" level="file">
+                  <did>
+                     <unittitle>W. G. Tyrrell correspondence</unittitle>
+                     <container id="aspace_474aeaa0d3c393a9a637435b077164bc" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref30_74j" level="file">
+                  <did>
+                     <unittitle>Other Iowa business papers</unittitle>
+                     <container id="aspace_793a1e1186f256a9a99b9fca7d7df194" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref31_wp5" level="subseries">
+               <did>
+                  <unittitle>Kansas, 1880s</unittitle>
+               </did>
+               <c03 id="aspace_ref32_vla" level="file">
+                  <did>
+                     <unittitle>Central Bank of Kansas correspondence, circa 1882-1886</unittitle>
+                     <container id="aspace_53da1e67b22581f0d7b0e148c0a83cc9" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref33_rv3" level="file">
+                  <did>
+                     <unittitle>Central Bank of Kansas legal and financial papers</unittitle>
+                     <container id="aspace_1ca5eeb29ec66db53d16416a0f3543d8" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_sje" level="file">
+                  <did>
+                     <unittitle>Topeka Loan and Investment correspondence, 1884-1886</unittitle>
+                     <container id="aspace_857a8f43221a42e97ab7a95a8d28addb" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref35_yww" level="subseries">
+               <did>
+                  <unittitle>Kansas and Missouri, 1880s</unittitle>
+               </did>
+               <c03 id="aspace_ref36_swv" level="file">
+                  <did>
+                     <unittitle>A. H. Gossard correspondence, 1882-1887 and undated</unittitle>
+                     <container id="aspace_9efd4b19da3fc6c07832407455c74aa1" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_rne" level="file">
+                  <did>
+                     <unittitle>A. H. Gossard legal and financial papers</unittitle>
+                     <container id="aspace_9fc1afc18ffb3eea02bb9e0dcd755331" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_su4" level="file">
+                  <did>
+                     <unittitle>Other business papers</unittitle>
+                     <container id="aspace_fb167ea2a517f2015262aeaee7f9c6e6" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref39_6hc" level="subseries">
+               <did>
+                  <unittitle>Massachusetts, 1800s</unittitle>
+               </did>
+               <c03 id="aspace_ref40_n2u" level="file">
+                  <did>
+                     <unittitle>Business papers, chiefly correspondence from other firms,
+                        1800s</unittitle>
+                     <container id="aspace_358bb0e9ba8e983a85db160e7552c820" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref41_rrb" level="subseries">
+               <did>
+                  <unittitle>Minnesota, 1880s</unittitle>
+               </did>
+               <c03 id="aspace_ref42_77m" level="file">
+                  <did>
+                     <unittitle>Eclipse Milling Company correspondence, circa 1882-1886</unittitle>
+                     <container id="aspace_5ea2c5a30a466ba0eea88277beadb89a" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_qdu" level="file">
+                  <did>
+                     <unittitle>Eclipse Milling Company miscellaneous business papers</unittitle>
+                     <container id="aspace_8fbd25d86a8dc8834594a956d3f8aad2" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_ej5" level="file">
+                  <did>
+                     <unittitle>Other Minnesota business papers</unittitle>
+                     <container id="aspace_50150f333cf35917068f12c0d04d128b" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref45_yiw" level="subseries">
+               <did>
+                  <unittitle>Nebraska, 1880s</unittitle>
+               </did>
+               <c03 id="aspace_ref46_wzf" level="file">
+                  <did>
+                     <unittitle>George Bickford (Loup City, S.D.) correspondence, circa
+                        1882-1886</unittitle>
+                     <container id="aspace_9118c5911b54cfb341098cc5472cef04" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_t3s" level="file">
+                  <did>
+                     <unittitle>Other Nebraska business papers</unittitle>
+                     <container id="aspace_9701001cfc287b860f82f1a78b4cc78b" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref48_ra3" level="subseries">
+               <did>
+                  <unittitle>New Hampshire, 1880s</unittitle>
+               </did>
+               <c03 id="aspace_ref49_uoq" level="file">
+                  <did>
+                     <unittitle>Hayes family, legal and financial papers</unittitle>
+                     <container id="aspace_db6f1ef7043c138568484d683cc593ce" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_mtt" level="file">
+                  <did>
+                     <unittitle>Hiram Barker, local business, legal and financial papers</unittitle>
+                     <physdesc id="aspace_38961e951f1b19cb540fc24704c6f2ea">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_a2c9679a1b42f3ff9bd8160089bb1eb3" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_j2j" level="file">
+                  <did>
+                     <unittitle>Hiram Barker, personal and family correspondence, circa
+                        1882-1886</unittitle>
+                     <container id="aspace_c6abd7ccfcf040de05094784b84eb579" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref53_v3y" level="subseries">
+               <did>
+                  <unittitle>Other Papers</unittitle>
+               </did>
+               <scopecontent id="aspace_018130e6d253c7db0307a9316f96faff">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly business receipts, and several pieces of unidentified or illegible
+                     pieces of correspondence. Includes receipts and bills of sale from the late
+                     1850s and 1860s, but the majority are in the latter part of the 19th
+                     century.</p>
+               </scopecontent>
+               <c03 id="aspace_ref54_ujy" level="file">
+                  <did>
+                     <unittitle>Other papers, 1857-1895</unittitle>
+                     <container id="aspace_d0893a50275c730c7d4d47522220fea1" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

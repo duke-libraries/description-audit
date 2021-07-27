@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/atlanticandwestern/"
+         >atlanticandwestern</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Atlantic and Western Railway Company Records, 1905-1968
+                  <num>RL.00058</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+               Ted Holt and Paula Jeannet</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2008</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000842390</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:19:04
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Atlantic and Western Railway Company records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">Atlantic and Western Railway Company</corpname>
+         </origination>
+         <unitid>RL.00058</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">55.7 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1905/1968" type="inclusive">1905-1968</unitdate>
+         <physloc id="aspace_68a63be5875db2b8ef91449a3191b1b0">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_86ee07c3fccecc60445fad46ec0b3555">North Carolina short-line railroad
+            company established in 1896 and still in operation as of 2008. Correspondence, accounts,
+            financial reports, ledgers, memoranda, publications, and other records (chiefly
+            1918-1960), of a short-line railway operating between Sanford and Lillington, N.C., in
+            Lee and Harnett counties. Includes communications from the American Short Line Railroad
+            Association and the Association of American Railroads.</abstract>
+         <physdesc id="aspace_6abb5db646dbde231c955ba1c020fa24">
+            <extent>41,774 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_8dcb5554248efb1208802de571ea8d06">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_4aa52393ac0b6a4f9cca4ec7f6edeb02">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_4d05d180a7a97e3c524d8376c31ea073">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_34539ddd6e375faf0a3e6437089a20e4">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Atlantic and Western Railway Company Records, David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_e479a489aa09475a7eb689b12f3af5eb">
+         <head>Provenance</head>
+         <p>The Atlantic and Western Railway Company Records were received by the David M.
+            Rubenstein Rare Book &amp; Manuscript Library as a gift in 1975.</p>
+      </acqinfo>
+      <processinfo id="aspace_74d98cb6459e38c7b81a0eb28a613fa5">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff</p>
+         <p>Encoded by Ted Holt and Paula Jeannet, June 2008</p>
+         <p>Accession from 1975 is described in this finding aid. </p>
+      </processinfo>
+      <controlaccess>
+         <geogname source="lcsh">Sanford (N.C.) -- Economic conditions</geogname>
+         <geogname source="lcsh">Harnett County (N.C.) -- Economic conditions</geogname>
+         <geogname source="lcsh">Lillington (N.C.) -- Economic conditions</geogname>
+         <geogname source="lcsh">Lee County (N.C.) -- Economic conditions</geogname>
+         <subject source="lcsh">Railroads -- North Carolina -- History</subject>
+         <subject source="lcsh">Railroads -- North Carolina -- Records and correspondence</subject>
+         <corpname source="ingest">Association of American Railroads</corpname>
+         <corpname source="ingest">American Short Line Railroad Association</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref10_mez" level="series">
+            <did>
+               <unittitle>Financial Papers Series, 1912-1966</unittitle>
+               <physdesc id="aspace_fb1ec420b479bf5ba34204becb6c0462">
+                  <extent>7 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref12_8aj" level="file">
+               <did>
+                  <unittitle>Notes and Information</unittitle>
+                  <container id="aspace_b089aa40c26ad2361e322136242e7fa1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref13_258" level="file">
+               <did>
+                  <unittitle>Minutes, 1912-1966</unittitle>
+                  <container id="aspace_a35adbb8352c52e70cd07fac848adc11" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref14_jq4" level="file">
+               <did>
+                  <unittitle>Financial reports</unittitle>
+               </did>
+               <c03 id="aspace_ref15_scu" level="file">
+                  <did>
+                     <unittitle>Annual reports, 1914-1918</unittitle>
+                     <container id="aspace_777d6ef9ca38167dede07346245f9ce9" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref16_ut1" level="file">
+                  <did>
+                     <unittitle>Accounting reports, 1917</unittitle>
+                     <container id="aspace_48978b6c81cad8885925b0297ef7f48e" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref17_g8j" level="file">
+                  <did>
+                     <unittitle>Accountant's reports, 1929-1943</unittitle>
+                     <container id="aspace_b3c3c3ff9e1df5c38e97710c423bea91" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref18_n2w" level="file">
+                  <did>
+                     <unittitle>Statements of operations, 1926-1960</unittitle>
+                     <container id="aspace_eb001be3f0580b05561a872c3ec0170c" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref19_diw" level="file">
+                  <did>
+                     <unittitle>Annual reports to Interstate Commerce Commission,</unittitle>
+                     <container id="aspace_0076e555aeb22ef29aeb957ae241a34b" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+                  <c04 id="aspace_ref20_761" level="file">
+                     <did>
+                        <unittitle>1913-1938</unittitle>
+                        <container id="aspace_50f1731a74db8fcc59150990ac0f09ec"
+                           label="Mixed Materials" type="box">3</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref21_tz3" level="file">
+                     <did>
+                        <unittitle>1939-1949</unittitle>
+                        <container id="aspace_5d0353d1e84e7200aff724bc6f8f0790"
+                           label="Mixed Materials" type="box">4</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref22_ptl" level="file">
+                     <did>
+                        <unittitle>1950-1956</unittitle>
+                        <container id="aspace_9be6fbb2f3e4d3fd99baf86f71b48f43"
+                           label="Mixed Materials" type="box">5</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref23_qnk" level="file">
+                  <did>
+                     <unittitle>Annual reports to N.C. Utilities Commission,</unittitle>
+                  </did>
+                  <c04 id="aspace_ref24_g1h" level="file">
+                     <did>
+                        <unittitle>1934-1942</unittitle>
+                        <container id="aspace_a6ff4f730153a83730c4b648c9d32e9d"
+                           label="Mixed Materials" type="box">5</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref25_eod" level="file">
+                     <did>
+                        <unittitle>1943-1959</unittitle>
+                        <container id="aspace_13f4535e45c0a909d2f0c6261f009349"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref26_000" level="file">
+                  <did>
+                     <unittitle>Miscellaneous</unittitle>
+                     <container id="aspace_146125897aa23b74524e4d50607b447c" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref27_fv0" level="series">
+            <did>
+               <unittitle>Files Series, 1907-1968</unittitle>
+               <physdesc id="aspace_7a79945dfcaa1a588e9d7da2e18f077a">
+                  <extent>50 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref29_ry0" level="subseries">
+               <did>
+                  <unittitle>1907-1917</unittitle>
+               </did>
+               <c03 id="aspace_ref30_9jn" level="file">
+                  <did>
+                     <unittitle>H-Q, 103-200</unittitle>
+                     <container id="aspace_1ca1dfab39e1d4cf162b86d1044ada61" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref31_wgu" level="file">
+                  <did>
+                     <unittitle>304-624</unittitle>
+                     <container id="aspace_da248ea9c84be7a972b5a38d9228ac41" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref32_t1j" level="subseries">
+               <did>
+                  <unittitle>1918</unittitle>
+               </did>
+               <c03 id="aspace_ref33_uz4" level="file">
+                  <did>
+                     <unittitle>A-R, 114-500</unittitle>
+                     <container id="aspace_16d197175c539821effb73c0c7f41947" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_s35" level="file">
+                  <did>
+                     <unittitle>518-612</unittitle>
+                     <container id="aspace_8908cd6ee2abfafcc713b0eed4ca104c" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref35_i9j" level="subseries">
+               <did>
+                  <unittitle>1919</unittitle>
+               </did>
+               <c03 id="aspace_ref36_08g" level="file">
+                  <did>
+                     <unittitle>E, 114-500, U.S. Railroad Administration</unittitle>
+                     <container id="aspace_164515595a9775192c6de1790d98d030" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref37_dza" level="subseries">
+               <did>
+                  <unittitle>1920</unittitle>
+               </did>
+               <c03 id="aspace_ref38_ytr" level="file">
+                  <did>
+                     <unittitle>A and S, 114-248</unittitle>
+                     <container id="aspace_b1b34574d4aaefedd5d8dadb9914ece5" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_kjs" level="file">
+                  <did>
+                     <unittitle>254-583</unittitle>
+                     <container id="aspace_9922a7c9f2f46064652c60a6f0b7bdd1" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref40_q99" level="subseries">
+               <did>
+                  <unittitle>1921</unittitle>
+               </did>
+               <c03 id="aspace_ref41_gwt" level="file">
+                  <did>
+                     <unittitle>102-303</unittitle>
+                     <container id="aspace_7028e5e5680a5087aade0438bd62e7cc" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_8fi" level="file">
+                  <did>
+                     <unittitle>308-685</unittitle>
+                     <container id="aspace_6b68ddc77293a49dc0598e0ad2a753cf" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref43_3ah" level="subseries">
+               <did>
+                  <unittitle>1922</unittitle>
+               </did>
+               <c03 id="aspace_ref44_skn" level="file">
+                  <did>
+                     <unittitle>150-579</unittitle>
+                     <container id="aspace_56f781a5d311ae9b9c752ef1ebf89f9d" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref45_l6i" level="subseries">
+               <did>
+                  <unittitle>1923</unittitle>
+               </did>
+               <c03 id="aspace_ref46_5ns" level="file">
+                  <did>
+                     <unittitle>R-102</unittitle>
+                     <container id="aspace_ccc73952315d2b377447084088a0f42d" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_h7g" level="file">
+                  <did>
+                     <unittitle>122-619</unittitle>
+                     <container id="aspace_e806950312c9079fe8ec82aefd820c79" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_ob0" level="file">
+                  <did>
+                     <unittitle>624-691</unittitle>
+                     <container id="aspace_80be58d6a528befd9fa9f94abff98583" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref49_rld" level="subseries">
+               <did>
+                  <unittitle>1924</unittitle>
+               </did>
+               <c03 id="aspace_ref50_38u" level="file">
+                  <did>
+                     <unittitle>223-371</unittitle>
+                     <container id="aspace_22a96b0fe5206d2348f447e3f248cfa0" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_p2o" level="file">
+                  <did>
+                     <unittitle>401-640</unittitle>
+                     <container id="aspace_211d4a742603b5134c16b9e5f8b4f9ff" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref52_rfg" level="subseries">
+               <did>
+                  <unittitle>1925</unittitle>
+               </did>
+               <c03 id="aspace_ref53_c0w" level="file">
+                  <did>
+                     <unittitle>Sullivan, 483-624</unittitle>
+                     <container id="aspace_22ba987be2b41741ad66352ee2c4dcfc" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref54_b31" level="subseries">
+               <did>
+                  <unittitle>1926</unittitle>
+               </did>
+               <c03 id="aspace_ref55_e6f" level="file">
+                  <did>
+                     <unittitle>154-218</unittitle>
+                     <container id="aspace_dbfe10327fd7d251e48a1bffc00473c2" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref56_q7g" level="file">
+                  <did>
+                     <unittitle>243-676</unittitle>
+                     <container id="aspace_7d180ac5cbe3bf1ccad0da2eaa2d8553" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref57_kp4" level="subseries">
+               <did>
+                  <unittitle>1927</unittitle>
+               </did>
+               <c03 id="aspace_ref58_cc5" level="file">
+                  <did>
+                     <unittitle>Sullivan, 194</unittitle>
+                     <container id="aspace_f216ec5cec9982df06007c93a5435154" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref59_f6j" level="file">
+                  <did>
+                     <unittitle>215-651</unittitle>
+                     <container id="aspace_42cdc6e16ca70c5ba16783bea80657cf" label="Mixed Materials"
+                        type="box">18</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref60_5oe" level="subseries">
+               <did>
+                  <unittitle>1929</unittitle>
+               </did>
+               <c03 id="aspace_ref61_ybh" level="file">
+                  <did>
+                     <unittitle>Campbell, Huffer, Sullivan, 243-660</unittitle>
+                     <container id="aspace_7541332ccca4ab5ab7606c1d4e2e6c2b" label="Mixed Materials"
+                        type="box">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_nr2" level="file">
+                  <did>
+                     <unittitle>102-624</unittitle>
+                     <container id="aspace_e0d94861ea2d2e5281a166b9b6cf3bd2" label="Mixed Materials"
+                        type="box">20</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref63_pmo" level="subseries">
+               <did>
+                  <unittitle>1930</unittitle>
+               </did>
+               <c03 id="aspace_ref64_krq" level="file">
+                  <did>
+                     <unittitle>Campbell, Huffer, Sullivan, 102-483</unittitle>
+                     <container id="aspace_7c66eb306d06fa9a3525bae2b1f285e1" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_dec" level="file">
+                  <did>
+                     <unittitle>500-676</unittitle>
+                     <container id="aspace_30da1bb890fa95084cc145c9e8c6669c" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref66_25t" level="subseries">
+               <did>
+                  <unittitle>1931</unittitle>
+               </did>
+               <c03 id="aspace_ref67_am2" level="file">
+                  <did>
+                     <unittitle>Campbell, Huffer, 102-343</unittitle>
+                     <container id="aspace_5f94ec3b3e14072dfdbb194f571836a9" label="Mixed Materials"
+                        type="box">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref68_n5q" level="file">
+                  <did>
+                     <unittitle>344-681</unittitle>
+                     <container id="aspace_2dada6bc30ce123595c11b58e906c8d9" label="Mixed Materials"
+                        type="box">23</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref69_h5h" level="subseries">
+               <did>
+                  <unittitle>1932</unittitle>
+               </did>
+               <c03 id="aspace_ref70_z8o" level="file">
+                  <did>
+                     <unittitle>Campbell, Huffer, Sullivan, 154-521</unittitle>
+                     <container id="aspace_6b18c0128aa29d329782b141d51952ff" label="Mixed Materials"
+                        type="box">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_a82" level="file">
+                  <did>
+                     <unittitle>533-702</unittitle>
+                     <container id="aspace_bafcabba469b6008a763db1ee6afc058" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref72_w82" level="subseries">
+               <did>
+                  <unittitle>1933</unittitle>
+               </did>
+               <c03 id="aspace_ref73_1ln" level="file">
+                  <did>
+                     <unittitle>Campbell, Huffer, Sullivan, 143-309</unittitle>
+                     <container id="aspace_2fe441802d7268a45d5a6312ac221704" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref74_kby" level="file">
+                  <did>
+                     <unittitle>344-624</unittitle>
+                     <container id="aspace_fb5d39f0872775be366f348f15abad14" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_mzj" level="file">
+                  <did>
+                     <unittitle>651-750</unittitle>
+                     <container id="aspace_4115776840eaf7d278c50658f589a834" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref76_jw6" level="subseries">
+               <did>
+                  <unittitle>1934</unittitle>
+               </did>
+               <c03 id="aspace_ref77_c2r" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase National Bank, Huffer, Sullivan, 143-344</unittitle>
+                     <container id="aspace_99147d3454bb2dbcdc5e7a114a978124" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref78_mxi" level="file">
+                  <did>
+                     <unittitle>347-751</unittitle>
+                     <container id="aspace_4dc1997cc4ba54a201a985d68ed9455f" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref79_5l3" level="subseries">
+               <did>
+                  <unittitle>1935</unittitle>
+               </did>
+               <c03 id="aspace_ref80_p95" level="file">
+                  <did>
+                     <unittitle>Campbell, Huffer, Sullivan, 134-344</unittitle>
+                     <container id="aspace_75004cbe4eeb39fcc84fe24d21479345" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_kd4" level="file">
+                  <did>
+                     <unittitle>344-751</unittitle>
+                     <container id="aspace_7a4c6aaacc14ea4287d2c3ab93c53f60" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref82_g4y" level="subseries">
+               <did>
+                  <unittitle>1936</unittitle>
+               </did>
+               <c03 id="aspace_ref83_fix" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase, Huffer, 143-243</unittitle>
+                     <container id="aspace_e276270f0a8a021767ae61a45cfee751" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_awe" level="file">
+                  <did>
+                     <unittitle>271-705</unittitle>
+                     <container id="aspace_7e32f3adb88b2d284cf6bbac0d853e81" label="Mixed Materials"
+                        type="box">31</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref85_a1t" level="subseries">
+               <did>
+                  <unittitle>1937</unittitle>
+               </did>
+               <c03 id="aspace_ref86_i18" level="file">
+                  <did>
+                     <unittitle>Chase National Bank, Huffer, 143-344</unittitle>
+                     <container id="aspace_c590eef7d0ea21bbad0cb866b9f65f8d" label="Mixed Materials"
+                        type="box">32</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_gj7" level="file">
+                  <did>
+                     <unittitle>344-744</unittitle>
+                     <container id="aspace_02c9349925ae9cb1c6753edc7486cd02" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref88_ihe" level="subseries">
+               <did>
+                  <unittitle>1938</unittitle>
+               </did>
+               <c03 id="aspace_ref89_ojq" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase National Bank, Huffer, 143-500</unittitle>
+                     <container id="aspace_9deb543a4f48e1627b0d4f09e1d52f6e" label="Mixed Materials"
+                        type="box">34</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref90_af9" level="file">
+                  <did>
+                     <unittitle>533-751</unittitle>
+                     <container id="aspace_4cda427972b09b0bd64ae5436fa2e0d5" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref91_dah" level="subseries">
+               <did>
+                  <unittitle>1939</unittitle>
+               </did>
+               <c03 id="aspace_ref92_0sa" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase, Huffer, 143-271</unittitle>
+                     <container id="aspace_712af069e7cd959e36fbef86d9d7c4b4" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref93_ptm" level="file">
+                  <did>
+                     <unittitle>298-705</unittitle>
+                     <container id="aspace_6e410e59f7156535677d9846a645724d" label="Mixed Materials"
+                        type="box">36</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref94_yt3" level="file">
+                  <did>
+                     <unittitle>Campbell, Huffer, 102-343</unittitle>
+                     <container id="aspace_1775661b35f0ae2e26ba598abbcd582c" label="Mixed Materials"
+                        type="box">36</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref95_ufn" level="subseries">
+               <did>
+                  <unittitle>1940</unittitle>
+               </did>
+               <c03 id="aspace_ref96_f1r" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase National Bank, Huffer, 143-507</unittitle>
+                     <container id="aspace_8830279d3140d43e7dee41ee0652980f" label="Mixed Materials"
+                        type="box">37</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref97_jy1" level="file">
+                  <did>
+                     <unittitle>533-735</unittitle>
+                     <container id="aspace_dc3636181dd904fae327311776854b45" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref98_8yl" level="subseries">
+               <did>
+                  <unittitle>1941</unittitle>
+               </did>
+               <c03 id="aspace_ref99_9o8" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase National Bank, Huffer, 128-300</unittitle>
+                     <container id="aspace_08dc04ddb9891078c7b2b062068b268c" label="Mixed Materials"
+                        type="box">38</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_wd4" level="file">
+                  <did>
+                     <unittitle>344-752</unittitle>
+                     <container id="aspace_2fd87b0b49b2035940d9661ba30a4b4e" label="Mixed Materials"
+                        type="box">39</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref101_s86" level="subseries">
+               <did>
+                  <unittitle>1942</unittitle>
+               </did>
+               <c03 id="aspace_ref102_joh" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase National Bank, Huffer, 143-475</unittitle>
+                     <container id="aspace_37d7bb394db2fc1fd60a5cd946145bc5" label="Mixed Materials"
+                        type="box">40</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref103_cbo" level="file">
+                  <did>
+                     <unittitle>507-742</unittitle>
+                     <container id="aspace_3c4ba559ead3783d084c0b7319a67dc2" label="Mixed Materials"
+                        type="box">41</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref104_k7f" level="subseries">
+               <did>
+                  <unittitle>1943</unittitle>
+               </did>
+               <c03 id="aspace_ref105_3ug" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase National Bank, Huffer, 101-344B</unittitle>
+                     <container id="aspace_4857ef35693f614fd3a17f22f3a89fd5" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref106_wd5" level="file">
+                  <did>
+                     <unittitle>347-708</unittitle>
+                     <container id="aspace_5db921d964aa20c766fd53a0b40804c7" label="Mixed Materials"
+                        type="box">43</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref107_9ak" level="subseries">
+               <did>
+                  <unittitle>1944</unittitle>
+               </did>
+               <c03 id="aspace_ref108_j0x" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase National Bank, Huffer, 143-271</unittitle>
+                     <container id="aspace_2fbb324640e3655985f8d79f978dc438" label="Mixed Materials"
+                        type="box">43</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref109_6mq" level="file">
+                  <did>
+                     <unittitle>293-735</unittitle>
+                     <container id="aspace_7a71333484375377714455b5056e8699" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref110_613" level="subseries">
+               <did>
+                  <unittitle>1945</unittitle>
+               </did>
+               <c03 id="aspace_ref111_3cy" level="file">
+                  <did>
+                     <unittitle>Campbell, Chase National Bank, 194-723</unittitle>
+                     <container id="aspace_49643a82798c66b19c6c9c22b5c3ee37" label="Mixed Materials"
+                        type="box">45</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref112_gud" level="subseries">
+               <did>
+                  <unittitle>1946</unittitle>
+               </did>
+               <c03 id="aspace_ref113_cka" level="file">
+                  <did>
+                     <unittitle>194-394</unittitle>
+                     <container id="aspace_befdc5a0a40e659732226b0aa567cdcb" label="Mixed Materials"
+                        type="box">45</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref114_61w" level="file">
+                  <did>
+                     <unittitle>404-735</unittitle>
+                     <container id="aspace_2dc73e387fc9cc77d284eb382a6d1fc2" label="Mixed Materials"
+                        type="box">46</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref115_d2n" level="subseries">
+               <did>
+                  <unittitle>1947</unittitle>
+               </did>
+               <c03 id="aspace_ref116_16b" level="file">
+                  <did>
+                     <unittitle>Chase National Bank, Bank of Broadway, National Bank of Sanford,
+                        114-385</unittitle>
+                     <container id="aspace_b42161cdde43b3906ef374cd803562e5" label="Mixed Materials"
+                        type="box">46</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref117_duy" level="file">
+                  <did>
+                     <unittitle>404-723</unittitle>
+                     <container id="aspace_ca40d1f8bf1aa80f70a8302aaf7a324e" label="Mixed Materials"
+                        type="box">47</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref118_ax1" level="subseries">
+               <did>
+                  <unittitle>1948</unittitle>
+               </did>
+               <c03 id="aspace_ref119_svy" level="file">
+                  <did>
+                     <unittitle>Bank of Broadway, National Bank of Sanford, 194-385</unittitle>
+                     <container id="aspace_f7fc22ae567da9f0c61b9f6f89feb6f9" label="Mixed Materials"
+                        type="box">47</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref120_ahq" level="file">
+                  <did>
+                     <unittitle>404-723</unittitle>
+                     <container id="aspace_a1f62a9ef9ecc264153066c74f746a11" label="Mixed Materials"
+                        type="box">48</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref121_z3u" level="file">
+                  <did>
+                     <unittitle>Bank of Broadway, National Bank of Sanford, 154-298</unittitle>
+                     <container id="aspace_a173e32a516e97e28df68065fdc211e9" label="Mixed Materials"
+                        type="box">48</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref122_d66" level="subseries">
+               <did>
+                  <unittitle>1949</unittitle>
+               </did>
+               <c03 id="aspace_ref123_luj" level="file">
+                  <did>
+                     <unittitle>344-723</unittitle>
+                     <container id="aspace_dfc08e6621770c7ac8bd65cead8a831e" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref124_1sb" level="subseries">
+               <did>
+                  <unittitle>1950</unittitle>
+               </did>
+               <c03 id="aspace_ref125_11u" level="file">
+                  <did>
+                     <unittitle>Bank of Broadway, National Bank of Sanford, 194-344</unittitle>
+                     <container id="aspace_34890527f885a85af9a941b6609fc75b" label="Mixed Materials"
+                        type="box">49</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_lnz" level="file">
+                  <did>
+                     <unittitle>344A-723</unittitle>
+                     <container id="aspace_fb0a5e467002b654602e967eed409ba2" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref127_w7l" level="subseries">
+               <did>
+                  <unittitle>1951</unittitle>
+               </did>
+               <c03 id="aspace_ref128_o4h" level="file">
+                  <did>
+                     <unittitle>Bank of Broadway, National Bank of Sanford, 194-271</unittitle>
+                     <container id="aspace_7f1021c629345469a74c18a7cddba8d3" label="Mixed Materials"
+                        type="box">50</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_irg" level="file">
+                  <did>
+                     <unittitle>298-752</unittitle>
+                     <container id="aspace_35296c1c10a906fa73ddb5ef349ffd83" label="Mixed Materials"
+                        type="box">51</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref130_d69" level="subseries">
+               <did>
+                  <unittitle>1952</unittitle>
+               </did>
+               <c03 id="aspace_ref131_lxt" level="file">
+                  <did>
+                     <unittitle>194-72</unittitle>
+                     <container id="aspace_aa15483be81a754fc74a098e834f7402" label="Mixed Materials"
+                        type="box">52</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref132_s0j" level="subseries">
+               <did>
+                  <unittitle>1953</unittitle>
+               </did>
+               <c03 id="aspace_ref133_31m" level="file">
+                  <did>
+                     <unittitle>176-344B</unittitle>
+                     <container id="aspace_66813c19e0cd8ec281c1da6580675553" label="Mixed Materials"
+                        type="box">52</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref134_7rd" level="file">
+                  <did>
+                     <unittitle>351-723</unittitle>
+                     <container id="aspace_c46024e0604f3ec24e64dbae121beb41" label="Mixed Materials"
+                        type="box">53</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref135_5r6" level="subseries">
+               <did>
+                  <unittitle>1954</unittitle>
+               </did>
+               <c03 id="aspace_ref136_3mt" level="file">
+                  <did>
+                     <unittitle>194-723</unittitle>
+                     <container id="aspace_23907929edcea762643583807658fa45" label="Mixed Materials"
+                        type="box">53</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref137_hgu" level="subseries">
+               <did>
+                  <unittitle>1955</unittitle>
+               </did>
+               <c03 id="aspace_ref138_1o3" level="file">
+                  <did>
+                     <unittitle>194-676</unittitle>
+                     <container id="aspace_157e48357ad8936d33c4e2cb92abaad5" label="Mixed Materials"
+                        type="box">54</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref139_qa7" level="subseries">
+               <did>
+                  <unittitle>1956</unittitle>
+               </did>
+               <c03 id="aspace_ref140_leo" level="file">
+                  <did>
+                     <unittitle>194-344</unittitle>
+                     <container id="aspace_21e5a856d49ca84524e16a036b8ed5c5" label="Mixed Materials"
+                        type="box">54</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref141_aaz" level="file">
+                  <did>
+                     <unittitle>385-676</unittitle>
+                     <container id="aspace_90f1d085771504cdf7e722b10714ba24" label="Mixed Materials"
+                        type="box">55</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref142_bcm" level="subseries">
+               <did>
+                  <unittitle>1957</unittitle>
+               </did>
+               <c03 id="aspace_ref143_ffd" level="file">
+                  <did>
+                     <unittitle>194-752</unittitle>
+                     <container id="aspace_134835e07e40132969f5175db35cf97e" label="Mixed Materials"
+                        type="box">55</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref144_bq0" level="subseries">
+               <did>
+                  <unittitle>1958</unittitle>
+                  <container id="aspace_c8fc5b837df4b56e69a2c7eca88eea04" label="Mixed Materials"
+                     type="box">56</container>
+               </did>
+               <c03 id="aspace_ref145_h6o" level="file">
+                  <did>
+                     <unittitle>194-752</unittitle>
+                     <container id="aspace_133dd2646a55adec22949dba695e8b4a" label="Mixed Materials"
+                        type="box">56</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref146_5bh" level="subseries">
+               <did>
+                  <unittitle>1959</unittitle>
+               </did>
+               <c03 id="aspace_ref147_66a" level="file">
+                  <did>
+                     <unittitle>Chase Manhattan Bank, 194-676</unittitle>
+                     <container id="aspace_ab4fc3ccd03b288b04aadbcd5420b1dc" label="Mixed Materials"
+                        type="box">56</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref148_t4z" level="subseries">
+               <did>
+                  <unittitle>1960</unittitle>
+               </did>
+               <c03 id="aspace_ref149_mlk" level="file">
+                  <did>
+                     <unittitle>194-723</unittitle>
+                     <container id="aspace_f85a5e3de0fe7e134201fa3b218b28b9" label="Mixed Materials"
+                        type="box">57</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_wfj" level="file">
+                  <did>
+                     <unittitle>Files, 1961-1968</unittitle>
+                     <container id="aspace_e97ab5bf4665da5f40b37f5d90756cb8" label="Mixed Materials"
+                        type="box">57</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref151_cbf" level="series">
+            <did>
+               <unittitle>Periodicals Series, 1928-1966</unittitle>
+               <physdesc id="aspace_a235cb889d96fc29d8fd6d5d262c0860">
+                  <extent>5 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref153_aio" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">CrossTie Bulletin</title>, 1937, 1941-1944</unittitle>
+                  <container id="aspace_98221f96378789915941c5cc03f48ea8" label="Mixed Materials"
+                     type="box">58</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref154_cmt" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Railroad Data</title>, 1928-1933</unittitle>
+                  <container id="aspace_ef785f023df0342a04b6cf8c28c4c80d" label="Mixed Materials"
+                     type="box">58</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref155_ksw" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Weekly Information Bulletin</title>
+                  </unittitle>
+                  <container id="aspace_9c4d8b613bb4e3dde5334aa9088b7e13" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+               <c03 id="aspace_ref156_45x" level="file">
+                  <did>
+                     <unittitle>Index, 1933-1936</unittitle>
+                     <container id="aspace_25cde616834142f3cda232e233692ce8" label="Mixed Materials"
+                        type="box">59</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_ere" level="file">
+                  <did>
+                     <unittitle>Bulletins,</unittitle>
+                  </did>
+                  <c04 id="aspace_ref158_d76" level="file">
+                     <did>
+                        <unittitle>1933-1936 Sept.</unittitle>
+                        <container id="aspace_092667283228930756758375a5468a18"
+                           label="Mixed Materials" type="box">59</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref159_wi8" level="file">
+                     <did>
+                        <unittitle>1936 Oct.-1938 June</unittitle>
+                        <container id="aspace_91a90ecd42c265ded1f78ec5f25e33e8"
+                           label="Mixed Materials" type="box">60</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref160_mp4" level="file">
+                  <did>
+                     <unittitle>Index, 1938</unittitle>
+                     <container id="aspace_87eb278c7b995ae1b729d371cb1bb6fe" label="Mixed Materials"
+                        type="box">60</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_wj0" level="file">
+                  <did>
+                     <unittitle>Bulletins, 1938 July-1942 June</unittitle>
+                     <container id="aspace_9b072485fbcf1cb6fd233383c46604bd" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref162_blg" level="file">
+                  <did>
+                     <unittitle>Index 1938</unittitle>
+                     <container id="aspace_656d293feeeef00fc6479cd2f38a9d13" label="Mixed Materials"
+                        type="box">61</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref163_ao4" level="file">
+                  <did>
+                     <unittitle>Bulletins, 1942 July-1946, 1951-1953, 1966</unittitle>
+                     <container id="aspace_397eaef45d8c028f553c08225f361d14" label="Mixed Materials"
+                        type="box">62</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_no5" level="file">
+                  <did>
+                     <unittitle>Index, 1945</unittitle>
+                     <container id="aspace_113eb041aba775ea87b85bef203733cc" label="Mixed Materials"
+                        type="box">62</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref165_643" level="series">
+            <did>
+               <unittitle>Miscellany Series</unittitle>
+               <physdesc id="aspace_ee8439b968ca198ccffef7a0461caaa9">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref167_l6t" level="file">
+               <did>
+                  <unittitle>Miscellaneous Legal Papers</unittitle>
+                  <container id="aspace_a76c6247a668fdc99863b83a053b9add" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref168_d38" level="file">
+               <did>
+                  <unittitle>Safety posters</unittitle>
+                  <container id="aspace_086bdfb916c29ed4b16bd3290015f9fe" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref169_gll" level="file">
+               <did>
+                  <unittitle>Passes</unittitle>
+                  <container id="aspace_4ceda53f089b3c38866cece7184a86fd" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref170_vxj" level="file">
+               <did>
+                  <unittitle>Timetables</unittitle>
+                  <container id="aspace_f06812aa5a24517d63befebf137cfa7e" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref171_5r4" level="series">
+            <did>
+               <unittitle>Volumes Series, 1913-1967</unittitle>
+               <physdesc id="aspace_98a03a7382c5dee3a9a3f413aa182470">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref173_qwk" level="file">
+               <did>
+                  <unittitle>Accounts Payable, 1914-1928</unittitle>
+                  <container id="aspace_cf01b7f11f95734bf074149d397bc51a" label="Mixed Materials"
+                     type="box">64</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref174_72f" level="file">
+               <did>
+                  <unittitle>Accounts Receivable, 1913-1952</unittitle>
+                  <container id="aspace_5f4b4a6f34bdbd00ebf2f15626c7c4cf" label="Mixed Materials"
+                     type="box">64</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref175_cxe" level="file">
+               <did>
+                  <unittitle>Authority for Expenditures, 1917-1930</unittitle>
+                  <container id="aspace_f9664f3548a05ec87c7bec0298a32aa9" label="Mixed Materials"
+                     type="box">64</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref176_1x9" level="file">
+               <did>
+                  <unittitle>Traffic and Car Service Ledger, 1926-1939</unittitle>
+                  <container id="aspace_914301bbbbce1160bf3efd75a99c4ae0" label="Mixed Materials"
+                     type="box">64</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref177_rz0" level="file">
+               <did>
+                  <unittitle>American Short Line Railroad Association,</unittitle>
+                  <container id="aspace_36abb9e52ac40e5a4173003bb8716143" label="Mixed Materials"
+                     type="box">65</container>
+               </did>
+               <c03 id="aspace_ref178_urn" level="file">
+                  <did>
+                     <unittitle>Agenda and Proceeding, 1938-1967</unittitle>
+                     <container id="aspace_498c90f0889f5961408a39fb3b093b5d" label="Mixed Materials"
+                        type="box">65</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_7ha" level="file">
+                  <did>
+                     <unittitle>Publication, 1924-1956</unittitle>
+                     <container id="aspace_7f9ec4be6a77f204d973a8d4af590656" label="Mixed Materials"
+                        type="box">65</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref180_ms9" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <scopecontent id="aspace_6094dd03229295870dacb7b5a37fd97e">
+               <head>Scope and Contents note</head>
+               <p>Consists of blueprints; charts for the Association of American Railroads;
+                  correspondence printed on flyers; and engineering, equipment and land reports.</p>
+            </scopecontent>
+            <c02 id="aspace_ref181_z0z" level="file">
+               <did>
+                  <unittitle>Oversize items</unittitle>
+                  <container id="aspace_ba0088f50def9d5ddaabf5773d3cfac4" label="Mixed Materials"
+                     type="oversize-folder">OF1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

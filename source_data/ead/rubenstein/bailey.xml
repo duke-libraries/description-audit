@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/bailey/">bailey</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James H. Pou Bailey Papers, 1901-1970
+          <num>RL.00064</num></titleproper>
+        <author>Processed by Janie C. Morris; Assisted by Denise Dolan; machine-readable finding aid
+          created by Alvin Pollock, Electronic Text Unit, UC Berkeley Library</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">001058219</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-07-18 15:47:01
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>James H. Pou Bailey papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Bailey, James Hinton Pou, 1917-</persname>
+      </origination>
+      <unitid>RL.00064</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14.6 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1901/1970" type="inclusive">1901-1970</unitdate>
+      <physloc id="aspace_d9d32b7cd1b2845d5800e9c56baac3d8">For current information on the location
+        of these materials, please consult the library's online catalog.</physloc>
+      <physdesc id="aspace_c8468c48a442060c769324a82a1a1890"><extent>8,640 items</extent></physdesc>
+      <langmaterial id="aspace_d3f129e501372f35dff1d7e828aa7c6f">English. </langmaterial>
+    </did>
+    <accessrestrict id="aspace_cc8dfe46e4c19b769a6e8d64313bc687">
+      <head>Access Restrictions</head>
+      <p>The Law Practices: Client Files Series (boxes 8-22) are closed for 75 years after the last
+        date of creation for files in the series (1966). The series will be reviewed in 2041.</p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>All or portions of this collection may be housed off-site in Duke University's Library
+        Service Center. The library may require up to 48 hours to retrieve these materials for
+        research use.</p>
+      <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+        &amp; Manuscript Library to use this collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_dbc7e22c3801d2568533c081b2fc4815">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_019422225e11aa496e586375e731c2cc">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], James H. Pou Bailey Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University</p>
+    </prefercite>
+    <acqinfo id="aspace_12329db0c8fcdfe63a2a337ce0222211">
+      <head>Provenance</head>
+      <p>The bulk of the James H. Pou Bailey Papers was given to Duke University in 1983 by Bailey.
+        In 1977, one item was purchased for the collection. Copyright interests in these papers have
+        not been transferred to the University.</p>
+    </acqinfo>
+    <processinfo id="aspace_ec56cf264ec68d334609a8e8d0d25007">
+      <head>Processing Information</head>
+      <p>Processed by Janie C. Morris</p>
+      <p>Assisted by Denise Dolan</p>
+      <p>Completed June 5, 1991</p>
+      <p>Encoded by Alvin Pollock</p>
+    </processinfo>
+    <bioghist id="aspace_3114e2764c5edce3933586541a740b3b">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Missing Title</head>
+        <chronitem>
+          <date>1917, Aug. 14</date>
+          <eventgrp>
+            <event>Born, Baltimore, MD</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1940</date>
+          <eventgrp>
+            <event>B.A., University of North Carolina at Chapel Hill</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1941</date>
+          <eventgrp>
+            <event>L.L.B., University of North Carolina at Chapel Hill and admitted to the
+              bar</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1941-1942</date>
+          <eventgrp>
+            <event>Special Agent, Federal Bureau of Investigation</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1942-1945</date>
+          <eventgrp>
+            <event>Served in the United States Army, attaining the rank of Captain</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1944-1945</date>
+          <eventgrp>
+            <event>Served in the European theater of World War II</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1945, Aug. 1</date>
+          <eventgrp>
+            <event>Married Marie Fiquet Pate</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1946</date>
+          <eventgrp>
+            <event>Entered law practice of Bailey &amp; Bailey in Raleigh, N.C., with his father,
+              Josiah W. Bailey</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1947</date>
+          <eventgrp>
+            <event>Father died and Bailey began to practice law alone</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1948</date>
+          <eventgrp>
+            <event>Unsuccessful candidate for North Carolina State Senate</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1950</date>
+          <eventgrp>
+            <event>Elected to North Carolina Senate, 13th Senatorial District, Wake County</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1952</date>
+          <eventgrp>
+            <event>Reelected to the North Carolina Senate from the 13th Senatorial District, Wake
+              County</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1953-1965</date>
+          <eventgrp>
+            <event>Served as general counsel to the North Carolina Bankers' Association</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1954-1962</date>
+          <eventgrp>
+            <event>Entered law practice of Bailey &amp; Bason in Raleigh, N.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1962-1965</date>
+          <eventgrp>
+            <event>Entered law practice of Bailey &amp; Ragsdale in Raleigh, N.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1965, July 9</date>
+          <eventgrp>
+            <event>Appointed Judge of the Superior Court, 10th Judicial District of North
+              Carolina</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1966</date>
+          <eventgrp>
+            <event>Elected to unexpired term as judge</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1968</date>
+          <eventgrp>
+            <event>Marie F. P. Bailey died</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1972, June 3</date>
+          <eventgrp>
+            <event>Married Ann Thomas</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1972</date>
+          <eventgrp>
+            <event>Elected to full term as judge</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1985, July</date>
+          <eventgrp>
+            <event>Retired from the bench.</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <p>Bailey held leadership positions in a variety of civic and professional organizations,
+        among them the American Red Cross, the Raleigh Chamber of Commerce, the Raleigh Traffic
+        Safety Council, the North Carolina Amvets, the North Carolina Boy Scouts, and the Wake
+        County Bar Association.</p>
+      <p>As a state senator, Bailey served as chair of the Interstate Federal Relations and
+        Judiciary committees. Bailey has two sons, James H. Pou Bailey II and Edwin Pate Bailey.</p>
+    </bioghist>
+    <scopecontent id="aspace_95739e0705db69b96b429ee233337e58">
+      <head>Collection Overview</head>
+      <p>The James H. Pou Bailey Papers span the years 1901 to 1970 with the bulk of the papers
+        dating from 1948 to 1965. The Law Practices: Clients Series (CLOSED), which contains papers
+        relating to specific clients in his law practice, comprises the bulk of the collection. The
+        papers also document Bailey's political interests and pursuit of political office, financial
+        and legal matters pertaining to himself and family members, and his involvement in civic
+        organizations. These concerns are documented by the Correspondence, Subject Files, Legal and
+        Financial Papers, and Writings and Speeches Series. While the collection contains a few
+        speeches to various organizations and civic groups, there are not as many as one might
+        expect from a person who ran for the North Carolina State Senate three times and held the
+        office for two terms (four years). Also, there are not many papers relating to his tenure as
+        Judge of Superior Court from the 10th Judicial District.</p>
+      <p>The business and financial climate in North Carolina during the late 1940s to the early
+        1960s may be studied through the Law Practices: Clients (CLOSED) and Subject Files Series.
+        Early efforts to promote cable television in North Carolina (1963-1964) through the
+        Engineering Sales Corporation of Raleigh, N.C. and to encourage the use of natural gas in
+        North Carolina (1955-1959) through the efforts of consulting engineers, Porter, Barry, &amp;
+        Associates of Baton Rouge, La. are delineated in this series. Both firms were legal clients
+        of Bailey.</p>
+      <p>Of particular note are several political figures represented in the Correspondence Series,
+        including North Carolina Senator Willis Smith and Virginia Senator Harry F. Byrd. The
+        business, professional, and personal relationship of Bailey with United States Senator from
+        North Carolina, Jesse Helms, is reflected in the Correspondence and Law Practices: Clients
+        Series (CLOSED). The papers particularly concern Helms's position as administrative
+        assistant to Senator Willis Smith and the offices Helms held in the North Carolina Bankers
+        Association (NCBA), a Bailey client. Information about policies and laws affecting banks in
+        North Carolina are also represented in the Law Practices: Clients Series (CLOSED). The
+        Subject Files Series contains Bailey's Senatorial Papers (1950-1954). Included is
+        constituent mail, information pertaining to political appointments, and his service on
+        various committees, including his chairmanship of the Interstate and Federal Relations and
+        Judiciary Committees.</p>
+      <p>The Subject Files and Legal and Financial Papers Series disclose some of the financial
+        interests held by Bailey and his family. Most notable are their interest in the Andrew
+        Johnson Hotel in Raleigh, N.C. and Bailey's interest in a 360 acre farm in Johnston County,
+        N.C. Included is information relating to the management of both enterprises. The collection
+        also highlights father-son relationships in the correspondence between Josiah W. Bailey and
+        James H. Pou Bailey and between James H. Pou Bailey and his son, Jim. (Correspondence
+        Series).</p>
+      <p>The Josiah W. Bailey (Bailey's father) Papers is a related collection in the David M.
+        Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Banks and banking -- North Carolina</subject>
+      <subject source="lcsh">Fathers and sons</subject>
+      <geogname source="lcsh">North Carolina -- Economic conditions</geogname>
+      <subject source="lcsh">Domestic relations -- North Carolina -- Cases</subject>
+      <subject source="lcsh">Farm Management -- North Carolina -- Johnston County</subject>
+      <subject source="lcsh">Hotel management -- North Carolina -- Raleigh</subject>
+      <subject source="lcsh">Gas, Natural -- North Carolina</subject>
+      <subject source="lcsh">Cable television -- North Carolina</subject>
+      <subject source="lcsh">Judicial power -- North Carolina</subject>
+      <geogname source="lcsh">North Carolina -- Politics and government</geogname>
+      <subject source="lcsh">Intergovernmental tax relations -- North Carolina</subject>
+      <subject source="lcsh">Lawyers -- North Carolina</subject>
+      <subject source="lcsh">Intergovernmental fiscal relations -- North Carolina</subject>
+      <subject source="lcsh">Commercial law -- North Carolina</subject>
+      <corpname source="ingest">Andrew Johnson Hotel (Raleigh, N.C.)</corpname>
+      <persname source="ingest">Smith, Willis, 1887-1953</persname>
+      <corpname source="ingest">Porter, Barry and Associates (Baton Rouge, La.)</corpname>
+      <corpname source="ingest">North Carolina. General Assembly. Senate</corpname>
+      <corpname source="ingest">North Carolina Bankers Association</corpname>
+      <persname source="ingest">Helms, Jesse</persname>
+      <corpname source="ingest">Engineering Sales Corporation (Raleigh, N.C.)</corpname>
+      <persname source="ingest">Byrd, Harry Flood, 1887-1966</persname>
+      <persname source="ingest">Bailey, Josiah William, 1873-1946</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref13_vil" level="series">
+        <did>
+          <unittitle>Correspondence Series, 1926-1967 and undated</unittitle>
+          <physdesc id="aspace_94753320730f0bb1b9bfffe1affbc673">1,680 items; 2.8 linear
+            ft</physdesc>
+        </did>
+        <scopecontent id="aspace_bc451339f3f424c295d20e7c1983d0b0">
+          <head>Scope and Contents note</head>
+          <p>Includes personal, business, and political correspondence. There is some overlap
+            between correspondence in this series and that located in the Subject Files: Politics
+            Series.</p>
+        </scopecontent>
+        <arrangement id="aspace_e154864fcc4c82e63ccac9babc48d4b0">
+          <head>Arrangement note</head>
+          <p>Arranged primarily in chronological order, with the exception that the correspondence
+            of Bailey's father, Senator Josiah W. Bailey, is in a separate file.</p>
+        </arrangement>
+        <c02 id="aspace_ref15_kq2" level="file">
+          <did>
+            <unittitle>1940-1951</unittitle>
+            <physdesc id="aspace_8eefdd46c6849cbb2b823c6d1024bd47"><extent>7
+              folders</extent></physdesc>
+            <container id="aspace_f7baa0c4765378f5db8c56ef97b6b5e2" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref17_t44" level="file">
+          <did>
+            <unittitle>1952-1954</unittitle>
+            <physdesc id="aspace_7eaf3e69528d10bdd8d9ae8ec7fd6b8a"><extent>6
+              folders</extent></physdesc>
+            <container id="aspace_480e7a1b37b7a033d652524ead9d9e0a" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref19_0vi" level="file">
+          <did>
+            <unittitle>1955-1959, Aug.</unittitle>
+            <physdesc id="aspace_84f271667c01284fe55a0eb3a478be61"><extent>6
+              folders</extent></physdesc>
+            <container id="aspace_bf7a23b029fad2f5dda29ff467e6b44c" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref21_48r" level="file">
+          <did>
+            <unittitle>1959-Sept.-1963</unittitle>
+            <physdesc id="aspace_0015f83073837d82d18bcde837e77c57"><extent>7
+              folders</extent></physdesc>
+            <container id="aspace_343e6ba8cfad84ff4f3b3fbdad96c8a9" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref23_nl5" level="file">
+          <did>
+            <unittitle>1964-1967, undated</unittitle>
+            <physdesc id="aspace_072bf91f3f7d38912938899f060a2aa0"><extent>6
+              folders</extent></physdesc>
+            <container id="aspace_06fcac2d7d0a89c969b597d4d77700dc" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref25_7n6" level="file">
+          <did>
+            <unittitle>Bailey, Josiah W., 1926-1943</unittitle>
+            <physdesc id="aspace_f45e09dd8af1cbd9aa486302da99abf6"><extent>6
+              folders</extent></physdesc>
+            <container id="aspace_603d87c6440742a0d6d4636445d21fcb" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref27_lby" level="file">
+          <did>
+            <unittitle>Bailey, Josiah W., 1944-1946</unittitle>
+            <physdesc id="aspace_6f642c96cac7fce96e1bcc3131b38156"><extent>7
+              folders</extent></physdesc>
+            <container id="aspace_dff944bd967e987de31c4226322440f9" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref31_jbs" level="series">
+        <did>
+          <unittitle>Law Practices: Clients Series (CLOSED), 1947-1966.</unittitle>
+          <physdesc id="aspace_36bc5a0f32b0aca67814abf65b3b0652">3,600 items; 6 linear
+            ft.</physdesc>
+        </did>
+        <accessrestrict id="aspace_11dcfb2027c0377d4d743982332bf65f">
+          <head>Conditions Governing Access note</head>
+          <p>The Law Practices: Client Files Series (boxes 8-22) are closed for 75 years after the
+            last date of creation for files in the series (1966). This restriction will be reviewed
+            in 2041.</p>
+        </accessrestrict>
+        <scopecontent id="aspace_a2a5e3209b46edbacab3f6d5740c12d5">
+          <head>Scope and Contents note</head>
+          <p>Primarily correspondence, legal and financial papers, clippings, and handwritten notes
+            pertaining to law clients of Bailey. The series is divided into two sections: business
+            and domestic relations cases. Incorporated companies comprise the bulk of the business
+            clients, while the domestic relations cases primarily consist of divorce and child
+            custody suits.</p>
+        </scopecontent>
+        <arrangement id="aspace_82b3af11ff22cc787c748f32ecf33315">
+          <head>Arrangement note</head>
+          <p>Each section is arranged in alphabetical order by name of client. However, because of
+            the amount of material for some business clients, the papers for some are further
+            subdivided.</p>
+        </arrangement>
+        <c02 id="aspace_ref33_vdx" level="file">
+          <did>
+            <unittitle>B-E, 1948-1966 and undated</unittitle>
+            <container id="aspace_88050aa2009a198a222ff2ac3277258b" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref34_od1" level="file">
+          <did>
+            <unittitle>E-K, 1952-1964 and undated</unittitle>
+            <container id="aspace_b8e3df39bb81b00a49f1b4be84621e92" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref35_w7i" level="file">
+          <did>
+            <unittitle>K-N, 1948-1961 and undated</unittitle>
+            <container id="aspace_53f3767e50dda587bb64dcf48201d707" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref36_24q" level="file">
+          <did>
+            <unittitle>N, 1955-1959</unittitle>
+            <container id="aspace_0124a1d722615b580a9041163f8491b5" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref37_goh" level="file">
+          <did>
+            <unittitle>N, 1959-1963</unittitle>
+            <container id="aspace_76ebc71741b4437c205b8969e62f6edf" label="Mixed Materials"
+              type="box">12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref38_qc4" level="file">
+          <did>
+            <unittitle>N, 1951-1966 and undated</unittitle>
+            <container id="aspace_83d0b196b97ebd7bdbae2fd7e37996c6" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref39_grp" level="file">
+          <did>
+            <unittitle>N, 1951-1965 and undated</unittitle>
+            <container id="aspace_a08e07de8ad582536ae0d198a88f0e24" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref40_qnm" level="file">
+          <did>
+            <unittitle>N, 1951-1965 and undated</unittitle>
+            <container id="aspace_034c1a02ee62119bd9d4b3f4f3acf634" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref41_120" level="file">
+          <did>
+            <unittitle>N-P, 1887-1962 and undated</unittitle>
+            <container id="aspace_526bc61489fd2a0aa541c9c6b691bba6" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref42_w7l" level="file">
+          <did>
+            <unittitle>P, 1947-1960 and undated</unittitle>
+            <container id="aspace_18a1d82cc1fd0736006fa349603e70bc" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref43_5q5" level="file">
+          <did>
+            <unittitle>P, 1956-1957</unittitle>
+            <container id="aspace_a28a9efbf7be4e98401f32f18265bf47" label="Mixed Materials"
+              type="box">18</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref44_vd7" level="file">
+          <did>
+            <unittitle>P-W and Miscellaneous, 1922-1966 and undated</unittitle>
+            <container id="aspace_2b55f21094f34b0a981f2ee3916f91cf" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref48_i6k" level="series">
+        <did>
+          <unittitle>Law Practices: Clients: Domestic Relations Series (CLOSED)</unittitle>
+        </did>
+        <accessrestrict id="aspace_66003c6e6883e74448d4ada129b5e5be">
+          <head>Conditions Governing Access</head>
+          <p>The Law Practices: Client Files Series (boxes 8-22) are closed for 75 years after the
+            last date of creation for files in the series (1966). This restriction will be reviewed
+            in 2041.</p>
+        </accessrestrict>
+        <c02 id="aspace_ref49_h5b" level="file">
+          <did>
+            <unittitle>A-H, 1947-1961 and undated</unittitle>
+            <container id="aspace_4fd7c87a9855c854d66587c5a7406d30" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref50_g44" level="file">
+          <did>
+            <unittitle>H-N, 1951-1966 and undated</unittitle>
+            <container id="aspace_8f9f05d914e0b05cecbbb5f898993d13" label="Mixed Materials"
+              type="box">21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref51_00o" level="file">
+          <did>
+            <unittitle>N-W and Miscellaneous, 1946-1964</unittitle>
+            <container id="aspace_0f6e18fc15c6248b79dd18e31df832cf" label="Mixed Materials"
+              type="box">22</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref52_b22" level="series">
+        <did>
+          <unittitle>Subject Files Series, 1947-1970.</unittitle>
+          <physdesc id="aspace_c025b817ea7b7796f3c515a202c388bb">2,880 items; 4.8 linear
+            ft.</physdesc>
+        </did>
+        <scopecontent id="aspace_0d47964a67306dd23c4bcbd86d58c2b9">
+          <head>Scope and Contents note</head>
+          <p>Correspondence, legal and financial papers, press releases, and newsclippings relating
+            to civic, political, and professional organizations. Also includes papers concerning
+            political campaigns, Bailey's career, and some of his financial interests.</p>
+        </scopecontent>
+        <arrangement id="aspace_89fb3a8bfa27508079595470d0695071">
+          <head>Arrangement note</head>
+          <p>Arranged alphabetically by name of organization or topic. Large files are divided into
+            subgroups.</p>
+        </arrangement>
+        <c02 id="aspace_ref54_atk" level="file">
+          <did>
+            <unittitle>Andrew Johnson Hotel:</unittitle>
+            <container id="aspace_5066fb378d1c10d13fa76a6d456140ce" label="Mixed Materials"
+              type="box">23</container>
+          </did>
+          <c03 id="aspace_ref55_5iy" level="file">
+            <did>
+              <unittitle>Correspondence, 1947-1964</unittitle>
+              <physdesc id="aspace_8c3ff60a50762d4f2349a24f86d78ef4"><extent>5
+                folders</extent></physdesc>
+              <container id="aspace_b09160215acc08cdd24d541d2aa32c8d" label="Mixed Materials"
+                type="box">23</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref57_lbs" level="file">
+            <did>
+              <unittitle>Legal Papers, 1945-1964, undated</unittitle>
+              <physdesc id="aspace_ca1b0b211ba00d34b6015bc4cf45b4f6"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_a070bd14a8c037677fd73240f72bc390" label="Mixed Materials"
+                type="box">24</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref59_8cb" level="file">
+            <did>
+              <unittitle>Financial Papers, 1948-1961</unittitle>
+              <physdesc id="aspace_58fb106347a55c762ff4d8341f896f19"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_d45668fba6003be2e69f02ba63505fce" label="Mixed Materials"
+                type="box">24</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref61_1ny" level="file">
+            <did>
+              <unittitle>Financial Papers,</unittitle>
+              <container id="aspace_eca3787cd11c418fc22a0ad2aac2b77c" label="Mixed Materials"
+                type="box">25</container>
+            </did>
+            <c04 id="aspace_ref62_z2r" level="file">
+              <did>
+                <unittitle>1962-1965, undated</unittitle>
+                <container id="aspace_2712cc0fbff61bc04bd5aa803d6a3d80" label="Mixed Materials"
+                  type="box">25</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref63_2t1" level="file">
+              <did>
+                <unittitle>Monthly statements, 1950-1959</unittitle>
+                <physdesc id="aspace_0989d2d3805e9ae516193383e5ab6d77"><extent>4
+                  folders</extent></physdesc>
+                <container id="aspace_673d5d2ae99f748be4d1a2ca09bf4f0f" label="Mixed Materials"
+                  type="box">25</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref65_sxj" level="file">
+            <did>
+              <unittitle>Financial Papers:</unittitle>
+              <container id="aspace_e7f82d1395d99060364951efbd012dd8" label="Mixed Materials"
+                type="box">26</container>
+            </did>
+            <c04 id="aspace_ref66_ou3" level="file">
+              <did>
+                <unittitle>Monthly statements, 1960-1962</unittitle>
+                <container id="aspace_2251518dd8ebe90f2d427f6ea83fdcb3" label="Mixed Materials"
+                  type="box">26</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref67_nah" level="file">
+              <did>
+                <unittitle>Insurance and Inspection Records, 1951-1964, undated</unittitle>
+                <physdesc id="aspace_750d0ca015e8bf701ef853efa1b8bf99"><extent>2
+                  folders</extent></physdesc>
+                <container id="aspace_aeb0760f706d93178cf465fd466df9df" label="Mixed Materials"
+                  type="box">26</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref69_v03" level="file">
+              <did>
+                <unittitle>Consultants' Reports, 1957-1961, undated</unittitle>
+                <container id="aspace_cb831c1372bb9c277ae22f761207a21d" label="Mixed Materials"
+                  type="box">26</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref70_oer" level="file">
+            <did>
+              <unittitle>Plans, Specifications, etc., undated</unittitle>
+              <container id="aspace_1a1b7b5173b9a00d467fab2955b24143" label="Mixed Materials"
+                type="box">26</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref71_7l3" level="file">
+          <did>
+            <unittitle>Hoover Commission, 1949-1950</unittitle>
+            <container id="aspace_d8aadbcc5150a9e1de8f12599e8f8631" label="Mixed Materials"
+              type="box">27</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref72_y44" level="file">
+          <did>
+            <unittitle>Institute of Religion, 1956</unittitle>
+            <container id="aspace_ca9bea1ab7f302855c60375eff923ae1" label="Mixed Materials"
+              type="box">27</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref73_o6z" level="file">
+          <did>
+            <unittitle>Johnston Co. Farm, 1946-1959</unittitle>
+            <physdesc id="aspace_38b8ba5d5375a8030714e2e78fcfe38e"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_b89d2f80c4fbfc36de2909ed20a0c86e" label="Mixed Materials"
+              type="box">27</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref75_dly" level="file">
+          <did>
+            <unittitle>Johnston Co. Farm, 1960-1962, undated</unittitle>
+            <container id="aspace_4f1b6a60b27e304f1bf38bb72649cb9b" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref76_u5w" level="file">
+          <did>
+            <unittitle>Judicial Papers:</unittitle>
+          </did>
+          <c03 id="aspace_ref77_0ot" level="file">
+            <did>
+              <unittitle>Correspondence, 1965, July-1966</unittitle>
+              <physdesc id="aspace_9b1d9241d9cadf215cddca50110b54cf"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_5d3b5f8fe34df2e4109526aae2242bdb" label="Mixed Materials"
+                type="box">28</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref79_cns" level="file">
+            <did>
+              <unittitle>Miscellaneous, 1965-1970</unittitle>
+              <container id="aspace_90af8683ab67a046c87c77880f112e62" label="Mixed Materials"
+                type="box">28</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref80_5yv" level="file">
+          <did>
+            <unittitle>Legislative Matters: Micellaneous, 1949-1963, undated</unittitle>
+            <container id="aspace_dd53682550fc0ae7a4c6e8bfff880e02" label="Mixed Materials"
+              type="box">28</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref81_ok5" level="file">
+          <did>
+            <unittitle>Organizations:</unittitle>
+          </did>
+          <c03 id="aspace_ref82_xe1" level="file">
+            <did>
+              <unittitle>American Red Cross, 1950</unittitle>
+              <container id="aspace_572b3a5ca10d922e06544693a4f5e25f" label="Mixed Materials"
+                type="box">28</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref83_145" level="file">
+            <did>
+              <unittitle>Capital City Club, Inc., 1961-1964, undated</unittitle>
+              <container id="aspace_e2a024993da50cffc0f279723ca3883d" label="Mixed Materials"
+                type="box">28</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref84_799" level="file">
+          <did>
+            <unittitle>Organizations:</unittitle>
+            <container id="aspace_755ebe38e3d075055fd38db6ed3e121e" label="Mixed Materials"
+              type="box">29</container>
+          </did>
+          <c03 id="aspace_ref85_rj7" level="file">
+            <did>
+              <unittitle>Chamber of Commerce, 1947-1963, undated</unittitle>
+              <physdesc id="aspace_a84ddab9b876d95c0e6a2dfdb4978347"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_65aa53bd8b419dc0833b9ca3748d2856" label="Mixed Materials"
+                type="box">29</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref87_iqm" level="file">
+            <did>
+              <unittitle>Civil Defense, 1952-1953, undated</unittitle>
+              <container id="aspace_b3e4b4ce79f2d7c817316f65e613803a" label="Mixed Materials"
+                type="box">29</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref88_pte" level="file">
+            <did>
+              <unittitle>General Statutes Commission, 1953-1959, undated</unittitle>
+              <container id="aspace_c79fae62e9533f82a0c3c4dd5c8ab604" label="Mixed Materials"
+                type="box">29</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref89_69s" level="file">
+            <did>
+              <unittitle>Kiwanis Club, 1963-1964, undated</unittitle>
+              <container id="aspace_5c1286e63abe8c53f0842ed77bcf523a" label="Mixed Materials"
+                type="box">29</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref90_ai8" level="file">
+            <did>
+              <unittitle>N.C. Amvets, 1946-1953, undated</unittitle>
+              <container id="aspace_4109b73aebbb1ac1c42c130d5b81610e" label="Mixed Materials"
+                type="box">29</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref91_2zy" level="file">
+            <did>
+              <unittitle>N.C. Boy Scouts, 1946-1962, undated</unittitle>
+              <container id="aspace_96ca8bc8a604a5b5668da1f9f11db695" label="Mixed Materials"
+                type="box">29</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref92_hrh" level="file">
+            <did>
+              <unittitle>Raleigh Ports Authority, 1957</unittitle>
+              <container id="aspace_7aedd0d3e5fb1ede4b714b911f5af60a" label="Mixed Materials"
+                type="box">29</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref93_p2w" level="file">
+          <did>
+            <unittitle>Organizations:</unittitle>
+            <container id="aspace_b36869153efb08cd23a658fcb543892e" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+          <c03 id="aspace_ref94_w5h" level="file">
+            <did>
+              <unittitle>Terpsichorean Club, 1949, undated</unittitle>
+              <container id="aspace_1f57ef3b8a8cdb8084d14e5d13bc2491" label="Mixed Materials"
+                type="box">30</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref95_pkc" level="file">
+            <did>
+              <unittitle>Wake County Bar Association--Legal Aid Committee, 1947-1965,
+                undated</unittitle>
+              <container id="aspace_e7671fccd6a5e9289c074d8f1e9bb068" label="Mixed Materials"
+                type="box">30</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref96_lst" level="file">
+            <did>
+              <unittitle>Young Democrats Club, 1946-1953</unittitle>
+              <container id="aspace_c49a05dfde4c5b902ea3031e6d254125" label="Mixed Materials"
+                type="box">30</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref97_yrm" level="file">
+            <did>
+              <unittitle>Miscellaneous, 1948-1963</unittitle>
+              <container id="aspace_998222eecd6287249f67939fbbc91ab3" label="Mixed Materials"
+                type="box">30</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref98_coc" level="file">
+          <did>
+            <unittitle>Outer Banks Project, 1952</unittitle>
+            <container id="aspace_35610214bfc3c9cf8b88fcfc0ac99568" label="Mixed Materials"
+              type="box">30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref99_eqc" level="file">
+          <did>
+            <unittitle>Politics:</unittitle>
+          </did>
+          <c03 id="aspace_ref100_war" level="file">
+            <did>
+              <unittitle>Campaigns:</unittitle>
+            </did>
+            <c04 id="aspace_ref101_467" level="file">
+              <did>
+                <unittitle>J.H.P. Bailey, 1948-1952, undated</unittitle>
+                <physdesc id="aspace_10d4c2d26153a8cfaeb6928e7f0711f5"><extent>4
+                  folders</extent></physdesc>
+                <container id="aspace_0a0d7612dceb38361f40ec35735a0b56" label="Mixed Materials"
+                  type="box">30</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref103_qf3" level="file">
+              <did>
+                <unittitle>Mallard-Morris, 1968, undated</unittitle>
+                <container id="aspace_82b2aff3d09813d0cde41f562af97cb1" label="Mixed Materials"
+                  type="box">30</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref104_1fz" level="file">
+          <did>
+            <unittitle>Politics:</unittitle>
+            <container id="aspace_f8ddae565653b05a302bfb674e29ad52" label="Mixed Materials"
+              type="box">31</container>
+          </did>
+          <c03 id="aspace_ref105_x7g" level="file">
+            <did>
+              <unittitle>Campaigns:</unittitle>
+            </did>
+            <c04 id="aspace_ref106_yp5" level="file">
+              <did>
+                <unittitle>Dan K. Moore, 1964, undated</unittitle>
+                <container id="aspace_d7595697080dc3541c46eaedd9f225a6" label="Mixed Materials"
+                  type="box">31</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref107_kw9" level="file">
+              <did>
+                <unittitle>George Wallace for President, 1964, undated</unittitle>
+                <container id="aspace_5a5f0902e32761182d9685579c725280" label="Mixed Materials"
+                  type="box">31</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref108_v77" level="file">
+              <did>
+                <unittitle>Miscellaneous, 1951-1964</unittitle>
+                <container id="aspace_5af8fdc25c662ea3e518fa8cd36eac8f" label="Mixed Materials"
+                  type="box">31</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref109_gz3" level="file">
+              <did>
+                <unittitle>Proposed Candidacy for U. S. Congress (J.H.P. Bailey vs. Harold Cooley),
+                  1956, undated</unittitle>
+                <container id="aspace_ce750d77628563c7ee6ce7858f89c2b2" label="Mixed Materials"
+                  type="box">31</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref110_hb4" level="file">
+            <did>
+              <unittitle>Senatorial papers:</unittitle>
+            </did>
+            <c04 id="aspace_ref111_vf3" level="file">
+              <did>
+                <unittitle>Correspondence, 1950, Oct.-1951, July</unittitle>
+                <physdesc id="aspace_87230e3fc8dc30e360d76d2cf34a3869"><extent>3
+                  folders</extent></physdesc>
+                <container id="aspace_9621468466c8e116bbc80b3f633a7b4c" label="Mixed Materials"
+                  type="box">31</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref113_tzi" level="file">
+          <did>
+            <unittitle>Politics:</unittitle>
+            <container id="aspace_9520540b4231eadc815590d6d11f6f06" label="Mixed Materials"
+              type="box">32</container>
+          </did>
+          <c03 id="aspace_ref114_l9n" level="file">
+            <did>
+              <unittitle>Senatorial papers:</unittitle>
+            </did>
+            <c04 id="aspace_ref115_6xt" level="file">
+              <did>
+                <unittitle>Correspondence, 1951-1954, undated</unittitle>
+                <physdesc id="aspace_ab384312265e4132361bc6e6c849f4b4"><extent>3
+                  folders</extent></physdesc>
+                <container id="aspace_19bb87c1fd1ea72528645d29ddd3308b" label="Mixed Materials"
+                  type="box">32</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref117_ho6" level="file">
+              <did>
+                <unittitle>Appointments, 1952-1953</unittitle>
+                <container id="aspace_e0ff22be14a2aa4e90251c678fd772a4" label="Mixed Materials"
+                  type="box">32</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref118_xq2" level="file">
+              <did>
+                <unittitle>Auto Inspection Bill-- Inaugural Committee</unittitle>
+                <container id="aspace_87eb27cb69a2c098a11ead75f87b8e43" label="Mixed Materials"
+                  type="box">32</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref119_ak9" level="file">
+          <did>
+            <unittitle>Politics:</unittitle>
+            <container id="aspace_8d88d283e6c7d0530af72c956a88694e" label="Mixed Materials"
+              type="box">33</container>
+          </did>
+          <c03 id="aspace_ref120_qsa" level="file">
+            <did>
+              <unittitle>Senatorial papers:</unittitle>
+            </did>
+            <c04 id="aspace_ref121_dgk" level="file">
+              <did>
+                <unittitle>Interstate and Federal regulations, 1953-1954, undated</unittitle>
+                <physdesc id="aspace_9fe6f84738854f0ee7dbdc856155de7a"><extent>3
+                  folders</extent></physdesc>
+                <container id="aspace_6eb92de66c8166ef7fa68e434a2ebc6e" label="Mixed Materials"
+                  type="box">33</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref123_88l" level="file">
+              <did>
+                <unittitle>Judiciary Committee, 1953</unittitle>
+                <container id="aspace_2405ee7316f6e3982cf01a5cdf223e9e" label="Mixed Materials"
+                  type="box">33</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref124_7mw" level="file">
+              <did>
+                <unittitle>Libraries-- Minimum Wage, 1953</unittitle>
+                <container id="aspace_7897ab9cc08376f31b510408996d863a" label="Mixed Materials"
+                  type="box">33</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref125_d7a" level="file">
+              <did>
+                <unittitle>N.C. State Taxes, 1952-1953</unittitle>
+                <container id="aspace_f670d58f1c2d23ffac0b486191f18c64" label="Mixed Materials"
+                  type="box">33</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref126_118" level="file">
+              <did>
+                <unittitle>Raleigh, N.C., 1951-1953</unittitle>
+                <container id="aspace_6bdbb72478823df31a257d2a6a2878e8" label="Mixed Materials"
+                  type="box">33</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref127_eaz" level="file">
+              <did>
+                <unittitle>State employees-- Sunday auto racing, 1951-1953</unittitle>
+                <container id="aspace_02b39d716805243f3f9b5ee2636f8a1d" label="Mixed Materials"
+                  type="box">33</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref128_jo6" level="file">
+          <did>
+            <unittitle>Politics:</unittitle>
+            <container id="aspace_a5abcd91c8979425859b14faeb706ff7" label="Mixed Materials"
+              type="box">34</container>
+          </did>
+          <c03 id="aspace_ref129_u19" level="file">
+            <did>
+              <unittitle>Senatorial papers:</unittitle>
+            </did>
+            <c04 id="aspace_ref130_38w" level="file">
+              <did>
+                <unittitle>United States Forces for Education, 1953</unittitle>
+                <container id="aspace_ae648c625961313208ae9fc9d4f73ca9" label="Mixed Materials"
+                  type="box">34</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref131_zqg" level="file">
+              <did>
+                <unittitle>Miscellaneous, 1950-1964</unittitle>
+                <physdesc id="aspace_b75e4d570d8bf9e805d64018f046f058"><extent>2
+                  folders</extent></physdesc>
+                <container id="aspace_e094b87c388e380f5281a359e6a1e707" label="Mixed Materials"
+                  type="box">34</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref133_qld" level="file">
+          <did>
+            <unittitle>Race Relations, 1951-1958, undated</unittitle>
+            <container id="aspace_26ac5b57938252fee84b181fed08e46c" label="Mixed Materials"
+              type="box">34</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref134_ddd" level="file">
+          <did>
+            <unittitle>Raleigh, N.C., 1946-1960, undated</unittitle>
+            <container id="aspace_2186245d82f15c2ed9c0ac6f3561ef0a" label="Mixed Materials"
+              type="box">34</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref135_r2b" level="file">
+          <did>
+            <unittitle>U.S. Attorney for the Eastern District, N.C.--proposed appt. of James H. Pou
+              Bailey, 1961</unittitle>
+            <container id="aspace_d54c2ad2a896411728bf4f36227531ad" label="Mixed Materials"
+              type="box">34</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref136_6ig" level="file">
+          <did>
+            <unittitle>Woodberry Forest School, 1941-1964, undated</unittitle>
+            <container id="aspace_dfc1035cdcd4d7bd478efe9005e32890" label="Mixed Materials"
+              type="box">34</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref139_fx3" level="series">
+        <did>
+          <unittitle>Legal and Financial Papers Series, 1901-1966 and undated</unittitle>
+          <physdesc id="aspace_bbc27e4a39ec8ccfce07e819efcde6c2">275 items; 0.5 linear
+            ft.</physdesc>
+        </did>
+        <scopecontent id="aspace_28dcb9776980874ec9e366cb00c4528b">
+          <head>Scope and Contents note</head>
+          <p>Correspondence, leases, wills, deeds, receipts, and other financial papers primarily
+            pertaining to the settlement of estates of Bailey relatives, both maternal (Pou) and
+            paternal, (Bailey) family members.</p>
+        </scopecontent>
+        <arrangement id="aspace_b1244cee70dc40c77a182252b54b7b6f">
+          <head>Arrangement note</head>
+          <p>Files are arranged by name of family member or family.</p>
+        </arrangement>
+        <c02 id="aspace_ref141_id4" level="file">
+          <did>
+            <unittitle>Bailey Family, 1947-1952</unittitle>
+            <container id="aspace_61d8029804a1dd268749073b22350cda" label="Mixed Materials"
+              type="box">35</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref142_6c0" level="file">
+          <did>
+            <unittitle>Bailey, James H. Pou:</unittitle>
+          </did>
+          <c03 id="aspace_ref143_t8a" level="file">
+            <did>
+              <unittitle>1945-1960</unittitle>
+              <container id="aspace_c7056e5dfdbf10e054b00ea24cd5f915" label="Mixed Materials"
+                type="box">35</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref144_3tf" level="file">
+            <did>
+              <unittitle>Raleigh Union Bus Station Trust, 1960-1961</unittitle>
+              <container id="aspace_72d9862d3f9eabc6621cd3d8523ad166" label="Mixed Materials"
+                type="box">35</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref145_12a" level="file">
+          <did>
+            <unittitle>Bailey, Josiah W., 1929-1952</unittitle>
+            <container id="aspace_a89e1c473aebc19c309b9e98e29d897b" label="Mixed Materials"
+              type="box">35</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref146_pov" level="file">
+          <did>
+            <unittitle>Pou Family, 1901-1966, undated</unittitle>
+            <physdesc id="aspace_6bc6e3bc1a6da97035f878e0f74cf840"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_6c6ed05022cbedb2ee5139241084c32a" label="Mixed Materials"
+              type="box">35</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref148_8pp" level="file">
+          <did>
+            <unittitle>Pou, Martha (Mattie), 1939-1949</unittitle>
+            <container id="aspace_62966e687df3e84b66551ab1821afad3" label="Mixed Materials"
+              type="box">36</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref151_rso" level="series">
+        <did>
+          <unittitle>Writings and Speeches, 1948-1960 and undated</unittitle>
+          <physdesc id="aspace_6247f2aede26685bfb1bd468ff140975">175 items; 0.3 linear
+            ft.</physdesc>
+        </did>
+        <scopecontent id="aspace_f065e4a3c63a1b8c934e337dc01e0ff3">
+          <head>Scope and Contents note</head>
+          <p>Chiefly typewritten copies of the column, <title type="simple" render="doublequote"
+              >Raleigh Roundup,</title> which appeared in 36 small town newspapers throughout North
+            Carolina with Bailey's picture and name. Includes reader correspondence relating to the
+            column. Also contains a few speeches Bailey made before various groups.</p>
+        </scopecontent>
+        <arrangement id="aspace_100a7ee7f883675c4243b79e22e0b736">
+          <head>Arrangement note</head>
+          <p>Subdivided into two subgroups: speeches he made before organizations and the rest
+            relating to the <title type="simple" render="doublequote">Raleigh Roundup</title>
+            column.</p>
+        </arrangement>
+        <c02 id="aspace_ref153_ezb" level="file">
+          <did>
+            <unittitle>1948-1960, undated</unittitle>
+            <container id="aspace_f71108f406a879822f28b81eb85ca079" label="Mixed Materials"
+              type="box">36</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref154_wrl" level="file">
+          <did>
+            <unittitle><title render="doublequote">Raleigh Round-Up,</title> 1950-1952,
+              undated</unittitle>
+            <physdesc id="aspace_93c8a82c51183de3cb24d233ba625b1e"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_524623d9a2aa26baa94256b1e1ad0d27" label="Mixed Materials"
+              type="box">36</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref158_l7f" level="series">
+        <did>
+          <unittitle>Miscellaneous Series, 1941-1969 and undated</unittitle>
+          <physdesc id="aspace_19e0445b06045df642ce353ab0bb2666">30 items; 0.2 linear ft.</physdesc>
+        </did>
+        <scopecontent id="aspace_44011ede78a070f16ae198fbaf86a28b">
+          <head>Scope and Contents note</head>
+          <p>Certificates, clippings, and photographs primarily relating to Bailey.</p>
+        </scopecontent>
+        <arrangement id="aspace_fa53ef465aafe47704b189a9815a5f0d">
+          <head>Arrangement note</head>
+          <p>Photographs are undated and are arranged at the end of the other miscellaneous
+            items.</p>
+        </arrangement>
+        <c02 id="aspace_ref160_sxb" level="file">
+          <did>
+            <unittitle>1941-1969, undated</unittitle>
+            <container id="aspace_8506a88fe404065888ad6d8a0ce69e88" label="Mixed Materials"
+              type="box">37</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref161_nlt" level="file">
+          <did>
+            <unittitle>Photographs, undated</unittitle>
+            <container id="aspace_85482674f8f875d9839e6e8a5adf7aee" label="Mixed Materials"
+              type="box">37</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref162_psy" level="file">
+          <did>
+            <unittitle>Scrapbook, undated</unittitle>
+            <container id="aspace_b632fe91b02f6810a95fdb682fc3d4ea" label="Mixed Materials"
+              type="box">37</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref165_8w0" level="series">
+        <did>
+          <unittitle>Oversize Materials Series</unittitle>
+        </did>
+        <c02 id="aspace_ref166_pwo" level="file">
+          <did>
+            <unittitle>Law Practices: Clients and Subject Files series (CLOSED)</unittitle>
+            <container id="aspace_e0a7eb76a92e139460948e13b2fd8a1c" label="Mixed Materials"
+              type="oversize-folder">Sec. A OV13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref167_jrv" level="file">
+          <did>
+            <unittitle>Law Cases: Clients and Subject Files series (CLOSED)</unittitle>
+            <container id="aspace_ccb5e382babc352bd3244d1a40a9c0f9" label="Mixed Materials"
+              type="oversize-folder">2</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

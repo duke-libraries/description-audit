@@ -1,0 +1,3399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/hubbelljay/">hubbelljay</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Jay B. Hubbell Papers, 1816-1998 and undated, bulk 1920-1979
+                  <num>RL.00581</num>
+            </titleproper>
+            <author>Processed by: Erma Whittington and Lauren Coats; machine-readable finding aid
+               created by: Lauren Coats</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2004</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002588761</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:21:34
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Jay B. Hubbell papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Hubbell, Jay B. (Jay Broadus), 1885-1979</persname>
+         </origination>
+         <unitid>RL.00581</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">10.2 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1816/1998" type="inclusive">1816-1998 and undated, bulk
+            1920-1979</unitdate>
+         <physloc id="aspace_8c4092afa7bd25e587a218807120eb65">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_16ce0a88721f6550de69630c10e488c2">Professor of American literature,
+            Duke University, Durham, N.C. The Jay B. Hubbell Papers span the years from 1816 to
+            1998, with the bulk of the material documenting Hubbell's career from his early student
+            years in the 1920s until his death in 1979. The collection consists mainly of his
+            professional papers, including correspondence with colleagues and literary figures,
+            articles written by others at his request for the Jay B. Hubbell Center, printed
+            materials inscribed to him and written by him, and unpublished manuscripts. The material
+            chronicles the four decades of Hubbell's career as professor and critic, which he
+            dedicated to the growth and development of American literature as a field of critical
+            inquiry. Among the many significant correspondents or subjects of others' writings are
+            Conrad Aiken, Gay Wilson Allen, Robert Frost, Clarence Gohdes, members of the Hubbell
+            family, Ralph Leslie Rusk, Carl Sandburg, Allen Tate, Arlin Turner, and John Hall
+            Wheelock. Other significant topics covered by the material include the founding of the
+            Jay B. Hubbell Center for American Literary Historiography at Duke University, the study
+            and teaching of literature from the American South, the activities of the faculty at
+            Duke University, and the development of the American Literature Section of the Modern
+            Language Association (MLA).</abstract>
+         <physdesc id="aspace_1cd89d9241ffe9d1cbc73f933114226d">
+            <extent>6375 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_1f4bf54e2e638a91bb201b01cd9c3958">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_88a6ba8415cc11880337a0d7b60c8c06">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_06d8c197f833b425d4de297059f53ef2">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have been transferred to Duke University. For
+            more information, consult the copyright section of the Regulations and Procedures of the
+            David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_07352f1fe8653924542a3d6ea22c4dc1">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Jay B. Hubbell Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_5c7f56d33639d22b165e7df93bc01725">
+         <head>Provenance</head>
+         <p>The Jay B. Hubbell Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift from Jay B. Hubbell in 1978, with additional materials
+            received from Hubbell and other donors from 1979 to 2001.</p>
+      </acqinfo>
+      <processinfo id="aspace_fef3b213b5115e47b953f534fba10018">
+         <head>Processing Information</head>
+         <p>Processed by Erma Whittington and Lauren Coats</p>
+         <p>Completed June 16, 2003</p>
+         <p>Encoded by Lauren Coats and Paula Jeannet</p>
+      </processinfo>
+      <bioghist id="aspace_98725693ac1afdd4b499dfd966f008c0">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1885 May 8</date>
+               <eventgrp>
+                  <event>Born, Smyth County, Va.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1905</date>
+               <eventgrp>
+                  <event>A.B., University of Richmond</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1908</date>
+               <eventgrp>
+                  <event>A.M., Harvard University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1915-1916</date>
+               <eventgrp>
+                  <event>Assistant Professor of English, Southern Methodist University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1916-1919</date>
+               <eventgrp>
+                  <event>Associate Professor, Southern Methodist University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1918</date>
+               <eventgrp>
+                  <event>Married Lucinda Smith</event>
+                  <event>Attended Field Artillery Central Officers Training Camp, Camp Zachary,
+                     Taylor, Ky.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1921-1927</date>
+               <eventgrp>
+                  <event>E. A. Lilly Professor of English and English Department Chair, Southern
+                     Methodist University, Tex.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1922</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">An Introduction to
+                        Poetry</title>
+                  </event>
+                  <event>Ph.D., Columbia University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1924</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Prairie Pegasus</title>
+                     (editor)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1924-1926</date>
+               <eventgrp>
+                  <event>Served as Group Chairman, American Literature Section, Modern Language
+                     Association</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1924-1927</date>
+               <eventgrp>
+                  <event>Editor, <title type="simple" render="italic">Southwest Review</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1927-1954</date>
+               <eventgrp>
+                  <event>Professor of American Literature, Duke University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1927</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">An Introduction to Drama
+                     </title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1928</date>
+               <eventgrp>
+                  <event>Founded <title type="simple" render="italic">American Literature</title>
+                     (journal)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1928-1954 </date>
+               <eventgrp>
+                  <event>Served as Chairman of the Board of Editors, <title type="simple"
+                        render="italic">American Literature</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1929</date>
+               <eventgrp>
+                  <event>Published first issue of <title type="simple" render="italic">American
+                        Literature</title>
+                  </event>
+                  <event>Published <title type="simple" render="italic">The Enjoyment of
+                        Literature</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1929-1930, 1932</date>
+               <eventgrp>
+                  <event>Visiting Professor, Columbia University summer sessions</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1936</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">American Life in
+                        Literature</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1939</date>
+               <eventgrp>
+                  <event>Served as Group Chairman, American Literature Section, Modern Language
+                     Association</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1941</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">The Last Years of Henry
+                        Timrod, 1864-1867</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1943-1948 </date>
+               <eventgrp>
+                  <event>Director of Graduate Studies, English Department, Duke University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1949</date>
+               <eventgrp>
+                  <event>Visiting Professor, University of California at Los Angeles</event>
+                  <event>Served as Visiting Expert with the U. S. Forces in Austria on the American
+                     Literature Project, and Visiting Professor of American Literature,
+                        <corpname>University of Vienna</corpname>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1950</date>
+               <eventgrp>
+                  <event>Served as Visiting Expert with the U. S. Forces in Austria on the American
+                     Literature Project, and Visiting Professor of American Literature, University
+                     of Vienna</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1953</date>
+               <eventgrp>
+                  <event>Served as Fulbright Professor of American Literature and Civilization,
+                        <corpname>University of Athens, Greece</corpname>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1954</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">The South in American
+                        Literature</title>
+                  </event>
+                  <event>Retired from Duke University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1954-1955</date>
+               <eventgrp>
+                  <event>Visiting Professor, University of Virginia</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1955</date>
+               <eventgrp>
+                  <event>Won Mayflower Award</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1956</date>
+               <eventgrp>
+                  <event>Served as Smith-Mundt Professor of American Literature, <corpname>Hebrew
+                        University</corpname>, Jerusalem</event>
+                  <event>Visiting Professor, Clemson University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1957-1958</date>
+               <eventgrp>
+                  <event>Visiting Professor, Columbia University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1959</date>
+               <eventgrp>
+                  <event>Delivered Eugenia Dorothy Blount Lamar Lectures, Mercer University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1960</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Southern Life in
+                        Fiction</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1961</date>
+               <eventgrp>
+                  <event>Visiting Professor, University of Kentucky</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1964</date>
+               <eventgrp>
+                  <event>Inauguration of the Jay B. Hubbell Medallion by the American Literature
+                     Section of the Modern Language Association</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1964-1967</date>
+               <eventgrp>
+                  <event>Appointed Honorary Consultant in American Cultural History, Library of
+                     Congress</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1965</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">South and Southwest</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1967</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Essays on American
+                        Literature in Honor of Jay B. Hubbell</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1972</date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Who Are the Major American
+                        Writers?</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1976</date>
+               <eventgrp>
+                  <event>Founded Jay B. Hubbell Center for American Literary Historiography; David
+                     M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1979 Feb. 13</date>
+               <eventgrp>
+                  <event>Died</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1980</date>
+               <eventgrp>
+                  <event>Lucinda Hubbell died</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_c07d63f6573551c94a7d4fc18cfb9b7c">
+         <head>Collection Overview</head>
+         <p>The Jay B. Hubbell Papers span the years from 1816 to 1998, with the bulk of the
+            material documenting Hubbell's career from his early student years in the 1920s until
+            his death in 1979. The collection consists mainly of his professional papers, including
+            correspondence with colleagues and literary figures, articles written by others at his
+            request for the Jay B. Hubbell Center, printed materials inscribed to him and written by
+            him, and unpublished manuscripts. The material chronicles the four decades of Hubbell's
+            career as professor and critic, which he dedicated to the growth and development of
+            American literature as a field of critical inquiry. Among the many significant
+            correspondents or subjects of others' writings are Conrad Aiken, Gay Wilson Allen,
+            Robert Frost, Clarence Gohdes, members of the Hubbell family, Ralph Leslie Rusk, Carl
+            Sandburg, Allen Tate, Arlin Turner, and John Hall Wheelock. Other significant topics
+            covered by the material include the founding of the Jay B. Hubbell Center for American
+            Literary Historiography at Duke University, the study and teaching of literature from
+            the American South, the activities of the faculty at Duke University, and the
+            development of the American Literature Section of the Modern Language Association (MLA).
+            The collection is divided into eight series: Biographical; Correspondence, Alphabetical;
+            Correspondence by Date; Writings and Speeches; Subject Files; Teaching Abroad;
+            Photographs; and Clippings.</p>
+         <p>The <emph render="bold">Biographical Data Series</emph> contains correspondence,
+            manuscripts of his autobiographical writings, financial and legal documents, writings by
+            his siblings, curriculum vitae, and obituaries, all of which chronicle Hubbell's life
+            from his earliest years until his death.</p>
+         <p>The largest component of the collection contains correspondence from colleagues, former
+            students, and literary figures. The <emph render="bold">Correspondence, Alphabetical
+               Series</emph> consists of many letters from students and colleagues. The bulk of the
+            correspondence gives shape to the nature and status of American literary studies in the
+            early- to mid-twentieth century. In particular, the many letters exchanged among
+            Hubbell, his colleagues, and his students provide insight into the routine professional
+            life of this first pioneering generation of scholars. From job appointments to topics of
+            scholarship, the letters uncover the kinds of professional interests and pressures that
+            influenced the formation of American literary studies. Additional miscellaneous letters
+            are arranged chronologically in the <emph render="bold">Correspondence by Date
+               Series</emph>. These letters mainly represent single items from colleagues,
+            publishers, and minor writers. The same topics are represented here as in the
+            correspondence arranged alphabetically.</p>
+         <p>Jay B. Hubbell authored numerous articles and books throughout his career which
+            contributed to the bibliography of American literary studies. Samples of such are
+            located in the collection's <emph render="bold">Writings and Speeches Series</emph>. The
+            series is divided into two subseries, the <emph render="bold">Writings by Hubbell
+               Subseries</emph> and the <emph render="bold">Writings by Others Subseries</emph>. The
+               <emph render="bold">Writings by Hubbell Subseries</emph> includes unpublished
+            manuscripts, publication files consisting of correspondence with publishers and review
+            clippings, and printed material consisting of article reprints and reviews. The <emph
+               render="bold">Writings by Others Subseries</emph> contains articles and essays by
+            Hubbell's colleagues and peers, as well as several essays that Hubbell collected on
+            topics of interest to him. It also contains several memoirs which narrate the lives and
+            influence of several key figures in the first generations of American literary
+            scholars.</p>
+         <p>The <emph render="bold">Subject Files Series</emph> chronicles some of the major events,
+            interests, and projects of Hubbell's career. His involvement with the Modern Language
+            Association is represented by material filed in the <emph render="bold">General Files
+               Subseries</emph>. Also included in this subseries is material concerning several of
+            his institutional affiliations, including Clemson University, Columbia University, and
+            Southern Methodist University (SMU). Hubbell's papers concerning his many professional
+            projects can be found in the <emph render="bold">Projects Subseries</emph>, such as the
+            Checklist of Manuscripts and the Center for Southern Studies. Information related to
+            many of the subject files can be found throughout the collection, particularly in the
+               <emph render="bold">Biographical Data</emph> and <emph render="bold">Correspondence
+               Series</emph>.</p>
+         <p>Jay Hubbell dedicated a generous portion of his scholarly career to teaching and
+            students. Besides his interest in different configurations and institutions for
+            furthering learning and scholarship, Hubbell spent several years teaching abroad. The
+               <emph render="bold">Teaching Abroad Series</emph> contains correspondence and
+            incidentals concerning his service at universities in Vienna, Jerusalem, and Athens.
+            This series includes materials which highlight Hubbell's experiences at the intersection
+            of American foreign policy and university teaching, as Hubbell served as a Visiting
+            Expert for the U.S. Army in Vienna as well as a quickly evacuated Visiting Professor in
+            Jerusalem in 1956, during the Arab-Israeli conflict.</p>
+         <p> The <emph render="bold">Photographs Series</emph> includes photographs of Hubbell,
+            family, and colleagues. The series includes portraits of Hubbell alone as well as with
+            family.</p>
+         <p> The <emph render="bold">Clippings Series</emph> contains newspaper and journal
+            clippings recording the many significant personal and professional events of Hubbell's
+            life. The series also includes clippings about contemporary events, friends, and
+            colleagues which Hubbell found noteworthy.</p>
+         <p>Hubbell's papers pertaining to English Department matters and committee assignments can
+            be found in the Duke University Archives. The David M. Rubenstein Rare Book &amp;
+            Manuscript Library at Duke University houses many related collections, particularly in
+            the Hubbell Center for American Literary Historiography: the records of <title
+               type="simple" render="italic">American Literature; </title>
+            <title type="simple" render="italic">American Literary Manuscripts; </title>and the
+            Modern Language Association's American Literature Section and Southern Literature
+            Discussion Group; and the papers of Gay Wilson Allen, Sacvan Berkovitch, Cathy Davidson,
+            and Arlin Turner. </p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Scholars -- United States</subject>
+         <subject source="lcsh">Scholars -- Correspondence</subject>
+         <subject source="lcsh">College teachers as authors</subject>
+         <subject source="lcsh">American literature -- Southern States -- History and
+            criticism</subject>
+         <subject source="lcsh">Jay B. Hubbell Center for American Literary Historiography</subject>
+         <subject source="lcsh">American literature -- Study and teaching</subject>
+         <persname source="ingest">Aiken, Conrad</persname>
+         <persname source="ingest">Allen, Gay Wilson, 1903-1995</persname>
+         <corpname source="ingest">Duke University -- Faculty</corpname>
+         <persname source="ingest">Gohdes, Clarence, 1901-1997</persname>
+         <corpname source="ingest">Modern Language Association of America. American Literature
+            Section</corpname>
+         <persname source="ingest">Rusk, Ralph L. (Ralph Leslie), 1888-</persname>
+         <famname source="ingest">Hubbell family</famname>
+         <persname source="ingest">Turner, Arlin</persname>
+         <persname source="ingest">Tate, Allen</persname>
+         <persname source="ingest">Wheelock, John Hall, 1886-1978</persname>
+         <persname source="ingest">Sandburg, Carl, 1878-1967</persname>
+         <persname source="ingest">Hubbell, Jay B. (Jay Broadus), 1885-1979</persname>
+         <persname source="ingest">Frost, Robert, 1874-1963</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_ae2" level="series">
+            <did>
+               <unittitle>Biographical Data Series 1906-1980 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_86706779d6b3b3341f8ea440728d5bd0">
+               <head>Scope and Contents note</head>
+               <p>The bulk of this series contains correspondence and financial documents (contract
+                  and royalty letters) chronicling the scope of Hubbell's career. The series also
+                  includes rough drafts of Hubbell's autobiographical writings, which seem to have
+                  been written largely at the end of his life, about his early years in rural
+                  Virginia, his early readings, and his years at Harvard University and Columbia
+                  University. His brother Paul Edgar Hubbell's writings, poems and an essay with a
+                  foreword by Jay B. Hubbell, as well as his sister Ruth Ann Hubbell's poetry are a
+                  part of the series. Folders arranged in alphabetical order.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_uuw" level="file">
+               <did>
+                  <unittitle>Autobiographical Writings, 1947 and undated</unittitle>
+                  <physdesc id="aspace_886fcd777017616c82fcf0b5fd514be0">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a37ddc9aed24a2db4237228a840a89a6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_za4" level="file">
+               <did>
+                  <unittitle>Contracts, 1926-1965</unittitle>
+                  <container id="aspace_6080d67a963bbed7a8a849a3b020a692" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_j00" level="file">
+               <did>
+                  <unittitle>Correspondence by Date, 1906-1979</unittitle>
+                  <physdesc id="aspace_8591c8d3bcb3aaea3f0235c7113bb076">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1079d6de08534ac87292f423316d7262" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_p06" level="file">
+               <did>
+                  <unittitle>Curriculum Vitae, 1920s-circa 1978 and undated</unittitle>
+                  <container id="aspace_84389acb0148f4d1346d0f45a2abf3bc" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_9lc" level="file">
+               <did>
+                  <unittitle>Hubbell, Paul Edgar, 1914-1977</unittitle>
+                  <container id="aspace_16e1ac548815c0876c514f57025fe160" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_v1c" level="file">
+               <did>
+                  <unittitle>Hubbell, Ruth Ann, 1959-1978 and undated</unittitle>
+                  <container id="aspace_655f27b009cbc10ea6d4746e96a727d0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_jep" level="file">
+               <did>
+                  <unittitle>Obituaries, 1979-1980</unittitle>
+                  <container id="aspace_859f55d4d901f78e69504212f8eb4f74" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_0pt" level="file">
+               <did>
+                  <unittitle>Printed Materials, 1918-1973 and undated</unittitle>
+                  <container id="aspace_809b3555654a07096cd455047cb81b70" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_bz7" level="file">
+               <did>
+                  <unittitle>Royalties, 1930-1975 and undated</unittitle>
+                  <container id="aspace_0f90b1a0948c878b359de3b6978c6a89" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref26_b1d" level="series">
+            <did>
+               <unittitle>Correspondence, Alphabetical Series, 1871-1979 and undated (bulk
+                  1919-1970)</unittitle>
+            </did>
+            <accessrestrict id="aspace_b2a800d240edae910676347f05e6f4ac">
+               <head>Conditions Governing Access note</head>
+               <p>[RESTRICTED. Contains letters of reference. For a period of 75 years after the
+                  latest date in the collection, patrons must sign an Acknowledgment of Legal
+                  Responsibilities and Privacy Rights form before using materials.]</p>
+            </accessrestrict>
+            <scopecontent id="aspace_662c9e0c10876db008153c2cd093c60a">
+               <head>Scope and Contents note</head>
+               <p>This series contains letters from colleagues, students, publishers, and literary
+                  figures. Highlights of the correspondence include letters exchanged with Gay
+                  Wilson Allen, George Bond, Herbert Brown, Matthew Bruccoli, Mary Sue Carlock, John
+                  Chapman, James Emanuel, Benjamin F. Fisher, Herbert Gambrell, Clarence Gohdes,
+                  Theodore Gross, Ima Honaker Herron, Hugh Holman, Howard Mumford Jones, Lewis
+                  Leary, Maureen C. Mabbott, Rayburn Moore, Albert Robbins, Henry Nash Smith, Hope
+                  Stoddard, and Edward Stone. The series also includes correspondence with major
+                  literary figures and critics, such as B. A. Botkin, Donald Davidson, Robert Frost,
+                  Hamlin Garland, Ellen Glasgow, John Lomax, Howard Odum, Carl Sandburg, Allen Tate,
+                  and John Hall Wheelock. Many of the letters to literary figures concern
+                  permissions and copyrights, as Hubbell edited several anthologies. His letters
+                  exchanged with colleagues and students include professional concerns such as
+                  recommendations and references, exams, job opportunities, departmental procedures,
+                  and the study of American Literature. The largest group of letters is from the
+                  poet John Hall Wheelock, dating from 1921 when Hubbell wrote asking permission to
+                  use Wheelock's poem, "Earth," in a poetry anthology. </p>
+               <p> The correspondence files often contain other materials, such as solicited
+                  memoirs, photographs of correspondents, or printed materials that correspondents
+                  sent to Hubbell. Such materials have been filed under the name of the person who
+                  sent or wrote them. For example, letters exchanged between John Wheelock and
+                  Aubrey Burns are filed under the latter's name. An audio cassette recording of
+                  four of John Wheelock's poems set to music and performed by the Philadelphia
+                  Symphony Orchestra is included in Wheelock's "Clippings" folder. Folders
+                  occasionally include Hubbell's retrospective commentary on the correspondence or
+                  correspondents, for example, Hubbell's brief notes on his relationships with Van
+                  Wyck Brooks and Aldous Huxley. Most of the commentary was written in 1976 when
+                  Hubbell prepared his papers for donation to Duke University. Arranged
+                  alphabetically by correspondent, then chronologically within each folder.</p>
+            </scopecontent>
+            <c02 id="aspace_ref27_20f" level="file">
+               <did>
+                  <unittitle>Adams, Andy, 1924-1976</unittitle>
+                  <container id="aspace_ae9899c63aebf4e45adf322647aa7c04" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_2ny" level="file">
+               <did>
+                  <unittitle>Ade, George, 1934-1935</unittitle>
+                  <container id="aspace_fc4875839d3fd9d943a7c9f54a8aac4f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_hwf" level="file">
+               <did>
+                  <unittitle>Aiken, Conrad Potter , 1924-1976</unittitle>
+                  <container id="aspace_a7d10528eac33beaa5e7f92c4a9995eb" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_ex2" level="file">
+               <did>
+                  <unittitle>Allen, Gay Wilson, 1933-1976</unittitle>
+                  <container id="aspace_027210f0e2c9040393e1eb75158ec5db" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_hyr" level="file">
+               <did>
+                  <unittitle>Allen, William Harvey, 1925-1931</unittitle>
+                  <container id="aspace_d8bbb2c8ff46d695631a81854d843bad" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_k67" level="file">
+               <did>
+                  <unittitle>Anderson, Charles Roberts, 1938-1973</unittitle>
+                  <container id="aspace_29a15f436f2caa27cb50e5ed6cee24cc" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_xnx" level="file">
+               <did>
+                  <unittitle>Anderson, Sherwood, undated</unittitle>
+                  <container id="aspace_365e017bfbfb68ddc2a8ced72285d0a8" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_a66" level="file">
+               <did>
+                  <unittitle>Atchison, Ray Morris, 1952-1976</unittitle>
+                  <container id="aspace_86c87e4615ef8079f8585e36bd1d7883" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_czi" level="file">
+               <did>
+                  <unittitle>Auslander, Joseph, 1925-1927</unittitle>
+                  <container id="aspace_a87de2d71675bccb1d5d448f828694c5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_kgh" level="file">
+               <did>
+                  <unittitle>Austin, Mary Hunter, 1924-1925</unittitle>
+                  <container id="aspace_645786428c734b245f49b83ce492f37b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_8p0" level="file">
+               <did>
+                  <unittitle>Baker, Karle (Wilson), 1922-1931</unittitle>
+                  <container id="aspace_a6fb30f80343d9ad46c13cd582cfe152" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_n3z" level="file">
+               <did>
+                  <unittitle>Basler, Roy Prentice, 1932-1976</unittitle>
+                  <container id="aspace_dd9b985a1dca573e28737f940436defb" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_ppr" level="file">
+               <did>
+                  <unittitle>Beaty, John Owen, 1938-1948</unittitle>
+                  <container id="aspace_9ee24cbc1a16c1228b7ce9c3df946608" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_0qu" level="file">
+               <did>
+                  <unittitle>Benét, Stephen Vincent, 1935-1936</unittitle>
+                  <container id="aspace_92c165f98722a8b2cd01337f30766208" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_0f7" level="file">
+               <did>
+                  <unittitle>Benét, William Rose, 1920-1934</unittitle>
+                  <container id="aspace_2c4b9d9ac9dfd05eda4f2bba8b441329" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_0cp" level="file">
+               <did>
+                  <unittitle>Bennett, John, 1924-1931</unittitle>
+                  <container id="aspace_88947fae7f4cf2e314d2b4b7261020ff" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_kd9" level="file">
+               <did>
+                  <unittitle>Benton, Richard Paul, 1968-1974</unittitle>
+                  <container id="aspace_abcecd6bd7c53e69a40cdd3aa0c6eb94" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_v87" level="file">
+               <did>
+                  <unittitle>Blair, Walter, 1946-1976</unittitle>
+                  <container id="aspace_5c624e838fe198815918f83d036da3e2" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_uyl" level="file">
+               <did>
+                  <unittitle>Boatwright, Frederic William, 1928-1971</unittitle>
+                  <container id="aspace_6a1f9f4c3ec6cd730609c0867a550ed3" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_sma" level="file">
+               <did>
+                  <unittitle>Bond, George Doherty, 1930-1978</unittitle>
+                  <container id="aspace_e5236b8035fa3dfb4952a4ef2bac1d34" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_b15" level="file">
+               <did>
+                  <unittitle>Botkin, B. A., 1929</unittitle>
+                  <container id="aspace_9d9c6fc0f7a0a081b2c92db0917a746f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_zk1" level="file">
+               <did>
+                  <unittitle>Boyd, James, 1931</unittitle>
+                  <container id="aspace_c32ba8e22f49907f7e934505e1167cfc" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_0a2" level="file">
+               <did>
+                  <unittitle>Boyd, William Kenneth, 1928-1936</unittitle>
+                  <container id="aspace_157902e671fb619b99ba397f60f9899f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_dfd" level="file">
+               <did>
+                  <unittitle>Bradford, Gamaliel, 1924-1976 and undated</unittitle>
+                  <container id="aspace_e9ead71459ff02541710265cdb08f576" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_5ai" level="file">
+               <did>
+                  <unittitle>Braswell, William, 1954-1976</unittitle>
+                  <container id="aspace_01f8b0609b5baaf25652e52247e88396" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_bpr" level="file">
+               <did>
+                  <unittitle>Brooks, John Lee, 1928-1970</unittitle>
+                  <container id="aspace_b2deab0a13e712872169f1036fabfc62" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_4nz" level="file">
+               <did>
+                  <unittitle>Brooks, Van Wyck, 1924-1976</unittitle>
+                  <container id="aspace_0d82540352f192e183460fb4e5106bd5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_h43" level="file">
+               <did>
+                  <unittitle>Brown, Frank Clyde, 1926-1943</unittitle>
+                  <container id="aspace_548834df905a554f2d49bd2a2ff3b050" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_8pr" level="file">
+               <did>
+                  <unittitle>Brown, Herbert Ross, 1954-1978</unittitle>
+                  <container id="aspace_ba0308da396860f1212d032212bee746" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_sap" level="file">
+               <did>
+                  <unittitle>Bryan, William A., 1932-1951</unittitle>
+                  <container id="aspace_a7bb672b799c047f1acd89d713b4ea91" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_c9c" level="file">
+               <did>
+                  <unittitle>Bruccoli, Matthew Joseph, 1955-1979</unittitle>
+                  <container id="aspace_23a186b8401604ded65cd4262c68fc8c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_vei" level="file">
+               <did>
+                  <unittitle>Burns, Aubrey, circa 1967-1978</unittitle>
+                  <container id="aspace_a29d7cb596be038321aa0019993e7f82" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_bfv" level="file">
+               <did>
+                  <unittitle>Bynner, Harold Witter, 1922-1933 and undated</unittitle>
+                  <container id="aspace_ff84670b4a335ccce5f9d268c95dc924" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_wuc" level="file">
+               <did>
+                  <unittitle>Cable, George Washington, 1888</unittitle>
+                  <container id="aspace_8bc7bf74c5a0803a27c3bc2f1699adf1" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_ae7" level="file">
+               <did>
+                  <unittitle>Campbell, Killis, 1935</unittitle>
+                  <container id="aspace_97b93ead2396db3e339c7294eac0069f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_fvj" level="file">
+               <did>
+                  <unittitle>Campbell, Walter Stanley, 1924-1932</unittitle>
+                  <container id="aspace_19cdd09d359391be21cc0f65008f7dd3" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_ahf" level="file">
+               <did>
+                  <unittitle>Canby, Henry Seidel, 1926-1945</unittitle>
+                  <container id="aspace_b261db91096ae92e45dc4a2ea0a62669" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_j7a" level="file">
+               <did>
+                  <unittitle>Carlock, Mary Sue, 1958-1978</unittitle>
+                  <container id="aspace_200cc2968601d85a1b387811fa4bc98e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_czh" level="file">
+               <did>
+                  <unittitle>Carlson, Eric W., 1966-1976</unittitle>
+                  <container id="aspace_18b4019736189d3da35677d030b26baa" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_is6" level="file">
+               <did>
+                  <unittitle>Chapman, John S., 1927-1978</unittitle>
+                  <container id="aspace_4f81d03770d26e957e218706741d96f4" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_yc5" level="file">
+               <did>
+                  <unittitle>Charvat, William, 1947-1955</unittitle>
+                  <container id="aspace_c51328a29822f243b34405c8fe893ec8" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_qn6" level="file">
+               <did>
+                  <unittitle>Coad, Oral Sumner, 1972-1973</unittitle>
+                  <container id="aspace_498259600950e6e09537a47928ad0a98" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_hos" level="file">
+               <did>
+                  <unittitle>Coatsworth, Elizabeth Jane, 1925-1934 and undated</unittitle>
+                  <container id="aspace_b81a2f96855356d5d4e9191a10fbf416" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_ljk" level="file">
+               <did>
+                  <unittitle>Coffin, Robert Peter Tristam, 1942</unittitle>
+                  <container id="aspace_6a0956f61f02197ce9168cfc87ea4b92" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_mue" level="file">
+               <did>
+                  <unittitle>Conkling, Grace Walcott (Hazard), 1924</unittitle>
+                  <container id="aspace_a0c3b8fdc70db9075eda4725e2cb54d3" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_ds1" level="file">
+               <did>
+                  <unittitle>Cowley, Malcolm, 1934</unittitle>
+                  <container id="aspace_e0a433aa7c06e285da0dec90be469081" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_f9o" level="file">
+               <did>
+                  <unittitle>Cox, Headley Morris, 1956-1979</unittitle>
+                  <container id="aspace_74b752b0bd58ed5522259923dc1f93ff" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_66s" level="file">
+               <did>
+                  <unittitle>Craigie, William Alexander, 1934</unittitle>
+                  <container id="aspace_8595c16434102bd2be1015e31f7cc419" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_z2n" level="file">
+               <did>
+                  <unittitle>Dargan, Olive (Tilford), 1931-1936</unittitle>
+                  <container id="aspace_2c13a75f684f9f5b652e0ed6a4cb2547" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_0o9" level="file">
+               <did>
+                  <unittitle>Davidson, Donald, 1927-1965 and undated</unittitle>
+                  <container id="aspace_5c6ed8d51f9e765c1eea56ca8f26fbf5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_l2r" level="file">
+               <did>
+                  <unittitle>Davis, Curtis Carroll, 1950-1976</unittitle>
+                  <container id="aspace_214154073c36b682b5cbcc4cf81d0311" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_2gr" level="file">
+               <did>
+                  <unittitle>Davis, Richard Beale, 1961-1978</unittitle>
+                  <container id="aspace_d6ee8f099e0128c373b9cf0d48b24b9d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_0it" level="file">
+               <did>
+                  <unittitle>DeVoto, Bernard Augustine, 1928-1937 and undated</unittitle>
+                  <container id="aspace_f0d3743153e74fa2063d55ea36362799" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_28z" level="file">
+               <did>
+                  <unittitle>Duke, Mary Lorraine, 1977-1979 and undated</unittitle>
+                  <container id="aspace_3819ffeeb9e155bd1ecebe7de15513a6" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_eyg" level="file">
+               <did>
+                  <unittitle>Eidson, John Olin, 1954-1978</unittitle>
+                  <container id="aspace_9620db234d17f2c76ef22efa1b6ee1ca" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_99z" level="file">
+               <did>
+                  <unittitle>Eliot, T. S., 1935-1958</unittitle>
+                  <container id="aspace_64cf0352d48622d18c257d27bd359b92" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_m0p" level="file">
+               <did>
+                  <unittitle>Emanuel, James, 1976-1978</unittitle>
+                  <container id="aspace_f56c80efcc863f9046b7fa268d1f3cf0" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_7xy" level="file">
+               <did>
+                  <unittitle>Farrar, John Chipman, 1922-1946</unittitle>
+                  <container id="aspace_304321c0e4c7e939fc1dfc7378d41873" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_53s" level="file">
+               <did>
+                  <unittitle>Ferguson, Charles Wright, 1929-1965</unittitle>
+                  <container id="aspace_0e45b69d560cf5d6bfd839fc5a8d1291" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_jic" level="file">
+               <did>
+                  <unittitle>Few, William Preston, 1928-1936</unittitle>
+                  <container id="aspace_07a5168532937b78779e2af7d2e3b1d0" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_jrn" level="file">
+               <did>
+                  <unittitle>Fisher, Benjamin Franklin, 1969-1979</unittitle>
+                  <container id="aspace_f6daf598537ba990e2543f4e388fa69c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_gdv" level="file">
+               <did>
+                  <unittitle>Flanders, Bertram Holland, 1934-1944</unittitle>
+                  <container id="aspace_c53439fdd505f5d6b95099049392e1f7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_oyc" level="file">
+               <did>
+                  <unittitle>Fletcher, John Gould, 1924-1976</unittitle>
+                  <container id="aspace_c7dbfb018f401c9b69aa8b77e99025b7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_kmz" level="file">
+               <did>
+                  <unittitle>Foerster, Norman, 1925-1971</unittitle>
+                  <container id="aspace_2e48ed93f306cc382511b105ab2a468a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_z9m" level="file">
+               <did>
+                  <unittitle>Frost, Robert, 1921-1974</unittitle>
+                  <container id="aspace_b631ae75af2dd1f703ceb407d5429b58" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_ydw" level="file">
+               <did>
+                  <unittitle>Gambrell, Herbert Pickens, 1928-1978</unittitle>
+                  <container id="aspace_344c535ed3a945e08af3ef7ca5d8635d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_yba" level="file">
+               <did>
+                  <unittitle>Garland, Hamlin, circa 1925-1935</unittitle>
+                  <container id="aspace_c7c1d99c880a5891350efda12ca2416d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_czr" level="file">
+               <did>
+                  <unittitle>Gates, William Bryan, 1964-1976</unittitle>
+                  <container id="aspace_0aab45b31e65e082eb7caff21c6bbb10" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_z66" level="file">
+               <did>
+                  <unittitle>Gilbert, Allan H., 1944</unittitle>
+                  <container id="aspace_c253add2eb149165e068822d75b97973" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_gp7" level="file">
+               <did>
+                  <unittitle>Glasgow, Ellen Anderson Gholson, 1925-1938</unittitle>
+                  <container id="aspace_8706b15f1567227eeada2c89b951805d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_gdz" level="file">
+               <did>
+                  <unittitle>Gohdes, Clarence Louis Frank, 1927-1961</unittitle>
+                  <container id="aspace_9c8610ed69b78802f0c77cc7372bd616" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_ml2" level="file">
+               <did>
+                  <unittitle>Graves, Robert, 1925 and undated</unittitle>
+                  <container id="aspace_b8cf11a91306f37a504254942b085ec3" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_tbo" level="file">
+               <did>
+                  <unittitle>Green, Claud Bethune, 1940-1978</unittitle>
+                  <container id="aspace_87213a02641a18c8a553e994fe41d545" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_2tj" level="file">
+               <did>
+                  <unittitle>Green, Paul Eliot, 1924-1956</unittitle>
+                  <container id="aspace_677e308bdcaf31b0b3d288361727c8e3" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_ls8" level="file">
+               <did>
+                  <unittitle>Greever, Garland , 1929-1939</unittitle>
+                  <container id="aspace_d17fa9c24c2e7dfea1f8952c8908d344" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_zg4" level="file">
+               <did>
+                  <unittitle>Gross, Sarah Chokla, 1932</unittitle>
+                  <container id="aspace_c3212082bd623e9b31b9937e2dec2671" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_h8u" level="file">
+               <did>
+                  <unittitle>Guilds, John Caldwell, 1960-1979</unittitle>
+                  <container id="aspace_ded5f929dfc1a7d95b0a54dca102f103" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_vvh" level="file">
+               <did>
+                  <unittitle>Harris, Isabella D., 1937-1979</unittitle>
+                  <container id="aspace_754f0f9d82d86304f1b816c7746553eb" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_fjp" level="file">
+               <did>
+                  <unittitle>Head, Eunice (Hammond) Tietjens, 1924</unittitle>
+                  <container id="aspace_5a788cf596c563ca2a5aff817803cda2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_yfb" level="file">
+               <did>
+                  <unittitle>Henry, David Dodds, 1976-1978</unittitle>
+                  <container id="aspace_99eca4b28cc987b1abc0055ed79c297a" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_vk3" level="file">
+               <did>
+                  <unittitle>Herron, Ima Honaker, 1933-1977</unittitle>
+                  <container id="aspace_4a955022af219db0ae0c028688d91a63" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_e1p" level="file">
+               <did>
+                  <unittitle>Heywood, DuBose, 1924-1931</unittitle>
+                  <container id="aspace_6e856daa5d4b791cfa2eca12695d0de5" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_3q7" level="file">
+               <did>
+                  <unittitle>Hibler, Leo von, 1949-1957</unittitle>
+                  <container id="aspace_afa6cdf1566672a79695cbd9cf7a8ed1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_2l3" level="file">
+               <did>
+                  <unittitle>Hofbauer, Rosa, 1950-1952</unittitle>
+                  <container id="aspace_17f6ef682e9487fc0d99f3a3e4a2bbea" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_8wl" level="file">
+               <did>
+                  <unittitle>Holman, Clarence Hugh, 1958-1978</unittitle>
+                  <container id="aspace_34fa2aef0f312f0e67e45963ec6ad1c2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_1zo" level="file">
+               <did>
+                  <unittitle>Holman, Harriet R., 1944-1978</unittitle>
+                  <container id="aspace_4612f5e32126d06933b0c4e9a7988e52" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_k8l" level="file">
+               <did>
+                  <unittitle>Hoole, William Stanley, 1929-1978</unittitle>
+                  <container id="aspace_cb290000c82114e8b6070a1771a8e66a" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_b00" level="file">
+               <did>
+                  <unittitle>Hosford, Hemphill, 1943-1976</unittitle>
+                  <container id="aspace_2410b7f9ebdb3deb336127a3e98cb8ca" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_aji" level="file">
+               <did>
+                  <unittitle>Howe, Edgar Watson, 1935</unittitle>
+                  <container id="aspace_ab6ade1e1e72c7c10e94efd36af73998" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_m7o" level="file">
+               <did>
+                  <unittitle>Huxley, Aldous Leonard , 1937-1976</unittitle>
+                  <container id="aspace_a223767147e8d77bf33fdcdd11dd9c80" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref117_3jp" level="file">
+               <did>
+                  <unittitle>Jones, Howard Mumford, 1928-1978</unittitle>
+                  <container id="aspace_dc7e4f99c76844eea0d22b5a5f160928" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_j5b" level="file">
+               <did>
+                  <unittitle>Lanier, Henry Wysham, 1931</unittitle>
+                  <container id="aspace_aec2eb725485f49156e934a4128b4905" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_z5t" level="file">
+               <did>
+                  <unittitle>Laverty, Carroll Dee, 1944-1976</unittitle>
+                  <container id="aspace_563fd720abb210bd69a011f1cd82b451" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_wuj" level="file">
+               <did>
+                  <unittitle>Leary, Lewis Gaston, 1949-1978</unittitle>
+                  <container id="aspace_0d02244aea115b743592b64816814411" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_z5d" level="file">
+               <did>
+                  <unittitle>Leisy, Ernest Edwin, 1925-1952</unittitle>
+                  <container id="aspace_77e35edcf57536f7bd64bf7b7f3fdfba" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_iei" level="file">
+               <did>
+                  <unittitle>Lindsay, Nicholas Vachel, 1924-1934 and undated</unittitle>
+                  <container id="aspace_c4a90c634df76004e5391e75fd167589" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_9ym" level="file">
+               <did>
+                  <unittitle>Lomax, John A., 1935</unittitle>
+                  <container id="aspace_9524fed8b16525464aa8e2263edfa2e8" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_bvt" level="file">
+               <did>
+                  <unittitle>Lowell, Amy, 1921-1976</unittitle>
+                  <container id="aspace_36029a0f5395922a57a05e78c1c39bc9" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_opa" level="file">
+               <did>
+                  <unittitle>Mabbott, Maureen (Cobb) , 1977-1979</unittitle>
+                  <container id="aspace_d02b0f448cd24a2f7829160d4aff396b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref126_er9" level="file">
+               <did>
+                  <unittitle>Mabbott, Thomas Ollive, 1944-1959</unittitle>
+                  <container id="aspace_3e741709621b382a1d36e565fbcdd14b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_cba" level="file">
+               <did>
+                  <unittitle>McCain, James Allen, 1970-1971</unittitle>
+                  <container id="aspace_e1009e428ea46c0e7bc220fc12baf19c" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_0wo" level="file">
+               <did>
+                  <unittitle>McDavid, Raven Ioor, 1940-1977</unittitle>
+                  <container id="aspace_e6f2e5d29fe3993c292c0ba1a5d08b17" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref129_38y" level="file">
+               <did>
+                  <unittitle>McFee, William, 1928-1935</unittitle>
+                  <container id="aspace_d2369a0951a09a2ccd63f0aabaa84791" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_pse" level="file">
+               <did>
+                  <unittitle>McGinnis, John Hathaway, 1929-1942</unittitle>
+                  <container id="aspace_46b44b5130b59c7f98db46505b7c2d38" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_20t" level="file">
+               <did>
+                  <unittitle>MacKaye, Percy Wallace, 1931</unittitle>
+                  <container id="aspace_d862640089c3e7eb1e88b15bf69c66af" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_s5t" level="file">
+               <did>
+                  <unittitle>MacLeish, Archibald, 1940-1963</unittitle>
+                  <container id="aspace_cd0419fdeadf1e1b10675d3675335d6c" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_gui" level="file">
+               <did>
+                  <unittitle>The MacMillan Company, 1920-1957</unittitle>
+                  <container id="aspace_1061af8be8f3707b72125fcbb1bdc1d3" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_7t4" level="file">
+               <did>
+                  <unittitle>Manning-Sanders, Ruth, 1926-1928 and undated</unittitle>
+                  <container id="aspace_ae69eb981c0581ebcb1afaf00825b642" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_h9a" level="file">
+               <did>
+                  <unittitle>Martin, Willard Edgar, 1933-1945</unittitle>
+                  <container id="aspace_44c855a1505a2b2a0f1ceee66253ad5f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_w4l" level="file">
+               <did>
+                  <unittitle>Masters, Edgar Lee, 1934</unittitle>
+                  <container id="aspace_f07bdf2e4c7cd0746b6c1d4524d76400" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref137_s6a" level="file">
+               <did>
+                  <unittitle>Mencken, Henry Louis, 1924-1925 and undated</unittitle>
+                  <container id="aspace_1c8648bf73e5e06842bcc18103b3bd59" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_8tc" level="file">
+               <did>
+                  <unittitle>Monroe, Harriet, 1922-1927 and undated</unittitle>
+                  <container id="aspace_49b5a87b17fcc7273bd4b52385922900" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref139_vnh" level="file">
+               <did>
+                  <unittitle>Mood, Robert G., Jr., 1928-1978</unittitle>
+                  <container id="aspace_8e5fd051c62aab3eb31db5dd095ad2ba" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref140_57q" level="file">
+               <did>
+                  <unittitle>Moore, Rayburn Sabatzky, 1956-1977</unittitle>
+                  <container id="aspace_99e9d2b6c2a541da42d4ad07bbcfa6df" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref141_ny8" level="file">
+               <did>
+                  <unittitle>Morton, David, 1924-1925 and undated</unittitle>
+                  <container id="aspace_4768a5f2ff0eaa8899498e063c67f8fb" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref142_0cx" level="file">
+               <did>
+                  <unittitle>Nakamura, Junichi, 1938-circa 1974 and undated</unittitle>
+                  <container id="aspace_4240058814d06bbbec4595dd60913e3a" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref143_e60" level="file">
+               <did>
+                  <unittitle>O'Neill, Eugene Gladstone, 1924</unittitle>
+                  <container id="aspace_d7395cddced53a55dd8f9cd4258fae54" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_5lt" level="file">
+               <did>
+                  <unittitle>Odum, Howard W., 1934</unittitle>
+                  <container id="aspace_24a1ae377273a5a11bf30866e3ce30d0" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref145_yi5" level="file">
+               <did>
+                  <unittitle>Patton, Lewis, 1962-1965</unittitle>
+                  <container id="aspace_0218607745f4f9a572df440c1c346b51" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_b3y" level="file">
+               <did>
+                  <unittitle>Paulovsky, Louis H., 1951</unittitle>
+                  <container id="aspace_317ef8e580ce16ae33724d91029cbe25" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref147_n2n" level="file">
+               <did>
+                  <unittitle>Pearson, James Larkin, 1934-1979</unittitle>
+                  <container id="aspace_f6466caff9b1efc5a7d8cdcac5c467bf" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref148_mox" level="file">
+               <did>
+                  <unittitle>Perry, Bliss, 1922-1924</unittitle>
+                  <container id="aspace_b6c2b061f9e99958336e7f49b4f83866" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref149_ypv" level="file">
+               <did>
+                  <unittitle>Pinero, Sir Arthur Wing, 1927</unittitle>
+                  <container id="aspace_380e12470cb59e16c09daca537b1e92d" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref150_46q" level="file">
+               <did>
+                  <unittitle>Pochmann, Henry August, 1966-1971</unittitle>
+                  <container id="aspace_562aa6e80faeb907670a313b1be3edba" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref151_gzy" level="file">
+               <did>
+                  <unittitle>Pound, Ezra Loomis, 1935</unittitle>
+                  <container id="aspace_a0123ea87725370fb2a85dedb2ab32e6" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_s8i" level="file">
+               <did>
+                  <unittitle>Quinn, Arthur Hobson, 1927-1952</unittitle>
+                  <container id="aspace_c49883e2dcedf6b95a3161e810c8b7ef" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref153_125" level="file">
+               <did>
+                  <unittitle>Rachal, William M. E., 1955-1965</unittitle>
+                  <container id="aspace_2321eb942e7b497f3824ae0a582c8bd1" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref154_8d9" level="file">
+               <did>
+                  <unittitle>Raetz, Martha, 1976-1977</unittitle>
+                  <container id="aspace_6b401a9b67b6f5df40877d485c5c7b28" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref155_aul" level="file">
+               <did>
+                  <unittitle>Ransom, John Crowe, 1924-1954</unittitle>
+                  <container id="aspace_7d3162e31086c17caa5abca18f66187f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref156_v9w" level="file">
+               <did>
+                  <unittitle>Reese, Lizette Woodworth, 1924-1935</unittitle>
+                  <container id="aspace_c1655edbc5117b3501959e1af8274612" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref157_muh" level="file">
+               <did>
+                  <unittitle>Repplier, Agnes, 1935</unittitle>
+                  <container id="aspace_051defbf8ad04b98c73f484bb94e07e1" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref158_3dy" level="file">
+               <did>
+                  <unittitle>Rippy, James Fred, 1965</unittitle>
+                  <container id="aspace_f5dbbe0acab9ed53698c6c1f006c68bb" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref159_eac" level="file">
+               <did>
+                  <unittitle>Robbins, John Albert, 1967-1978</unittitle>
+                  <container id="aspace_418e75c813b952469e22438c857ae4b3" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref160_srq" level="file">
+               <did>
+                  <unittitle>Robert, Joseph Clarke, 1967</unittitle>
+                  <container id="aspace_843bad1b49ebd3bcf5fca577e1e191e4" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref161_sc3" level="file">
+               <did>
+                  <unittitle>Roberts, Elizabeth Madox , 1935</unittitle>
+                  <container id="aspace_2059ffa800548e3a25a2cce024184294" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref162_o29" level="file">
+               <did>
+                  <unittitle>Robinson, Edwin Arlington, 1921-1976</unittitle>
+                  <container id="aspace_8246fa70ba33f85b820be5a8a19a4c21" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref163_xnd" level="file">
+               <did>
+                  <unittitle>Rossetti, Dante Gabriel, 1871-1964</unittitle>
+                  <container id="aspace_3125387cfa17e1b20a4d71e98c3f22f7" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref164_hvo" level="file">
+               <did>
+                  <unittitle>Rubin, Louis Decimus, 1955-1976</unittitle>
+                  <container id="aspace_64b03ad6469741d7f4b7ce66d845fed8" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref165_307" level="file">
+               <did>
+                  <unittitle>Sally, Alexander Samuel, 1939-1942</unittitle>
+                  <container id="aspace_a06c56d52ddb14cfb583aa3934e1dc9e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref166_je3" level="file">
+               <did>
+                  <unittitle>Sandburg, Carl, 1921-1975</unittitle>
+                  <container id="aspace_25c1730db63861da2ccaaa09aaef698a" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref167_zn7" level="file">
+               <did>
+                  <unittitle>Sanders, Ottys, 1974-1978</unittitle>
+                  <container id="aspace_9e07d0903e9d224c24427672d773ffdd" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref168_euh" level="file">
+               <did>
+                  <unittitle>Sarett, Lew R., 1924-1926 and undated</unittitle>
+                  <container id="aspace_2157812e5e613a71151bd74e2917ffaf" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref169_epk" level="file">
+               <did>
+                  <unittitle>Scollard, Clinton, undated</unittitle>
+                  <container id="aspace_5a80fb6d9f9b539957475f8b84ffaab3" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref170_uss" level="file">
+               <did>
+                  <unittitle>Shepard, Odell, 1934-1938</unittitle>
+                  <container id="aspace_6a105dc2042d34034d10b7614a869e24" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref171_0vx" level="file">
+               <did>
+                  <unittitle>Sinclair, Upton Beall, 1935</unittitle>
+                  <container id="aspace_b8d8e2b6f3e7f7137244af5a252af978" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref172_uiq" level="file">
+               <did>
+                  <unittitle>Skinner, Constance Lindsay, 1925</unittitle>
+                  <container id="aspace_d07605de2a52ad255094fc8ff576b33b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref173_elk" level="file">
+               <did>
+                  <unittitle>Smith, Garland Garvey, 1929-1978</unittitle>
+                  <container id="aspace_e1525a343cee011b0f3efe142941f12b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref174_cjd" level="file">
+               <did>
+                  <unittitle>Smith, Henry Nash, 1928-1978</unittitle>
+                  <container id="aspace_8407e9724d3dcdec5b00d4b7eebf2f38" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref175_69b" level="file">
+               <did>
+                  <unittitle>Spiller, Robert Ernest, 1954-1976</unittitle>
+                  <container id="aspace_bc36eba019a33c9b241f02913f1cec52" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref176_3xs" level="file">
+               <did>
+                  <unittitle>Sterling, George, 1924-1925</unittitle>
+                  <container id="aspace_274a45b4854f5b9f0f0285ffe60af535" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref177_wop" level="file">
+               <did>
+                  <unittitle>Stewart, Randall, 1951-1959</unittitle>
+                  <container id="aspace_cc78f858fe868a7533dabe9f7e660862" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref178_4b7" level="file">
+               <did>
+                  <unittitle>Stoddard, Hope, 1978-1979</unittitle>
+                  <container id="aspace_4044f9168dbcf389faba02a086274a68" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref179_fdh" level="file">
+               <did>
+                  <unittitle>Stovall, Floyd, 1952-1977</unittitle>
+                  <container id="aspace_0a395d18551208d7993efec96a3de41c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref180_zix" level="file">
+               <did>
+                  <unittitle>Stroven, Carl Gerhardt, 1932-1944</unittitle>
+                  <container id="aspace_48d3acb44f31bdd42d3d4e952da2a451" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref181_wie" level="file">
+               <did>
+                  <unittitle>Swett, Margery, 1924-1925</unittitle>
+                  <container id="aspace_606d92d4ce3a80c08c2d2274e0709f7f" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref182_aak" level="file">
+               <did>
+                  <unittitle>Tate, Allen, 1940-1978</unittitle>
+                  <container id="aspace_2997e6e5345fc4855dc49c76579c3aca" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref183_78i" level="file">
+               <did>
+                  <unittitle>Teasdale, Sara, 1924</unittitle>
+                  <container id="aspace_bff8c0bc463d38652380ee7c2ebc9ae3" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref184_ssj" level="file">
+               <did>
+                  <unittitle>Thorp, Willard, 1946-1977</unittitle>
+                  <container id="aspace_87567f6e3f4cd79229c71c3f77e4f1b6" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref185_ay8" level="file">
+               <did>
+                  <unittitle>Turner, Arlin, 1949-1977</unittitle>
+                  <container id="aspace_57e8325fd8c97de6a282ca5f55a441d2" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref186_rox" level="file">
+               <did>
+                  <unittitle>Untermeyer, Louis, 1922-1943</unittitle>
+                  <container id="aspace_2f972e7b5e95146725ebedd14bf06889" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref187_rdh" level="file">
+               <did>
+                  <unittitle>Van Doren, Carl Clinton, 1919-1920</unittitle>
+                  <container id="aspace_eb6634199b6ee6f16b54059d15ff4cbb" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref188_nl8" level="file">
+               <did>
+                  <unittitle>Van Doren, Mark, 1929-1941</unittitle>
+                  <container id="aspace_2b8c2958f27c057aac9cd04cac79384d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref189_w8s" level="file">
+               <did>
+                  <unittitle>Ward, Christopher, 1935</unittitle>
+                  <container id="aspace_e00d6eb6bc8cec167d780f47a58475ab" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref190_l40" level="file">
+               <did>
+                  <unittitle>Wells, Anna Mary, 1964-1976</unittitle>
+                  <container id="aspace_a1346fd9208710d36f1c706faa85d844" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref191_0br" level="file">
+               <did>
+                  <unittitle>Wheelock, John Hall, 1920-1978 and undated</unittitle>
+               </did>
+               <c03 id="aspace_ref192_2oy" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1920-1978</unittitle>
+                     <physdesc id="aspace_16c04574ad0f3678c08873777dc0fdde">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c6588f77c574505fefc6752f7894d7c3" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref194_iy8" level="file">
+                  <did>
+                     <unittitle>Clippings, 1971-1978 and undated</unittitle>
+                     <physdesc id="aspace_dc0f84f83cef9918b09c697d90f7b921">
+                        <extent>1 folder</extent>
+                     </physdesc>
+                     <container id="aspace_3f27a258b73f14c620f56ffe0a99939c" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref196_ni1" level="file">
+               <did>
+                  <unittitle>Widdemer, Margaret, 1925</unittitle>
+                  <container id="aspace_ac2ddfea5c1f52da80c1550442764c91" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref197_mxh" level="file">
+               <did>
+                  <unittitle>Wilt, Napier, 1939-1946</unittitle>
+                  <container id="aspace_1e33c38dae563bb62cd1baf7b5d27cf4" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref198_gj3" level="file">
+               <did>
+                  <unittitle>Wister, Owen, 1931</unittitle>
+                  <container id="aspace_ec08d2ca5ef998c43a4ffc73df3dd633" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref199_eny" level="file">
+               <did>
+                  <unittitle>Woodress, James Leslie, 1946-1972</unittitle>
+                  <container id="aspace_66099ddf64bd22ca22f37c3655d5d7c0" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref200_and" level="file">
+               <did>
+                  <unittitle>Zeek, Charles Franklyn, 1929-1976</unittitle>
+                  <container id="aspace_3951d7acba8bfaf3f4951bc9ae35072a" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref203_9r9" level="series">
+            <did>
+               <unittitle>Correspondence by Date Series, 1919-1979, bulk 1929-1955</unittitle>
+            </did>
+            <accessrestrict id="aspace_0bf0792473822e314943dd9fac54776c">
+               <head>Conditions Governing Access note</head>
+               <p>[RESTRICTED. Contains recommendations. For a period of 75 years after the latest
+                  date in the collection, patrons must sign an Acknowledgment of Legal
+                  Responsibilities and Privacy Rights form before using materials.]</p>
+            </accessrestrict>
+            <scopecontent id="aspace_2b7594ed1ceb3829bbcb70df8e61a9e9">
+               <head>Scope and Contents note</head>
+               <p>Contains single letters from publishers, colleagues, librarians, and minor
+                  writers. As in the <emph render="bold">Correspondence, Alphabetical Series</emph>,
+                  these letters pertain to the daily paperwork of academic life, such as
+                  departmental and committee appointments, recommendations, thesis approvals, and
+                  speaking engagements. Several letters concern Hubbell's writings and research.</p>
+            </scopecontent>
+            <c02 id="aspace_ref204_us2" level="file">
+               <did>
+                  <unittitle>1919-1929</unittitle>
+                  <container id="aspace_cd5593f6bef6eeb0fe598fb70363ca1c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref205_l4i" level="file">
+               <did>
+                  <unittitle>1930-1942</unittitle>
+                  <container id="aspace_3334b1655061bc132bff13afd0ca0941" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref206_91f" level="file">
+               <did>
+                  <unittitle>1943-1975</unittitle>
+                  <container id="aspace_322826b5948d76e013a47f2f233b0981" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref207_upz" level="file">
+               <did>
+                  <unittitle>1976-1979</unittitle>
+                  <container id="aspace_021aec37b107381ee4a877cf32ad0173" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref210_8ny" level="series">
+            <did>
+               <unittitle>Writings and Speeches Series, 1867-1998 and undated, bulk
+                  1920-1979</unittitle>
+            </did>
+            <scopecontent id="aspace_bc74ff27a0e4acfba5e9ee10d49a1e95">
+               <head>Scope and Contents note</head>
+               <p>This series consists of two subseries, <emph render="bold">Writings by
+                     Hubbell</emph> and <emph render="bold">Writings by Others</emph>. Unpublished
+                  and published manuscripts, reprints, reviews, and correspondence pertaining to the
+                  writings make up each subseries. The materials in both subseries are arranged
+                  alphabetically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref211_nlh" level="subseries">
+               <did>
+                  <unittitle>Writings by Hubbell Subseries, 1908-1978 and undated, bulk
+                     1920-1978</unittitle>
+               </did>
+               <scopecontent id="aspace_9c5762470dd9cfd3c9d259e2484f5345">
+                  <head>Scope and Contents note</head>
+                  <p>This subseries contains original writings by Hubbell, both published and
+                     unpublished. It is divided into three sections: Manuscripts, A-Z; Publications
+                     Files; and Printed Materials. Manuscripts of lectures, articles, student
+                     handbooks, conference and meeting papers, and reminiscences written by Hubbell
+                     of literary figures and critics (including Frank Clyde Brown, Robert Frost,
+                     Lewis Leary, John H. McGinnis, and Carl Sandburg) can be found in the
+                     Manuscripts, A-Z folders. Reminiscences are filed alphabetically by the
+                     subject's last name. The Publications Files mainly consist of correspondence
+                     and related bureaucratic materials concerning Hubbell's published works, and
+                     are arranged alphabetically by title. An exception is the inclusion of a copy
+                     of his memoir of his wife, <title type="simple" render="italic"
+                     >Lucinda</title>. The Printed Materials files include reprints of Hubbell's
+                     articles and essays as well as reprints of reviews of his writings. The files
+                     also include a scrapbook in which reprints and clippings of newspaper articles,
+                     Hubbell's writings, and reviews of Hubbell's writings can be found. Folders
+                     arranged in alphabetical order by folder title.</p>
+               </scopecontent>
+               <c03 id="aspace_ref212_ipw" level="file">
+                  <did>
+                     <unittitle>Manuscripts, A-U, 1908-1978 and undated</unittitle>
+                     <physdesc id="aspace_768b7d1ed640d699d4589fe7ad19e7ab">
+                        <extent>9 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1db79ae2fc49049af0a4fb96f804f993" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref214_dcp" level="file">
+                  <did>
+                     <unittitle>Manuscripts, V-Z, 1908-1978 and undated</unittitle>
+                     <physdesc id="aspace_e140e5be25c92fb4c326f9613500c2b4">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_2aa7e0ec4d942a0636b0bb9f30664944" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref216_1lz" level="file">
+                  <did>
+                     <unittitle>Publications Files, 1921-1977</unittitle>
+                  </did>
+                  <c04 id="aspace_ref217_7p0" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">American Life in Literature</title>, 1932-1972 and
+                           undated</unittitle>
+                     </did>
+                     <c05 id="aspace_ref218_7j1" level="file">
+                        <did>
+                           <unittitle>First Edition, 1932-1972 and undated</unittitle>
+                           <container id="aspace_e22c070faa8c4938f7a7533bef4deda0"
+                              label="Mixed Materials" type="box">10</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref219_jcp" level="file">
+                        <did>
+                           <unittitle>Revised Editions, 1947-1948 and undated</unittitle>
+                           <container id="aspace_556edc205ac729535bedee88db3dbf4c"
+                              label="Mixed Materials" type="box">10</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref220_w0f" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Eight American Authors, </title> 1970-1976 and
+                           undated</unittitle>
+                        <container id="aspace_34614ea2f088afdd993502ace67f0bb5"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref221_biy" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">The Enjoyment of Literature, </title>
+                           1929-1930</unittitle>
+                        <container id="aspace_b52308c4f60e9297db4f81a0a8f3d4c2"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref222_5fq" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Essays on American Literature in Honor of Jay B.
+                              Hubbell, </title> 1966-1968 and undated</unittitle>
+                        <container id="aspace_cdc8cb0a3c88d8cb8a8775d78827f13b"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref223_714" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Introduction to Drama, </title>
+                           1926-1949</unittitle>
+                        <container id="aspace_1b3739e8f94e1bb8fc0e4687559ddf7c"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref224_wq6" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Introduction to Poetry, </title> 1921-1936 and
+                           undated</unittitle>
+                        <container id="aspace_bcaec4cd260e1a33f88482342dde1be0"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref225_uw4" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">The Last Years of Henry Timrod, </title>
+                           1940-1945</unittitle>
+                        <container id="aspace_b178a538a2ca4231a4f3cec92ac2913d"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref226_b6e" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Lucinda, </title> 1975-1977</unittitle>
+                        <container id="aspace_ef18cd34d5719263086a34e927042e34"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref227_6k0" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">South and Southwest, </title> 1965-1967 and
+                           undated</unittitle>
+                        <container id="aspace_13159b5c7e98b85cfefc3bddccee8a5b"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref228_35q" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">The South in American Literature</title>
+                        </unittitle>
+                     </did>
+                     <c05 id="aspace_ref229_wse" level="file">
+                        <did>
+                           <unittitle>Correspondence and Clippings, 1954-1970 and
+                              undated</unittitle>
+                           <container id="aspace_513a3c95928e8e1e2ecca69ad0ec907c"
+                              label="Mixed Materials" type="box">10</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref230_f0z" level="file">
+                        <did>
+                           <unittitle>Reviews, 1954-1959 and undated</unittitle>
+                           <container id="aspace_1358963caff56cd8ccab91a06e54da3e"
+                              label="Mixed Materials" type="box">11</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref231_is3" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Southern Life in Fiction, </title>
+                           1960-1974</unittitle>
+                        <container id="aspace_7f53752ca3e62885ceefc7e6d7fd220e"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref232_rlr" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Who Are the Major American Writers?</title>
+                        </unittitle>
+                     </did>
+                     <c05 id="aspace_ref233_ftw" level="file">
+                        <did>
+                           <unittitle>Correspondence and Notes, 1921-1974 and undated</unittitle>
+                           <container id="aspace_6071cc427c931d2ccc67c3ec33a9c20c"
+                              label="Mixed Materials" type="box">11</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref234_tdd" level="file">
+                        <did>
+                           <unittitle>Clippings, 1971-1975</unittitle>
+                           <container id="aspace_dedeeb093746f140ba1cd521197c64fc"
+                              label="Mixed Materials" type="box">11</container>
+                        </did>
+                     </c05>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref235_o9n" level="file">
+                  <did>
+                     <unittitle>Printed Materials, 1921-1978 and undated</unittitle>
+                  </did>
+                  <c04 id="aspace_ref236_quz" level="file">
+                     <did>
+                        <unittitle>Articles, A-Z</unittitle>
+                        <physdesc id="aspace_b5da49be31ceb63733bfaa2a3c889f38">
+                           <extent>6 folders</extent>
+                        </physdesc>
+                        <container id="aspace_f5a6fb4537b544366f2de39bd7696280"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref238_sn9" level="file">
+                     <did>
+                        <unittitle>Reviews</unittitle>
+                        <container id="aspace_d9537ca43957f3a1b5aba07f80961d14"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref239_dgv" level="file">
+                     <did>
+                        <unittitle>Scrapbook</unittitle>
+                        <container id="aspace_963e29d9f79508a9a10321faf1c79558"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref241_qoq" level="subseries">
+               <did>
+                  <unittitle>Writings by Others Subseries, 1867-1998 and undated, bulk
+                     1914-1979</unittitle>
+               </did>
+               <scopecontent id="aspace_99e8c903df17992f758fe0ec0675aa22">
+                  <head>Scope and Contents note</head>
+                  <p>Contains many reprints inscribed and sent to Hubbell as well as articles and
+                     essays which Hubbell gathered, including copies of four pre-1900 essays.
+                     Several manuscripts of memoirs of early teachers of American literature written
+                     by their colleagues appear in these folders, filed by author's last name
+                     (memoirs also appear in the <emph render="bold">Writings by Hubbell</emph> and
+                        <emph render="bold">Correspondence, Alphabetical Series</emph>). Eleanor
+                     Marguerite Tilton's collected writings by and about Ralph Leslie Rusk are filed
+                     under her name, along with her reminiscence of Rusk. Items are arranged
+                     alphabetically by author's name.</p>
+               </scopecontent>
+               <c03 id="aspace_ref242_wlu" level="file">
+                  <did>
+                     <unittitle>Allen, Gay Wilson, 1937</unittitle>
+                     <container id="aspace_d298ead6f75da6cef34395b8a44520df" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref243_pgc" level="file">
+                  <did>
+                     <unittitle>Anderson, Carl Lennart, 1971</unittitle>
+                     <container id="aspace_c87e8dc703033e558f1613e82b10e0ea" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref244_k3h" level="file">
+                  <did>
+                     <unittitle>Author unknown, 1869</unittitle>
+                     <container id="aspace_522033a6de94e4eb3981e73ed14c145c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref245_lfb" level="file">
+                  <did>
+                     <unittitle>Author unknown, 1887</unittitle>
+                     <container id="aspace_863fcc9c940c7936bb9aa7ee44f76d8f" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref246_0xx" level="file">
+                  <did>
+                     <unittitle>Basler, Roy Prentice, 1938-1977 and undated</unittitle>
+                     <container id="aspace_506122a82221da7d881fba0d190a53b7" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref247_bhw" level="file">
+                  <did>
+                     <unittitle>Bernbaum, Ernest, 1926</unittitle>
+                     <container id="aspace_93d50bb15e8b193d8f5901af80fbd215" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref248_eel" level="file">
+                  <did>
+                     <unittitle>Blackstock, Walter, 1948 and undated</unittitle>
+                     <container id="aspace_0e9a5dda9a277cd091515eeebf89f60c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref249_9lr" level="file">
+                  <did>
+                     <unittitle>Blair, Walter, 1976</unittitle>
+                     <container id="aspace_7819853bac1af6219f3021fcc9047903" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref250_kbh" level="file">
+                  <did>
+                     <unittitle>Brown, Herbert Ross, 1935</unittitle>
+                     <container id="aspace_1c9b144fd1e78d26f806b8f3e28ff51b" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref251_lte" level="file">
+                  <did>
+                     <unittitle>Bruccoli, Matthew Joseph, 1951-1978</unittitle>
+                     <container id="aspace_688d8a19168e408420dd9e5b20738111" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref252_84t" level="file">
+                  <did>
+                     <unittitle>Cahill, William and Molly McKaughan, 1976</unittitle>
+                     <container id="aspace_f723b6717055420db3c3ebcf52e4ab07" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref253_fr5" level="file">
+                  <did>
+                     <unittitle>Calhoun, Richard James, 1977</unittitle>
+                     <container id="aspace_37fbc794574d77967a1621594bd7f837" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref254_dq8" level="file">
+                  <did>
+                     <unittitle>Campbell, Harry Modean, 1954</unittitle>
+                     <container id="aspace_8da8b4ce651c5b5e0ce09c0ffe327ad7" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref255_fhq" level="file">
+                  <did>
+                     <unittitle>Canby, Henry Seidel, 1929</unittitle>
+                     <container id="aspace_ff8772013e7eb0ad384b776e14a0b656" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref256_52a" level="file">
+                  <did>
+                     <unittitle>Cannon, James and Lewis Patton, 1950</unittitle>
+                     <container id="aspace_988cc24b4dc8a214ad99f89a96f33ea0" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref257_0ut" level="file">
+                  <did>
+                     <unittitle>Contrell, Clyde Hull, 1960</unittitle>
+                     <container id="aspace_d516e2e5e1184e4c377588e707f117e1" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref258_reb" level="file">
+                  <did>
+                     <unittitle>Carlock, Mary Sue, undated</unittitle>
+                     <container id="aspace_b9a4ec525106db9f621b3ab7b9280d0b" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref259_p9j" level="file">
+                  <did>
+                     <unittitle>Centing, Richard R., 1978</unittitle>
+                     <container id="aspace_0e03e1107b2a7873ab2c1163e2bd3626" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref260_rsk" level="file">
+                  <did>
+                     <unittitle>Chapman, John S., 1978</unittitle>
+                     <container id="aspace_64f0908bb396f2dc9c923c2bcb40431c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref261_jys" level="file">
+                  <did>
+                     <unittitle>Clark, Linda, 1980</unittitle>
+                     <container id="aspace_eaee228d78d0b0f58ed359860decca42" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref262_69e" level="file">
+                  <did>
+                     <unittitle>Cone, Eddie Gay, 1977-1985</unittitle>
+                     <container id="aspace_ce48c6b079ee01c6e238602b48759c39" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref263_3e9" level="file">
+                  <did>
+                     <unittitle>Davis, Arthur Kyle, 1972</unittitle>
+                     <container id="aspace_092f140d80e5c083a6bced59accfd07c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref264_ogd" level="file">
+                  <did>
+                     <unittitle>Davis, Curtis Carroll, 1970-1972</unittitle>
+                     <container id="aspace_57de4ac2604d99c265875bcb127467eb" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref265_8vy" level="file">
+                  <did>
+                     <unittitle>Davis, Richard Beale, 1943-1978</unittitle>
+                     <container id="aspace_3d151c9c54c92efb7e7be15ed2da8da5" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref266_nfx" level="file">
+                  <did>
+                     <unittitle>Day, George Parmly, 1914</unittitle>
+                     <container id="aspace_aa5e9d5d5587b944c0ee99ce7131a493" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref267_u9w" level="file">
+                  <did>
+                     <unittitle>Duggan, Margaret, 1979</unittitle>
+                     <container id="aspace_16052ff26a159261107b85e5a37592b2" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref268_r30" level="file">
+                  <did>
+                     <unittitle>Eidson, John Olin, 1956-1977 and undated</unittitle>
+                     <container id="aspace_f219682b4d0f3b0dcf37fa8a6b379f51" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref269_ta1" level="file">
+                  <did>
+                     <unittitle>Fabian, Bernhard, 1959</unittitle>
+                     <container id="aspace_cc584443ffd4aff434b95bed4e05cf36" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref270_evw" level="file">
+                  <did>
+                     <unittitle>Ferguson, Oliver Watkins, 1971</unittitle>
+                     <container id="aspace_4b5cb9a10617d9ce61e000be6711b187" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref271_h0m" level="file">
+                  <did>
+                     <unittitle>Fisher, Benjamin Franklin, 1971-1974</unittitle>
+                     <container id="aspace_1fe6ecee614d2127c2378424bfa3129b" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref272_65o" level="file">
+                  <did>
+                     <unittitle>Fisher, John Hurt, 1952-1955</unittitle>
+                     <container id="aspace_34651192297db245a0fa037a067de4ac" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref273_un9" level="file">
+                  <did>
+                     <unittitle>French, L. Virginia, 1868</unittitle>
+                     <container id="aspace_67a6d1feff8dccb44c3df206279fcefe" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref274_0qn" level="file">
+                  <did>
+                     <unittitle>Fuson, Ben W., 1952</unittitle>
+                     <container id="aspace_4ee9e9b6590d17221e68da2743524497" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref275_i1m" level="file">
+                  <did>
+                     <unittitle>Gates, William Bryan, 1960</unittitle>
+                     <container id="aspace_ba370e3aa784aff0ecddffcebaf150a9" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref276_tg6" level="file">
+                  <did>
+                     <unittitle>Gilbert, Allan H., 1954</unittitle>
+                     <container id="aspace_e0c86609b0ba3073f90751ce35e02fc5" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref277_93d" level="file">
+                  <did>
+                     <unittitle>Gilbert, Katharine, 1949</unittitle>
+                     <container id="aspace_aa9f96576b8de405b5a952f7a49dbdb4" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref278_5x1" level="file">
+                  <did>
+                     <unittitle>Gillis, Everett A., 1954</unittitle>
+                     <container id="aspace_a271d07e63de4d90ef3ddb3b5fbeaac4" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref279_dcp" level="file">
+                  <did>
+                     <unittitle>Gohdes, Clarence L. F., 1936-1972</unittitle>
+                     <container id="aspace_a2ddccf0a32515ee42e3961a6f6ea76b" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref280_hho" level="file">
+                  <did>
+                     <unittitle>Grattan, Clinton Hartley, 1931</unittitle>
+                     <container id="aspace_fb405ef440e0e9566a4343c0a193cc05" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref281_8xc" level="file">
+                  <did>
+                     <unittitle>Gregory, S., 1871</unittitle>
+                     <container id="aspace_708d0e1935cf60841e5ed17585a9f567" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref282_042" level="file">
+                  <did>
+                     <unittitle>Gross, Theodore L., 1968-1978</unittitle>
+                     <container id="aspace_688273094cb72b0840ac863d8718c409" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref283_vtz" level="file">
+                  <did>
+                     <unittitle>Guilds, John C., 1956-1960</unittitle>
+                     <container id="aspace_9283321369f6662190f412d1f38a8470" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref284_qt7" level="file">
+                  <did>
+                     <unittitle>Hayne, Paul H., 1874</unittitle>
+                     <container id="aspace_295003812e68f9b148db61db679555e1" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref285_nqz" level="file">
+                  <did>
+                     <unittitle>Herron, Ima Honaker, 1960-1976</unittitle>
+                     <container id="aspace_bc08c06815edf2a9d495633282e1794c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref286_zpn" level="file">
+                  <did>
+                     <unittitle>Holman, Clarence Hugh, 1949-1950</unittitle>
+                     <container id="aspace_1980841992610ae5b4b3ac37a8bde9db" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref287_pvr" level="file">
+                  <did>
+                     <unittitle>Holman, Harriet R., 1977</unittitle>
+                     <container id="aspace_1954b55df190198f070c3b407f34b037" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref288_voc" level="file">
+                  <did>
+                     <unittitle>Hornberger, Theodore, 1941</unittitle>
+                     <container id="aspace_950477adcd28df09b9d4c0c98eeb3b55" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref289_mmo" level="file">
+                  <did>
+                     <unittitle>Jackson, David Kelly, 1975-1976</unittitle>
+                     <container id="aspace_033467992184771b5ae3ef70425fa79f" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref290_v7q" level="file">
+                  <did>
+                     <unittitle>Jones, Howard Mumford, 1936-1956</unittitle>
+                     <container id="aspace_a3542b6531da49b2d20c088627841226" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref291_vs4" level="file">
+                  <did>
+                     <unittitle>Kahn, Sholom Jacob, 1957 and undated</unittitle>
+                     <container id="aspace_779d30498ea2a05514593f3edc2220ae" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref292_dxb" level="file">
+                  <did>
+                     <unittitle>King, Robert T., 1977</unittitle>
+                     <container id="aspace_f0993502d4a6fc66720d3322279407ae" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref293_4u3" level="file">
+                  <did>
+                     <unittitle>Kinnamon, Keneth, 1959</unittitle>
+                     <container id="aspace_1117f32e66e64f20d6d954c807242087" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref294_w74" level="file">
+                  <did>
+                     <unittitle>Lampson, Robin, 1939-1940</unittitle>
+                     <container id="aspace_495a6bc14d0f172dd3be34768e82f10c" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref295_nq7" level="file">
+                  <did>
+                     <unittitle>Law, Robert Adger, 1937</unittitle>
+                     <container id="aspace_a6b35adbd71b51676d587e272f7e526f" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref296_b29" level="file">
+                  <did>
+                     <unittitle>Lawrence, David Herbert, 1926</unittitle>
+                     <container id="aspace_8d3aebee8351e5e830d80e156cbbf035" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref297_7cd" level="file">
+                  <did>
+                     <unittitle>Lewis, John Smith, 1941</unittitle>
+                     <container id="aspace_661fa9208fca2701aab808cc17a2e011" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref298_2a0" level="file">
+                  <did>
+                     <unittitle>Leary, Lewis Gaston, 1941-1976</unittitle>
+                     <container id="aspace_82810a600ee4de420b5cb7f5d5639480" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref299_mrd" level="file">
+                  <did>
+                     <unittitle>Mabbott, Maureen (Cobb), 1970-1980</unittitle>
+                     <container id="aspace_210d1dcc37e6eee8eb890774dbff6ed7" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref300_tzc" level="file">
+                  <did>
+                     <unittitle>McCain, John Walker, 1970</unittitle>
+                     <container id="aspace_592a0ae45948352d60d98585198463c4" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref301_nyt" level="file">
+                  <did>
+                     <unittitle>McDavid, Raven Ioor, 1972</unittitle>
+                     <container id="aspace_23696482e188f7da153c4003794798c3" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref302_kix" level="file">
+                  <did>
+                     <unittitle>McDowell, Tremaine, 1930</unittitle>
+                     <container id="aspace_ea37f67fd060f2d3c857207c1fa14432" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref303_rea" level="file">
+                  <did>
+                     <unittitle>McKeithan, Daniel Morley, 1930-1979</unittitle>
+                     <container id="aspace_ddf92d549769799ee2ea20218bc06c8e" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref304_y9p" level="file">
+                  <did>
+                     <unittitle>MacLeish, Archibald, 1976</unittitle>
+                     <container id="aspace_ab7f3076ba9f667d1da8837fc120c0d2" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref305_uss" level="file">
+                  <did>
+                     <unittitle>Markham, Edwin, undated</unittitle>
+                     <container id="aspace_f08ac95ebeb0219c3c028f9d0186b30f" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref306_6fc" level="file">
+                  <did>
+                     <unittitle>Miller, Perry, 1964</unittitle>
+                     <container id="aspace_7afbe7ea60f1b30707aaa24947c6b674" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref307_851" level="file">
+                  <did>
+                     <unittitle>Moore, Rayburn Sabatzky, 1954-1976</unittitle>
+                     <container id="aspace_51191164b0cafb20dd046bbee7d90350" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref308_tta" level="file">
+                  <did>
+                     <unittitle>Nakamura, Junichi, undated</unittitle>
+                     <container id="aspace_ebedf9cfa4bde7eff7ac51528e851522" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref309_5o1" level="file">
+                  <did>
+                     <unittitle>Negley, Glenn, 1966</unittitle>
+                     <container id="aspace_d7bda1f6e908915db8ffcb5a6f6afbcf" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref310_v1j" level="file">
+                  <did>
+                     <unittitle>Paton, Alan, 1959</unittitle>
+                     <container id="aspace_9b64483c1e0a9581d20d076a0b2f3fdc" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref311_6ws" level="file">
+                  <did>
+                     <unittitle>Pattee, Fred Lewis, 1924 and undated</unittitle>
+                     <container id="aspace_4ce421ca70f45fc50a2be49c7c80bcb3" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref312_dwe" level="file">
+                  <did>
+                     <unittitle>Pfaff, Daniel Wayne, 1977</unittitle>
+                     <container id="aspace_53a97818ddc4565b9def253cdf105d0e" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref313_a79" level="file">
+                  <did>
+                     <unittitle>Pierson, George Wilson, 1954</unittitle>
+                     <container id="aspace_05453864b411990a4464cdb8e8907b67" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref314_0v2" level="file">
+                  <did>
+                     <unittitle>Pound, Louise, 1942</unittitle>
+                     <container id="aspace_516ff6e66605ebdb2ad29e02c2c55e27" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref315_908" level="file">
+                  <did>
+                     <unittitle>Raetz, Martha and M. Kahn, 1975</unittitle>
+                     <container id="aspace_ff773454883113966b0f7c271bd1add5" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref316_mfr" level="file">
+                  <did>
+                     <unittitle>Ralls, J. R., 1867</unittitle>
+                     <container id="aspace_5953c204cfa5268960c4e2e634746c77" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref317_2il" level="file">
+                  <did>
+                     <unittitle>Reece, James B., 1975</unittitle>
+                     <container id="aspace_abcc983af9327da1138a2004b99bb148" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref318_tw1" level="file">
+                  <did>
+                     <unittitle>Robert, Joseph Clarke, 1964-1972</unittitle>
+                     <container id="aspace_85e1899efc87800c9c4362b5042cdec4" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref319_osx" level="file">
+                  <did>
+                     <unittitle>Roppolo, Joseph Patrick, 1956</unittitle>
+                     <container id="aspace_d460dd337dd637fdd3e5faced5660621" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref320_hv3" level="file">
+                  <did>
+                     <unittitle>Rosenthal, Macha Louis, 1966-1974</unittitle>
+                     <container id="aspace_89631601e9018505d8f4fbcee60120bb" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref321_iyi" level="file">
+                  <did>
+                     <unittitle>Rusk, Ralph Leslie, 1953</unittitle>
+                     <container id="aspace_ced258603613929e8b348783cec6db48" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref322_mef" level="file">
+                  <did>
+                     <unittitle>Sanders, Charles Richard, 1957</unittitle>
+                     <container id="aspace_9c12d53fac3be3ccbe53eb836845cdc7" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref323_g1j" level="file">
+                  <did>
+                     <unittitle>Shepperson, Archibald Bolling, 1954</unittitle>
+                     <container id="aspace_401cadc22a9332f0b4ad30f9a4f6429d" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref324_yy7" level="file">
+                  <did>
+                     <unittitle>Shryock, Richard Harrison, 1940</unittitle>
+                     <container id="aspace_493a647ab109758a9a32885fcb4e822f" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref325_zmb" level="file">
+                  <did>
+                     <unittitle>Smith, Henry Nash, 1975</unittitle>
+                     <container id="aspace_9a5cee47120641a4970fcfa313f87754" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref326_1db" level="file">
+                  <did>
+                     <unittitle>Smith, William Jay, 1976</unittitle>
+                     <container id="aspace_ae06c254f00b7645607b304b0ca226ee" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref327_s8d" level="file">
+                  <did>
+                     <unittitle>Stewart, Randall, 1955</unittitle>
+                     <container id="aspace_154f972dbf23c803bed785f869e00c86" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref328_5h4" level="file">
+                  <did>
+                     <unittitle>Spiller, Robert Ernest, 1967</unittitle>
+                     <container id="aspace_d0d12bfd10973b6fcd381a5cb59197d4" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref329_upb" level="file">
+                  <did>
+                     <unittitle>Stone, Edward, 1961-1966</unittitle>
+                     <container id="aspace_fdf794663c54e1cd7ba6aa873eae3827" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref330_39s" level="file">
+                  <did>
+                     <unittitle>Stovall, Floyd, 1938</unittitle>
+                     <container id="aspace_cfac25c85fba0c39a9b98648539b4492" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref331_53k" level="file">
+                  <did>
+                     <unittitle>Thompson, Edgar Tristam, 1965-1976</unittitle>
+                     <container id="aspace_6e751f1bdbe4e7c1c629d6870a6dbcb6" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref332_i2b" level="file">
+                  <did>
+                     <unittitle>Thorpe, James, 1974</unittitle>
+                     <container id="aspace_075d823b94b1aeca18e4feeb5a35cab1" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref333_fk1" level="file">
+                  <did>
+                     <unittitle>Tilton, Eleanor Marguerite, 1958-1979</unittitle>
+                  </did>
+                  <c04 id="aspace_ref334_dzj" level="file">
+                     <did>
+                        <unittitle>Writings by Tilton, 1958</unittitle>
+                        <container id="aspace_26d16a0f1ff54437bcb941542b4237a0"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref335_ztt" level="file">
+                     <did>
+                        <unittitle>Writings on Ralph Rusk, 1979</unittitle>
+                        <physdesc id="aspace_dde7db29249f859483157a99256e08e8">
+                           <extent>6 folders</extent>
+                        </physdesc>
+                        <container id="aspace_5f4953e116adc8a0725b98f85c9f82c3"
+                           label="Mixed Materials" type="box">14</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref337_mqd" level="file">
+                  <did>
+                     <unittitle>Tinker, Chauncey Brewster, 1974 (reprint of 1924
+                        article)</unittitle>
+                     <container id="aspace_42368facf0d6657c4fc27492e8bb5dd8" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref338_xab" level="file">
+                  <did>
+                     <unittitle>Turner, Arlin, 1974</unittitle>
+                     <container id="aspace_ea3f734adf3cee9aad7b64656a52dc4e" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref339_es9" level="file">
+                  <did>
+                     <unittitle>Wells, Henry Willis , 1976</unittitle>
+                     <container id="aspace_6df95e938c5d3fd11de9f229104a0e27" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref340_wqs" level="file">
+                  <did>
+                     <unittitle>Welty, Eudora, 1956</unittitle>
+                     <container id="aspace_86d9e95091bc92106866d0de954316d6" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref341_cgp" level="file">
+                  <did>
+                     <unittitle>White, George Abbott, 1978</unittitle>
+                     <container id="aspace_0dd048499b24c88fa978c279bdca831d" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref342_mer" level="file">
+                  <did>
+                     <unittitle>Wiesepape, Betty Holland, 1998</unittitle>
+                     <container id="aspace_e3c4dd0c1c99952bf2674140f04a84c9" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref343_f3e" level="file">
+                  <did>
+                     <unittitle>Wiggins, Robert Lemuel, 1955</unittitle>
+                     <container id="aspace_9686764c31bc35b90fd76d12e494ec3e" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref344_6bw" level="file">
+                  <did>
+                     <unittitle>Williams, Stanley Thomas, 1925</unittitle>
+                     <container id="aspace_a6faa06dce5c05c383c22def28e3900a" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref345_822" level="file">
+                  <did>
+                     <unittitle>Zeek, Charles Franklyn, 1953-1955</unittitle>
+                     <container id="aspace_f0e5c2105cf07a0789c2170ad4d0e1e9" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref346_59y" level="file">
+                  <did>
+                     <unittitle>Pamphlets and short writings, 1883-1966 and undated</unittitle>
+                     <container id="aspace_d00a2f205b48b20805300d0c43ea2c13" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref349_im2" level="series">
+            <did>
+               <unittitle>Subject Files Series, 1916-1980 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_4fb65a599737fd44964fecda7753238f">
+               <head>Scope and Contents note</head>
+               <p>Includes material pertaining to the major events, institutions, and interests of
+                  Hubbell's life and career. Two subseries make up this series: <emph render="bold"
+                     >General Files</emph> and <emph render="bold">Projects</emph>. Some material
+                  related to these subject files is filed elsewhere in the collection, in particular
+                  letters from Hubbell's more regular correspondents that appear in the <emph
+                     render="bold">Correspondence, Alphabetical Series</emph>. Papers concerning
+                  institutional appointments also can be found throughout the <emph render="bold"
+                     >Correspondence</emph> and <emph render="bold">Biographical Data
+                  Series</emph>.</p>
+            </scopecontent>
+            <c02 id="aspace_ref350_0n0" level="subseries">
+               <did>
+                  <unittitle>General Files Subseries, circa 1922-1980 and undated</unittitle>
+               </did>
+               <scopecontent id="aspace_e69a88b8ecb612e2653b278bd7cdd277">
+                  <head>Scope and Contents note</head>
+                  <p>Contains materials on a broad range of topics: Hubbell's institutional
+                     affiliations (Southern Methodist University, Columbia, Clemson, and the
+                     University of Richmond), the proceedings of the Modern Language Association
+                     (MLA) and its American Literature Section, the Jay B. Hubbell Medallion (given
+                     by the MLA to honor American literary scholarship) and the Mayflower Award
+                     (given annually to the best nonfiction work by a North Carolina resident).
+                     Other areas of professional interest and concern, such as graduate students and
+                     courses, Duke Library collection development, and folklore make up the rest of
+                     the series. Items are filed alphabetically within the subseries and
+                     chronologically within each folder.</p>
+               </scopecontent>
+               <c03 id="aspace_ref351_8th" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">American Literature</title>, 1969</unittitle>
+                     <container id="aspace_4c77f244fb7e9a272a5ee18dd481f453" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref352_1ex" level="file">
+                  <did>
+                     <unittitle>Clemson College, 1956-1961 and undated</unittitle>
+                     <container id="aspace_c04b0574f6f513bcee8b31ec6ca8d827" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref353_kza" level="file">
+                  <did>
+                     <unittitle>Collection Development, 1961 and undated</unittitle>
+                     <container id="aspace_09647cac2ad26ac7111029c16ad4d842" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref354_tsk" level="file">
+                  <did>
+                     <unittitle>Columbia University, 1957-1975</unittitle>
+                     <container id="aspace_57aed96562c8eddf0699831e22b822df" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref355_hdz" level="file">
+                  <did>
+                     <unittitle>Courses, 1954-1955 and undated</unittitle>
+                     <container id="aspace_7ff1cbf76f678260c9d2e51bedcdc774" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref356_zey" level="file">
+                  <did>
+                     <unittitle>Duke University Press, undated</unittitle>
+                     <container id="aspace_6289372c837adf1ffef7cac700adb044" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref357_lk7" level="file">
+                  <did>
+                     <unittitle>Eugenia Dorothy Blount Lamar Lectures, 1959</unittitle>
+                     <container id="aspace_cbb745a440f5e14a7ab45fbc2290cb39" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref358_kh5" level="file">
+                  <did>
+                     <unittitle>Folklore, 1968-1976</unittitle>
+                     <container id="aspace_c6a2019f6b157a9b50bfdc2809450b59" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref359_piz" level="file">
+                  <did>
+                     <unittitle>Graduate Studies, 1949 and undated</unittitle>
+                     <container id="aspace_25d71f115356cbcc24b434ae487d313e" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref360_dh3" level="file">
+                  <did>
+                     <unittitle>Jamestown, 1957 and undated</unittitle>
+                     <container id="aspace_4971073ddcfaae1d3fcb63aaf5a4f83e" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref361_my0" level="file">
+                  <did>
+                     <unittitle>Jay B. Hubbell Center for Literary Historiography,
+                        1976-1980</unittitle>
+                     <container id="aspace_2b81e42ca32f71b458897a590da32bd3" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref362_183" level="file">
+                  <did>
+                     <unittitle>Jay B. Hubbell Medallion, 1965-1976</unittitle>
+                     <container id="aspace_d7f973ce1e5fbbec487de90d41e268db" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref363_7hw" level="file">
+                  <did>
+                     <unittitle>Mayflower Cup Award, 1955</unittitle>
+                     <container id="aspace_37d3b5d1f705d75bf4a9187374666759" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref364_ls9" level="file">
+                  <did>
+                     <unittitle>Modern Language Association of America , 1923-1977</unittitle>
+                  </did>
+                  <c04 id="aspace_ref365_4iq" level="file">
+                     <did>
+                        <unittitle>Correspondence, 1927-1977</unittitle>
+                        <physdesc id="aspace_ad9cf90cfb183a763f90b01b901b6a90">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_c29dbb34a3e8af79735724dabc3deaa5"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref367_ajk" level="file">
+                     <did>
+                        <unittitle>Programs, 1926-1957</unittitle>
+                        <container id="aspace_f75ac23ef6f18b9616b8a18145e378c4"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref368_7rn" level="file">
+                  <did>
+                     <unittitle>Modern Language Association of America, American Literature Section,
+                        1923-1977</unittitle>
+                  </did>
+                  <c04 id="aspace_ref369_09n" level="file">
+                     <did>
+                        <unittitle>Correspondence, 1923-1976</unittitle>
+                        <container id="aspace_c661ef580b4d5f2a729bef113fec18a0"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref370_83e" level="file">
+                     <did>
+                        <unittitle>Annual Reports, 1951-1977</unittitle>
+                        <physdesc id="aspace_97d6d8755f106c19192a3d6a0a808e40">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_6a5e2bbb2b260e3cc7e3508a88e8ea99"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref372_fwz" level="file">
+                  <did>
+                     <unittitle>Modern Language Association of America, Comparative Language
+                        Section, 1948</unittitle>
+                     <container id="aspace_a496f379e673fa89db2bd3b13876c54a" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref373_p30" level="file">
+                  <did>
+                     <unittitle>News Items, 1924-1978 and undated</unittitle>
+                     <container id="aspace_4e96bde007cd557f1a776e997336036a" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref374_bmb" level="file">
+                  <did>
+                     <unittitle>Notes, circa 1922-1976 and undated</unittitle>
+                     <container id="aspace_f2b02834d9fb20d0b844836b0790e59c" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref375_00m" level="file">
+                  <did>
+                     <unittitle>Phi Beta Kappa, circa 1961</unittitle>
+                     <container id="aspace_17aeb1280fc740d665dca480910a669c" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref376_cwc" level="file">
+                  <did>
+                     <unittitle>South Atlantic Modern Language Association, 1930-1954</unittitle>
+                     <physdesc id="aspace_dc6bb886277162693d3c11dedd38e2e6">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_5991d60870c57662a766fad0fe097783" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref378_19y" level="file">
+                  <did>
+                     <unittitle>Southern Methodist University, 1951-1974</unittitle>
+                     <container id="aspace_3110239fd107f4d0ece1c8d1a4e03668" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+                  <processinfo id="aspace_615164de02ceb76912282faadfebdc15">
+                     <head>Processing Information note</head>
+                     <p>[Oversize material removed to Oversize Folder 2.]</p>
+                  </processinfo>
+               </c03>
+               <c03 id="aspace_ref380_0tr" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Southwest Review</title>, 1924-1970</unittitle>
+                     <container id="aspace_2b38789d647221478912816ba4ea287f" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref381_gyc" level="file">
+                  <did>
+                     <unittitle>University of Richmond, 1929-1979</unittitle>
+                     <physdesc id="aspace_f9aa4987aaaad4d6ae9c7807ada365c3">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ea291a541eb98e98c8ae32a3a191e193" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref384_4ib" level="subseries">
+               <did>
+                  <unittitle>Projects Subseries, 1916-1976 and undated</unittitle>
+               </did>
+               <scopecontent id="aspace_3b7a59a00043072cd9b47d02dea37592">
+                  <head>Scope and Contents note</head>
+                  <p>Hubbell's interest in the development of literary scholarship, particularly of
+                     American and Southern literature, prompted him to undertake many projects
+                     throughout his career. One such project concerned Hubbell's role as an active
+                     contributor to the development of Duke University Library's literary
+                     collections. His interest in building a renowned collection of American
+                     literature and American literary scholarship at Duke is demonstrated throughout
+                     his papers, but most specifically in his proposal for the establishment of a
+                     Center for Southern Studies, whose purpose would be to house a vast historical
+                     and literary collection pertaining to the South. This plan never materialized
+                     as Hubbell envisioned in the letters that can be found in the "Center for
+                     Southern Studies" folders. In 1966, a Center for Southern Studies did open at
+                     Duke, but it was one in which Hubbell was not involved and whose vision Hubbell
+                     did not endorse.</p>
+                  <p>Similarly, Hubbell spearheaded the Cooperative Training Program for Foreign
+                     Teachers of American Literature initiative. Two universities, at first Harvard
+                     and Duke and then Minnesota and Duke, were to cooperatively implement a program
+                     to train instructors to teach American Literature abroad. Due to a lack of
+                     funding, the program was never begun. Another project which experienced
+                     financial setbacks was Hubbell's plan to compile a checklist of American
+                     literature manuscript sources in the United States. Hubbell introduced the idea
+                     in 1930 and participated in many negotiations over the project, but it was
+                     sidetracked because of insufficient funding. The 1960 publication of <title
+                        type="simple" render="italic">American Literary Manuscripts</title>,
+                     however, completed the project that Hubbell had initiated 30 years earlier.
+                     Papers relating to this publication are in the J. A. Robbins Papers and <title
+                        type="simple" render="italic">American Literary Manuscripts</title> Papers
+                     in the Hubbell Center at Duke University.</p>
+                  <p>This subseries also contains records of other more immediately successful
+                     projects, such as the SMU poetry contests, Correspondence Teaching, and the
+                     Extension Program at SMU. All files are alphabetical, and arranged
+                     chronologically by date within each folder.</p>
+               </scopecontent>
+               <c03 id="aspace_ref385_hnh" level="file">
+                  <did>
+                     <unittitle>Center for Southern Studies, 1929-1976 and undated</unittitle>
+                     <container id="aspace_10920a6146e2bb38253c1814a4b17ff0" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref386_7g6" level="file">
+                  <did>
+                     <unittitle>Checklist of Manuscripts, 1929-1976</unittitle>
+                     <physdesc id="aspace_d88a0922232f5140b4c4908b31268b25">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_299524fd691a617963bc0f85a88199fb" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref388_hbw" level="file">
+                  <did>
+                     <unittitle>Correspondence Teaching, undated</unittitle>
+                     <container id="aspace_54f961db560195eed7ca953f4e68a766" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref389_mdj" level="file">
+                  <did>
+                     <unittitle>Cooperative Training Program, 1951-1976 and undated</unittitle>
+                     <container id="aspace_8c9337e457a34a4df949883bce92037e" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref390_bkk" level="file">
+                  <did>
+                     <unittitle>Extension Teaching, 1916-1950</unittitle>
+                     <container id="aspace_69363f1330b2ee0f5f199983c7cf3b1c" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref391_clh" level="file">
+                  <did>
+                     <unittitle>Revision of <title render="italic">Cambridge History of American
+                           Literature</title>, 1976 and undated.</unittitle>
+                     <container id="aspace_a0a5601c7b83f78e9fcf285a972e0914" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref392_fut" level="file">
+                  <did>
+                     <unittitle>Southern Methodist University Poetry Contests, 1922-1926</unittitle>
+                     <container id="aspace_c4fad4e91955ca56b670f089da604a98" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref393_0m7" level="file">
+                  <did>
+                     <unittitle>Society for the Study of Southern Literature, circa
+                        1967-1975</unittitle>
+                     <container id="aspace_88d6be965b44fd82251a397cf2004eed" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref396_6kx" level="series">
+            <did>
+               <unittitle>Teaching Abroad Series, 1948-1957 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_b8ea37b183069d487dcfb5663b612f9d">
+               <head>Scope and Contents note</head>
+               <p>Hubbell's many different teaching experiences included appointments at three
+                  universities outside of the United States. Hubbell served twice as Expert to the
+                  Secretary of the U. S. Army and Visiting Professor of American Literature at the
+                  University of Vienna. Reports which Hubbell submitted to the Army detailing his
+                  experiences can be found in the "Vienna" folders. The "Jerusalem" folders contain
+                  materials about Hubbell's brief trip to Israel. His appointment as Professor at
+                  Hebrew University was abridged as Hubbell and his wife were evacuated eight days
+                  after their arrival due to the outbreak of the Arab-Israeli conflict. This series
+                  also includes information about his teaching at the University of Athens.
+                  Additional accounts of his experience teaching abroad can be found in his
+                  writings, <title type="simple" render="italic">Lucinda</title> and <title
+                     type="simple" render="italic">South and Southwest</title>. Correspondence and
+                  materials about Hubbell's teaching within the United States appears throughout
+                  several series: <emph render="bold">Biographical Data</emph>, <emph render="bold"
+                     >Correspondence</emph>, and <emph render="bold">Subject Files</emph>. Files are
+                  arranged alphabetically by location.</p>
+            </scopecontent>
+            <c02 id="aspace_ref397_a5l" level="file">
+               <did>
+                  <unittitle>Athens (1953), 1952-1956</unittitle>
+                  <container id="aspace_78451e24b513c89a3b3a1d61995bb647" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref398_129" level="file">
+               <did>
+                  <unittitle>Jerusalem (1956), 1956-1957 and undated</unittitle>
+                  <physdesc id="aspace_e4ea31a4b765615450f8a8b79c8b06ed">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_551b86d627fa2ba688e048c60ecddc9a" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref400_0fp" level="file">
+               <did>
+                  <unittitle>Vienna (1949), 1948-1949 and undated</unittitle>
+                  <container id="aspace_1db6ea74be1e78e298eee93cba44d402" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref401_4il" level="file">
+               <did>
+                  <unittitle>Vienna (1950), 1949-1950 and undated</unittitle>
+                  <physdesc id="aspace_a1e4bce542985fa34d628230adbe49ec">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a6aa16de01cc289638ab638b316b08b5" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref404_q8m" level="series">
+            <did>
+               <unittitle>Photographs Series, 1861-1978 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_b5edb9393c1ffea1f59f2842126d5dc4">
+               <head>Scope and Contents note</head>
+               <p>The highlights of the <emph render="bold">Photographs Series</emph> include
+                  pictures of Hubbell throughout his life, including ones with his wife and young
+                  sons, and as a young Lieutenant; of colleagues, including a photograph of
+                  Hubbell's 90th birthday with many of his fellow Duke faculty; of the Hubbell's
+                  Pinecrest Rd., Durham home; of Carl Sandburg; and various other pictures of
+                  family, friends, and associates. The series contains black and white and color
+                  photographs, as well as candid pictures and formal portraits. The earliest
+                  photograph depicts Hubbell's relatives in uniform as Virginia Sharpshooters in the
+                  Civil War.</p>
+            </scopecontent>
+            <c02 id="aspace_ref405_b22" level="file">
+               <did>
+                  <unittitle>Photographs,</unittitle>
+                  <unitdate>1861-1978 and undated</unitdate>
+                  <physdesc id="aspace_2d617627b73290bfc93ae6465116f8b0">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_84fa93dcbdd6839f9d3d422905928c94" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref408_zmp" level="series">
+            <did>
+               <unittitle>Clippings Series, 1816-1984 and undated, bulk 1920-1969</unittitle>
+            </did>
+            <scopecontent id="aspace_ec84224ab68adc2c026f5184c00c35a5">
+               <head>Scope and Contents note</head>
+               <p>This series houses clippings of the many noteworthy personal and professional
+                  events of Hubbell's life, as well as clippings about contemporary events and
+                  Hubbell's friends and colleagues. While many clippings are scattered throughout
+                  the collection, this series contains those which were not originally filed by
+                  subject or correspondent. All personal clippings are housed in box 17, as the
+                  oversize folder of clippings only contains items relating to Hubbell's
+                  professional life.</p>
+               <p>The oversize clippings folder contains newspaper articles written by Hubbell and
+                  articles written by others about his scholarly work. Articles include several
+                  authored by Hubbell in the <title type="simple" render="italic">Dallas Morning
+                     News</title> from 1920, 1924, 1926, and 1927. Many clippings review Hubbell's
+                  writings and projects, including <title type="simple" render="italic">American
+                     Literature; </title>
+                  <title type="simple" render="italic">The South in American Fiction, 1607-1900; </title>
+                  <title type="simple" render="italic">South and Southwest; </title>and <title
+                     type="simple" render="italic">Essays on American Literature in Honor of Jay B.
+                     Hubbell</title>. Other subjects include the SMU poetry contests and winners,
+                  John Lomax's folksong collections, the University of Richmond's 100th Anniversary
+                  newspaper (1932), and a Viennese paper's announcement of Hubbell's visiting
+                  professorship. All clippings are arranged chronologically by date.</p>
+            </scopecontent>
+            <c02 id="aspace_ref409_iu9" level="file">
+               <did>
+                  <unittitle>Clippings, 1816-1984 and undated, bulk 1950-1969</unittitle>
+                  <physdesc id="aspace_caaec82c873f0399cfa542eeca77549d">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9cbd806e2b0e5611fdd084489845f21c" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+               <processinfo id="aspace_61632732e2fda0398543cc99975c2191">
+                  <head>Processing Information note</head>
+                  <p>[Oversize material removed to Oversize Folder 1.]</p>
+               </processinfo>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref413_5pu" level="series">
+            <did>
+               <unittitle>Oversize Material</unittitle>
+            </did>
+            <c02 id="aspace_ref414_cvt" level="file">
+               <did>
+                  <unittitle>Clippings Series</unittitle>
+                  <container id="aspace_092627ec6a04250aca87a4092f42894b" label="Mixed Materials"
+                     type="folder">1, 3</container>
+               </did>
+               <c03 id="aspace_ref415_pey" level="file">
+                  <did>
+                     <unittitle>Clippings, 1920-1974 and undated</unittitle>
+                     <container id="aspace_61118b66550eb6c385d75d9a3d004131" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref416_7u2" level="file">
+               <did>
+                  <unittitle>Subject Files Series</unittitle>
+                  <container id="aspace_1cf650b1ca016b04da44d0e0cedb929f" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <c03 id="aspace_ref417_cvt" level="file">
+                  <did>
+                     <unittitle>Southern Methodist University, 1974</unittitle>
+                     <container id="aspace_17624c2ef8706d54748a3450be081b18" label="Mixed Materials"
+                        type="box">17</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

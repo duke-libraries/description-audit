@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/scotthoward/">scotthoward</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Howard Scott Papers, 1921-1984 and undated, bulk 1930s-1950s
+                  <num>RL.01157</num>
+            </titleproper>
+            <author>Processed by: Richard Collier; machine-readable finding aid created by: Richard
+               Collier</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003489448</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 09:13:26
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Howard Scott papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Scott, Howard</persname>
+         </origination>
+         <unitid>RL.01157</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1921/1984" type="inclusive">1921-1984 and undated, bulk
+            1930s-1950s</unitdate>
+         <physloc id="aspace_58fda8149ebe8b2ff85e3ffd0a7b8204">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_a3939d18077dbc046ff4069f57c74aad">
+            <extent>600 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_b4692392a4219e77f7613e19c0c13347">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_3806bbf83676dfcf631642e6b7f7e480">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. There may be a 48-hour delay in obtaining these materials.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_5424da5562dabe778621eebb9aef7b66">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_0d859f1ef7285595069714b4944a5366">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Howard Scott Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_d5ff4d8260c491b9df6bf2b2c7ab42ae">
+         <head>Provenance</head>
+         <p>The Howard Scott Papers were donated to the David M. Rubenstein Rare Book &amp;
+            Manuscript Library through a gift in 1996.</p>
+      </acqinfo>
+      <processinfo id="aspace_2dacdb5c71766a73df69218e283edbea">
+         <head>Processing Information</head>
+         <p>Processed by Richard Collier</p>
+         <p>Completed March 2003</p>
+         <p>Encoded by Richard Collier</p>
+         <p>Processing was supported in part by the National Endowment for the Humanities.</p>
+      </processinfo>
+      <bioghist id="aspace_00d580c63a567b5995a844767f3beb5d">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>Circa 1902</date>
+               <eventgrp>
+                  <event>Born, Holyoke, Mass.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1921</date>
+               <eventgrp>
+                  <event>Graduated from Holyoke High School; illustrated the school yearbook</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1925</date>
+               <eventgrp>
+                  <event>Graduated from Pratt Institute program in general art; attended Art
+                     Students League in New York</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1935</date>
+               <eventgrp>
+                  <event>Created award-winning poster for Ford, <emph render="doublequote">It's no
+                        use, Mac, it's a Ford V-8</emph>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1942</date>
+               <eventgrp>
+                  <event>Served in the U.S. Navy during World War II; produced patriotic posters for
+                     the U.S. War Information Service</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1948</date>
+               <eventgrp>
+                  <event>Won the top two awards at the 16th Annual Exhibition of Outdoor
+                     Advertising, presented by the Art Directors Club of Chicago--the gold medal for
+                     a Heinz poster and the silver for a Nash Motors poster</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>Circa 1955</date>
+               <eventgrp>
+                  <event>Worked with Outdoor Advertising Inc. to raise standards of poster boards;
+                     worked with Raymond Loewy to improve billboard structures</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1956</date>
+               <eventgrp>
+                  <event>Founded Verilux, Inc., which researched full-spectrum lighting systems for
+                     artists and the printing industry; developed the Trucolite lighting
+                     system.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1965</date>
+               <eventgrp>
+                  <event>Received a U.S. patent for the Verilux light bulb, a full spectrum bulb
+                     that simulates natural lighting</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1983</date>
+               <eventgrp>
+                  <event>Died August 17, in Greenwich, Conn.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Howard Scott was one of the foremost graphic artists working in outdoor advertising
+            during the 1930s-1950s and the recipient of numerous outdoor advertising industry design
+            awards.</p>
+      </bioghist>
+      <scopecontent id="aspace_3dd4cc55e8fae4792f8959dd23bf9c68">
+         <head>Collection Overview</head>
+         <p>The <title type="simple" render="bold">Howard Scott Papers</title> span the years
+            1921-1984, although the bulk of materials covers the period from the 1930s to the 1950s,
+            documenting Scott's career in outdoor advertising as a billboard designer and graphic
+            artist. The papers include correspondence (including two letters from Norman Rockwell),
+            newspaper and magazine clippings, awards, and school yearbooks relating to Scott's
+            personal and professional life, in addition to photographs, sketches, lithographs and
+            reprints of outdoor advertising images for clients such as Amoco, Chesterfield (Liggett
+            and Myers), Esso and Mobil oil products, DeSoto, Ford, and Nash automobiles, H.J. Heinz
+            Co., Lever Brothers, Pabst and Schlitz beers, World War II-era programs such as the USO
+            and Navy recruitment, and the 1939-1940 World's Fair. The collection is arranged into
+            four series--the <emph render="bold">General Papers Series</emph>, the <emph
+               render="bold">Photographs Series</emph>, the <emph render="bold">Graphic Design,
+               Artwork and Sketches Series</emph>, and the <emph render="bold">Memorabilia
+               Series</emph>.</p>
+         <p>The <emph render="bold">General Papers Series</emph> includes correspondence,
+            biographical information, clippings, sketches, school yearbooks, publications and
+            certificates of recognition. Included are articles about <emph render="doublequote"
+               >Elmer,</emph> the character created by Scott to help promote the 1940 World's
+            Fair.</p>
+         <p>The <emph render="bold">Photographs Series</emph> includes approximately 100 prints and
+            transparencies depicting billboard images for a variety of products, such as Esso oil
+            and gasoline, Heinz ketchup, Knickerbocker beer, Swan (Lever Brothers) soap and Twenty
+            Grand cigarettes. Several of the photographs show models in poses which served as the
+            basis for billboard images. Some of the images are signed by artists other than Scott.
+            In addition, approximately 20 photographs depict Scott at various ages, and at work in
+            his studio.</p>
+         <p>The <emph render="bold">Graphic Design, Artwork, and Sketches Series</emph> includes
+            sketches and proof sheets for billboards and outdoor advertising campaigns created by
+            Scott, as well as a sampling of outdoor poster work by other artists. Major clients
+            include Chesterfield cigarettes; Knickerbocker, Pabst and Schlitz beers; DeSoto, Ford
+            and Nash automobiles; Amoco and Mobil gas and oil; along with a sampling of World War II
+            poster designs including Navy recruiting and the USO. Media include pencil and ink
+            sketches, watercolors, lithographs, and oil paintings. A large mixed media painting
+            depicts an award-winning outdoor design for Ford, with the slogan <emph
+               render="doublequote">He's Doing Fine...He Bought a Ford V-8.</emph>
+         </p>
+         <p>The <emph render="bold">Memorabilia Series</emph> includes awards and trophies that
+            Scott won for his advertising artwork and reflects the esteem with which Scott's work
+            was held by his peers in the outdoor advertising industry.</p>
+         <p>Closely related collections include: the Outdoor Advertising Association of America
+            (OAAA) Archives; the Garrett Orr Papers; the John Paver Papers; the Strobridge
+            Lithographing Company Advertisements; the Outdoor Advertising Association of America
+            (OAAA) Slide Library; the War Effort Mobilization Campaign Poster Collection; and the
+            R.C. Maxwell Records.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">DeSoto automobile</subject>
+         <genreform source="aat">Clippings (information artifacts)</genreform>
+         <subject source="lcsh">United Service Organizations (U.S.)</subject>
+         <subject source="lcsh">World War, 1939-1945 -- Propaganda</subject>
+         <subject source="lcsh">New York World's Fair (1939-1940)</subject>
+         <subject source="lcsh">United States. Navy -- Recruitment, enlistment, etc. --
+            History</subject>
+         <genreform source="aat">Sketches</genreform>
+         <subject source="lcsh">Posters -- Design</subject>
+         <subject source="lcsh">Drawing -- 20th century</subject>
+         <subject source="lcsh">Posters, American -- 20th century -- United States</subject>
+         <subject source="lcsh">Advertising -- Beer -- United States</subject>
+         <subject source="lcsh">Advertising -- Cigarettes -- United States</subject>
+         <subject source="lcsh">Billboards -- United States</subject>
+         <subject source="lcsh">Billboards</subject>
+         <subject source="lcsh">Advertising, Outdoor -- History</subject>
+         <subject source="lcsh">Frazer Nash automobile</subject>
+         <genreform source="aat">Photographs</genreform>
+         <subject source="lcsh">Advertising, Outdoor -- United States</subject>
+         <genreform source="aat">Lithographs</genreform>
+         <subject source="lcsh">Advertising, Outdoor -- Posters</subject>
+         <corpname source="ingest">Esso Petroleum Company, ltd</corpname>
+         <corpname source="ingest">Ford Motor Company</corpname>
+         <corpname source="ingest">H.J. Heinz Company</corpname>
+         <corpname source="ingest">John W. Hartman Center for Sales, Advertising &amp; Marketing
+            History</corpname>
+         <corpname source="ingest">Amoco Corporation</corpname>
+         <corpname source="ingest">Amoco Oil Company</corpname>
+         <persname source="ingest">Rockwell, Norman, 1894-1978</persname>
+         <corpname source="ingest">Pabst Brewing Company</corpname>
+         <persname source="ingest">Scott, Howard</persname>
+         <persname source="ingest">Scott, Howard</persname>
+         <corpname source="ingest">Lever Brothers Company</corpname>
+         <corpname source="ingest">Jos. Schlitz Brewing Co.</corpname>
+         <corpname source="ingest">Mobil Oil Corporation</corpname>
+         <corpname source="ingest">Liggett &amp; Myers Tobacco Company</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_9kt" level="series">
+            <did>
+               <unittitle>General Papers Series, 1921-1984 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_d69176708f8aa9d24078f3d4b9de28bb">
+               <head>Scope and Contents note</head>
+               <p>Correspondence (two letters from Norman Rockwell), biographical information,
+                  clippings, sketches, school yearbooks, publications and certificates of
+                  recognition. Included are articles about <emph render="doublequote">Elmer,</emph>
+                  the character created by Scott to help promote the 1940 World's Fair. Arranged
+                  alphabetically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_ios" level="file">
+               <did>
+                  <unittitle>Awards and notices, 1938</unittitle>
+                  <container id="aspace_7232d54a2f4c5c52be1ffbe4ff069454" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_075" level="file">
+               <did>
+                  <unittitle>Biographical information and obituary notices, 1983-1984 and
+                     undated</unittitle>
+                  <container id="aspace_63a5d0d82229df6a146f8482c612bab7" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_nws" level="file">
+               <did>
+                  <unittitle>Clippings, 1942-1947, 1956 and undated</unittitle>
+                  <physdesc id="aspace_3f0be53d2c471a21c40655cae33dea65">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c3f47dc53a31aee2f6173b24730f1e67" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_izq" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Elmer</title> character created for 1940 World's
+                     Fair, 1940</unittitle>
+                  <container id="aspace_a46384051307aea051a756d02057b7ef" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_tmk" level="file">
+               <did>
+                  <unittitle>Holyoke High School class of 1921 alumni list, 1921</unittitle>
+                  <container id="aspace_a6f4afedf0613e9fa340c3d187079b31" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_kfm" level="file">
+               <did>
+                  <unittitle>Letters from Norman Rockwell 1962, 1972</unittitle>
+                  <container id="aspace_68d84dc1ac2d050b42d634e0eb76130e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_jyw" level="file">
+               <did>
+                  <unittitle>Publications</unittitle>
+               </did>
+               <c03 id="aspace_ref22_bwr" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Prattonia,</title> 1925</unittitle>
+                     <container id="aspace_414af733e2acc6cdcce97a2d056815b0" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_429d86ad3388711b128b7fdd46b53a0f">
+                     <head>Scope and Contents note</head>
+                     <p>[Pratt Institute student publication]</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref24_w5q" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, 1929-1962</unittitle>
+                     <container id="aspace_655d143690fc736f2d573f628be21cbd" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref25_kvj" level="file">
+               <did>
+                  <unittitle>Speeches and presentations, 1956-1964</unittitle>
+                  <container id="aspace_7f4096f8ee15700140daf5cba740da3f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_8jy" level="file">
+               <did>
+                  <unittitle>Yearbook [Holyoke High School?], 1921</unittitle>
+                  <container id="aspace_e82381bcaff7d7acbf1db4478e0b73c0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref28_dhg" level="series">
+            <did>
+               <unittitle>Photographs Series, 1930s-1950s and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_2a2bfdf270f85b1f4743c11c3a9ad16d">
+               <head>Scope and Contents note</head>
+               <p>Approximately 100 prints and transparencies depicting billboard images for a
+                  variety of products, such as Esso oil and gasoline, Heinz ketchup, Knickerbocker
+                  beer, Swan soap and Twenty Grand cigarettes. Several of the photographs show
+                  models in poses which served as the basis for billboard images. Some of the images
+                  are signed by artists other than Scott. In addition, approximately 20 photographs
+                  depict Scott at various ages, and at work in his studio. Arranged
+                  alphabetically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref29_tzu" level="file">
+               <did>
+                  <unittitle>Contact sheets for billboard advertisements, undated</unittitle>
+                  <container id="aspace_71fcc642658e1302961aee68aedf121d" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_tmx" level="file">
+               <did>
+                  <unittitle>Poster designs, undated</unittitle>
+               </did>
+               <c03 id="aspace_ref31_ggb" level="file">
+                  <did>
+                     <unittitle>Banks</unittitle>
+                     <container id="aspace_5a2265f3ff911c18982532d2a7b791a9" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_xd4" level="file">
+                  <did>
+                     <unittitle>Esso</unittitle>
+                  </did>
+                  <c04 id="aspace_ref33_2rn" level="file">
+                     <did>
+                        <unittitle>Gasoline</unittitle>
+                        <container id="aspace_0440f0ef862231f60402a6f351e30820"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref34_xus" level="file">
+                     <did>
+                        <unittitle>Motor fuel</unittitle>
+                        <container id="aspace_0b6a75b5ff1a75249ca62bf88a22537d"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref35_8l2" level="file">
+                     <did>
+                        <unittitle>Motor oil</unittitle>
+                        <container id="aspace_07514c52e094c23b262de2f71976c8e8"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref36_pan" level="file">
+                     <did>
+                        <unittitle>Oil burner</unittitle>
+                        <container id="aspace_885636207ea9944de1d9e21916f2717e"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref37_mci" level="file">
+                  <did>
+                     <unittitle>Knickerbocker beer</unittitle>
+                     <container id="aspace_50386afca295a045950a3016b585b6ad" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_ieb" level="file">
+                  <did>
+                     <unittitle>Poster House, Ltd. design for generic home repair loan
+                        billboard</unittitle>
+                     <container id="aspace_3c9417287f3694f0e808e7d308ce0504" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_xbn" level="file">
+                  <did>
+                     <unittitle>Roth's Black Hawk bacon</unittitle>
+                     <container id="aspace_2a99d4da84cc470ca026d245e5313d07" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_930" level="file">
+                  <did>
+                     <unittitle>SOHIO</unittitle>
+                     <container id="aspace_bc0f18496aef63e3c8329bd3f69db143" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_59s" level="file">
+                  <did>
+                     <unittitle>Swan soap</unittitle>
+                     <container id="aspace_eb7c582ad068824c615a04d41d42198f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_ff8" level="file">
+                  <did>
+                     <unittitle>Twenty Grand cigarettes</unittitle>
+                     <container id="aspace_eb63b9d6f50013c9e14f071d3cade402" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref43_q7r" level="file">
+               <did>
+                  <unittitle>Scott, Howard, 1930s-1950s</unittitle>
+                  <physdesc id="aspace_f90f0113b0d35cf396925bf198390bab">
+                     <extent>Folders 1-4 of 6</extent>
+                  </physdesc>
+                  <container id="aspace_c9bc20e6bbc9588b20fbfe078dc59e2c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_v01" level="file">
+               <did>
+                  <unittitle>Scott, Howard, 1930s-1950s (continued)</unittitle>
+                  <physdesc id="aspace_2a65495213b1dceaea8ab0dad0fded48">
+                     <extent>Folders 5-6 of 6</extent>
+                  </physdesc>
+                  <container id="aspace_6159a9091713dc7c0e676169da5a67b3" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_9n0" level="file">
+               <did>
+                  <unittitle>Miscellaneous photographs, 1949 and undated</unittitle>
+                  <container id="aspace_1bc93ea3edf7e8da943e590275064edc" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref49_ibq" level="series">
+            <did>
+               <unittitle>Graphic Design, Artwork and Sketches Series, 1937-1950s and
+                  undated</unittitle>
+            </did>
+            <scopecontent id="aspace_c67495b41dc5efec9a06ff00f461cf25">
+               <head>Scope and Contents note</head>
+               <p>Sketches and proof sheets for billboards and outdoor advertising campaigns created
+                  by Scott, as well as a sampling of outdoor poster work by other artists. Media
+                  include pencil and ink sketches, watercolors, lithographs, and oil paintings. A
+                  large mixed media painting depicts an award-winning outdoor design for Ford, with
+                  the slogan <emph render="doublequote">He's Doing Fine...He Bought a Ford
+                     V-8.</emph> Arranged alphabetically by genre type.</p>
+            </scopecontent>
+            <c02 id="aspace_ref50_vxc" level="file">
+               <did>
+                  <unittitle>Advertisements and periodical covers, 1920s-1950s</unittitle>
+                  <physdesc id="aspace_240a18b8788422a2a0ce337b51016e3e">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1622e6648b1e3fed8783375d632e856b" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_e0bef77beeb14d33807776d936fecc4f">
+                  <head>Scope and Contents note</head>
+                  <p>[Includes AandP, Amoco gas and oil, Arrow collars, Calvin Klein, Campbell's
+                     soup, DeSoto automobiles, Fleetwood cigarettes, forest fire prevention, <title
+                        type="simple" render="italic">Golfer's</title>, Holsum bread, Ivory soap,
+                     Jantzen sqimwear, Kemp's ice cream, Lay's potato chips, Mail Pouch tobacco,
+                     Mobil gas and oil, Nash automobiles, Palmolive soap, <title type="simple"
+                        render="italic">Saturday Evening Post</title>, Schlitz beer, <title
+                        type="simple" render="italic">Wings</title>, World War II]</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref53_7b9" level="file">
+               <did>
+                  <unittitle>Billboard and poster designs, 1937-1950s and undated</unittitle>
+                  <physdesc id="aspace_ff4468270faf45999e9dd2d5258ddb2f">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_6590499de498e640eeab5a5a73e0ff1b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_4a80861a50e37f46d98594fcc6070695">
+                  <head>Scope and Contents note</head>
+                  <p>[Includes designs for banks (generic designs), Democrats for Wilkie, Dieldrin
+                     (Shell) insecticide, Drake's Cakes, Ford, Ivory soap, Laymen's National
+                     Committee, Liberty Loans, Navy recruiting, Pabst beer, Rath's Black Hawk bacon,
+                     U.S.O., World War II]</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref56_1yo" level="file">
+               <did>
+                  <unittitle>Billboard and poster designs, 1940s-1950s and undated
+                     (continued)</unittitle>
+                  <container id="aspace_b7088e3a71d0e3a6471b52eed3a4a06d" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+               <scopecontent id="aspace_241be6b6182b82915a2d0f03695c7191">
+                  <head>Scope and Contents note</head>
+                  <p>[Includes designs for Breck shampoo, Chesterfields cigarettes, Cott beverages,
+                     Knickerbocker beer, Nash automobiles, Paul Jones bourbon, U.S.O.]</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref58_axt" level="file">
+               <did>
+                  <unittitle>Billboard art and poster designs, 1940s-1950s (continued)</unittitle>
+                  <container id="aspace_80785c09b7eca677e34549da01ff75ff" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+               <scopecontent id="aspace_ccbd992a681e13e7bb824c5499c9edea">
+                  <head>Scope and Contents note</head>
+                  <p>[Includes designs for Nash automobiles, <title type="simple" render="italic"
+                        >Saturday Evening Post</title>, U.S.O., World War II]</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref60_gx1" level="file">
+               <did>
+                  <unittitle>Billboard art and poster designs, 1940s-1950s (continued)</unittitle>
+                  <container id="aspace_d964e3e6f9037701424f1eddcb8cea1d" label="Mixed Materials"
+                     type="oversize-folder">3</container>
+               </did>
+               <scopecontent id="aspace_907985adaae30fb7fdf2eb1bdf4c4cd9">
+                  <head>Scope and Contents note</head>
+                  <p>[Includes designs for Nash automobiles, <title type="simple" render="italic"
+                        >Saturday Evening Post</title>, U.S.O., World War II]</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref62_r89" level="file">
+               <did>
+                  <unittitle>Billboard and poster designs, 1940s-1950s</unittitle>
+                  <container id="aspace_168f1b37e7d61ddfd5b4b05d2d591311" label="Mixed Materials"
+                     type="oversize-folder">4</container>
+               </did>
+               <scopecontent id="aspace_5b54cc291d49599ffdd9c5b422446d7e">
+                  <head>Scope and Contents note</head>
+                  <p>[Includes Old Gold cigarettes, Petri wine, Sherlock Holmes films]</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref64_k4z" level="file">
+               <did>
+                  <unittitle>Original art</unittitle>
+               </did>
+               <c03 id="aspace_ref65_4hm" level="file">
+                  <did>
+                     <unittitle>Billboard and poster backgrounds, undated</unittitle>
+                     <container id="aspace_f3e115be1f638db8479866ade35948b6" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_dfb" level="file">
+                  <did>
+                     <unittitle>Billboard and poster designs, undated</unittitle>
+                     <container id="aspace_e3153d0e77316fbcfdd2c8fb2821511c" label="Mixed Materials"
+                        type="box">10-11</container>
+                  </did>
+                  <scopecontent id="aspace_8f787a6d9151d8af3d9e0344796bdc18">
+                     <head>Scope and Contents note</head>
+                     <p>[Includes designs for Cadillac, Cott beverages, Nabisco (Ritz crackers) and
+                        Nash automobiles]</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref68_fyz" level="file">
+                  <did>
+                     <unittitle>Painting for Ford billboard, <emph render="doublequote">He's Doing
+                           Fine...He Bought a Ford V-8,</emph> circa 1938</unittitle>
+                     <container id="aspace_b715d1816b3a55af3311c053d86dd8c5" label="Mixed Materials"
+                        type="oversize-folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_vvf" level="file">
+                  <did>
+                     <unittitle>Paintings and sketches, 1920s-1950s and undated</unittitle>
+                     <container id="aspace_11759cdbac1828d6b1cbbd9d687ebbc3" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref71_hkx" level="series">
+            <did>
+               <unittitle>Memorabilia Series, 1935-1958</unittitle>
+            </did>
+            <scopecontent id="aspace_79412c4f690f9a449df136b47681f510">
+               <head>Scope and Contents note</head>
+               <p>Awards and trophies that Scott won for his advertising artwork. Arranged
+                  alphabetically by competition title and type of award, and chronologically
+                  therein.</p>
+            </scopecontent>
+            <c02 id="aspace_ref72_e1s" level="file">
+               <did>
+                  <unittitle>Annual Exhibit of Outdoor Advertising Art</unittitle>
+               </did>
+               <c03 id="aspace_ref73_9po" level="file">
+                  <did>
+                     <unittitle>Certificates, 1947-1958</unittitle>
+                     <container id="aspace_2af0ef1be2eeff3e07e5b8f784d7485a" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref74_n2k" level="file">
+                  <did>
+                     <unittitle>Medals and trophies</unittitle>
+                     <container id="aspace_12e5a1b76c05c4faef115edcfa534044" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+                  <c04 id="aspace_ref75_v97" level="file">
+                     <did>
+                        <unittitle>1935, First Place</unittitle>
+                        <container id="aspace_812215b997cd1742ffb07b8eb32c6dc4"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref76_kk2" level="file">
+                     <did>
+                        <unittitle>1937, Second Place</unittitle>
+                        <container id="aspace_0ec56384255ddfe5f752e1571bf6b8a4"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref77_c10" level="file">
+                     <did>
+                        <unittitle>1941, Honorable Mention</unittitle>
+                        <container id="aspace_a7e73f9cbabe6d01962f050c01ce3657"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref78_l7c" level="file">
+                     <did>
+                        <unittitle>Circa 1942, Honorable Mention (plaque)</unittitle>
+                        <container id="aspace_8f85f9e271c57f493a3d5ca0e7040541"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref79_2zk" level="file">
+                     <did>
+                        <unittitle>1948</unittitle>
+                        <container id="aspace_d1e16d1627c3852092d408e7870fd689"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                     <c05 id="aspace_ref80_uot" level="file">
+                        <did>
+                           <unittitle>First Award-Food products</unittitle>
+                           <container id="aspace_2991fcd301455b2eb9ba03cfcb65098f"
+                              label="Mixed Materials" type="box">8</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref81_n0w" level="file">
+                        <did>
+                           <unittitle>First Grand Award</unittitle>
+                           <container id="aspace_ba84d15cee882c7e0a15cfe0df4a64d0"
+                              label="Mixed Materials" type="box">8</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref82_8dv" level="file">
+                        <did>
+                           <unittitle>Second Grand Award</unittitle>
+                           <container id="aspace_1e1425be7fe89201afbb81fbbc37602d"
+                              label="Mixed Materials" type="box">8</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref83_im2" level="file">
+                     <did>
+                        <unittitle>1951, Food products</unittitle>
+                        <container id="aspace_f54208029133ce81f2808fa1c629a550"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref84_9th" level="file">
+                     <did>
+                        <unittitle>1952, Gasoline and oils</unittitle>
+                        <container id="aspace_8aad539af11b51fb46dfec75bea8e27f"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref85_lvn" level="file">
+               <did>
+                  <unittitle>Kerwin H. Fulton Award, 1937</unittitle>
+                  <container id="aspace_d2fca3f19f8f52c176385fbd47d9bfe4" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

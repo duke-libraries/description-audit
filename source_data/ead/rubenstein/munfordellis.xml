@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/munfordellis/">munfordellis</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Munford-Ellis Family Papers, 1777-1942 <num>RL.00919</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library Staff; machine-readable finding aid created by:
+               Meghan Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000868026</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 03:54:50
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Munford-Ellis Family papers</unittitle>
+         <origination label="creator">
+            <famname source="ingest">Munford-Ellis family</famname>
+         </origination>
+         <unitid>RL.00919</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">30 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1777/1942" type="inclusive">1777-1942</unitdate>
+         <physloc id="aspace_990e48ff806ec9204f39bf8dffcc2d53">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_c8ae166718e80dae1acf76b75b646625">The Munford and Ellis families were
+            connected through the marriage of George Wythe Munford and Elizabeth Throwgood Ellis in
+            1838. The earliest papers from the Munford family center around William Munford
+            (1775-1825) of the first generation, George Wythe Munford (1803-1882) of the second
+            generation, and the children of George Wythe Munford, notably Thomas Taylor Munford
+            (1831-1918), Sallie Radford (Munford) Talbott (1841-1930), Lucy Munford and Fannie Ellis
+            Munford. Papers of the Ellis family begin with those of Charles Ellis, Sr. (1772-1840),
+            Richmond merchant; his wife, Margaret (Nimmo) Ellis (1790-1877); and his brother,
+            Powhatan Ellis (1790-1863), jurist, U.S. senator, and diplomat. Later materials include
+            letters from Thomas Harding Ellis (1814-1898), son of Charles and Margaret Ellis, as
+            well as some materials from their other children and grandchildren. Collection contains
+            family, personal, and business papers of three generations of the Munford and the Ellis
+            families of Virginia. The papers contain information on politics, literary efforts,
+            social life and customs, economic conditions, and military questions principally in
+            nineteenth century Virginia. Includes materials on the Civil War and
+            Reconstruction.</abstract>
+         <physdesc id="aspace_76a94d454705d38e94d676c82e6e30bb">
+            <extent>12522 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_0797f58e0152d5daef2aca2a02290a93">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_7b30199453f58e7c44a8e1ea7037a717">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_12aa97d5cbc1957d9be6eb074b50c7dd">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_dff57dca449012a5aa1c46f92853f5e1">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Munford-Ellis Family Papers, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_77359c01f5b8ee401e94c836d9cb424d">
+         <head>Provenance</head>
+         <p>The Munford-Ellis Family Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 1941-1954.</p>
+      </acqinfo>
+      <processinfo id="aspace_bbac4c186c779391a6b4f15d0c180dd9">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library Staff, 1970s</p>
+         <p>Encoded by Meghan Lyon, April 2011</p>
+         <p>Updated to include acc. 2012-0179 by Alice Poffinberger, November 2012</p>
+      </processinfo>
+      <bioghist id="aspace_ec631fef9f200a449e27fa6377b2ee9d">
+         <head>Biographical Note</head>
+         <p>The Munford and Ellis families were connected through the marriage of George Wythe
+            Munford and Elizabeth Throwgood Ellis in 1838. The earliest papers from the Munford
+            family center around William Munford (1775-1825) of the first generation, George Wythe
+            Munford (1803-1882) of the second generation, and the children of George Wythe Munford,
+            notably Thomas Taylor Munford (1831-1918), Sallie Radford (Munford) Talbott (1841-1930),
+            Lucy Munford and Fannie Ellis Munford. Papers of the Ellis family begin with those of
+            Charles Ellis, Sr. (1772-1840), Richmond merchant; his wife, Margaret (Nimmo) Ellis
+            (1790-1877); and his brother, Powhatan Ellis (1790-1863), jurist, U.S. senator, and
+            diplomat. Later materials include letters from Thomas Harding Ellis (1814-1898), son of
+            Charles and Margaret Ellis, as well as some materials from their other children and
+            grandchildren.</p>
+      </bioghist>
+      <scopecontent id="aspace_ccb9eb162ba93607a0a8371d660e51a8">
+         <head>Collection Overview</head>
+         <p>Family, personal, and business papers of three generations of the Munford and the Ellis
+            families of Virginia, connected by the marriage of George Wythe Munford and Elizabeth
+            Throwgood Ellis in 1838. The papers contain information on politics, literary efforts,
+            social life and customs, economic conditions, and military questions principally in
+            nineteenth century Virginia. </p>
+         <p>Letters and papers of the Munford family center around William Munford (1775-1825) of
+            the first generation, George Wythe Munford (1803-1882) of the second generation, and the
+            children of George Wythe Munford, notably Thomas Taylor Munford (1831-1918), Sallie
+            Radford (Munford) Talbott (1841-1930), Lucy Munford and Fannie Ellis Munford. </p>
+         <p>The letters of William Munford (1775-1825) are concerned with some details relative to
+            the management of his plantation in Mecklenburg County, Virginia, by an overseer, his
+            legal practice in the early 1800s in southside Virginia, accounts of his election to the
+            governor's council in 1805, and political questions confronting the council. The
+            collection also contains letters concerning possible publication by Thomas Willis White
+            of a novel written by Ursula Anna (Munford) Byrd, sister of William Munford. Letters of
+            friends and relatives and members of the first generation of Munfords are also included. </p>
+         <p>Volumes are an account book, 1799-1873, and a miscellany, 1790-1814, containing poems of
+            William Munford, a list of the books in his library, and a list of subscribers to the
+            Munford and William W. Hening Reports of Cases argued and determined in the Supreme
+            court of appeals of Virginia. Chief of the literary works are two poems, "The Richmond
+            Cavalcade" (1798), and its sequel, "The Richmond Feast" (1799), in Hudibrastic verse
+            aimed at the political maneuvers of the Federalists. Also included are original poems by
+            John Blair, Thomas Bolling Robertson, Anna (Munford) Byrd, St. George Tucker, and Mrs.
+            John Page of Rosewell concerning social matters; and other poems by Munford, some of
+            which were later published in the <title type="simple" render="italic">Richmond
+               Enquirer</title>.</p>
+         <p>George Wythe Munford (1803-1882), named for the mentor of his father, was clerk of the
+            Virginia House of Delegates, an office which he held until the end of the Civil War,
+            when he attempted farming until forced by reverses to secure a clerkship in the U.S.
+            Census Bureau. Correspondence concerns the Mexican War, including letters from Admiral
+            William Radford aboard the U.S.S. Warren blockading the Mexican coast at Mazatlan;
+            Virginia Military Institute, Lexington, Virginia, 1845; Virginia politics, including
+            letters from Henry Alexander Wise while governor; the people and countryside around
+            Lynchburg, Virginia, where he went for recuperation during the summer; his gubernatorial
+            campaign in Virginia, 1863; the fall of Richmond, April, 1865, and his flight to western
+            Virginia, including descriptions of his reactions and those of his relatives, and the
+            uncertainty of the future; his application for a pardon and the response of President
+            Andrew Johnson; detailed accounts in letters to his son, Thomas, of his struggles, work,
+            and the labor system relating to his farming attempts in Gloucester County, Virginia,
+            1866-1873; his work in preparing a Virginia code of laws, 1873; the Readjuster Movement,
+            which resulted in his removal from office as a clerk in the House of Delegates to which
+            he had returned after farming his experiences as clerk in the census office in
+            Washington, 1880-1882; the Southern Historical Society, of which he was secretary; and
+            people and social life and customs in Virginia, Maryland, and Washington, D.C.,
+            including letters from his daughters while employed as governesses. Included also are
+            notes, correspondence, and the original manuscript of his <title type="simple"
+               render="italic">The Two Parsons</title> (Richmond: 1884), published after his death,
+            as well as correspondence about the two ministers, John Buchanan and John Blair. A poems
+            and account book, 1821-1837, contains poetry by George Wythe Munford, including "The
+            Gander Pull or James City Games," and sentimental poems, some written to his relatives;
+            poetic letters; and a cashbook. Other volumes include an inventory of his household
+            furniture purchased in 1834; and account books, 1835-1865. </p>
+         <p>A large portion of the collection relates to Thomas Taylor Munford (1831-1918), planter,
+            brigadier general in the cavalry of the Confederate Army, and lecturer on Confederate
+            military history. Correspondence pertains to the difficulties of farming, the Civil War,
+            including the shortage of rations, typhoid and diphtheria on the plantation, charges
+            brought against Munford by General Thomas Lafayette Rosser, and the fate of the
+            Confederacy, with copies of letters and orders regarding the mobilization of the
+            Confederate Army and cavalry, reorganization of the cavalry, Munford's promotion to
+            brigadier general, and his command and surrender; postwar financial difficulties; his
+            cattle selling venture; and the Lynchburg Iron, Steel, and Mining Company. The bulk of
+            the material was written after 1875 and relates to Civil War campaigns and battles,
+            especially to the Virginia cavalry and particularly to the battle of Five Forks;
+            Virginia Military Institute; writings on the Civil War; the flag and seal of the state
+            of Virginia; and Virginia history. Many of the letters are annotated, although not
+            always accurately, by Munford's nephew, Charles Talbott III. Correspondence between
+            Munford and many former Confederate and Union officers and soldiers pertains to efforts
+            to collect Confederate cavalry records; the history of the 2nd Virginia Cavalry as well
+            as references to other cavalry units including the 1st, 3rd, 4th, 5th, 7th, and 8th
+            Virginia cavalries, C.S.A., and the 6th New York Cavalry, 4th, 6th, and 16th
+            Pennsylvania cavalries, 1st Maine Cavalry, 1st Rhode Island Cavalry, 1st Massachusetts
+            Cavalry, and 1st Maryland Cavalry, U.S.A.; jealousy between the Virginia and South
+            Carolina cavalries; comparisons between the cavalries of the Army of the Potomac,
+            U.S.A., and the Army of Northern Virginia, C.S.A., and other Confederate and Union
+            cavalries; cavalry operations, tactics, and weapons; the writing and publication of
+            Henry B. McClellan's <title type="simple" render="italic">The Life and Campaigns of
+               Major General J. E. B. Stuart</title> (Boston: 1885); court of inquiry review,
+            1879-1880, of the role of General Gouverneur Kemble Warren at the battle of Five Forks;
+            accounts of various battles and campaigns of the Civil War, especially the battle of
+            Five Forks, but also the battles of 1st Manassas, Gettysburg, Aldie (Virginia),
+            Chancellorsville, Todd's Tavern (Virginia), and Appomattox; and the dispute between
+            Munford and Rosser over the battle of Five Forks. Other correspondence concerns the
+            history of the guns at V.M.I., including copies of letters from the Marquis de
+            Lafayette, William Davies, Thomas Jefferson, and James Monroe, the trial of Aaron Burr,
+            including copies of letters and documents; the early history of V.M.I.; Thomas Jonathan
+            "Stonewall" Jackson at V.M.I.; Munford's terms as president of the Board of Visitors at
+            V.M.I., 1884 and 1888; his views on discipline, insubordination, and students;
+            dissension at Virginia Polytechnic Institute, Blacksburg, Virginia, in 1885; the
+            Southern Historical Society and its publications, the history of secession, including
+            letters from Douglas Southall Freeman; campaign for a Confederate memorial to be erected
+            in Lynchburg where Munford's regiment was organized and disbanded; the Confederate
+            Veterans Association; the United Confederate Veterans; and race riots in Indiana,
+            1903.</p>
+         <p>Addresses and notes concerning Confederate cavalry fighting include a muster roll, 1863;
+            lists of officers; a history of Munford's regiment with detailed accounts of troop
+            movements and activities of Confederate officers, 1861-1863; maps; typed copy of a
+            diary, 1861-1862, of a Confederate soldier describing camp life, hardships, skirmishing,
+            picket duty, and fighting at the battles of 1st Manassas, Dranesville, and Leesburg,
+            Virginia; material on the Maryland Campaign, 1862; typed copy of a diary, May-October,
+            1864, of Major James Dugue Ferguson, assistant adjutant general of Fitzhugh Lee's
+            Cavalry Division, describing the itinerary and operations of his troops; copies of
+            letters and articles on the Munford-Rosser feud; copy of "Spirit of the Army, Lynchburg,
+            Va., Feb. 25, 1865," concerning the reaction of the 2nd Virginia Cavalry to the peace
+            terms proposed by President Andrew Johnson; and a narrative of the battle of Waynesboro,
+            Virginia, 1865, sent by Colonel Augustus Forsberg, 51st Virginia Infantry, C.S.A.
+            Material on the Battle of Five Forks consists of notes on the battle by General Munford;
+            his unpublished manuscript on the battle; bound volume containing related letters and
+            clippings; a short narrative (22 pp.) on the battle; extracts from the report of General
+            George E. Pickett to General Robert E. Lee; extracts from General Rosser's reminiscences
+            on Five Forks; "Vindication of General Anderson from the Insinuations of General
+            Fitzhugh Lee" by C. Irvine Walker, including Richard Anderson's report to Robert E. Lee,
+            1866, and part of Fitzhugh Lee's report to Robert E. Lee; narratives by Confederate
+            soldiers on the last days of the 2nd Virginia Cavalry; extracts from the report of
+            General George Crook, U.S.A., regarding the surrender at Appomattox, Virginia; copies of
+            correspondence between Munford and Ranald Slidell McKenzie on Munford's surrender after
+            Appomattox; and Munford's "The Last Days of Fitz Lee's Division of Cavalry Army of
+            Northern Virginia." Other papers relate to the activities of Confederate and Union
+            veterans, including material on the history of the flag and seal of Virginia, and
+            addresses to various veterans organizations and reunions; V.M.I., including material on
+            the return of the bronze statue of George Washington taken by General David Hunter, the
+            history of the French guns, and Thomas Jonathan "Stonewall" Jackson, and lists of V.M.I.
+            soldiers and officers in the C.S.A. Army; miscellaneous notes and addresses on the
+            Constitution and the right of secession, the Society of the Cincinnati, and the Southern
+            Historical Society; and miscellaneous poetry including "Mexican Campaign Song."
+            Clippings generally pertain to the Civil War, including letters and accounts of the
+            C.S.A. Army clipped from various newspapers; Confederate veterans organizations; Civil
+            War statistics; Confederate generals and field officers of the Virginia cavalry; and the
+            Munford-Rosser feud.</p>
+         <p>The collection contains many letters of the thirteen other children of George Wythe
+            Munford. Correspondence of Charles Ellis Munford (1839-1862) concerns the U.S. Military
+            Academy, war preparations and military drilling at the University of Virginia, and his
+            recruiting duties. Other letters concern his death at Malvern Hill, Virginia, 1862. Also
+            included are his law notebooks, 1859-1861. Personal and family letters of the daughters
+            of George Wythe Munford contain information of the details of household economy and
+            general conditions during the Civil War and Reconstruction. A scrapbook, 1861-1871, of
+            Lizzie Ellis Munford contains Confederate verse and mementos, including flowers taken
+            from the coffin of Thomas Jonathan "Stonewall" Jackson in 1863 and from the grave of
+            John Ewell Brown Stuart in 1864, and clippings relating to the war. There are also a
+            number of letters from two grandsons of George Wythe Munford, Allan Talbott and Ellis
+            Talbott, written while touring Europe and while studying at the University of Geneva and
+            at the University of Heidelberg, 1886-1889. </p>
+         <p>Papers of the Ellis family begin with those of Charles Ellis, Sr. (1772-1840), Richmond
+            merchant and partner of John Allan, who was the foster father of Edgar Allan Poe, and of
+            his brother, Powhatan Ellis (1790-1863), jurist, U.S. senator, and diplomat. Letters of
+            Charles Ellis concern business affairs and personal matters, the latter consisting
+            largely of admonitions to his son, James, while a student at the U.S. Military Academy,
+            West Point, New York, and of letters written from the springs of western Virginia.
+            Letters of Margaret (Nimmo) Ellis (1790-1877), wife of Charles Ellis, Sr., are numerous
+            from 1840 to her death and, although generally concerned with family affairs, also
+            contain accounts of war activities and social changes resulting from the Civil War.
+            Correspondence of Powhatan Ellis concerns national politics; party affiliation of John
+            Tyler; the nullification debate in the Senate; Andrew Jackson's stand against South
+            Carolina on the nullification issue; the digging of the James River Canal; his duties as
+            minister to Mexico; Franklin Pierce's policy towards Cuba; Mississippi politics;
+            opposition to Stephen A. Douglas; secession; the Richmond Light Blues; the formation of
+            the Confederacy in Mississippi; legal affairs of William Allan; and family and personal
+            matters, including visits to Berkeley Springs, Virginia. </p>
+         <p>Correspondence of Thomas Harding Ellis (1814-1898), son of Charles and Margaret (Nimmo)
+            Ellis, merchant and businessman, relate to his education at the University of Virginia,
+            Charlottesville, Virginia, 1831-1832; the <title type="simple" render="italic">Southern
+               Literary Messenger</title>; the Richmond Fayette Light Artillery; his interest in
+            literary activities; his duties as private secretary to his uncle, Powhatan Ellis, in
+            Mexico, 1836, and as first secretary of the legation, 1839-1841; people and events in
+            Richmond, 1840-1860; the Civil War, including preparations in Richmond during the
+            Peninsular Campaign; labor conditions and financial difficulties in the James River
+            Valley after the war; his residence in Chicago, 1871-1883, with detailed accounts of the
+            growth of the city and the great fire of 1871; the Republican National Convention of
+            1880; clerkships in the Departments of the Interior and the Treasury, 1887-1898; and
+            genealogy of the Ellis family. </p>
+         <p>Letters and papers of other children of Charles and Margaret (Nimmo) Ellis are also
+            included. Letters of James Ellis (1815-1839) in general were written from the U.S.
+            Military Academy. One contains a reference at the time of the death of John Allan, Poe's
+            foster father, stating that Allan had not "spent his time in a proper way" and making
+            some reference to Allan's second wife, which has been thoroughly obliterated. Charles
+            Ellis, Jr. (1817-189-), left many business and personal letters, the latter consisting
+            largely of family letters and accounts of numerous visits to the springs in western
+            Virginia, especially Warm Springs in Bath County, with minute descriptions of
+            activities, guests, his ailments, and the young ladies whom he escorted during his long
+            life and many sojourns at Warm Springs. Other correspondence concerns the education of
+            James West Pegram at Clifton Academy, in Amelia County, Virginia, 1855-1856; John
+            Brown's raid on Harpers Ferry, 1859; the railroad during the Confederacy, especially the
+            Richmond and Petersburg Railroad during the siege of Petersburg; Ellis's efforts to
+            remain president of the railroad after the war; and the collapse of the gallery in the
+            courtroom of the capitol in Richmond. Correspondence of Powhatan Ellis, Jr. (1829-1906),
+            son of Charles Ellis, Sr., major in the Confederate Army, and planter, pertains to his
+            activities as a student at the University of Virginia, 1848-1850; as an agent to look
+            after family lands in Kentucky; as an officer in the Confederate Army in the western
+            theater, with particular references to the surrender of Fort Henry, the Vicksburg
+            Campaign, and troop movements and military engagements in Mississippi and Alabama; and
+            as a planter in Gloucester County following the Civil War. </p>
+         <p>The letters of Jane Shelton (Ellis) Tucker (1820-1901) and her husband, Nathaniel
+            Beverley Tucker (1820-1890), relate to their wanderings and his career as a diplomat,
+            Confederate agent in France and Canada, residence in England and political maneuverings
+            in Washington, residence at Berkeley Springs, West Virginia, financial worries, and
+            their frequent changes of residence. Included also are numerous letters of their
+            children, especially of Beverley D. Tucker, later bishop of the Protestant Episcopal
+            diocese of southern Virginia, and of Margaret Tucker. Numerous letters relative to
+            farming operations of Richard S. Ellis (1825-1867) in Buckingham County, Virginia, are
+            in the collection. </p>
+         <p>Letters during the Civil War and Reconstruction written by friends and relatives of the
+            Munford and of the Ellis families discuss secession; mobilization; high prices; the
+            blockade; difficulties in securing supplies; women making clothes for the army; the need
+            for nurses; auctions of clothing when women went into mourning; refugees; civilian
+            hardships; rumors; damage to salt and lead works; camp life; conscription; health
+            conditions in the army; various battles and campaigns of the Civil War, including 1st
+            Manassas, the West Virginia campaign against General Rosecrans, the surrender of Forts
+            Henry and Donelson, the Peninsular Campaign, the Seven Days battles, the Vicksburg
+            Campaign, the siege of Petersburg, and the surrender at Appomattox; trench life during
+            the siege of Petersburg; fraternization between opposing lines; various Confederate and
+            Union officers; cavalry regulations; the occupations of Alexandria, Virginia, by the New
+            York Fire Zouaves; the possibility of arming African Americans; African American
+            celebrations after the fall of Richmond; depredations by Union troops; the assassination
+            of Abraham Lincoln; restlessness among freedmen; economic distress during
+            Reconstruction; dispute between the Methodist Episcopal Church and the Methodist
+            Episcopal Church, South, over property in Martinsburg, West Virginia; and the 1867
+            election in which U.S. troops were used to keep order while African Americans voted. </p>
+         <p>Other papers include original poems and clippings by William Munford, George Wythe
+            Munford, and Bishop Beverley Dandridge Tucker; speeches and essays by George Wythe
+            Munford and Charles Ellis Munford at the University of Virginia; manuscript entitled
+            "History of William Radford's Incarceration in the Tower of London"; bills and receipts
+            relating to household and political affairs; newspaper clippings and printed material
+            concerning family biographies and obituaries, Confederate history, and genealogy of
+            Virginia families; miscellaneous material relating to Virginia history; genealogical
+            information on the Bland, Cabell, Ellis, Galt, Harrison, Jordan, Munford, Nimmo,
+            Radford, Talbott, Tayloe, and Winston families, and a chart of the Munford, Ellis, and
+            Tayloe families; scrapbook of the letters of Thomas Harding Ellis, published in the
+               <title type="simple" render="italic">Richmond Standard</title>, containing material
+            on the Allan family; reminiscences of Thomas Harding Ellis on the boyhood of Edgar Allan
+            Poe; pictures; scrapbooks, 1877-1888 and 1910-1912, of Sallie (Munford) Talbott; account
+            book, 1823-1826, and memorandum book, 1808-1809, of Charles Ellis, Sr.; account books,
+            1841-1853, of the administration of the estate of Charles Ellis, Sr.; letterpress
+            copybook, 1856-1893, of Charles Ellis [Jr.?]; surveyor's notebook, 1838-1839, and
+            commonplace book, 1835, of James Nimmo Ellis, the latter book containing records of a
+            club formed at the United States Military Academy "for the purpose of acquiring
+            information"; and the Ellis family Bible.</p>
+         <p>Also contains an album (1860-1890) containing 68 cartes de visites and cabinet cards
+            primarily featuring members of the Munford, Ellis, Tucker, and Talbot families. Most of
+            the subjects are identified and some are hand colored. Among the portraits of family
+            members are George Wythe Munford, Powhatan Ellis, Rev William Munford, Dallas Tucker,
+            Charles Ellis, and Maggie N. Tucker. There are also images of CSA Gen. Joseph Johnston
+            and Jefferson Davis, along with a Mathew Brady photograph of an unidentified man. One
+            card features a collage with images of "Radical Members of the South Carolina
+            legislature." Identified Richmond photography studios include Anderson &amp; Co. and C.
+            R. Rees.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">Virginia -- Genealogy</geogname>
+         <geogname source="lcsh">Mississippi River Valley -- History -- Civil War,
+            1861-1865</geogname>
+         <geogname source="lcsh">Virginia -- History -- 1775-1865</geogname>
+         <geogname source="lcsh">Virginia -- Intellectual life</geogname>
+         <subject source="lcsh">Cabinet photographs</subject>
+         <subject source="lcsh">Carte de visite photographs</subject>
+         <subject source="lcsh">Reconstruction (U.S. history, 1865-1877) -- Virginia</subject>
+         <geogname source="lcsh">Confederate States of America -- History, Military</geogname>
+         <genreform source="aat">Black-and-white photographs</genreform>
+         <genreform source="aat">Photograph albums</genreform>
+         <subject source="lcsh">American literature -- Virginia</subject>
+         <subject source="lcsh">Appomattox Campaign, 1865</subject>
+         <genreform source="aat">Cartes-de-visite</genreform>
+         <subject source="lcsh">Five Forks, Battle of, Va., 1865</subject>
+         <geogname source="lcsh">United States -- Civil War, 1861-1865 -- Personal narratives,
+            Confederate</geogname>
+         <persname source="ingest">Brady, Mathew B.,ca. 1823-1896</persname>
+         <persname source="ingest">Ellis, Powhatan, 1790-1863</persname>
+         <famname source="ingest">Ellis family</famname>
+         <persname source="ingest">Munford, George Wythe, 1803-1882</persname>
+         <famname source="ingest">Munford family</famname>
+         <persname rules="dacs" source="naf">Johnston, Joseph E. (Joseph Eggleston)</persname>
+         <famname source="ingest">Munford-Ellis family</famname>
+         <persname source="ingest">Munford, Thomas Taylor, 1831-1882</persname>
+         <persname source="ingest">Poe, Edgar Allan, 1809-1849</persname>
+         <famname source="ingest">Munford-Ellis family</famname>
+         <famname source="ingest">Talbot family</famname>
+         <corpname source="ingest">South Carolina. General Assembly</corpname>
+         <corpname source="ingest">University of Virginia -- History -- 19th century</corpname>
+         <famname source="ingest">Tucker family</famname>
+         <corpname source="ingest">Virginia Military Institute -- History -- 19th century</corpname>
+         <persname rules="dacs" source="naf">Jackson, Stonewall</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_72o" level="series">
+            <did>
+               <unittitle>George W. Munford Division: Correspondence Series, 1786-1942</unittitle>
+               <physdesc id="aspace_3d12f93d0a3c6d783e9195481fcb5f81">
+                  <extent>9 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref14_h2t" level="file">
+               <did>
+                  <unittitle>Correspondence, 1786-1834</unittitle>
+                  <container id="aspace_ed13bf65ffbb9e35a1864a0eedee5363" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_l59" level="file">
+               <did>
+                  <unittitle>Correspondence, 1835-1848</unittitle>
+                  <container id="aspace_9eba3982086f7523559e29f68babc7ee" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_uzj" level="file">
+               <did>
+                  <unittitle>Correspondence, 1849-1858</unittitle>
+                  <container id="aspace_314765c5fc335aa4007258ab288d039e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_1wd" level="file">
+               <did>
+                  <unittitle>Correspondence, 1859-1862</unittitle>
+                  <container id="aspace_f39fa73f767af090fba9baf435487ea5" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_6i9" level="file">
+               <did>
+                  <unittitle>Correspondence, 1863-1867</unittitle>
+                  <container id="aspace_52ff8ac411ee330e407ef025cb04a953" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_34r" level="file">
+               <did>
+                  <unittitle>Correspondence, 1868-1875, June</unittitle>
+                  <container id="aspace_6c2bd465fe5133f44c673cfd7a4dd124" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_o2w" level="file">
+               <did>
+                  <unittitle>Correspondence, 1875 July-1881 May</unittitle>
+                  <container id="aspace_04c2eb35ca27eb3ae497b3c8a7bfb7ee" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_z52" level="file">
+               <did>
+                  <unittitle>Correspondence, 1881 June-1888 Aug.</unittitle>
+                  <container id="aspace_ec3cd5d07c866b3d1fb403e0c0ee65c6" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_6ys" level="file">
+               <did>
+                  <unittitle>Correspondence, 1888 Sept.-1942 and undated</unittitle>
+                  <container id="aspace_d0620e8ecb78bea1ac08c0655837de6e" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref23_7x0" level="series">
+            <did>
+               <unittitle>George W. Munford Division: Miscellaneous Series, 1781-1885 and
+                  undated</unittitle>
+               <physdesc id="aspace_9232e9b4701a16a924f13a66ddf71d83">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref25_u11" level="file">
+               <did>
+                  <unittitle>Essays and speeches</unittitle>
+                  <container id="aspace_7518a664ae1ccba712c4e9a8c9dae59e" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_4hi" level="file">
+               <did>
+                  <unittitle>Poems</unittitle>
+                  <container id="aspace_a9368e02f0d101e52b371043ff9618bb" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_61u" level="file">
+               <did>
+                  <unittitle>Novel manuscripts</unittitle>
+                  <container id="aspace_4db2089d49860b102ce49bdd8be68eb0" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_p5r" level="file">
+               <did>
+                  <unittitle>Genealogy</unittitle>
+                  <container id="aspace_5877ff07b693385906580611d8483e4d" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_686" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <container id="aspace_4a9fb0d6679a2ca663e2676b296a3d89" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_8ev" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <container id="aspace_1455f1e8e4e42d58b7d89c3da5fce50d" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_u35" level="file">
+               <did>
+                  <unittitle>Maps</unittitle>
+                  <container id="aspace_b28c3adbc29a321da60c8b99a49e457a" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_sgd" level="file">
+               <did>
+                  <unittitle>Bills, receipts, etc., 1832-1849</unittitle>
+                  <container id="aspace_ed16701272db19c9d2a945190a5f53d2" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_xwg" level="file">
+               <did>
+                  <unittitle>Bills, receipts, etc., 1850-1885 and undated</unittitle>
+                  <container id="aspace_a20347e6b6a7b62317fa627a131e7080" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_zw0" level="file">
+               <did>
+                  <unittitle>Religious notes</unittitle>
+                  <container id="aspace_c9bf34e420927cc7285c59990660a2db" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_8k9" level="file">
+               <did>
+                  <unittitle>Legal papers, 1781-1867</unittitle>
+                  <container id="aspace_0cba3cf2fc565da3cb01a8c7b7e4ed4a" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref36_pbo" level="series">
+            <did>
+               <unittitle>Thomas T. Munford Division: Correspondence Series, 1777-1925 and
+                  undated</unittitle>
+               <physdesc id="aspace_471123bd5e868c80f90a35f56ccc70a3">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref38_je3" level="file">
+               <did>
+                  <unittitle>Correspondence, 1777-1898</unittitle>
+                  <container id="aspace_c60410534bd3fa2bfe89c0df8ec03289" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_nrv" level="file">
+               <did>
+                  <unittitle>Correspondence, 1899-1909</unittitle>
+                  <container id="aspace_8ada7bceff3a888cf052c0eff1cd2867" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_xj2" level="file">
+               <did>
+                  <unittitle>Correspondence, 1910-1925 and undated</unittitle>
+                  <container id="aspace_6a729a50271ab3adb955f3e27022f145" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref41_8s9" level="series">
+            <did>
+               <unittitle>Thomas T. Munford Division: Miscellaneous Series, 1806-1902 and
+                  undated</unittitle>
+               <physdesc id="aspace_3463d8c5fc0398812c296491e45bd453">
+                  <extent>5 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref43_dg9" level="file">
+               <did>
+                  <unittitle>Legal papers, 1834-1902</unittitle>
+                  <container id="aspace_12e1de45a79a1968100d0ad405a5ee91" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_rh0" level="file">
+               <did>
+                  <unittitle>Printed materials (including obituary of T.T. Munford)</unittitle>
+                  <container id="aspace_936e629d3bc7b16574f68e26b07704a5" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_nv3" level="file">
+               <did>
+                  <unittitle>Clippings and printed material</unittitle>
+                  <container id="aspace_f1add89f5ec777c33ebb6f2a3fb37e39" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_4vk" level="file">
+               <did>
+                  <unittitle>Virginia flag and Seal papers</unittitle>
+                  <container id="aspace_0e0fc83a8f5a2d0c6c476f03f0b5e2cc" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_6oy" level="file">
+               <did>
+                  <unittitle>Speeches: Confederate Veterans</unittitle>
+                  <container id="aspace_295cff3465bae58ee58baa1ac4aea823" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_949" level="file">
+               <did>
+                  <unittitle>Narrative history of 2nd Virginia Calvary, including diaries of
+                     Confederate officers, Rosser-Munford dispute</unittitle>
+                  <container id="aspace_e49e565e6b48c9b1fec4f1f6583e4ebe" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_u8m" level="file">
+               <did>
+                  <unittitle>Diary of James D. Ferguson</unittitle>
+                  <container id="aspace_077557b67098387aecd77d3fcd1bcce1" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_efm" level="file">
+               <did>
+                  <unittitle>Miscellaneous Civil War notes</unittitle>
+                  <container id="aspace_3c50cf4d5db90e39e9ec5b2581a941bf" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_3ek" level="file">
+               <did>
+                  <unittitle>Miscellaneous history writings and transcripts</unittitle>
+                  <container id="aspace_f029ca2ab7771256eb725d75a41f601a" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_p1s" level="file">
+               <did>
+                  <unittitle>Miscellaneous printed materials</unittitle>
+                  <container id="aspace_0e20a6ea56938fb9a8c94b1a3f4590d3" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_rj9" level="file">
+               <did>
+                  <unittitle>Virginia Military Institute papers</unittitle>
+                  <container id="aspace_062e0724dd6ad2cc400e3edb9927f170" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_7ec" level="file">
+               <did>
+                  <unittitle>Miscellaneous manuscripts and notes on the Battle of Five Forks,
+                     1865</unittitle>
+                  <container id="aspace_20c5e6610bcec48b32707dd8cfbd57a8" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_ddv" level="file">
+               <did>
+                  <unittitle>Correspondence (77 items), 1806-1893 and undated</unittitle>
+                  <container id="aspace_191c2bb24daf43418dc48245a99558b0" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref56_vbr" level="series">
+            <did>
+               <unittitle>Volumes Series, 1772-1912</unittitle>
+               <physdesc id="aspace_952f18eb1d56a69883eb02273ee2196e">
+                  <extent>24 volumes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref58_nw8" level="file">
+               <did>
+                  <unittitle>Ellis, Charles: Account book, 1823-1826</unittitle>
+                  <container id="aspace_58e36116fada1825a725fb0f3d9fc126" label="Mixed Materials"
+                     type="volume">S:1093</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_qfu" level="file">
+               <did>
+                  <unittitle>Ellis, Charles: Letterpress copybook, 1856-1893</unittitle>
+                  <container id="aspace_d86d6679370e8b9d198a8f61de02b371" label="Mixed Materials"
+                     type="volume">L:1097</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_63f" level="file">
+               <did>
+                  <unittitle>Ellis, Charles: Memorandum book, 1808-1809</unittitle>
+                  <container id="aspace_0fd41215f1cd724d72a1acec125a7a73" label="Mixed Materials"
+                     type="volume">S:1098</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_k0e" level="file">
+               <did>
+                  <unittitle>Ellis, Charles, Sr.: Account of Estate Administration by Thomas Harding
+                     and Charles Ellis, Jr., 1847-1848</unittitle>
+                  <container id="aspace_b553820a09154d99cfeabb7b4fc45aea" label="Mixed Materials"
+                     type="volume">F:1095</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_sd1" level="file">
+               <did>
+                  <unittitle>Ellis, Charles, Sr.: Family Bible (records), 1772-1898</unittitle>
+                  <container id="aspace_ab074ab5b00182152acfca56b3d14353" label="Mixed Materials"
+                     type="volume">M:1096</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_d68" level="file">
+               <did>
+                  <unittitle>Ellis, Charles, and Thomas Harding: Account of Administration of Estate
+                     of Charles Ellis, Sr., 1841-1853</unittitle>
+                  <container id="aspace_eab3a9dc6a6c4124d947f52df64b64c9" label="Mixed Materials"
+                     type="volume">S:1094</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_wqb" level="file">
+               <did>
+                  <unittitle>Ellis, James Nimmo: Commonplace book, 1835</unittitle>
+                  <container id="aspace_a145811167640cb6b7d7f2ff7871beb3" label="Mixed Materials"
+                     type="volume">M:1099</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_gvj" level="file">
+               <did>
+                  <unittitle>Ellis, James Nimmo: Notebook, 1838-1839 (Surveyor's)</unittitle>
+                  <container id="aspace_a06c03836be86923360722f872e4a12e" label="Mixed Materials"
+                     type="volume">M:1100</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_ow5" level="file">
+               <did>
+                  <unittitle>Munford, Charles Ellis: Notebook (Law), 1859-1861 (4
+                     volumes)</unittitle>
+                  <container id="aspace_b0b836e05997d221eb8ec5290ecfd2db" label="Mixed Materials"
+                     type="volume">M:3050, M:3051, F:3052, M:3053</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_hxv" level="file">
+               <did>
+                  <unittitle>Munford, George Wythe: Account book, 1835-1865 (4 volumes)</unittitle>
+                  <container id="aspace_3a5cf8938fe48e175652929830531684" label="Mixed Materials"
+                     type="volume">F:3055, F:3056, L:3057, F:3058</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_qnj" level="file">
+               <did>
+                  <unittitle>Poems and Account book, 1821-1837</unittitle>
+                  <container id="aspace_3e88e657e825da7d62e96a233749a207" label="Mixed Materials"
+                     type="volume">F:3059</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_nrk" level="file">
+               <did>
+                  <unittitle>Munford, Lizzie Ellis: Scrapbook of Poetry, 1860-1871</unittitle>
+                  <container id="aspace_5cedb76753da4f0bfb66df87c1efe1bd" label="Mixed Materials"
+                     type="volume">ff:3054</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_zro" level="file">
+               <did>
+                  <unittitle>Munford, Thomas Taylor: History of the Battle of Five Forks, 1865-1916
+                     (copy on microfilm)</unittitle>
+                  <container id="aspace_ece9787fefa4cf7a403da9edffda2202" label="Mixed Materials"
+                     type="volume">M:3061</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_9yh" level="file">
+               <did>
+                  <unittitle>Munford, William: Account book, 1799-1873</unittitle>
+                  <container id="aspace_97835774fd5cfbc513f19d6d6cc7ffc1" label="Mixed Materials"
+                     type="volume">F:3062</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_325" level="file">
+               <did>
+                  <unittitle>Munford, William: Miscellany, 1790-1814</unittitle>
+                  <container id="aspace_43bb968164cf857008c7606b71d0aecb" label="Mixed Materials"
+                     type="volume">ff:3063</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_ya1" level="file">
+               <did>
+                  <unittitle>Talbott, Sallie (Munford): Scrapbook, 1877-1912 (2 volumes)</unittitle>
+                  <container id="aspace_ab593ff56e38ae7de53bf28734d0e7eb" label="Mixed Materials"
+                     type="volume">M:3831, L:3832</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_y5h" level="file">
+               <did>
+                  <unittitle>Munford-Ellis family photograph album, 1860-1890</unittitle>
+                  <container id="aspace_cb58935be87f9e2827009a7b423f66be" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref75_oge" level="series">
+            <did>
+               <unittitle>Oversize Material Series, 1848</unittitle>
+               <physdesc id="aspace_d5567dc768807255b3762fbfba0d1b9a">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref77_dw5" level="file">
+               <did>
+                  <unittitle>Munford, Thomas T.: Certificate for the election of Presidential
+                     Electors in Quincy Township, Franklin Co., Virginia, Nov. 7, 1848</unittitle>
+                  <container id="aspace_5b5cf6841f7332dac00ce7177a862e0e" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

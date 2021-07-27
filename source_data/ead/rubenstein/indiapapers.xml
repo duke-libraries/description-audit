@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/indiapapers/">indiapapers</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the India Papers, 1737-1947 <num>RL.00611</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library Staff, Mitch Fraas; machine-readable finding
+               aid created by: Noah Huffman</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002572330</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 20:55:38
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>India papers</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">David M. Rubenstein Rare Book &amp; Manuscript
+               Library</corpname>
+         </origination>
+         <unitid>RL.00611</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1737/1947" type="inclusive">1737-1947</unitdate>
+         <physloc id="aspace_a3e49c451754876336e66b331c2b0c03">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_974602866db49ccd7cc310a73821750e">This assembled collection of 47
+            documents, largely manuscript letters, covers nearly the entire span of British rule in
+            India and is arranged in rough chronological order. The collection includes governmental
+            reports, personal correspondence, and a printed map. Most of the documents are quite
+            short though there are a few longer pieces and collections including a plan for opium
+            sales, a series of reports on Indo-American trade, and a long letter on army discipline
+            prior to the Vellore mutiny.</abstract>
+         <physdesc id="aspace_98943ec1d091f1def04384aaf073f3f9">
+            <extent>47 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_cc00daad73ce5beca0dc27ca03d62eab">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_681d32a046e271cfe2bbf8d42e8a9d18">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_684744c11bc856142a5c77a8d3faa604">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_f6d3a70367a9a69835b4338288ec88da">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], India Papers, David M. Rubenstein Rare Book &amp; Manuscript
+            Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_ec314523a3edc3716d7921442a47abbc">
+         <head>Provenance</head>
+         <p>The India Papers were received by the David M. Rubenstein Rare Book &amp; Manuscript
+            Library as a purchase from 1961 to 1983.</p>
+      </acqinfo>
+      <processinfo id="aspace_48155bb804982c523841e16d9c9e4229">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library Staff and Mitch Fraas</p>
+         <p>Encoded by Noah Huffman, December 2010</p>
+         <p>Accessions 61-297, 61-301, 61-418, 61-452, 63-38, 63-39, 65-146, 71-317, and 1983 Mar.
+            31 were merged into one collection, described in this finding aid.</p>
+      </processinfo>
+      <scopecontent id="aspace_59725a669226e286ec220fe31a2296fe">
+         <head>Collection Overview</head>
+         <p>Miscellaneous items relating to the history of India, especially during the period of
+            British rule, including a manuscript (12 pp.), 1798, by John Baird discussing a plan for
+            increasing the opium trade in India; letters, 1799-1800, from Sir James Henry Craig,
+            commander of a British division in Bengal, concerning the military situation in India;
+            letters, 1801-1802, from John Chamier, chief secretary to the Madras government,
+            pertaining to his desire for a seat on the Madras Council and future reforms;
+            manuscripts, 1796-1805, discussing various aspects of the import and export trade
+            between India and America, recording statistics and noting products involved; a map,
+            1820, of portions of Nagpur and Rewa provinces; and a letter, 1849, from Tomas Boaz
+            requesting funds for a college to train Indian clergymen.</p>
+         <p>Other materials include a list, 1849, of goods purchased from Boston, Mass., merchants;
+            letter, 1866, from Henry R. E. Wellesley, Madras 1st Light Cavalry, describing his
+            duties and the climate in India, hunting trips, British politics, and the Sepoy army;
+            letter, 1867, from Francis Napier, Tenth Baron Napier, governor of Madras, concerning
+            the structure of the Indian government and his desire for a strong central government;
+            letter, 1879, from General Frederick Sleigh Roberts, First Earl Roberts, discussing
+            parts of his campaign in Afghanistan; letter, 1880, from Sir William Milbourne James
+            criticizing British military ventures into Afghanistan; and a letter, 1882, from General
+            Frederick Sleigh Roberts objecting to British policy of abandoning Kandahar and
+            expressing fear of a Russian advance.</p>
+         <p>Additional items include a letter, 1883, from John Wodehouse, First Earl of Kimberley,
+            secretary of state for India, concerning the Rajputana railway and the Egyptian
+            telegraph; letters, 1886, from Sir Herbert Hope Risley discussing his work on a census
+            glossary and on marriage customs in Bengal; letter, 1893, from Sir Henry Mortimer
+            Durand, foreign secretary in India, discussing his book, Helen Trevelyan; letter, 1902,
+            from Sir Evelyn Baring, First Earl of Cromer, pertaining to plans for the Indian
+            railway; letter, 1915, from Sir Stephen George Sale reviewing the legal basis for
+            viceroyalty in India; letter, 1930, from Sir William Malcolm Hailey criticizing English
+            newspapers for using India as an issue against the Labour Party and discussing the
+            Indian Congress Party; and a letter, 1947, of West Bengal, discussing some of the
+            changes in India since Independence.</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_89358c098a57d0d9c19da1a26d7745b5">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection">India and East India Company Papers,
+                  1691-1830</unittitle>
+               <repository label="Repository">David M. Rubenstein Rare Book &amp; Manuscript
+                  Library, Duke University</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Madras Presidency Papers, 1755-1775</unittitle>
+               <repository label="Repository">David M. Rubenstein Rare Book &amp; Manuscript
+                  Library, Duke University</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Opium trade -- India</subject>
+         <subject source="lcsh">Railroads -- India</subject>
+         <geogname source="lcsh">India -- Maps</geogname>
+         <geogname source="lcsh">India</geogname>
+         <geogname source="lcsh">India -- Commerce -- United States</geogname>
+         <geogname source="lcsh">India -- History -- British occupation, 1765-1947</geogname>
+         <geogname source="lcsh">Great Britain -- Colonies -- Administration</geogname>
+         <geogname source="lcsh">Great Britain -- Colonies -- India</geogname>
+         <geogname source="lcsh">United States -- Commerce -- India</geogname>
+         <corpname source="ingest">David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         <corpname source="ingest">Great Britain. Army</corpname>
+         <persname source="ingest">Durand, Henry Mortimer, Sir, 1850-1924</persname>
+         <corpname source="ingest">India. Army</corpname>
+         <persname source="ingest">Hailey, William Malcolm Hailey, Baron, 1872-1969</persname>
+         <persname source="ingest">Craig, James Henry, Sir, 1748-1812</persname>
+         <persname source="ingest">Chamier, John</persname>
+         <persname source="ingest">Cromer, Evelyn Baring, Earl of, 1841-1917</persname>
+         <persname source="ingest">Roberts, Frederick Sleigh Roberts, Earl, 1832-1914</persname>
+         <persname source="ingest">Sale, Stephen George, Sir</persname>
+         <persname source="ingest">James, W. M. (William Milbourne), 1807-1881</persname>
+         <persname source="ingest">Kimberley, John Wodehouse, Earl of, 1826-1902</persname>
+         <persname source="ingest">Napier, Francis, Baron Napier and Ettrick, 1819-1898</persname>
+         <persname source="ingest">Risley, Herbert Hope, Sir, 1851-1911</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_7c5" level="series">
+            <did>
+               <unittitle>Reports on Indian-American Trade, 1799-1805</unittitle>
+               <physdesc id="aspace_cbf6977868176612305c39bfd0fd4a13">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref14_djh" level="file">
+               <did>
+                  <unittitle>"Extract report on the External Commerce of Bengal,"
+                     1799-1800</unittitle>
+                  <physdesc id="aspace_891408f355341301cd9b368f34f2324a">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_ca7760519d350b3054aece8271c200cf" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+               <scopecontent id="aspace_f9bdff7bbef1822bcc6e5b5a52a34196">
+                  <head>Scope and Contents note</head>
+                  <p>Shows exports to America with comments on the trade and goods shipped to
+                     America.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref17_i0z" level="file">
+               <did>
+                  <unittitle>"Extract report on the External Commerce of British India,"
+                     1802-1803</unittitle>
+                  <physdesc id="aspace_b15924af1396f463523b2a9450ec27e7">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_86ab8daa4b0696c92843db15f3aef187" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+               <scopecontent id="aspace_a4f6c1415d2afa26ef2c5a119aa3ce32">
+                  <head>Scope and Contents note</head>
+                  <p>"America, with the exception of a few Marine and Naval stores does not produce
+                     a single article required either by the Honorable Company's European or Native
+                     subjects..."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref20_cll" level="file">
+               <did>
+                  <unittitle>"Statement of Arrivals and Departures of Ships under American Colours
+                     at + from Bombay," 1802-1805</unittitle>
+                  <physdesc id="aspace_9c084a4ec7ec239c11674ef67b38d0b7">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_ec4e52a60c89cc3bd84bf097e132ed03" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_j10" level="file">
+               <did>
+                  <unittitle>"Report explanatory of the trade between America and Bengal,"
+                     1803-1804</unittitle>
+                  <physdesc id="aspace_2a4fa87dbe0cfd589555290c02092c56">
+                     <extent>6 pages</extent>
+                  </physdesc>
+                  <container id="aspace_d5b65ac656e8fcf86c89052e3c785a26" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_zod" level="file">
+               <did>
+                  <unittitle>"Extract Report on the External Commerce of Bombay for the year,"
+                     1804-1805</unittitle>
+                  <physdesc id="aspace_6e0fa242b48e558d161a0c7a135394bf">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_438094ba699818ec73fa08d214b6b3b4" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+               <scopecontent id="aspace_38f57b80e0541f397c5f24c3ed09d729">
+                  <head>Scope and Contents note</head>
+                  <p>Very brief extract noting the arrival of one American ship that year.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref27_t4b" level="file">
+               <did>
+                  <unittitle>Another copy in a different hand of John Baird's report (see
+                     above)</unittitle>
+                  <container id="aspace_4ceb3b6d17bb79c64e20f541ab37e0ae" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref28_gbp" level="series">
+            <did>
+               <unittitle>Miscellaneous India Papers, 1737-1947</unittitle>
+               <physdesc id="aspace_98ba046eb3673c77840b1247454f7490">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref30_n2i" level="file">
+               <did>
+                  <unittitle>Letter from Honoria and Ann Somerville at Fort St. George [Madras] to
+                     their uncle William Somerville, 1737 October 5</unittitle>
+                  <physdesc id="aspace_5a45523f52631840062c7112635c0690">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_e11a8502cb41ca4a4fa20bc1b6f9008f" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_d3f00109cc2340ca330826d751b6d062">
+                  <head>Scope and Contents note</head>
+                  <p>Regarding part of their grandfather's legacy - later note on reverse about the
+                     estate.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref33_ona" level="file">
+               <did>
+                  <unittitle>Letter from [Philip Francis?] to unknown, 1779 July 13</unittitle>
+                  <physdesc id="aspace_ffcffdcfda4d09365c5c039ab78aab71">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_4cc5ab05c65abca58803c252f30de1d9" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_b9b09bbd325b96fbdbe5b6f4876fc146">
+                  <head>Scope and Contents note</head>
+                  <p>Bengal- mentions Lady Chambers.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref36_e8y" level="file">
+               <did>
+                  <unittitle>Letter from R. Floyd to Col. Floyd, 1791 April 22</unittitle>
+                  <physdesc id="aspace_8e67eb1f76ac76d3293547fafc74d41d">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_e8e0179db268cf6e93c357120d339c96" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_5vt" level="file">
+               <did>
+                  <unittitle>Letter from Lord Hobart to an unknown general, 1798 January
+                     30</unittitle>
+                  <physdesc id="aspace_c29b87014111f9969da3c68901f16285">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_f536b50a6a0d643925302c8daad457ca" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_3a385136173f744b59d58e36a9971aaa">
+                  <head>Scope and Contents note</head>
+                  <p>Mentions Columbo</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref41_lu6" level="file">
+               <did>
+                  <unittitle>John Baird: "A plan for increasing the sale of opium in Bengal and
+                     rendering it a more permanent and productive revenue to the Company..," 1798
+                     August 2</unittitle>
+                  <physdesc id="aspace_cec212d02724774a7f96056e950b2791">
+                     <extent>12 pages</extent>
+                  </physdesc>
+                  <container id="aspace_dbbf78152dc488f94e0fa8d1bb7663ab" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_jxr" level="file">
+               <did>
+                  <unittitle>"Comparative statement of the produce of the Opium Sales,"
+                     1798-1800</unittitle>
+                  <physdesc id="aspace_b1e0eda6b79c51e57a01519bd156f850">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_c405f17d37a527ce5d33b27611026a1a" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_a0130b164900c27c188ab581d9cdb568">
+                  <head>Scope and Contents note</head>
+                  <p>Also notes the comparative profit received from Opium in 1798/9, with that
+                     computed to be derived in 1799/1800.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref46_qqd" level="file">
+               <did>
+                  <unittitle>Letter from Sir James H. Craig at Cawnpore to [Francis?], 1799 October
+                     19</unittitle>
+                  <physdesc id="aspace_5e707c432d9088b4b7a5048aa3571470">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_be4456810d2b18808a3e4754cc705f89" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_8io" level="file">
+               <did>
+                  <unittitle>Letter from John Craig to [Francis?], 1800 January 19</unittitle>
+                  <physdesc id="aspace_f852bcbfbe3c90757bab6fe72b5108c4">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_21070e6149ae4f14e9e50d181a8de2fe" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_b1861025c0c328eebdcfb49c14271fbb">
+                  <head>Scope and Contents note</head>
+                  <p>Written while on a shooting party at the Nabob's park at Romna (sic)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref51_o33" level="file">
+               <did>
+                  <unittitle>Letter from John Craig at Cawnpore to [Francis?], 1800 January
+                     22</unittitle>
+                  <physdesc id="aspace_00f1e4df907aeb406e4ca03bbecd9dbd">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_41a14333bdfc37ea090851514a30cd7f" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_3xh" level="file">
+               <did>
+                  <unittitle>Letter from John Chamier at Madras to David Scott [in London], 1801
+                     October 31</unittitle>
+                  <physdesc id="aspace_ceebecd65c0654bf44d70f1cbd282a73">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_d2600d6c08ba7074fe87537cb8e1e2fb" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_ba1b92b97652e199f863593f0fa15468">
+                  <head>Scope and Contents note</head>
+                  <p>Concerning a seat on the Madras council.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref56_m1t" level="file">
+               <did>
+                  <unittitle>Letter from John Chamier at Madras to David Scott, 1802 February
+                     1</unittitle>
+                  <physdesc id="aspace_ea5bd1010711302ab17051af8efbc4e1">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_26bd0a21ea5d25577017a326739faa37" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_bf1d8170529ea0895a0309747f68466a">
+                  <head>Scope and Contents note</head>
+                  <p>Chamier complains about the Council at Madras and Lord Wellesley: "unless Lord
+                     Wellesley be speedily removed, the Company will be precipitated into
+                     Bankruptcy."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref59_tee" level="file">
+               <did>
+                  <unittitle>Letter from Sir James Craig at Colchester to Simon Fraser, 1803
+                     November 1</unittitle>
+                  <physdesc id="aspace_1bf2a47364dd56a4f6d247073b269260">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_94c1841ede2f7b13a7b4e8d37b9953aa" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_5c5a05f16dd97ccc8ea5d68625ea919f">
+                  <head>Scope and Contents note</head>
+                  <p>Mentions Napoleon's intentions towards "your Eastern Dominions."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref62_2nw" level="file">
+               <did>
+                  <unittitle>Letter from Col. Barry Close of the Madras army to Lord Wellesley,
+                     circa 1806</unittitle>
+                  <physdesc id="aspace_34fb12203f535a0ce2ef9aa1c3de06d9">
+                     <extent>42 pages</extent>
+                  </physdesc>
+                  <container id="aspace_2eca56b09881ff4b38b8313b2cc634b0" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_f5ad652d7ca9327e4573e660297a13c0">
+                  <head>Scope and Contents note</head>
+                  <p>Concerning Sepoy regiments and army discipline - marked "Private." (Transcript
+                     available - 3 typed pages)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref65_lo7" level="file">
+               <did>
+                  <unittitle>Printed map entitled "Sketch of a route between Nagpore and Panna,
+                     1820"</unittitle>
+                  <container id="aspace_ac48cdc785be92c310d38a6eb8251728" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_3acc8c892b8ebbcaaef5c75d4725cf0c">
+                  <head>Scope and Contents note</head>
+                  <p>Also labeled "Engraved for the Calcutta Journal" and "Plate LVIII."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref67_0cs" level="file">
+               <did>
+                  <unittitle>Letter by Dr. J. Marshman at Serampore to Rev. Dr. Raffley at
+                     Liverpool, 1829 September 15</unittitle>
+                  <physdesc id="aspace_6fb542081f33f6c2af113ab24e325e28">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_d134629a529fefc70737fb1d4e3552e4" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_311e2ed5e4e13b44a21818db6d8208b9">
+                  <head>Scope and Contents note</head>
+                  <p>Concerning a friend who was medically unfit for India. Included is one printed
+                     page of Chinese text with the manuscript label "Part of the 1st Chapter of St.
+                     John's gospel translated by Dr. Marshman presented at Serampore."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref70_3pm" level="file">
+               <did>
+                  <unittitle>Short note by Edward Law 1st Earl Ellenborough (Governor General of
+                     India), 1830 September 7</unittitle>
+                  <physdesc id="aspace_989120f4afde962ee3b58f88e5e2e102">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_a392f62f6a9e669bf67522f08e89cd2c" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_y7q" level="file">
+               <did>
+                  <unittitle>Letter from Sir Charles Trevelyan at Calcutta to unknown Haileybury
+                     teacher, 1832 March 22</unittitle>
+                  <physdesc id="aspace_c3462bd406572f2a2b9186ab875930ca">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_0654777652212d5141e98986f4f02026" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_24661a09b94770e53ff8b6515c4f206b">
+                  <head>Scope and Contents note</head>
+                  <p>The writer offers a copy of a report on Bengal customs (not included) and
+                     credits the recipient's lectures at Haileybury for his success.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref75_q55" level="file">
+               <did>
+                  <unittitle>Letter from a Mr. Cauton [?] at Calcutta to Prof. Schouw, 1837 August
+                     2</unittitle>
+                  <physdesc id="aspace_2b6cdb29d7d2237caebfb676f11cf35e">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_29f072df8cd8dd7a9012a45b4388e7d5" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_6e1e54cbc9960ed5e8ffc4418dbe06b1">
+                  <head>Scope and Contents note</head>
+                  <p>In a mixture of English and Dutch. Mentions Assam.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref78_0uz" level="file">
+               <did>
+                  <unittitle>Letter from unknown writer at an Indian military camp to a Mr. Maddick,
+                     1843 December 9</unittitle>
+                  <physdesc id="aspace_5e699d80b3faae608c94b511c986de5b">
+                     <extent>6 pages</extent>
+                  </physdesc>
+                  <container id="aspace_9424d4e459a3c9477ec6c0faf54bb8a0" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_hci" level="file">
+               <did>
+                  <unittitle>Letter on London Missionary Society letterhead to unknown, 1849
+                     February 6</unittitle>
+                  <container id="aspace_37877c19bc366802429739fa75e4d975" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_e2cbfaa6374c29c9740389cefcb945cb">
+                  <head>Scope and Contents note</head>
+                  <p>Letter mentions the planned building of a London Missionary Society college at
+                     Calcutta. Signed by C. Walton and Thomas Boaz.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref82_3cl" level="file">
+               <did>
+                  <unittitle>Letter from J.C. Ballard at Calcutta to R.C. Mackay and J.T. Coolidge
+                     in Boston, Mass., 1849 July 13</unittitle>
+                  <physdesc id="aspace_10da7e5a3b830ca5d687782b3238b246">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_b5c24b744907657b20c601abff273a07" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_321087137edb09538377b3e95a07b418">
+                  <head>Scope and Contents note</head>
+                  <p>Concerning cloth sales.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref85_ju8" level="file">
+               <did>
+                  <unittitle>Letter from John Lawrence (later governor general) at the India Office
+                     to a Mr. Cates, 1862</unittitle>
+                  <physdesc id="aspace_7edebc77edf9d2b93ca4be555fa94049">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_d7af549fbd3ad0f9dc9a6e3bec562a0a" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_ed9eddda498fe1d690fd9a9dd4f20d71">
+                  <head>Scope and Contents note</head>
+                  <p>Letter discusses retirement benefits and annuities.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref88_3l8" level="file">
+               <did>
+                  <unittitle>Letter from H. Wellesley at Madras to "Eliot," 1866 December
+                     12</unittitle>
+                  <physdesc id="aspace_a5911e1f7765d16ebb441603c0db6615">
+                     <extent>19 pages</extent>
+                  </physdesc>
+                  <container id="aspace_bdb70026e4304c38542d02f8d66982cf" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_f3363a0fc46b3be1ea1e84280270ff74">
+                  <head>Scope and Contents note</head>
+                  <p>Letter describes life in Madras and an elephant hunting expedition.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref91_b31" level="file">
+               <did>
+                  <unittitle>Letter from [Francis] Napier at Madras to Col. Strachey, 1867 November
+                     7</unittitle>
+                  <physdesc id="aspace_ca28ec37be4d6b866a2861b832db47fe">
+                     <extent>5 pages</extent>
+                  </physdesc>
+                  <container id="aspace_009f88fb375e38ca74f4f2d2b87ab172" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_9ef186b8f1fc7345bc508533fafa5310">
+                  <head>Scope and Contents note</head>
+                  <p>Letter marked "private." Napier relates his opinion that he is "not in favor of
+                     turning India into a federation" but rather that "India ought to have a
+                     splendid and powerful Central govt." He further opines that if India is broken
+                     up "I am in favor of a Congress of Delegates from the several Presidencies
+                     which may deliberate on the best way of breaking up India into separate
+                     states."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref94_4ir" level="file">
+               <did>
+                  <unittitle>Letter from Frederick Sleigh Roberts at "Camp Karca" to a "Macgregor,"
+                     1879 June 13</unittitle>
+                  <physdesc id="aspace_59d5a3158b60a61e7d57e2eefc2d78cc">
+                     <extent>5 pages</extent>
+                  </physdesc>
+                  <container id="aspace_a043ef665d40e52274f1a6824f9a3ad4" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_51b466ef4df16fc257596931e241191b">
+                  <head>Scope and Contents note</head>
+                  <p>Letter relates mountaineering expeditions and speculation on the "easiest route
+                     from India to Afghanistan."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref97_jlo" level="file">
+               <did>
+                  <unittitle>Letter from Lord Justice William Milbourne James to his son "Willie,"
+                     1880 August 13</unittitle>
+                  <physdesc id="aspace_54891fdfa56ebc87bb1608a1eb463eea">
+                     <extent>5 pages</extent>
+                  </physdesc>
+                  <container id="aspace_0bf7072fc3d1796d4010332f704d4751" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_2acf3c1c410b077603bd9a17aa65029c">
+                  <head>Scope and Contents note</head>
+                  <p>The letter mentions the late Anglo-Afghan war throughout: "I quite agree with
+                     you that we are thoroughly beaten in Afghanistan and it is no use attempting to
+                     disguise the fact."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref100_ick" level="file">
+               <did>
+                  <unittitle>Letter from Frederick Sleigh Roberts at Secunderabad to "Sir John,"
+                     1882 March 13</unittitle>
+                  <physdesc id="aspace_300ba0f50a9590d341962be9040d957f">
+                     <extent>6 pages</extent>
+                  </physdesc>
+                  <container id="aspace_01befcb6da2b8bf8bed9c04ab04e841a" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_a597f74b8a7bb846fb38bb0529956f02">
+                  <head>Scope and Contents note</head>
+                  <p>Letter mentions Russian interest in central Asia.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref103_e9c" level="file">
+               <did>
+                  <unittitle>Letter from Lord Kimberley [John Wodehouse] to General Strachey, 1883
+                     December 30</unittitle>
+                  <physdesc id="aspace_65e94685dcbdec95433b53812b7d7c43">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_9933dc68c55c82216aff69fbbd9c5260" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_3729ea65d88c07a7bee354c677b24876">
+                  <head>Scope and Contents note</head>
+                  <p>Mentions the Rajputana state railway.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref106_0u5" level="file">
+               <did>
+                  <unittitle>Letter from Ratha Krishna Tondiman at Pudukota to an unknown official,
+                     1886 February 29</unittitle>
+                  <physdesc id="aspace_2097c03c21653a5f936a9f708c1816bb">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_9aec8c2b9a3f246221fa96c7e2f4de00" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_85c0f8c3263f5fc4eaf6908cb7433df2">
+                  <head>Scope and Contents note</head>
+                  <p>The letter states that the writer is first cousin of the Rajah of Pudukota and
+                     has a complaint with the Madras government over his Jaghire. The recipient
+                     could be a member of the Privy Council as the letter asks the recipient to
+                     "peruse the petition submitted through the Local Government to the Secretary of
+                     State for India...and order me justice in council."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref109_dcb" level="file">
+               <did>
+                  <unittitle>Letter from Herbert Riley of the General and Revenue Departments Bengal
+                     to "Giles," 1886 May 11</unittitle>
+                  <physdesc id="aspace_48a3883dd4f581eaf52db8f49fbc4cff">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_8ad07c7d3d62bae8fe3fd00d10165abc" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_3d94ce605da02b6b6a51c6e5e86fefcb">
+                  <head>Scope and Contents note</head>
+                  <p>Letter discusses formulation of the census glossary and gives a rough draft
+                     with explanation of the entry for the "Mahili" caste.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref112_icf" level="file">
+               <did>
+                  <unittitle>Brief note from Herbert Riley to "Giles," 1888 May 26</unittitle>
+                  <physdesc id="aspace_43db17b5db7859c5f1e455c1b26b4eca">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_6cd008ecdab8d80fe0db8518853b7259" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_8be6dfe2f7b3d0997673b9c6451c2334">
+                  <head>Scope and Contents note</head>
+                  <p>Letter concerns finishing work on the "marriage customs of Bengal."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref115_s58" level="file">
+               <did>
+                  <unittitle>Letter from Dadabhai Naoroji (on National Liberal Club Whitehall
+                     stationary) to E. Hays Jones, 1892 April 3</unittitle>
+                  <physdesc id="aspace_fde53d564e5196e5a98273476b0cec62">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_4dcc690a0fbd901b4bb02c5805bf326a" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_2d13560a005b325ab2ecf11023b58825">
+                  <head>Scope and Contents note</head>
+                  <p>Letter concerns pamphlet distribution and an upcoming election [Naoroji was
+                     elected to Parliament in 1892].</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref118_z3d" level="file">
+               <did>
+                  <unittitle>Letter from Sir Henry Mortimer Durand at Calcutta to an unknown
+                     Colonel, 1893 January 25</unittitle>
+                  <physdesc id="aspace_ecb83b8ef078defd98fb460899200d65">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_78d8fc287839302c1e4f63a619943f3a" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_a9cbb6bdc82e6a8cfc2beedc6e22571e">
+                  <head>Scope and Contents note</head>
+                  <p>Durand discusses his literary work.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref121_g4a" level="file">
+               <did>
+                  <unittitle>Letter on Department of Finance and Commerce letterhead to General
+                     Strachey, 1902 June 23</unittitle>
+                  <physdesc id="aspace_c6026d01f016db9cee030bacbeadbf67">
+                     <extent>6 pages</extent>
+                  </physdesc>
+                  <container id="aspace_aca4ea97d78b49450015088e64354fd0" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_fc87f42f97ef3b12fb37ffc266a92007">
+                  <head>Scope and Contents note</head>
+                  <p>Letter mentions railways and the Bhopal area.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref124_wk4" level="file">
+               <did>
+                  <unittitle>Letter from Sultan Jahan of Bhopal at Ahmedabad Palace (Bhopal) to a
+                     Mrs. Grant in London, 1909 December 30</unittitle>
+                  <physdesc id="aspace_a05b30d024fb187956b6ab47ebc6b2a3">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_4236b75495ce6dac512df58ff0f32e7c" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_3c9c6b69ac232b64b09409346c853a56">
+                  <head>Scope and Contents note</head>
+                  <p>The letter extends social greetings and thanks for a card and photo album and
+                     encloses the Sultan's published travels to the Hejaz (not present).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref127_aw5" level="file">
+               <did>
+                  <unittitle>Letter from Sir Stephen George Sale at the India Office to Col.
+                     Strachey, 1915 July 13</unittitle>
+                  <physdesc id="aspace_636a011379cfedee2a205702c564d928">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_0a4cb7c58b6df08b56c6af7bee8a1d52" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_ae4860f5891330fa04611995c02e466b">
+                  <head>Scope and Contents note</head>
+                  <p>The letter appears to be in response to one by Lady Strachey about the
+                     positions of Governor General and Viceroy of India. Sale writes that he can
+                     find no documents or warrants appointing anyone a viceroy after Queen Victoria
+                     appointed Lord Canning in 1858. Subsequent governors general have merely been
+                     descriptively called viceroys for the function they perform.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref130_v5m" level="file">
+               <did>
+                  <unittitle>Typed letter from Sultan Jahan of Bhopal at Ahmedabad Palace (Bhopal)
+                     to a Mrs. W. Grant in London, 1929 July 3</unittitle>
+                  <physdesc id="aspace_ff4bf931272f3b1fd42542142b2ccce5">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_580bffbe1c7304525061f97a9e3ba907" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_89b8a5630501b82a98b0073b1e04ac54">
+                  <head>Scope and Contents note</head>
+                  <p>Letter comments briefly on the Sultan's son and his administration.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref133_n9a" level="file">
+               <did>
+                  <unittitle>Letter from William Malcolm Hailey (Gov. of the United Provinces) to
+                     Sir Guy, 1930 February 26</unittitle>
+                  <physdesc id="aspace_a5f5e1d792055b130c5be0a9908c2580">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_85155c39494a82ddb6a15e21d7755fc2" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_46799d27561fcebbaa3c0fe7d1941e2e">
+                  <head>Scope and Contents note</head>
+                  <p>Comments on the possibility of an [Indian National] Congress “no rent
+                     campaign.”</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref136_rd8" level="file">
+               <did>
+                  <unittitle>Typed letter from Chakravarthi Rajagopalachari (Governor of West
+                     Bengal) in Calcutta to Sir Lionel Leach in London, 1947 August 25</unittitle>
+                  <physdesc id="aspace_07caf838775edde79a07dd9587050441">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_af15d028b79654f59f1ba4f72167a2f5" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_d0d5ecc944532026c4754c00ccb3547f">
+                  <head>Scope and Contents note</head>
+                  <p>Letter on altered British government stationary. The brief note comments on the
+                     chaotic state of the Calcutta High Court, mutual appreciation of the importance
+                     of South India, and social nicety. It concludes "Independence has come. It will
+                     take some time for happiness to arrive in India."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref139_jyl" level="file">
+               <did>
+                  <unittitle>Undated manuscript fragment mentioning allegations by a
+                     nabob</unittitle>
+                  <physdesc id="aspace_911f955bd82e08930ce16a32d3f14c64">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_23f99264a7bbc529a7626a0bf2732451" label="Mixed Materials"
+                     type="folder">2</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

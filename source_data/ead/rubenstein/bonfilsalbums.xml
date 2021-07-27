@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/bonfilsalbums/">bonfilsalbums</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Bonfils Studio Photograph Albums of Palestine, circa 1881
+            <num>RL.00126</num></titleproper>
+        <author>Paula Jeannet, Sara Reams</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2014</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">002569213</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-04-09 13:53:29
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Bonfils studio photograph albums of Palestine</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Bonfils, Félix, 1831-1885</persname>
+      </origination>
+      <unitid>RL.00126</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">2 volumes</extent>
+      </physdesc>
+      <unitdate normal="1880/1885" type="inclusive">circa 1881</unitdate>
+      <physloc id="aspace_4907287f498feb888a91be54d64c0b47">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <abstract id="aspace_04b67f672722780b583cef31bc69ce95">Collection consists of two large
+        cloth-bound photograph albums dating from circa 1881, housing 56 large albumen photographs
+        taken by noted 19th century French photographer Félix Bonfils, who owned the Bonfils studio,
+        and his Syrian assistant Georges Saboungi. The images were sold as souvenirs, and portray
+        cities and towns, landscapes, ruins, monuments, tombs, and other religious and historic
+        sites of Palestine, in areas now occupied by Israel, Lebanon, and Syria. Locations named in
+        the captions include Beirut, Bethlehem, Cana, Damascus, Galilee, the Holy Sepulchre shrine,
+        Jaffa, Jerusalem, the Mosque of Omar at the Dome of Rock, the Mount of Olives, Mount Tabor,
+        Nazareth, Samaria, the Tomb of David, the Wailing Wall, the interior of the house of the
+        English Consul in Damascus, a "crusader's tower" in the village of Ramleh, and various other
+        sites.</abstract>
+      <langmaterial id="aspace_36432d8bae0765046215f7e4e4d6ef5b">Material in English </langmaterial>
+    </did>
+    <accessrestrict id="aspace_529eeae5289095befc22a8a52e8aed7d">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_f55e02fbc108d32a5d7d983db4e2ad93">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_e95ad6e2c584318806cf582ffe0077aa">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Bonfils studio photograph albums of Palestine, David M.
+        Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_2e8de1d4305c3ea40742256f2223588b">
+      <head>Provenance</head>
+      <p>The Bonfils studio photograph albums of Palestine were received by the David M. Rubenstein
+        Rare Book &amp; Manuscript Library in 1965.</p>
+    </acqinfo>
+    <processinfo id="aspace_280781b4070834c495c90bab5ea6bb94">
+      <head>Processing Information</head>
+      <p>Processed by Sara Reams, May 2014</p>
+      <p>Encoded by Paula Jeannet and Sara Reams, May 2014</p>
+      <p>Accession(s) described in this finding aid: 7-28-65</p>
+    </processinfo>
+    <bioghist id="aspace_60297a22134f1479f250ce73f7c940b1">
+      <head>Biographical Note</head>
+      <p>Félix Bonfils (1831-1885) was a French-born photographer who migrated to Beirut, Lebanon
+        around 1867, where he opened a studio named "Maison Bonfils" together with his wife, Lydie
+        Bonfils (1837-1918), who was also a photographer. They changed the name to Bonfils et Cie in
+        1878. Studio assistants included the Bonfils's son Adrien (1860-1929), who in 1878 took over
+        the photographic work while his parents ran the studios, and the Syrian brothers Georges and
+        Louis Saboungi.</p>
+      <p>The studio produced photographic views of Egypt, Palestine, Syria, and Greece, totaling an
+        estimated 15,000 single prints; they were also sold as stereographic views and in albums.
+        They became much sought after by tourists and publishers, and in the wake of this success,
+        other Bonfils studios opened in Alexandria, Cairo, and in Alés, France, where Félix Bonfils
+        died in 1885. His son Adrien and wife Lydie continued to operate the studios; Adrien quit
+        the business sometime around 1900, but Lydie continued to manage it until World War I forced
+        her to flee Beirut in 1916, taking many of the Bonfils plates and prints with her.</p>
+    </bioghist>
+    <scopecontent id="aspace_f855f28e04a0d62762aa79d33f72dcc7">
+      <head>Collection Overview</head>
+      <p>These two large photograph albums were owned by Wilbur E. Hagans, who toured the area of
+        Palestine known as the Holy Lands around 1881. He purchased dozens of souvenir albumen
+        prints from the studio, then upon his return had the cloth-bound albums assembled in New
+        York. The 56 images date from about 1881 and were taken by noted 19th-century French
+        photographer Félix Bonfils, who owned the Bonfils studio, and his Syrian assistant Georges
+        Saboungi. They portray cities and towns, landscapes, ruins, monuments, tombs, and other
+        religious and historic sites of Palestine, in areas now occupied by Israel, Lebanon, and
+        Syria. Locations named in the captions include Beirut, Bethlehem, Cana, Damascus, Galilee,
+        the Holy Sepulchre shrine, Jaffa, Jerusalem, the Mosque of Omar at the Dome of Rock, the
+        Mount of Olives, Mount Tabor, Nazareth, Samaria, the Tomb of David, the Wailing Wall, the
+        interior of the house of the English Consul in Damascus, a "crusader's tower" in the village
+        of Ramleh, and various other sites. In some cases there are small figures visible among the
+        landscapes, but these are the only individuals present in the images.</p>
+      <p>The two albums measure 14 x 18 inches (37 x 47.5 centimeters); Volume I holds 30 albumen
+        prints, while Volume II holds 26 prints. The prints all measure 9 x 11 inches (22 x 28
+        centimeters) and are affixed to card mounts, one per print. Some show signs of fading, but
+        most are in good condition. Each print bears the name of one of two photographers: Félix
+        Bonfils (18 prints), or Georges Saboungi (38 prints); some prints are also marked with an
+        identification number assigned by the studio, and these have been included in the
+        inventory.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_5fd40ac53bd9247021ef936e54340940">
+      <head>Related Material</head>
+      <p><archref><unittitle label="Collection">Harvard Semitic Museum Photographic Archives [many
+            Bonfils images]</unittitle><repository label="Repository">Harvard University
+            Libraries</repository>
+        </archref><archref><unittitle label="Collection"><extref
+              xlink:href="http://findingaids.princeton.edu/collections/C0396?view=onepage">Brünnow
+              Papers</extref> [about 800 Bonfils images]</unittitle><repository label="Repository"
+            >Princeton University Library</repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Cities and towns -- Middle East -- Photographs</subject>
+      <subject source="lcsh">Architecture -- Middle East -- Photographs</subject>
+      <subject source="lcsh">Monuments -- Middle East -- Photographs</subject>
+      <subject source="lcsh">Photographers -- Palestine</subject>
+      <subject source="lcsh">Tombs -- Middle East -- Photographs</subject>
+      <subject source="lcsh">Photographers -- Middle East</subject>
+      <geogname source="lcsh">Middle East -- Antiquities -- Photographs</geogname>
+      <geogname source="lcsh">Middle East -- Photographs</geogname>
+      <geogname source="lcsh">Palestine -- Antiquities</geogname>
+      <geogname source="lcsh">Palestine -- Photographs</geogname>
+      <genreform source="aat">Albumen prints</genreform>
+      <genreform source="aat">Photograph albums</genreform>
+      <persname source="ingest">Saboungi, Georges, 1840-1910</persname>
+      <persname source="ingest">Bonfils, Félix, 1831-1885</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref13_ets" level="series">
+        <did>
+          <unittitle>Bonfils studio photograph albums of Palestine, circa 1881</unittitle>
+          <physdesc id="aspace_d20e27be29df0dfb55ecbbeb63b130df"><extent>2 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_b82fa8d92819b56fb7f108ca30623114">
+          <head>Scope and Contents note</head>
+          <p>The photographer's name appears following the title for each print. All titles are
+            taken from the original captions; original French captions have not been transcribed but
+            appear with each print. When known, the image negative numbers assigned by the studio
+            have been included in the description; all of these were taken by Félix Bonfils. Box 1
+            contains information on the collection, including photocopied articles on the history of
+            the Bonfils photography studio.</p>
+        </scopecontent>
+        <c02 id="aspace_ref15_4k5" level="subseries">
+          <did>
+            <unittitle>Album I</unittitle>
+          </did>
+          <c03 id="aspace_ref16_5f1" level="file">
+            <did>
+              <unittitle>Information Folder</unittitle>
+              <container id="aspace_c41f7b3146c19a300b2ed8e9f4f23e68" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref17_6m4" level="item">
+            <did>
+              <unittitle>Beyrout from the Sea, Georges Saboungi</unittitle>
+              <container id="aspace_ca86fb7d6b9d2587a952db7499f04efc" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref18_8xg" level="item">
+            <did>
+              <unittitle>View of Beyrout toward the Sea, Georges Saboungi</unittitle>
+              <container id="aspace_cb72adc6997e5f14aa53be5f807438ad" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref19_83a" level="item">
+            <did>
+              <unittitle>View of Beyrout, Georges Saboungi</unittitle>
+              <container id="aspace_9dbcf8525a6729e78dab4d1809ff4d9e" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref20_loy" level="item">
+            <did>
+              <unittitle>Bridge Across the Dog River, Georges Saboungi</unittitle>
+              <container id="aspace_ee43fab14ede65f5ec236ca65d799b2b" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref21_60m" level="item">
+            <did>
+              <unittitle>The Cedars of Lebanon, Georges Saboungi</unittitle>
+              <container id="aspace_279b83c3ab1f42af528637f2c5f0cbd5" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref22_34i" level="item">
+            <did>
+              <unittitle>Ruins of Ba'albek, Georges Saboungi</unittitle>
+              <container id="aspace_fd432200bcd8003a598189e354e657c9" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref23_ar4" level="item">
+            <did>
+              <unittitle>View of the Cyclopean Wall, Georges Saboungi</unittitle>
+              <container id="aspace_466113c4944b3e132964c39c21a8bdc6" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref24_geb" level="item">
+            <did>
+              <unittitle>View of the Temple of the Sun, Georges Saboungi</unittitle>
+              <container id="aspace_893c2ec02be03d29b8e722ba4930743f" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref25_ghr" level="item">
+            <did>
+              <unittitle>View of the Portal, Georges Saboungi</unittitle>
+              <container id="aspace_0ee310ab220e525539d0a621d90b3399" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref26_ob5" level="item">
+            <did>
+              <unittitle>View of the Six Columns of the Temple of Jupiter, Georges
+                Saboungi</unittitle>
+              <container id="aspace_70b2c2286657781bfe88ce067fa928ae" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref27_k9a" level="item">
+            <did>
+              <unittitle>The Celebrated Stone in the Quarry, Georges Saboungi</unittitle>
+              <container id="aspace_38527da13f375bb8d8cd03f52bbe467e" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref28_c4u" level="item">
+            <did>
+              <unittitle>View of the City of Damascus, Félix Bonfils</unittitle>
+              <container id="aspace_83893fd83db6b18dab9b111dde45846b" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_29c3c38b25d8f87698fc9b69c79367d6"
+                parent="aspace_83893fd83db6b18dab9b111dde45846b" type="image">251</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref29_too" level="item">
+            <did>
+              <unittitle>The Court of a Damascus House of a Constantinople Jew, Félix
+                Bonfils</unittitle>
+              <container id="aspace_6126eedb4b9bd8ff14e35235825c0926" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_7e1742d4cbd8b98d82272b64e4edfab0"
+                parent="aspace_6126eedb4b9bd8ff14e35235825c0926" type="image">273</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref30_ygh" level="item">
+            <did>
+              <unittitle>Interior of the House of the English Consul at Damascus, Félix
+                Bonfils</unittitle>
+              <container id="aspace_089551b76811e5e85271321e781dcc24" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_9801dbe195431695567f6989c95ce436"
+                parent="aspace_089551b76811e5e85271321e781dcc24" type="image">276</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref31_jbk" level="item">
+            <did>
+              <unittitle>The Street Which is called Straight, Félix Bonfils</unittitle>
+              <container id="aspace_dad09cf73b8d990dd0cdffa32fc2ab86" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_1670469a0c96cb0f79f56d56c92d2772"
+                parent="aspace_dad09cf73b8d990dd0cdffa32fc2ab86" type="image">256</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref32_f3r" level="item">
+            <did>
+              <unittitle>View of Mount Hermon, Félix Bonfils</unittitle>
+              <container id="aspace_f50ad3fbddd0adcc3bb8dca771a5b026" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref33_awt" level="item">
+            <did>
+              <unittitle>Cave of Pan or Banais, Félix Bonfils</unittitle>
+              <container id="aspace_1c3cb10394c184a015dda2d8fe394c80" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_005e20a5a82c849b1672e5a507c0c959"
+                parent="aspace_1c3cb10394c184a015dda2d8fe394c80" type="image">453</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref34_rjh" level="item">
+            <did>
+              <unittitle>View of Capernaum, Félix Bonfils</unittitle>
+              <container id="aspace_c77617fc7ed30b3dbf12c2600a238281" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_769732addeb13688cc106be5d19051cd"
+                parent="aspace_c77617fc7ed30b3dbf12c2600a238281" type="image">446</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref35_r2t" level="item">
+            <did>
+              <unittitle>Tiberias, Félix Bonfils</unittitle>
+              <container id="aspace_799612cb54815780c6f34c964351f067" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_365e7fc68daae09dce7f69eb5f8b0624"
+                parent="aspace_799612cb54815780c6f34c964351f067" type="image">215</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref36_qar" level="item">
+            <did>
+              <unittitle>Cana of Galilee, Félix Bonfils</unittitle>
+              <container id="aspace_2983e1fb0880b66957d778388205013e" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_633202e181876a88d90cd3b0b2b86bb4"
+                parent="aspace_2983e1fb0880b66957d778388205013e" type="image">448</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref37_ahg" level="item">
+            <did>
+              <unittitle>Nazareth, Félix Bonfils</unittitle>
+              <container id="aspace_3996db5622c06c9da468620a83874289" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_a5ad95614e0a8cd3a7cd5cd136c9e61e"
+                parent="aspace_3996db5622c06c9da468620a83874289" type="image">219</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref38_hre" level="item">
+            <did>
+              <unittitle>Mount Tabor, Félix Bonfils</unittitle>
+              <container id="aspace_44c8af024aa276ae7be9dc596fa019d4" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_527febea2dbd572e789548c3f76aab3b"
+                parent="aspace_44c8af024aa276ae7be9dc596fa019d4" type="image">213</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref39_154" level="item">
+            <did>
+              <unittitle>Samaria, Félix Bonfils</unittitle>
+              <container id="aspace_379265eb8bf73a896e56b65c582053c5" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_9935218f41c2039fa720d6b4ad7e85bf"
+                parent="aspace_379265eb8bf73a896e56b65c582053c5" type="image">442</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref40_ibz" level="item">
+            <did>
+              <unittitle>View of Shechem or Nabulus, Félix Bonfils</unittitle>
+              <container id="aspace_d5779013e61f5d64d14b2b5135af19cd" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_9e2e6cdc866675728cf0ce3c8b86b748"
+                parent="aspace_d5779013e61f5d64d14b2b5135af19cd" type="image">211</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref41_zk3" level="item">
+            <did>
+              <unittitle>Jacob's Well, Félix Bonfils</unittitle>
+              <container id="aspace_694fd33fc25f533fb5bc7580b2b5a4fb" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_2a7ac03e44d33d0f2eac760313336697"
+                parent="aspace_694fd33fc25f533fb5bc7580b2b5a4fb" type="image">440</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref42_i6l" level="item">
+            <did>
+              <unittitle>View of the Jordan, Georges Saboungi</unittitle>
+              <container id="aspace_b4665eb042c850b050fdc92302667a77" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref43_j4z" level="item">
+            <did>
+              <unittitle>In the Valley of the Jordan - Mount of Temptation, Georges
+                Saboungi</unittitle>
+              <container id="aspace_b47c08b1880cedd1a204e3760371b24a" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref44_cht" level="item">
+            <did>
+              <unittitle>Dead Sea, Félix Bonfils</unittitle>
+              <container id="aspace_946f0d80680777f0ff6941dd7298edd8" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_461d01c5d5e65541098d50a0217422bd"
+                parent="aspace_946f0d80680777f0ff6941dd7298edd8" type="image">205</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref45_796" level="item">
+            <did>
+              <unittitle>Hebron, Georges Saboungi</unittitle>
+              <container id="aspace_7793889dcf9e85c9a2977316c95f050d" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref46_l2n" level="item">
+            <did>
+              <unittitle>Pools of Solomon, Georges Saboungi</unittitle>
+              <container id="aspace_a57d916bca360ee06c7f1d1f22601647" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref47_s2v" level="subseries">
+          <did>
+            <unittitle>Album II</unittitle>
+          </did>
+          <c03 id="aspace_ref48_155" level="item">
+            <did>
+              <unittitle>General view of Bethlehem, Georges Saboungi</unittitle>
+              <container id="aspace_ef63ab1c1a27d0c0e4e86d422d5014d1" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref49_ciy" level="item">
+            <did>
+              <unittitle>Church of the Nativity, or, of St. Mary, Georges Saboungi</unittitle>
+              <container id="aspace_74d0474b287557aa4ff93c8be508f488" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref50_omh" level="item">
+            <did>
+              <unittitle>Latin Entrance to Grotto of the Nativity, Georges Saboungi</unittitle>
+              <container id="aspace_0bf22253153b49f438c96d6f357d6acf" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref51_51j" level="item">
+            <did>
+              <unittitle>Greek Entrance to Grotto of the Nativity, Georges Saboungi</unittitle>
+              <container id="aspace_2bdc21ecc550cebdb43a3a3186023d65" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref52_4sq" level="item">
+            <did>
+              <unittitle>Tomb of Rachel, Georges Saboungi</unittitle>
+              <container id="aspace_e48deb649c40f37123824892a6609e86" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref53_b5n" level="item">
+            <did>
+              <unittitle>Tomb of the Kings, Félix Bonfils</unittitle>
+              <container id="aspace_e1dfa834eb9d18db1b902346512d061d" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_9753556b23cb8153a54a04baaf6f832a"
+                parent="aspace_e1dfa834eb9d18db1b902346512d061d" type="image">198</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref54_v5g" level="item">
+            <did>
+              <unittitle>Church of the Ascension, Georges Saboungi</unittitle>
+              <container id="aspace_cb59e94a584ea50cc5d1d0bd2a08d1a6" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref55_0qz" level="item">
+            <did>
+              <unittitle>Mount of Olives, Georges Saboungi</unittitle>
+              <container id="aspace_7362f2313ce950d543072c2080a9dced" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref56_k5y" level="item">
+            <did>
+              <unittitle>Garden of Gethsemane, Félix Bonfils</unittitle>
+              <container id="aspace_581e8f40ab19330a09f755060240f77e" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_9fb3251ab5a4fddb134308beacd0cb7e"
+                parent="aspace_581e8f40ab19330a09f755060240f77e" type="image">185</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref57_7w2" level="item">
+            <did>
+              <unittitle>Garden of Gethsemane, Georges Saboungi</unittitle>
+              <container id="aspace_1f1aecb6975ec89643167da365a1aa57" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref58_06u" level="item">
+            <did>
+              <unittitle>Valley of Jehoshaphat, Georges Saboungi</unittitle>
+              <container id="aspace_b4aee69921764374fabecf9e0411b8d3" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref59_9lp" level="item">
+            <did>
+              <unittitle>View of the Holy City - Jerusalem, Félix Bonfils</unittitle>
+              <container id="aspace_15cdcb2de0662b572a115a3874c0bd89" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref60_u0o" level="item">
+            <did>
+              <unittitle>Damascus Gate, Georges Saboungi</unittitle>
+              <container id="aspace_53d47cc72c60d822453dee7b9c7f14fc" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref61_equ" level="item">
+            <did>
+              <unittitle>Facade Church of the Holy Sepulchre, Georges Saboungi</unittitle>
+              <container id="aspace_cbd6958873ff5cd39b3ad9d84ac841d0" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref62_3k7" level="item">
+            <did>
+              <unittitle>Shrine Church of the Holy Sepulchre, Georges Saboungi</unittitle>
+              <container id="aspace_c02493a0fb13bfc10f88e224180bd3c9" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref63_njo" level="item">
+            <did>
+              <unittitle>Jew's Wailing Place - Jerusalem, Georges Saboungi</unittitle>
+              <container id="aspace_c1c4c9ca659784a588adde5123c15f45" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref64_g3x" level="item">
+            <did>
+              <unittitle>Mosque of Omar - Dome of the Rock, Georges Saboungi</unittitle>
+              <container id="aspace_f50eef68d4afe948e7951c35657e3756" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref65_2yd" level="item">
+            <did>
+              <unittitle>Nave of the Dome of the Rock, Georges Saboungi</unittitle>
+              <container id="aspace_9301b1b3722f8eeaa5d92705749e8e63" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref66_5cb" level="item">
+            <did>
+              <unittitle>The Holy Rock and Prayer Niche, Georges Saboungi</unittitle>
+              <container id="aspace_73acbeaee408556f73ece9f5f66aa303" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref67_9jq" level="item">
+            <did>
+              <unittitle>Mosque El-Aksa, Georges Saboungi</unittitle>
+              <container id="aspace_1ae01118a62f5c04fdd0aa20d135bb8c" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref68_xfh" level="item">
+            <did>
+              <unittitle>Via Dolorosa and Ecce-Homo Arch, Georges Saboungi</unittitle>
+              <container id="aspace_0e40b98d382c176ad2f34f6c7c458ed4" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref69_6sm" level="item">
+            <did>
+              <unittitle>Tower of David, Georges Saboungi</unittitle>
+              <container id="aspace_a2282846fe4793430c09878b30e7ee16" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref70_wyo" level="item">
+            <did>
+              <unittitle>Tomb of David, Georges Saboungi</unittitle>
+              <container id="aspace_688aeeed2f70f5c44dcd4c5b21655170" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref71_ejd" level="item">
+            <did>
+              <unittitle>Village of Ramleh, Georges Saboungi</unittitle>
+              <container id="aspace_96ebb9449e833b7b4cbc93ed8d936806" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref72_g2e" level="item">
+            <did>
+              <unittitle>Crusader's Tower - Ramleh, Georges Saboungi</unittitle>
+              <container id="aspace_c9b2b67ced57ca47420a635cf8e351f7" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref73_ann" level="item">
+            <did>
+              <unittitle>Jaffa, Georges Saboungi</unittitle>
+              <container id="aspace_eb3be86a22853bf9e9db391b46281da2" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/blairwalter/">blairwalter</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Walter Blair papers, 1933-1987 and undated <num>RL.00117</num>
+            </titleproper>
+            <author>Processed by: Clare Callahan; machine-readable finding aid created by: Clare
+               Callahan and Paula Jeannet Mangiafico</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000845102</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 12:35:38
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Walter Blair papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Blair, Walter, 1900-</persname>
+         </origination>
+         <unitid>RL.00117</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1933/1989" type="inclusive">1933-1987 and undated</unitdate>
+         <physloc id="aspace_7e1c1409886714f9e2c97e351c33224e">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_e52376a570d985f900ab29411a18c7cf">Walter Blair (1900-1992) was a
+            professor at the University of Chicago from 1929 to 1968 and a specialist in American
+            folklore and humor. Collection contains early drafts, edited manuscripts, and proofs of
+            Blair's publications, as well as bibliographic information and correspondence regarding
+            publication of materials and other professional services. The bulk of the material is
+            comprised of draft manuscripts of his work which he wrote with Hamlin Hill (Texas
+            A&amp;M), America's Humor from Poor Richard to Doonesbury (Oxford, 1978). There is also
+            a smaller amount of other materials such as correspondence and reviews related to other
+            publications, including Native American Humor: 1800-1900 (1937), Horse Sense in American
+            Humor (1942), Tall Tale America: A Legendary History of Our Humorous Heroes (1944),
+            Half-Horse Half-Alligator: The Growth of the Mike Fink Legend (1956), and Mark Twain and
+            Huck Finn (1960). Forms part of the Jay B. Hubbell Center for Literary
+            Historiography.</abstract>
+         <physdesc id="aspace_df181e2f8ddddaf5174dc8625a74c897">
+            <extent>Approx. 1350 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_7a1b2dfdc2af1da7bce51abc55dcac36">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_a6f75c775331f22dd7c73715d2f30694">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_6a39c29768741f76519ba58f5dbdd95b">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_9c4e2bcaa9c5c74650bdeb7f0cbd6924">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Walter Blair Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_8683982406174aa9b84ca0f02865dca1">
+         <head>Provenance</head>
+         <p>The Walter Blair papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 1980-1981.</p>
+      </acqinfo>
+      <processinfo id="aspace_622215bbef202f9cb07059736b0d0f5b">
+         <head>Processing Information</head>
+         <p>Processed by Clare Callahan, June 2013</p>
+         <p>Encoded by Clare Callahan, June 2013</p>
+         <p>Accession(s) described in this finding aid: 1980-1981</p>
+      </processinfo>
+      <bioghist id="aspace_5063693edb402bccc036b3c3488ec74a">
+         <head>Biographical Note</head>
+         <p>Walter Blair (1900-1992) was a professor at the University of Chicago from 1929 to 1968.
+            His research focused on American folklore, humor, and tall tales, and he is considered a
+            pioneer in the field of American humor studies. Blair graduated from Yale University in
+            1923 and received his Ph.D. in English from the University of Chicago in 1931. He served
+            as chair of his department from 1951-1960 and won the Distinguished Scholar Award of the
+            Mark Twain Circle in 1992, as well as the Jay Hubbell Award from the American Literature
+            Section of MLA. He was the author of many publications, including <title type="simple"
+               render="italic">Native American Humor: 1800-1900</title> (1937), <title type="simple"
+               render="italic">Horse Sense in American Humor</title> (1942); <title type="simple"
+               render="italic">Tall Tale America: A Legendary History of Our Humorous Heroes</title>
+            (1944); <title type="simple" render="italic">Half-Horse Half-Alligator: The Growth of
+               the Mike Fink Legend</title> (1956); <title type="simple" render="italic">Mark Twain
+               and Huck Finn</title> (1960); and <title type="simple" render="italic">American Humor
+               from Poor Richard to Doonesbury</title> (co-author with Hamlin Hill, Oxford,
+            1978).</p>
+      </bioghist>
+      <scopecontent id="aspace_dd6862c26957d51ef0ab2c250335f58e">
+         <head>Collection Overview</head>
+         <p>This collection contains early drafts, edited manuscripts, and master proofs of Blair's
+            publications, including <title type="simple" render="italic">American Humor from Poor
+               Richard to Doonesbury</title> (co-authored with Hamlin Hill of Texas A&amp;M, Oxford,
+            1978), which makes up the bulk of the <emph render="bold">Writings Series</emph>, as
+            well as manuscripts of, reviews of, and correspondence regarding his earlier
+            publications, including <title type="simple" render="italic">Half Horse Half
+               Alligator</title>, <title type="simple" render="italic">Horse Sense in American
+               Humor</title>, <title type="simple" render="italic">Mark Twain and Huck Finn</title>,
+            and <title type="simple" render="italic">Mike Fink: King of the Mississippi
+               Keelboatmen</title>. The collection also contains several reviews of Blair's
+            publications. Biographical information and related materials, including newspaper
+            clippings, magazine articles and newsletters regarding Walter Blair, and various
+            professional correspondence comprises the remainder of the collection. Among the
+            biographical information is a series of humorous Christmas cards that Blair circulated
+            among his acquaintances, as well as a special issue of <title type="simple"
+               render="italic">Studies in American Humor</title> in honor of Blair. The bulk of the
+            correspondence is comprised of letters to and from various university presses regarding
+            publication of Blair's manuscripts, and letters to colleagues at various universities
+            also regarding his manuscripts and other professional services.</p>
+         <p>Forms part of the Jay B. Hubbell Center for Literary Historiography.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Publishers and publishing -- Correspondence</subject>
+         <subject source="lcsh">Folklore -- American</subject>
+         <subject source="lcsh">Twain, Mark, 1835-1910</subject>
+         <subject source="lcsh">Tall tales -- American</subject>
+         <subject source="lcsh">Wit and humor -- American -- 19th century</subject>
+         <subject source="lcsh">Wit and humor -- American -- 18th century</subject>
+         <subject source="lcsh">Wit and humor, Pictorial</subject>
+         <subject source="lcsh">Wit and humor -- American -- 20th century</subject>
+         <genreform source="aat">Authors, American -- Correspondence</genreform>
+         <corpname source="ingest">Jay B. Hubbell Center for American Literary
+            Historiography</corpname>
+         <persname source="ingest">Blair, Walter, 1900---Humorists, American</persname>
+         <persname source="ingest">Blair, Walter, 1900---Manuscripts</persname>
+         <persname source="ingest">Blair, Walter, 1900-</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_nv2" level="series">
+            <did>
+               <unittitle>Biographical Information and Other Materials Series, 1942-1986 and
+                  undated</unittitle>
+               <physdesc id="aspace_9d3d82582de4e156c2f9014dd567bc42">
+                  <extent>4 folders</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_fa2b8f7e8b49f81603f8f87f7fe73327">
+               <head>Scope and Contents note</head>
+               <p>Contains various newspaper clippings, magazine articles and newsletters concerning
+                  Walter Blair, including a special issue of <title type="simple" render="italic"
+                     >Studies in American Humor</title> in Blair's honor. Also contains an entry on
+                  Blair in <title type="simple" render="italic">Who's Who</title> and a series of
+                  cartoons and Christmas cards he circulated among his acquaintances.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_ryr" level="file">
+               <did>
+                  <unittitle>Articles, magazines, and newsletters, 1942-1986</unittitle>
+                  <container id="aspace_acc7878567988e6e0c58e3748911bd59" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_eqs" level="file">
+               <did>
+                  <unittitle>Christmas cards, undated</unittitle>
+                  <container id="aspace_d33b93ef56ac10ec22f9bf1538ebc3b6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_b5d" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Studies in American Humor</title>: Special Issue in
+                     Honor of Walter Blair, 1975 Apr.</unittitle>
+                  <container id="aspace_dd25ef8de43cf71f1ebe3db819828d80" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_ido" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Who's Who</title> entries, 1980-1981</unittitle>
+                  <container id="aspace_f14bedd92d29c2d278516b214ef31dfe" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref19_28b" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1974-1987</unittitle>
+               <physdesc id="aspace_728ddb24667a4e27bb23071efd28a3a8">
+                  <extent>5 folders</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_95c1a8ddd9249335c24aa4f6a9284b0d">
+               <head>Scope and Contents note</head>
+               <p>Contains primarily professional correspondence with various presses regarding
+                  publication and with colleagues at various universities regarding professional
+                  services.</p>
+            </scopecontent>
+            <c02 id="aspace_ref21_yxz" level="file">
+               <did>
+                  <unittitle>Correspondence, 1974</unittitle>
+                  <container id="aspace_0a723f2b515bc14d51c83ad126e860fb" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_7cc" level="file">
+               <did>
+                  <unittitle>Correspondence, 1975</unittitle>
+                  <container id="aspace_cc438f466f129ab638622e40c365b239" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_wlw" level="file">
+               <did>
+                  <unittitle>Correspondence, 1976</unittitle>
+                  <container id="aspace_b1b37c0eb3292beb8f89a45e2377d98f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_brd" level="file">
+               <did>
+                  <unittitle>Correspondence, 1977</unittitle>
+                  <container id="aspace_a70373a2a9fea8bc8c6b38765f1a0452" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_5ei" level="file">
+               <did>
+                  <unittitle>Correspondence, 1981-1987</unittitle>
+                  <container id="aspace_62068e9dbfc9f69f24987b54e6c885f0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref27_e4j" level="series">
+            <did>
+               <unittitle>Writings Series, 1933-1980 and undated</unittitle>
+               <physdesc id="aspace_ea97a2acc424cdc826ff9697d92bf9bc">
+                  <extent>5 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_435908e2437f328b71ab8d18d96c4b83">
+               <head>Scope and Contents note</head>
+               <p>Contains early drafts and master proof manuscripts of Blair's writing. Drafts of
+                  chapters for <title type="simple" render="italic">America's Humor from Poor
+                     Richard to Doonesbury</title> makes up the bulk of the material in this series,
+                  but the series also includes drafts of Blair's earlier publications. In addition,
+                  the series includes correspondence regarding publication of these materials.</p>
+            </scopecontent>
+            <c02 id="aspace_ref29_yyb" level="subseries">
+               <did>
+                  <unittitle>
+                     <title render="italic">America's Humor from Poor Richard to Doonesbury,
+                        1975-1980 and undated</title>
+                  </unittitle>
+               </did>
+               <c03 id="aspace_ref30_404" level="file">
+                  <did>
+                     <unittitle>Preliminary pages and index, 1978</unittitle>
+                     <container id="aspace_78687efdb4f92970be8b8d5338b4d683" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref31_w6z" level="file">
+                  <did>
+                     <unittitle>Outlines, blurbs, chronology, 1978</unittitle>
+                     <container id="aspace_6aa26bd8b4df38e0a87456de93ab6697" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_yyb" level="file">
+                  <did>
+                     <unittitle>Early draft: "No End of Jokes," undated</unittitle>
+                     <container id="aspace_1bac3e0373d5dc251ea8495abdc223f8" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref33_973" level="file">
+                  <did>
+                     <unittitle>Early draft: "Franklin," 1975</unittitle>
+                     <container id="aspace_9654bbb9ca04c3fa7378e546e65b604c" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_m0s" level="file">
+                  <did>
+                     <unittitle>Early draft: "John Wesley Jarvis," undated</unittitle>
+                     <container id="aspace_ff58e764ccc488dfe3065af318069ef1" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref35_han" level="file">
+                  <did>
+                     <unittitle>Early draft: "Tall Tales and a Tough Demigod," undated</unittitle>
+                     <container id="aspace_d2c8ce51959dc8c8d83053ca58692441" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_s2k" level="file">
+                  <did>
+                     <unittitle>Early draft: "Davy Crockett and Mose the Fireb'hoy,"
+                        undated</unittitle>
+                     <container id="aspace_a919fb28c36d23e4b4ce0331a7122445" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_pqf" level="file">
+                  <did>
+                     <unittitle>First draft: "The Big Bear of Arkansas," undated</unittitle>
+                     <container id="aspace_c826301b6a647d386cc04b4c639504b0" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_mzs" level="file">
+                  <did>
+                     <unittitle>Early draft: "Tall Tales and Go West," undated</unittitle>
+                     <container id="aspace_8993660cdbad08fab3d44f90f3eed523" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_ltp" level="file">
+                  <did>
+                     <unittitle>Early draft: "Twilight of the Comic Demigod," undated</unittitle>
+                     <container id="aspace_6e778df7e596e22141c64a428b3c7186" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_qgz" level="file">
+                  <did>
+                     <unittitle>Early draft: "Local Colorists and Phunny Phellows,"
+                        undated</unittitle>
+                     <container id="aspace_2fc51ca1b64e3e916291fedb19628bb7" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_fom" level="file">
+                  <did>
+                     <unittitle>Early draft: "Mark Twain," undated</unittitle>
+                     <container id="aspace_aae0563cb87bc7b6b84db02bcc03aeb1" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_ses" level="file">
+                  <did>
+                     <unittitle>Early drafts: "Mass Production Comic Demigod"; "The Lunatic Fringe:
+                        James Thruber," "The Secret Life of Walter Mitty," undated</unittitle>
+                     <container id="aspace_ac4db0cae4673ee4acfd07f6937d92c7" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_lef" level="file">
+                  <did>
+                     <unittitle>Early drafts: "Humor in Fiction"; "Great American Novel"; Afterword,
+                        undated</unittitle>
+                     <container id="aspace_94b5277fe6b81e8ddddc4aaa80773bcf" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_clf" level="file">
+                  <did>
+                     <unittitle>Part 1, Starters: "No End of Jokes," undated</unittitle>
+                     <container id="aspace_088fc6f54c7b080a52a3ba5e23751df9" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_lsv" level="file">
+                  <did>
+                     <unittitle>Part 1, Starters: "A Harmonious Human Multitude,"
+                        undated</unittitle>
+                     <container id="aspace_87a7a3a8e974cc35fd9a65d02dd08740" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_iip" level="file">
+                  <did>
+                     <unittitle>Part 1, Starters: "Cast Typing," undated</unittitle>
+                     <container id="aspace_5a482c1f832153587d584270621e78d6" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_qz3" level="file">
+                  <did>
+                     <unittitle>Part 2, The Golden Age of American Humor: "A National Phenomenon:
+                        The Reputables," undated</unittitle>
+                     <container id="aspace_9f2849fd22185efdd62a81de2a2f5a62" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_3b9" level="file">
+                  <did>
+                     <unittitle>Part 2, The Golden Age of American Humor: "Subversives"; "Two
+                        Masterpieces"; "Tall Tales Go West," undated</unittitle>
+                     <container id="aspace_26288399cf365f497aa56b904b61c244" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_5ga" level="file">
+                  <did>
+                     <unittitle>Part 3, And the War Came: "Changes in Jokelore"; "Phunny Phellows,"
+                        undated</unittitle>
+                     <container id="aspace_132465ff11940491e8b9b9900088018a" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_6xy" level="file">
+                  <did>
+                     <unittitle>Part 4, Mark Twain: "Mark Twain's Chestnuts"; "Mark Twain Pioneers,"
+                        undated</unittitle>
+                     <container id="aspace_6ecbb37cca9f17b68321190c6d248b04" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_xqt" level="file">
+                  <did>
+                     <unittitle>Part 5, Into the Twentieth Century: "The Turn of the Century:
+                        Between World Wars," undated</unittitle>
+                     <container id="aspace_6fb817e92793a2063ac179dba27a924a" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_qxo" level="file">
+                  <did>
+                     <unittitle>Part 5, Into the Twentieth Century: "Modern Humor,"
+                        undated</unittitle>
+                     <container id="aspace_bfe81b4109a8eee6ef4b7da44ffd73f6" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_lkk" level="file">
+                  <did>
+                     <unittitle>Part 5, Into the Twentieth Century: Afterward, References,
+                        undated</unittitle>
+                     <container id="aspace_ad1250ed24c298cb0c8177ada664aafc" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_j8d" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1971-1980</unittitle>
+                     <container id="aspace_1eaae551871c608ac89d82786e48eec1" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref55_scq" level="file">
+                  <did>
+                     <unittitle>Illustrations, 1668-1977</unittitle>
+                     <container id="aspace_751aad64faea590a6274a397af89407b" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref56_jji" level="file">
+                  <did>
+                     <unittitle>Reviews, 1978-1980</unittitle>
+                     <container id="aspace_9eaeb4abd011f707b8d69e246ae55ede" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_rjo" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">America's Humor from Poor Richard to
+                           Doonesbury,</title> Master proof, undated</unittitle>
+                     <physdesc id="aspace_5a3164cd1dc9c34e1846a903509188bd">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1cfaa563768bd0d599fc0c0bdd254f16" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref59_y77" level="file">
+                  <did>
+                     <unittitle>Master proof: index, undated</unittitle>
+                     <container id="aspace_37746a406b7ed5cca38fc019f69ac4fd" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref60_idq" level="subseries">
+               <did>
+                  <unittitle>Other Publications</unittitle>
+               </did>
+               <c03 id="aspace_ref61_7hl" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Half Horse Half Alligator</title>, reviews,
+                        1956-1958</unittitle>
+                     <container id="aspace_0e3b63fddccf69648c95124c21896eb9" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_krp" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Horse Sense in American Humor</title>, reviews,
+                        1942-1943</unittitle>
+                     <container id="aspace_6b66fbea80249e1d8c4c0d3f6ee2626a" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_f5c" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Mark Twain and "Huck Finn"</title>, correspondence,
+                        1958-1960</unittitle>
+                     <container id="aspace_5e67314aa9997f28518a2875b3d00214" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_ncb" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Mike Fink: King of the Mississippi
+                           Keelboatmen</title>, reviews, 1933-1936</unittitle>
+                     <container id="aspace_b676693df840d9b95278b3254a597d6a" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_d3t" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Native American Humor</title>, reviews,
+                        1937</unittitle>
+                     <container id="aspace_c10b450dd923352fe3cc49286fa051d8" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_0do" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Tall Tale America</title>, correspondence,
+                        1943-1944</unittitle>
+                     <container id="aspace_39cbaa8beda9b9efda3378683773121b" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_2sc" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Tall Tale America</title>, reviews,
+                        1944-1945</unittitle>
+                     <container id="aspace_b09171752d23b07f2d5d0774b5ca341a" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

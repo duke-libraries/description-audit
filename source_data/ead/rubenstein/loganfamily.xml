@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/loganfamily/">loganfamily</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Logan Family Papers, 1952-1994 <num>RL.00819</num>
+            </titleproper>
+            <author>Processed by: Joanne Fairhurst; Meghan Lyon; machine-readable finding aid
+               created by: Joanne Fairhurst; Meghan Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">006019943</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 01:49:09
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Logan Family papers</unittitle>
+         <origination label="creator">
+            <famname source="ingest">Logan family</famname>
+         </origination>
+         <unitid>RL.00819</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.7 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1952/1994" type="inclusive">1952-1994</unitdate>
+         <physloc id="aspace_0dfc8d7175553303cbe86092cb30a380">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_43b885ab0619ff05e15e8722fa262825">The Logan family were Southern
+            Baptist missionaries to Nigeria from 1952 to 1982. Wayne Logan was a dentist practicing
+            in Enugu and Ibadan. In the late 1970s, the family moved to Lagos, where Dr. Logan
+            taught orthodontics at the University of Lagos Dental School. The Logan Family Papers
+            includes many slides documenting the Logan family's life in Nigeria, including
+            missionaries, missionary children, churches, and local Nigerian culture. Also includes
+            books from their library collection.</abstract>
+         <physdesc id="aspace_8afdcd32121d9e5192910634cedc3656">
+            <extent>2025 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_0bed794556b43c159556803f138aefa9">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_6a8ec640001e9ad4ed44599b4de31b03">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48-hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_d946e9c6f680bc2696673221ebf1a9dd">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_1ffcebfa5189bd222679982c74da75f0">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Logan Family Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_5224a77ba992289da4236f5851925160">
+         <head>Provenance</head>
+         <p>The Logan Family Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 2013.</p>
+      </acqinfo>
+      <processinfo id="aspace_ddb6ae1066916da415974f80f3606335">
+         <head>Processing Information</head>
+         <p>Processed by Joanne Fairhurst; Meghan Lyon, January 2014</p>
+         <p>Encoded by Joanne Fairhurst; Meghan Lyon, January 2014</p>
+         <p>Accession(s) described in this collection guide: 2014-0007</p>
+         <p>Materials may not have been ordered and described beyond their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_4f5dc7117af5234f7ce4db08a4fedc41">
+         <head>Biographical Note</head>
+         <p>The Logan family were Southern Baptist missionaries to Nigeria from 1952 to 1982,
+            working on behalf of the Southern Baptist Convention's Foreign Mission Board. Wayne
+            Logan was a dentist and worked in the Baptist Dental Centre in Ibadan. After 1960 the
+            family moved to Enugu, where they established a Dental Clinic. In the late 1970s the
+            family moved again to Lagos, where Dr. Logan taught Orthodontics at the University of
+            Lagos Dental School.</p>
+      </bioghist>
+      <scopecontent id="aspace_1e404c0f573a18592a7d414f455c257a">
+         <head>Collection Overview</head>
+         <p>The Logan Family Papers collection is divided into two series: Visual Materials and
+            Printed Materials. The visual materials consist mostly of slides. Many of the slides
+            document the Logan family's life in Nigeria and in America, from the children's birth to
+            late teens. Others document village life, peoples, patients, markets, church-life,
+            baptisms, weddings, amongst others. The printed materials include several books from the
+            Logan family's collection that document African culture, history and customs.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Baptists -- Missions -- Nigeria</subject>
+         <subject source="lcsh">Married people in missionary work -- Africa</subject>
+         <geogname source="lcsh">Nigeria -- History -- 20th century</geogname>
+         <subject source="lcsh">Dentistry -- Nigeria</subject>
+         <subject source="lcsh">Children of missionaries -- Africa</subject>
+         <corpname source="ingest">Southern Baptist Convention</corpname>
+         <famname source="ingest">Logan family</famname>
+         <famname source="ingest">Logan family</famname>
+         <persname source="ingest">Logan, William Wayne</persname>
+         <corpname source="ingest">Southern Baptist Convention. Foreign Mission Board</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_bpo" level="series">
+            <did>
+               <unittitle>Visual Materials, 1952-1982</unittitle>
+               <physdesc id="aspace_02f4ca1d652bd1f7e580887d1d92ccf5">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_15e390d9deff3df0f60a5ca1ee1ff3d1">
+               <head>Scope and Contents note</head>
+               <p>The Visual Materials Series documents the Logan family's life in America and in
+                  Nigeria. The series also depicts life in Africa--customs, village-life, people,
+                  Lagos, teeth, patients, markets amongst others. Many of the trays had accompanying
+                  notes, which have been included at the beginning of their respective slides.
+                  Arranged in chronological order.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_d8u" level="file">
+               <did>
+                  <unittitle>Tray #1, 1952 to 1953, Wiggins to Ibadan</unittitle>
+                  <container id="aspace_5615046be1bbd880627632bf9d4728d8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_wfw" level="file">
+               <did>
+                  <unittitle>Tray #2, 1953-1955, family in Nigeria</unittitle>
+                  <container id="aspace_db63fcb8fc7b79bc21c6d8a708af9dd1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_8ie" level="file">
+               <did>
+                  <unittitle>Tray #3, 1954-1955, family</unittitle>
+                  <container id="aspace_d475fddb74c11da85795117af567bf16" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_40l" level="file">
+               <did>
+                  <unittitle>Tray #4, 1956-1958, family</unittitle>
+                  <container id="aspace_f38c95b5f0e048789f5b7fccdb5148a4" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_svl" level="file">
+               <did>
+                  <unittitle>Tray #5, 1957-1960, family in Nigeria and America</unittitle>
+                  <container id="aspace_eee908c4d1754ebeb2bff4e37d0cd242" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_m6z" level="file">
+               <did>
+                  <unittitle>Tray #6, 1960-1962, family in Nigeria and America</unittitle>
+                  <container id="aspace_4623ce14bfb6f52f57228f58707d2895" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_ymc" level="file">
+               <did>
+                  <unittitle>Tray #7, 1961-1963, family in Nigeria and America</unittitle>
+                  <container id="aspace_10b302e0fab228bdf2752cd1ce0745f5" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_vgr" level="file">
+               <did>
+                  <unittitle>Tray #9, 1967-1969, family in Nigeria and America</unittitle>
+                  <container id="aspace_50d270b52066f9de84ffee3cee554daa" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_sa3" level="file">
+               <did>
+                  <unittitle>1952-1970, America and Nigeria, with a few family</unittitle>
+                  <container id="aspace_9d4572d7f0ccf6f810e7efa11eecdb61" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_xy8" level="file">
+               <did>
+                  <unittitle>1953-1955, Nigeria</unittitle>
+                  <container id="aspace_0122b35976b83cbf3766b584cc6ab4a6" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_gv3" level="file">
+               <did>
+                  <unittitle>1968-1970, Nigeria, family</unittitle>
+                  <container id="aspace_0974665e5b9c784f5461e9562bb47128" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_vfj" level="file">
+               <did>
+                  <unittitle>1969-1971, Nigeria, family</unittitle>
+                  <container id="aspace_a25ce3909e4218ae897a4d0ba6cb4bf7" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_yca" level="file">
+               <did>
+                  <unittitle>1971-1973, family</unittitle>
+                  <container id="aspace_8bc7ef0e6b07cf4f4284aaf52d648cfc" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_74l" level="file">
+               <did>
+                  <unittitle>1971-1975, Nigeria</unittitle>
+                  <container id="aspace_53c783b25b7887d79007223152c80e29" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_m10" level="file">
+               <did>
+                  <unittitle>1979-1980, Nigeria</unittitle>
+                  <container id="aspace_64ec69504183c0704991de7c7d66aab7" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_48u" level="file">
+               <did>
+                  <unittitle>1980-1981, Nigeria</unittitle>
+                  <container id="aspace_1f38cc6a2b15f965e7fe59218ff419c2" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_m1t" level="file">
+               <did>
+                  <unittitle>1955-1978, Nigeria, a few family</unittitle>
+                  <container id="aspace_c2dfd28a9ee3e29936da7361d1782da0" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_7t9" level="file">
+               <did>
+                  <unittitle>1958-1973, Nigeria</unittitle>
+                  <container id="aspace_df4f9ade15de976ea6656abe457ad557" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_3c8" level="file">
+               <did>
+                  <unittitle>1958-1981, Nigeria</unittitle>
+                  <container id="aspace_93efb3e572af6952078571d16d064de7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_bey" level="file">
+               <did>
+                  <unittitle>1959-1974, family</unittitle>
+                  <container id="aspace_8a06635a3bf602c4f8b7c8e770605ba1" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_q5j" level="file">
+               <did>
+                  <unittitle>1953-1977, Nigeria</unittitle>
+                  <container id="aspace_84322f6d403120d6e313c22e9d6adf41" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_5ul" level="file">
+               <did>
+                  <unittitle>1961-1981, Nigeria</unittitle>
+                  <container id="aspace_6b3e3cdae136ddef3a461db2c9ba7635" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_0bq" level="file">
+               <did>
+                  <unittitle>1958-1979, Nigeria</unittitle>
+                  <container id="aspace_e5e86126106b27c79d9ad373443759ad" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_5ql" level="file">
+               <did>
+                  <unittitle>1969-1982, America, family</unittitle>
+                  <container id="aspace_d8c9fb9511ed17c48683084817d56298" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_olx" level="file">
+               <did>
+                  <unittitle>Teeth, Nigeria</unittitle>
+                  <container id="aspace_9990390f82b9726b40742946700598e8" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_7cn" level="file">
+               <did>
+                  <unittitle>Undated, family</unittitle>
+                  <container id="aspace_b0a1f136cbca6631571905e76835dfd7" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_1ad" level="file">
+               <did>
+                  <unittitle>Undated, Africa</unittitle>
+                  <container id="aspace_00905c8820375678e04578cd065c7923" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_t27" level="file">
+               <did>
+                  <unittitle>Baptist Missions Abroad, Baptist Foreign Mission Board, film strip with
+                     no audio</unittitle>
+                  <container id="aspace_0d88bd153be3e3298408c26d1429ff89" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref43_qb5" level="series">
+            <did>
+               <unittitle>Printed Materials, 1959-1994</unittitle>
+               <physdesc id="aspace_e7546e57a83ad43e54436efb10ab8632">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_0af21dade57254c30f800554dafaed16">
+               <head>Scope and Contents note</head>
+               <p>The Printed Materials Series contains books from the Logan's library, pertaining
+                  to Nigerian history, culture and language. The items are arranged in alphabetical
+                  order by author.</p>
+            </scopecontent>
+            <c02 id="aspace_ref45_vp7" level="file">
+               <did>
+                  <unittitle>Aluko, T. M., <title render="italic">One Man, One Wife</title>,
+                     1967</unittitle>
+                  <container id="aspace_faeb23c83daee58635ae3777972a0690" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_qfr" level="file">
+               <did>
+                  <unittitle>Anderson, Susan, <title render="italic">May Perry of Africa</title>,
+                     1966</unittitle>
+                  <container id="aspace_be97d3a6cf62a9338e3591f1409956fd" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_ze5" level="file">
+               <did>
+                  <unittitle>Akande, S. T., <title render="italic">Speaking in Tongues Yesterday and
+                        Today</title>, 1977</unittitle>
+                  <container id="aspace_ecc39472754eec970b7ade5b9e0d5559" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_nye" level="file">
+               <did>
+                  <unittitle>Browne, Stanley,<title render="italic"> Medicine and Faith in a
+                        Primitive Community</title>, 1959</unittitle>
+                  <container id="aspace_b841f580b8611956f60b6c483734543e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_k9c" level="file">
+               <did>
+                  <unittitle>Burks, Edgar, <title render="italic">Planting the Redeemer's
+                        Standard</title>, 1994</unittitle>
+                  <container id="aspace_b89d3029406396d14b78cbb39ae3b038" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_ru3" level="file">
+               <did>
+                  <unittitle>Cansdale, G. S., <title render="italic">West African Snakes</title>,
+                     1961</unittitle>
+                  <container id="aspace_fcf10e9e8e7e548ae9349dfe3943263d" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_si8" level="file">
+               <did>
+                  <unittitle>Cowley, William, <title render="italic">Mission: Nigeria</title>,
+                     1988</unittitle>
+                  <container id="aspace_e4dfc795ecf801fa95f4f2cde9c5630e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_aso" level="file">
+               <did>
+                  <unittitle>Davidson, Basil, <title render="italic">The Growth of African
+                        Civilization</title>, 1970</unittitle>
+                  <container id="aspace_95f8cb0b2b204f68e332a470ebc8675d" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_jkt" level="file">
+               <did>
+                  <unittitle>Delano, Isaac, <title render="italic">Yoruba Proverbs</title>,
+                     1972</unittitle>
+                  <container id="aspace_0b37515d68362818c21902ecea0dfbf4" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_uij" level="file">
+               <did>
+                  <unittitle>Fletcher, Jesse, <title render="italic">Wimpy Harper of Africa</title>,
+                     1967</unittitle>
+                  <container id="aspace_1991afa35244738ba5182676791a542f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_s2j" level="file">
+               <did>
+                  <unittitle>Fuller, Aletha, <title render="italic">More Than a Memory</title>,
+                     1986</unittitle>
+                  <container id="aspace_79419dd5c8ccf033759a0c6a6be99427" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_vou" level="file">
+               <did>
+                  <unittitle>Fuller, John, <title render="italic">Fever!</title>, 1974</unittitle>
+                  <container id="aspace_0aae390cf63dce1b1f9f84b3e0af5cad" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_9o9" level="file">
+               <did>
+                  <unittitle>Obe, Peter, <title render="italic">Nigeria</title>, 1971</unittitle>
+                  <container id="aspace_b877d23d12357cecbf92d69f487e9014" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_60h" level="file">
+               <did>
+                  <unittitle>Ogbalu, F. C., <title render="italic">Ibo-English Phrase Book</title>,
+                     undated</unittitle>
+                  <container id="aspace_6e08c2c0b6b5f87553d2b67474c5d084" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_653" level="file">
+               <did>
+                  <unittitle>Patterson, I. N., <title render="italic">Yesterday, Today and
+                        Tomorrow</title>, 1964</unittitle>
+                  <physdesc id="aspace_28353f25ca7e60c0315f0310df8188af">
+                     <extent>2 copies</extent>
+                  </physdesc>
+                  <container id="aspace_bc318c781780c6463503f9ef1e93f2e3" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_xcy" level="file">
+               <did>
+                  <unittitle>Ross, Emory and Myrta, <title render="italic">Africa Disturbed</title>,
+                     1959</unittitle>
+                  <container id="aspace_f97b5bcabb182048498f2de8c21786ee" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_acw" level="file">
+               <did>
+                  <unittitle>Segun, Mabel, <title render="italic">Friends, Nigerians,
+                        Countrymen</title>, 1977</unittitle>
+                  <physdesc id="aspace_3c93fda28c25db6a96faf40c60d8cc59">
+                     <extent>2 copies</extent>
+                  </physdesc>
+                  <container id="aspace_25da21fa2c49cb6842e6e698cdef8a71" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_xbw" level="file">
+               <did>
+                  <unittitle>Syme, Ronald, <title render="italic">Nigerian Pioneer</title>,
+                     1964</unittitle>
+                  <container id="aspace_ec4d89452d9748a58d3f3ef3ece0ff75" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_c5l" level="file">
+               <did>
+                  <unittitle>Thorp, Ellen, <title render="italic">Ladder of Bones</title>,
+                     1967</unittitle>
+                  <container id="aspace_acd888ccf10d4391e450fceaf0ca6d25" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_bep" level="file">
+               <did>
+                  <unittitle>Wall, Martha, <title render="italic">Splinters from an African
+                        Log</title>, 1960</unittitle>
+                  <container id="aspace_f02353faf1f56e0df2699909fc59f361" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_tsc" level="file">
+               <did>
+                  <unittitle>Webster, J. B. <title render="italic">The Growth of African
+                        Civilization: The Revolutionary Years, West Africa since 1800</title>,
+                     1970</unittitle>
+                  <container id="aspace_06e5f9b7a503657b72ea2e3b9642778d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_jpt" level="file">
+               <did>
+                  <unittitle>Whirley, Carlton, <title render="italic">A Story to Tell</title>,
+                     1988</unittitle>
+                  <container id="aspace_710ea553efb7ee9472248b5209cdf5a1" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_j5a" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Crisis '66</title>, 1966</unittitle>
+                  <container id="aspace_67b6223d9dd427bf119e7dd5b4e5f608" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_3ji" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Ibadan Chopping Guide</title>, 1969</unittitle>
+                  <container id="aspace_3ebec7dfa78dccc0af42b7a50a9e0c31" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_ip5" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Nigerian Heritage</title>, undated</unittitle>
+                  <container id="aspace_26a61bb63c13101e856389d0789761cd" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

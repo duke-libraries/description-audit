@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/jwtdellglen/">jwtdellglen</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the J. Walter Thompson Company. Glen Dell Papers, 1969-1989
+                  <num>RL.00680</num>
+            </titleproper>
+            <author>Processed by: Richard Collier; machine-readable finding aid created by: Richard
+               Collier</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002988695</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 22:48:34
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>J. Walter Thompson Company. Glen Dell papers</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">J. Walter Thompson Company</corpname>
+         </origination>
+         <unitid>RL.00680</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1969/1989" type="inclusive">1969-1989</unitdate>
+         <physloc id="aspace_3c4a662b23f693b314b9db787ce393bc">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_a370d1f44a09326440aa18a7dd5ca8f2">Established in 1864, the J. Walter
+            Thompson Company (JWT) is one of the oldest and largest enduring advertising agencies in
+            the United States. Glen Dell served 1984-1986 as an executive in finance and
+            administration with JWT Group. Collection spans the years 1969-1989 and includes
+            financial reports, correspondence, acquisition and investment information, as well as
+            materials on JWT's subsidiaries and international operations (including Canada, China,
+            Europe and South Africa). Companies referenced in the papers include Carl Byoir, Gray
+            and Company, Hill &amp; Knowlton, Lord Geller Federico &amp; Einstein, and Ogilvy &amp;
+            Mather. Acquired as part of the John W. Hartman Center for Sales, Advertising &amp;
+            Marketing History.</abstract>
+         <physdesc id="aspace_e3b1017eced882e3e1457cb1882fbbc0">
+            <extent>3,000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_3009f1d8323d9c654d86f70def0d05cf">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_468059205601ab4efaddbe2dc17d9ae4">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48-hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_056a49db9a24159d7591a7401677091b">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_d452a50b943c6e09a07f3048dfd5d355">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], J. Walter Thompson Company. Glen Dell Papers, David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_6f05a14004d89c555627d17a6ffa8398">
+         <head>Provenance</head>
+         <p>The J. Walter Thompson Company Glen Dell Papers were received by the David M. Rubenstein
+            Rare Book &amp; Manuscript Library as a gift in 1993.</p>
+      </acqinfo>
+      <processinfo id="aspace_092f8baed24d3e95b21d6d6dd74e0b45">
+         <head>Processing Information</head>
+         <p>Processed by Richard Collier, October 2013</p>
+         <p>Encoded by Richard Collier, October 2013</p>
+         <p>Accession 93-010 is described in this collection guide. </p>
+      </processinfo>
+      <bioghist id="aspace_2f13a3627eb8323205a87015f3d5d396">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology List</head>
+            <chronitem>
+               <date>1935</date>
+               <eventgrp>
+                  <event>Born</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1957</date>
+               <eventgrp>
+                  <event>BA, Amherst College</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1957-1971</date>
+               <eventgrp>
+                  <event>Financial Analyst and Treasurer, General Electric Corporation</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1958</date>
+               <eventgrp>
+                  <event>Military service, U.S. Army Reserve</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1971-1984</date>
+               <eventgrp>
+                  <event>Treasurer, Group Executive, Vice President, International Paper
+                     Company.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1985-1987</date>
+               <eventgrp>
+                  <event>Executive Vice President--Finance and Administration and Chief Financial
+                     Officer, JWT Group</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1992-1997</date>
+               <eventgrp>
+                  <event>President, Investors Management Services</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1995-</date>
+               <eventgrp>
+                  <event>Board of Directors, Forbes Magazine</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1998-2007</date>
+               <eventgrp>
+                  <event>Partner, MapleWood Equity Partners PL</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>2011</date>
+               <eventgrp>
+                  <event>Director, Verisk Analytics</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_afe6fd351598f03083ca252641cb59ff">
+         <head>Collection Overview</head>
+         <p>Collection spans the years 1969-1989 and includes financial reports, correspondence,
+            acquisition and investment information, as well as materials on JWT's subsidiaries and
+            international operations (including Canada, China, Europe and South Africa). Companies
+            referenced in the papers include Carl Byoir, Gray and Company, Hill &amp; Knowlton, Lord
+            Geller Federico &amp; Einstein, and Ogilvy &amp; Mather.</p>
+      </scopecontent>
+      <arrangement id="aspace_f3abc7d61a5d586206917c38af41b4a0">
+         <head>Collection Arrangement</head>
+         <p>Arranged into two series: General Files and International Operations.</p>
+      </arrangement>
+      <relatedmaterial id="aspace_6a01b47ea207e02bf3c402f54c9e9cb9">
+         <head>Related Material</head>
+         <p>Related materials may be found in the following JWT collection in the Hartman Center</p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtdocumentation/">
+               <emph render="bold">Corporate Documentation</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwteamesherbert/">
+               <emph render="bold">Herbert Eames Papers</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtburnettpenneyp/">
+               <emph render="bold">Penney Burnett Papers</emph>
+            </extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwttreasureroffice/">
+               <emph render="bold">Treasurer's Office Records</emph>
+            </extref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Subsidiaries (Corporations)</subject>
+         <subject source="lcsh">Advertising -- Canada</subject>
+         <subject source="lcsh">Advertising -- United States</subject>
+         <subject source="lcsh">Advertising agencies -- United States -- History</subject>
+         <subject source="lcsh">Advertising agencies -- United States</subject>
+         <subject source="lcsh">Advertising executives -- United States</subject>
+         <subject source="lcsh">Advertising agencies -- China</subject>
+         <subject source="lcsh">Advertising agencies -- Canada</subject>
+         <subject source="lcsh">Advertising agencies -- South Africa</subject>
+         <subject source="lcsh">Advertising agencies -- Europe</subject>
+         <corpname source="ingest">J. Walter Thompson Company</corpname>
+         <corpname source="ingest">John W. Hartman Center for Sales, Advertising &amp; Marketing
+            History</corpname>
+         <corpname source="ingest">Hill and Knowlton, Inc.</corpname>
+         <corpname source="ingest">J. Walter Thompson Company</corpname>
+         <corpname source="ingest">Ogilvy &amp; Mather</corpname>
+         <persname source="ingest">Dell, Glen A.</persname>
+         <corpname source="ingest">Gray and Company</corpname>
+         <corpname source="ingest">Carl Byoir &amp; Associates</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref15_owe" level="series">
+            <did>
+               <unittitle>General Files, 1969-1986 and undated</unittitle>
+            </did>
+            <c02 id="aspace_ref16_ryv" level="file">
+               <did>
+                  <unittitle>Board of Directors Meeting, 1986</unittitle>
+                  <container id="aspace_a3da2a4041f312da59b1d2666fb68e84" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_6f3" level="file">
+               <did>
+                  <unittitle>Capital charge, 1985</unittitle>
+                  <container id="aspace_d3de3055c4fa23026035d68c11c9bb4f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_1zt" level="file">
+               <did>
+                  <unittitle>Carl Byoir acquisition, 1986</unittitle>
+                  <container id="aspace_e6ab714ebc52836ad67a9df8adf4e09f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_e1k" level="file">
+               <did>
+                  <unittitle>Chicago Office, 1985</unittitle>
+                  <container id="aspace_b14f8104c887e3b58ac447be683e996e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_xa6" level="file">
+               <did>
+                  <unittitle>Emery Worldwide, 1985</unittitle>
+                  <container id="aspace_01b8f578bcea889b133590477d3d3e85" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_rm2" level="file">
+               <did>
+                  <unittitle>Expense account policy, 1985-1986</unittitle>
+                  <container id="aspace_4bee3d41f544201a11d7ceb437e64053" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_csh" level="file">
+               <did>
+                  <unittitle>Finance chronological files, 1985-1986 Oct.</unittitle>
+                  <container id="aspace_c4dcb177b0f2186ccd8115437f69213a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_ou7" level="file">
+               <did>
+                  <unittitle>Finance chronological files, 1985-1986</unittitle>
+                  <container id="aspace_40ab96899cefda830af2fd1278b0d5e1" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_5rx" level="file">
+               <did>
+                  <unittitle>Finance chronological files, 1985-1986</unittitle>
+                  <container id="aspace_704b99d13360bf89e257a3693af42160" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_vjp" level="file">
+               <did>
+                  <unittitle>Finance--full year results, 1985</unittitle>
+                  <container id="aspace_4e73dd7616937571930abd69f70ba135" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_lqq" level="file">
+               <did>
+                  <unittitle>Finance--JWT Group vs. Ogilvy Group and Interpublic, Competitor
+                     Highlights, 1986</unittitle>
+                  <container id="aspace_3025bec30cd9c7e741567a5de2a69f9e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_8z1" level="file">
+               <did>
+                  <unittitle>Gray &amp; Company acquisition, 1984-1986</unittitle>
+                  <container id="aspace_72ee2fb4f25c0d62b21368dc820c0257" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_eq7" level="file">
+               <did>
+                  <unittitle>Gray &amp; Company acquisition, 1984-1986</unittitle>
+                  <container id="aspace_fb9be8d86ebb936a813f2075f40424bb" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_0su" level="file">
+               <did>
+                  <unittitle>Gray/Hill &amp; Knowlton merger, 1986</unittitle>
+                  <container id="aspace_d59968e7bd23eced0be17d2dc9d84cd7" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_9jq" level="file">
+               <did>
+                  <unittitle>Gray merger--Project Neutral, 1986</unittitle>
+                  <container id="aspace_d893263137f4f480bda10f8852c35ea0" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_fc8" level="file">
+               <did>
+                  <unittitle>Hill &amp; Knowlton, 1981-1986</unittitle>
+                  <container id="aspace_15117cc5f54d5b303bd53ef66ea3ef18" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_wim" level="file">
+               <did>
+                  <unittitle>Hill &amp; Knowlton, 1981-1986</unittitle>
+                  <container id="aspace_a4a5c013b1987a98fa7af9d43dbf8148" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_m27" level="file">
+               <did>
+                  <unittitle>International Paper Company, 1986</unittitle>
+                  <container id="aspace_5b383701d8703e5ace2cb847dc336ab7" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_0r8" level="file">
+               <did>
+                  <unittitle>International transfer cost reports, 1985</unittitle>
+                  <container id="aspace_f8edc898811735255febf0d2f4230511" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_ml1" level="file">
+               <did>
+                  <unittitle>J. Walter Thompson Fund, 1985-1986</unittitle>
+                  <container id="aspace_f97e6acf2550df7f70e828fb43919ac3" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_hyd" level="file">
+               <did>
+                  <unittitle>Job description, 1985</unittitle>
+                  <container id="aspace_a52e4fe3e735bbc819b49f5866cc7226" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_3w3" level="file">
+               <did>
+                  <unittitle>Joseph O'Donnell remarks to Board of Directors, 1986</unittitle>
+                  <container id="aspace_d615b619fb75b0851a97a49250770a4a" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_x2r" level="file">
+               <did>
+                  <unittitle>JWT Corporate Committee, 1986</unittitle>
+                  <container id="aspace_44923a8945d0cb19a153cd24b620f122" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_ydk" level="file">
+               <did>
+                  <unittitle>JWT Group finance manual, 1986</unittitle>
+                  <container id="aspace_bf01ed3351702a6108844b3a26fd5649" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_59b" level="file">
+               <did>
+                  <unittitle>Jwt Group incentive compensation plans, 1985</unittitle>
+                  <container id="aspace_d1cafef0746ab8a40aca7dec438a2ed5" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_aeu" level="file">
+               <did>
+                  <unittitle>JWT Operations Review of Selected Accounting and Administrative Areas,
+                     1985</unittitle>
+                  <container id="aspace_514b2b5b502a8fb6d859a779f418ec71" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_7xr" level="file">
+               <did>
+                  <unittitle>JWT Retirement Program and Trust Agreement, 1985</unittitle>
+                  <container id="aspace_3792936ef907e54ff9636773d40e660a" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_skb" level="file">
+               <did>
+                  <unittitle>JWT U.S. Employees' Payroll-Based Stock Ownership Plan and Trust
+                     Agreement, 1983-1984</unittitle>
+                  <container id="aspace_3d25e003b0802b9bbc188f9bdf8383d3" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_jt3" level="file">
+               <did>
+                  <unittitle>Lord Geller Federico &amp; Einstein, 1986</unittitle>
+                  <container id="aspace_00ed541a1a0734c7b0334f0398ea3535" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_86s" level="file">
+               <did>
+                  <unittitle>Management Information Services (MIS), 1984-1986</unittitle>
+                  <container id="aspace_4f429c6f8770cb61f4f0b2dbbf1fbce1" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_e53" level="file">
+               <did>
+                  <unittitle>Management performance evaluation, undated</unittitle>
+                  <container id="aspace_168d00a4d734edbf00c96e528318579c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_og1" level="file">
+               <did>
+                  <unittitle>Margins, 1985</unittitle>
+                  <container id="aspace_3d5d82bfed3693d2b6c0685a5abac548" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_laf" level="file">
+               <did>
+                  <unittitle>Marketing plan for 1985-1987, 1984</unittitle>
+                  <container id="aspace_c1409311f3aadfe5633e9f20f54224a7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_lc7" level="file">
+               <did>
+                  <unittitle>MRB Group (London), 1986</unittitle>
+                  <container id="aspace_0aaa8ab960737b1eaadc94dfd5bddc25" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_7a3" level="file">
+               <did>
+                  <unittitle>Office automation, 1986</unittitle>
+                  <container id="aspace_958cf4ebbf224b163dabcaf53c684ac3" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_9jz" level="file">
+               <did>
+                  <unittitle>Office Finance Manager, 1985-1986</unittitle>
+                  <container id="aspace_34364127eb33079b79b79f895bc76283" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_0nu" level="file">
+               <did>
+                  <unittitle>Performance Incentive Program (PIP), 1985-1986</unittitle>
+                  <container id="aspace_648b44e74a7b9509b6cdd4c2f02170ed" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_2fa" level="file">
+               <did>
+                  <unittitle>Planning cycle, 1986</unittitle>
+                  <container id="aspace_28b4c518ba596f5ed50f4d66a09bada0" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_dd7" level="file">
+               <did>
+                  <unittitle>Public relations, 1985</unittitle>
+                  <container id="aspace_3638b6ef2b121a793542a3433b0981d0" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_vst" level="file">
+               <did>
+                  <unittitle>Spot buying, 1985-1986</unittitle>
+                  <container id="aspace_b1d758bf880abae42f005a417e656dda" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_hju" level="file">
+               <did>
+                  <unittitle>Spot system, 1985-1986</unittitle>
+                  <container id="aspace_0eb2e9fbf9a726d91aa628a64c59b1f5" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_tm6" level="file">
+               <did>
+                  <unittitle>Stock incentive plans, 1969-1981</unittitle>
+                  <container id="aspace_ac540d90493a9aa9fa8f79cf5c98f934" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_l5h" level="file">
+               <did>
+                  <unittitle>Stock options, 1980-1986</unittitle>
+                  <container id="aspace_82ee7e3857b082c9cad6a0ee33a9c02d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_bvb" level="file">
+               <did>
+                  <unittitle>Strategic Plan for the Years 1986-1988, 1985</unittitle>
+                  <container id="aspace_e7228de27b20e74afe24a88026f0a4e0" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_0es" level="file">
+               <did>
+                  <unittitle>Strategic planning process, 1985-1987</unittitle>
+                  <container id="aspace_45eb24df78def95e37e40c8654abe98e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_nxv" level="file">
+               <did>
+                  <unittitle>Succession planning, 1985</unittitle>
+                  <container id="aspace_bdba4d34387c7304cf02ffda378beb47" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_l79" level="file">
+               <did>
+                  <unittitle>Take-over, 1986</unittitle>
+                  <container id="aspace_a2037053762ba1991cd20566a75b760f" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_f3m" level="file">
+               <did>
+                  <unittitle>Tampa Office relocation, 1986-1987</unittitle>
+                  <container id="aspace_0101c07d13d1ef00814313e736e8137d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_4mp" level="file">
+               <did>
+                  <unittitle>Tax review, 1984</unittitle>
+                  <container id="aspace_1ab1fe756bd32fdaff87da75b4b6badb" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_jic" level="file">
+               <did>
+                  <unittitle>Thompson Achievement Awards Program (TAAP), 1983-1986</unittitle>
+                  <container id="aspace_2a555de5847a13be05031932ad41a356" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_6fu" level="file">
+               <did>
+                  <unittitle>Thompson Achievement Awards Program (TAAP), 1983-1986</unittitle>
+                  <container id="aspace_395b1d06a786b5181a83c0044fd61d33" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_en6" level="file">
+               <did>
+                  <unittitle>Thompson Incentive Plan (TIP), undated</unittitle>
+                  <container id="aspace_86759f0b6b57fd4e530b533028afb40a" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_2gh" level="file">
+               <did>
+                  <unittitle>Thompson Plan, 1985</unittitle>
+                  <container id="aspace_2b0925d690989b192b94e1e289a8d537" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_vow" level="file">
+               <did>
+                  <unittitle>Thompson Recruitment, 1985-1986</unittitle>
+                  <container id="aspace_90c90d08eaab103357c9a23353547a8d" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_k24" level="file">
+               <did>
+                  <unittitle>Thompson Trust, 1986</unittitle>
+                  <container id="aspace_a5b588c6e8431c8b4fb039d342eaa6b6" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_txz" level="file">
+               <did>
+                  <unittitle>Three-Year plans, 1985-1989</unittitle>
+                  <container id="aspace_1ea63c247f6fe12e6977c137ae774fd4" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_vnm" level="file">
+               <did>
+                  <unittitle>Treasury Department, 1985</unittitle>
+                  <container id="aspace_3fa13ae4235e0c6535379b347806f2b5" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_zc1" level="file">
+               <did>
+                  <unittitle>Victor Gutierrez, 1985-1986</unittitle>
+                  <container id="aspace_b2aec682c2266cdc67954586a9a6d978" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref74_be9" level="series">
+            <did>
+               <unittitle>International Operations, 1979-1989</unittitle>
+            </did>
+            <c02 id="aspace_ref75_104" level="file">
+               <did>
+                  <unittitle>Asia/Pacific, 1985</unittitle>
+                  <container id="aspace_1556714b9cbed2506e1f81a8636111c9" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_t0a" level="file">
+               <did>
+                  <unittitle>Australia, 1982-1986</unittitle>
+                  <container id="aspace_eb4b599e1601933cad7791d2a581bdb5" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_dps" level="file">
+               <did>
+                  <unittitle>Australia, 1982-1986</unittitle>
+                  <container id="aspace_8f00bd72e81cea287c7a3132226586a8" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_01q" level="file">
+               <did>
+                  <unittitle>Belgium (Brussels), 1982-1987</unittitle>
+                  <container id="aspace_d72eadf03ef2b19a339d6ac43ed9066b" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_i4m" level="file">
+               <did>
+                  <unittitle>Brazil, 1985</unittitle>
+                  <container id="aspace_e7030ad156f6b6f35a8885a5991c9207" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_qxu" level="file">
+               <did>
+                  <unittitle>Canada, 1985-1986</unittitle>
+                  <container id="aspace_3b3c6eca5f1247317fd3fe06ab206067" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_nyr" level="file">
+               <did>
+                  <unittitle>China--Citibank Introduction to Investment in China,
+                     undated</unittitle>
+                  <container id="aspace_ea7916ebb9b6fa86462715dfdf436405" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_p10" level="file">
+               <did>
+                  <unittitle>China--memoranda, 1985</unittitle>
+                  <container id="aspace_d904b9f0869c58c73f63a2d6a6d3abe0" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_1c1" level="file">
+               <did>
+                  <unittitle>China--Review of advertising market, 1985</unittitle>
+                  <container id="aspace_b7c0faf2e5b2fcd535b83785c3940008" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_d9d" level="file">
+               <did>
+                  <unittitle>Denmark (Copenhagen), 1986</unittitle>
+                  <container id="aspace_36de20a2de4a2162d9c90ca84b4e74be" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_5ke" level="file">
+               <did>
+                  <unittitle>Dubai, 1985-1986</unittitle>
+                  <container id="aspace_152f69c20b0aaf876fe7ace0e30385e2" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_yir" level="file">
+               <did>
+                  <unittitle>France, 1985-1986</unittitle>
+                  <container id="aspace_b0baeead3d64399ee3ac844a251a5299" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_nos" level="file">
+               <did>
+                  <unittitle>Greece, 1985-1986</unittitle>
+                  <container id="aspace_c47f79d357a1526cf8a9fe28e012819c" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_eq5" level="file">
+               <did>
+                  <unittitle>Hong Kong, 1985</unittitle>
+                  <container id="aspace_86cfd5807469d28dc923b34d5eff3915" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_8qx" level="file">
+               <did>
+                  <unittitle>India, 1985</unittitle>
+                  <container id="aspace_7c3b155590503ad60e1b1d37f0e69297" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_lue" level="file">
+               <did>
+                  <unittitle>Italy (Milan), 1984-1986</unittitle>
+                  <container id="aspace_e985f32ea7066e2326671e28ac284c82" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_0uq" level="file">
+               <did>
+                  <unittitle>Japan, 1985-1986</unittitle>
+                  <container id="aspace_01205decd4ea7732bff42d4859dc3faa" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_u9x" level="file">
+               <did>
+                  <unittitle>MERAC (Middle East Research and Consulting), 1986-1990</unittitle>
+                  <container id="aspace_a84949582cfe0eba195dde7b050d6da8" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_eus" level="file">
+               <did>
+                  <unittitle>Multinational, 1983-1986</unittitle>
+                  <container id="aspace_57ee4ebbb6abe9042ebe25787cdb52c2" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_l31" level="file">
+               <did>
+                  <unittitle>Netherlands (Amsterdam), 1985</unittitle>
+                  <container id="aspace_300e0075b59fd0fac1b95c9ca565b1f1" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_zjs" level="file">
+               <did>
+                  <unittitle>New Zealand, 1985-1986</unittitle>
+                  <container id="aspace_15be8db667160b15349efb92343e4d18" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_k37" level="file">
+               <did>
+                  <unittitle>Philippines, 1985-1986</unittitle>
+                  <container id="aspace_641b09107b0d7df4950918bcd89e5cb8" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_89i" level="file">
+               <did>
+                  <unittitle>South Africa, 1979-1989</unittitle>
+                  <container id="aspace_d6380be79c1db91c818aa10fe38f3179" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_v7d" level="file">
+               <did>
+                  <unittitle>South Africa, 1979-1989</unittitle>
+                  <container id="aspace_1b3cd600c3283a1e7d13a4b89d3764b6" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_gq5" level="file">
+               <did>
+                  <unittitle>South Africa--Divestment (publication), 1985 June</unittitle>
+                  <container id="aspace_b7a701d1cc36de9529b4c9388d16c51d" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_e0l" level="file">
+               <did>
+                  <unittitle>South Korea, 1985</unittitle>
+                  <container id="aspace_9dce54d48823656fdf5bdc055bf88d8d" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_w27" level="file">
+               <did>
+                  <unittitle>Taiwan, 1986</unittitle>
+                  <container id="aspace_7293808af5d8e1867e231f06f3a7de33" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_egq" level="file">
+               <did>
+                  <unittitle>Thailand (Bangkok), 1985-1986</unittitle>
+                  <container id="aspace_86f1e5bfbcdefacf99dc5e8a503141fc" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_d11" level="file">
+               <did>
+                  <unittitle>United Kingdom, 1985-1986</unittitle>
+                  <container id="aspace_7a67cf601e62a6d260865cc65db52639" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

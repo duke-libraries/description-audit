@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/crokerjohnwilson/"
+         >crokerjohnwilson</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the John Wilson Croker Papers, 1791-1899 and undated (bulk
+               1809-1857) <num>RL.00271</num>
+            </titleproper>
+            <author>Processed by: Owen Yeates; machine-readable finding aid created by: Owen Yeates,
+               Paula Jeannet</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2006</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000851705</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:19:56
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>John Wilson Croker papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Croker, John Wilson, 1780-1857</persname>
+         </origination>
+         <unitid>RL.00271</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1791/1899" type="inclusive">1791-1899 and undated (bulk
+            1809-1857)</unitdate>
+         <physloc id="aspace_f153406d01a3ed91c71cb3a65459ee8e">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_8081c6caf31ca745bbccc61592ef59c9">Barrister, politician, literary
+            critic, and author. The John Wilson Croker Papers are organized into the following
+            series: Indexed Correspondence, Non-Indexed Correspondence, and Other Papers. The
+            collection consists primarily of letters from English and Irish politicians and
+            personages to Croker, and provide a rich source of material on Great Britain's politics
+            and government in the 19th century.</abstract>
+         <physdesc id="aspace_c688ec6407f449db2cce1d8e430a877d">
+            <extent>6300 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_465882fd3c6b68494be12e4296ac9171">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_6ca2f1480d2fa5e17a89de1d3911635d">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_7224a4c5ac0c08c8c72f0ded5895b48c">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_f54ed6b5268b46c068a4816c1cedc15b">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], John Wilson Croker Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_bfd8514d9cbc7c5860e01d1008e7cb3d">
+         <head>Provenance</head>
+         <p>The John Wilson Croker Papers were acquired by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as purchases from 1960-1997.</p>
+      </acqinfo>
+      <processinfo id="aspace_5ae741f253e7b9ba81d3c29b709ab1ce">
+         <head>Processing Information</head>
+         <p>Processed by Owen Yeates, January 2006</p>
+         <p>Encoded by Owen Yeates and Paula Jeannet</p>
+         <p>Completed April 2006</p>
+         <p>Accessions 60-199 to 97-065 were merged into one collection, described in this finding
+            aid.</p>
+      </processinfo>
+      <bioghist id="aspace_50d592adccdd4d306746a09d674c4ee2">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date> 1780 Dec. 20 </date>
+               <eventgrp>
+                  <event>Born in Galway, Ireland</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1796-1800 </date>
+               <eventgrp>
+                  <event>Student at Trinity College, Dublin University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1800-1802 </date>
+               <eventgrp>
+                  <event>Studied law in London at Lincoln's Inn</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1801 Jan. 1 </date>
+               <eventgrp>
+                  <event>Act of Union became law, creating the United Kingdom of Great Britain and
+                     Ireland and a unified Parliament</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1802 </date>
+               <eventgrp>
+                  <event>Called to the Irish bar</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1804 May-1807 May </date>
+               <eventgrp>
+                  <event>Customs comptroller for Wexford, Waterford, and Ross May</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1804 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Familiar epistles to
+                        Frederick Jones, Esq, on the present state of the Irish stage</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1806 May 25 </date>
+               <eventgrp>
+                  <event>Married Rosamund Carrington Pennell</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1806 </date>
+               <eventgrp>
+                  <event>Stood for British Parliament in Downpatrick and defeated</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1807-1832 </date>
+               <eventgrp>
+                  <event>Member of Parliament</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1808 July-1808 Nov. </date>
+               <eventgrp>
+                  <event>
+                     <title type="simple" render="italic">Locum tenens</title> for Sir Arthur
+                     Wellesley, chief secretary for Ireland, during his first campaign in Portugal
+                     and Spain</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1808 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">A sketch of the state of
+                        Ireland, past and present</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1809 </date>
+               <eventgrp>
+                  <event>Helped found the <title type="simple" render="italic">Quarterly
+                        Review</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1809-1830 </date>
+               <eventgrp>
+                  <event>Secretary to the Admiralty</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1811 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Battles of Talavera: a
+                        poem</title>, about Wellesley during the Peninsular War</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1812 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">A key to the orders in
+                        council</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1813 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Letters on the subject of
+                        the naval war with America</title> in the <title type="simple"
+                        render="italic">Courier</title>, using the penname Nereus</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1815 </date>
+               <eventgrp>
+                  <event>Visited Paris for the second time with Sir Robert Peel and William
+                     Fitzgerald; began research on the French Revolution</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1820 </date>
+               <eventgrp>
+                  <event>Croker's son, Spencer Perceval Croker, died at the age of three</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1821 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Letters of Mary Lepel, Lady
+                        Hervey</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1823 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Royal Memoirs on the French
+                        Revolution</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1824 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Letters to and from
+                        Henrietta, Countess of Suffolk, and her second husband, the Hon. George
+                        Berkeley; from 1712 to 1767</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1825 </date>
+               <eventgrp>
+                  <event>Published <title type="simple" render="italic">Letters from the Hon. Horace
+                        Walpole, to the Earl of Hertford, during His Lordship's embassy in
+                        Paris</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1830 Jan. </date>
+               <eventgrp>
+                  <event>Used the label <title type="simple" render="doublequote"
+                        >Conservative</title> for the Tory party in the <title type="simple"
+                        render="italic">Quarterly Review</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1831 </date>
+               <eventgrp>
+                  <event>Published a new edition of James Boswell's <title type="simple"
+                        render="italic">Life of Johnson</title>, with <title type="simple"
+                        render="italic">Journal of a tour to the Hebrides</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1832 </date>
+               <eventgrp>
+                  <event>Parliamentary Reform Act passed; Croker retired from Parliament</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1842 </date>
+               <eventgrp>
+                  <event>Close friend, Francis Charles Seymour-Conway, Third Marquess of Hertford,
+                     died; Croker executor of estate</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1846 </date>
+               <eventgrp>
+                  <event>Repeal of the Corn Laws</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1848 </date>
+               <eventgrp>
+                  <event>Croker edited and published John, Lord Hervey's <title type="simple"
+                        render="italic">Memoirs of the reign of George the Second </title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1854 </date>
+               <eventgrp>
+                  <event>Formally gave up connection to <title type="simple" render="italic">The
+                        Quarterly Review</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1857 Aug. 10 </date>
+               <eventgrp>
+                  <event>Died at home in West Molesly, England</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1871 </date>
+               <eventgrp>
+                  <event>Publication of <title type="simple" render="italic">Works of Alexander
+                        Pope</title>, by Whitwell Elwin and William John Courthope, using materials
+                     Croker collected prior to his death</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date> 1884 </date>
+               <eventgrp>
+                  <event>Louis J. Jennings published the <title type="simple" render="italic">Croker
+                        papers: The correspondence and diaries of the late Right Honourable John
+                        Wilson Croker . . .</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>John Wilson Croker was a barrister, politician, literary critic, and author. He was tied
+            to many prominent Tory leaders, and was among the first to call theirs the Conservative
+            Party. Very early in his political career he became a friend of Arthur Wellesley, the
+            Duke of Wellington. A strong defender of the Tory party, Spencer Perceval appointed him
+            secretary to the Admiralty when Perceval assumed the office of Premier (Prime Minister).
+            Although some Members of Parliament initially disapproved of Perceval's choice, decrying
+            Croker as a novice and a political rather than a professional figure, Croker held the
+            office through three subsequent premierships. He served in Parliament from 1807 to 1832,
+            standing for Downpatrick (1807-1812), Athlone (1812-1818), Yarmouth (Isle of Wight)
+            (1819 Mar 16-1820), Bodmin (1820-1826), Aldeburgh (1826-1827 May, 1830-1832), and Dublin
+            University (1827 May 15-1830). Croker retained his affection for Ireland, long
+            maintaining both a home and a law practice there, as well as a desire for Irish office.
+            His support of Catholic emancipation led him to electoral loss while standing for
+            several Irish districts, and on those occasions he was appointed to Parliament for
+            "rotten" or "pocket" boroughs controlled by his friends. Although he supported
+            Parliamentary reform that would have abolished some such boroughs, he opposed the Reform
+            Act of 1832 as too radical and used it as an excuse to retire from elected office.</p>
+         <p>Croker's great passion was for literature; he wrote literary criticism as well as his
+            own poetry, biography, history, and articles on foreign affairs and domestic politics.
+            He had a life-long interest in French politics, particularly as it related to the French
+            Revolution, despotism, and social stability. In the late 1820s, the <title type="simple"
+               render="italic">Guardian</title>, which Croker helped establish twenty years earlier,
+            experienced a change in editorial staff and a concomitant shift in policy. Coincident to
+            these changes, Croker's contributions began to focus on political rather than literary
+            and foreign affairs. After he retired from Parliament, Croker used the <title
+               type="simple" render="italic">Guardian</title> to defend many Conservative positions,
+            particularly those of Robert Peel. Croker's support of and friendship with Peel ended,
+            however, when Peel endorsed the repeal of the Corn Laws. In his later years, Croker
+            concentrated primarily on history and biography. </p>
+         <p>For a detailed history of Croker's life, see William Thomas, <title type="simple"
+               render="doublequote">Croker, John Wilson,</title>
+            <title type="simple" render="italic"> Oxford Dictionary of National Biography</title>,
+            2004-2005, and <title type="simple" render="doublequote">Croker, John Wilson,</title>
+            <title type="simple" render="italic"> The history of Parliament on CD-ROM</title>,
+            1998.</p>
+      </bioghist>
+      <scopecontent id="aspace_c4a44a0552816e9e92a88085b0bde542">
+         <head>Collection Overview</head>
+         <p>The John Wilson Croker Papers span the years 1791-1899, with the bulk of the materials
+            dating from 1809 to 1857. The collection is organized into the following series: Indexed
+            Correspondence, Non-Indexed Correspondence, and Other Papers. The <emph render="bold"
+               >Indexed and Non-Indexed Correspondence Series</emph> consist primarily of letters to
+            Croker. The detailed description of the collection that follows this more general
+            overview specifies the distinctions between these two correspondence series. The
+            collection is a rich source of material on Great Britain's politics and government in
+            the 19th century. Political matters discussed in the correspondence include the
+            following: Canada; Catholic relief; the Church of England; the Conservative/Tory Party;
+            the Corn Laws; Ireland, including its legal, political, social, religious, and economic
+            conditions; naval affairs, including operations in the Napoleonic Wars and the War of
+            1812; parliamentary reform; and relations with France and the history of the French
+            revolution. The correspondence also illuminates the patronage system of the early 19th
+            century, the relationships between prominent Conservatives, and the confidence that many
+            Conservative leaders had in Croker's counsel. Statesmen and other prominent figures
+            involved in Irish affairs or Conservative politics with whom Croker had continuing or
+            considerable correspondence include: William Beresford; Robert Saunders Dundas, Second
+            Viscount Melville; Francis Egerton, First Earl Ellesmere; Davies Gilbert; Henry
+            Goulburn; William Richard Hamilton; Spencer Horsey de Horsey; Robert Jenkinson, Second
+            Earl Liverpool; Bartholomew Lloyd; James Major; Anthony George Perrier; and Charles
+            William Stewart Vane, Third Marquess Londonderry. <emph render="bold">The Other Papers
+               Series</emph> contains a folder on the legal and financial matters of Croker and his
+            family, as well as several folders holding letters and diary entries used by Louis J.
+            Jennings to write the first collection of Croker's works. </p>
+         <p>Croker's interest in French history and politics began with the Irish Rebellion of 1798,
+            which was partially inspired by the French Revolution. On an 1815 trip to France with
+            Robert Peel and William Fitzgerald, Croker began collecting materials on the Revolution
+            and its development into the French empire. His meticulous research about persons,
+            events, and buildings continued through correspondents in France, as demonstrated by a
+            number of items in the collection.</p>
+         <p>The collection is also a significant source of information on the United Kingdom's
+            patronage system in the early nineteenth century. Many letters involve appeals for
+            positions or discussions of a person's fitness for particular office.</p>
+         <p>A number of letters in the collection also relate to the legal and social affairs of
+            Ireland and the administration of Dublin University. Correspondents include judges,
+            government officials, attorneys, doctors, university officials, and multiple members of
+            leading families. Salient topics in this correspondence include Catholic Emancipation,
+            public unrest, the Potato Famine, and the administration of the university.</p>
+         <p>Selected letters and diary entries have been published in <title type="simple"
+               render="italic">The Croker papers: The correspondence and diaries of the late Right
+               Honourable John Wilson Croker ... secretary to the Admiralty from 1809 to
+               1830</title>, ed. Louis J. Jennings, 3 vols. (New York: Charles Scribner's Sons,
+            1884). Additional information may be found in Myron Franklin Brightfield, <title
+               type="simple" render="italic">John Wilson Croker</title> (Berkeley, Calif.:
+            University of California Press, 1940). For collections related to the John Wilson Croker
+            Papers, see the William L. Clements Library, University of Michigan. </p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Statesmen -- Great Britain -- Correspondence</subject>
+         <subject source="lcsh">Napoleonic Wars, 1800-1815</subject>
+         <geogname source="lcsh">Canada -- Politics and government -- 19th century</geogname>
+         <subject source="lcsh">Catholics -- Great Britain</subject>
+         <subject source="lcsh">Corn laws (Great Britain)</subject>
+         <geogname source="lcsh">France -- Foreign relations -- Great Britain</geogname>
+         <geogname source="lcsh">France -- History -- Revolution, 1789-1799</geogname>
+         <geogname source="lcsh">France -- Politics and government -- 19th century</geogname>
+         <geogname source="lcsh">Great Britain -- Defenses</geogname>
+         <geogname source="lcsh">Great Britain -- Foreign relations -- France</geogname>
+         <geogname source="lcsh">Great Britain -- Politics and government -- 19th century</geogname>
+         <geogname source="lcsh">Ireland -- History -- 19th century</geogname>
+         <geogname source="lcsh">Ireland -- Politics and government -- 19th century</geogname>
+         <geogname source="lcsh">Ireland -- Social conditions</geogname>
+         <persname source="ingest">Croker, John Wilson, 1780-1857</persname>
+         <persname source="ingest">Croker, John Wilson, 1780-1857 -- Political and social
+            views</persname>
+         <corpname source="ingest">Church of England</corpname>
+         <persname source="ingest">Goulburn, Henry</persname>
+         <persname source="ingest">Gilbert, Davies</persname>
+         <persname source="ingest">Egerton, Francis, First Earl of Ellesmere</persname>
+         <persname source="ingest">Dundas, Robert Saunders, Second Viscount Melville,
+            1771-1851</persname>
+         <persname source="ingest">Lloyd, Bartholomew</persname>
+         <persname source="ingest">Jenkinson, Robert Banks, Second Earl of Liverpool</persname>
+         <persname source="ingest">Horsey, Spencer Horsey de</persname>
+         <persname source="ingest">Hamilton, William Richard</persname>
+         <persname source="ingest">Stewart Vane, Charles William, Third Marquess of
+            Londonderry</persname>
+         <persname source="ingest">Perrier, Anthony George</persname>
+         <persname source="ingest">Major, James</persname>
+         <persname source="ingest">Beresford, William, 1797-1883</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref14_b5n" level="series">
+            <did>
+               <unittitle>Indexed and Non-Indexed Correspondence Series, 1791-1899 and undated, bulk
+                  1809-1857</unittitle>
+               <physdesc id="aspace_b74f3db6596bb4b22d4de07f02159790">
+                  <extent>13 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_1f5d57c6491c2b055b1b9d5813b9c170">
+               <head>Scope and Contents note</head>
+               <p>The description of the collection's correspondence given in the Collection
+                  Overview generally describes the content of both the Indexed and Non-Indexed
+                  Correspondence Series, which were acquired and processed at different times. Two
+                  research tools resulted from the processing and description of the earliest
+                  letters, which resulted in the Indexed Correspondence Series. The first of these
+                  tools, the cards in the library's Signature File, provides a comprehensive record
+                  of all the authors found in the Indexed Series. These cards list the author's
+                  name, the date for each item written, and the collection in which the items may be
+                  found. As the cards are arranged by author and not collection, however, it is
+                  necessary to approach the Signature File with prior knowledge of Croker's
+                  correspondents. The second of these tools, a paper index for which the series
+                  receives its name, lists the notable persons, places, and subjects mentioned in
+                  the Indexed Correspondence. The Selective Index does not, however, list the
+                  authors of the letters in the series. Although the intensive descriptive work that
+                  resulted in the Signature File and the Selective Index was not continued when the
+                  non-indexed portion of the Croker Papers was arranged and described, a list of
+                  significant correspondents, or correspondents with whom Croker had extensive
+                  communication, for each of the Indexed and Non-Indexed Correspondence Series is
+                  now available in the Inventory File in the Research Room. For access to any of
+                  these resources, see the reference archivist.</p>
+               <p>The writings of William Beresford, William Henry Ellis, Alexander Grant, Edmund
+                  Hopkinson, William Lowther (Second Earl Lonsdale), James Major, Anthony George
+                  Perrier, and Charles William Stewart Vane (Third Marquess Londonderry), appear in
+                  both the Indexed and Non-Indexed Correspondence Series. Those of Joseph Crowley,
+                  John Leslie Foster, John Hignett, Spencer Horsey de Horsey, Francis Egerton (First
+                  Earl Ellesmere), Henry Goulburn, Bramley Moore, Graham Moore, George Francis
+                  Seymour, and William Young, are predominately found in the Indexed Series. The
+                  writings of Robert Saunders Dundas (Second Viscount Melville), Davies Gilbert, M.
+                  E. Graham, William Richard Hamilton, H. Hardinge, Robert Banks Jenkinson (Second
+                  Earl Liverpool), Bartholomew Lloyd, and Frederick William Trench III, as well as
+                  legal correspondence regarding the Hertford estate, are more predominately found
+                  in the Non-Indexed Series. </p>
+               <p>There are few items in the Indexed Series for the years 1826 and 1829, while the
+                  correspondence decreases in the Non-Indexed Series for the years 1834, 1840, 1849,
+                  1850, 1855, 1856, 1858, and 1863-1899. The correspondence in both the Indexed and
+                  Non-Indexed Series increases in the early 1810s, early 1820s, and the 1840s. The
+                  correspondence in the Indexed Series also swelled in the early 1850s and in the
+                  Non-Indexed Series in the late 1820s. </p>
+               <p>The letters to or from William Beresford are found throughout the Indexed and
+                  Non-Indexed Series. There are several folders of letters related to Beresford,
+                  however, that are located at the end of the Non-Indexed Series. The materials
+                  contained in these folders were accessioned together and have been kept separate
+                  due to uncertainty in specifying their dates. Also, a number of the letters of
+                  Robert Jenkinson (Liverpool) were accessioned together and microfilmed. This
+                  microfilm reel is contained in the Rare Book, Manuscript, and Special Collections
+                  Library microfilm collection. See the reference librarian for access to this
+                  record. These letters are also available in the Non-Indexed Correspondence
+                  Series.</p>
+               <p>The items in both the Indexed and Non-Indexed Series have been arranged
+                  chronologically by year, month, and day. Items missing the day of the month are
+                  located behind the other items for that given month and year, and items lacking
+                  both month and day follow the other letters for that year. When items lack an
+                  identifying year, they have been placed at the end of the series. In addition, for
+                  the Non-Indexed Series, letters whose years were approximated using watermarks
+                  have been placed at the end of the series. </p>
+            </scopecontent>
+            <c02 id="aspace_ref16_1t1" level="subseries">
+               <did>
+                  <unittitle>Indexed Series, 1793-1861 and undated</unittitle>
+                  <physdesc id="aspace_a8dd3155793be583833d5a4cbfe285f5">
+                     <extent>6 boxes</extent>
+                  </physdesc>
+               </did>
+               <scopecontent id="aspace_3933fe89b8f63c7a4455aaecaca3e2ed">
+                  <head>Scope and Contents note</head>
+                  <p>A significant event in Croker's life was the death of his three year-old son.
+                     An important item relating to this event, contained in the Indexed Series, is a
+                     prayer dated May 17, 1820, two days after the death of his son. Both the
+                     Indexed and Non-Indexed Series contain several letters of condolence, some
+                     expressed alongside requests for patronage.</p>
+               </scopecontent>
+               <c03 id="aspace_ref18_vy6" level="file">
+                  <did>
+                     <unittitle>1793-1814</unittitle>
+                     <container id="aspace_62679a9fa8ed32138ad3128d229bbcbb" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+                  <c04 id="aspace_ref19_1qd" level="file">
+                     <did>
+                        <unittitle>1793-1810</unittitle>
+                        <physdesc id="aspace_37d6091bdda09fe4308006c331b1b833">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_741cd64625dec5e6d2909728463bda7d"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref21_xwz" level="file">
+                     <did>
+                        <unittitle>1810</unittitle>
+                        <physdesc id="aspace_4ca8b2288f38f4e512757a366bd800a3">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_98c1989d813e72e92910fb4563dfdea9"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref23_v17" level="file">
+                     <did>
+                        <unittitle>1811</unittitle>
+                        <physdesc id="aspace_063e9883620ab05bddadb6ac81392fac">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_a11e8a0d159aeff94efc4c6d141163bc"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref25_0ft" level="file">
+                     <did>
+                        <unittitle>1812</unittitle>
+                        <physdesc id="aspace_6d8dfa9773ea0f6144c739c53f8e3628">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_a3552e94de75629de39a84a32c5e9928"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref27_dfj" level="file">
+                     <did>
+                        <unittitle>1813</unittitle>
+                        <physdesc id="aspace_2ff44ff129d378e0188fa61c52ec333d">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_24a79caf981bce9952fc74cfdfb8f1c4"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref29_bad" level="file">
+                     <did>
+                        <unittitle>1814</unittitle>
+                        <physdesc id="aspace_6c243e36ecdf7e259632e75599369d16">
+                           <extent>folder 1 of 2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_efef1cd1a732ebf08a08f3ec9d94d8f7"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref31_e39" level="file">
+                  <did>
+                     <unittitle>1814-1822</unittitle>
+                     <container id="aspace_92b3edb8791b629ec65af6bff13ba472" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+                  <c04 id="aspace_ref32_vr5" level="file">
+                     <did>
+                        <unittitle>1814</unittitle>
+                        <physdesc id="aspace_1dc00ce7ec0b86fd0df163c35953880d">
+                           <extent>folder 2 of 2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_8ab07f4dc1a03360e131a823565c716d"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref34_lba" level="file">
+                     <did>
+                        <unittitle>1815</unittitle>
+                        <physdesc id="aspace_373d1baa2798a632fc236a4827172e15">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_b688f8be0c7165b5b77cd4990bd25e90"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref36_847" level="file">
+                     <did>
+                        <unittitle>1816-1817</unittitle>
+                        <physdesc id="aspace_ec00e05857f4ed322ee18156db17a7e3">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_8cc2b72ca13e623de0a369e0a3c1cf73"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                     <processinfo id="aspace_3e45e6c4de81966da6b4548c9689cb7b">
+                        <head>Processing Information note</head>
+                        <p>[Two items removed to Oversize Materials.]</p>
+                     </processinfo>
+                  </c04>
+                  <c04 id="aspace_ref39_b7n" level="file">
+                     <did>
+                        <unittitle>1818</unittitle>
+                        <physdesc id="aspace_58bafd91410806c2119a0116e31e426f">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_3b3f0fcf344dd71a00f93bfbe72917dc"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref41_5sn" level="file">
+                     <did>
+                        <unittitle>1819</unittitle>
+                        <physdesc id="aspace_ab2123fae431d50924b37c8954adbf38">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_674f90246cb89668c1c140f536060521"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref43_qm4" level="file">
+                     <did>
+                        <unittitle>1820</unittitle>
+                        <physdesc id="aspace_56b21bb3d3ee5a20ba3b952fe77a695a">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_724cfa49d4cabde20d691fa58c536b4e"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref45_by6" level="file">
+                     <did>
+                        <unittitle>1821-1822</unittitle>
+                        <physdesc id="aspace_8a4fbb58bf8e5cf85e59e502c4b7886e">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_7c8c4b99a1e4e240a36f66639bf901a0"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref47_f8s" level="file">
+                  <did>
+                     <unittitle>1823-1832</unittitle>
+                     <container id="aspace_bb281a208293f4b459d37ec54c70649c" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+                  <c04 id="aspace_ref48_f80" level="file">
+                     <did>
+                        <unittitle>1823</unittitle>
+                        <physdesc id="aspace_f883b835b02c8f5e04552053c6cc64d3">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_911efe68c9ca3c5b5419e9a42eea2ad8"
+                           label="Mixed Materials" type="box">3</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref50_h6r" level="file">
+                     <did>
+                        <unittitle>1824</unittitle>
+                        <physdesc id="aspace_0ee2c09cd8124d58c4656bc7a1d572c0">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_f69d517070889c474d8c3962b1ae263f"
+                           label="Mixed Materials" type="box">3</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref52_dvb" level="file">
+                     <did>
+                        <unittitle>1825-1832</unittitle>
+                        <physdesc id="aspace_dea427a1f5b7da5bdcecf6fe7a428599">
+                           <extent>8 folders</extent>
+                        </physdesc>
+                        <container id="aspace_5a978e339657f0d260f06fdd5cdbd4c4"
+                           label="Mixed Materials" type="box">3</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref54_6w2" level="file">
+                  <did>
+                     <unittitle>1833-1844</unittitle>
+                     <container id="aspace_84c1cfa718215a748edad955554df826" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+                  <c04 id="aspace_ref55_jyl" level="file">
+                     <did>
+                        <unittitle>1833-1838</unittitle>
+                        <physdesc id="aspace_55cc624971ac5edf60cce84fa8a3decb">
+                           <extent>6 folders</extent>
+                        </physdesc>
+                        <container id="aspace_80d3442486103576b3bda4b7c76a6043"
+                           label="Mixed Materials" type="box">4</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref57_h7l" level="file">
+                     <did>
+                        <unittitle>1839</unittitle>
+                        <physdesc id="aspace_6197502979ff4f6838df1978eb942003">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_ef8fcc12e7d516d753d66d58afb1fd27"
+                           label="Mixed Materials" type="box">4</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref59_i85" level="file">
+                     <did>
+                        <unittitle>1840-1841</unittitle>
+                        <physdesc id="aspace_0bb53e253ae2881da6ae8580edb593ad">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_9c1b45f8c6b0f8d1ef517e89283061f0"
+                           label="Mixed Materials" type="box">4</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref61_nbl" level="file">
+                     <did>
+                        <unittitle>1842</unittitle>
+                        <physdesc id="aspace_bee0fbdecc236993ded2423958ca5753">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_303e3069d2b4f828cb7fad0f13ba1cd6"
+                           label="Mixed Materials" type="box">4</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref63_ok1" level="file">
+                     <did>
+                        <unittitle>1843</unittitle>
+                        <physdesc id="aspace_e30e3826959af5c55322a2a602063884">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_4f20c14d2b96c18bf0692bd3f70a45ff"
+                           label="Mixed Materials" type="box">4</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref65_aec" level="file">
+                     <did>
+                        <unittitle>1844</unittitle>
+                        <physdesc id="aspace_30fdd30aa6cc88c43f419efa414fd57b">
+                           <extent>folders 1-2 of 4 folders</extent>
+                        </physdesc>
+                        <container id="aspace_89bc34710a501af875f74e59cdfe77c8"
+                           label="Mixed Materials" type="box">4</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref67_z9d" level="file">
+                  <did>
+                     <unittitle>1844-1852</unittitle>
+                     <container id="aspace_0c858908b9e906a8465c96c0d4b477f4" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+                  <c04 id="aspace_ref68_wqf" level="file">
+                     <did>
+                        <unittitle>1844</unittitle>
+                        <physdesc id="aspace_5be4d26b2c126c004693e7949134e778">
+                           <extent>folders 3-4 of 4 folders</extent>
+                        </physdesc>
+                        <container id="aspace_41208fb4eb984054e66347331f56e44b"
+                           label="Mixed Materials" type="box">5</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref70_ml8" level="file">
+                     <did>
+                        <unittitle>1845-1847</unittitle>
+                        <physdesc id="aspace_d783ee23e454352c59bbf746a6623f86">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_2d6f3028ccb5ba46370160ab1aa811dd"
+                           label="Mixed Materials" type="box">5</container>
+                     </did>
+                     <processinfo id="aspace_3ba030de65d42e660cc8a04a49d2e6ae">
+                        <head>Processing Information note</head>
+                        <p>[Item removed to Oversize Materials.]</p>
+                     </processinfo>
+                  </c04>
+                  <c04 id="aspace_ref73_2uu" level="file">
+                     <did>
+                        <unittitle>1848</unittitle>
+                        <physdesc id="aspace_3781e03ff80d4a6619caf2ac0998e3f3">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_aa865e1eaebb58e5f2f22e7d7335bd8b"
+                           label="Mixed Materials" type="box">5</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref75_tcw" level="file">
+                     <did>
+                        <unittitle>1849-1851</unittitle>
+                        <physdesc id="aspace_12c7dd2f82f6442194a82edc5310b99e">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_07cd678361e2b58d7f958da088b8d0db"
+                           label="Mixed Materials" type="box">5</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref77_l6t" level="file">
+                     <did>
+                        <unittitle>1852</unittitle>
+                        <physdesc id="aspace_c812d54e3a654f5347d2fc6f7ca8eb66">
+                           <extent>folders 1-2 of 3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_bbffec03e2703d05b74ae4d94422605b"
+                           label="Mixed Materials" type="box">5</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref79_88o" level="file">
+                  <did>
+                     <unittitle>1852-1861 and undated</unittitle>
+                     <container id="aspace_9244dbad7f9d26ab61bd3f3b3d3991fa" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+                  <c04 id="aspace_ref80_tm2" level="file">
+                     <did>
+                        <unittitle>1852</unittitle>
+                        <physdesc id="aspace_2f4b370db6faa80a1c6326ec76732265">
+                           <extent>folder 3 of 3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_4408e93717636b88775649a5a4b84653"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref82_evj" level="file">
+                     <did>
+                        <unittitle>1853</unittitle>
+                        <physdesc id="aspace_2eb0b5496d11b9a779958fda9136d44a">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_562614db4e290e06ce7af7bf156d0352"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref84_1pl" level="file">
+                     <did>
+                        <unittitle>1854</unittitle>
+                        <physdesc id="aspace_98c7de83e1e6c64525e8542fa70c0770">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_52fa67efda5094420b4cbfa5461373f1"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref86_5pd" level="file">
+                     <did>
+                        <unittitle>1855-1856</unittitle>
+                        <physdesc id="aspace_1b6cc6216fd033a0cb3146fad4a7b9a9">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_41b1e65868df9ca48dfb37f8eaae0494"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref88_iej" level="file">
+                     <did>
+                        <unittitle>1857</unittitle>
+                        <physdesc id="aspace_fffba1262806040e11c867f8153af36d">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_67ebfeb8d9bbdf1ffabdadedbe138dc1"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref90_8xy" level="file">
+                     <did>
+                        <unittitle>1861</unittitle>
+                        <physdesc id="aspace_d974acdcf794747912d95968d5f2e85a">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_7d5e80d59571dfe71423b7a3b5648924"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref92_988" level="file">
+                     <did>
+                        <unittitle>1850s</unittitle>
+                        <physdesc id="aspace_c3286968675bf4a7898725f5b2d0b68f">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_c64ad3665ed65c475c01c579cbb66b74"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref94_tny" level="file">
+                     <did>
+                        <unittitle>Undated, month and day only (no year)</unittitle>
+                        <physdesc id="aspace_763c3506e9135cc125853f757b36f81b">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_41c256db6539e1edd67d0dd56f68a2f4"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref96_tpz" level="file">
+                     <did>
+                        <unittitle>Undated</unittitle>
+                        <physdesc id="aspace_201402dec8a9422730366c94423cef75">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_e02c32b18412b3f1c3676ad5696acd19"
+                           label="Mixed Materials" type="box">6</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref99_a5a" level="subseries">
+               <did>
+                  <unittitle>Non-Indexed Correspondence Series, 1791-1899 and undated, bulk
+                     1809-1858</unittitle>
+                  <physdesc id="aspace_3805b677559fa375b5b897a12ff45d75">
+                     <extent>7 boxes</extent>
+                  </physdesc>
+               </did>
+               <c03 id="aspace_ref101_ojo" level="file">
+                  <did>
+                     <unittitle>1791-1815</unittitle>
+                     <container id="aspace_b3a52e61e00fb6e475d44f07fe2c2a99" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+                  <c04 id="aspace_ref102_587" level="file">
+                     <did>
+                        <unittitle>1791-1807</unittitle>
+                        <physdesc id="aspace_90541d727e93872b9e2808eb5f7fbc5b">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_0568f3cc8f482c118479c755cd201f5b"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref104_5zl" level="file">
+                     <did>
+                        <unittitle>1809</unittitle>
+                        <physdesc id="aspace_a9e660c98a0d4ba7799d779152eb50d3">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_5dca482d829086a370242b0d9832241c"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref106_or9" level="file">
+                     <did>
+                        <unittitle>1810</unittitle>
+                        <physdesc id="aspace_9f57f9c80774bac1a840920da75993d8">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_e95d07b513ed154e1e2f0d1f74aaa8d4"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref108_zas" level="file">
+                     <did>
+                        <unittitle>1811</unittitle>
+                        <physdesc id="aspace_23942a9aefe3df237176f739635112d1">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_42061d7690b400b91ac39c0ef3263d9f"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref110_6pd" level="file">
+                     <did>
+                        <unittitle>1812</unittitle>
+                        <physdesc id="aspace_9d43f5303eb0719a98376d6a1573c6c3">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_d5254abbacc6f18b4edbaa7bdf035c3e"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref112_6l2" level="file">
+                     <did>
+                        <unittitle>1813</unittitle>
+                        <physdesc id="aspace_09e8f822934745da5a195d9b588f2c0a">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_47bd6a5721f477d5b0f45e182f77e51c"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref114_obs" level="file">
+                     <did>
+                        <unittitle>1814-1815</unittitle>
+                        <physdesc id="aspace_dc6b84a7dee0b2a198c138197b96e853">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_84a7fad5319b444f1072b87666d4e38d"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref116_vko" level="file">
+                  <did>
+                     <unittitle>1816-1822</unittitle>
+                     <container id="aspace_11f450eefa912f85a89758712abcb41e" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+                  <c04 id="aspace_ref117_ub3" level="file">
+                     <did>
+                        <unittitle>1816-1818</unittitle>
+                        <physdesc id="aspace_d45caec121e98894432645eb82040efa">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_08f7b3db4e805f6aef4c24653edf17d6"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref119_3xi" level="file">
+                     <did>
+                        <unittitle>1819</unittitle>
+                        <physdesc id="aspace_a7a878a08479603d26ed59b455011ac9">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_4c8dd949f0b537c04702efcdd33cc156"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref121_osp" level="file">
+                     <did>
+                        <unittitle>1820</unittitle>
+                        <physdesc id="aspace_46c475b7b1a320ec47b9b53ba98cdb33">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_85ac26fecf4076095ef9e47db81d70b0"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref123_m7j" level="file">
+                     <did>
+                        <unittitle>1821</unittitle>
+                        <physdesc id="aspace_557eb78c6e5d9847c6c40e5ff2978cf6">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_7ecddf8bd3a047e1d8f7e5575c7775a1"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref125_2zu" level="file">
+                     <did>
+                        <unittitle>1822</unittitle>
+                        <physdesc id="aspace_0b58f16dac06daaaf0e8c808e6c7d3b4">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_f2c3565b79ff16f32509e5e5b75cbe0d"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref127_fwy" level="file">
+                  <did>
+                     <unittitle>1823-1829</unittitle>
+                     <container id="aspace_6c3e7902cf8312639f4f897a16295c0e" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+                  <c04 id="aspace_ref128_wnk" level="file">
+                     <did>
+                        <unittitle>1823</unittitle>
+                        <physdesc id="aspace_a874627908cd29893de05fc0ceae3714">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_27a408ab9f34061807fa58a0381b1810"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref130_3ni" level="file">
+                     <did>
+                        <unittitle>1824</unittitle>
+                        <physdesc id="aspace_43a72a6e54ef2ccfaad73e7ba2b43ac7">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_ebfc09b29b1f3b60c897cf9eeeb6b5db"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                     <processinfo id="aspace_d53bd535cec1fb4b37a33a25e53487f0">
+                        <head>Processing Information note</head>
+                        <p>[Item removed to Oversize Materials.]</p>
+                     </processinfo>
+                  </c04>
+                  <c04 id="aspace_ref133_r5l" level="file">
+                     <did>
+                        <unittitle>1825</unittitle>
+                        <physdesc id="aspace_3d446b9d2a83e520cd31fcbf1e2b21fd">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_11e8b291f99abbce2474b8d616cf4eb6"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref135_tro" level="file">
+                     <did>
+                        <unittitle>1826-1827</unittitle>
+                        <physdesc id="aspace_272218aafda86461cbdae077ef5e0a40">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_0054f1c827d84d995de637ffd422a0b5"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref137_zag" level="file">
+                     <did>
+                        <unittitle>1828</unittitle>
+                        <physdesc id="aspace_8e798b8e2e9eac1e387e7cf9b0270307">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_12ac0e137343c46186341fc8654bc69c"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref139_dp8" level="file">
+                     <did>
+                        <unittitle>1829</unittitle>
+                        <physdesc id="aspace_e62a1f81060bb1bf2e46af0ceadb1520">
+                           <extent>Folder 1 of 2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_9fba5bd5d72bced1803da7cfbb9841ab"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref141_cgf" level="file">
+                  <did>
+                     <unittitle>1829-1841</unittitle>
+                     <container id="aspace_6293ad77344a52290169a305778e4c7f" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+                  <c04 id="aspace_ref142_ye7" level="file">
+                     <did>
+                        <unittitle>1829</unittitle>
+                        <physdesc id="aspace_720c633f339a3d554234466f0645c4ea">
+                           <extent>Folder 2 of 2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_603181db9b8bbb68dcb5ae47f5ed11c9"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref144_6tm" level="file">
+                     <did>
+                        <unittitle>1830</unittitle>
+                        <physdesc id="aspace_349a3bd651d04afc01780dc3ac931614">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_d0d2fac66818b3a0500c0a48bb2a0b40"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref146_zsd" level="file">
+                     <did>
+                        <unittitle>1831</unittitle>
+                        <physdesc id="aspace_5573b3190032881264d5c92a1cff57a2">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_b1cf93463c655f1880b463adc705872f"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref148_i68" level="file">
+                     <did>
+                        <unittitle>1832-1841</unittitle>
+                        <physdesc id="aspace_816d16a897c700c5678d2eb265f5897a">
+                           <extent>10 folders</extent>
+                        </physdesc>
+                        <container id="aspace_1e20527aa5f5f6259bc1f93b875eb12c"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref150_r1c" level="file">
+                  <did>
+                     <unittitle>1842-1846</unittitle>
+                     <container id="aspace_2b2720e807f8c3bd20037d9582a12374" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+                  <c04 id="aspace_ref151_1u0" level="file">
+                     <did>
+                        <unittitle>1842</unittitle>
+                        <physdesc id="aspace_a140804bda8701751bf66560290c4cee">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_8e52b380c0abf2e3be287fd255549606"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref153_i60" level="file">
+                     <did>
+                        <unittitle>1843</unittitle>
+                        <physdesc id="aspace_f89ce1c728795559300022cbf0d15b87">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_1aa064e502a360289770c348f461df46"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref155_ao8" level="file">
+                     <did>
+                        <unittitle>1844</unittitle>
+                        <physdesc id="aspace_37ea37aac61802527dd0b2c84b8277bd">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_aaac52e66d9e0763b5db3fb461dbd623"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref157_xy7" level="file">
+                     <did>
+                        <unittitle>1845</unittitle>
+                        <physdesc id="aspace_4452660931bf840c627583da0a88b13e">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_533a3bd3bd820bd16d9c0a18f419f151"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                     <processinfo id="aspace_4862adf641204f5511434385c07bf9db">
+                        <head>Processing Information note</head>
+                        <p>[Item removed to Oversize Materials.]</p>
+                     </processinfo>
+                  </c04>
+                  <c04 id="aspace_ref160_5k0" level="file">
+                     <did>
+                        <unittitle>1846</unittitle>
+                        <physdesc id="aspace_0c3e28702c854515429ef4a42e0df85b">
+                           <extent>Folder 1 of 3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_f3dfa1bc1de9a7ed804e2dbac8ac4533"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref162_kc9" level="file">
+                  <did>
+                     <unittitle>1846-1899</unittitle>
+                     <container id="aspace_cb82ea721e7ddfbaedfc69fedee95165" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+                  <c04 id="aspace_ref163_ho3" level="file">
+                     <did>
+                        <unittitle>1846</unittitle>
+                        <physdesc id="aspace_884749ad603c560753a892e0f7195d15">
+                           <extent>Folders 2-3 of 3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_01c0806c07ba85118d4d8233d37efc4b"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref165_6kx" level="file">
+                     <did>
+                        <unittitle>1847</unittitle>
+                        <physdesc id="aspace_18bce7484344318c2fe0fc2a7f5e8405">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_d68b62b7280c9d03b4b32a2659d357d5"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref167_omd" level="file">
+                     <did>
+                        <unittitle>1848-1858</unittitle>
+                        <physdesc id="aspace_6d2a72dcb7ac858f0d2b4ed135070777">
+                           <extent>11 folders</extent>
+                        </physdesc>
+                        <container id="aspace_c0e06575ac31f68f394fd832c04b483e"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref169_q80" level="file">
+                     <did>
+                        <unittitle>1863-1899</unittitle>
+                        <physdesc id="aspace_58de40005e04879924077f6b7db0a9e3">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_a3a0afc083c7cf35b8fc582a2fc9dad5"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref171_64q" level="file">
+                  <did>
+                     <unittitle>Watermark years, William Beresford correspondence</unittitle>
+                     <container id="aspace_b3384f628d8cadd996c6c411ca17c157" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+                  <c04 id="aspace_ref172_21c" level="file">
+                     <did>
+                        <unittitle>Watermark years, 1806-1829</unittitle>
+                        <physdesc id="aspace_88227aa5c421481ba0e986477e3af221">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_dc1115cad9e3f55e44b6b6bf59d027e2"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref174_8l4" level="file">
+                     <did>
+                        <unittitle>Watermark years, 1830-1839</unittitle>
+                        <physdesc id="aspace_9f24caf1588dfe65617451089dbe07bc">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_0317acd9e8d0642414c649737db241bf"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref176_tdk" level="file">
+                     <did>
+                        <unittitle>Watermark years, 1840-1848</unittitle>
+                        <physdesc id="aspace_44a07786f05a76d893dfaef6504adf2c">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_e90f5c95ee002dc4569836a29ab25cc1"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref178_kv3" level="file">
+                     <did>
+                        <unittitle>Watermark years, 1851-1855</unittitle>
+                        <physdesc id="aspace_71f517b47ff034d110780d56c8080fbb">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_d65e41417facef57a065b162b07bed9f"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref180_e19" level="file">
+                     <did>
+                        <unittitle>William Beresford correspondence, watermark years,
+                           1845-1856</unittitle>
+                        <physdesc id="aspace_ec0b76e44010b7022dbdf4aeb4e8f1bc">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_e6d855066e3d8f05bc629632e6279ec3"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref182_jmd" level="file">
+                     <did>
+                        <unittitle>William Beresford correspondence, circa 1850s</unittitle>
+                        <physdesc id="aspace_5bbd3d09c71789c477bf0a41092da684">
+                           <extent>1 folder</extent>
+                        </physdesc>
+                        <container id="aspace_7126826c0d8fb865b7779b5c931932e0"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref184_dqs" level="file">
+                     <did>
+                        <unittitle>Undated, month and day only (no year)</unittitle>
+                        <physdesc id="aspace_07d9874ee77845015d798d9fb9c56838">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_7e2e415921fb8d030faef4a33efeb452"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref186_4ez" level="file">
+                     <did>
+                        <unittitle>Undated</unittitle>
+                        <physdesc id="aspace_7e2adfa2853f55e7ea5b689fad430950">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_0a919db9cd0fc458306ac98059d66cfb"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref189_xf3" level="series">
+            <did>
+               <unittitle>Other Papers Series, 1818-1823 and undated</unittitle>
+               <physdesc id="aspace_183d6f1b51ba9e0c4e0406edee894ca4">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_24ebeb9efedc62b84de6a0bea102bc9c">
+               <head>Scope and Contents note</head>
+               <p>The legal and financial papers consist of tax assessments, bills, and assorted
+                  legal papers belonging to Croker and some of his family members. The Photographs
+                  folder holds a single photograph of an unidentified hotel. Other papers include
+                  research materials compiled by Louis J. Jennings for his edited volume of Croker's
+                  diaries and correspondence.</p>
+            </scopecontent>
+            <c02 id="aspace_ref191_wao" level="file">
+               <did>
+                  <unittitle>box 14</unittitle>
+                  <container id="aspace_693d53bc176359d56a93921c81199e26" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+               <c03 id="aspace_ref192_zcx" level="file">
+                  <did>
+                     <unittitle>Diary and unsorted papers</unittitle>
+                     <physdesc id="aspace_4839b39dd97044a93d6244f81dce3aa9">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_7a46f95fe0b0f78f914d8abca5dbe019" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+                  <processinfo id="aspace_0424b338c4692b5a2abe74ef317a821b">
+                     <head>Processing Information note</head>
+                     <p>[Seven items removed to Oversize Materials.]</p>
+                  </processinfo>
+               </c03>
+               <c03 id="aspace_ref195_5di" level="file">
+                  <did>
+                     <unittitle>Legal and financial papers</unittitle>
+                     <physdesc id="aspace_48b7facaf0bd993027d734f557b03ebb">
+                        <extent>1 folder</extent>
+                     </physdesc>
+                     <container id="aspace_db81b1d4a5c4395311f14d2ccb9f4b37" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_t7u" level="file">
+                  <did>
+                     <unittitle>Photographs, undated</unittitle>
+                     <physdesc id="aspace_b38ce59f6ccacbf0c73a0292a70cceda">
+                        <extent>1 folder</extent>
+                     </physdesc>
+                     <container id="aspace_1f1b44c39af57ad26f318e6030801d56" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref200_7sz" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <c02 id="aspace_ref201_5mw" level="series">
+               <did>
+                  <unittitle>Indexed Correspondence Series, 1817-1845</unittitle>
+                  <container id="aspace_4d6e26f8e2b791c45663b97478150f96" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+               <c03 id="aspace_ref202_7f5" level="file">
+                  <did>
+                     <unittitle>French Visa for M. Smith and unidentified person, 1817</unittitle>
+                     <container id="aspace_2b3e720e479b5f1c069e9b96250e1244" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref203_wmd" level="file">
+                  <did>
+                     <unittitle>French Visa for M. Duly, 1817</unittitle>
+                     <container id="aspace_7e93f13b06080ca2c00e7ff2f7a80d15" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref204_86d" level="file">
+                  <did>
+                     <unittitle>Tax announcement, 1845</unittitle>
+                     <container id="aspace_2c0dbaee375aae94b742b96a1169a594" label="Mixed Materials"
+                        type="oversize-folder">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref205_wy6" level="series">
+               <did>
+                  <unittitle>Non-Indexed Correspondence Series, 1824-1845</unittitle>
+                  <container id="aspace_6f7df445563b901821bb22a670f143ad" label="Mixed Materials"
+                     type="oversize-folder">2</container>
+               </did>
+               <c03 id="aspace_ref206_b0g" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote"> Petition of the Landowners, Tenant Farmers,
+                           Labourers, and others connected with Agriculture to Parliament,</title>
+                        1845</unittitle>
+                     <container id="aspace_a167502df475be1486ffa9d0ec0515ae" label="Mixed Materials"
+                        type="oversize-folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref207_syd" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Conciliation of Ireland,</title> Letter from J.
+                        Doyle, 1824</unittitle>
+                     <container id="aspace_f5c5e5aecfaa5f6caf13e724d61a9e5f" label="Mixed Materials"
+                        type="oversize-folder">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref208_ub4" level="series">
+               <did>
+                  <unittitle>Other Papers Series, 1818-1823 and undated</unittitle>
+                  <container id="aspace_2a1001be7de13d2d2dbb76117546df60" label="Mixed Materials"
+                     type="oversize-folder">3</container>
+               </did>
+               <c03 id="aspace_ref209_a1e" level="file">
+                  <did>
+                     <unittitle>Pages from Jennings' research materials</unittitle>
+                     <physdesc id="aspace_39ef65823ac23633b42206fd7325d67e">
+                        <extent>7 items</extent>
+                     </physdesc>
+                     <container id="aspace_27273d651d7638105818e82fdf57349b" label="Mixed Materials"
+                        type="oversize-folder">3</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

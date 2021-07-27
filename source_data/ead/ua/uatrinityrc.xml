@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD" url="https://idn.duke.edu/ark:/87924/m15x4n"
+      >uatrinityrc</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Trinity College (Randolph County, N.C.) collection, 1836-1990
+            <num>UA.01.02.0002</num></titleproper>
+        <author>Machine-readable finding aid created by: Kimberly Sims</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2021</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003205735</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-03-17 11:23:52
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+      <change>
+        <date>2021</date>
+        <item>Arranged and described account books in Boxes 3-7, and 9. Materials fit into new boxes
+          3-7, and 9 was deleted.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Trinity College (Randolph County, N.C.) collection</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">Duke University. University Archives</corpname>
+      </origination>
+      <unitid>UA.01.02.0002</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">20.3 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1836/1990" type="inclusive">1836-1990.</unitdate>
+      <abstract id="aspace_2799dcf0f7a2b97acbcc6568ef6b8dcc">In 1841, Trinity College in Randolph
+        County, N.C. was first formally chartered as Union Institute formed by the Union Institution
+        Society, a group of Methodists and Quakers. Braxton Craven became head of the institution in
+        1842. The school was rechartered in 1851 as Normal College, and its graduates were licensed
+        to teach in the public schools of the state. In 1859, the name of the institution changed to
+        Trinity College upon affiliation with the Methodist Church. John Franklin Crowell became
+        president of Trinity College in 1887; Trinity College relocated to Durham, N.C. in 1892.
+        This artificial reference collection consists of photocopies of correspondence, diaries,
+        printed material, and articles dealing with Union Institute, Normal College, and Trinity
+        College in Randolph County, N.C. English. Included are account books accounts of student
+        "tuition &amp; contingency," bible, book, boarding fees, paper, and ink purchases. Several
+        volumes include the signatures of students. Roll books contain students' names, courses,
+        attendance, assignments, and grades. Accounting for faculty fees and payments are also
+        included.</abstract>
+      <langmaterial id="aspace_144a1053117371febe8b7ca7bf85f349">English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_4658d7dd4dd9a73a9a7525b2d3c3bc85">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_1e8ad3637eed8997db37de0a13070f05">
+      <head>Acquisitions Information</head>
+      <p>The source and provenance for this collection cannot be traced.</p>
+    </acqinfo>
+    <prefercite id="aspace_410cab43217b9794283894d06758df9b">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Trinity College (Randolph County, N.C.) Collection, Duke
+        University Archives, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke
+        University.</p>
+    </prefercite>
+    <userestrict id="aspace_0d3e2b5a2214c19913b0605776cffeb0">
+      <head>Use Restrictions</head>
+      <p>Copyright for official University records is held by Duke University; all other copyright
+        is retained by the authors of items in these papers, or their descendants, as stipulated by
+        United States copyright law.</p>
+    </userestrict>
+    <processinfo id="aspace_efa9de39fb5ea34fcfc58d2c9a1bcaf2">
+      <head>Processing Information</head>
+      <p>Processed by Torrence N. Thomas, May 2000; Jill Katte, October 2002; Kimberly Sims, January
+        2007.</p>
+      <p>Encoded by Joshua McKim, December 2002; Kimberly Sims, January 2007.</p>
+      <p>Updated by Molly Bragg, August 2011.</p>
+      <p>Arranged and described account books in Boxes 3-7, and 9. Materials fit into new boxes 3-7,
+        and 9 was deleted. Updated by Leah M. Kerr, March 2021.</p>
+    </processinfo>
+    <bioghist id="aspace_57395c3eb028c4018a830414c7845bbc">
+      <head>Historical Note</head>
+      <p>Trinity College began as Brown's Schoolhouse in Randolph County, N.C., a private
+        subscription school led by Brantley York, who became the principal in 1838. A year later,
+        Brown's Schoolhouse was formally organized by the Union Institution Society, a group of
+        Methodists and Quakers. In 1841, the State of North Carolina issued a charter for Union
+        Institute, turning it into an academy. In 1842, Braxton Craven became head of the
+        institution. The school was rechartered in 1851 by the Legislature of the State of North
+        Carolina as Normal College, and its graduates were licensed to teach in the public schools
+        of the state. In 1859, the name of the institution is changed to Trinity College upon
+        affiliation with the Methodist Church.</p>
+    </bioghist>
+    <scopecontent id="aspace_7e78ea1c09c59e0783993f36d1bb97d0">
+      <head>Scope and Contents note</head>
+      <p>This artificial collection consists of photocopies of correspondence, diary excerpts,
+        printed material, articles, account books (ledgers), roll books, gradebooks, and official
+        records pertaining to Union Institute, Normal College, and Trinity College in Randolph
+        County, N.C.</p>
+      <p>Included are account books accounts of student "tuition &amp; contingency," bible, book,
+        boarding fees, paper, and ink purchases. Several volumes include the signatures of students.
+        Roll books contain students' names, courses, attendance, assignments, and grades. Accounting
+        for faculty fees and payments are also included.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_7dbc03229207d3ff3428c4222ade4e72">
+      <head>Related Material</head>
+      <p><archref><unittitle>Enoch Faw diary, <unitdate era="ce" calendar="gregorian">1851-1857.
+            </unitdate>
+          </unittitle><repository>Rare Book, Manuscript, and Special Collections Library, Duke
+            University.</repository>
+        </archref><archref><unittitle>Catherine E. Hanes papers, <unitdate era="ce"
+              calendar="gregorian">1861-1873. </unitdate>
+          </unittitle><repository>Southern Historical Collection (#1959-z), University of North
+            Carolina at Chapel Hill.</repository>
+        </archref><archref><unittitle>Robert Philip Howell memoirs, <unitdate era="ce"
+              calendar="gregorian">1854-1872.</unitdate>
+          </unittitle><repository>Southern Historical Collection (#4045), University of North
+            Carolina at Chapel Hill.</repository>
+        </archref><archref><unittitle>William M. Jordan papers, <unitdate era="ce"
+              calendar="gregorian">1913-1882. </unitdate>
+          </unittitle><repository>Rare Book, Manuscript, and Special Collections Library, Duke
+            University.</repository>
+        </archref><archref><unittitle>William McKendree Robbins papers, <unitdate era="ce"
+              calendar="gregorian">1836-1905. </unitdate>
+          </unittitle><repository>Southern Historical Collection (#4070), University of North
+            Carolina at Chapel Hill.</repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Education -- North Carolina -- History -- 19th century</subject>
+      <subject source="lcsh">Quakers -- North Carolina -- History</subject>
+      <subject source="lcsh">Methodist Church -- North Carolina -- History</subject>
+      <geogname source="lcsh">Randolph County (N.C.) -- History</geogname>
+      <subject source="lcsh">Teachers colleges -- North Carolina</subject>
+      <persname source="ingest">Craven, B. (Braxton), 1822-1882</persname>
+      <persname source="ingest">Crowell, J. Franklin (John Franklin), 1857-1931</persname>
+      <corpname source="ingest">Union Institute (Randolph County, N.C.)</corpname>
+      <corpname source="ingest">Trinity College (Randolph County, N.C.)</corpname>
+      <corpname source="ingest">Normal College (Randolph County, N.C.)</corpname>
+      <corpname source="ingest">Duke University -- Students</corpname>
+      <corpname source="ingest">Duke University -- History</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref14_805" level="file">
+        <did>
+          <unittitle>Normal College, Postmarks and Logos, undated-1895</unittitle>
+          <container id="aspace_ccff0cc4049d6c1b150c6d7a5ce36fa0" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref15_wqi" level="file">
+        <did>
+          <unittitle>Normal College, North Carolina Annual Conference of Methodist Church, 1851,
+            1856</unittitle>
+          <container id="aspace_554d8fc7746d7863f5e68dbff66e8a8d" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref16_qqa" level="file">
+        <did>
+          <unittitle>Becton Family, Correspondence</unittitle>
+          <container id="aspace_cbb0fe47322d1cf8654e2105045c7183" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref17_szt" level="file">
+        <did>
+          <unittitle>Trinity College, Class of 1880, W.A. Jones Papers</unittitle>
+          <container id="aspace_a267dcf4c378b918f6013fc9235d7dbf" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref18_6ya" level="file">
+        <did>
+          <unittitle>Memoirs, Long, Augustus W.</unittitle>
+          <container id="aspace_e51a53a4a607f6f5fd7b99655d287320" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref19_bzy" level="file">
+        <did>
+          <unittitle>Articles and Clippings, 1885-1936</unittitle>
+          <container id="aspace_a8eba48ddb1b5bff47e23f5db1c0d179" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref20_9bj" level="file">
+        <did>
+          <unittitle>Diaries and Notebooks, Amanda Simons, circa 1860-1870</unittitle>
+          <container id="aspace_aa541ef3d397d639851cfe5a83dd9961" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref21_tk4" level="file">
+        <did>
+          <unittitle>Sneed, Walter Letter</unittitle>
+          <container id="aspace_803dfc15056a10e2b09bdb00659294a9" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref22_t9z" level="file">
+        <did>
+          <unittitle>Sermon to the Theological Society of Trinity College, undated</unittitle>
+          <container id="aspace_ac75c12ff96e70c7f86fdad47249769a" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref23_lam" level="file">
+        <did>
+          <unittitle>Historical Accounts and Materials, circa 1859-1988</unittitle>
+          <container id="aspace_9eba31d5ea9f83f48771b3417925dce7" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref24_byj" level="file">
+        <did>
+          <unittitle>Reminiscences Index</unittitle>
+          <container id="aspace_07468cb473f3cde482360ff9354dd33b" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref25_wbg" level="file">
+        <did>
+          <unittitle>Trinity College Advertisements</unittitle>
+          <container id="aspace_b28e710d83c8dae76d07defcfdfbc99a" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref26_5yt" level="file">
+        <did>
+          <unittitle>Trinity College Announcements</unittitle>
+          <container id="aspace_f59359ca8276bc889a517c5e8030303e" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref27_hrb" level="file">
+        <did>
+          <unittitle>Articles and Clippings, 1950-1990, undated</unittitle>
+          <container id="aspace_793e1241ab8c5556c0f2825bba7e4300" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref28_j3q" level="file">
+        <did>
+          <unittitle>Bulletins and Supplements, 1887-1892</unittitle>
+          <container id="aspace_ee328b728baa21ad11e8af32fd091f20" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref29_7f3" level="file">
+        <did>
+          <unittitle>Cherokee Indians</unittitle>
+          <container id="aspace_5b690b1516f8fb6a03883a3a6c89a122" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref30_bci" level="file">
+        <did>
+          <unittitle>Tributes to Craven, 1882</unittitle>
+          <container id="aspace_6576a094e5550c2c557527e4bc4a7015" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref31_yry" level="file">
+        <did>
+          <unittitle>Trinity College Circulars</unittitle>
+          <container id="aspace_26c32487ec5b0366cc034c534a19450b" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref32_8wg" level="file">
+        <did>
+          <unittitle>Trinity College Forms</unittitle>
+          <container id="aspace_bd7048c710513b7b8635a8eea1711de7" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref33_wu1" level="file">
+        <did>
+          <unittitle>Trinity Magazine, A College Monthly, Vol I (duplicates)</unittitle>
+          <container id="aspace_899ce232c6e4beb051f31a3550330b1c" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref34_872" level="file">
+        <did>
+          <unittitle>Trinity Magazine, A College Monthly, Vol II (duplicates)</unittitle>
+          <container id="aspace_ee1987eb0b19ee5affc999af08c7259d" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref35_9xu" level="file">
+        <did>
+          <unittitle>Trinity College Publications, Number 1, Lessons from Our North Carolina
+            Records</unittitle>
+          <container id="aspace_ba0016bc84e07a250d426b6d265540be" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref36_wjw" level="file">
+        <did>
+          <unittitle>Trinity College Publications Numbers 1, 2 and 3, 1889-1891</unittitle>
+          <container id="aspace_904a011493d1fafc190da157a218fa0e" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref37_fvn" level="file">
+        <did>
+          <unittitle>Normal College Handouts</unittitle>
+          <container id="aspace_fe12f3cc77f5026fd3807574db5f1197" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref38_802" level="file">
+        <did>
+          <unittitle>Sesquicentennial Program, 1988</unittitle>
+          <container id="aspace_300bcea21f714149a9787fd0dd4bc9fa" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref39_uw5" level="file">
+        <did>
+          <unittitle>Union Institute Constitution, Minutes and Accounts, 1839-1853</unittitle>
+          <container id="aspace_95d2fcab00186010539ea2ee06f92542" label="Mixed Materials"
+            type="volume">1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref40_onp" level="file">
+        <did>
+          <unittitle>Normal College Account Book</unittitle>
+          <unitdate datechar="creation" normal="1853/1859" type="inclusive">1853-1859</unitdate>
+          <container id="aspace_f7acb9477b8b6884e96aad3fdf69b40b" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref41_vbr" level="file">
+        <did>
+          <unittitle>Record of Normal College</unittitle>
+          <unitdate datechar="creation" normal="1853/1855" type="inclusive">1853-1855</unitdate>
+          <container id="aspace_ae296c6cedf71cac57dd1e2ced200f86" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref42_579" level="file">
+        <did>
+          <unittitle>Trinity High School (Randolph County) Records, </unittitle>
+          <unitdate datechar="creation" normal="1891/1892" type="inclusive">1891-1892</unitdate>
+          <container id="aspace_09fdff17eb570007e776eb1852948575" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_da51692f27acb27bb3b55314d9c4a401" level="file">
+        <did>
+          <unittitle>Account Book of Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1845/1848"
+            type="inclusive">1845-1848</unitdate>
+          <container id="aspace_d07d106fa7cfe8d53bc398b440c5d29a" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+        <scopecontent id="aspace_fac86c5fc7853c342ef95c6181ca3690">
+          <head>Scope and Contents</head>
+          <p>Includes loose receipts for student purchases from the American Bible Society and Its
+            Auxilliaries.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_d7f4a755b1e49602469fd58ae0da4589" level="file">
+        <did>
+          <unittitle>Student Roll Book, with grades</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1850/1853"
+            type="inclusive">1850-1853</unitdate>
+          <container id="aspace_7613c6c3129371770c5ced0474196034" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_3a1eeb5e950336e324cd7696217b2cbe" level="file">
+        <did>
+          <unittitle>Account Book of Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1854/1856"
+            type="inclusive">1854-1856</unitdate>
+          <container id="aspace_8ddb8d99afb337b441333da473017a4a" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_9caf53febb862b466513ed6d3e7b8cea" level="file">
+        <did>
+          <unittitle>College Roll Book, with grades, tuition, fees and payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1855/1855"
+            type="inclusive">1855</unitdate>
+          <container id="aspace_5296abcc242145e5282ca94906f58fa3" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+        <scopecontent id="aspace_9f6e17a0c2f0935bd782337b7cff20f9">
+          <head>Scope and Contents</head>
+          <p>Ledger is incomplete, and missing its cover boards.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_56270aa77c56ffa1f5f4b49df12c8114" level="file">
+        <did>
+          <unittitle>Notes Due Book, with lists of notes due to Trinity College</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1859/1864"
+            type="inclusive">1859-1864</unitdate>
+          <container id="aspace_f9d1c9879efab58edd55cb071b417819" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+        <scopecontent id="aspace_594e40abe3e5e1cef53ca4c50003cd02">
+          <head>Scope and Contents</head>
+          <p>This volume contains student lists arranged by county. Also included are Bonds of
+            Students, also arranged by county.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_848aaa05590504a9462d4a770087661d" level="file">
+        <did>
+          <unittitle>Teaching Staff Account Book, including operations expenses</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1859/1861"
+            type="inclusive">1859-1861</unitdate>
+          <container id="aspace_37540038e1d611168d80570c0746eefb" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+        <scopecontent id="aspace_cbb8268560821e3fe6abbec0ad884e5b">
+          <head>Scope and Contents</head>
+          <p>Ledger also includes accounting of projects such as building a book desk, and school
+            operation expenses.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_4851d02e853d2d7ac0887d480793e15c" level="file">
+        <did>
+          <unittitle>Account Book, Number 3 with Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1860/1861"
+            type="inclusive">1860-1861</unitdate>
+          <container id="aspace_d2c91f0c73c1747af17406d97da50c5e" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_f6043c1d065e8f862cbaabc832eb9e4e" level="file">
+        <did>
+          <unittitle>Account Book, Number 4 with Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1860/1861"
+            type="inclusive">1860-1861</unitdate>
+          <container id="aspace_abc8efd8f7f4b068f52e2c0471aebe64" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_19ea1889a5aae45688cafafde05d4b97" level="file">
+        <did>
+          <unittitle>Account Book, Number 5 with Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1860/1861"
+            type="inclusive">1860-1861</unitdate>
+          <container id="aspace_d53d5dd8b041c217c9760340b0bce21b" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_e3f49b2cf1f350e3013afb16400bb297" level="file">
+        <did>
+          <unittitle>Account Book, Number 8 with Student Fees and Payments, and Invoices and
+            Receipts for School Operations</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1860/1861"
+            type="inclusive">1860-1861</unitdate>
+          <container id="aspace_503f96189373af0c84e79e05eb2348ca" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+        <scopecontent id="aspace_6ee5837144a8740ede7e632ea3f88a79">
+          <head>Scope and Contents</head>
+          <p>Includes invoices, receipts, and 'promise to pay' paper slips that are pasted into the
+            book.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_daffc27779227601aac209250fe9d00b" level="file">
+        <did>
+          <unittitle>Account Book, Number 11 with Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1860/1861"
+            type="inclusive">1860-1861</unitdate>
+          <container id="aspace_2fc9caee4de86c16ad31763d8346633c" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ed2571f26e6603a188182302b0c759b6" level="file">
+        <did>
+          <unittitle>Account Book Tracking Books Loaned</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1861/1866"
+            type="inclusive">1861-1866</unitdate>
+          <container id="aspace_31fe2aaca4ac4a54132a40977bf7e92a" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_e8b92620f413fdd4ac9af5ea771372f5" level="file">
+        <did>
+          <unittitle>Muster Roll of Military Department with Student Grades, Fees and
+            Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1861/1864"
+            type="inclusive">1861-1864</unitdate>
+          <container id="aspace_2070e4b4fec228eaefcae5418064ad8b" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_7a795be0b7f1a598d32d34795b32368e" level="file">
+        <did>
+          <unittitle>Account Book with Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1861/1896"
+            type="inclusive">1861-1896</unitdate>
+          <container id="aspace_7267d80804d72ae7f320896002bfccae" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_60e2b871eb291699d3cbca490cb8acba" level="file">
+        <did>
+          <unittitle>Faculty Account Book with Expenses and Payments, and Class Syllabi</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1866/1866"
+            type="inclusive">1866</unitdate>
+          <container id="aspace_7034692a643537513c0745032a5d14ce" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_5907bcd62a4a24cbe9e5fe5d1dbe1e60" level="file">
+        <did>
+          <unittitle>Autograph Book with Student Signatures, Professions, and Personal
+            Quotes</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1866/1872"
+            type="inclusive">1866-1872</unitdate>
+          <container id="aspace_fea1dfb9942923b7e52ee1acda8956db" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_76545fd6587056a978cbde5de15b63ee" level="file">
+        <did>
+          <unittitle>J.R. Pierce, Notes on Rhetoric</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1870-01-16/1870-01-16"
+            type="inclusive">1870 January 16</unitdate>
+          <container id="aspace_eee28a71f3423cd1b178261c25d9e7a7" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_7896297353b9518c068dcb156f00a074" level="file">
+        <did>
+          <unittitle>Roll Book with Student Names, Attendance and Grades</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1870/1870"
+            type="inclusive">1870</unitdate>
+          <container id="aspace_bf70409a1f182046eb891186c7e67d14" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_e4f2cfdccfbdd214b740924e57fe6ae9" level="file">
+        <did>
+          <unittitle>Trinity Building and Loan Association Bank Stock Book of Monthly
+            Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1872/1872"
+            type="inclusive">1872</unitdate>
+          <container id="aspace_42911e380cbfc27eeb7b3e40f4e021fc" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_998c124c319f1a9bbd6b00af65caa0c5" level="file">
+        <did>
+          <unittitle>Treasurer's Book for Trinity Building Association, with Dues, Deposits and
+            Reports</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1872-02-29/1872-02-29"
+            type="inclusive">1872 February 29</unitdate>
+          <container id="aspace_def1d069220d6fc39332edc63a0bb005" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_23c92c77d61bab4f49af096a8a655d07" level="file">
+        <did>
+          <unittitle>Account Book with Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1872/1882"
+            type="inclusive">1872-1882</unitdate>
+          <container id="aspace_036db197579d97399f06299dcdf50857" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_1c268bd962a60f3adc92782adf79fc11" level="file">
+        <did>
+          <unittitle>General Order with Student Names, Attendance, Assignments and
+            Grades</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1875-09-02/1875-09-02"
+            type="inclusive">1875 September 2</unitdate>
+          <container id="aspace_0467c17d28a247ea3f5ffaea75db187a" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_357fdad3253335dbb9e1b0ad835e1e33" level="file">
+        <did>
+          <unittitle>Declamations Book with Student Names, Classes, and Grades for
+            Speeches</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1878/1878"
+            type="inclusive">1878</unitdate>
+          <container id="aspace_982041416a070e86e57ad170257be62b" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ebee6d446e57dba1c01ae3385d741707" level="file">
+        <did>
+          <unittitle>Class Book with Student Names, Grades, and Household Tasks</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1879-09-03/1879-09-03"
+            type="inclusive">1879 Sep 3</unitdate>
+          <container id="aspace_3c558ee3b595abe72cbcb362a97e6160" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_6705df66177bb116eabe368bd0b6d04b" level="file">
+        <did>
+          <unittitle>Account Book of Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1879-09-03/1880-06-10"
+            type="inclusive">1879 September 3 - 1880 June 10</unitdate>
+          <container id="aspace_90b91a1a4c7775e0f7ae969f0a72eb4d" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_67108b281f178db9b70949d4f0002c7b" level="file">
+        <did>
+          <unittitle>Account Book of Student Fees and Payments</unittitle>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1879-09-30/1880-06-12"
+            type="inclusive">1879 September 30 - 1880 June 12</unitdate>
+          <container id="aspace_5e88699f5d9ac2441fb03f34fd2d8c06" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref51_bfu" level="file">
+        <did>
+          <unittitle>Roll of Trinity College after it reopened, 1866-1869</unittitle>
+          <container id="aspace_0dd3900d57a3cd1c883d451239156862" label="Mixed Materials" type="box"
+            >7</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref52_18p" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <container id="aspace_552ae8dba6c6a7e8d93f60cd8a60c513" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref53_zi3" level="file">
+        <did>
+          <unittitle>Leaflets and Broadsides, 1866-1882</unittitle>
+          <container id="aspace_d9a2a12edd4cd5cf1144bef822c849c6" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref54_qs4" level="file">
+        <did>
+          <unittitle>Student Lists and Grades, 1858-1880s</unittitle>
+          <container id="aspace_e8c2884a31fdcc802046337bbf3a138e" label="Mixed Materials" type="box"
+            >8</container>
+          <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4d79c963"
+            xlink:role="image-service" xlink:show="new"
+            xlink:title="Student Lists and Grades, 1858-1880s" xpointer="ark:/87924/r4d79c963"/>
+        </did>
+      </c01>
+      <c01 id="aspace_ref55_39g" level="file">
+        <did>
+          <unittitle>Minutes and Resolutions [Normal College], 1851-1859</unittitle>
+          <container id="aspace_b5ccaf29538572be29c35a96bdd3f931" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref56_1u7" level="file">
+        <did>
+          <unittitle>Official Papers, 1852-1882</unittitle>
+          <container id="aspace_bdd2d469e1a0e573e6a012d3fd2c7bc6" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref57_dpt" level="file">
+        <did>
+          <unittitle>Commercial Drafts, undated</unittitle>
+          <container id="aspace_df61bb1d4fcd4f1181567d1833800f40" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref58_g7n" level="file">
+        <did>
+          <unittitle>Annual Reports, 1858-1882</unittitle>
+          <container id="aspace_85019569bfb79207ceb6c8f03311bc79" label="Mixed Materials" type="box"
+            >8</container>
+          <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4q23z01g"
+            xlink:role="image-service" xlink:show="new" xlink:title="Annual Reports, 1858-1882"
+            xpointer="ark:/87924/r4q23z01g"/>
+        </did>
+      </c01>
+      <c01 id="aspace_ref59_o5i" level="file">
+        <did>
+          <unittitle>Insurance Papers, 1870-1880</unittitle>
+          <container id="aspace_8424440390d553bd8a6b397977bad2a2" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref60_yd0" level="file">
+        <did>
+          <unittitle>Account Papers, 1868-1872</unittitle>
+          <container id="aspace_6a9b6ec63d67e4bf474162bdc8c2359d" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref74_on0" level="file">
+        <did>
+          <unittitle>Student List (damaged, fragile), 1870s</unittitle>
+          <container id="aspace_4ca6b621bbc7d2a576fc67459994ef86" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref75_j51" level="file">
+        <did>
+          <unittitle>Gradebook (damaged, fragile), 1876-1877</unittitle>
+          <container id="aspace_ab49ea878a05dacad6cdf46691cd7d0b" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref76_j1o" level="file">
+        <did>
+          <unittitle>Financial records, 1856-1859</unittitle>
+          <container id="aspace_0a312d803601e47612f85daa53a65c9f" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref77_4fo" level="file">
+        <did>
+          <unittitle>Financial records, 1860-1869</unittitle>
+          <container id="aspace_86227c72dd94aab88a2bf70f47ecdf12" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref78_dmq" level="file">
+        <did>
+          <unittitle>Financial records (3 folders), 1870-1879</unittitle>
+          <container id="aspace_2a55c502ac8c03ed064e592a124502c0" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref79_xrz" level="file">
+        <did>
+          <unittitle>Financial records, 1880-1882</unittitle>
+          <container id="aspace_af8690668dd4238a7d5b0dc57c9dfe4d" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref80_yub" level="file">
+        <did>
+          <unittitle>Receipt, 1886</unittitle>
+          <container id="aspace_7585f93d3c4cdbe147499fa596ef342e" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref81_u3r" level="file">
+        <did>
+          <unittitle>Account Books (include faculty and student book and supply accounts), circa
+            1870s</unittitle>
+          <container id="aspace_e1e5372756b442e24d646e164ecbfa6c" label="Mixed Materials" type="box"
+            >11</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref82_uob" level="file">
+        <did>
+          <unittitle>Account Books, 1870s</unittitle>
+          <container id="aspace_c48338785d1431ed059faac978fce775" label="Mixed Materials" type="box"
+            >12</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref83_496" level="file">
+        <did>
+          <unittitle>Account Books, 1870s</unittitle>
+          <container id="aspace_0efc7a32d51037b04f0481e4e6fe4dc2" label="Mixed Materials" type="box"
+            >13</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref84_w4t" level="file">
+        <did>
+          <unittitle>Account Book, 1870</unittitle>
+          <container id="aspace_51ad9af983b65ab6599815913d436ecf" label="Mixed Materials" type="box"
+            >14</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref85_fsl" level="file">
+        <did>
+          <unittitle>Account Books, 1880-1881</unittitle>
+          <container id="aspace_d06f5f030ba47ceec62a47c60d120aed" label="Mixed Materials" type="box"
+            >15</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref86_hz8" level="file">
+        <did>
+          <unittitle>Student ledger, 1871-1872</unittitle>
+          <container id="aspace_7984c631d5809b92a19503238cbccc26" label="Mixed Materials" type="box"
+            >16</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref87_nzh" level="file">
+        <did>
+          <unittitle>Account book, 1885</unittitle>
+          <container id="aspace_4733ae78cc325aaa2d49447e170e5e2c" label="Mixed Materials" type="box"
+            >16</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref88_nmf" level="file">
+        <did>
+          <unittitle>Account book, 1891-1892</unittitle>
+          <container id="aspace_5d0143b2ff5ccca616badd75d8325fea" label="Mixed Materials" type="box"
+            >16</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref89_kfc" level="file">
+        <did>
+          <unittitle>Trinity College Society of Alumni, circa 1858-1873</unittitle>
+          <container id="aspace_b60bff191689524b299f29b664b6fd58" label="Mixed Materials" type="box"
+            >17</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

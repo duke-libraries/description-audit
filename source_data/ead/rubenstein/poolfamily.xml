@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/poolfamily/">poolfamily</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Pool Family Papers, 1930-2000 <num>RL.01033</num>
+            </titleproper>
+            <author>Processed by: Kaley Deal, Rebecca Evans, Meghan Lyon; machine-readable finding
+               aid created by: Meghan Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">005181631</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 07:10:08
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Pool Family papers</unittitle>
+         <origination label="creator">
+            <famname rules="local" source="ingest">Pool family</famname>
+         </origination>
+         <unitid>RL.01033</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">20 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1930/2000" type="inclusive">1930-2000</unitdate>
+         <physloc id="aspace_7303c3f0efaa179ad7d4a453adfe3073">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_5d6139689d975feec81b993773aafb35">The Pool Family, including James
+            Christopher and Elizabeth Pool and their three children, were Southern Baptist
+            missionaries based in Nigeria, Liberia, and Texas between 1935 and the late 1970s. The
+            collection also includes materials about foster children that they sponsored. Collection
+            includes correspondence, printed materials, administrative records, photographs, and
+            writings documenting the life and activities of the Pool family, particularly J.C. and
+            Elizabeth Pool, and their lives as Southern Baptist missionaries to Nigeria and Liberia
+            in the mid-20th century. The materials are especially relevant to the history of the
+            Nigerian Baptist Theological Seminary and the Pools' work with the Baptist community in
+            Nigeria.</abstract>
+         <physdesc id="aspace_bfdd891c553eea3c3124d587fb2ea28b">
+            <extent>15000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_bca180004bab72b3e2597860800dbb9f">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_55090dee7685beccfc6ed20b5843c6fc">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_c9bea9af00f66eb5e556f7c8fe842980">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have been transferred to Duke University. For
+            more information, consult the copyright section of the Regulations and Procedures of the
+            David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_9a8cf0ba52b26d76314fdcbfcdb6ac46">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Pool Family Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_1e68607625dff63c60500295bf2802e9">
+         <head>Provenance</head>
+         <p>The Pool Family Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 2011.</p>
+      </acqinfo>
+      <processinfo id="aspace_72ad3eef1be810694928ef91d25f1471">
+         <head>Processing Information</head>
+         <p>Processed by Kaley Deal, Rebecca Evans, Meghan Lyon, June 2012</p>
+         <p>Encoded by Meghan Lyon, June 2012</p>
+         <p>Accession(s) described in this finding aid: 2011-1028</p>
+      </processinfo>
+      <bioghist id="aspace_667cc813b94e48cdb3a26e6a15542a5a">
+         <head>Historical Note</head>
+         <p>The Pool Family Papers consist of documents collected by Baptist missionaries J.C.
+            (James Christopher, also Christie) and Elizabeth Pool and their relatives. J.C. was born
+            Jan. 26, 1905 and earned an undergraduate degree from Baylor University in 1929 (after
+            having been ordained in 1928) and a graduate degree from Southern Baptist Theological
+            Seminary. Elizabeth was born July 17, 1909, earned an undergraduate degree at the Baylor
+            College for Women (subsequently Mary Hardin-Baylor College and the University of Mary
+            Hardin Baylor) in 1930, and taught at the San Marcos Baptist Academy from 1930-1932.
+            After both traveling to Nigeria as missionaries in 1934, they were engaged and married
+            in 1935. They had three children--Frances, born 1937, Carolyn, born 1940, and James
+            (Jim), born 1945--and adopted two Nigerian children, Gordon Buraimo Pool, born 1934, and
+            Claribel Olubunmi Alanke Pool, born 1931.</p>
+         <p>The Pools became key figures in the Baptist missionary community of Nigeria, primarily
+            through their work at the Nigerian Baptist Theological Seminary (where J.C. was
+            principal) but also at the Ogbomosho Day School and the Baptist Mission Hospital, among
+            other institutions. While in Nigeria Elizabeth published several books, including <title
+               type="simple" render="italic">The Hill Called Moon</title> (1944), <title
+               type="simple" render="italic">Lucille Reagan of Africa</title> (1954), and <title
+               type="simple" render="italic">The Bead-Maker’s Son</title> (1957). They were
+            stationed in Liberia from 1971-1972 before retiring to San Angelo, Texas due to J.C.’s
+            health problems. J.C. died Jan. 21, 1978, and Elizabeth died Nov. 13, 2000.</p>
+         <p>Notable family members include Elizabeth’s brother Ross Routh, a Brigadier General in
+            the U.S. Army and Elizabeth’s father, Eugene Coke Routh, who served as the editor of the
+               <title type="simple" render="italic">Baptist Messenger</title> from 1928-1943 and the
+            editor of the <title type="simple" render="italic">Commission </title>(published by the
+            Foreign Mission Board of the Southern Baptist Convention) from 1943-1948 and published a
+            number of books on religious subjects. </p>
+         <p>In addition to these, relatives who are frequently mentioned in the Pool Family Papers
+            include J.C.'s and Elizabeth's children and grandchildren: daughter, Frances Elizabeth
+            Pool Haaren (also known as Frances Blinn, married Robert (Bob) H. Blinn, married John
+            Haaren) and her children, Robert (Bobby), married Mary Beth; Keith, married Laura;
+            Katherine, married Russ Allison; and Eugene (Gene), married Ruth. Another daughter of
+            J.C. and Elizabeth was Carolyn Pool (also known as Carolyn Pool Bullington, married
+            Richard Lunson Bullington, Jr.); her children were Richard, Jr., Margaret, Susan,
+            Brenda, and Lillie. The Pools' youngest child, James (Jim) Christopher Pool, Jr.,
+            married Mary and had a son, James (Jimmy). The Pools also corresponded frequently with
+            their two adopted children, Gordon Buraimo (who married Mary and had several children)
+            and Claribel Olubunmi Alanke (who married Jonathan Ojeleye and had two children, Funlayo
+            and Molara). Other relatives frequently mentioned in the Papers include J.C. Pool's
+            mother, Mrs. U.H. (Etta) Pool; his siblings and in-laws, Albert and Josephine Pool; his
+            aunt, Fannie Pool Lancaster; J.C. Pool's cousin, Wade Hill Pool; Elizabeth Pool's
+            parents, E.C. and Alice Routh; her siblings and in-laws, including W.W. (Walter Wendell)
+            and Leila K. Arnett, Clinton and Lucile Burnett, Copass and Loretta Routh, Porter and
+            Ruth Routh, and Ross and Fay Routh; and her aunts and uncle, Katie Wrol House and B.B.
+            and Leila Routh McKinney. </p>
+         <p>Friends and colleagues frequently mentioned in the Papers include Ruby Cooper, W.A.
+            Criswell, Jessie Ford, Cornell Goerner, Osadolor (Osad) and Yewande Imasogie, Burton and
+            Margaret (Margie) Lindan, Charles Maddry, Kathleen Manley (Man), Charles Martin, Hugh
+            and Vera Peterson, Lucille Reagan, Josephine (Jo) Scaggs, William R. Tolbert, Jr., and
+            Carl and Enid Whirley.</p>
+      </bioghist>
+      <scopecontent id="aspace_7555eeb07400c9416f45232590fbfecc">
+         <head>Collection Overview</head>
+         <p>The collection is divided into 8 series, each listed below with detailed descriptions.
+            The largest series in the collection is the <emph render="bold">Correspondence
+               Series</emph>, which consists of letters sent to and by the Pool family and their
+            relatives, friends, and colleagues. It ranges from 1928-1998 with some undated
+            materials, and with a gap in coverage from 1963-1968. Notable events and correspondence
+            are described in the Collection Contents, roughly divided by decade.</p>
+         <p>The <emph render="bold">Photographs and Artwork Series</emph> includes both professional
+            photographs from the Division of Visual Education at the Foreign Missions Board of the
+            Southern Baptist Convention, along with personal portraits and snapshots taken by the
+            Pools of both family and Nigerian scenes. The artwork present in this series consists of
+            a set of watercolor prints with scenes of Liberia, created by Swedish artist Roland
+            Svensson and published in 1969.</p>
+         <p>
+            <emph render="bold">Family Writings</emph> includes J.C. Pool's autobiographies; J.C.
+            Pool's sermon notes and writings, including his doctoral dissertation, addresses,
+            historical essays, and many undated sermons; Elizabeth Pool's writings, including a
+            draft of her book, autobiographical notes, and various poems, articles, and essays; E.C.
+            Routh's writings; and other works collected by the Pools.</p>
+         <p>
+            <emph render="bold">J.C. Pool's Teaching Materials</emph> include syllabi, student
+            papers, and other materials, largely related to his career as a teacher at the Nigerian
+            Baptist Theological Seminary. A related series is the <emph render="bold">Missionary
+               Materials Series</emph>, which also includes NBTS administrative and management
+            documents, such as meeting minutes, founding documents, as well as materials from
+            related organizations such as the Southern Baptist Convention's Foreign Missions
+            Board.</p>
+         <p>The <emph render="bold">Family Papers Series</emph> includes the family's legal
+            documents, financial accounts, a small amount of genealogy and family history materials,
+            and a significant amount of memorial materials from the death of J.C. Pool in 1978.
+            Family travel documents have been removed to the <emph render="bold">Travel
+               Series</emph>, which also includes tickets, postcards, immigration materials, and
+            other memorabilia from the many trips taken by the Pools. </p>
+         <p>Finally, the <emph render="bold">Printed Materials Series</emph> includes clippings,
+            pamphlets and programs, magazines saved by the Pools, and reports about the Nigerian
+            government and politics.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">Nigeria -- History -- 20th century</geogname>
+         <geogname source="lcsh">Nigeria -- History -- Civil War, 1967-1970</geogname>
+         <subject source="lcsh">Yoruba (African people) -- Nigeria -- History</subject>
+         <subject source="lcsh">Baptists -- Missions -- Nigeria</subject>
+         <subject source="lcsh">Missions -- Nigeria -- History</subject>
+         <subject source="lcsh">Baptists -- Missions -- Liberia</subject>
+         <subject source="lcsh">Missions -- Africa</subject>
+         <subject source="lcsh">Married people in missionary work -- Africa</subject>
+         <subject source="lcsh">Children of missionaries -- Africa</subject>
+         <famname rules="local" source="ingest">Pool family</famname>
+         <corpname source="ingest">Nigerian Baptist Theological Seminary, Ogbomoso</corpname>
+         <persname source="ingest">Pool, Carolyn</persname>
+         <famname rules="local" source="ingest">Pool family</famname>
+         <persname source="ingest">Pool, Frances Elizabeth</persname>
+         <persname source="ingest">Pool, Elizabeth Routh</persname>
+         <persname source="ingest">Pool, James (Jim)</persname>
+         <persname source="ingest">Pool, J.C. (James Christopher)</persname>
+         <persname source="ingest">Routh, Ross</persname>
+         <persname source="ingest">Routh, E.C. (Eugene Coke)</persname>
+         <corpname source="ingest">Southern Baptist Convention</corpname>
+         <corpname source="ingest">Southern Baptist Convention. Foreign Mission Board</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_8ui" level="series">
+            <did>
+               <unittitle>Correspondence, 1928-1998</unittitle>
+               <physdesc id="aspace_1605d90dabf458099f9a690189b3d47c">
+                  <extent>15 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_63e4c786adc5d016259bbc4a59523fec">
+               <head>Scope and Contents note</head>
+               <p>The Correspondence series consists of letters sent to and by the Pool family and
+                  their relatives, friends, and colleagues. It ranges from 1928-1998 with some
+                  undated materials, and with a gap in coverage from 1963-1968. Notable events and
+                  correspondence are detailed below, roughly divided by decade.</p>
+               <p>Correspondence from 1928 through the 1930s includes a number of letters between
+                  J.C. Pool and W.A. Criswell, as well as many between J.C. and Etta H. Pool and
+                  between Elizabeth and E.C. and Alice Routh. In 1934 both J.C. and Elizabeth
+                  corresponded regularly with Charles Maddry and his secretary Jessie Ford regarding
+                  their applications to the Foreign Mission Board of the Southern Baptist Convention
+                  and their plans for travel to and service in Nigeria. The letters document their
+                  trip to Nigeria in September 1934, and their experience as missionaries, including
+                  such events as Elizabeth’s adoption of Gordon on October 27, 1934; J.C.’s breaking
+                  his engagement to Faye Winfree in early September, 1935; J.C. and Elizabeth’s
+                  courtship and engagement that same month, and their marriage on December 26, 1935;
+                  Frances’ birth on Jan. 17, 1937; the death of Lucille and another missionary,
+                  Frances Jones, from yellow fever in the summer of 1937; and the Pools’ first
+                  furlough in the United States from November 1937-October 1938. The seminary was
+                  moved to Oyo in 1937 upon the Pools’ departure, then moved back to Ogbomosho upon
+                  the Pool’s return. On June 27, 1938, E.C. Routh received a personal letter from J.
+                  Edgar Hoover regarding an article published in the <title type="simple"
+                     render="italic">Baptist Messenger</title>, of which E.C. was the editor.
+                  Letters from the fall of 1939 and onward discuss WWII and the implications for
+                  Americans serving overseas, in both Nigeria and China.</p>
+               <p>Correspondence in the 1940s covers Carolyn’s birth on Jan. 24, 1940; the Pools’
+                  furlough in the U.S. from 1941-1943 (the Japanese attack on Pearl Harbor occurred
+                  the day the Pools arrived in America and the American entrance into WWII delayed
+                  their return by a year); J.C.’s return to Africa in 1943 while Elizabeth and the
+                  girls stayed in Oklahoma (the Pools wrote frequently to each other while
+                  separated); Elizabeth, Frances, and Carolyn’s return to Nigeria in 1944; the
+                  publication of <title type="simple" render="italic">The Hill Called Moon</title>
+                  the same year; Jim’s birth on July 29, 1945; the Pools’ 1947-1948 furlough in the
+                  U.S.; and Elizabeth’s hospitalization and back surgery in Creek Hospital, Lagos,
+                  in 1949, as the African nurses’ and hospital workers’ strike took place. Letters
+                  from 1941 concern American missionaries in eastern and southern China in light of
+                  the withdrawal of U.S. Marines and letters from the late 1940s discuss the
+                  negotiations by which the Southern Baptist Convention and the Southern Baptist
+                  Theological Seminary would eventually become affiliated with the Nigerian Baptist
+                  Theological Seminary (NBTS) for degree-granting purposes.</p>
+               <p>Correspondence from the 1950s covers a number of significant events for the Pool
+                  family. A great deal of correspondence from 1950-1951 concerns Copass Routh’s
+                  debts and his family’s efforts to make good on them. The Pools went on furlough in
+                  America from 1950-1951, at the end of which Frances stayed in America with
+                  relatives; after graduating high school in 1953, she enrolled at Baylor, having
+                  been granted a scholarship from the Women’s Missionary Union. Claribel Pool
+                  married Jonathan Ojeleye December 24, 1953, which caused some controversy due to
+                  Claribel and Jonathan’s desire to include Yoruba customs that J.C. and Elizabeth
+                  found inappropriate for a Christian ceremony; the two had a child, Funlayo
+                  Ojeleye, in Sept. 1954. Elizabeth published a biography of Lucille Reagan in 1954
+                  and <title type="simple" render="italic">The Bead-Maker’s Son</title> in 1957. The
+                  Pools again went on furlough in the U.S. from 1954-1955, at the end of which
+                  Carolyn stayed in America with relatives. Frances married Robert (Bob) H. Blinn in
+                  June 1955; they had Robert (Bobby) in March 1956. Carolyn moved in with Bob and
+                  Frances until her graduation from high school in 1958. During that period, Bob,
+                  who was in the Air Force, was deployed to Korea in 1957, and the couple had a
+                  second son, Keith, in March 1958. Alice Routh died Oct. 24, 1957; the collection
+                  includes a number of condolence letters around this time. Family friend and
+                  colleague Osad Imasogie married Yewande Akinwumi April 22, 1958 in Nigeria. When
+                  the Pools returned to the U.S. on furlough from 1958-1959, they held posts at
+                  Southern Baptist Theological Seminary. Carolyn completed her first year of college
+                  at the University of Louisville in order to be close to her parents while they
+                  served at SBTS, then transferred to Baylor when the Pools returned to Nigeria.</p>
+               <p>Correspondence from the 1960s includes letters discussing the establishment of an
+                  Foreign Missions Board-funded “M.K” (missionary kids) home in Kentucky with
+                  missionaries Neville and Emma Claxon, which opened in Sept. 1960; Jim, who had
+                  traveled alone to the U.S. in July, would move into the home when it opened.
+                  Claribel and Jonathan had another child, Molara, that same fall, and Katherine
+                  Blinn was born to Frances and Bob in June 1961. Gordon married Mary in Dec. 1964.
+                  E.C. Routh died in May 1966. Letters from this period also discuss Nigerian
+                  independence, the political situation in Africa generally, and Africanization.
+                  There is a gap between Aug. 15, 1963 and Nov. 28, 1968, and coverage is generally
+                  sparse from Dec. 1961-April 1970.</p>
+               <p>Correspondence from the 1970s covers a wide range of events. The Pools went on
+                  furlough in the U.S. from 1970-1971, leaving Nigeria for good; Carl Whirley was
+                  inaugurated as principal of the NBTS in J.C.’s stead. Jim married Mary in 1970.
+                  The Pools returned to Africa in 1971, this time to Mount Nimba Baptist Church in
+                  Yekepa, Liberia, where J.C. was the pastor and Elizabeth was the bookkeeper and
+                  kept records. Frances had an operation in 1971. Carolyn married Richard
+                  Bullington, Jr. Dec. 3, 1971. J.C. Pool was injured in a serious fall early in
+                  1972, prompting hospitalization and a number of letters of sympathy before they
+                  finally made the decision to retire in Texas that summer. Jim and Mary had James
+                  (Jimmy) in June 1972, and Richard and Carolyn had Richard II in Sept. of the same
+                  year. In 1972, Elizabeth was awarded the Distinguished Alumnus Award from the San
+                  Marcos Baptist Academy. Bob and Jim were deployed to Thailand in the early 1970s
+                  by the Air Force; their service in the Vietnam War had a deleterious effect on
+                  their marriages and both Bob and Frances and Jim and Mary began divorce
+                  proceedings in 1973. Frances married John Haaren and Jim married a woman named
+                  Judy (they would divorce in 1976) and relocated to Hawaii. Bobby Blinn left the
+                  Air Force Academy to enter the ministry and married Mary Beth Turkington in the
+                  summer of 1977. Carolyn adopted ten-year-old Susan in 1977. In January of 1978,
+                  J.C. Pool died. That August, Gordon and his five sons were killed in a car crash
+                  in Africa. Porter Routh retired from the Executive Committee of the Southern
+                  Baptist Convention in 1979. That same year, Elizabeth traveled to Nigeria to
+                  witness the inauguration of longtime friend Osad Imasogie as the principal of
+                  NBTS. In addition to these family events, this period includes correspondence
+                  (personal letters and formal invitations) between the Pools and the Liberian
+                  president, William R. Tolbert, Jr., as well as a discussion of the Udogi policies
+                  in Nigeria and efforts to get SBTS to re-certify NBTS degrees after the Nigerian
+                  government declared they would no longer enable their recipients to teach.</p>
+               <p>Correspondence from the 1980s covers Elizabeth’s 1981 application to the Daughters
+                  of the American Revolution, notes from and correspondence regarding Ross Routh’s
+                  family genealogy book project in 1982, and Keith Blinn’s marriage to Laura.
+                  Several of Elizabeth’s relatives died during this period: Clinton Burnett in Oct.
+                  1985, Copass Routh in Feb. 1987, Ross Routh in July 1987, and Porter Routh in Nov.
+                  1987.</p>
+               <p>Correspondence from the 1990s covers Elizabeth’s selection as the University of
+                  Mary Hardin-Baylor’s Outstanding Alumna of the Year, Katherine’s marriage to Russ
+                  Allison, Gene and his family’s move to Germany, E.C. Routh’s induction into the
+                  Oklahoma Baptist Hall of Fame in Nov. 1994, and Carolyn’s participation in an “MK”
+                  (Missionary Kids) listserv in 1996, a number of printed emails from which are
+                  included in the collection and touch on a number of past and contemporary African
+                  issues, including the execution of Ken Saro-Wiwa.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_fkb" level="file">
+               <did>
+                  <unittitle>Correspondence, 1928 July-1930 Aug.</unittitle>
+                  <container id="aspace_81b89edd5a11f28958f377f08e34b21f" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_48a738c8ae627beddb34940d2acc4712"
+                     parent="aspace_81b89edd5a11f28958f377f08e34b21f" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_cs7" level="file">
+               <did>
+                  <unittitle>Correspondence, 1930 Sept.-1930 Dec.</unittitle>
+                  <container id="aspace_d06ff028231cf37c0efde80972b739fb" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_2a49933565dfc4b2970de890d1c2c388"
+                     parent="aspace_d06ff028231cf37c0efde80972b739fb" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_mrc" level="file">
+               <did>
+                  <unittitle>Correspondence, 1931 Jan.-1931 Apr.</unittitle>
+                  <container id="aspace_3709ae6bbe1c19ee4e030efe79e81d97" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_da0b4c926fa4ade351a83c5d488e2fb5"
+                     parent="aspace_3709ae6bbe1c19ee4e030efe79e81d97" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_n5n" level="file">
+               <did>
+                  <unittitle>Correspondence, 1931 May-1932 Mar.</unittitle>
+                  <container id="aspace_a427e7cd6c9c8b930f156f8a0aac08b9" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_d8a0a93abf836d73ba6fdc6e5fabfcb6"
+                     parent="aspace_a427e7cd6c9c8b930f156f8a0aac08b9" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_j5o" level="file">
+               <did>
+                  <unittitle>Correspondence, 1932 May-1933 Nov.</unittitle>
+                  <container id="aspace_efcee5d2da9f901b049e4daa9a1a97cb" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_8aeb26dce5411a14ce2fe6ec72df1b20"
+                     parent="aspace_efcee5d2da9f901b049e4daa9a1a97cb" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_a5u" level="file">
+               <did>
+                  <unittitle>Correspondence, 1934 Jan.-1934 May</unittitle>
+                  <container id="aspace_6b362e0770251ee4f282dbba88e2f1e4" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_8213c6170fed28e373835ff135325ae0"
+                     parent="aspace_6b362e0770251ee4f282dbba88e2f1e4" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_ofq" level="file">
+               <did>
+                  <unittitle>Correspondence, 1934 June-1934 Sept.</unittitle>
+                  <container id="aspace_e26407fa3d470587c5842b2f90cc3efa" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_41e8094e0cf2efe237539f07f3856d9a"
+                     parent="aspace_e26407fa3d470587c5842b2f90cc3efa" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_kki" level="file">
+               <did>
+                  <unittitle>Correspondence, 1934 Oct.-1934 Nov.</unittitle>
+                  <container id="aspace_366f74c1630c47f78ab5e7f665ffdacb" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_42f00b335c64a16f9c3b3cc03e63886e"
+                     parent="aspace_366f74c1630c47f78ab5e7f665ffdacb" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_a0u" level="file">
+               <did>
+                  <unittitle>Correspondence, 1934 Dec.-1935 Jan.</unittitle>
+                  <container id="aspace_63a6877fb2dfbfe834cdbab445c556a1" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_3b0ab289c06ff9b1c6df0e67113b1979"
+                     parent="aspace_63a6877fb2dfbfe834cdbab445c556a1" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_9y9" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 Feb.-1935 Apr.</unittitle>
+                  <container id="aspace_ff91db6ddd02475d86ddf1a39871ce15" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_55677be21738b8c4439a4ce9279b3076"
+                     parent="aspace_ff91db6ddd02475d86ddf1a39871ce15" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_chq" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 May-1935 June</unittitle>
+                  <container id="aspace_27b71d981c2ca53b6c6f9647021858de" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_eb12d87490710fddaf82ba5caede4e46"
+                     parent="aspace_27b71d981c2ca53b6c6f9647021858de" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_ui1" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 July-1935 Aug.</unittitle>
+                  <container id="aspace_9594f1f5ec86d3b97c17d4fc42557fd5" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_ad35561f6e688788acbb6fffe4425540"
+                     parent="aspace_9594f1f5ec86d3b97c17d4fc42557fd5" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_c01" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 Aug.-1935 Oct.</unittitle>
+                  <container id="aspace_15c291bc5acc5ba8c62f62be3c02c6e0" label="Mixed Materials"
+                     type="box">2</container>
+                  <container id="aspace_2d34203a1dd7b7081a9a53ba1c44034d"
+                     parent="aspace_15c291bc5acc5ba8c62f62be3c02c6e0" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_lax" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 Oct.-1935 Nov.</unittitle>
+                  <container id="aspace_3401153ff432e5e507a9d43868508982" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_31dd9e0fb300eadebfa13e62eb27963d"
+                     parent="aspace_3401153ff432e5e507a9d43868508982" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_ev8" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 Nov.-1935 Dec.</unittitle>
+                  <container id="aspace_1881777b059db7f0a30a277f80b916e3" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_2e029fea769672b69119dbd762640444"
+                     parent="aspace_1881777b059db7f0a30a277f80b916e3" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_lxu" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 Dec.</unittitle>
+                  <container id="aspace_fec8bc0bc0f641baa3e3c303e8abfa63" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_6ca787c74d86c22297d84f92d1f85a26"
+                     parent="aspace_fec8bc0bc0f641baa3e3c303e8abfa63" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_dzg" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 undated</unittitle>
+                  <container id="aspace_f9d7b1189083ac5956ec28e06d1c84e7" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_04479424b2e74aed57071339b768e243"
+                     parent="aspace_f9d7b1189083ac5956ec28e06d1c84e7" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_78y" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 Jan.-1936 Feb.</unittitle>
+                  <container id="aspace_b1cb6720a0f4bcc2e089d71b2fb1443b" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_f53d4cf0b1a116511d7a30e54e5dda0a"
+                     parent="aspace_b1cb6720a0f4bcc2e089d71b2fb1443b" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_0hm" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 Mar.-1936 Apr.</unittitle>
+                  <container id="aspace_19f248bd5204cdc92989c163276c1640" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_40ddc6b4d4c6256c0dc4998da07eec0e"
+                     parent="aspace_19f248bd5204cdc92989c163276c1640" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_bge" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 May-1936 July</unittitle>
+                  <container id="aspace_190fbc2806f984ac90822dcf8a50d6a4" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_6d8ad186ce25f4150044dc463dec2219"
+                     parent="aspace_190fbc2806f984ac90822dcf8a50d6a4" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_nux" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 July</unittitle>
+                  <container id="aspace_764f6ab02354f932ff66964cbadf818e" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_5f4547ce7b18cdbb0b5dd237ce8b6c57"
+                     parent="aspace_764f6ab02354f932ff66964cbadf818e" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_cfn" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 Aug.-1936 Oct.</unittitle>
+                  <container id="aspace_0b791b2660f02d8ce1fcb4c5bf7f2a55" label="Mixed Materials"
+                     type="box">3</container>
+                  <container id="aspace_4e3012fc7b9d097cbe6d76f376a8d923"
+                     parent="aspace_0b791b2660f02d8ce1fcb4c5bf7f2a55" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_6qs" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 Nov.-1936 Dec.</unittitle>
+                  <container id="aspace_d1c2c702d9f3938b7657452f340a6311" label="Mixed Materials"
+                     type="box">4</container>
+                  <container id="aspace_8095d0b052a60260a57556b525c1f7c4"
+                     parent="aspace_d1c2c702d9f3938b7657452f340a6311" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_aov" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 Dec.</unittitle>
+                  <container id="aspace_155e4560849e4f80cb29ec770d88411f" label="Mixed Materials"
+                     type="box">4</container>
+                  <container id="aspace_dbb264706f93f5240858d8922749ce7e"
+                     parent="aspace_155e4560849e4f80cb29ec770d88411f" type="folder">2-3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_qtu" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 undated</unittitle>
+                  <container id="aspace_f844187ae7ccfb9d9118635106b4411d" label="Mixed Materials"
+                     type="box">4</container>
+                  <container id="aspace_a5149dbef88fcc97d22277683188fec0"
+                     parent="aspace_f844187ae7ccfb9d9118635106b4411d" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_dab" level="file">
+               <did>
+                  <unittitle>Correspondence, 1937 Jan.</unittitle>
+                  <container id="aspace_4a90a0cf320ae1753e5461054dcbd5f6" label="Mixed Materials"
+                     type="box">4</container>
+                  <container id="aspace_2b7557a7442f65ad0ba05dbb061d259b"
+                     parent="aspace_4a90a0cf320ae1753e5461054dcbd5f6" type="folder">5-7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_wz0" level="file">
+               <did>
+                  <unittitle>Correspondence, 1937 Feb.-1937 Apr.</unittitle>
+                  <container id="aspace_f4f039014476167b986afc2d5a72e228" label="Mixed Materials"
+                     type="box">4</container>
+                  <container id="aspace_0067e28e6479a18c9d4a1ff8d9a1ca2c"
+                     parent="aspace_f4f039014476167b986afc2d5a72e228" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_r52" level="file">
+               <did>
+                  <unittitle>Correspondence, 1937 May-1937 July</unittitle>
+                  <container id="aspace_23f255c3f23fb534f5445e2d7b2867f4" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_6e4e68ceb8b1b48940dc89b25253b78b"
+                     parent="aspace_23f255c3f23fb534f5445e2d7b2867f4" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_723" level="file">
+               <did>
+                  <unittitle>Correspondence, 1937 July-1937 Dec.</unittitle>
+                  <container id="aspace_83dd449fb5fc7ae551a49433a28b0516" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_627a2c373f548636c201104a3618fb60"
+                     parent="aspace_83dd449fb5fc7ae551a49433a28b0516" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_evw" level="file">
+               <did>
+                  <unittitle>Correspondence, 1938 Mar.-1938 Oct.</unittitle>
+                  <container id="aspace_16de1744e33f651b53e21d5cab0c5e1b" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_ba2ae466cfe217c07761407ee557e6cd"
+                     parent="aspace_16de1744e33f651b53e21d5cab0c5e1b" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_u14" level="file">
+               <did>
+                  <unittitle>Correspondence, 1938 Oct.-1938 Dec.</unittitle>
+                  <container id="aspace_fca7348ae9d5337c1b223fcb3011bc35" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_2906e32942447e5688d5af85c5677ff3"
+                     parent="aspace_fca7348ae9d5337c1b223fcb3011bc35" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_yet" level="file">
+               <did>
+                  <unittitle>Correspondence, 1938, undated</unittitle>
+                  <container id="aspace_7aa373d86a4b0846fa09453267fc1ded" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_7a9eb0f6350bd692996b89febfc0090d"
+                     parent="aspace_7aa373d86a4b0846fa09453267fc1ded" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_t60" level="file">
+               <did>
+                  <unittitle>Correspondence, 1930s, undated</unittitle>
+                  <container id="aspace_7572bf83f85c6a0085153c846dcab131" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_7d171f28f3abdffc9d05a9931553829e"
+                     parent="aspace_7572bf83f85c6a0085153c846dcab131" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_jcq" level="file">
+               <did>
+                  <unittitle>Correspondence, 1939 Jan.-1939 Mar.</unittitle>
+                  <container id="aspace_2d578807641b96e0c0ccfeedc974ea4e" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_22d8d15f50b08fc8a90798ed2bdd224f"
+                     parent="aspace_2d578807641b96e0c0ccfeedc974ea4e" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_fpd" level="file">
+               <did>
+                  <unittitle>Correspondence, 1939 Mar.-1939 Aug.</unittitle>
+                  <container id="aspace_b2d1bcd1ab33c396ceb6056d6c821cc3" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_b303f28389b2e98f0b66a5f72c8ce196"
+                     parent="aspace_b2d1bcd1ab33c396ceb6056d6c821cc3" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_e0f" level="file">
+               <did>
+                  <unittitle>Correspondence, 1939 Sept.-1939 Dec.</unittitle>
+                  <container id="aspace_c3c8beec11b521a73cf44d60d8f5804e" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_2f8efe3263d2726580b9987ed9aa9654"
+                     parent="aspace_c3c8beec11b521a73cf44d60d8f5804e" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_a43" level="file">
+               <did>
+                  <unittitle>Correspondence, 1939, undated</unittitle>
+                  <container id="aspace_18fe549833ba2aeacc46bd97fcc56066" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_1544bf72ad0ef87a16229a3115fabb27"
+                     parent="aspace_18fe549833ba2aeacc46bd97fcc56066" type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_6ed" level="file">
+               <did>
+                  <unittitle>Correspondence, 1940 Jan.-1941 Jan.</unittitle>
+                  <container id="aspace_6422103c8d492bd0cb1389f335d4280d" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_284469e6bbfada6720eed5d4b15beb6e"
+                     parent="aspace_6422103c8d492bd0cb1389f335d4280d" type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_xi5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1941 Mar.-1942 Dec.</unittitle>
+                  <container id="aspace_6cf46a648e8dde9f01c7324f93d54aa1" label="Mixed Materials"
+                     type="box">5</container>
+                  <container id="aspace_2f42d1289190d87754fa355cb384faae"
+                     parent="aspace_6cf46a648e8dde9f01c7324f93d54aa1" type="folder">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_y0e" level="file">
+               <did>
+                  <unittitle>Correspondence, 1943 Feb.-1943 Oct.</unittitle>
+                  <container id="aspace_c94ac63c58226a4c999d5ffd017dc157" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_58a35bf1be9202c837347d4d82e8b860"
+                     parent="aspace_c94ac63c58226a4c999d5ffd017dc157" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_py2" level="file">
+               <did>
+                  <unittitle>Correspondence, 1943 Oct.-1943 Dec.</unittitle>
+                  <container id="aspace_ba7cd45c4d8ac944e0ff3466db76f6b4" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_14af47a7e86f3b8ddd97901e63fe5d7a"
+                     parent="aspace_ba7cd45c4d8ac944e0ff3466db76f6b4" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_vnz" level="file">
+               <did>
+                  <unittitle>Correspondence, 1944 Jan.-1944 July</unittitle>
+                  <container id="aspace_40cedd8e4a497fca40d99605cf9bb657" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_d941ec559bf56ff0059cfddc69889ffc"
+                     parent="aspace_40cedd8e4a497fca40d99605cf9bb657" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_yip" level="file">
+               <did>
+                  <unittitle>Correspondence, 1944 July-1944 Dec.</unittitle>
+                  <container id="aspace_ba8f76a063cd68ec7c916c8ef54e6f92" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_4ec717c7d34efb58fdd984cf4a470bfe"
+                     parent="aspace_ba8f76a063cd68ec7c916c8ef54e6f92" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_hn3" level="file">
+               <did>
+                  <unittitle>Correspondence, 1940s, undated</unittitle>
+                  <container id="aspace_e2844a9a40fcd2eab2a7ad868a4ab75f" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_25daf65a607d336e011320232d9c1c75"
+                     parent="aspace_e2844a9a40fcd2eab2a7ad868a4ab75f" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_hij" level="file">
+               <did>
+                  <unittitle>Correspondence, 1945 Jan.-1947 June</unittitle>
+                  <container id="aspace_389bda04810dd832e6593ab2f83bee0e" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_44a2d62966c8293997ac4d22c989f26b"
+                     parent="aspace_389bda04810dd832e6593ab2f83bee0e" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_ze5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1947 Sept.-1948 Sept.</unittitle>
+                  <container id="aspace_f33b8b2e066be360c4dae8d22516cb35" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_bb91f68b2a3384acaaedb29f409fab7d"
+                     parent="aspace_f33b8b2e066be360c4dae8d22516cb35" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_266" level="file">
+               <did>
+                  <unittitle>Correspondence, 1948 Oct.-1949 May</unittitle>
+                  <container id="aspace_c5a612207df04730cbad1b266562b2bb" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_4086168467fd1bae5a654dbf60a882c5"
+                     parent="aspace_c5a612207df04730cbad1b266562b2bb" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_y1a" level="file">
+               <did>
+                  <unittitle>Correspondence, 1949 May-1949 Dec.</unittitle>
+                  <container id="aspace_eff053c28e05ece03bcf155c902f021b" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_9f697d64cc9630be100f524cb93862c5"
+                     parent="aspace_eff053c28e05ece03bcf155c902f021b" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_h2l" level="file">
+               <did>
+                  <unittitle>Correspondence, 1950 Jan.-1950 Dec.</unittitle>
+                  <container id="aspace_07a3bad7039f9e153b6f8ef10e715535" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_1540d5e29a908ab137a51ba66bc3e72c"
+                     parent="aspace_07a3bad7039f9e153b6f8ef10e715535" type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_o1s" level="file">
+               <did>
+                  <unittitle>Correspondence, early 1950s, undated</unittitle>
+                  <container id="aspace_ef14572b276a3f36a02c81d76b993583" label="Mixed Materials"
+                     type="box">6</container>
+                  <container id="aspace_3822513e75f3148a52432c11e43600f6"
+                     parent="aspace_ef14572b276a3f36a02c81d76b993583" type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_wsw" level="file">
+               <did>
+                  <unittitle>Correspondence, 1951 Jan.-1951 May</unittitle>
+                  <container id="aspace_13012585a2333cf9370cd23fc5ea31df" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_930db8f07f9ba2bb57023bf8916f5e2b"
+                     parent="aspace_13012585a2333cf9370cd23fc5ea31df" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_7mo" level="file">
+               <did>
+                  <unittitle>Correspondence, 1951 May-1952 Jan.</unittitle>
+                  <container id="aspace_43a495eef5885aefd382feab3d41555b" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_e8d92a2ef87c94303fa3cf2fc79b2291"
+                     parent="aspace_43a495eef5885aefd382feab3d41555b" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_e81" level="file">
+               <did>
+                  <unittitle>Correspondence, 1952 Feb.-1952 Aug.</unittitle>
+                  <container id="aspace_a0f62c2ec856d232bf2a2484d24fbc25" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_fe1d2788d19b401ca2bce8e78fed9e41"
+                     parent="aspace_a0f62c2ec856d232bf2a2484d24fbc25" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_avc" level="file">
+               <did>
+                  <unittitle>Correspondence, 1952 Sept.-1953 July</unittitle>
+                  <container id="aspace_e8571d3a33026ed5bfa896478b34c2e5" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_190de1198616f0be824611d81b1c0947"
+                     parent="aspace_e8571d3a33026ed5bfa896478b34c2e5" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_5op" level="file">
+               <did>
+                  <unittitle>Correspondence, 1953 Aug.-1953 Dec.</unittitle>
+                  <container id="aspace_d57804daf87a4582b22e6b393c966e06" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_c8ea3d3f022c32a5eb35cf26733250c1"
+                     parent="aspace_d57804daf87a4582b22e6b393c966e06" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_k0t" level="file">
+               <did>
+                  <unittitle>Correspondence, 1954 Jan.-1954 Dec.</unittitle>
+                  <container id="aspace_86d69a37dcd23f4f38752f26610698f0" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_9c049f4b311e9683842e8a93222022a8"
+                     parent="aspace_86d69a37dcd23f4f38752f26610698f0" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_z9y" level="file">
+               <did>
+                  <unittitle>Correspondence, 1955 Jan.-1955 Sept.</unittitle>
+                  <container id="aspace_0a346a59666c53be1e4963f77f615b0b" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_6c7e864031c1a69d0548efa7c9b1b93a"
+                     parent="aspace_0a346a59666c53be1e4963f77f615b0b" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_yw6" level="file">
+               <did>
+                  <unittitle>Correspondence, 1955 Sept.-1956 Feb.</unittitle>
+                  <container id="aspace_5b63656f64f5ea69924879bc19280545" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_58ed5ba3e2e17bb9107bc46e8ebaeddb"
+                     parent="aspace_5b63656f64f5ea69924879bc19280545" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_z7z" level="file">
+               <did>
+                  <unittitle>Correspondence, 1956 Mar.-1956 Oct.</unittitle>
+                  <container id="aspace_9d1e292fd86b2fb26ac6fde5e1af37c0" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_8270493c720cfb674f242815e5c9f185"
+                     parent="aspace_9d1e292fd86b2fb26ac6fde5e1af37c0" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_lq7" level="file">
+               <did>
+                  <unittitle>Correspondence, 1956 Nov.-1957 Aug.</unittitle>
+                  <container id="aspace_e64c28bd15dcd9dde706d32715895093" label="Mixed Materials"
+                     type="box">7</container>
+                  <container id="aspace_53bf9d2686448e0f65600e71ab0eed98"
+                     parent="aspace_e64c28bd15dcd9dde706d32715895093" type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_gq2" level="file">
+               <did>
+                  <unittitle>Correspondence, 1957 Aug.-1957 Nov.</unittitle>
+                  <container id="aspace_de2a8b7ec9c16056048348a55ef24715" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_3d560036947e70ca8ffcc5bd0cd43e18"
+                     parent="aspace_de2a8b7ec9c16056048348a55ef24715" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_gfn" level="file">
+               <did>
+                  <unittitle>Correspondence, 1957 Dec.-1958 Feb.</unittitle>
+                  <container id="aspace_1a0d1a02ca4753cc78aba2646d9bf08a" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_577756f6750b7c24646156fe243fd4dc"
+                     parent="aspace_1a0d1a02ca4753cc78aba2646d9bf08a" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_fs4" level="file">
+               <did>
+                  <unittitle>Correspondence, 1958 Mar.-1958 June</unittitle>
+                  <container id="aspace_4f44bb32ba4b2fad6c261c67334d5616" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_693587dfc336e5fc51c7a19381e37a98"
+                     parent="aspace_4f44bb32ba4b2fad6c261c67334d5616" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_xg2" level="file">
+               <did>
+                  <unittitle>Correspondence, 1958 June-1959 Aug.</unittitle>
+                  <container id="aspace_2d983e2b4264a1277c9b6f5f81092542" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_29bae07696f7dcbb2eaca6247d0cc220"
+                     parent="aspace_2d983e2b4264a1277c9b6f5f81092542" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_ngh" level="file">
+               <did>
+                  <unittitle>Correspondence, 1959 Aug.-1959 Dec.</unittitle>
+                  <container id="aspace_4f7ab796f183f7c1e7eed3984565accd" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_ab0ab126fcfe752a3eb2e10448b4e475"
+                     parent="aspace_4f7ab796f183f7c1e7eed3984565accd" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_4qi" level="file">
+               <did>
+                  <unittitle>Correspondence, mid-1950s, undated</unittitle>
+                  <container id="aspace_bf0079f8c62c20432dff76f830b9a678" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_a4974f7e0318662f34ebc170131b4c84"
+                     parent="aspace_bf0079f8c62c20432dff76f830b9a678" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_tku" level="file">
+               <did>
+                  <unittitle>Correspondence, late 1950s, undated</unittitle>
+                  <container id="aspace_eccebbdec3f17d987e7b78cd02738839" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_026c35464afc9fc274c34b37c8d7a655"
+                     parent="aspace_eccebbdec3f17d987e7b78cd02738839" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_ehr" level="file">
+               <did>
+                  <unittitle>Correspondence, 1960 Jan.-1960 May</unittitle>
+                  <container id="aspace_a5893908d4c7c99f0a48489d4603b98e" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_e440fca607d17c9e6aeedf75ccdfe0d5"
+                     parent="aspace_a5893908d4c7c99f0a48489d4603b98e" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_vl3" level="file">
+               <did>
+                  <unittitle>Correspondence, 1960 June-1960 July</unittitle>
+                  <container id="aspace_f6ace0aaea678ff69fc1782fe14c8586" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_770722d5730f87e580320660c70a15f4"
+                     parent="aspace_f6ace0aaea678ff69fc1782fe14c8586" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_axr" level="file">
+               <did>
+                  <unittitle>Correspondence, 1960 Aug.-1960 Dec.</unittitle>
+                  <container id="aspace_ac7e25b4815acbe893fd5c753464bcfa" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_834c082830aaad64715a2e5e468d8855"
+                     parent="aspace_ac7e25b4815acbe893fd5c753464bcfa" type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_i9k" level="file">
+               <did>
+                  <unittitle>Correspondence, 1961 Jan.-1963 Aug.</unittitle>
+                  <container id="aspace_d10e81c621eaf818c8ef7fa1398a2bf8" label="Mixed Materials"
+                     type="box">8</container>
+                  <container id="aspace_a014558a1506b5b04f3a5d70c70f4f5d"
+                     parent="aspace_d10e81c621eaf818c8ef7fa1398a2bf8" type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_qqj" level="file">
+               <did>
+                  <unittitle>Correspondence, 1968 Nov.-1971 Jan.</unittitle>
+                  <container id="aspace_6b05a208a6132fcd7258dfd02b936c3a" label="Mixed Materials"
+                     type="box">9</container>
+                  <container id="aspace_e84dc2c08d7e1cca47998a23c9b2ea75"
+                     parent="aspace_6b05a208a6132fcd7258dfd02b936c3a" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_e7q" level="file">
+               <did>
+                  <unittitle>Correspondence, Mailing lists, 1971-1976</unittitle>
+                  <container id="aspace_95af8df9a5dcf143725a927979a51652" label="Mixed Materials"
+                     type="box">9</container>
+                  <container id="aspace_9424bf71fb24891beeab10a2821917fa"
+                     parent="aspace_95af8df9a5dcf143725a927979a51652" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_vx6" level="file">
+               <did>
+                  <unittitle>Correspondence, 1971 Feb.-1971 June</unittitle>
+                  <container id="aspace_068c1629f096c0eebb27cc1f2d907fab" label="Mixed Materials"
+                     type="box">9</container>
+                  <container id="aspace_0f932b44827fb925ad95333a5baf23a2"
+                     parent="aspace_068c1629f096c0eebb27cc1f2d907fab" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_b8g" level="file">
+               <did>
+                  <unittitle>Correspondence, 1971 June-1971 Aug.</unittitle>
+                  <container id="aspace_b09605abdff4f87f3bc1d355d68e244f" label="Mixed Materials"
+                     type="box">9</container>
+                  <container id="aspace_c5c55173d5e2f6cb1e0665c632f1ba5f"
+                     parent="aspace_b09605abdff4f87f3bc1d355d68e244f" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_1q4" level="file">
+               <did>
+                  <unittitle>Correspondence, 1971 Aug.-1971 Dec.</unittitle>
+                  <container id="aspace_7ecb294f0843e180d33e00bf7a3ed538" label="Mixed Materials"
+                     type="box">9</container>
+                  <container id="aspace_18643e7fa0be253f9141c7e8402cc8b2"
+                     parent="aspace_7ecb294f0843e180d33e00bf7a3ed538" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_z6a" level="file">
+               <did>
+                  <unittitle>Correspondence, 1971 Dec.</unittitle>
+                  <container id="aspace_229dec815e2db2e41912ca01e0cb98df" label="Mixed Materials"
+                     type="box">9</container>
+                  <container id="aspace_227cbe440b4727fbc5fb7f16f3c82778"
+                     parent="aspace_229dec815e2db2e41912ca01e0cb98df" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_svi" level="file">
+               <did>
+                  <unittitle>Correspondence, 1972 Jan.</unittitle>
+                  <container id="aspace_e8df12c0524ef9fdb99dc5163454ce37" label="Mixed Materials"
+                     type="box">9</container>
+                  <container id="aspace_5b6ecf893d4936476515e048af01a597"
+                     parent="aspace_e8df12c0524ef9fdb99dc5163454ce37" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_rgr" level="file">
+               <did>
+                  <unittitle>Correspondence, 1972 Jan.-1972 Feb.</unittitle>
+                  <container id="aspace_68a0b0e2074861934c28607d9ab32630" label="Mixed Materials"
+                     type="box">9</container>
+                  <container id="aspace_c22a9258b53b30bd764c3661ba53702c"
+                     parent="aspace_68a0b0e2074861934c28607d9ab32630" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_9hy" level="file">
+               <did>
+                  <unittitle>Correspondence, 1972 Feb.</unittitle>
+                  <container id="aspace_41db259eb996d5045d8d02a8a21ecf17" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_8c953b03ac636541fb9eb300a8a7fb51"
+                     parent="aspace_41db259eb996d5045d8d02a8a21ecf17" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_ef6" level="file">
+               <did>
+                  <unittitle>Correspondence, 1972 Mar.</unittitle>
+                  <container id="aspace_8808aeabcc09cdfb63a0370751b8ece0" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_0ce0bbf88ce9b92d6e04726f97d754cf"
+                     parent="aspace_8808aeabcc09cdfb63a0370751b8ece0" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_4ie" level="file">
+               <did>
+                  <unittitle>Correspondence, 1972 Apr.-1972 May</unittitle>
+                  <container id="aspace_77fc056686533a7173032453c88c8d60" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_c813a00571e5b257f86ff1ee692aa719"
+                     parent="aspace_77fc056686533a7173032453c88c8d60" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_tjj" level="file">
+               <did>
+                  <unittitle>Correspondence, 1972 June-1972 Dec.</unittitle>
+                  <container id="aspace_4b65afd2eb00c8d65711436ec9f53812" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_f65d41b8eb91a02aaca8f78749ef61a6"
+                     parent="aspace_4b65afd2eb00c8d65711436ec9f53812" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_750" level="file">
+               <did>
+                  <unittitle>Correspondence, 1973 Jan.-1973 June</unittitle>
+                  <container id="aspace_5cd526ddba0e1198fadf548a62752761" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_f78ac48f1c927af6b04c67f1f2c163c8"
+                     parent="aspace_5cd526ddba0e1198fadf548a62752761" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_1b8" level="file">
+               <did>
+                  <unittitle>Correspondence, 1973 July-1973 Dec.</unittitle>
+                  <container id="aspace_f3a7d34b4f427df7236ac51164ca57e8" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_e681a8e132843a9fb75614866d03d3cf"
+                     parent="aspace_f3a7d34b4f427df7236ac51164ca57e8" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_m62" level="file">
+               <did>
+                  <unittitle>Correspondence, 1974 Jan.-1974 Nov.</unittitle>
+                  <container id="aspace_1dff25447012c758594a057f2617dec7" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_6f9d7fd390049becb5f536381417750e"
+                     parent="aspace_1dff25447012c758594a057f2617dec7" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_ej0" level="file">
+               <did>
+                  <unittitle>Correspondence, 1975 Jan.-1975 Dec.</unittitle>
+                  <container id="aspace_8c05033b6b49eeeafed647ed12143228" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_5c483ede3e2fd94be7241111dafda361"
+                     parent="aspace_8c05033b6b49eeeafed647ed12143228" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_bjr" level="file">
+               <did>
+                  <unittitle>Correspondence, 1976 Jan.-1976 Dec.</unittitle>
+                  <container id="aspace_ab1b5e3cd46699a161e5e451f3853e84" label="Mixed Materials"
+                     type="box">10</container>
+                  <container id="aspace_490a3db08ed80b8ea42b03ced7152379"
+                     parent="aspace_ab1b5e3cd46699a161e5e451f3853e84" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_3a4" level="file">
+               <did>
+                  <unittitle>Correspondence, 1977 Jan.-1977 Dec.</unittitle>
+                  <container id="aspace_c07673d6bbaf25978db531d653e9e00e" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_32d91e3fe643a8cb9aa88f878608d3c6"
+                     parent="aspace_c07673d6bbaf25978db531d653e9e00e" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_jss" level="file">
+               <did>
+                  <unittitle>Correspondence, 1978 Jan.-1978 Oct.</unittitle>
+                  <container id="aspace_98e38380adb0fcddebe4f8d6b10731b6" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_d7c8fb776c9ee63e7f8faf743f8cb412"
+                     parent="aspace_98e38380adb0fcddebe4f8d6b10731b6" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_ofb" level="file">
+               <did>
+                  <unittitle>Correspondence, 1978 Nov.-1978 Dec.</unittitle>
+                  <container id="aspace_b2ab3eed032336335f4bbeec394fa1f8" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_462492f86440a40543f55d39dcbbde29"
+                     parent="aspace_b2ab3eed032336335f4bbeec394fa1f8" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_yql" level="file">
+               <did>
+                  <unittitle>Correspondence, 1979 Jan.-1979 Aug.</unittitle>
+                  <container id="aspace_cdf10e9cc85a9b17728d9674a22e8e10" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_86e5b4e8a6de6b47799b5eec1e616c15"
+                     parent="aspace_cdf10e9cc85a9b17728d9674a22e8e10" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_ror" level="file">
+               <did>
+                  <unittitle>Correspondence, 1970s, undated</unittitle>
+                  <container id="aspace_90c93ce665cd18ab60f980aa9a36ed14" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_de5b431242a0c36aa2d9e0a9d68742fc"
+                     parent="aspace_90c93ce665cd18ab60f980aa9a36ed14" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_30q" level="file">
+               <did>
+                  <unittitle>Correspondence, 1979 Oct.-1980 Nov.</unittitle>
+                  <container id="aspace_230bb47c632fa697d79b1b3b4d198a1f" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_ef2653005dc21f7133ec7f52d03aecb5"
+                     parent="aspace_230bb47c632fa697d79b1b3b4d198a1f" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_l8s" level="file">
+               <did>
+                  <unittitle>Correspondence, 1981 Jan.-1982 Sept.</unittitle>
+                  <container id="aspace_29bc03e225d28601af6ee3ca0fada155" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_d241eabc5f5426bc2002a3b130979667"
+                     parent="aspace_29bc03e225d28601af6ee3ca0fada155" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_s54" level="file">
+               <did>
+                  <unittitle>Correspondence, 1983 Jan.-1985 Nov.</unittitle>
+                  <container id="aspace_176d22eb9e68659b63788d93f91bc7bb" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_6aeeaa5f7b88456cefbeecf063d70b18"
+                     parent="aspace_176d22eb9e68659b63788d93f91bc7bb" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_vnj" level="file">
+               <did>
+                  <unittitle>Correspondence, 1986 Feb.-1987 Nov.</unittitle>
+                  <container id="aspace_03d6c1fe188d14eb48eb50d068777363" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_1134742802b5b10e8709fe12fe2448e4"
+                     parent="aspace_03d6c1fe188d14eb48eb50d068777363" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_z1o" level="file">
+               <did>
+                  <unittitle>Correspondence, 1988 Jan.-1988 Dec.</unittitle>
+                  <container id="aspace_7954110ddfae9b780871e9edaae69354" label="Mixed Materials"
+                     type="box">11</container>
+                  <container id="aspace_0b0797ed8f40654e2509335aff863495"
+                     parent="aspace_7954110ddfae9b780871e9edaae69354" type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_xry" level="file">
+               <did>
+                  <unittitle>Correspondence, 1989 Jan.-1990 June</unittitle>
+                  <container id="aspace_cf5a97b8eba2c7626dbe4a6a87a37946" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_b5c1bfc9432a89905d45a166e49abfc7"
+                     parent="aspace_cf5a97b8eba2c7626dbe4a6a87a37946" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_p8m" level="file">
+               <did>
+                  <unittitle>Correspondence, 1990 June-1990 Dec.</unittitle>
+                  <container id="aspace_bb002678c07d39b394d6eeef6869e165" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_482611ccd3fa9012680bd5e78ed77431"
+                     parent="aspace_bb002678c07d39b394d6eeef6869e165" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_bc0" level="file">
+               <did>
+                  <unittitle>Correspondence, 1991 Feb.-1991 Dec.</unittitle>
+                  <container id="aspace_b0470056fcf1432d9aa69cca5c972e36" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_849df4f835f9624bbabe86d96b658858"
+                     parent="aspace_b0470056fcf1432d9aa69cca5c972e36" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_d8b" level="file">
+               <did>
+                  <unittitle>Correspondence, 1992 Jan.-1994 Jan.</unittitle>
+                  <container id="aspace_084ef18422f40fd8c62d74da918ebf91" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_32377351ab05d8faed46dc7c529e1e7c"
+                     parent="aspace_084ef18422f40fd8c62d74da918ebf91" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_9s6" level="file">
+               <did>
+                  <unittitle>Correspondence, 1994 Apr.-1994 Oct.</unittitle>
+                  <container id="aspace_bbfb15e0cd4c49959fe36deaee04c702" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_3cf83e3454a48433e610557dcc35dbfb"
+                     parent="aspace_bbfb15e0cd4c49959fe36deaee04c702" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref117_6ig" level="file">
+               <did>
+                  <unittitle>Correspondence, 1994 Oct.-1994 Dec.</unittitle>
+                  <container id="aspace_c306b7446075fdea29ef0427cfd8b586" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_4fd315edede47ca4aafbf9b2d5c9690d"
+                     parent="aspace_c306b7446075fdea29ef0427cfd8b586" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_y46" level="file">
+               <did>
+                  <unittitle>Correspondence, 1995 Jan.-1995 Feb.</unittitle>
+                  <container id="aspace_2045b3475dc257c1b9f8060de596fa93" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_935fe89e3305da385bc51bf326de9b8a"
+                     parent="aspace_2045b3475dc257c1b9f8060de596fa93" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_bnd" level="file">
+               <did>
+                  <unittitle>Correspondence, 1995 Feb.-1995 Apr.</unittitle>
+                  <container id="aspace_4e2a38c595eb915a528774f4ed3f131e" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_b011a841b449a95c724acd7dc6718302"
+                     parent="aspace_4e2a38c595eb915a528774f4ed3f131e" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_281" level="file">
+               <did>
+                  <unittitle>Correspondence, 1995 May-1995 July</unittitle>
+                  <container id="aspace_e2522911ca32ade85f1216c599a99ba5" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_5feae2e9b2c2e2d896ca1712aff5d0a9"
+                     parent="aspace_e2522911ca32ade85f1216c599a99ba5" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_h26" level="file">
+               <did>
+                  <unittitle>Correspondence, 1995 July-1995 Dec.</unittitle>
+                  <container id="aspace_6f8d49656e0c5165078e6bfe43b52fc4" label="Mixed Materials"
+                     type="box">13</container>
+                  <container id="aspace_7c576e4db50b778caba1e1efd1167dd3"
+                     parent="aspace_6f8d49656e0c5165078e6bfe43b52fc4" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_3zs" level="file">
+               <did>
+                  <unittitle>Correspondence, 1996 Jan.-1996 Feb.</unittitle>
+                  <container id="aspace_81b7aae12e7b51fa63b50b81a1259cf8" label="Mixed Materials"
+                     type="box">13</container>
+                  <container id="aspace_293334f964ce08a77c07ba3f68ac0bbf"
+                     parent="aspace_81b7aae12e7b51fa63b50b81a1259cf8" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_jol" level="file">
+               <did>
+                  <unittitle>Correspondence, 1996 Feb.-1996 Dec.</unittitle>
+                  <container id="aspace_462603738cd956e56c3f1ddc360cc1ba" label="Mixed Materials"
+                     type="box">13</container>
+                  <container id="aspace_8f44b5d6d2973ad1d2f931992667d9b2"
+                     parent="aspace_462603738cd956e56c3f1ddc360cc1ba" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_rxa" level="file">
+               <did>
+                  <unittitle>Correspondence, 1997 Jan.-1997 June</unittitle>
+                  <container id="aspace_e9a8310eab28fe5287aa7a7dbfe6a569" label="Mixed Materials"
+                     type="box">13</container>
+                  <container id="aspace_a2c580da52ee544f2e21bad512e29e4f"
+                     parent="aspace_e9a8310eab28fe5287aa7a7dbfe6a569" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_jh5" level="file">
+               <did>
+                  <unittitle>Correspondence, undated (1939-1998)</unittitle>
+                  <container id="aspace_e08ddde39cf34e2d41ca489866ebb131" label="Mixed Materials"
+                     type="box">13</container>
+                  <container id="aspace_12f459462a1bba1385af938b634aabe7"
+                     parent="aspace_e08ddde39cf34e2d41ca489866ebb131" type="folder">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref127_sfd" level="series">
+            <did>
+               <unittitle>Photographs and Artwork, 1930s-1990s</unittitle>
+               <physdesc id="aspace_5d4ad74c017161a10abc9680664a2d60">
+                  <extent>5 boxes and 1 oversize folder</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_23d106a2cea2d402db2c789463ac1c3f">
+               <head>Scope and Contents note</head>
+               <p>Materials in the Photographs and Artwork series include both professional
+                  photographs from the Division of Visual Education at the Foreign Missions Board of
+                  the Southern Baptist Convention, along with personal portraits and snapshots taken
+                  by the Pools of both family and Nigerian scenes. The family snapshots are loosely
+                  sorted into Pool Family and Nigerian subseries, but have not been arranged
+                  further. They contain a range of dates and subjects, including the NBTS, Mt.
+                  Nimba, scenes of Nigerian and Liberian culture and festivals, travel photographs,
+                  and more formal portraits of friends and family members. Many of these photographs
+                  have been captioned by Jim Pool. Box 14 includes a small photograph album of Pool
+                  family vacation photographs. Boxes 16 and 17 contain the FMB photographs, which
+                  include both Nigerian and Liberian churches, pastors, parishioners, and scenes of
+                  local life in Africa. Most include detailed captions. The artwork present in this
+                  series consists of a set of watercolor prints with scenes of Liberia, created by
+                  Swedish artist Roland Svensson and published in 1969. It has been housed in
+                  Oversize Folder 1.</p>
+            </scopecontent>
+            <c02 id="aspace_ref129_pjz" level="file">
+               <did>
+                  <unittitle>Pool family photo pages, removed from album</unittitle>
+                  <container id="aspace_d133023f28687948a414d11f3c5fd472" label="Mixed Materials"
+                     type="box">13</container>
+                  <container id="aspace_506140a750c858947e6d26b2fda64c43"
+                     parent="aspace_d133023f28687948a414d11f3c5fd472" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_pnc" level="file">
+               <did>
+                  <unittitle>Pool family glass negative [broken]</unittitle>
+                  <container id="aspace_3980b78b3d767a7d098f348604d39826" label="Mixed Materials"
+                     type="box">13</container>
+                  <container id="aspace_fe429c82da071f10177abab3ee289665"
+                     parent="aspace_3980b78b3d767a7d098f348604d39826" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_er9" level="file">
+               <did>
+                  <unittitle>Pool family photograph album, 1930s-1940s</unittitle>
+                  <container id="aspace_28ff04d6b511cdd2f042563c7a277d30" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_oya" level="file">
+               <did>
+                  <unittitle>Pool family, general</unittitle>
+                  <container id="aspace_50ec42638051ae364ffabbf45ff475d9" label="Mixed Materials"
+                     type="box">15</container>
+                  <container id="aspace_95f9e4a5338d264ae3156475eda42d3f"
+                     parent="aspace_50ec42638051ae364ffabbf45ff475d9" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_swc" level="file">
+               <did>
+                  <unittitle>Pool family, 1970s</unittitle>
+                  <container id="aspace_67d469679702eb6a7bb049668b26c2f5" label="Mixed Materials"
+                     type="box">15</container>
+                  <container id="aspace_5cd235c73f4866f05c7812c38430d8ed"
+                     parent="aspace_67d469679702eb6a7bb049668b26c2f5" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_kls" level="file">
+               <did>
+                  <unittitle>Pool family and friends, 1974-1985</unittitle>
+                  <container id="aspace_a92f774428dc20d63bf3ce7bf4389f9b" label="Mixed Materials"
+                     type="box">15</container>
+                  <container id="aspace_4baeba63eec9af7adb0cf04944ac4bf9"
+                     parent="aspace_a92f774428dc20d63bf3ce7bf4389f9b" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_bnv" level="file">
+               <did>
+                  <unittitle>Pool family: photographs taken by Jim in Nigeria, U.S.A., and
+                     Rome</unittitle>
+                  <container id="aspace_31a985fbce53d0d49c3ad4646817daec" label="Mixed Materials"
+                     type="box">15</container>
+                  <container id="aspace_3bf72c14f8adaff443a9ad2a82f36a71"
+                     parent="aspace_31a985fbce53d0d49c3ad4646817daec" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_k29" level="file">
+               <did>
+                  <unittitle>Nigerian photographs</unittitle>
+                  <container id="aspace_d3cec8da3b8520adf5c41456eddf7751" label="Mixed Materials"
+                     type="box">15</container>
+                  <container id="aspace_267c4f0b5d2f95f8a8d1029f6924cb76"
+                     parent="aspace_d3cec8da3b8520adf5c41456eddf7751" type="folder">5-7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref137_u3v" level="file">
+               <did>
+                  <unittitle>FMB color photographs, 8 images</unittitle>
+                  <container id="aspace_31d22a45caf734f305211e222a179948" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_0eo" level="file">
+               <did>
+                  <unittitle>FMB color photographs, 10 images</unittitle>
+                  <container id="aspace_2fd91b5c56db32a5c2307e22d86d679b" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref139_llj" level="file">
+               <did>
+                  <unittitle>"Liberia" watercolor prints, by Roland Svensson, 1969</unittitle>
+                  <container id="aspace_c1e4d86b192ca06106f86b533583334b" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref141_yrt" level="series">
+            <did>
+               <unittitle>Family Writings, 1930-1998</unittitle>
+               <physdesc id="aspace_89e54820f76cbc82ec126273074f4fa6">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_3f91ff2508ec2793105c16b14b4fcdf6">
+               <head>Scope and Contents note</head>
+               <p>The Family Writings series consists of non-correspondence writings and notes by
+                  the Pool family and their relatives. It ranges from 1930-1998 and is divided into
+                  five subseries: J.C. Pool Autobiographical Materials, J.C. Pool Sermon Notes and
+                  Writings, Elizabeth Pool Writings, E.C. Routh Writings, and Other Pool Family
+                  Writings, with this last reserved for writings by family members other than J.C.
+                  Pool, Elizabeth Pool, and E.C. Routh. In addition to these subseries, the
+                  collection contains a small amount of writings and poems collected but not
+                  authored by the Pools.</p>
+               <p>The J.C. Pool Sermon Notes and Writings subseries is comprised of J.C. Pool’s
+                  early notes and publications while a student at the Southern Baptist Theological
+                  Seminary, including his doctoral thesis on the Jesuits, “An Estimate of the
+                  Society of Jesus in the Reformation and the Post-Reformation Periods”; dated
+                  sermons, sermon notes, and writings, including his address at his father’s
+                  funeral, writings on Yoruba culture and religion, a history of the Nigerian
+                  Baptist Theological Seminary co-written with Elizabeth Pool, various lectures
+                  given at commencements, graduations, and conferences, as well as one broadcast on
+                  Nigerian radio, and another essay on the history of the NBTS; a number of sermon
+                  notes and Bible Study lesson plans during the Pools’ tenure at Mount Nimba Baptist
+                  Church in Yekepa, Liberia from May 1971-July 1972; two collections of typed
+                  sermons, the latter of which focuses especially on Christianity in Africa; and a
+                  significant amount of undated material, largely handwritten sermon notes.</p>
+               <p>The J.C. Pool Autobiographies subseries has two types of material. The first
+                  consists of manuscript drafts of J.C. Pool’s autobiography, both typed and
+                  handwritten, covering the years 1905-1951. The second consists of diaries and
+                  handwritten summaries from 1935-1972 (non-inclusive), with diaries from 1942 and
+                  1943.</p>
+               <p>The Elizabeth Pool Writings subseries consists of notes and writings by Elizabeth
+                  Pool, including a brief autobiographical sketch, notes for her 1951 biography of
+                  Lucille Reagan for the Foreign Mission Board, a copy of an article she contributed
+                  to a local book on the history of the Grapevine region circa 1982, and various
+                  poems and essays, as well as a draft of her book A Hill Called Moon circa
+                  1943.</p>
+               <p>The E.C. Routh Writings subseries consists of notes and writings by Elizabeth
+                  Pool’s father, E.C. Routh, who was the editor of and a contributing writer to the
+                  Baptist Messenger. The collection includes essay drafts, sermon notes, and
+                  biographical sketches of both personal friends and prominent Baptists.</p>
+               <p>The Other Writings subseries includes work by Alice Routh (E.C. Routh’s wife and
+                  Elizabeth Pool’s mother), J.C. and Elizabeth’s son Jim and daughter Carolyn, and
+                  other Pool relations. Stories, poems, biographies, and essays are all present.</p>
+            </scopecontent>
+            <c02 id="aspace_ref143_trc" level="subseries">
+               <did>
+                  <unittitle>J.C. Pool Sermon Notes and Writings</unittitle>
+               </did>
+               <c03 id="aspace_ref144_yt5" level="file">
+                  <did>
+                     <unittitle>Greek Notes; Introductory-Southern Baptist Theological Seminary,
+                        1930; Luke Gospel, undated</unittitle>
+                     <container id="aspace_4f13f3b42fe4fc10cb608e078e3faccf" label="Mixed Materials"
+                        type="box">18</container>
+                     <container id="aspace_a28079dc88bea01bd807e23e7bd20d99"
+                        parent="aspace_4f13f3b42fe4fc10cb608e078e3faccf" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref145_r1n" level="file">
+                  <did>
+                     <unittitle>"Missionary Element in Isaiah," 1932-1933</unittitle>
+                     <container id="aspace_cc4be73f437c132dce918c0be627dacf" label="Mixed Materials"
+                        type="box">18</container>
+                     <container id="aspace_3d65792d2d65b013dd29a86992caf60d"
+                        parent="aspace_cc4be73f437c132dce918c0be627dacf" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref146_mnb" level="file">
+                  <did>
+                     <unittitle>Doctoral thesis, SBTS, 1934-1935</unittitle>
+                     <container id="aspace_07aab08e932731d68d3dd6a5744d3c69" label="Mixed Materials"
+                        type="box">18</container>
+                     <container id="aspace_6f82eb568f5615e6179bfc0c1aaebb14"
+                        parent="aspace_07aab08e932731d68d3dd6a5744d3c69" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref147_wan" level="file">
+                  <did>
+                     <unittitle>1932-1956</unittitle>
+                     <container id="aspace_1d3c1cb9d4c06026659b042b7d86684e" label="Mixed Materials"
+                        type="box">18</container>
+                     <container id="aspace_7f724d620d5d0da789c6c760e36ac432"
+                        parent="aspace_1d3c1cb9d4c06026659b042b7d86684e" type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref148_63j" level="file">
+                  <did>
+                     <unittitle>c. 1942</unittitle>
+                     <container id="aspace_9776ed59e2c073955b9d1a149f27d6fa" label="Mixed Materials"
+                        type="box">18</container>
+                     <container id="aspace_26a81b5db0efdce21224979df1eacb40"
+                        parent="aspace_9776ed59e2c073955b9d1a149f27d6fa" type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref149_9ef" level="file">
+                  <did>
+                     <unittitle>c. 1945-1950</unittitle>
+                     <container id="aspace_14fa680bc92faf8d46897224b43b781b" label="Mixed Materials"
+                        type="box">18</container>
+                     <container id="aspace_029e33c3e87cafe224908daf90d5e00a"
+                        parent="aspace_14fa680bc92faf8d46897224b43b781b" type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_h6t" level="file">
+                  <did>
+                     <unittitle>1957-1959</unittitle>
+                     <container id="aspace_c94fbd6b1a96d366969ac1b249820318" label="Mixed Materials"
+                        type="box">18</container>
+                     <container id="aspace_ec2dbb87838b6f32787717f8c3196254"
+                        parent="aspace_c94fbd6b1a96d366969ac1b249820318" type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref151_8cy" level="file">
+                  <did>
+                     <unittitle>1960-1964</unittitle>
+                     <container id="aspace_37f7600d029d0c7701a25bb64c6e2efb" label="Mixed Materials"
+                        type="box">18</container>
+                     <container id="aspace_9e29eb35cc04d48ff273b0cfa8b53b03"
+                        parent="aspace_37f7600d029d0c7701a25bb64c6e2efb" type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref152_grj" level="file">
+                  <did>
+                     <unittitle>1965-1977</unittitle>
+                     <container id="aspace_2cddc55e2462e5150367496014eb1c03" label="Mixed Materials"
+                        type="box">19</container>
+                     <container id="aspace_73d9a4957b9a7c93fe6dda2777afa314"
+                        parent="aspace_2cddc55e2462e5150367496014eb1c03" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref153_x8a" level="file">
+                  <did>
+                     <unittitle>Mt. Nimba Baptist Church, Yekepa, Liberia, Bible Study, 1971
+                        Aug.-1972 Mar.</unittitle>
+                     <container id="aspace_38843e3605b512bb4a8c9c6bdfc13108" label="Mixed Materials"
+                        type="box">19</container>
+                     <container id="aspace_dbfb10046677459f984bfef64050bcc3"
+                        parent="aspace_38843e3605b512bb4a8c9c6bdfc13108" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref154_b5a" level="file">
+                  <did>
+                     <unittitle>Mt. Nimba Baptist Church, Yekepa, Liberia, 1971 Aug. 1972
+                        July</unittitle>
+                     <container id="aspace_9833d2220696adeb34fcce5520d328b7" label="Mixed Materials"
+                        type="box">19</container>
+                     <container id="aspace_c5d52ca8943f7c9e0398bb7e668fc884"
+                        parent="aspace_9833d2220696adeb34fcce5520d328b7" type="folder"
+                        >3-7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref155_5t0" level="file">
+                  <did>
+                     <unittitle>Collection of sermons, 1957-1970 and undated</unittitle>
+                     <container id="aspace_09eba0cb83a344339a770b77617e06ac" label="Mixed Materials"
+                        type="box">20</container>
+                     <container id="aspace_cb7d6b8c3359bf15719804995505842e"
+                        parent="aspace_09eba0cb83a344339a770b77617e06ac" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref156_zyh" level="file">
+                  <did>
+                     <unittitle>Collection of sermons focusing on Africa, undated</unittitle>
+                     <container id="aspace_e45323781e49eb7731e5d22fdbaec302" label="Mixed Materials"
+                        type="box">20</container>
+                     <container id="aspace_3329e2bb77e065a469fc77bf55381866"
+                        parent="aspace_e45323781e49eb7731e5d22fdbaec302" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_nsi" level="file">
+                  <did>
+                     <unittitle>Notebook, including: essays on missionary work, hunting in Africa,
+                        notes and packing lists, NBTS work, family history, etc.</unittitle>
+                     <container id="aspace_ccd1acec58be4a756002ef3a610c2728" label="Mixed Materials"
+                        type="box">20</container>
+                     <container id="aspace_6453197e3ef6eb2d5c41cfe7aa20daf2"
+                        parent="aspace_ccd1acec58be4a756002ef3a610c2728" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_sh6" level="file">
+                  <did>
+                     <unittitle>Notes, undated</unittitle>
+                     <container id="aspace_7e3e50579859ce8a0181b9e4b522c807" label="Mixed Materials"
+                        type="box">20</container>
+                     <container id="aspace_ba8a17803b17983f9160ef40e6eec8a8"
+                        parent="aspace_7e3e50579859ce8a0181b9e4b522c807" type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref159_8h5" level="file">
+                  <did>
+                     <unittitle>Undated</unittitle>
+                     <container id="aspace_d0bf8544b3bc6ff1d9dea88d2b15d356" label="Mixed Materials"
+                        type="box">20</container>
+                     <container id="aspace_eaa8e1ff75a8889b61dfa7979f1ca7fa"
+                        parent="aspace_d0bf8544b3bc6ff1d9dea88d2b15d356" type="folder"
+                        >5-8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref160_dyg" level="file">
+                  <did>
+                     <unittitle>Undated</unittitle>
+                     <container id="aspace_998ef9444bb7b6ee33be738653ee0bb3" label="Mixed Materials"
+                        type="box">21</container>
+                     <container id="aspace_16eb84aa6b9293c6eb6b83a7926f3dc8"
+                        parent="aspace_998ef9444bb7b6ee33be738653ee0bb3" type="folder"
+                        >1-8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref161_3v0" level="file">
+                  <did>
+                     <unittitle>Undated</unittitle>
+                     <container id="aspace_99655d0ef6fbe4cf6415d60de377624b" label="Mixed Materials"
+                        type="box">22</container>
+                     <container id="aspace_e75f9dde38356817c1863553144a05ae"
+                        parent="aspace_99655d0ef6fbe4cf6415d60de377624b" type="folder"
+                        >1-2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref162_fl4" level="subseries">
+               <did>
+                  <unittitle>J.C. Pool Autobiographies</unittitle>
+               </did>
+               <c03 id="aspace_ref163_trj" level="file">
+                  <did>
+                     <unittitle>Manuscripts, 1905-1934</unittitle>
+                     <container id="aspace_f5b35e73c4787b898c192d8d550ca1e9" label="Mixed Materials"
+                        type="box">22</container>
+                     <container id="aspace_3f9c1d0e157d8654255d1651418e487b"
+                        parent="aspace_f5b35e73c4787b898c192d8d550ca1e9" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_h47" level="file">
+                  <did>
+                     <unittitle>Manuscripts, 1935-1937</unittitle>
+                     <container id="aspace_243bf2d21ca3bcd0a3fdfe229922ef51" label="Mixed Materials"
+                        type="box">22</container>
+                     <container id="aspace_f767a7337a2207d9fc1affce1d85d1f2"
+                        parent="aspace_243bf2d21ca3bcd0a3fdfe229922ef51" type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref165_qif" level="file">
+                  <did>
+                     <unittitle>Manuscripts, 1938-1944, 1951</unittitle>
+                     <container id="aspace_3909a8eeb835ff2a94e180e39e1dc934" label="Mixed Materials"
+                        type="box">22</container>
+                     <container id="aspace_709f4e909be7ff7f642b507dc5e02ef0"
+                        parent="aspace_3909a8eeb835ff2a94e180e39e1dc934" type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref166_oae" level="file">
+                  <did>
+                     <unittitle>Notes and diaries, 1935-1945</unittitle>
+                     <container id="aspace_bd775c6e3478ac0f977124502ca6f28f" label="Mixed Materials"
+                        type="box">22</container>
+                     <container id="aspace_7e25dc4bf6bd9d2eb4aa8c2bb9e3b31b"
+                        parent="aspace_bd775c6e3478ac0f977124502ca6f28f" type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref167_ntr" level="file">
+                  <did>
+                     <unittitle>Notes, 1946-1972</unittitle>
+                     <container id="aspace_fba0020c1f2a06873956ee842bef17a1" label="Mixed Materials"
+                        type="box">22</container>
+                     <container id="aspace_2938b4e78d957f18af09f555f75553ba"
+                        parent="aspace_fba0020c1f2a06873956ee842bef17a1" type="folder">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref168_zx2" level="subseries">
+               <did>
+                  <unittitle>Elizabeth Pool Writings</unittitle>
+               </did>
+               <c03 id="aspace_ref169_cm1" level="file">
+                  <did>
+                     <unittitle>Go-to-Africa gift list, wedding gift list, and French grammar
+                        notes</unittitle>
+                     <container id="aspace_79807a56550f40a58764ab7edebce87c" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_1232a592da2319ebf8f4c21c7fdecf19"
+                        parent="aspace_79807a56550f40a58764ab7edebce87c" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref170_l70" level="file">
+                  <did>
+                     <unittitle>1934-1995 and undated</unittitle>
+                     <container id="aspace_9f3168db2e7b400377bcb064eaba8e14" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_7582f02abaacc378ab001bcebd3f6f07"
+                        parent="aspace_9f3168db2e7b400377bcb064eaba8e14" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref171_1cx" level="file">
+                  <did>
+                     <unittitle>Partial draft of autobiographical book, 1942-1943</unittitle>
+                     <container id="aspace_372a25ba14e95c0f58537ea5b1484be3" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_deca7cb908e5d2b28482919bd3f5597d"
+                        parent="aspace_372a25ba14e95c0f58537ea5b1484be3" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref172_mhy" level="file">
+                  <did>
+                     <unittitle>A Hill Called Moon draft, 1943</unittitle>
+                     <container id="aspace_2720a75b1093ad655daf831c201e6a99" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_0f7d191193e28bb9158f655d9fecab9a"
+                        parent="aspace_2720a75b1093ad655daf831c201e6a99" type="folder">4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref173_jvh" level="subseries">
+               <did>
+                  <unittitle>E.C. Routh Writings</unittitle>
+               </did>
+               <c03 id="aspace_ref174_g8p" level="file">
+                  <did>
+                     <unittitle>1935-1960 and undated</unittitle>
+                     <container id="aspace_a2f159465e53cb61a7b4c54c99e5ba96" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_88a2fae732949cbad5fc022c2de6023a"
+                        parent="aspace_a2f159465e53cb61a7b4c54c99e5ba96" type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_106" level="file">
+                  <did>
+                     <unittitle>Sermon notes, 1950s</unittitle>
+                     <container id="aspace_c547f1751bf37803478c096069cdb7a4" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_3ba9f855dba0aa71b56e5101beaed552"
+                        parent="aspace_c547f1751bf37803478c096069cdb7a4" type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref176_086" level="file">
+                  <did>
+                     <unittitle>Biographical sketches of friends and prominent Baptists,
+                        1950s</unittitle>
+                     <container id="aspace_1896a7dd31f36237ad40c20b8a2d014b" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_c8d810c2e5d9a5109a80c775bfb5bca5"
+                        parent="aspace_1896a7dd31f36237ad40c20b8a2d014b" type="folder">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref177_f7k" level="subseries">
+               <did>
+                  <unittitle>Other Writings</unittitle>
+               </did>
+               <c03 id="aspace_ref178_scr" level="file">
+                  <did>
+                     <unittitle>Other Pool family writings, 1935-1995</unittitle>
+                     <container id="aspace_e37747d5b5aabf7936a2e15f9e2a5572" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_90b6c6ef366ac2e51da5edc27ea3848e"
+                        parent="aspace_e37747d5b5aabf7936a2e15f9e2a5572" type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref179_no8" level="file">
+                  <did>
+                     <unittitle>Jim Pool's art and schoolwork, 1951-1995 and undated</unittitle>
+                     <container id="aspace_6592d04cfe1fc85762b8e053035700dd" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_f5483e6231e5920f35d85b997e303c55"
+                        parent="aspace_6592d04cfe1fc85762b8e053035700dd" type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_i3c" level="file">
+                  <did>
+                     <unittitle>Writings and poems collected by the Pool family, 1935-1998 and
+                        undated</unittitle>
+                     <container id="aspace_8d39b42096b35ddb922fda521d78d01c" label="Mixed Materials"
+                        type="box">23</container>
+                     <container id="aspace_e93a8640d47e9e320c18df088b78f350"
+                        parent="aspace_8d39b42096b35ddb922fda521d78d01c" type="folder"
+                        >10</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref182_7dc" level="series">
+            <did>
+               <unittitle>J.C. Pool Teaching Materials, 1948-1970</unittitle>
+               <physdesc id="aspace_19286e2a95dcdc0504686446b0370cba">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_b0e944640af40cc73fd0368246269e59">
+               <head>Scope and Contents note</head>
+               <p>The J.C. Pool Teaching Materials series consists of materials used by J.C. Pool
+                  throughout his career as an educator, as well as student papers written for him at
+                  the Nigerian Baptist Theological Seminary. Syllabi, lesson plans, notes, and exam
+                  materials cover a range of classes, with a large portion of the material devoted
+                  to courses on Christian missions. The NBTS student papers focus on the interaction
+                  of Christian theology and Yoruba cultural and religious practices.</p>
+            </scopecontent>
+            <c02 id="aspace_ref184_tij" level="file">
+               <did>
+                  <unittitle>Syllabi, lesson plans, and exam materials, 1948-1955 and
+                     undated</unittitle>
+                  <container id="aspace_f2d1012f3eef533f1f9bc13f561c9f61" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_cfbf088d13781e0eda41b70fa13ac6d7"
+                     parent="aspace_f2d1012f3eef533f1f9bc13f561c9f61" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref185_7xw" level="file">
+               <did>
+                  <unittitle>Syllabi, lesson plans, and exam materials, 1967 and undated</unittitle>
+                  <container id="aspace_372c2a53e78a9b40f082002ccb768d31" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_162c9b1ab1da5cef0677288b0a921441"
+                     parent="aspace_372c2a53e78a9b40f082002ccb768d31" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref186_2r0" level="file">
+               <did>
+                  <unittitle>"Missions" syllabi and lesson plans, 1966-1967 and undated</unittitle>
+                  <container id="aspace_2e584cdf4f7d8198a967e962928f8566" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_061a7457fabdd1a74cfdafcffba1ea38"
+                     parent="aspace_2e584cdf4f7d8198a967e962928f8566" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref187_4fg" level="file">
+               <did>
+                  <unittitle>NBTS student papers, 1945-1967 and undated</unittitle>
+                  <container id="aspace_bd89007f518dec5e3322cd4a43cef43c" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_80c70b17b399716101cfa145bda2d3e4"
+                     parent="aspace_bd89007f518dec5e3322cd4a43cef43c" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref188_uyi" level="file">
+               <did>
+                  <unittitle>"Special" NBTS student papers, 1967-1970</unittitle>
+                  <container id="aspace_8fe44a2a199b5390a4e6349f28c8715f" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_89a87c515c2caa7b31976382b3f558de"
+                     parent="aspace_8fe44a2a199b5390a4e6349f28c8715f" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref189_788" level="file">
+               <did>
+                  <unittitle>Christian theology NBTS papers, 1969 May</unittitle>
+                  <container id="aspace_2155a0d21e30f01c3ee33d4ca2777c9f" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_f10e887241bd6d0142c3c7b4aa2f13f6"
+                     parent="aspace_2155a0d21e30f01c3ee33d4ca2777c9f" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref190_ssc" level="file">
+               <did>
+                  <unittitle>"Major Theological Issues as Viewed through Traditional Yoruba
+                     Thought," NBTS student papers, 1969-1970</unittitle>
+                  <container id="aspace_4f930615dfa0aed52872971ab14876d9" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_a65ec95932c2b5584828b2690e849382"
+                     parent="aspace_4f930615dfa0aed52872971ab14876d9" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref191_5md" level="file">
+               <did>
+                  <unittitle>NBTS student thesis, 1970</unittitle>
+                  <container id="aspace_68256a4780dabca6c2ea3c95048b4bf5" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_829fb1c4ff64b8531dd2bbf9b5d874e1"
+                     parent="aspace_68256a4780dabca6c2ea3c95048b4bf5" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref192_qh7" level="file">
+               <did>
+                  <unittitle>"History of Baptist Missions" by H.C. Coorner</unittitle>
+                  <container id="aspace_1e1288724e590c3f6214075b9693100e" label="Mixed Materials"
+                     type="box">24</container>
+                  <container id="aspace_4abfa854844a2b30499d9a841a3b589f"
+                     parent="aspace_1e1288724e590c3f6214075b9693100e" type="folder">9</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref194_958" level="series">
+            <did>
+               <unittitle>Travel Records and Memorabilia, 1934-1991</unittitle>
+               <physdesc id="aspace_34152ef07aec65245a409371043ba114">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_c2f147874abf1d69dc082880b3c2e4fd">
+               <head>Scope and Contents note</head>
+               <p>The Travel Records and Memorabilia series contains records of the Pool family’s
+                  various trips from 1934 to 1991, with some undated material. The series includes
+                  an itinerary summarizing nearly all of the journeys documented in the rest of the
+                  series. It also includes material such as luggage tags, programs from events held
+                  during various cruises, airplane tickets and records, printed travel books, and
+                  postcards and other tourist materials. Notable journeys that receive a significant
+                  amount of coverage include Elizabeth Pool’s 1979 journey to Nigeria for longtime
+                  friend Osad Imasogie’s inauguration as Principal of the Nigerian Baptist
+                  Theological Seminary in Ogbomosho.</p>
+            </scopecontent>
+            <c02 id="aspace_ref196_654" level="file">
+               <did>
+                  <unittitle>Legal documents re: travel, immigration</unittitle>
+                  <container id="aspace_5da8b8180558ecae87d1f0e13befc386" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_b301369d632d8e985cdc6c2498ebac5d"
+                     parent="aspace_5da8b8180558ecae87d1f0e13befc386" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref197_ldq" level="file">
+               <did>
+                  <unittitle>1930s-1940s</unittitle>
+                  <container id="aspace_1ac78fa54cd3c5bb1d570955012a62ac" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_0a2c34647b46f815ea4fac7b1241aff4"
+                     parent="aspace_1ac78fa54cd3c5bb1d570955012a62ac" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref198_jn6" level="file">
+               <did>
+                  <unittitle>1954-1955</unittitle>
+                  <container id="aspace_be7b2fc6795b8f505d4410503095b20f" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_6785bc50810cbc60446d2d9a62d91753"
+                     parent="aspace_be7b2fc6795b8f505d4410503095b20f" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref199_m63" level="file">
+               <did>
+                  <unittitle>1958 July</unittitle>
+                  <container id="aspace_b01ffdad48f58f86173f6c1e7a488785" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_93b205be0f1dab52a1c432a1585ba58b"
+                     parent="aspace_b01ffdad48f58f86173f6c1e7a488785" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref200_stw" level="file">
+               <did>
+                  <unittitle>1958 Aug.-1960 July</unittitle>
+                  <container id="aspace_4265e31ae0d7c89fce86056c818b7d77" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_d347e17e5622cbc79d56c3ae0c286809"
+                     parent="aspace_4265e31ae0d7c89fce86056c818b7d77" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref201_lem" level="file">
+               <did>
+                  <unittitle>1970 July and 1972 June</unittitle>
+                  <container id="aspace_290c31a7346f330d38232572baa81dba" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_8e620f77d4869a3c090066eb118fab66"
+                     parent="aspace_290c31a7346f330d38232572baa81dba" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref202_0lg" level="file">
+               <did>
+                  <unittitle>Undated</unittitle>
+                  <container id="aspace_894743f9b05aff048d62f4819845f297" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_5c262c18a3a5bb3e9e8c40d0d3e30a86"
+                     parent="aspace_894743f9b05aff048d62f4819845f297" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref203_sp3" level="file">
+               <did>
+                  <unittitle>Itineraries, 1934-1972</unittitle>
+                  <container id="aspace_0d3ba85ef4892abd16a6ea7adedb6e50" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_73b48f214d5b92eb6951e442cd52cc2c"
+                     parent="aspace_0d3ba85ef4892abd16a6ea7adedb6e50" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref204_rrh" level="file">
+               <did>
+                  <unittitle>Lamco Yekepa, Liberia, tourist material and postcards</unittitle>
+                  <container id="aspace_490cc6a68a24c27daeb77e99c1f9f5d5" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_2668da2409ad68b2735d2a00ac03f628"
+                     parent="aspace_490cc6a68a24c27daeb77e99c1f9f5d5" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref205_y86" level="file">
+               <did>
+                  <unittitle>Elizabeth Pool's trip to Nigeria for Osad Imasogie's inauguration,
+                     1979-1980</unittitle>
+                  <container id="aspace_c2932324c0078de9cf44b9bebd466c18" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_a48bde5e656aafb5e70141575daf649f"
+                     parent="aspace_c2932324c0078de9cf44b9bebd466c18" type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref206_1e5" level="file">
+               <did>
+                  <unittitle>Postcards, general</unittitle>
+                  <container id="aspace_bf040c501c31997f5de09d0c2e852e37" label="Mixed Materials"
+                     type="box">25</container>
+                  <container id="aspace_a7d783fa5023d908ad6427121129460a"
+                     parent="aspace_bf040c501c31997f5de09d0c2e852e37" type="folder">11</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref208_2ze" level="series">
+            <did>
+               <unittitle>Missionary Materials, 1938-1980</unittitle>
+               <physdesc id="aspace_b9360c2e72848a1c947ed39ee9000504">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_8c68c8dce4c2e88e1587c6346ea52218">
+               <head>Scope and Contents note</head>
+               <p>The Missionary Materials series largely consists of records from the Nigerian
+                  Baptist Theological Seminary and related organizations including the Nigerian
+                  Baptist Mission, the American Baptist Mission, the Christian Council of Nigeria,
+                  the Baptist Mission of Nigeria, and the Home and Foreign Mission Board of the
+                  Southern Baptist Convention. It ranges from 1938-1980 with some undated material.
+                  In addition to general policies and proceedings, the material touches on polygamy
+                  and marriage practices in the 1930s-1950s, Nigerianization, and questions
+                  concerning refugees and relief efforts during and after the Nigerian Civil War
+                  (1967-1970).</p>
+               <p>This series contains three sorts of materials: agendas and meeting minutes,
+                  reports, and founding documents. Agendas and meeting minutes contains materials
+                  from the organizations listed above and is arranged chronologically, not by
+                  organization; issues covered in this material include budgets, personnel,
+                  education and schools (including enrollment and accreditation issues), medical
+                  facilities, agriculture, transportation, media (use of AV equipment, literature,
+                  publishing, and bookstores), and scholarships. Reports mostly contains materials
+                  by or about the Nigerian Baptist Theological Seminary, including yearly histories
+                  and information about budgets, enrollments, and calendars. Founding documents
+                  consist of resolutions, statements of purpose, constitutions, personnel policies,
+                  manuals, and programs for the Nigerian Baptist Theological Seminary, the Western
+                  Division of the Baptist Mission of Nigeria, the Ogbomosho Baptist Medical Center,
+                  and the Foreign Mission Board. Other materials include catalogs, directories,
+                  issues of <title type="simple" render="italic">The Theologue</title> (a student
+                  publication), and 1970 press materials from the Foreign Mission Board.</p>
+            </scopecontent>
+            <c02 id="aspace_ref210_w7d" level="file">
+               <did>
+                  <unittitle>Agendas and meetings minutes, 1938-1951</unittitle>
+                  <container id="aspace_a4f1dc626ab24ac16d8c2c8afc3bf8e4" label="Mixed Materials"
+                     type="box">26</container>
+                  <container id="aspace_e71603a3d5f75a70b7ef2bebab9e74d7"
+                     parent="aspace_a4f1dc626ab24ac16d8c2c8afc3bf8e4" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref211_0t3" level="file">
+               <did>
+                  <unittitle>Agendas and meeting minutes, 1940s</unittitle>
+                  <container id="aspace_bf6bc6a3ee9da3ef1dde03113a2771f4" label="Mixed Materials"
+                     type="box">35</container>
+                  <container id="aspace_5ccdc3168da4d98c26e1ffeaa0851799"
+                     parent="aspace_bf6bc6a3ee9da3ef1dde03113a2771f4" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref212_y8n" level="file">
+               <did>
+                  <unittitle>Agendas and meeting minutes, 1950s (2 folders)</unittitle>
+                  <container id="aspace_7b97fac52b486cc24e7f4e27de857fdc" label="Mixed Materials"
+                     type="box">35</container>
+                  <container id="aspace_c8d86c5c0dbcf08b524217effdf9b29a"
+                     parent="aspace_7b97fac52b486cc24e7f4e27de857fdc" type="folder">5-6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref213_1n8" level="file">
+               <did>
+                  <unittitle>Agendas and meetings minutes, 1952-1959</unittitle>
+                  <container id="aspace_403416d68888e9f4858fbb775ea7e06b" label="Mixed Materials"
+                     type="box">26</container>
+                  <container id="aspace_b321792b9d1aa57657d3a388b84147f9"
+                     parent="aspace_403416d68888e9f4858fbb775ea7e06b" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref214_u7c" level="file">
+               <did>
+                  <unittitle>Agendas and meetings minutes, 1960-1964</unittitle>
+                  <container id="aspace_1b98d41b241fd89af982e5963b14b527" label="Mixed Materials"
+                     type="box">26</container>
+                  <container id="aspace_2bccbc33961aa7dae5cd649038cf2de0"
+                     parent="aspace_1b98d41b241fd89af982e5963b14b527" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref215_r4z" level="file">
+               <did>
+                  <unittitle>Agendas and meeting minutes, 1960's</unittitle>
+                  <container id="aspace_9ead208c3a93e3b7c037dd12681583b2" label="Mixed Materials"
+                     type="box">35</container>
+                  <container id="aspace_cb899ad83d833312fb8971c592aea644"
+                     parent="aspace_9ead208c3a93e3b7c037dd12681583b2" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref216_gdl" level="file">
+               <did>
+                  <unittitle>Agendas and meetings minutes, 1965-1970</unittitle>
+                  <container id="aspace_8b07e2f191e57d64a0baf94011304287" label="Mixed Materials"
+                     type="box">26</container>
+                  <container id="aspace_559dd065618ea5e4054238e43bf4a4ec"
+                     parent="aspace_8b07e2f191e57d64a0baf94011304287" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref217_8jp" level="file">
+               <did>
+                  <unittitle>Agendas and meeting minutes, 1970's and Undated</unittitle>
+                  <container id="aspace_60e0d8f488fb9d084f943a549aa362c8" label="Mixed Materials"
+                     type="box">35</container>
+                  <container id="aspace_2fe3f790650ef201b7db4578d4b827fc"
+                     parent="aspace_60e0d8f488fb9d084f943a549aa362c8" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref218_2to" level="file">
+               <did>
+                  <unittitle>Agendas and meetings minutes, 1976-1979 and undated</unittitle>
+                  <container id="aspace_c0c0db5f7d3e9de7a5255fbf5c7cd253" label="Mixed Materials"
+                     type="box">26</container>
+                  <container id="aspace_bd31b3ee1a915e9d759037f06b55a572"
+                     parent="aspace_c0c0db5f7d3e9de7a5255fbf5c7cd253" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref219_6zs" level="file">
+               <did>
+                  <unittitle>Founding documents, 1954-1980</unittitle>
+                  <container id="aspace_556b1c29426f6db474c2a71500418e88" label="Mixed Materials"
+                     type="box">27</container>
+                  <container id="aspace_7964b2fd0b959f139bf69c68565fc05f"
+                     parent="aspace_556b1c29426f6db474c2a71500418e88" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref220_4cl" level="file">
+               <did>
+                  <unittitle>Foreign Mission Board materials, 1930s-1970s</unittitle>
+                  <container id="aspace_bd39bd2a55474ae02432d599b14eef83" label="Mixed Materials"
+                     type="box">27</container>
+                  <container id="aspace_310656728837dc6d313f8785e826f0a0"
+                     parent="aspace_bd39bd2a55474ae02432d599b14eef83" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref221_dep" level="file">
+               <did>
+                  <unittitle>NBTS The Theologue issues, 1958 July and 1962 Mar.</unittitle>
+                  <container id="aspace_2aad7eddce5f5e6e0652b342e0fc55f8" label="Mixed Materials"
+                     type="box">27</container>
+                  <container id="aspace_fd5ebb51fc0c2ef27a72b38b8ee23358"
+                     parent="aspace_2aad7eddce5f5e6e0652b342e0fc55f8" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref222_060" level="file">
+               <did>
+                  <unittitle>Student catalogues, 1956-1965 and undated</unittitle>
+                  <container id="aspace_5516f459a4563dcf386964adbc0c28ef" label="Mixed Materials"
+                     type="box">27</container>
+                  <container id="aspace_511c97e1900bfa4a0828b5550f532c85"
+                     parent="aspace_5516f459a4563dcf386964adbc0c28ef" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref223_lkj" level="file">
+               <did>
+                  <unittitle>Speeches and addresses, 1947 and 1979</unittitle>
+                  <container id="aspace_b902546220883d95b0987e6e8050b092" label="Mixed Materials"
+                     type="box">27</container>
+                  <container id="aspace_2a813c4eaaf790d923c2f0e6aad0643f"
+                     parent="aspace_b902546220883d95b0987e6e8050b092" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref224_jij" level="file">
+               <did>
+                  <unittitle>Speeches and addresses, 1964-1970</unittitle>
+                  <container id="aspace_11ed3db23653319611fe59e7041d9ab6" label="Mixed Materials"
+                     type="box">34</container>
+                  <container id="aspace_aa9347ee9b7a16f6cc1eb0d3b8758ac0"
+                     parent="aspace_11ed3db23653319611fe59e7041d9ab6" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref225_nrw" level="file">
+               <did>
+                  <unittitle>Directories, 1969 and 1980</unittitle>
+                  <container id="aspace_eb9352c8655a4169f01b49c39b476987" label="Mixed Materials"
+                     type="box">27</container>
+                  <container id="aspace_7a50825274ab8b9f762d3e736ab28bc3"
+                     parent="aspace_eb9352c8655a4169f01b49c39b476987" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref226_7dd" level="file">
+               <did>
+                  <unittitle>Reports, 1945-1977 and undated</unittitle>
+                  <container id="aspace_66b5517ef4f485e32153412301b2cb33" label="Mixed Materials"
+                     type="box">27</container>
+                  <container id="aspace_3d6e8111bedc57c23efd1a541433c531"
+                     parent="aspace_66b5517ef4f485e32153412301b2cb33" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref227_8qd" level="file">
+               <did>
+                  <unittitle>Reports, 1947-1968</unittitle>
+                  <container id="aspace_3823ce2898a5994a7267ca0634c4688b" label="Mixed Materials"
+                     type="box">34</container>
+                  <container id="aspace_698c51a2298d486159a7db3650d9f89f"
+                     parent="aspace_3823ce2898a5994a7267ca0634c4688b" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref228_ido" level="file">
+               <did>
+                  <unittitle>Reports, Undated</unittitle>
+                  <container id="aspace_2614a05989373a70023b735da0555583" label="Mixed Materials"
+                     type="box">34</container>
+                  <container id="aspace_ab6c804b4c7b677a4714f477ddf7bda5"
+                     parent="aspace_2614a05989373a70023b735da0555583" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref229_npk" level="file">
+               <did>
+                  <unittitle>Baptist Schools, 1940s</unittitle>
+                  <container id="aspace_dd0043147fa20c5dc1e92f46d3e8829f" label="Mixed Materials"
+                     type="box">35</container>
+                  <container id="aspace_1c479f6a49959d508df53c47919abdab"
+                     parent="aspace_dd0043147fa20c5dc1e92f46d3e8829f" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref230_gvy" level="file">
+               <did>
+                  <unittitle>Baptist Schools, 1950s</unittitle>
+                  <container id="aspace_1867496914836083d6f44793f235bf15" label="Mixed Materials"
+                     type="box">35</container>
+                  <container id="aspace_ef82c69e9fcf7f1e46736f1b1943c582"
+                     parent="aspace_1867496914836083d6f44793f235bf15" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref231_x88" level="file">
+               <did>
+                  <unittitle>Baptist Schools, 1960s</unittitle>
+                  <container id="aspace_10432974c881bbcb1639b419ffd62258" label="Mixed Materials"
+                     type="box">35</container>
+                  <container id="aspace_5e1d7f3002683d123586f5c4332ebbb9"
+                     parent="aspace_10432974c881bbcb1639b419ffd62258" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref232_wra" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_9e8d2620d82988119035324d33d2e99a" label="Mixed Materials"
+                     type="box">35</container>
+                  <container id="aspace_a5c666ab353ca17d859287a89cbcb96b"
+                     parent="aspace_9e8d2620d82988119035324d33d2e99a" type="folder">9</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref234_v45" level="series">
+            <did>
+               <unittitle>Family Papers, 1930s-1990s</unittitle>
+               <physdesc id="aspace_ee0dd31ffbd46511962e5c3af8ffffb8">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_96179a4ff69c5ca7c71f90e6acf474e6">
+               <head>Scope and Contents note</head>
+               <p>The Family Papers Series contains family history and genealogy notes; awards,
+                  diplomas, and other honors acquired by the Pools throughout their lives; family
+                  legal and financial documents, such as receipts, licenses, debt records, and
+                  property inventories; and other miscellaneous items including a family guest book,
+                  cancelled stamps from throughout the world, and other items saved by the Pools.
+                  The bulk of this series consists of memorial materials from J.C. Pool's death and
+                  funeral.</p>
+            </scopecontent>
+            <c02 id="aspace_ref236_cnb" level="file">
+               <did>
+                  <unittitle>Family history</unittitle>
+                  <container id="aspace_a39cc9b2ac95ad492657474218f7fb4c" label="Mixed Materials"
+                     type="box">28</container>
+                  <container id="aspace_11b3b1ee24e95e5ab685c098b1c8ad02"
+                     parent="aspace_a39cc9b2ac95ad492657474218f7fb4c" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref237_0hd" level="file">
+               <did>
+                  <unittitle>Financial records relating to C. Routh's debts in Lake Charles, LA,
+                     1950-1951</unittitle>
+                  <container id="aspace_b3dd16bd84189a3653e794e1b0d664f5" label="Mixed Materials"
+                     type="box">28</container>
+                  <container id="aspace_165ef18e07256b3a188bc36c0d6a1988"
+                     parent="aspace_b3dd16bd84189a3653e794e1b0d664f5" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref238_5hd" level="file">
+               <did>
+                  <unittitle>Financial records</unittitle>
+                  <container id="aspace_9ec7eefcfdcfefbf425417691476c7f7" label="Mixed Materials"
+                     type="box">28</container>
+                  <container id="aspace_9eb940981a56c6ec64fd531a3f46c045"
+                     parent="aspace_9ec7eefcfdcfefbf425417691476c7f7" type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref239_68b" level="file">
+               <did>
+                  <unittitle>Property inventories and lists</unittitle>
+                  <container id="aspace_8f14bba1fca085491fcd52c592da055f" label="Mixed Materials"
+                     type="box">28</container>
+                  <container id="aspace_5c987fddd945399adcacb31c966d7069"
+                     parent="aspace_8f14bba1fca085491fcd52c592da055f" type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref240_0a1" level="file">
+               <did>
+                  <unittitle>Awards, degrees, and honors</unittitle>
+                  <container id="aspace_37d1fb98c214e70a26a712f74e53acc1" label="Mixed Materials"
+                     type="box">28</container>
+                  <container id="aspace_790811a70963a07a836e49c6c635c180"
+                     parent="aspace_37d1fb98c214e70a26a712f74e53acc1" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref241_62q" level="file">
+               <did>
+                  <unittitle>Legal records</unittitle>
+                  <container id="aspace_7b527c4b0baa30b49a75dec81575b8f9" label="Mixed Materials"
+                     type="box">28</container>
+                  <container id="aspace_79594774b2ed24779c8695c3cf8de810"
+                     parent="aspace_7b527c4b0baa30b49a75dec81575b8f9" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref242_en0" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_718e5fa169ce5316c3d1b728688f31d8" label="Mixed Materials"
+                     type="box">28</container>
+                  <container id="aspace_89259dda54c5cb6fc286ecede3ead9fb"
+                     parent="aspace_718e5fa169ce5316c3d1b728688f31d8" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref243_7x8" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial album</unittitle>
+                  <container id="aspace_30b45c4a4463c8a93ddcdfdfb625ecd3" label="Mixed Materials"
+                     type="box">32</container>
+                  <container id="aspace_ed73e9004c584f60c263dad87a5a8531"
+                     parent="aspace_30b45c4a4463c8a93ddcdfdfb625ecd3" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref244_f4l" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial binder 1, Jan. 1978</unittitle>
+                  <container id="aspace_44375b75881ee06f6916ac1953767737" label="Mixed Materials"
+                     type="box">32</container>
+                  <container id="aspace_142b1f66990d95ac17be51293f270158"
+                     parent="aspace_44375b75881ee06f6916ac1953767737" type="folder">2-4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref245_8l9" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial binder 2</unittitle>
+                  <container id="aspace_71938807974fdcb4aedbc0705982f3f3" label="Mixed Materials"
+                     type="box">32</container>
+                  <container id="aspace_31a7035757c1be4962f9336dca718295"
+                     parent="aspace_71938807974fdcb4aedbc0705982f3f3" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref246_7ku" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial binder 3</unittitle>
+                  <container id="aspace_cfad6bc8990047135666d42a29faa453" label="Mixed Materials"
+                     type="box">32</container>
+                  <container id="aspace_d7554c1c040f9cd6a90fc053e9fe32c2"
+                     parent="aspace_cfad6bc8990047135666d42a29faa453" type="folder">6-7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref247_p8t" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial binder 3</unittitle>
+                  <container id="aspace_8824556359a56515f614d291d351cc20" label="Mixed Materials"
+                     type="box">33</container>
+                  <container id="aspace_db153a528b35426f1ad4a60b438b44a5"
+                     parent="aspace_8824556359a56515f614d291d351cc20" type="folder">1-4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref248_kra" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial notebook</unittitle>
+                  <container id="aspace_5ec32af94be247c393de382623a3fd42" label="Mixed Materials"
+                     type="box">33</container>
+                  <container id="aspace_88f5807c24ee552beae883482851dbb1"
+                     parent="aspace_5ec32af94be247c393de382623a3fd42" type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref249_3nr" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial papers, 1977 Oct.-1978 July</unittitle>
+                  <container id="aspace_57ce2957d67ae7f104200786b6b82ffa" label="Mixed Materials"
+                     type="box">33</container>
+                  <container id="aspace_ffcb2f5fafe0a95db2e2d302c6addf37"
+                     parent="aspace_57ce2957d67ae7f104200786b6b82ffa" type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref250_8vs" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial papers, from Notebook 1, 1978 Jan.</unittitle>
+                  <container id="aspace_93b12eb90b7d9d4782fd627b110d8784" label="Mixed Materials"
+                     type="box">33</container>
+                  <container id="aspace_9dea1152b1ff066a9304ad0560ff07d4"
+                     parent="aspace_93b12eb90b7d9d4782fd627b110d8784" type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref251_vs0" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial papers, from Notebook 2, 1978 Jan.</unittitle>
+                  <container id="aspace_0130ab4d17e9abae23960ac0e998f8bb" label="Mixed Materials"
+                     type="box">33</container>
+                  <container id="aspace_8cf70ddbd91224ca3cb1290d9a0d2ba1"
+                     parent="aspace_0130ab4d17e9abae23960ac0e998f8bb" type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref252_95o" level="file">
+               <did>
+                  <unittitle>J.C. Pool memorial papers, notices of gifts and donations, 1978
+                     Jan.</unittitle>
+                  <container id="aspace_8bd11a1e2cb85057f43900487d85add8" label="Mixed Materials"
+                     type="box">33</container>
+                  <container id="aspace_cf258a9d98a2d073a26c33bd57cbae92"
+                     parent="aspace_8bd11a1e2cb85057f43900487d85add8" type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref253_wfz" level="file">
+               <did>
+                  <unittitle>Other Pool family memorial materials, 1966-1987 and undated</unittitle>
+                  <container id="aspace_8274c255936ba33d21eaa4ee1cf5f910" label="Mixed Materials"
+                     type="box">33</container>
+                  <container id="aspace_241c9473ddefe477b1bef9460e7eafbf"
+                     parent="aspace_8274c255936ba33d21eaa4ee1cf5f910" type="folder">10</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref255_150" level="series">
+            <did>
+               <unittitle>Printed Materials, 1930s-1990s</unittitle>
+               <physdesc id="aspace_20b01b431558da13f5259d4209184a56">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_f7167a0db5c0fe71eae8a56c87260cf4">
+               <head>Scope and Contents note</head>
+               <p>The Printed Materials series is comprised of published materials collected by the
+                  Pool family and ranges from the 1930s to the 1990s with some undated material. It
+                  is divided into five subseries: Clippings, Programs and Publications, Reports,
+                  Magazines, and Books. Clippings consists of clipped materials from magazines and
+                  newspapers, as well as a few complete editions. It mostly contains articles and
+                  notices about the Pools from local papers (weddings, visits, obituaries, etc.); it
+                  also contains some examples of published writing by the Pools and their relatives,
+                  particularly columns by Elizabeth Pool’s father, E.C. Routh. Programs and
+                  Publications contains a large number of church bulletins and programs, many from
+                  the Nigerian Baptist Theological Seminary and the First Baptist Church Oke’lerin
+                  (both in Ogbomosho, Nigeria), and others from various services attended by the
+                  Pools. It also includes other published materials, such as religious and travel
+                  pamphlets, as well as small New Testaments and other books owned by the Pools and
+                  their relatives. Magazines includes a variety of publications collected by the
+                  Pools, most of which are missionary publications (Home and Foreign Fields, World
+                  Comrades, Tell, SIMNOW), general interest Nigerian publications (Ibadan, Nigeria
+                  Magazine), or religious and educational publications from the United States
+                  (Review and Expositor, The OBU Report, Baptist Messenger, Founders Campaign
+                  Quarterly). There are generally only one or two issues of each magazine, with one
+                  exception: a significant portion of this subseries consists of issues of The
+                  Nigerian Baptist from 1954-1988 (non-inclusive). Reports consists almost entirely
+                  of various published reports on Nigerian politics and government. The Books
+                  subseries contains printed publications, written in both the English and Yoruba
+                  languages. Many of these books include notes or inscriptions by the Pools.</p>
+            </scopecontent>
+            <c02 id="aspace_ref257_a9c" level="subseries">
+               <did>
+                  <unittitle>Clippings</unittitle>
+               </did>
+               <c03 id="aspace_ref258_0tg" level="file">
+                  <did>
+                     <unittitle>Clippings, 1930s</unittitle>
+                     <container id="aspace_f78a315111b32fc35f6b5dada1b2b69c" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_dbe12e6637a936683a755771cf66f0b7"
+                        parent="aspace_f78a315111b32fc35f6b5dada1b2b69c" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref259_6zi" level="file">
+                  <did>
+                     <unittitle>Clippings, 1940s</unittitle>
+                     <container id="aspace_a5c7d737e46da95ccb7c3d7a701c470a" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_1c09b8d5c41b65b719de51ee914edb9e"
+                        parent="aspace_a5c7d737e46da95ccb7c3d7a701c470a" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref260_xij" level="file">
+                  <did>
+                     <unittitle>Clippings, 1950s</unittitle>
+                     <container id="aspace_8e4e6c7c34da8e63b0cfe0d2243db59e" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_db4f545588813963a215cfee7ad9377e"
+                        parent="aspace_8e4e6c7c34da8e63b0cfe0d2243db59e" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref261_jmk" level="file">
+                  <did>
+                     <unittitle>Clippings, 1960s</unittitle>
+                     <container id="aspace_c236f7b9f328afbe7b6bf69db6952367" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_80f0027ff905f2701ea6298db62279f9"
+                        parent="aspace_c236f7b9f328afbe7b6bf69db6952367" type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref262_1jy" level="file">
+                  <did>
+                     <unittitle>Clippings, 1970s</unittitle>
+                     <container id="aspace_53d3dd4e2cd1f25a17ff4e8844949d22" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_2156e235b5d8c05dad2c40fbb60b1cd0"
+                        parent="aspace_53d3dd4e2cd1f25a17ff4e8844949d22" type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref263_gng" level="file">
+                  <did>
+                     <unittitle>Clippings, 1980s</unittitle>
+                     <container id="aspace_5a34e81b512f88f0aeda5fe6f5f01cd9" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_96164623c4cfa5599df8c523f5290afd"
+                        parent="aspace_5a34e81b512f88f0aeda5fe6f5f01cd9" type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref264_rfx" level="file">
+                  <did>
+                     <unittitle>Clippings, 1990s and undated</unittitle>
+                     <container id="aspace_1386b74685d43d601f778bff028dea78" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_433b6fa9acef98815c683ec4a7f61ae7"
+                        parent="aspace_1386b74685d43d601f778bff028dea78" type="folder">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref265_o2e" level="subseries">
+               <did>
+                  <unittitle>Programs and Publications</unittitle>
+               </did>
+               <c03 id="aspace_ref266_wsr" level="file">
+                  <did>
+                     <unittitle>Programs and Publications, 1930s-1940s</unittitle>
+                     <container id="aspace_e19b7ec43bb340bbd2b30fad96809b6e" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_fb85c3405c82179a10f0ca1645e5e021"
+                        parent="aspace_e19b7ec43bb340bbd2b30fad96809b6e" type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref267_4r9" level="file">
+                  <did>
+                     <unittitle>Programs and Publications, 1950s</unittitle>
+                     <container id="aspace_081d07fb5311a75874e9579ac9752a8c" label="Mixed Materials"
+                        type="box">29</container>
+                     <container id="aspace_7264b0ae33c9d0c0dfacc79b960b52fe"
+                        parent="aspace_081d07fb5311a75874e9579ac9752a8c" type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref268_l2r" level="file">
+                  <did>
+                     <unittitle>Programs and Publications, 1960s</unittitle>
+                     <container id="aspace_9575df367dcb9bcb9c49695ad749df8b" label="Mixed Materials"
+                        type="box">30</container>
+                     <container id="aspace_eaba131b68e935148eca16a096a7ecb9"
+                        parent="aspace_9575df367dcb9bcb9c49695ad749df8b" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref269_b6b" level="file">
+                  <did>
+                     <unittitle>Programs and Publications, 1970s</unittitle>
+                     <container id="aspace_b83101a6d8036886da9c6e1bf2ef7741" label="Mixed Materials"
+                        type="box">30</container>
+                     <container id="aspace_0123c9f36d6a54a1385ad8d5f8083090"
+                        parent="aspace_b83101a6d8036886da9c6e1bf2ef7741" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref270_uhs" level="file">
+                  <did>
+                     <unittitle>Programs and Publications, 1978-1979</unittitle>
+                     <container id="aspace_cd8d48b87466c6794d9065035c592908" label="Mixed Materials"
+                        type="box">35</container>
+                     <container id="aspace_cde4dceddeb541ee1822c4775ef9fdd8"
+                        parent="aspace_cd8d48b87466c6794d9065035c592908" type="folder"
+                        >10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref271_rse" level="file">
+                  <did>
+                     <unittitle>Programs and Publications, 1980s-1990s</unittitle>
+                     <container id="aspace_ac17752f696c901f4a9f62d156e62c73" label="Mixed Materials"
+                        type="box">30</container>
+                     <container id="aspace_afec51c8dde4b04dad9aa622ffc2077c"
+                        parent="aspace_ac17752f696c901f4a9f62d156e62c73" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref272_6px" level="file">
+                  <did>
+                     <unittitle>Programs and Publications, undated</unittitle>
+                     <container id="aspace_1d44afe4ad99ec6fa989458113995eda" label="Mixed Materials"
+                        type="box">30</container>
+                     <container id="aspace_d15b282dc74a533e3b13c09ef591de6c"
+                        parent="aspace_1d44afe4ad99ec6fa989458113995eda" type="folder"
+                        >4-7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref273_yik" level="subseries">
+               <did>
+                  <unittitle>Magazines</unittitle>
+               </did>
+               <c03 id="aspace_ref274_vkn" level="file">
+                  <did>
+                     <unittitle>Re: Missionary work, 1934, 1935, 1969, 1991</unittitle>
+                     <container id="aspace_65ad31df1c0bb1216bb5aeb4ee8a23b3" label="Mixed Materials"
+                        type="box">30</container>
+                     <container id="aspace_2830618b58d637e8b696757f7c2159b2"
+                        parent="aspace_65ad31df1c0bb1216bb5aeb4ee8a23b3" type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref275_bgg" level="file">
+                  <did>
+                     <unittitle>Re: Nigeria, general, 1960</unittitle>
+                     <container id="aspace_c99fe3a34d4fb7146d4a59df5a7c07ac" label="Mixed Materials"
+                        type="box">31</container>
+                     <container id="aspace_fdacb251e206d69f17bb5e5e58a9aa4c"
+                        parent="aspace_c99fe3a34d4fb7146d4a59df5a7c07ac" type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref276_uih" level="file">
+                  <did>
+                     <unittitle>Re: Nigeria, general, 1960</unittitle>
+                     <container id="aspace_fe2b408ee09f541f9f1e51b3dfa5db37" label="Mixed Materials"
+                        type="box">35</container>
+                     <container id="aspace_cbf551ed402cfa44e29fa776441b8e2c"
+                        parent="aspace_fe2b408ee09f541f9f1e51b3dfa5db37" type="folder"
+                        >11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref277_itx" level="file">
+                  <did>
+                     <unittitle>Re: Nigeria, general, 1962-1968</unittitle>
+                     <container id="aspace_a24c42bc38d80826b44e00325e1c1987" label="Mixed Materials"
+                        type="box">31</container>
+                     <container id="aspace_683847b3aad6be2145c8e6a44acf34f4"
+                        parent="aspace_a24c42bc38d80826b44e00325e1c1987" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref278_zal" level="file">
+                  <did>
+                     <unittitle>The Nigerian Baptist, 1954-1968</unittitle>
+                     <container id="aspace_a8d06af7933fba5e9a40c669260ddc0b" label="Mixed Materials"
+                        type="box">31</container>
+                     <container id="aspace_adf54b2ef9249417f03afdeb9dede048"
+                        parent="aspace_a8d06af7933fba5e9a40c669260ddc0b" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref279_j1v" level="file">
+                  <did>
+                     <unittitle>The Nigerian Baptist, 1969-1982</unittitle>
+                     <container id="aspace_d84d2e0d7f0a2a9a6bd341e8564d1bd2" label="Mixed Materials"
+                        type="box">31</container>
+                     <container id="aspace_72900e6245aaf1bc633cd4a22bdcda5e"
+                        parent="aspace_d84d2e0d7f0a2a9a6bd341e8564d1bd2" type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref280_vgb" level="file">
+                  <did>
+                     <unittitle>The Nigerian Baptist, 1983-1988</unittitle>
+                     <container id="aspace_845fed402d5b1e8ddb4f9f4cbfb37759" label="Mixed Materials"
+                        type="box">31</container>
+                     <container id="aspace_1ba41acd97425af01eaa598ed5d4eb36"
+                        parent="aspace_845fed402d5b1e8ddb4f9f4cbfb37759" type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref281_yrj" level="file">
+                  <did>
+                     <unittitle>Re: United States, religious and educational</unittitle>
+                     <container id="aspace_0ca4f438e056f0b22aa8fce02c845dea" label="Mixed Materials"
+                        type="box">31</container>
+                     <container id="aspace_b7b051269273fc4454b5296a35749dd7"
+                        parent="aspace_0ca4f438e056f0b22aa8fce02c845dea" type="folder">6</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref282_m0k" level="subseries">
+               <did>
+                  <unittitle>Reports</unittitle>
+               </did>
+               <c03 id="aspace_ref283_bqg" level="file">
+                  <did>
+                     <unittitle>Reports, 1939-1955</unittitle>
+                     <container id="aspace_db6dff2d6082649a2e764492f094c1c8" label="Mixed Materials"
+                        type="box">31</container>
+                     <container id="aspace_bb72224e4e36ad18eb6c0cff0ade5c1e"
+                        parent="aspace_db6dff2d6082649a2e764492f094c1c8" type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref284_3id" level="file">
+                  <did>
+                     <unittitle>Reports, 1957-1969</unittitle>
+                     <container id="aspace_6a8bcb1de166a5953a182b79969eaa88" label="Mixed Materials"
+                        type="box">31</container>
+                     <container id="aspace_4e39b97955ce89f2a23afd2d3d50aa3f"
+                        parent="aspace_6a8bcb1de166a5953a182b79969eaa88" type="folder">8</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref285_k6k" level="subseries">
+               <did>
+                  <unittitle>Books</unittitle>
+               </did>
+               <c03 id="aspace_ref286_80t" level="file">
+                  <did>
+                     <unittitle>Iwe Kika Ekarun Li Ede Yoruba (1947)</unittitle>
+                     <container id="aspace_1d1d0aec906b5d58fe62cb2ee3ad28c3" label="Mixed Materials"
+                        type="box">34</container>
+                     <container id="aspace_5785d0edde65fb98e4b37e356630fad1"
+                        parent="aspace_1d1d0aec906b5d58fe62cb2ee3ad28c3" type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref287_7p1" level="file">
+                  <did>
+                     <unittitle>The History of the Yorubas: From the Earliest Times to the Beginning
+                        of the British Protectorate (1966)</unittitle>
+                     <container id="aspace_ef20a914de8073d5a3b1df4ae5e6392e" label="Mixed Materials"
+                        type="box">34</container>
+                     <container id="aspace_789b798656a8cd02499e57b53e6fe177"
+                        parent="aspace_ef20a914de8073d5a3b1df4ae5e6392e" type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref288_dko" level="file">
+                  <did>
+                     <unittitle>Really Free! The News Kwacha Freedom Uhuru (1966)</unittitle>
+                     <container id="aspace_014adbb769fdfc921e5648605b1f7ed1" label="Mixed Materials"
+                        type="box">34</container>
+                     <container id="aspace_73527aa83fa9a182f116bdab91f571b8"
+                        parent="aspace_014adbb769fdfc921e5648605b1f7ed1" type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref289_nhm" level="file">
+                  <did>
+                     <unittitle>How to be Nigerian (1967)</unittitle>
+                     <container id="aspace_d83ca2f8de88576ea8932feaf5e4ac01" label="Mixed Materials"
+                        type="box">34</container>
+                     <container id="aspace_6aba7a70331da701fd1bdbd5fd5856d2"
+                        parent="aspace_d83ca2f8de88576ea8932feaf5e4ac01" type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref290_rx2" level="file">
+                  <did>
+                     <unittitle>Baptist Missions in Nigeria (1928)</unittitle>
+                     <container id="aspace_7f92105989853a150f7471fb081f269e" label="Mixed Materials"
+                        type="box">34</container>
+                     <container id="aspace_d71c84182ef0df963600e4f5d2c74ce7"
+                        parent="aspace_7f92105989853a150f7471fb081f269e" type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref291_7r2" level="file">
+                  <did>
+                     <unittitle>Iwe Itan Ogbomoso (1934)</unittitle>
+                     <container id="aspace_959fffd96ce455ff733f106c48d98d71" label="Mixed Materials"
+                        type="box">34</container>
+                     <container id="aspace_95e650503e9d32bed2a42c1284cf5d95"
+                        parent="aspace_959fffd96ce455ff733f106c48d98d71" type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref292_u2w" level="file">
+                  <did>
+                     <unittitle>IFA (Undated)</unittitle>
+                     <container id="aspace_21dada2a778c5fd014c54fd8eb88566a" label="Mixed Materials"
+                        type="box">34</container>
+                     <container id="aspace_abcda856e5b543582d69fa00b5dea61a"
+                        parent="aspace_21dada2a778c5fd014c54fd8eb88566a" type="folder"
+                        >10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref293_lao" level="file">
+                  <did>
+                     <unittitle>Owe Yoruba At' Ebo (Undated)</unittitle>
+                     <container id="aspace_1dcd8f02bb0a5b2ea438240cfcc675a0" label="Mixed Materials"
+                        type="box">34</container>
+                     <container id="aspace_65fd282ec1952f2e554178611d4fa011"
+                        parent="aspace_1dcd8f02bb0a5b2ea438240cfcc675a0" type="folder"
+                        >11</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

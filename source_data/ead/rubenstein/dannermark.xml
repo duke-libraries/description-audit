@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/dannermark/">dannermark</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Mark Danner Papers, 1970-2004 <num>RL.10047</num>
+            </titleproper>
+            <author>Processed by: Elisabeth Narkin; Meghan Lyon; machine-readable finding aid
+               created by: Elisabeth Narkin; Meghan Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">005937398</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 16:25:47
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Mark Danner papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Danner, Mark, 1958-</persname>
+         </origination>
+         <unitid>RL.10047</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1985/2004" type="inclusive">1985-2004</unitdate>
+         <physloc id="aspace_8d53e2f2f486a112f8d36466d000cfd5">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_090295803d4b34f3e4cce9c71caa0c0c">Mark Danner is a writer, journalist,
+            and professor at the University of California at Berkeley. His work covers politics and
+            foreign affairs, with a focus on war and conflict. The Mark Danner Papers date from 1970
+            to 2004 and focus predominately on Danner's coverage of Haiti during the period of
+            unrest that followed President Jean-Claude ("Baby Doc") Duvalier's exile in 1986.
+            Additional materials document Danner's interest in the Balkan Wars during the 1990's and
+            preliminary research on the El Mozote massacre in El Salvador. These materials include
+            research notes, travel information, newspaper clippings, and VHS tapes.</abstract>
+         <physdesc id="aspace_4b9d61488cf2c66597ce8d8ed4eb47db">
+            <extent>4500 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_a1d52c476bbfd24c73c32d7e78bc2c1e">Material in English, French
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_ee3131ea364d7ea6c3ee60bf7c0bf08b">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research. However, original audiovisual materials are closed to
+            use. Use of these materials may require production of listening or viewing copies.
+            Please contact Research Services before coming to use this collection.</p>
+         <p>Electronic records have been migrated to a library server. To request access, please
+            contact Research Services before coming to use this collection.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>Also, all or portions of this collection may be housed off-site in Duke University's
+            Library Service Center. Consequently, there may be a 24-hour delay in obtaining these
+            materials.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_58f897615861d123379c66055a9f86f7">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_2c239ab6aef3d6364f62a6ced2c709e4">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Mark Danner Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_3364124335ceb23046b829c3e4c35d1a">
+         <head>Provenance</head>
+         <p>The Mark Danner Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 2013.</p>
+      </acqinfo>
+      <processinfo id="aspace_352ca3127a85cdd6c482b2c67f121754">
+         <head>Processing Information</head>
+         <p>Processed by Elisabeth Narkin; Meghan Lyon, September 2013</p>
+         <p>Encoded by Elisabeth Narkin; Meghan Lyon, September 2013</p>
+         <p>Accession(s) described in this finding aid: 2013-0098</p>
+         <p>Materials may not have been ordered and described beyond their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_906abc7ab8db4b7f8bee0ef4b5418280">
+         <head>Biographical Note</head>
+         <p>Mark Danner is a writer, journalist, and professor at the University of California at
+            Berkeley. His work covers politics and foreign affairs, with a focus on war and
+            conflict.</p>
+      </bioghist>
+      <scopecontent id="aspace_7624bce27ad0e343f5da93bc5976c1b3">
+         <head>Collection Overview</head>
+         <p>The Mark Danner Papers document Danner's career as a prominent writer and journalist.
+            Materials in the collection date from 1970 to 2004, and primarily document Danner's work
+            on Haiti during the years following Jean-Claude Duvalier's exile in 1986 and the rise of
+            Jean-Bertrand Aristide in the 1990's. The notes, correspondence, travel information, and
+            newspaper clippings constitute part of Danner's research during his work for <emph
+               render="italic">The New Yorker</emph>, <emph render="italic">The New York Times
+               Magazine</emph>, and the <emph render="italic">New York Review of Books</emph>.</p>
+         <p>The <emph render="bold">Newspaper Clippings</emph> series contains newspaper clippings
+            from various newspapers and newsletters concerning the turmoil in Haiti.</p>
+         <p>The <emph render="bold">Government Documents</emph> series includes documentation of
+            U.S. government institutions' views and actions towards Haiti, as well as documents from
+            the Haitian government, including a copy of the 1987 constitution.</p>
+         <p>The <emph render="bold">T.V. and Radio Transcripts</emph> series comprises interviews
+            conducted with various U.S. and Haitian officials and citizens for media outlets such as
+            ABC News.</p>
+         <p>The <emph render="bold">Printed Materials</emph> series contains a variety of documents
+            from human rights organizations such as Amnesty International and news organizations
+            such as the Foreign Broadcast International Service cables, in addition to flyers and
+            other materials from Haiti. A selection of Danner's own articles on Haiti are also
+            included.</p>
+         <p>The <emph render="bold">Research Materials</emph> series comprises materials Danner
+            collected on Haiti (notably, records of the U.S. District Court Front Pour l'Avancement
+            et le Progres Haitien -FRAPH court case) as well as documents for other subjects, such
+            as the Balkans, El Mozote, and the World Bank.</p>
+         <p>The <emph render="bold">Personal </emph> series includes documentation of Danner's
+            travels along with notes and correspondence.</p>
+         <p>The <emph render="bold">Tapes </emph> series contains VHS tapes which Danner collected
+            as part of his research on Haiti.</p>
+         <p>The collection also includes two 3.5" floppy disks with files created by Danner. These
+            have been migrated to the Electronic Records server for preservation and are available
+            by contacting Research Services in advance.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Dictatorship -- Latin America -- History -- 20th century</subject>
+         <geogname source="lcsh">Haiti -- History -- 20th century</geogname>
+         <geogname source="lcsh">Haiti -- Politics and government -- 20th century</geogname>
+         <geogname source="lcsh">United States -- Foreign relations -- Haiti</geogname>
+         <persname source="ingest">Danner, Mark, 1958-</persname>
+         <persname source="ingest">Danner, Mark, 1958-</persname>
+         <persname source="ingest">Duvalier, Jean-Claude, 1951-</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_cno" level="series">
+            <did>
+               <unittitle>Newspaper Clippings, 1970-2004</unittitle>
+               <physdesc id="aspace_789f15e77cb4a06a59b492e1ece33f73">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_bb72bcb965646afb9897c706631ec1e5">
+               <head>Scope and Contents note</head>
+               <p>This series contains clippings from various newspapers and newsletters with
+                  articles pertaining to Haiti. These materials are organized chronologically, with
+                  separate folders for the Haiti Hebdo, a weekly news publication.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_55k" level="file">
+               <did>
+                  <unittitle>Undated</unittitle>
+                  <container id="aspace_c9b97d0783471153ee1632ebc3b0b91e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_gp7" level="file">
+               <did>
+                  <unittitle>1970s</unittitle>
+                  <container id="aspace_111f67821fc151441e97ece980a80411" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_owh" level="file">
+               <did>
+                  <unittitle>1985</unittitle>
+                  <container id="aspace_54044737396c01cb9d374d3495c0b226" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_gjg" level="file">
+               <did>
+                  <unittitle>1986</unittitle>
+                  <container id="aspace_8290fd7084513e0e5a42818a9c111b05" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_hu0" level="file">
+               <did>
+                  <unittitle>1987</unittitle>
+                  <container id="aspace_075e77bde2e1fe91370030737f4aa570" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_8wi" level="file">
+               <did>
+                  <unittitle>1988</unittitle>
+                  <container id="aspace_fe18599ba11d3338b08252a8b39535a0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_dvi" level="file">
+               <did>
+                  <unittitle>1989</unittitle>
+                  <container id="aspace_7e489af46b9abc62363ff10f98be40f5" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_q0a" level="file">
+               <did>
+                  <unittitle>1990</unittitle>
+                  <container id="aspace_b32f4c54d563b98bfdf0985eb1d84fc3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_ft5" level="file">
+               <did>
+                  <unittitle>1991</unittitle>
+                  <container id="aspace_9bdf1f5bbdde0a020806831ee9032f6e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_ind" level="file">
+               <did>
+                  <unittitle>1992</unittitle>
+                  <container id="aspace_2f0ca20ba16fbf6d0980a39209d74b04" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_0wy" level="file">
+               <did>
+                  <unittitle>1993</unittitle>
+                  <physdesc id="aspace_2e4ce860bad373f48794f28ad67e609a">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d58dbdebe6689ccb85a5f7653c154ccd" label="Mixed Materials"
+                     type="box">1-2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_dz3" level="file">
+               <did>
+                  <unittitle>1994</unittitle>
+                  <physdesc id="aspace_408be7be6d5642cd9be7f585468044b9">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e38a7c4f2f89d02cd8b0d6f46db180dd" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_yln" level="file">
+               <did>
+                  <unittitle>1995</unittitle>
+                  <container id="aspace_eab925e69bd95023ebe167238fe35d4c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_gn2" level="file">
+               <did>
+                  <unittitle>1996</unittitle>
+                  <container id="aspace_8365e0c8d80608acd3ffb567884e5c2a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_4hr" level="file">
+               <did>
+                  <unittitle>1999</unittitle>
+                  <container id="aspace_fc5f30e4f0fa807dbcd53aa45f6296df" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_f34" level="file">
+               <did>
+                  <unittitle>2003-2004</unittitle>
+                  <container id="aspace_68121715fb99367270c88bffce2b0477" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_f5u" level="file">
+               <did>
+                  <unittitle>Haiti Hebdo</unittitle>
+                  <physdesc id="aspace_747f5cb4ae01bba99f7a272f96ef87d0">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8c934eac2c9d1c98a46e25e9e0a3a410" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref35_3qs" level="series">
+            <did>
+               <unittitle>Government Documents, 1985-1995</unittitle>
+               <physdesc id="aspace_e736cc6f2f576a753f85e25efdd6c76d">
+                  <extent>Less than 1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_02836010ad7b4d860b2bb87cf7aaaa94">
+               <head>Scope and Contents note</head>
+               <p>The Government Documents series is divided into two subseries. The first, U.S.
+                  Government Documents, contains materials from the U.S. State Department,
+                  Department of Defense, etc. that are related to Haiti and which Danner collected
+                  as part of his research on the island. The second subseries, Haiti Government
+                  Documents, includes pamphlets, speeches, and flyers issued by the Haitian
+                  government. Most of this material comes from the late 1980s and early 1990s, and
+                  includes a printed copy of the 1987 version of Haiti's constitution.</p>
+            </scopecontent>
+            <c02 id="aspace_ref37_ci5" level="file">
+               <did>
+                  <unittitle>Central Intelligence Agency</unittitle>
+                  <container id="aspace_38bbfe1002a5cd63b8932ab9364c142d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_r2t" level="file">
+               <did>
+                  <unittitle>U.S. Senate Committee on Foreign Affairs</unittitle>
+                  <container id="aspace_b419a056d6bb6802c1858e6731327cad" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_vne" level="file">
+               <did>
+                  <unittitle>Department of Defense Information Reports</unittitle>
+                  <container id="aspace_e9dabd3ca5469fc4080d90bc1b6cee97" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_o8t" level="file">
+               <did>
+                  <unittitle>U.S. State Department</unittitle>
+                  <physdesc id="aspace_807af8fb72085c79b0657a38768c5dcc">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c2d865f6bc3981d19feb35a82380e1b3" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_a5i" level="file">
+               <did>
+                  <unittitle>U.N. Reports</unittitle>
+                  <container id="aspace_db8cd3ac43c6141e400e1bc722d63954" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_pxo" level="file">
+               <did>
+                  <unittitle>Haiti Government Papers, 1987-1995</unittitle>
+                  <container id="aspace_21fa46233f8709877102840d10727f14" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref45_vib" level="series">
+            <did>
+               <unittitle>T.V. and Radio Transcripts, 1987-1995</unittitle>
+               <physdesc id="aspace_319473a3350432e832437cfc589b6605">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_572736b0fa1ff13b41036e3013e2e423">
+               <head>Scope and Contents note</head>
+               <p>This series includes printed transcripts of interviews with various individuals
+                  including Haiti citizens, politicians, journalists, etc. The majority of these
+                  transcripts are printed on letterhead indicating the media outlet for which they
+                  were intended (i.e. ABC News) and, occasionally, the newscaster who was to present
+                  the material. The transcripts are organized by date, with the exception of
+                  materials Danner kept separately in large binders. These are organized by the
+                  binder label, which is also the name of the newsdesk for whom the interviews were
+                  conducted (i.e. ABC -Washington Interviews). Within these folders, the transcripts
+                  are organized by the name of the interview subject.</p>
+            </scopecontent>
+            <c02 id="aspace_ref47_jeq" level="file">
+               <did>
+                  <unittitle>1991-1993</unittitle>
+                  <container id="aspace_0b6c4395abcaff2eec3b135ab6f3bedb" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_218" level="file">
+               <did>
+                  <unittitle>1994</unittitle>
+                  <physdesc id="aspace_f1fa70f10be780ceb6f53cfd07da8a92">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c69b5eaa14737e8eb86eb6c0f161ebc7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_02e" level="file">
+               <did>
+                  <unittitle>Undated</unittitle>
+                  <container id="aspace_95f3cef7506efa8c718e24da8c0f80f9" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_j2p" level="file">
+               <did>
+                  <unittitle>ABC Washington Interviews</unittitle>
+                  <physdesc id="aspace_47c70812ac5a52ad75c9286d84f48f51">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d154ca745fc1f4b13e244a8a4d881ede" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_wb2" level="file">
+               <did>
+                  <unittitle>ABC NY and Miami Interviews</unittitle>
+                  <physdesc id="aspace_ac7acbe882b522ef72b90b83a3e62da8">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8938b1ec8349eddccfd47e72e3d50087" label="Mixed Materials"
+                     type="box">3-4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_7rp" level="file">
+               <did>
+                  <unittitle>ABC Haiti Interviews</unittitle>
+                  <physdesc id="aspace_07d7a9c81961e14b1a2025a73c53a13b">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_725bc924d27e04942a0273a4d220df49" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref58_1yw" level="series">
+            <did>
+               <unittitle>Printed Materials, 1987-2004</unittitle>
+               <physdesc id="aspace_57b40005c18d37b8cab0ebda29603552">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_01fb3accd0630cc4996c4c6bba996ad7">
+               <head>Scope and Contents note</head>
+               <p>The Printed Materials series encompasses a large variety of documents, including
+                  reports by human rights organizations such as Amnesty International, newsletters,
+                  foreign affairs papers, and magazines and journals in both French and English
+                  which Danner collected for his research on Haiti. A selection of Danner's own
+                  articles about Haiti are also included.</p>
+               <p> Many of the documents are papers and reports on the changing political and
+                  economic situation in Haiti in the early 1990s. The Foreign Broadcast
+                  International Service Cables are daily news briefings for the Caribbean region. In
+                  addition to more formal printed documents, the series contains printed flyers from
+                  Haiti, some of which present political candidates. The materials in this series
+                  are organized by format.</p>
+            </scopecontent>
+            <c02 id="aspace_ref60_muu" level="file">
+               <did>
+                  <unittitle>Foreign Broadcast International Service Cables</unittitle>
+                  <container id="aspace_af5b4ac0c11a56ce451e6c7871635fa4" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_o0m" level="file">
+               <did>
+                  <unittitle>Human Rights Reports</unittitle>
+                  <physdesc id="aspace_52841bf34754f2836046ccbf5eedecd2">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_492cf385d78d6ac729a1cd8d4fc141f3" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_yd8" level="file">
+               <did>
+                  <unittitle>Washington Office on Haiti</unittitle>
+                  <container id="aspace_f34418008515dd88c18fd9c47d39b0e2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_sbi" level="file">
+               <did>
+                  <unittitle>Newsletters</unittitle>
+                  <physdesc id="aspace_3db96d3d5ce6f2762cd59a9ddd2b1fb7">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_db1a6ea41a31edf67185968111e0c879" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_cgh" level="file">
+               <did>
+                  <unittitle>Foreign Affairs Papers</unittitle>
+                  <container id="aspace_10fa5028c35e59ce47f22b239be797fe" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_4jd" level="file">
+               <did>
+                  <unittitle>Reports and Papers</unittitle>
+                  <physdesc id="aspace_714b22adab11829842d6dab48a54c5bd">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fd565b59fab8b9b59c14c1448c48e3fe" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_bik" level="file">
+               <did>
+                  <unittitle>Magazines and Journals (English)</unittitle>
+                  <physdesc id="aspace_996c852b572d4473121735fc98be43e6">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b67c26943d5e2dd02bf9fd04448542d4" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_zjp" level="file">
+               <did>
+                  <unittitle>Magazines and Journals (French)</unittitle>
+                  <container id="aspace_65885054a61a7de83e5be7a7b45e4167" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_cp0" level="file">
+               <did>
+                  <unittitle>Danner Articles on Haiti</unittitle>
+                  <container id="aspace_6bea6cd88319afaf70d7eaa616d83ab6" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref74_txw" level="series">
+            <did>
+               <unittitle>Research Materials, 1987-2004</unittitle>
+               <physdesc id="aspace_7b4582ec0e7f3e7b4b9a396db8a39277">
+                  <extent>Less than 1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_33cf41f7a8175f49b004bcf14d30661f">
+               <head>Scope and Contents note</head>
+               <p>The Research Materials series includes materials Danner collected on Haiti
+                  (notably, records of the U.S. District Court Front Pour l'Avancement et le Progres
+                  Haitien (FRAPH) court case). These materials are organized by format, with the
+                  exception of materials Danner had organized in research binders: these documents
+                  are kept together in separate folders.</p>
+               <p>In addition to the materials which discuss Haiti, the Research Materials series
+                  includes information which Danner collected on other contemporary news issues,
+                  including wars in the Balkans and El Salvador, among others.</p>
+            </scopecontent>
+            <c02 id="aspace_ref76_c7n" level="file">
+               <did>
+                  <unittitle>U.S. District court FRAPH Case</unittitle>
+                  <physdesc id="aspace_86ad53801247612661326c466d3d94eb">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3099302626663dd1200a67c359698f56" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_lnv" level="file">
+               <did>
+                  <unittitle>Presidential Business Development Mission to Haiti Binder (1995) (2
+                     folders)</unittitle>
+                  <container id="aspace_d98b72a078274752d25e8588564b44b7" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_146" level="file">
+               <did>
+                  <unittitle>Haiti Research Binder</unittitle>
+                  <physdesc id="aspace_db9a40b95bd15da2ba49b4baee375583">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_490b938513b7785e921a8a9a66106332" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_368" level="file">
+               <did>
+                  <unittitle>World Bank</unittitle>
+                  <container id="aspace_e9fa721a7a43a95a0eb1d46e71a31c5f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_gbm" level="file">
+               <did>
+                  <unittitle>Miscellaneous Cultural Events, Films, etc.</unittitle>
+                  <container id="aspace_50ee749daba7dfbc9ab59046658bf608" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_9ot" level="file">
+               <did>
+                  <unittitle>Balkan Wars</unittitle>
+                  <container id="aspace_26e87999f627d963effc2b7a004227ac" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_x6z" level="file">
+               <did>
+                  <unittitle>Chile</unittitle>
+                  <container id="aspace_1e4d95f096ffc5f4a57836c5931620fa" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_lac" level="file">
+               <did>
+                  <unittitle>Asia</unittitle>
+                  <container id="aspace_0b852fd1438d276c5b80407ee109e97f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_hho" level="file">
+               <did>
+                  <unittitle>El Salvador</unittitle>
+                  <container id="aspace_606a7bfe79d1b1100fbe99ce8c6dd6df" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_8jq" level="file">
+               <did>
+                  <unittitle>Transatlantic Relations</unittitle>
+                  <container id="aspace_e37e709a5e209097450e1a73c261283d" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_qrd" level="file">
+               <did>
+                  <unittitle>Miscellaneous Subjects</unittitle>
+                  <container id="aspace_bdc900c029e768256e2e316a7164d403" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref90_6d8" level="series">
+            <did>
+               <unittitle>Personal, 1987-2004</unittitle>
+               <physdesc id="aspace_69d2d9570b716cf24df2254acb169c90">
+                  <extent>Less than 1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_05c77ade72ebf40d2b45d1a16cfc32e6">
+               <head>Scope and Contents note</head>
+               <p>The brief Personal subseries contains information on Danner, much of which is
+                  related to his Haiti work. These documents include flyers and agendas for events
+                  Danner attended, notes, correspondence, and travel information for Danner's trips
+                  to Haiti.</p>
+            </scopecontent>
+            <c02 id="aspace_ref92_7f9" level="file">
+               <did>
+                  <unittitle>Travel</unittitle>
+                  <container id="aspace_61db0c6d65d29d190be4abd6ce9c4a32" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_8w6" level="file">
+               <did>
+                  <unittitle>Events</unittitle>
+                  <container id="aspace_a4e5bb38454a026a9e74d7cc963672e0" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_dnb" level="file">
+               <did>
+                  <unittitle>Notes</unittitle>
+                  <container id="aspace_3e0fee0f6e7d39cd5493e5735ccfa761" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_yb0" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <container id="aspace_d0fe49e46653909e465bc3b7e4f001bb" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref97_ews" level="series">
+            <did>
+               <unittitle>Audiovisual Materials, 1987-2004</unittitle>
+               <physdesc id="aspace_2a3e67d13845978f660c55696dfa5d8b">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_6a30bd102ba197c56e1b8bd2835c4955">
+               <head>Scope and Contents note</head>
+               <p>The Audiovisual series includes VHS recordings of various programs on which Danner
+                  either worked or collected for research purposes. The tapes are listed by the
+                  information on their label.</p>
+            </scopecontent>
+            <accessrestrict id="aspace_1b061a5a041dd2df702995a01df16afc">
+               <head>Conditions Governing Access note</head>
+               <p>[Original audiovisual materials are closed to use. Use of these materials may
+                  require production of listening or viewing copies. Please contact Research
+                  Services before coming to use this collection.]</p>
+            </accessrestrict>
+            <c02 id="aspace_ref99_hmq" level="file">
+               <did>
+                  <unittitle>J. B. Aristide Campagne Presidentielle (1990)</unittitle>
+                  <container id="aspace_7d1a51a481b208027da67b22325930bb" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_445" level="file">
+               <did>
+                  <unittitle>Haiti Dreams of Democracy</unittitle>
+                  <container id="aspace_e0425ac2cd6650381ada2f709bdb5018" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_k36" level="file">
+               <did>
+                  <unittitle>MTV (3-15-93)</unittitle>
+                  <container id="aspace_de528b43ec0d210996247de2a7c8030d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_bmt" level="file">
+               <did>
+                  <unittitle>Prestation</unittitle>
+                  <container id="aspace_62b95876be64fbef07d2d9ab0ab74ccc" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_3fl" level="file">
+               <did>
+                  <unittitle>Joi Fabrius (11/91)</unittitle>
+                  <container id="aspace_eecb9e3a3b7cbadd1bb9a7c34dc9bd2e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_n5d" level="file">
+               <did>
+                  <unittitle>Fort Dimanche</unittitle>
+                  <container id="aspace_34c28dbc272238cc7a52226516935fce" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_jn6" level="file">
+               <did>
+                  <unittitle>President Jean Bertrand Aristide Explains the Coup</unittitle>
+                  <container id="aspace_76df5ec8fd02a42149eb7a8effb103d8" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_ia1" level="file">
+               <did>
+                  <unittitle>LaFontant Trial, Part 1</unittitle>
+                  <container id="aspace_ccb927179ba57d9a0104bcb499c00210" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_vot" level="file">
+               <did>
+                  <unittitle>LaFontant Trial, Part 2</unittitle>
+                  <container id="aspace_ebbf40e090df3f136d53222c81a1fcb5" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_sdx" level="file">
+               <did>
+                  <unittitle>LaFontant Coup</unittitle>
+                  <container id="aspace_372b2ab4ab49af7cae284d7d45824871" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_s6v" level="file">
+               <did>
+                  <unittitle>Frontline: Showdown in Haiti (PBS Airdate: June 14, 1994)</unittitle>
+                  <container id="aspace_6ead0d4f56c0753f65157da3780c40fd" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_fpv" level="file">
+               <did>
+                  <unittitle>Aristide with the Poor</unittitle>
+                  <container id="aspace_82da2f7254d5141e3fbead44d3ebacd1" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_sep" level="file">
+               <did>
+                  <unittitle>Aristide Speech about the Fire</unittitle>
+                  <container id="aspace_02e2611f0f2d724844902058bc43bfa6" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

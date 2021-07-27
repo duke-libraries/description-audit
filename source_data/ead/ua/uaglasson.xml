@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/uaglasson/">uaglasson</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William Henry Glasson Papers, 1891 - 1946 and undated
+            <num>UA.29.02.0033</num></titleproper>
+        <author>Processed by: Linda Daniel; machine-readable finding aid created by: Linda
+          Daniel</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2003</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003258678</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-12-17 16:11:00
+          -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>William Henry Glasson papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Glasson, William Henry, 1874-1946</persname>
+      </origination>
+      <unitid>UA.29.02.0033</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.0 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1891/1946" type="inclusive">1891 - 1946 and undated</unitdate>
+      <abstract id="aspace_5246867df0712ebdeabd8586fe327c61">William Henry Glasson (1874-1946) was
+        Professor of Political Economy and Social Science at Trinity College and Duke University
+        from 1902-1940, and Dean of the Graduate School of Arts and Sciences from 1926-1938. Glasson
+        was instrumental in the growth of the Department of Economics and the Graduate School.
+        Glasson specialized in U.S. pension systems. He was secretary of the Phi Beta Kappa Society
+        for the South Atlantic district; editor of the South Atlantic Quarterly; and a member of the
+        Durham Board of Education. Collection includes personal and professional correspondence,
+        manuscripts, research notes, scrapbooks, diaries, account books, postcards, and photographs
+        pertaining to Glasson's family, career, and interests. Major subjects found in the
+        collection are the growth of the Department of Economics and the Graduate School, Trinity's
+        efforts to obtain a Phi Beta Kappa chapter, and Duke University's contract with the Teachers
+        Insurance and Annuity Association of America. English.</abstract>
+      <langmaterial id="aspace_907893828b51bc5bc315606db482ecd4">English. </langmaterial>
+    </did>
+    <accessrestrict id="aspace_cb39ca4f3f75cb463f64e9cd6ca9aede">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_5cd3344b34a87d94eed2e53fce029e43">
+      <head>Use Restrictions</head>
+      <p>Copyright for Official University records is held by Duke University; all other copyright
+        is retained by the authors of items in these papers, or their descendants, as stipulated by
+        United States copyright law.</p>
+    </userestrict>
+    <prefercite id="aspace_26f0bf2485f50b989a8b419bcf9f1d89">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], William Henry Glasson Papers, Duke University Archives, David M.
+        Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_3990a24deedd242d019804f0614a7aaa">
+      <head>Provenance</head>
+      <p>The William Henry Glasson Papers was received by the University Archives as a gift in 1954
+        (A48-1942) and in 1955 (A48-2022).</p>
+    </acqinfo>
+    <processinfo id="aspace_24b9e3c8067c49795295dd3f436101ab">
+      <head>Processing Information</head>
+      <p>Processed by Linda Daniel</p>
+      <p>Completed October 10, 2003</p>
+      <p>Encoded by Linda Daniel, October 6, 2003</p>
+      <p>Updated by Sherrie Bowser, January, 2007</p>
+      <p>Updated to include rehousing of oversize items, updating of collection notes to current
+        standards, Tracy M. Jackson, December 2018.</p>
+    </processinfo>
+    <bioghist id="aspace_51eee668adc56ee2f16edbeb2ec58264">
+      <head>Biographical Note</head>
+      <p>William Henry Glasson was born in Troy, NY. on July 26, 1874. He received his Ph.B. from
+        Cornell University in 1896 and his Ph.D. from Columbia University in 1900. Glasson was head
+        of the Dept. of History and Civics at the George School (Newton, Pa.) from 1899-1902. He
+        came to Trinity College in 1902. During this tenure at Trinity and Duke University, Glasson
+        was instrumental in the development of the Dept. of Economics and the Graduate School. He
+        was Professor of Political Economy and Social Science from 1902-1940; appointed in charge of
+        the establishment of the retirement annuity plan for the faculty and administration; the
+        head of the department of economics and business administration; chairman of the faculty
+        committee on graduate instruction; and Dean of the Graduate School of Arts and Sciences from
+        1926-1938. Glasson was secretary of the Phi Beta Kappa Society for the South Atlantic
+        district; editor of the <title type="simple" render="italic">South Atlantic
+          Quarterly</title> from 1905-1909; and a member of the Durham Board of Education.</p>
+    </bioghist>
+    <scopecontent id="aspace_ea4c80fc5b894be6312731275fc671f0">
+      <head>Collection Overview</head>
+      <p>Collection includes personal and professional correspondence, manuscripts, research notes,
+        scrapbooks, diaries, diplomas, baptismal certificate, account books, postcards, and
+        photographs pertaining to Glasson's family, career, and interests. Major subjects found in
+        the collection are the growth of the Department of Economics and the Graduate School,
+        Trinity's efforts to obtain a Phi Beta Kappa chapter, and Duke University's contract with
+        the Teachers Insurance and Annuity Association of America. Correspondence includes a letter
+        to William P. Few (February 22, 1934) signed by 24 faculty members praising Duke's record on
+        academic freedom, reports directed to University administrators, and copies of family
+        genealogical material. A significant correspondent is H. Clay Evans, the U.S. Commissioner
+        of Pensions. In 1934, Glasson and Dean Wannamaker were among a group of academics who
+        travelled to Germany on a Carl Schurz Tour to see the effects of Hitler's rise to power. The
+        scrapbooks include maps, clippings, postcards, notes, and an itinerary from this trip.
+        Glasson's manuscripts include recollections of Trinity and Duke, a variety of writings and
+        lectures on money and banking, pension systems, and Durham's charter of incorporation. There
+        are 10 diaries (1898-1944), 3 family account books (1900-1937) including one that details
+        Glasson's daughters' expenses while students at Duke, and scrapbooks of clippings,
+        photographs of Glasson as a young man, poems, and photographs of Cornell University.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_d1745f7d23a90663b009289fb8829089">
+      <head>Related Material</head>
+      <p><archref><unittitle>Carlos Sforza Papers, 1933-1941. </unittitle><repository>David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University. </repository>
+        </archref></p>
+      <p><archref><unittitle>Department of Economics Records. </unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref></p>
+      <p><archref><unittitle>Graduate School Records. </unittitle><repository>University Archives,
+            Duke University. </repository>
+        </archref></p>
+      <p><archref><unittitle>Phi Beta Kappa, Beta of North Carolina Chapter, Records.
+            </unittitle><repository>University Archives, Duke University. </repository>
+        </archref></p>
+      <p><archref><unittitle>Portrait of William Henry Glasson. </unittitle><repository>David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University. </repository>
+        </archref></p>
+    </relatedmaterial>
+    <bibliography id="aspace_6701c8b62f70738b7b9303b5ddaa6eb6">
+      <head>Bibliography</head>
+      <bibref><persname>Boyd, William Kenneth.</persname><title render="doublequote">The
+          Installation of the Beta Chapter of North Carolina at Trinity College.</title> In <title
+          render="italic">The Phi Beta Kappa Key: The Official Publication of the United Chapters of
+          Phi Beta Kappa. </title><imprint> Vol. 4, no. 4, p. 211-226. <geogname>Somerville, N.J:
+            </geogname><publisher>Unionist-Gazette Association, </publisher><date
+            calendar="gregorian" era="ce" type="publication">1920</date>
+        </imprint></bibref>
+      <bibref><persname>Glasson, William Henry.</persname><title render="italic">History of Military
+          Pension Legislation in the United States.</title>, <imprint><geogname>New York:
+            </geogname><publisher>Columbia University Press, </publisher><date calendar="gregorian"
+            era="ce" type="publication">1900</date>
+        </imprint></bibref>
+    </bibliography>
+    <controlaccess>
+      <genreform source="aat">Scrapbooks</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <subject source="lcsh">Economics -- History</subject>
+      <subject source="lcsh">Academic freedom</subject>
+      <subject source="lcsh">Universities and colleges -- Faculty -- Retirement -- United
+        States</subject>
+      <subject source="lcsh">Pensions -- United States</subject>
+      <geogname source="lcsh">Germany -- Description and travel</geogname>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Diplomas</genreform>
+      <persname source="ingest">Wannamaker, William Hane, 1873-</persname>
+      <corpname source="ingest">Teachers Insurance and Annuity Association</corpname>
+      <corpname source="ingest">Trinity College (Durham, N.C.)</corpname>
+      <persname source="ingest">Glasson, William Henry, 1874-1946</persname>
+      <corpname source="ingest">Phi Beta Kappa. North Carolina Beta (Trinity College)</corpname>
+      <persname source="ingest">Evans, Henry Clay, 1843-1921</persname>
+      <corpname source="ingest">Duke University -- History</corpname>
+      <corpname source="ingest">Duke University. Graduate School</corpname>
+      <corpname source="ingest">Duke University -- Faculty</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref12_xub" level="series">
+        <did>
+          <unittitle>Correspondence 1891-1945</unittitle>
+        </did>
+        <scopecontent id="aspace_f02bf0e644ba9f59801f665179bf4bfd">
+          <head>Scope and Contents note</head>
+          <p>Correspondence centers around Glasson's involvement in the Dept. of Economics and the
+            Graduate School at Trinity College and Duke University, and his interest in pension
+            systems. Correspondence includes a letter to William P. Few (February 22, 1934) signed
+            by 24 faculty members praising Duke's record on academic freedom, reports directed to
+            University administrators, and copies of family genealogical material. A significant
+            correspondent is H. Clay Evans, the U.S. Commissioner of Pensions.</p>
+        </scopecontent>
+        <c02 id="aspace_ref13_k9m" level="file">
+          <did>
+            <unittitle>1891-1906</unittitle>
+            <container id="aspace_1730b3135edf6a9e0aa59423e61b161e" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_5dc76092a21293bd1aabd8cca382fedc"
+              parent="aspace_1730b3135edf6a9e0aa59423e61b161e" type="folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref14_2xw" level="file">
+          <did>
+            <unittitle>1907-1912</unittitle>
+            <container id="aspace_a1e839954b518fef195a40003bd9656f" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_19acfa4c930005cc5619e7b635c5509e"
+              parent="aspace_a1e839954b518fef195a40003bd9656f" type="folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref15_5mt" level="file">
+          <did>
+            <unittitle>1913-1915</unittitle>
+            <container id="aspace_14cba6f70273b53021a6f0e993400dd9" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_891f9186e731bbd67c61364fcabed517"
+              parent="aspace_14cba6f70273b53021a6f0e993400dd9" type="folder">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref16_hgd" level="file">
+          <did>
+            <unittitle>1916-1919</unittitle>
+            <container id="aspace_332f4e23494d23a1968db2b9e4ea7830" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_8146c82667662ea8a4901a6ec15051b4"
+              parent="aspace_332f4e23494d23a1968db2b9e4ea7830" type="folder">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref17_5em" level="file">
+          <did>
+            <unittitle>1920-1925</unittitle>
+            <container id="aspace_40c046a165e91bc4756bc1365ab729da" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_17c967bf900c53b318253b56d994220e"
+              parent="aspace_40c046a165e91bc4756bc1365ab729da" type="folder">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref18_kzo" level="file">
+          <did>
+            <unittitle>1926-1936</unittitle>
+            <container id="aspace_a73fb1f1307f20d22b897fd09866d522" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_1ab28756e4a2eba19ca95543f63b9538"
+              parent="aspace_a73fb1f1307f20d22b897fd09866d522" type="folder">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref19_l96" level="file">
+          <did>
+            <unittitle>1937-1945</unittitle>
+            <container id="aspace_5dfbae2efbebc6308783e9487f3f77e6" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_e8c69a2f863aa7d2ce456501d4af6e5f"
+              parent="aspace_5dfbae2efbebc6308783e9487f3f77e6" type="folder">7</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref21_tuo" level="series">
+        <did>
+          <unittitle>Writings 1893-1946</unittitle>
+        </did>
+        <scopecontent id="aspace_bb3b57b9ea0336c71beaea6d091d1842">
+          <head>Scope and Contents note</head>
+          <p>Writings include class notebooks kept while Glasson was a student, manuscripts, lecture
+            notes, diaries, account books, and personal reflections captured in poems and prose.
+            Included are recollections of Trinity and Duke, a variety of writings and lectures on
+            money and banking, pension systems, and Durham's charter of incorporation. There are 10
+            diaries (1898-1944), 3 family account books (1900-1937) including one that details
+            Glasson's daughters' expenses while students at Duke, copies of poems, and letters to
+            the editor written to local newspapers.</p>
+        </scopecontent>
+        <c02 id="aspace_ref22_cit" level="subseries">
+          <did>
+            <unittitle>Class Notebooks, 1893-1897</unittitle>
+          </did>
+          <c03 id="aspace_ref23_6oo" level="file">
+            <did>
+              <unittitle>Notes on lectures on economics taken at Cornell University,
+                1893</unittitle>
+              <container id="aspace_d9d2268816907b9be87f8efded4fcd16" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_a07ef393575993811e82c709e4cb4960"
+                parent="aspace_d9d2268816907b9be87f8efded4fcd16" type="folder">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref24_axm" level="file">
+            <did>
+              <unittitle>Notes on the lectures given by Professor Cheyney on English economic and
+                social history, 1897</unittitle>
+              <container id="aspace_6b02c9050cf90cb941700939520dfd5e" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_abe70ed84519999c33da10ca586fc0e9"
+                parent="aspace_6b02c9050cf90cb941700939520dfd5e" type="folder">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref25_vwt" level="file">
+            <did>
+              <unittitle>Notes on the lectures given by Professor Edwin R. A. Seligman on the
+                science of finance and the history of political economy, 1899-1900</unittitle>
+              <container id="aspace_a99e067fb557a4a74605f8051bf7ed08" label="Mixed Materials"
+                type="box">1</container>
+              <container id="aspace_6a9e749b199a8b063cbc871592cc6583"
+                parent="aspace_a99e067fb557a4a74605f8051bf7ed08" type="folder">10</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref26_g50" level="file">
+          <did>
+            <unittitle>Publication: <title render="doublequote">The South's Care for Her
+                Veterans,</title><title render="italic">The American Review of Reviews,</title>
+              July, 1907</unittitle>
+            <container id="aspace_b2adf29575919067a7e2b0eb38fd8cf5" label="Mixed Materials"
+              type="box">2</container>
+            <container id="aspace_7bc0021144baec712e35983a820ba3a4"
+              parent="aspace_b2adf29575919067a7e2b0eb38fd8cf5" type="folder">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref27_vy4" level="subseries">
+          <did>
+            <unittitle>Manuscripts [1914]-[1938] and undated</unittitle>
+          </did>
+          <c03 id="aspace_ref28_17i" level="file">
+            <did>
+              <unittitle>"Commission Government in American Cities," [1914]</unittitle>
+              <container id="aspace_cb0fe64c34a7b92c8f5a4995a7efb198" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_d9d59dd5dbc0057b68dcb63d126b6b87"
+                parent="aspace_cb0fe64c34a7b92c8f5a4995a7efb198" type="folder">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref29_7ww" level="file">
+            <did>
+              <unittitle>"Price Inflation: Its Beneficiaries and Its Victims," [1919]</unittitle>
+              <container id="aspace_55b55e25eb88370a661cd4170eb71a1c" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_d5764ea033be2d28c1e2f0fd0aff0d67"
+                parent="aspace_55b55e25eb88370a661cd4170eb71a1c" type="folder">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref30_3g7" level="file">
+            <did>
+              <unittitle>"The Graduate School of Arts and Sciences," [1927]</unittitle>
+              <container id="aspace_a352727f5fc5305683b1127bb78ee2c4" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_98af25f7f3264b55f5436677e021cae7"
+                parent="aspace_a352727f5fc5305683b1127bb78ee2c4" type="folder">14</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref31_5p7" level="file">
+            <did>
+              <unittitle>"The Average Man's Savings," 1930</unittitle>
+              <container id="aspace_38ebaed88feabf69a0a07d9927988bcd" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_23afba2e586e7f4cdba103ff0d57076b"
+                parent="aspace_38ebaed88feabf69a0a07d9927988bcd" type="folder">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref32_xs2" level="file">
+            <did>
+              <unittitle>"The Modern University and Its Functions," Dec. 11, 1931</unittitle>
+              <container id="aspace_bc04f09713f51c38fcd991e7c8820302" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_f64902e3e9dbb0c83aa3a054d8ead383"
+                parent="aspace_bc04f09713f51c38fcd991e7c8820302" type="folder">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref33_s9m" level="file">
+            <did>
+              <unittitle>"Civil War Pensions: A Retrospective," Jan. 1, 1937</unittitle>
+              <container id="aspace_cec513c6f4626ceab959645ec2f301f9" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_9d419e38a022bf075d31434dad01f659"
+                parent="aspace_cec513c6f4626ceab959645ec2f301f9" type="folder">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref34_z7j" level="file">
+            <did>
+              <unittitle>"Memoirs of Duke University and Trinity College," 1938.</unittitle>
+              <container id="aspace_0b555fc074729a3315f28ec9fd63ea8e" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_5c4f3acdebdfabfcb2966f8b8b088c01"
+                parent="aspace_0b555fc074729a3315f28ec9fd63ea8e" type="folder">18</container>
+            </did>
+            <scopecontent id="aspace_e77ba604561fde074b277ce67fefa1ac">
+              <head>Scope and Contents note</head>
+              <p>Includes correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref36_ild" level="file">
+            <did>
+              <unittitle>"History of the Department of Economics and business Administration," ca.
+                1938</unittitle>
+              <container id="aspace_608d7cf6585907e57dc8360ce9bbf5ff" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_97f2874c64a7504527c647994af48a34"
+                parent="aspace_608d7cf6585907e57dc8360ce9bbf5ff" type="folder">19</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref37_bar" level="file">
+            <did>
+              <unittitle>"Economic Effects of the World War," undated</unittitle>
+              <container id="aspace_1bee673a248f4bedc5f02b526fb00464" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_5dd468bfdcd39f2c4b785875600ede63"
+                parent="aspace_1bee673a248f4bedc5f02b526fb00464" type="folder">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref38_ur4" level="file">
+            <did>
+              <unittitle>"The European War's Economic Effects Upon the U.S.," undated</unittitle>
+              <container id="aspace_61bd45cd78ab99d675fb0e99aaae18bb" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_0a8dc8aacd172ea5401b892089f5963c"
+                parent="aspace_61bd45cd78ab99d675fb0e99aaae18bb" type="folder">21</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref39_aiu" level="file">
+            <did>
+              <unittitle>"Military Pensions and Soldiers' Insurance in the U.S.,"
+                undated</unittitle>
+              <container id="aspace_3a21a8cb7ccf194d8ec439118c970ee8" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_b761e604ad711923d17ffc6298a1a6dd"
+                parent="aspace_3a21a8cb7ccf194d8ec439118c970ee8" type="folder">22</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref40_f8x" level="file">
+            <did>
+              <unittitle>"Optional City Charter and Municipal Finance Laws in N.C.,"
+                undated</unittitle>
+              <container id="aspace_6ddcddc4a983138a6532ed645f72c0d2" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_21a233694187e05d54426875ccc0c0d6"
+                parent="aspace_6ddcddc4a983138a6532ed645f72c0d2" type="folder">23</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref41_wyu" level="file">
+            <did>
+              <unittitle>"Recent Progress in Municipal Government," undated</unittitle>
+              <container id="aspace_3f1556993e85412a0a22a94afdebb829" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_9d74261da39d766d1e4338f1868b8297"
+                parent="aspace_3f1556993e85412a0a22a94afdebb829" type="folder">24</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref42_ape" level="file">
+            <did>
+              <unittitle>"The South's Pension and Relief Provisions for the Soldiers of the
+                Confederacy," undated</unittitle>
+              <container id="aspace_add16f074f655dea900b0032fa88a68d" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_d830023c26488b91e4118ce387299268"
+                parent="aspace_add16f074f655dea900b0032fa88a68d" type="folder">25</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref43_d9e" level="file">
+            <did>
+              <unittitle>"William Preston Few," undated</unittitle>
+              <container id="aspace_cf8b87eb14a950668b53a18abbed33bb" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_5924758aef024483dfa84a5e04914faa"
+                parent="aspace_cf8b87eb14a950668b53a18abbed33bb" type="folder">26</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref44_zg2" level="subseries">
+          <did>
+            <unittitle>Lecture Notes, 1938-1940 and undated</unittitle>
+          </did>
+          <c03 id="aspace_ref45_mq9" level="file">
+            <did>
+              <unittitle>Lecture notes for Economics 203, [Money and Banking],
+                1938-1940.</unittitle>
+              <container id="aspace_d928b931790e175d64acf9d7d4205489" label="Mixed Materials"
+                type="box">2</container>
+              <container id="aspace_11042b21641bd3f711f3b19c4daa225a"
+                parent="aspace_d928b931790e175d64acf9d7d4205489" type="folder">27-29</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref46_mii" level="file">
+            <did>
+              <unittitle>"Military Pensions in American Public Finance and Politics,"
+                undated</unittitle>
+              <container id="aspace_55306bedcd56c15ec44359aa58c556b2" label="Mixed Materials"
+                type="box">3</container>
+              <container id="aspace_efafe6b84110a3f161b27276b63f60d9"
+                parent="aspace_55306bedcd56c15ec44359aa58c556b2" type="folder">30</container>
+            </did>
+            <scopecontent id="aspace_d13fea6e2917e8373c63d97e0238ab1a">
+              <head>Scope and Contents note</head>
+              <p>Five lectures delivered at Johns Hopkins University.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref48_lot" level="file">
+            <did>
+              <unittitle>Notes and research materials, undated</unittitle>
+              <container id="aspace_f55cf6b6465bc87b28ac66eab640504e" label="Mixed Materials"
+                type="box">3</container>
+              <container id="aspace_652d0330e097d96f914e7e1ddcdc9c19"
+                parent="aspace_f55cf6b6465bc87b28ac66eab640504e" type="folder">31</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref49_4ux" level="subseries">
+          <did>
+            <unittitle>Diaries 1898-1944</unittitle>
+          </did>
+          <c03 id="aspace_ref50_vy0" level="file">
+            <did>
+              <unittitle>1898</unittitle>
+              <container id="aspace_0d649a9362442af3ba0cde3cae4bf466" label="Mixed Materials"
+                type="box">3</container>
+              <container id="aspace_a0b6e346a349a42449a7344531f58567"
+                parent="aspace_0d649a9362442af3ba0cde3cae4bf466" type="folder">32</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref51_khb" level="file">
+            <did>
+              <unittitle>1900-1902</unittitle>
+              <container id="aspace_2c9a640e7fbacced7e88e7a19edd1b5f" label="Mixed Materials"
+                type="box">3</container>
+              <container id="aspace_2c3d2320adaa10ca97ed77b83c7a393d"
+                parent="aspace_2c9a640e7fbacced7e88e7a19edd1b5f" type="folder">33</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref52_7el" level="file">
+            <did>
+              <unittitle>1935</unittitle>
+              <container id="aspace_2684d888ab16be0920e23871478252a8" label="Mixed Materials"
+                type="box">3</container>
+              <container id="aspace_74402fd1b891ce8e08e5df1774283c36"
+                parent="aspace_2684d888ab16be0920e23871478252a8" type="folder">34</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref53_5p7" level="file">
+            <did>
+              <unittitle>1936</unittitle>
+              <container id="aspace_027bda2e1684ddcf6b0187fe63adb1ee" label="Mixed Materials"
+                type="box">3</container>
+              <container id="aspace_e7e8f9854c85902ce9eb36b45be4f547"
+                parent="aspace_027bda2e1684ddcf6b0187fe63adb1ee" type="folder">35</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref54_ftg" level="file">
+            <did>
+              <unittitle>1937</unittitle>
+              <container id="aspace_eb728c25d97360ca5d4a247782e6880a" label="Mixed Materials"
+                type="box">4</container>
+              <container id="aspace_c83221838ac7376907b0a79489e4f103"
+                parent="aspace_eb728c25d97360ca5d4a247782e6880a" type="folder">36</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref55_2h4" level="file">
+            <did>
+              <unittitle>1938</unittitle>
+              <container id="aspace_800ec4f9b2a6662487ba9c500e58b292" label="Mixed Materials"
+                type="box">4</container>
+              <container id="aspace_2fda205a02c2245e15301535eb9b3bce"
+                parent="aspace_800ec4f9b2a6662487ba9c500e58b292" type="folder">37</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref56_3b8" level="file">
+            <did>
+              <unittitle>1939</unittitle>
+              <container id="aspace_db6b36a01aad2a23df4f54d0a2934c8b" label="Mixed Materials"
+                type="box">4</container>
+              <container id="aspace_b4d29ecdf29a27ed26490b29c563cfd2"
+                parent="aspace_db6b36a01aad2a23df4f54d0a2934c8b" type="folder">38</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref57_0y5" level="file">
+            <did>
+              <unittitle>1940</unittitle>
+              <container id="aspace_c57ffa16a3090025bbeb5c810638cf72" label="Mixed Materials"
+                type="box">4</container>
+              <container id="aspace_d1c8c863534566ed91d958ed07ac8aac"
+                parent="aspace_c57ffa16a3090025bbeb5c810638cf72" type="folder">39</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref58_llk" level="file">
+            <did>
+              <unittitle>1941</unittitle>
+              <container id="aspace_1d4ad1120157ea0feceaf9ad2109b407" label="Mixed Materials"
+                type="box">4</container>
+              <container id="aspace_ac7b74670019fde73068321b3ed08148"
+                parent="aspace_1d4ad1120157ea0feceaf9ad2109b407" type="folder">40</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref59_4ke" level="file">
+            <did>
+              <unittitle>1942</unittitle>
+              <container id="aspace_492b43c93242ff8e328bbccc6e12c2d7" label="Mixed Materials"
+                type="box">4</container>
+              <container id="aspace_0a5443a44e787909c1428137bde0f9bd"
+                parent="aspace_492b43c93242ff8e328bbccc6e12c2d7" type="folder">41</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref60_hsf" level="file">
+            <did>
+              <unittitle>1944</unittitle>
+              <container id="aspace_047241d7144f71688c2b835889cb7377" label="Mixed Materials"
+                type="box">5</container>
+              <container id="aspace_68de3d742c1215141964ab9d18101c27"
+                parent="aspace_047241d7144f71688c2b835889cb7377" type="folder">42</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref61_7hd" level="subseries">
+          <did>
+            <unittitle>Account Books 1900-1937</unittitle>
+          </did>
+          <c03 id="aspace_ref62_7g8" level="file">
+            <did>
+              <unittitle>Accounts kept at the George School, Bucks County, Pa.,
+                1900-1901</unittitle>
+              <container id="aspace_9b17d201d9c170e9800c22dfeb7264d5" label="Mixed Materials"
+                type="box">5</container>
+              <container id="aspace_4613154e9239fb17675e3848a72e75e1"
+                parent="aspace_9b17d201d9c170e9800c22dfeb7264d5" type="folder">43</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref63_0bp" level="file">
+            <did>
+              <unittitle>Record book of stocks owned by William H. Glasson and Mary P. Glasson,
+                1907-1945</unittitle>
+              <container id="aspace_ec73296d5348d6dd7c8f43dcfd0bfb66" label="Mixed Materials"
+                type="box">5</container>
+              <container id="aspace_71281760af4fe82888f533e29ee3680e"
+                parent="aspace_ec73296d5348d6dd7c8f43dcfd0bfb66" type="folder">44</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref64_wyx" level="file">
+            <did>
+              <unittitle>College expenses for Lucy P. Glasson and Mary E. Glasson,
+                1922-1933</unittitle>
+              <container id="aspace_bd92becd40273e1fd325764aa0fc4b53" label="Mixed Materials"
+                type="box">5</container>
+              <container id="aspace_c15290eb8c9d0786bbf4cb97a09fed60"
+                parent="aspace_bd92becd40273e1fd325764aa0fc4b53" type="folder">45</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref65_igp" level="subseries">
+          <did>
+            <unittitle>Poems and Prose [1914]-1945 and undated</unittitle>
+          </did>
+          <c03 id="aspace_ref66_nbz" level="file">
+            <did>
+              <unittitle>Small book of poems and prose, 1944-1945</unittitle>
+              <container id="aspace_f2e01df014c14106cf8f1e03c4848649" label="Mixed Materials"
+                type="box">5</container>
+              <container id="aspace_69a3cc29373e541a61256208c55bbba0"
+                parent="aspace_f2e01df014c14106cf8f1e03c4848649" type="folder">46</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref67_jvl" level="file">
+            <did>
+              <unittitle>Six poems, undated</unittitle>
+              <container id="aspace_2d5065e2a015ea195a21914f025e6a01" label="Mixed Materials"
+                type="box">5</container>
+              <container id="aspace_dfac40079425fc16b8ea9b525177b45a"
+                parent="aspace_2d5065e2a015ea195a21914f025e6a01" type="folder">47</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref69_nos" level="series">
+        <did>
+          <unittitle>Subject Files, 1911-1938 and undated</unittitle>
+        </did>
+        <c02 id="aspace_ref70_b40" level="file">
+          <did>
+            <unittitle>Phi Beta Kappa, 1911-1929</unittitle>
+            <container id="aspace_b4ae8183edde8419de363e43b2d49e8e" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_691904048d08af35e821f515aace8a90"
+              parent="aspace_b4ae8183edde8419de363e43b2d49e8e" type="folder">48</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref71_hbs" level="file">
+          <did>
+            <unittitle>Trinity College finances, [1912]-1920</unittitle>
+            <container id="aspace_6b143f6c63d4ea186ddf6fc4c7c656ad" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_593d38fac96c929db4618dadd1f50c3a"
+              parent="aspace_6b143f6c63d4ea186ddf6fc4c7c656ad" type="folder">49</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref72_dnx" level="file">
+          <did>
+            <unittitle>Pensions, 1916-1935</unittitle>
+            <container id="aspace_9b4fc2b4ff2ac85d3f94ba4ad5e62f27" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_3a9b43dcba180a7b369a1b8f34036dad"
+              parent="aspace_9b4fc2b4ff2ac85d3f94ba4ad5e62f27" type="folder">50</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref73_wno" level="file">
+          <did>
+            <unittitle>Teachers Insurance and Annuity Association of America, 1918-1925</unittitle>
+            <container id="aspace_4ba6625fbbabd69477080a226671c298" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_d067db3f79d51598266042fee44c031d"
+              parent="aspace_4ba6625fbbabd69477080a226671c298" type="folder">51</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref74_ydh" level="file">
+          <did>
+            <unittitle>Minutes of the meeting of the Commission on University Organization, Jan. 26,
+              1925</unittitle>
+            <container id="aspace_d0700e183cbde7050986f14f64a5ee40" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_0e8e237b7515922c2de1aff1ef05ee71"
+              parent="aspace_d0700e183cbde7050986f14f64a5ee40" type="folder">52</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref75_qjq" level="file">
+          <did>
+            <unittitle>Graduate School of Arts and Sciences, 1925-1938</unittitle>
+            <container id="aspace_fb1875ddb2ff19792c9d9b7af4edee22" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_63a73737541d2d17d46c812f3e894f8b"
+              parent="aspace_fb1875ddb2ff19792c9d9b7af4edee22" type="folder">53</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref76_g3x" level="file">
+          <did>
+            <unittitle>Carl Shurz tour of American professors and students to Germany,
+              July-Aug.1934</unittitle>
+            <container id="aspace_54de79f5677379459e4e2d6799e08588" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_4ec29e64d5229be5d041c8ca1148d66c"
+              parent="aspace_54de79f5677379459e4e2d6799e08588" type="folder">54</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref77_vgz" level="file">
+          <did>
+            <unittitle><title render="italic">South Atlantic Quarterly, </title>undated</unittitle>
+            <container id="aspace_e4ef3f1099c41c7cbb3fc73270d29c93" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_cf76d6d1b2ccc063142aa3966d822f2e"
+              parent="aspace_e4ef3f1099c41c7cbb3fc73270d29c93" type="folder">55</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref78_djr" level="series">
+        <did>
+          <unittitle>Graphics, 1900-[1934] and undated</unittitle>
+        </did>
+        <c02 id="aspace_ref79_j0m" level="file">
+          <did>
+            <unittitle>Photographs of family and friends, undated</unittitle>
+            <container id="aspace_4883b8ce8b46fa73e65b289443ee80dd" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_48e35e896eb2e6cfff65be55732a75b9"
+              parent="aspace_4883b8ce8b46fa73e65b289443ee80dd" type="folder">56-57</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref80_nmt" level="file">
+          <did>
+            <unittitle>Travel photographs taken in Florida, Colorado, and Venezuela and Italy,
+              undated</unittitle>
+            <container id="aspace_dd5a05bc71b92558eee0b55e52655be6" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_2e017fa165a231c62245d25c8915b9d1"
+              parent="aspace_dd5a05bc71b92558eee0b55e52655be6" type="folder">58</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref81_ds0" level="file">
+          <did>
+            <unittitle>Photographs of Cornell University and Ithaca, NY, [ca.1900]</unittitle>
+            <container id="aspace_4508b4df5245e424afbea20a76def7cb" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_6fa4890eca4ed41836da6cddd3cb91e5"
+              parent="aspace_4508b4df5245e424afbea20a76def7cb" type="folder">59</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref82_co7" level="file">
+          <did>
+            <unittitle>[Postcards collected on Carl Schurz tour in Germany], [1934]</unittitle>
+            <container id="aspace_8327a0d4fa80dcecfbf8dcb739d4de76" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_33f51f2b6587f5810aba98c9b07e9218"
+              parent="aspace_8327a0d4fa80dcecfbf8dcb739d4de76" type="folder">60</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref83_g0j" level="file">
+          <did>
+            <unittitle>Still life, 1900</unittitle>
+            <container id="aspace_95e0fdda1a5b9d7ef85637d5a8451580" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_03bf48997ecb325249c082a65b91d42b"
+              parent="aspace_95e0fdda1a5b9d7ef85637d5a8451580" type="folder">61</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref84_qfg" level="series">
+        <did>
+          <unittitle>Clippings, 1897-1946</unittitle>
+        </did>
+        <c02 id="aspace_ref85_c78" level="file">
+          <did>
+            <unittitle>1897-1946</unittitle>
+            <container id="aspace_1a88d886e212fc86350d0ea7c91dcb91" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_09e55978c3f01721f63dc7d4be13d433"
+              parent="aspace_1a88d886e212fc86350d0ea7c91dcb91" type="folder">62</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref86_qgh" level="file">
+          <did>
+            <unittitle>1899-1946</unittitle>
+            <container id="aspace_e467a752ff76b3be0bcae33856b8ea08" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_0b412a597fee18f62e95ac09adc19c8a"
+              parent="aspace_e467a752ff76b3be0bcae33856b8ea08" type="folder">63</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref87_9l9" level="file">
+          <did>
+            <unittitle>Trinity and Duke, 1920-1939</unittitle>
+            <container id="aspace_34d3fde9373cc4c53191563e800d899f" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_01fa89904eb0bb7ffde95e44d3da182e"
+              parent="aspace_34d3fde9373cc4c53191563e800d899f" type="folder">64</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref88_26d" level="series">
+        <did>
+          <unittitle>Souvenirs, 1897-1929</unittitle>
+        </did>
+        <c02 id="aspace_ref89_czs" level="file">
+          <did>
+            <unittitle>Programs, placecards, and invitations, 1892-1929</unittitle>
+            <container id="aspace_31c5c740785b4f60d309cb16e1fe4bbc" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_053da707a92226baf1b87f9855cce7d0"
+              parent="aspace_31c5c740785b4f60d309cb16e1fe4bbc" type="folder">65</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref90_rde" level="file">
+          <did>
+            <unittitle>Trinity College, 1903-1926.</unittitle>
+            <container id="aspace_95b85104d351acfeb7b92b0f53b032cb" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_29f8acd3397db5ee25796ae6a72d7760"
+              parent="aspace_95b85104d351acfeb7b92b0f53b032cb" type="folder">66</container>
+          </did>
+          <scopecontent id="aspace_c51cdfb6b2fcd417f67b3e4c57b91f9d">
+            <head>Scope and Contents note</head>
+            <p>Includes commencement and graduation exercises, and a copy of Alexander Hamilton's
+                <title type="simple" render="italic">Report on Manufactures</title> presented to Dr.
+              Glasson by John Franklin Crowell.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref92_vml" level="series">
+        <did>
+          <unittitle>Oversize Materials</unittitle>
+        </did>
+        <scopecontent id="aspace_e111e4e0e37410c7114f227f80252d3d">
+          <head>Scope and Contents note</head>
+          <p>Included are drafts and copies of the city of Durham's charter and act to incorporate,
+            Glasson's diplomas, and scrapbooks kept while Glasson was on the 1934 Carl Schurz Tour
+            to see the effects of Hitler's rise to power. The scrapbooks include maps, clippings,
+            postcards, notes, and an itinerary from this trip.</p>
+        </scopecontent>
+        <c02 id="aspace_ref93_pe1" level="file">
+          <did>
+            <unittitle>Proposed charter and act to incorporate the city of Durham,
+              1915-1921</unittitle>
+            <container id="aspace_adc153152622322364a731b2f0b2b322" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_003d32e6c78a2a0baefcc014806cfb82"
+              parent="aspace_adc153152622322364a731b2f0b2b322" type="oversize-folder">7</container>
+            <container id="aspace_2c959ae9c0202f06241d05c963147deb"
+              parent="aspace_003d32e6c78a2a0baefcc014806cfb82" type="folder">67</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref94_0y6" level="subseries">
+          <did>
+            <unittitle>Scrapbooks</unittitle>
+          </did>
+          <c03 id="aspace_ref95_a7j" level="file">
+            <did>
+              <unittitle>1896-1939</unittitle>
+              <container id="aspace_d7bc4af0495ebb90ed603251a40d7440" label="Mixed Materials"
+                type="box">6</container>
+              <container id="aspace_43349038cef06365304113e0a9e88bf3"
+                parent="aspace_d7bc4af0495ebb90ed603251a40d7440" type="folder">68</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref96_yc8" level="file">
+            <did>
+              <unittitle>[ca.1900]-1941</unittitle>
+              <container id="aspace_c2fb0fe284dbe9fe9fa580bfb2517087" label="Mixed Materials"
+                type="box">6</container>
+              <container id="aspace_c615eb12c5687dba48fed93910cb5507"
+                parent="aspace_c2fb0fe284dbe9fe9fa580bfb2517087" type="folder">69</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref97_ou6" level="file">
+          <did>
+            <unittitle>Diplomas and Baptismal certificate, 1874-1939</unittitle>
+            <container id="aspace_f22283a42a8e98d0489490723674ecb8"
+              label="Mixed Materials [D05069614V]" type="oversize-folder">1</container>
+            <container id="aspace_66221522e0c36d40d4392916ed1e0e1f"
+              label="mixed materials [D05069615W]" type="oversize-folder">2</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

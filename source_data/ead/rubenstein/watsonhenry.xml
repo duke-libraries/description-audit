@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD" url="https://idn.duke.edu/ark:/87924/m1r41v"
+      >watsonhenry</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Henry Watson Papers, 1765-1938 <num>RL.01351</num></titleproper>
+        <author>Processed by: Rubenstein Library Staff; machine-readable finding aid created by:
+          Noah Huffman</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2010</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">000877864</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-10-21 16:42:14
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Henry Watson papers</unittitle>
+      <origination label="Creator">
+        <persname source="ingest">Watson, Henry, 1810-1891</persname>
+      </origination>
+      <unitid>RL.01351</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1765/1938" type="inclusive">1765-1938</unitdate>
+      <physloc id="aspace_610ca110ee8a7be538e60f4f759d31ba">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <abstract id="aspace_4716dfc4ce1bd50795188eee6dd8b21c">Planter and lawyer of Greensboro, Ala.
+        Collection includes letters, diaries, business correspondence, and papers (chiefly
+        1828-1869) relating to Watson's career in law, his planting activities, his accumulation of
+        property, establishment of the Planter's Insurance Company, slavery, farming conditions in
+        ante-bellum Alabama, politics in Alabama before the Civil War, activities of the Watson
+        family, the migration of Watson's family and relatives to various places in the West,
+        secession in Alabama, Watson's removal to Germany during the Civil War, his return to the
+        U.S. after the war, and his postwar career in Connecticut and Alabama. Also includes
+        correspondence with his partner, John Erwin, a Whig leader; land grants to Edwin Peck signed
+        by Martin Van Buren; letters from Confederate soldiers imprisoned at Johnson's Island, Ohio;
+        letters from Henry Bernard; and early letters from Elisha Stanley describing Pittsburgh,
+        Pa., Cincinnati, Ohio, and Kentucky, the mercantile business during the War of 1812, the
+        martial spirit and activities of the Kentuckians during the War of 1812, and the disastrous
+        effects of peace on mercantile pursuits. Also in the collection are letters and papers of
+        John Watson (d. 1824), including fragments, complete literary manuscripts, and papers
+        relating to the settlement of his estate; and letters and diaries of Henry Watson's brother,
+        Sereno.</abstract>
+      <physdesc id="aspace_1e338629da6ef10be2adbf5ab518d9ad"
+        label="General Physical Description note"><extent>5,641 Items</extent></physdesc>
+      <langmaterial id="aspace_7bd98e1e8f42348b145bb3a84b098992">Material in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_c220fb13b9520217f9e5743d06d8a6f5">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_4dd8a9d3acbc14e8d395dff13e87e81f">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_62873f3c110f212a325bb896cb0413e8">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Henry Watson Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University</p>
+    </prefercite>
+    <acqinfo id="aspace_a73b3104118a6d8dedb2e82bed5a24ce">
+      <head>Provenance</head>
+      <p>The Henry Watson Papers were acquired by the David M. Rubenstein Rare Book &amp; Manuscript
+        Library from 1933 to 1950.</p>
+    </acqinfo>
+    <processinfo id="aspace_d09ce2c71c967e3d11a5f917843ad965">
+      <head>Processing Information</head>
+      <p>Processed by Rubenstein Library Staff</p>
+      <p>Encoded by Noah Huffman, February 2010</p>
+    </processinfo>
+    <bioghist id="aspace_5e08ccb94eaafc069fc0eef282926e34">
+      <head>Biographical Note</head>
+      <p>Planter and lawyer of Greensboro, Ala.</p>
+    </bioghist>
+    <scopecontent id="aspace_138d16403175bffa565c3102b3190983">
+      <head>Collection Overview</head>
+      <p>Collection contains personal and business correspondence and papers of Henry Watson, Jr.
+        (1810-1888), lawyer and planter. Early papers relate to John Watson (d. 1824), a frequent
+        contributor to Joel Barlow's American Mercury, and include fragments and several complete
+        literary manuscripts; papers relating to the settlement of John Watson's estate; and several
+        letters to Henry Watson, Sr., from Elisha Stanley. This Stanley-Watson correspondence
+        describes Pittsburgh, Pennsylvania; Cincinnati, Ohio; and Kentucky; mercantile business and
+        the activities of Kentuckians during the War of 1812; and the disastrous effects of peace on
+        mercantile pursuits.</p>
+      <p>The papers centering on Henry Watson, Jr., concern his education at Hartford, Connecticut,
+        and at Harvard College, Cambridge, Massachusetts; a visit to Greensboro, Alabama, in 1831;
+        return to his home in East Windsor, Connecticut, for the study of law with Henry Barnard;
+        his return to Greensboro in 1834 to begin the practice of law; the establishment of a
+        lucrative practice; the accumulation of property including a plantation and slaves; the
+        establishment of the Planter's Insurance Company; his marriage to Sophia Peck; his efforts
+        to dispose of two shares in the Ohio Land Company; his residence in Europe during the Civil
+        War; and the settlement of his father's estate.</p>
+      <p>Correspondence describes college life at Harvard College; life in Alabama, with accounts of
+        the soil, settlement, and agriculture; politics in Alabama, 1834-1844; volunteers from
+        Alabama for service in the Mexican War; westward migration; activities of Northern
+        abolitionists in Alabama in 1836; panics of 1837 and 1857; Whig politics in the 1850s; fear
+        in Greensboro of a slave insurrection, 1860; the presidential campaign of 1860; secession;
+        the sale of cotton before and after the Civil War; mail service between the North and the
+        South during the war; mobilization and preparation for war; the management of his plantation
+        and the impressment of slaves, tools, and livestock during the war; the difficulties of
+        Southerners in Europe during the war; inflation; railroad building in Alabama; the Union
+        Pacific Railroad; and Reconstruction.</p>
+      <p>Also included is correspondence with John Erwin, Whig leader in Alabama; two land grants to
+        Edwin Peck signed by Martin Van Buren; letters from Sophia Peck, her brother, William Peck,
+        and her sister, Mary Eliza Peck, while in schools in Hartford, Connecticut, and New York,
+        New York; letters from the brothers and sisters of Henry Watson, Jr., in Illinois, Iowa, and
+        Ohio; letters from William P. Eaton, head of the Female Department of the Cahaba (Alabama)
+        Male and Female Academy; letter of Henry Watson to an editor on the subject of fertilizers;
+        several letters from Confederate soldiers imprisoned at Johnson's Island, Ohio; contracts of
+        Watson with freedmen; a bulletin of the Irving Institute, Tarrytown, New York; tax lists for
+        Greene County, Alabama; printed extracts from the diary of William Watson; bulletin of the
+        Berlin American Female Institute; catalogs of the Cumberland University Law School, Lebanon,
+        Tennessee, 1851-1852, and of the Greensboro (Alabama) Female Academy, 1858; letters,
+        biographical sketch, and list of the writings of Asa Gray; biographical sketch, certificates
+        of membership in various learned societies, and three articles of Sereno Watson (b. 1826),
+        brother of Henry Watson, Jr., botanist, and associate editor of the Journal of Education;
+        and letters of Henry Barnard [partially published: Bayrd Still (ed.), "Observations of Henry
+        Barnard on the West and South of the 1840's," Journal of Southern History, VIII (May, 1942),
+        247-258]. A large portion of the papers are bills, receipts, and prices current. Volumes
+        include plantation and household accounts, 1834-1866, record of Negroes, 1843-1866, bill
+        book of the Planters' Insurance Company, 1854-1863, summaries of magazine articles and
+        account book, 1832-1848, and diaries, 1830-1833 and 1850-1854, of Henry Watson, Jr.; and
+        diaries, 1849-1863, and genealogical notes and records of Sereno Watson.</p>
+    </scopecontent>
+    <controlaccess>
+      <geogname source="lcsh">United States -- History -- War of 1812 -- Economic aspects</geogname>
+      <geogname source="lcsh">United States -- History -- Civil War, 1861-1865 -- Prisoners and
+        prisons</geogname>
+      <geogname source="lcsh">West (U.S.) -- Emigration and immigration</geogname>
+      <subject source="lcsh">Political refugees -- Confederate States of America</subject>
+      <subject source="lcsh">Slavery -- Alabama</subject>
+      <geogname source="lcsh">Alabama -- Politics and government -- to 1865</geogname>
+      <geogname source="lcsh">Kentucky -- History -- War of 1812</geogname>
+      <subject source="lcsh">Lawyers -- Alabama -- Greensboro</subject>
+      <subject source="lcsh">Migration, Internal -- United States</subject>
+      <subject source="lcsh">Plantations -- Alabama</subject>
+      <corpname source="ingest">Johnson Island Prison</corpname>
+      <corpname source="ingest">Planters' Insurance Company</corpname>
+      <persname source="ingest">Barnard, Henry</persname>
+      <persname source="ingest">Erwin, John</persname>
+      <persname source="ingest">Watson, Henry, 1810-1891</persname>
+      <persname source="ingest">Watson, John, d. 1824</persname>
+      <persname source="ingest">Stanley, Elisha</persname>
+      <persname source="ingest">Watson, Sereno</persname>
+      <famname source="ingest">Watson family</famname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref12_t8x" level="series">
+        <did>
+          <unittitle>Henry Watson Papers, 1765-1938</unittitle>
+          <physdesc id="aspace_0eb8ea0a49ddd0d376ed78109bc35bde"
+            label="General Physical Description note"><extent>14 boxes, 18
+            volumes</extent></physdesc>
+        </did>
+        <c02 id="aspace_ref14_93d" level="file">
+          <did>
+            <unittitle>Correspondence, 1765-1831</unittitle>
+            <container id="aspace_962ac166dbf6183ba9b39dd111ed46fb" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref15_r5m" level="file">
+          <did>
+            <unittitle>Correspondence, 1832-1835</unittitle>
+            <container id="aspace_0b0e02c59859af05f5e0a9a2b56755b9" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref16_ha7" level="file">
+          <did>
+            <unittitle>Correspondence, 1836-1843</unittitle>
+            <container id="aspace_cbaf2e386b7843ed58baf769a06e8a8e" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref17_sn5" level="file">
+          <did>
+            <unittitle>Correspondence, 1844-1848</unittitle>
+            <container id="aspace_6e409d0c72f32a87fb3960770178b421" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref18_bf3" level="file">
+          <did>
+            <unittitle>Correspondence, 1849-1857</unittitle>
+            <container id="aspace_102af5555a2d5528e59c001867642caa" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref19_vrn" level="file">
+          <did>
+            <unittitle>Correspondence, 1858-1864</unittitle>
+            <container id="aspace_4a17ee52d1b6e5a8f0d60ac4d690a09b" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref20_79v" level="file">
+          <did>
+            <unittitle>Correspondence, 1865-1874</unittitle>
+            <container id="aspace_7a9b9dc8a6d4c9e2d778b415b433cdf7" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref21_wq1" level="file">
+          <did>
+            <unittitle>Correspondence, 1875-1938 and undated</unittitle>
+            <container id="aspace_8886f6761c09792360abb64d10831cb8" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref22_n2o" level="file">
+          <did>
+            <unittitle>Correspondence, 1901-1938 and undated</unittitle>
+            <container id="aspace_f0d086f611ab374879a0d20499474859" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref23_gki" level="file">
+          <did>
+            <unittitle>Bills, Receipts, and Indentures (1770s-1830s)</unittitle>
+            <container id="aspace_88d8025f811bbaa7e487c273e5a0f0e0" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref24_da2" level="file">
+          <did>
+            <unittitle>Financial Papers, 1844-1857</unittitle>
+            <container id="aspace_6f9474290a61f2eb4e071c8e7af33622" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref25_ajc" level="file">
+          <did>
+            <unittitle>Financial Papers, 1858-1869</unittitle>
+            <container id="aspace_caab5f5653117f1295c83c16989268ad" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref26_t4n" level="file">
+          <did>
+            <unittitle>Financial Papers, 1870-1889 and undated</unittitle>
+            <container id="aspace_2e791d128c677ab6c77156e9ccb2bb53" label="Mixed Materials"
+              type="box">12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref27_ycj" level="file">
+          <did>
+            <unittitle>Addresses and Writings, 1782-1831 and U.S.</unittitle>
+            <container id="aspace_e4c9d7b0d276d9720e315fb5db774100" label="Mixed Materials"
+              type="box">12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref28_wvz" level="file">
+          <did>
+            <unittitle>Genealogy, Clippings</unittitle>
+            <container id="aspace_728fdd680b5c533da9b9578251601578" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_6b77d34fe183edde42039877e0ebbd4b" level="file">
+          <did>
+            <unittitle>Diplomas and certificates</unittitle>
+            <unitdate normal="1803/1904" type="inclusive">1803-1904</unitdate>
+            <container id="aspace_9418a8d0cea0fddc549a901eda8d0aa1" label="mixed materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_f1a" level="file">
+          <did>
+            <unittitle>Writings and Volumes</unittitle>
+            <container id="aspace_4f7dddc74ae9ad7b692e9c9380f61ad2" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref30_xtw" level="file">
+          <did>
+            <unittitle>Volume, 1854-1863</unittitle>
+            <container id="aspace_77ef2ecb75cad1a0dd07d470b14a395d" label="Mixed Materials"
+              type="volume">F:2261</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref31_bc8" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_139a78ac17724cd73f1f7cae7bd9f57c" label="Mixed Materials"
+              type="volume">L:5745</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref32_8zp" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_c2120ed6dd1236b54ea0778cba7f0481" label="Mixed Materials"
+              type="volume">M:5746</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref33_m9l" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_3786ebd7ebc94719843a87caa0edf6f0" label="Mixed Materials"
+              type="volume">M:5752</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref34_97x" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_65b0737838a51461fe9fdbeace3b1cf9" label="Mixed Materials"
+              type="volume">M:5753</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref35_5j7" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_20950aafe1a620b022eefc980b4bf0c9" label="Mixed Materials"
+              type="volume">M:5754</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref36_33p" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_da092ebc86b4312846643ab2b643e51a" label="Mixed Materials"
+              type="volume">M:5755</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref37_3vq" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_6696d898febd169ba90a07cd88933cfa" label="Mixed Materials"
+              type="volume">S:5747</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref38_9y8" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_03e7fdd2bf387dbcdd8e59fc03be4e99" label="Mixed Materials"
+              type="volume">S:5749</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref39_jnq" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_16fcf6c1dec42850e942b264bc8e254f" label="Mixed Materials"
+              type="volume">S:5750</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref40_2eg" level="file">
+          <did>
+            <unittitle>Volume</unittitle>
+            <container id="aspace_a15a909a5c3b0bd4ab22f6de9fb5706b" label="Mixed Materials"
+              type="volume">S:5751</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

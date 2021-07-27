@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/burke/">burke</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Sonny Burke Papers, ca. 1949-1951 and undated
+                  <num>RL.00175</num>
+            </titleproper>
+            <author>Processed by: Lois Schultz; machine-readable finding aid created by: Stephen
+               Douglas Miller</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002155879</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 13:31:18
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Sonny Burke papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Burke, Sonny, 1914-1980</persname>
+         </origination>
+         <unitid>RL.00175</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+            <extent altrender="carrier">5 flat boxes; 76 complete big band charts</extent>
+         </physdesc>
+         <unitdate normal="1948/1951" type="inclusive">circa 1949-1951 and undated</unitdate>
+         <physloc id="aspace_1f9971febe0d38f25a389725ce8b50a5">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_564a7d779411ced0d117b38cfba19ffa">
+            <extent>5 flat boxes</extent>
+            <extent>76 complete big band charts</extent>
+         </physdesc>
+         <langmaterial id="aspace_e3ef6404fd22ebdf32716f89f52fa197">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_a8e9ec98c07f6d50e4de813d82b59bbc">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_24fab75ca7fe63d196727bdbe3bdcdd8">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in the Sonny Burke Collection have not been transferred to Duke
+            University. The user is advised that rights for performance may be retained by the
+            original composer and/or original arranger. For further information, see the section on
+            copyright in the Regulations and Procedures of the David M. Rubenstein Rare Book &amp;
+            Manuscript Library.</p>
+      </userestrict>
+      <acqinfo id="aspace_c93fb07523e06c4dc596fc141591ffad">
+         <head>Provenance</head>
+         <p>The papers of Sonny Burke were acquired by Duke University in 1987.</p>
+      </acqinfo>
+      <processinfo id="aspace_8a211063f0470ccd38048bb1019ded1c">
+         <head>Processing Information</head>
+         <p>Processed by: Lois Schultz</p>
+         <p>Completed July 11, 1996</p>
+         <p>Encoded by Stephen Douglas Miller</p>
+      </processinfo>
+      <bioghist id="aspace_1b68421776877a4496e9ca90ff59f166">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1914, March 22</date>
+               <eventgrp>
+                  <event>Born Joseph Francis Burke in Scranton, Pennsylvania</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1937</date>
+               <eventgrp>
+                  <event>Graduated from Duke University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1930's to 1940's</date>
+               <eventgrp>
+                  <event>Big band leader in New York (including Sam Donahue's band)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1940's to 1950's</date>
+               <eventgrp>
+                  <event>Active as an arranger &amp;amp; bandleader in major recording studios,
+                     including Decca Records; Burke was musical director of Reprise Records and was
+                     responsible for many of Frank Sinatra's albums</event>
+                  <event>Bandleader for recordings of leading singers such as Ella Fitzgerald and
+                     Mel Torme.</event>
+                  <event>Band arranger, including Charlie Spivak &amp;amp; Jimmy Dorsey
+                     bands</event>
+                  <event>Is credited as co-composer of <title type="simple" render="italic">Midnight
+                        Sun,</title> the Lionel Hampton tune with lyrics by Johnny Mercer.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1980, May 31</date>
+               <eventgrp>
+                  <event>Died</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>
+            <list type="simple">
+               <item>
+                  <title type="simple" render="italic">Sonny Burke plays Mambos </title>
+                  (1951)</item>
+               <item>
+                  <title type="simple" render="italic">Sonny Burke and his Orchestra I &amp;
+                     II</title> (1951)</item>
+               <item>
+                  <title type="simple" render="italic">The Sonny Burke-Don Elliott Six</title> (ca.
+                  1960)</item>
+            </list>
+         </p>
+         <p>Further biographical information may be found in: <bibref>
+               <title type="simple" render="italic">The Guinness Encyclopedia of Popular
+                  Music.</title>
+               <imprint>Chester, CT: New England Pub. Associates. <date calendar="gregorian"
+                     era="ce">1992</date>
+               </imprint>, v. 1, p. 368.</bibref>
+         </p>
+      </bioghist>
+      <scopecontent id="aspace_28621fa5cc2839b2f1d8eb708c8eed23">
+         <head>Collection Overview</head>
+         <p>The Sonny Burke Collection (chiefly undated, but some dated between Nov., 1949 and June,
+            1951) has as its focal point 76 arrangements of popular music for <emph
+               render="doublequote">Big Band.</emph> These charts were used by Burke's band during
+            the 1940's-1950's for performances in the United States and Mexico. Most of the
+            arrangements appear to be by Sonny Burke, but other composers/arrangers include: Frank
+            Erickson, Hal Schaefer, Stan Kenton, John Valentine Eppel, Laurindo Almeida, and Ray
+            Conniff. Some of the arrangements were made for recordings on the Decca Records label.
+            The most common instrumentation is for two alto saxophones/clarinets, tenor saxophone,
+            baritone saxophone, four trumpets and four trombones, although other combinations exist.
+            The instrumentation is noted for each title in the Container List.</p>
+      </scopecontent>
+      <arrangement id="aspace_c95c0c599fcb4da70fcbdc6cf5b9c4f2">
+         <head>Arrangement note</head>
+         <p>The collection is arranged alphabetically by the title of the musical work, with the
+            parts arranged in the score order described above. for each title, information about
+            composer, arranger, and copyist is noted where available; <emph render="doublequote"
+               >chart</emph> number in the individual instrumental <emph render="doublequote"
+               >books</emph> or folders; instrumentation; date (where available); and provenance.
+            The names of players are noted on the miscellaneous line where they are indicated on the
+            parts. The miscellaneous folder contains unidentified works, single parts, programs, and
+            a ticket for one of the concerts. All of the material consists of preservation
+            photocopies of the originals, which were not retained.</p>
+      </arrangement>
+      <controlaccess>
+         <subject source="lcsh">Jazz -- 1951-1960</subject>
+         <subject source="lcsh">Jazz -- 1941-1950</subject>
+         <subject source="lcsh">Jazz musicians</subject>
+         <subject source="lcsh">Big bands -- United States</subject>
+         <subject source="lcsh">Big band music</subject>
+         <persname source="ingest">Burke, Sonny, 1914-1980</persname>
+         <persname source="ingest">Burke, Sonny, 1914-1980</persname>
+         <corpname source="ingest">Decca Records (Firm)</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_0sl" level="series">
+            <did>
+               <unittitle>Sonny Burke Papers, 1949-1951</unittitle>
+               <physdesc id="aspace_95e4d1a15362b48bfb97990d085b1248">
+                  <extent>5 flat boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref15_opn" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Artistry en mambo</title>
+                  </unittitle>
+                  <container id="aspace_8834cd6e1676eb72aee4e5f406636e31" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_d0cc4feab2c5c2177bac4067e7e24cf9">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 00</p>
+                  <p>Composer: Stan Kenton</p>
+                  <p>Arranger/Copyist: Johnny O'Valle</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref17_5k7" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Begin the beguine</title>
+                  </unittitle>
+                  <container id="aspace_5c70910ea1b78d96f6fa2a8c8cfc0870" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_935ab35c65bddc52e11ad78c656c7d66">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 121</p>
+                  <p>Instrumentation: Alto sax/clarinet (2), tenor sax/clarinet (1), baritone
+                     sax/bass clarinet (1), trumpets (4), trombones (3)</p>
+                  <p>Provenance: George Kaitz </p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref19_6ar" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Bela</title>
+                  </unittitle>
+                  <container id="aspace_77a114263cdcb5514b45b3db8539195b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_58e5125c8d697eebce54594052b97378">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 96</p>
+                  <p>Instrumentation: Reed (1,2,4), trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref21_ejn" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Blue velvet</title>
+                  </unittitle>
+                  <container id="aspace_a50a2759231fe2720e489f2ff7552cb1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_159c227502c69d1d6c58f9f8c54628d9">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: Rudy Hermann</p>
+                  <p>Chart no.: 94</p>
+                  <p>Instrumentation: Alto sax/clarinet (2), tenor sax (1), baritone sax (1),
+                     trumpets (4), trombones (4)</p>
+                  <p>Dated: 9/22/51 </p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref23_rrz" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Blues</title>
+                  </unittitle>
+                  <container id="aspace_4f8aab43397674adc3706b930a831f5c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_3c1a55239c57dfb38784a785bbd24f96">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 58</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (2), trumpets (4),
+                     trombones (4)</p>
+                  <p> Decca Records, 11/21/49 </p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref25_xg8" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Caracas</title>
+                  </unittitle>
+                  <container id="aspace_b398638aba64c97685924d0da02061e0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_7f4e2daf0f2e3d80ca6d9cb111b10074">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Frank Erickson</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), trumpets (4), trombones (4),
+                     conga</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref27_aih" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Cha-Cha-Cha</title>
+                  </unittitle>
+                  <container id="aspace_bafe5950c13dde516bb1df6d1e300af4" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_dd984e1b5bdd2b085db57cefcee1e1ca">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), bass sax (1),
+                     trumpets (4), trombones (4), bass trombone (1), bass, piano, bongos/congas</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref29_ka4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Cocoanuts</title>
+                  </unittitle>
+                  <container id="aspace_d17569027a6f1caeb9dd88c321c6a949" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_90679587bece46d2c0c13697ab4cd51e">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 86</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref31_szs" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Contemplation</title>
+                  </unittitle>
+                  <container id="aspace_90cdf5ddb0e50163d4c99deb622df606" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_15f44562a66fb98c4347058493e107e3">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (1 [1st alto missing]), tenor sax (1), baritone sax
+                     (1), trumpets (4), trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref33_jgs" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Dubonnet</title>
+                  </unittitle>
+                  <container id="aspace_8aa2d11468e595f008f9eedce1d5fcf5" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_40254eacaea743b048051928d4bed9eb">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 100</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref35_pw5" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Embreacable [Embraceable] you</title>
+                  </unittitle>
+                  <container id="aspace_9e7a916ff81a247892436e6bd1707212" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_7b2c2f7559bf6e7f9eb88df43b33f5d7">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: Babe Russin</p>
+                  <p>Chart no.: 79</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref37_c8r" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Fiesta bells</title>
+                  </unittitle>
+                  <container id="aspace_e732ee92c4184ac38d01bad5de16f737" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_ccddc476317ff67f2f3f20ab339e4693">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref39_fpy" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Foggy day</title>
+                  </unittitle>
+                  <container id="aspace_c03e25ba4a9b6360c8cbcb421a5282e5" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_98e8f1b68ab141ae4aaf299d81d637d5">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: Ray Conniff</p>
+                  <p>Chart no.: 80</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref41_rov" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Following you</title>
+                  </unittitle>
+                  <container id="aspace_ecf23c492367804f3b3a9723600e1bb9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_bfa467f67caf843bcf17ccc15c2bbb2f">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref43_8mp" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Get happy</title>
+                  </unittitle>
+                  <container id="aspace_fc1e3739a5fe59bd9e12550726a55a25" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_84c18e35d44065178bfdfa11962eaf00">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Chart no.: 62</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (2), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 6/27/50 </p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref45_m9o" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Ghost of a chance</title>
+                  </unittitle>
+                  <container id="aspace_193f30d8c3b25be207df0f0c50ea6e72" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_9c856fece8da6661a8ba124ab131d994">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 98</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Note: extra copies of trumpet parts for different performers: Juan, Mac,
+                     Mickey, Ollie, &amp; Pete </p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref47_0dz" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Guy is a guy</title>
+                  </unittitle>
+                  <container id="aspace_6c78c7c498bb8bfbb6195fb0275c1872" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_ccf069a47b07c99ade6a2934693be70a">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref49_qb3" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Happiness is this</title>
+                  </unittitle>
+                  <container id="aspace_1653b48ce9b82c0ab99fcc15ba1a9a15" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_9927056838907a1bf7056087c25a6ebf">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 73</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Performers: Andrews Sisters, 4/6/51 </p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref51_f4p" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Happy pay day</title>
+                  </unittitle>
+                  <container id="aspace_54c1a6effc09c6e558b8300722c68a0f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_b16396815d04ae78c5b6cfec870df1c5">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 66</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 4/17/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref53_lx2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Hot timbales (Topanga, Balboa)</title>
+                  </unittitle>
+                  <container id="aspace_1d7b1410066a92c47448e0bc95c3fc1f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_74ef866b5c477309f84cb5c8df749676">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 87</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref55_y0u" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">I want to be happy</title>
+                  </unittitle>
+                  <container id="aspace_a2d8542d65461f6d5f0a499a087c8640" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_f019bb24d7872af9976a50c1f70c8206">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 6/27/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref57_wut" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">I wished on the moon</title>
+                  </unittitle>
+                  <container id="aspace_59841de89bc733f09f976620cbf0bbf7" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_cbc695a605bec234d2d61a8e0fc7cc26">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: George V. Yocum</p>
+                  <p>Instrumentation: Clarinet, alto sax (2), tenor sax (1), baritone sax (1),
+                     trumpets (4), trombones (3)</p>
+                  <p>Performers names on parts: Ollie, Hugo, Clint, Don, Bob, Macbeth, Pete, Mickey,
+                     Paul, Jimmy, Ray </p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref59_llz" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">If you're gonna love me, love me</title>
+                  </unittitle>
+                  <container id="aspace_89dbe4ea529683a7667e3a92c961831d" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_e273a565870f11be98a5b79e7ca7ba7e">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: Cueo Valtierra</p>
+                  <p>Chart no.: 99</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref61_jqn" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">I'm yours to command</title>
+                  </unittitle>
+                  <container id="aspace_41b1adf53ac5331e5d812a0896f0e71a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_cfa9c50ab7fddb5ee9f4003d15ce0cd2">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 72</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Dated: 7/28/51</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref63_rne" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">I've got to fall in love again</title>
+                  </unittitle>
+                  <container id="aspace_fcbde76ba3de2e3da55ab2ea46a859b3" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_6cd30a6a488009c1e3413af46af948ee">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: George V. Yocum</p>
+                  <p>Chart no.: 68</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref65_yg3" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Joe's mambo</title>
+                  </unittitle>
+                  <container id="aspace_5103d970848c6ba08501c98815bcdb9c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_bfa41d3c5f9e3ecad9381a2aab7c8bda">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 83</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref67_o7z" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Jing-a-ling mombo</title>
+                  </unittitle>
+                  <container id="aspace_c8fe93d942c59fe6c29972935e710ae7" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_216517c15538eb5866b1745c38adf77b">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 56</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 10/13/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref69_ql3" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Juke joint mama</title>
+                  </unittitle>
+                  <container id="aspace_d09a2b9916a5742990426355b608dd82" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_10924748bb4c2567830db94019b86593">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 60</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Dated: 11/21/49</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref71_tdu" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">June</title>
+                  </unittitle>
+                  <container id="aspace_84e052a8fbc946448c41bda126e92f18" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_4868502981a2b5158c5be3f9554a28bd">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (2), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref73_1y4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Just one of those things</title>
+                  </unittitle>
+                  <container id="aspace_0e1e7ab6b105192c52820a6e2fa2570e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_3e0979a5456a9aecfe89037732390538">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 61</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 4/17/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref75_4c0" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Koo koo mombo</title>
+                  </unittitle>
+                  <container id="aspace_de7bfb6dd2742418b7b51d6b21b56a2c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_a6958ec08f0423edbbb88f94971a694a">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 55</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (2), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 10/13/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref77_3xy" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Lady bug</title>
+                  </unittitle>
+                  <container id="aspace_1abe5ae5402dc6afe65c3cd5ad60214e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_be8f663117b5262e9051964156fa89b9">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 105</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref79_vn2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Lazy day</title>
+                  </unittitle>
+                  <container id="aspace_7dc6e5c982ccd941c338ed764f9ef097" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_129e378b039e9940de7203ed67520ba0">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 107</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref81_bjp" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Little bud mombo</title>
+                  </unittitle>
+                  <container id="aspace_47f03fbac5b9cf5b00cc3d1c34ace091" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_2d233f59dfa97ccb00109ad0e278eedc">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 53</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 11/1/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref83_ueb" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Main street</title>
+                  </unittitle>
+                  <container id="aspace_38a452e50b196521227728ffe125a4e3" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_906848098d21c85a56355f8fc9ed61d4">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 91</p>
+                  <p>Instrumentation: Alto sax/clarinet (2), tenor sax/clarinet (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref85_i0j" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mambo man</title>
+                  </unittitle>
+                  <container id="aspace_a97cf5664a64719c25513b03f50e831e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_2d2e99b2b934ac8aa5163ae29cdc8f37">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: Rudy Hermann</p>
+                  <p>Chart no.: 74</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4) (2 copies of 4th part)</p>
+                  <p>Provenance: Vic Schoen, 6/6/51</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref87_mq5" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mambo on my mind</title>
+                  </unittitle>
+                  <container id="aspace_dcc09413ed957a8bcff71ca100f0b85a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_cbfb3ae3f5e080553311075cccdb18cd">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref89_1wz" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mandingue (Mahn-ding-gay)</title>
+                  </unittitle>
+                  <container id="aspace_2534e445aeef1cb16664bf9c4d03adad" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_33e8ccde98b137d9b5fd9ba688fec806">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref91_xqu" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Midnight sun</title>
+                  </unittitle>
+                  <container id="aspace_5a3fe8b54ce00a1df4a7393ca1559d88" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_5607cebf8a0d51c4a900dfe0c9699631">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (5),
+                     trombones (4 - 2nd part missing)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref93_5sm" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Missouri waltz (Hush-a-bye, ma baby)</title>
+                  </unittitle>
+                  <container id="aspace_db6758d9b205c971b1b7583cd2cb7472" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_a547d8c08ef6947b6c277e3d508c2f39">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: John Valentine Eppel</p>
+                  <p>Arranger/Copyist: Vic Schoen</p>
+                  <p>Instrumentation: Alto sax (1), tenor sax (1), trumpets (2), trombones (2)</p>
+                  <p>Published material: Chicago: Forster Music, c1943.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref95_zwj" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mist</title>
+                  </unittitle>
+                  <container id="aspace_c5c97ee66906413d781efb57a047da31" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_86eafaa542db3dbe4fa18f5ee7547e8b">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Frank W. Erickson</p>
+                  <p>Chart no.: 103</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref97_hqy" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mom boogie</title>
+                  </unittitle>
+                  <container id="aspace_2bd58210c3fc89e8b7f0e0a15fcc6d2c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_bba83cef57fa2b9727716b565ef789a1">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 54</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 11/1/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref99_4up" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mombo #5</title>
+                  </unittitle>
+                  <container id="aspace_4d6c335ff4e28d265ea8a14b1b9371da" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_ef2ad7a5c3b19694bdc5970f799226f2">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 51</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 10/13/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref101_8zd" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Montevideo</title>
+                  </unittitle>
+                  <container id="aspace_6450662138b4e37db50e8432c6750a18" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_1214b2ce51c2adb4a3cf759b70a12dfe">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Hal Schaefer</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), trumpets (4), trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref103_xvq" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Moods in mombo</title>
+                  </unittitle>
+                  <container id="aspace_3f400882be1a6a5a56f90b6d9928984d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_8a6fb135413e2737c08c725caa97bd9f">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 57</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref105_3tc" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">More! more! more!</title>
+                  </unittitle>
+                  <container id="aspace_af7f12f5586ae62180daa68018b535ec" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_9dc29cd86821ff4b8efd11efd3770bd0">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 93</p>
+                  <p>Instrumentation: Alto sax/clarinet (2), tenor sax/clarinet (1), baritone
+                     sax/bass clarinet (1), trumpets (4), trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref107_k9p" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mr. &amp; Mrs. Sippi</title>
+                  </unittitle>
+                  <container id="aspace_13c1082d8cf2517a84838b878d126111" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_daf57fdfa8d7f93856b5efcbf658ee63">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 69</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 3/23/51</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref109_6v3" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mr. Pessimist (I'm a pessimist)</title>
+                  </unittitle>
+                  <container id="aspace_b53c64c075c671207c71d16bdb48c049" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_b4ffcf249ed912aa5fa4509d7e89d00c">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 88</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref111_wk3" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Mulholland Drive</title>
+                  </unittitle>
+                  <container id="aspace_2d2a7a513cb3019bd8c486c93b9890a1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_956ed3212a016b22ebb10b275864510d">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 90</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref113_odv" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">New sound for the blues</title>
+                  </unittitle>
+                  <container id="aspace_3ed727db92b7fce7d14987bed233656f" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_6afd910b3d7f48d7feebc514f7927146">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Hal Schaefer</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref115_kk7" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Ramona</title>
+                  </unittitle>
+                  <container id="aspace_5b0c43050ca115ca7978d39ec622099e" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_c0dbc1fb4fe83117dfd0215a68f1fedc">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Soprano sax/clarinet, alto sax (1), tenor sax (1), baritone
+                     sax (1), trumpets (4), trombones (3), tuba, piano</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref117_t0p" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Samba Americano</title>
+                  </unittitle>
+                  <container id="aspace_a4ad3f227c5ce21f1608a3d259b514b4" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_247291c7a6bae7a229084a8fa5278279">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Laurindo Almeida</p>
+                  <p>Arranger/Copyist: Radames Gnattali</p>
+                  <p>Chart no.: 95</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref119_0cz" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Sammy's little shaker</title>
+                  </unittitle>
+                  <container id="aspace_808f19b14ab9c819768fdde495df1f3e" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_8773e96f5a349ac8840872e502463659">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 75</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref121_rs2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">September song</title>
+                  </unittitle>
+                  <container id="aspace_12b53256be210c8b22c8e400ddb9e037" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_23debf3bfc0dd6da4894a2c0feffb0a5">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Ray Conniff</p>
+                  <p>Chart no.: 76</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref123_3rf" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Side walk shufflers</title>
+                  </unittitle>
+                  <container id="aspace_378d5eaf16fc720d79f87a759cd45cd2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_d1177256eff7a3f18bd4b024f661495e">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 70</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 3/1/51</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref125_mnn" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Slow freight</title>
+                  </unittitle>
+                  <container id="aspace_aaa5c10fd3c036efbe11f1add92e4ac1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_9672f5a835b83217ffd7926c08bd482a">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 108</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref127_wtw" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Soliloquy</title>
+                  </unittitle>
+                  <container id="aspace_61298fccf65e0d34acb84e1f8bdb4263" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_d2c4030ff7f7f63977ba2785f1e35a86">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Frank W. Erickson</p>
+                  <p>Chart no.: 53</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref129_43n" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Star-spangled banner</title>
+                  </unittitle>
+                  <container id="aspace_d94823a37130d81749240506cb1dc695" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_11d66c19769972eff08d61ee349bd8b7">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: Damrosch/Sousa</p>
+                  <p>Instrumentation: Clarinet (1), baritone sax (1), trombones (4), bass</p>
+                  <p>Published material: G. Schirmer, c1918</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref131_zx6" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Stompin' at the Savoy</title>
+                  </unittitle>
+                  <container id="aspace_e7291d8b048d93917292353ddc04683e" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_d6e0fcdf0eb73bf48307fb0aa27e3550">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 64</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 4/17/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref133_lb4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Strange interlewd [interlude]</title>
+                  </unittitle>
+                  <container id="aspace_6f93e5a576472cce79a574f08d64c397" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_9cb38dbca0b8b8880f53070317d9ee04">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref135_c8n" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Sweetn'n stuff</title>
+                  </unittitle>
+                  <container id="aspace_1f0d7993f75387708ab9d8f7229100fc" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_a76b228ba426bc3bf4ece954cd23d8a0">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 67</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 3/23/51</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref137_3ar" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">T. blues [Tenor blues?]</title>
+                  </unittitle>
+                  <container id="aspace_5912e9d3ae16fe5967bad3e079bc83c1" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_c27aa79141ea6a880b514b0d6025dd88">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Tenor saxophones (3)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref139_g96" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Tango-langa</title>
+                  </unittitle>
+                  <container id="aspace_f5a6f5df9eab4ce0bbfdb4f9ba1c6b9c" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_76cc89881154db971507239a5c097c96">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref141_doy" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Tea for two (T 4 2)</title>
+                  </unittitle>
+                  <container id="aspace_3e49c8b84ac33b01d2378e86e0d8841a" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_79a862a0d65cbee71e29e204af52990e">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 82</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), trumpets (5), trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref143_j6c" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Ten times</title>
+                  </unittitle>
+                  <container id="aspace_8b76f54afd70ddfff74171c350e9b6bc" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_d9f62b90376350f45a91b47841365494">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 59</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 11/21/49</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref145_hra" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Tenderly medley</title>
+                  </unittitle>
+                  <container id="aspace_58b4a4248b2ea395a11801d33cf30c43" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_cd80a85b02909196d7f40da58cf91719">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 85</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref147_0mx" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">That's the one for me</title>
+                  </unittitle>
+                  <container id="aspace_977eda7356541c506cdd39696fdcac68" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_134828ec3ec85517ed406efef0b61a7e">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 71</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 3/1/51</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref149_lk9" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Three cornered tune</title>
+                  </unittitle>
+                  <container id="aspace_f88211aeee9cfc766b354f7327006448" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_01efd435bdef7c1069c39bcac00b4300">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 89</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref151_uq4" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Three-D (3-D)</title>
+                  </unittitle>
+                  <container id="aspace_5eade08cb67eb7a9eb04b9d305238c37" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_a781432c119efbd0e5a1fdb6ad0d429e">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), trumpets (4), trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref153_yv1" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Undecided</title>
+                  </unittitle>
+                  <container id="aspace_dacabdcec592a4ee7bda68b54ea85e71" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_ffda28c96176f9f2baf4eb901cfa1299">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref155_ded" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Unless medley</title>
+                  </unittitle>
+                  <container id="aspace_85992a1d361aa83c77253ac289c46e7f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_61066ebee4d64978b44bf5bbba73cdb9">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 78</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref157_zrm" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Wanna love you</title>
+                  </unittitle>
+                  <container id="aspace_cd73156fb50d9601df55f71c96739a43" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_2e5b0152929feb4d639a1fa987f938d6">
+                  <head>Scope and Contents note</head>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref159_qea" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">What is this thing</title>
+                  </unittitle>
+                  <container id="aspace_c70bbc64d805ee1ed3580419db60f64b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_07186c61e49e85ffdf85904ea0d158b3">
+                  <head>Scope and Contents note</head>
+                  <p>Arranger/Copyist: Frank W. Erickson</p>
+                  <p>Chart no.: 102</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref161_fs2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">What, where, when</title>
+                  </unittitle>
+                  <container id="aspace_87b20c212280e42ef29077b8c371681c" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_86722dae79f0c39cd37f215e1a41982a">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 65</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 3/22/50</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref163_1v6" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Wonnerful, wasn't it</title>
+                  </unittitle>
+                  <container id="aspace_01db881f06f7b5c7bafc338a7fbef043" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_44a7b53804e9e42ed1129f065522f72d">
+                  <head>Scope and Contents note</head>
+                  <p>Composer: Sonny Burke</p>
+                  <p>Arranger/Copyist: Marty Seliger</p>
+                  <p>Chart no.: 68A</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+                  <p>Provenance: Decca Records, 3/29/51</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref165_wwk" level="file">
+               <did>
+                  <unittitle>
+                     <title render="bold">Would I love you</title>
+                  </unittitle>
+                  <container id="aspace_0972545a8be2d1c8fd7a4a7e235bf1de" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_4aa5e10e46958507fddb27da72b6c342">
+                  <head>Scope and Contents note</head>
+                  <p>Chart no.: 77</p>
+                  <p>Instrumentation: Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref167_gql" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_cee771d4f33bc890b0af414e67eeeeba" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_da725930ca9dc87f8f01877346f70e36">
+                  <head>Scope and Contents note</head>
+                  <p>Complete parts (Alto sax (2), tenor sax (1), baritone sax (1), trumpets (4),
+                     trombones (4)) for 3 arrangements. One has the notation: [chart #] 81, another
+                     is arranged by Frank Erickson. </p>
+                  <p>2 Programs and a complimentary ticket for Saturday, July 5, 1952. </p>
+                  <p>Miscellaneous unidentified or incomplete arrangements, including some scores.
+                     Some have titles:</p>
+                  <p>Bows (trumpet 3)</p>
+                  <p>Ravel's Bolero (trombone, 1st alto, 2nd tenor)</p>
+                  <p>Baby Doll (chart #106, 2nd trumpet)</p>
+                  <p>Someone on Your Mind (1st alto sax)</p>
+                  <p>The Sunny South by J. Bodewalt Lampe (2nd-3rd clarinets)</p>
+                  <p>Them Their Eyes (baritone sax excerpt, trombone ending)</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

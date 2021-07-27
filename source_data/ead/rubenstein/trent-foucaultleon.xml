@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-foucaultleon/"
+         >trent-foucaultleon</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Leon Foucault note, 1851, Aug. 24, Paris, to M. Lormier
+                  <num>RL.10468</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002138358</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:12:08
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="fre">French</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Leon Foucault note, Paris, to M. Lormier</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Foucault, Leon, 1819-1868</persname>
+         </origination>
+         <unitid>RL.10468</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 items</extent>
+         </physdesc>
+         <unitdate normal="1851/1851" type="inclusive">1851, Aug. 24</unitdate>
+         <physloc id="aspace_f78a829be4331e620cb338ff090bc8d2">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_38b17fa64082b279f0ac25e199a6089e">ANS. Assures M. Lormier that things
+            are in good hands.</abstract>
+         <langmaterial id="aspace_b483762d4d5f2ec53797ea93812e6d48">Materials in French
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_274734a4998999b79fe1a575f3038ee5">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_31a9fa9aa55ca45571986c79f79596c6">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_e51f81ff1be3df374c95b7ebb442b6d1">
+         <head>Preferred Citation</head>
+         <p>Leon Foucault note, 1851, Aug. 24, Paris, to M. Lormier, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_018fb023bafd135c48a352c2cf7765ec">
+         <head>Provenance</head>
+         <p>Source unknown</p>
+      </acqinfo>
+      <processinfo id="aspace_faa7e93bda91c2b98a92b5de99d29da0">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <bioghist id="aspace_e1243a9ec6963c38c87297fb566ea85a">
+         <head>Historical Note</head>
+         <p>French physicist who demonstrated the diurnal motion of the earth by pendulum.</p>
+      </bioghist>
+      <scopecontent id="aspace_5d4c995dac30544f5e2f931d8e2c5f9b">
+         <head>Collection Overview</head>
+         <p>ANS. Assures M. Lormier that things are in good hands.</p>
+      </scopecontent>
+      <odd id="aspace_22f72f646bcf16fe98ed5349200d8858">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+         <persname source="ingest">Foucault, Leon, 1819-1868</persname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

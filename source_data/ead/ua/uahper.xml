@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/uahper/">uahper</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Dept. of Health, Physical Education, and Recreation records,
+               1932-1986 <num>UA.25.22.0001</num>
+            </titleproper>
+            <author>Processed by: Sherrie Bowser; machine-readable finding aid created by: Sherrie
+               Bowser</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003832921</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-30 02:52:50
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Dept. of Health, Physical Education, and Recreation records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">Duke University. Dept. of Health, Physical Education, and
+               Recreation</corpname>
+         </origination>
+         <unitid>UA.25.22.0001</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1932/1986" type="inclusive">1932-1986</unitdate>
+         <physloc id="aspace_3de7473233ad7bd629b2e629e58567ca">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_c34b06e1bddebbf94f825738a12f2974">The Dept. of Health, Physical
+            Education, and Recreation (HPER) was created in 1975 by the merger of the Men's and
+            Women's Physical Education Departments. However, formal physical education at Duke
+            University dates back to 1902 when President Kilgo invited Wilbur "Cap" Card to return
+            to Trinity College as Director of a new program in physical education. The collection is
+            divided into two series: General files and the John Friedrich papers series. The General
+            files contain printed material on intramural athletics, personal recreational programs,
+            and physical education. The John Friedrich papers series contains administrative records
+            pertaining to his chairmanship of HPER from 1963-1986, and ranges in date from
+            1975-1986.</abstract>
+         <physdesc id="aspace_0517b2a486619d3bead4f323e3e95545">
+            <extent>2750 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_1bf8057200c50a5ff4f25ac78dda753a">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_82cfdd2dbaa1bcc7376a9ac284f2f184">
+         <head>Access Restrictions</head>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>For a period of twenty-five years from the origin of the material, permission in writing
+            from the office of origin and the University Archivist is required for use. After
+            twenty-five years, records that have been processed may be consulted with the permission
+            of the University Archivist.</p>
+         <p>In off-site storage; 48 hours advanced notice required for use.</p>
+      </accessrestrict>
+      <userestrict id="aspace_6588519d96e8f860cf9b04bc4337cc5f">
+         <head>Copyright Notice</head>
+         <p>Copyright for Official University records is held by Duke University; all other
+            copyright is retained by the authors of items in these papers, or their descendants, as
+            stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite id="aspace_abd9b6834285b7f67f40c0822456a70d">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Dept. of Health, Physical Education, and Recreation Records,
+            Duke University Archives, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke
+            University.</p>
+      </prefercite>
+      <acqinfo id="aspace_1d8fcb7c28ce26e3f9c189c02f5400a8">
+         <head>Provenance</head>
+         <p>The Dept. of Health, Physical Education, and Recreation records were received by the
+            University Archives as a transfer in 1974; 1976; 1986.</p>
+      </acqinfo>
+      <processinfo id="aspace_fd46c02d961d286ca7263cd9c04473d8">
+         <head>Processing Information</head>
+         <p>Processed by Sherrie Bowser, October 2008</p>
+         <p>Encoded by Sherrie Bowser, October 2008</p>
+         <p>Accessions 74-156, 76-48, 76-189, 86-78 were merged into one collection, described in
+            this finding aid. </p>
+      </processinfo>
+      <bioghist id="aspace_fb853f7068864466297d2864acd13c21">
+         <head>Biographical and Historical Note</head>
+         <p>Physical education began at Duke University when President Kilgo invited Wilbur "Cap"
+            Card to return to Trinity College as Director of a new program in physical education.
+            From 1902-1912, Card worked as both Director of the Gym and coach of various sports such
+            as baseball. After the 1912 season, he stepped aside as coach to devote all of his time
+            to being Director.</p>
+         <p>Under Card's direction all freshmen, sophomores and juniors were required to attend
+            exercise periods. Card kept meticulous records noting the date of the examination, the
+            student's age, weight, height, the girth, depth and breadth of several body parts (such
+            as knees, thighs, shoulders, etc.), the color of hair and eyes, temperament, and other
+            facts. From these measurements and observations he prescribed exercises that were best
+            suited toward the physical development of each student. These physical examination
+            volumes are located in Card's papers (see catalog).</p>
+         <p>Between 1926 and 1929, separate Men's and Women's Physical Education Departments grew
+            out of the original department. During the 1930s, the Men's Physical Education
+            Department incorporated a 1 hour classroom instruction (for the freshmen and sophomore
+            students) into the required 3 hours a week of physical exercise for all students.</p>
+         <p>In the 1940s the Department of Physical Education and Athletics, under the direction of
+            Wallace Wade, went through a period of growth. Due to the WWII war effort the V-12
+            Program administered by the Navy was established on Duke's campus from 1943-1945. As
+            part of this program students received vigorous physical training 5 days a week so that
+            they would be ready for service if called upon. </p>
+         <p> The post-WWII period of the 1950s and 1960s brought a new trend in physical education
+            towards supervised group recreation. Elective courses in physical education method and
+            theory were added in 1950 to help meet the increasing demand for teachers qualified to
+            coach and teach physical education. 1960 saw the development of a voluntary intramural
+            sports program that consisted of a dozen sports and involved a large percentage of the
+            student population.</p>
+         <p>The Dept. of Health, Physical Education, and Recreation (HPER) was created in 1975 by
+            the merger of the Men's and Women's Physical Education Departments. At that time the
+            major, which had been offered to women only, was dropped as was the physical education
+            requirement for all undergraduates. HPER offered theory courses (set of courses dealing
+            with various aspects of physical education or in the administrative use of physical
+            education skills); activity/skills courses (tennis, racquetball, swimming, etc.);
+            intramurals sports program; club sports; DUPAC (adult fitness program); and a faculty
+            fitness program</p>
+         <p>In 1980, the Chancellor Pye recommended to the Board of Trustees that credit for courses
+            be dropped and that the department become a "non-academic unit." HPER was restructured
+            in July 1981 and made into a division of the Office of Student Affairs. In September of
+            1981 the Undergraduate Faculty Council of Arts and Sciences (UFCAS) denied Chancellor
+            Pye's recommendation that credit for HPER courses be dropped and reaffirmed HPER's
+            ability to offer credit for activities and theory course with the UFCAS course committee
+            approving the courses. </p>
+         <p>John A. Friedrich, chairman of Dept. of Health, Physical Education, and Recreation
+            (HPER) from 1963-1986, came to Duke University from Michigan State University where he
+            had directed the physical education instruction program for nine years. Friedrich served
+            on a number of University committees including Curriculum and Policies Committee,
+            Commencement Committee as chairman of staff marshals, The Project Wild Board, The
+            International Club, and The Undergraduate Faculty Council. Materials from some of these
+            committees are located in the John Friedrich papers series below. Friedrich was also on
+            the board of directors of several local associations including the N.C. Lung
+            Association, N.C. Heart Association, and the Durham Cancer Association. </p>
+         <p>This note was written based on information in an independent study <title type="simple"
+               render="italic">The History of the Development of Physical Education at Duke</title>,
+            by Eddie Falcone and Mike Hamschin located within this collection. </p>
+      </bioghist>
+      <scopecontent id="aspace_563192a887370486d7568dae370adcfe">
+         <head>Collection Overview</head>
+         <p>The General files series in the Dept. of Health, Physical Education, and Recreation
+            (HPER) collection contains materials pertaining to the origins and activities of HPER
+            including material on intramural athletics, personal recreational programs, and physical
+            education. Present in the collection are: flyers, intramural handbooks, clippings,
+            manual for the Men's Physical Education program of 1932, and issues of the Faculty
+            Fitness Newsletter. The John Friedrich papers series contains administrative records
+            pertaining to his chairmanship of HPER from 1963-1986, and ranges in date from
+            1975-1986. Materials present include correspondence, minutes and agendas from several
+            University committees including Academic Council, Commencement Committee, and
+            Undergraduate Faculty Council of Arts and Sciences (UFCAS), as well as minutes from HPER
+            departmental meetings. Friedrich presided over the HPER restructuring debates of the
+            1970s and early 1980s and reports, proposals, and clippings regarding retrenchment of
+            the Dept. are present in this series.</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_3a35211bc4f49d1d656a1839ca7e0c59">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection">Committees Reference Collection,
+                  1932-ongoing</unittitle>
+               <repository label="Repository">University Archives. Duke University. </repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Educational Facilities Committee records,
+                  1962-1986.</unittitle>
+               <repository label="Repository">University Archives. Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Julia R. Grout Papers, 1916 - 1984.</unittitle>
+               <repository label="Repository">University Archives. Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Wilbur Wade Card papers, 1876-1943.</unittitle>
+               <repository label="Repository">University Archives. Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Women's Department of Health and Physical Education
+                  records, 1923 - 1976.</unittitle>
+               <repository label="Repository">University Archives. Duke University.</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Physical education and training -- Study and teaching (Higher) --
+            United States</subject>
+         <subject source="lcsh">Physical education facilities</subject>
+         <subject source="lcsh">Physical education and training -- Curricula</subject>
+         <subject source="lcsh">College students -- Physical training -- United States</subject>
+         <corpname source="ingest">Duke University. Dept. of Health, Physical Education, and
+            Recreation</corpname>
+         <corpname source="ingest">Duke University -- Students</corpname>
+         <corpname source="ingest">Duke University -- Faculty</corpname>
+         <persname source="ingest">Griffith, William</persname>
+         <corpname source="ingest">Duke University. Dept. of Health, Physical Education, and
+            Recreation</corpname>
+         <persname source="ingest">Friedrich, John</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_nmf" level="series">
+            <did>
+               <unittitle>General files, 1932-1984, bulk 1964-1975</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">1 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_b9b0a07a6c73c57a50850aaade6351a7">
+               <head>Scope and Contents note</head>
+               <p>This series includes material on intramural athletics, personal recreational
+                  programs, and physical education. Included are: flyers, intramural handbooks,
+                  clippings, manual for the Men's Physical Educatiuon program of 1932, and issues of
+                  the Faculty Fitness Newsletter.</p>
+            </scopecontent>
+            <c02 id="aspace_ref15_95e" level="file">
+               <did>
+                  <unittitle>Brochures, Programs, and Flyers, 1964-1984</unittitle>
+                  <container id="aspace_3e93836601db41bd9323e4d8d0d542cd" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_liw" level="file">
+               <did>
+                  <unittitle>Clippings, 1973-1979</unittitle>
+                  <container id="aspace_38014c89bf31d59c07b7e36ecf918e16" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_gew" level="file">
+               <did>
+                  <unittitle>Faculty Fitness Newsletter, 1973-1984</unittitle>
+                  <container id="aspace_f4f3c2b0fec8a79daafc231b5ca99313" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_yuw" level="file">
+               <did>
+                  <unittitle>History of the Development of Physical Education at Duke,
+                     1974</unittitle>
+                  <container id="aspace_6e7435f1e3346fc4a9114c6247350065" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_1ds" level="file">
+               <did>
+                  <unittitle>HPER Departmental Materials, 1964-1983 (memos, surveys, evaluation of
+                     the intramurals program by the MSGA)</unittitle>
+                  <container id="aspace_2d4455c8fd7d7175ab3156bf9b5387fd" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_ruk" level="file">
+               <did>
+                  <unittitle>HPER Staff Manual, 1972-1975</unittitle>
+                  <container id="aspace_ecee8baf53c4d9da401b0c9db217a6c9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_xhq" level="file">
+               <did>
+                  <unittitle>Intramurals, Handbooks, 1934-1984 [incomplete]</unittitle>
+                  <container id="aspace_485d3556734525f99c1908c53fe56424" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_7j2" level="file">
+               <did>
+                  <unittitle>Physical Education Manual, 1932; 1967; undated</unittitle>
+                  <container id="aspace_f917c1338521b7390bc5eced6b5047f9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_6aa" level="file">
+               <did>
+                  <unittitle>Physical Education Manual for Freshmen Students, 1972-1974</unittitle>
+                  <container id="aspace_909ef1be6e75f7ea95ab49229e831de1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_86s" level="file">
+               <did>
+                  <unittitle>Reports, 1965-1966; 1974-1975</unittitle>
+                  <container id="aspace_d166874ad9433830ea901c2a6f229da5" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref26_edg" level="series">
+            <did>
+               <unittitle>John Friedrich papers, 1975-1986</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_3d51004a7ee41208a81d99e30a6ce22d">
+               <head>Scope and Contents note</head>
+               <p>The John Friedrich papers series contains administrative records pertaining to his
+                  chairmanship of the Health, Physical Education, and Recreation Department from
+                  1963-1986, and ranges in date from 1975-1986. Material present include
+                  correspondence, minutes and agendas from several University committees including
+                  Academic Council, Commencement Committee, and Undergraduate Faculty Council of
+                  Arts and Sciences (UFCAS), as well as minutes from HPER departmental meetings.
+                  Friedrich presided over the HPER restructuring debates of the 1970s and early
+                  1980s and reports, proposals, and clippings regarding retrenchment of the Dept.
+                  are present in this series.</p>
+            </scopecontent>
+            <c02 id="aspace_ref28_34q" level="file">
+               <did>
+                  <unittitle>Academic Affairs Committee, Mary Semens sent 11/13/1980</unittitle>
+                  <container id="aspace_2e702ef6db627f26bcd87197a14f7091" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_rfw" level="file">
+               <did>
+                  <unittitle>Academic Council, 1977-1979</unittitle>
+                  <container id="aspace_35dd235db40494757fa8f52888882dc1" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_o3n" level="file">
+               <did>
+                  <unittitle>Academic Council, 1980</unittitle>
+                  <container id="aspace_d5b9b4ef1a1f4e8196ca89d49b7482df" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_sm0" level="file">
+               <did>
+                  <unittitle>Academic Council, 1981</unittitle>
+                  <container id="aspace_b3df1e9364cd6d2c764d35aa54a2a521" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_h8d" level="file">
+               <did>
+                  <unittitle>Academic Council, 1982</unittitle>
+                  <container id="aspace_be2a3ba98756fc3891f021671cbc9e78" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_p29" level="file">
+               <did>
+                  <unittitle>Academic Council, 1983</unittitle>
+                  <container id="aspace_b853c5c906f36066cf8720459eb328ad" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_xob" level="file">
+               <did>
+                  <unittitle>Academic Council, 1984</unittitle>
+                  <container id="aspace_5ba2d19084a0465efdfbc56dcf1aa8a6" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_89b" level="file">
+               <did>
+                  <unittitle>Academic Council, 1985</unittitle>
+                  <container id="aspace_46d0997e38f8352f03fc342510e4866b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_vm7" level="file">
+               <did>
+                  <unittitle>Annual Report for Sports Clubs, 1978-1984</unittitle>
+                  <container id="aspace_793bf7eb83502fe069beb0d2a5a3c6ec" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_956" level="file">
+               <did>
+                  <unittitle>Statute of the Associated Students of Duke University Re: Card Pool,
+                     1981-1982</unittitle>
+                  <container id="aspace_f34e8fe398ed0c5a7015e8c7a5ae22f0" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_d02" level="file">
+               <did>
+                  <unittitle>Board of Trustees, Duke University, 1980-1985 [HPER monthly report for
+                     BOT]</unittitle>
+                  <container id="aspace_13a271feddef7eefc6d186eb3e9c57de" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_ofv" level="file">
+               <did>
+                  <unittitle>Keith Brodie letters, concerns Dept. merger with DUAA,
+                     1983-1986</unittitle>
+                  <container id="aspace_59fe6ac32c990e32df5d78eb62ae3cef" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_8wy" level="file">
+               <did>
+                  <unittitle>Budget Request Items, 1981-1984</unittitle>
+                  <container id="aspace_ef56e274d3210141063b1c237aa5f4c7" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_9um" level="file">
+               <did>
+                  <unittitle>Building Fund, 1978</unittitle>
+                  <container id="aspace_d6955b042adadc637f6ff1e57cf11aad" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_qlf" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <c03 id="aspace_ref43_5pb" level="file">
+                  <did>
+                     <unittitle>A, 1978-1986</unittitle>
+                     <container id="aspace_f9d04cd742bf6814b0219db3639b5bbb" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_naz" level="file">
+                  <did>
+                     <unittitle>B, 1978-1985</unittitle>
+                     <container id="aspace_11dbf4eca88c5865e62cb6bb98c1e415" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_4xw" level="file">
+                  <did>
+                     <unittitle>F, 1975; 1981</unittitle>
+                     <container id="aspace_4de3be99a0b0720cb9ead0fe0555faea" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_3a8" level="file">
+                  <did>
+                     <unittitle>G, 1981-1984</unittitle>
+                     <container id="aspace_d3ab3876ffc5a203317ce74062d67de5" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_y00" level="file">
+                  <did>
+                     <unittitle>H, 1978-1985 (2 folders)</unittitle>
+                     <container id="aspace_7a5ca4bb12daa8574f426020d67e7145" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_dmq" level="file">
+                  <did>
+                     <unittitle>J, 1978-1982</unittitle>
+                     <container id="aspace_7108f6deaf217ecd0609ee26fd7b222d" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_x15" level="file">
+                  <did>
+                     <unittitle>K, 1979-1983</unittitle>
+                     <container id="aspace_47963ebcb04adff5c0ed97fa8e643e85" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_701" level="file">
+                  <did>
+                     <unittitle>L, 1978-1985</unittitle>
+                     <container id="aspace_bb13aec4c0af1bb0dd6686feccfaa332" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_ktp" level="file">
+                  <did>
+                     <unittitle>M, 1979-1985</unittitle>
+                     <container id="aspace_c8a9dca27dac0c4976d6ca011a8550d5" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_qeq" level="file">
+                  <did>
+                     <unittitle>N, 1978-1986</unittitle>
+                     <container id="aspace_f6f0e7380205cfb7c25180f84b903fd7" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_mwb" level="file">
+                  <did>
+                     <unittitle>O, 1979-1983</unittitle>
+                     <container id="aspace_eb0b11f08f5af5c58461b51adfaf438e" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_3la" level="file">
+                  <did>
+                     <unittitle>P, 1978-1983 [Chancellor Kenneth Pye is a major correspondent in
+                        this folder]</unittitle>
+                     <container id="aspace_e77a89880aac0eb8b2984d1d8a6173f5" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref55_qb2" level="file">
+                  <did>
+                     <unittitle>Q, 1979</unittitle>
+                     <container id="aspace_635ed353cd6d875e2490a8941fc26a3c" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref56_rm3" level="file">
+                  <did>
+                     <unittitle>R, 1984</unittitle>
+                     <container id="aspace_c43989ce2094098f53142440251e0929" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_to4" level="file">
+                  <did>
+                     <unittitle>S, 1978-1985</unittitle>
+                     <container id="aspace_7bddb9c574c98cf680fa4e2cc37e2a5a" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref58_cuq" level="file">
+                  <did>
+                     <unittitle>T, 1978-1985</unittitle>
+                     <container id="aspace_133a9fb7fb13f31e015f39f6773c2e78" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref59_xl1" level="file">
+                  <did>
+                     <unittitle>U, 1979-1980</unittitle>
+                     <container id="aspace_e05f366bfc3f1404486e235cba87f189" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_dlv" level="file">
+                  <did>
+                     <unittitle>W, 1978-1985</unittitle>
+                     <container id="aspace_1c3305abc24192d36b38aa02b7c93130" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_0gh" level="file">
+                  <did>
+                     <unittitle>X-Y-Z, 1980-1984</unittitle>
+                     <container id="aspace_acbc80d33f1e115e0acc2ae7b1da0363" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref62_488" level="file">
+               <did>
+                  <unittitle>Cox, Bob deceased faculty member of HPER, 1978</unittitle>
+                  <container id="aspace_3f1195a4af872767777cafd1f82a304c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_pe9" level="file">
+               <did>
+                  <unittitle>De Leon (deceased), 1984</unittitle>
+                  <container id="aspace_cc117c1ab9ea2a5b21aa7b297c67d783" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_6rt" level="file">
+               <did>
+                  <unittitle>HPER Departmental Meeting, 1976-1986 (3 folders)</unittitle>
+                  <container id="aspace_682d6cf3450584801806eae6f42f4d33" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_ns2" level="file">
+               <did>
+                  <unittitle>Duke Sports Club Conference, October 22, 1983</unittitle>
+                  <container id="aspace_0535c1fcf97d3421979d41db6ce00a0e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_gaj" level="file">
+               <did>
+                  <unittitle>HPER East Campus Activity Center The Epoch Center,
+                     1976-1978</unittitle>
+                  <container id="aspace_e0e5c696909b159737fa28df7939a16e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_z6h" level="file">
+               <did>
+                  <unittitle>Equal Opportunity Material, 1977-1981</unittitle>
+                  <container id="aspace_a443cadbdee7f2b3bbbcf20ead1ff265" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_8ai" level="file">
+               <did>
+                  <unittitle>Family, Education, Rights, and Privacy Act</unittitle>
+                  <container id="aspace_c40d6c507b2804bd3881c5e8668b8fa3" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_j73" level="file">
+               <did>
+                  <unittitle>Family Night/Clinics, 1975-1979</unittitle>
+                  <container id="aspace_7f706842ea9a2fd1a4bfd721b276d42b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_kqm" level="file">
+               <did>
+                  <unittitle>Fencing, [1976-1977], 1982</unittitle>
+                  <container id="aspace_78a1dd2f1e4d03e0071c46dcb2483fa8" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_j7t" level="file">
+               <did>
+                  <unittitle>Graduation, 1982</unittitle>
+                  <container id="aspace_0bdaf4642efb4dc4b40e9582ae74ecbb" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_nq3" level="file">
+               <did>
+                  <unittitle>Graduation, 1983 (contains a staff marshal ribbon)</unittitle>
+                  <container id="aspace_a23b19ecd1d57f304e5014924d46f8f6" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_t78" level="file">
+               <did>
+                  <unittitle>Graduation, 1984</unittitle>
+                  <container id="aspace_d4736e196990f54ae615e383a76b5ed8" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_o1b" level="file">
+               <did>
+                  <unittitle>Monthly report to Trustees, 1983-1985 [submitted to Bill Griffith, V.P.
+                     of Student Affairs]</unittitle>
+                  <container id="aspace_d160e17f0ed441ac7fad04dc564766ee" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_99g" level="file">
+               <did>
+                  <unittitle>Bill Griffiths, 1980</unittitle>
+                  <container id="aspace_cabfab157a840937b76295056bfb5186" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_8if" level="file">
+               <did>
+                  <unittitle>Bill Griffith, 1981</unittitle>
+                  <container id="aspace_b50ec943e2afc1e4c5c1ab5aadc976e8" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_pfi" level="file">
+               <did>
+                  <unittitle>Bill Griffith, 1982</unittitle>
+                  <container id="aspace_ec666f849994e70d87c7271f238ab4d4" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_b5c" level="file">
+               <did>
+                  <unittitle>Bill Griffith, 1984</unittitle>
+                  <container id="aspace_22c122568d0eea7f16e53489f30bf804" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_prj" level="file">
+               <did>
+                  <unittitle>Health Fair, 1984-1985</unittitle>
+                  <container id="aspace_242deda73f74d23de83eba656b5a635e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_84i" level="file">
+               <did>
+                  <unittitle>Letters/Memos from staff, 1979</unittitle>
+                  <container id="aspace_ad70106b0d4bd993313f58b85ce190fe" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_h7i" level="file">
+               <did>
+                  <unittitle>Departmental Memos, 1979-1983</unittitle>
+                  <container id="aspace_cd1174fe2166373b65143abcae3bcb8b" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_r6w" level="file">
+               <did>
+                  <unittitle>Merger of HPER with DUAA, 1979; 1986</unittitle>
+                  <container id="aspace_4106e1faf80948248ca7275957fecc6e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_o2q" level="file">
+               <did>
+                  <unittitle>Outdoor Adventure Series, Virginia Cave Trek</unittitle>
+                  <container id="aspace_502b3d9a2b5f0d01814fbf6f2fe7818c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_w1e" level="file">
+               <did>
+                  <unittitle>Personal Effectiveness Grid, 1980-1985 [Memos to HPER staff-subjects
+                     include coarse loads, meeting agendas, etc.]</unittitle>
+                  <container id="aspace_9468bc25292be7b768fde382fcb9fbf8" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_nhc" level="file">
+               <did>
+                  <unittitle>Reappointments, 1979-1985</unittitle>
+                  <container id="aspace_9cb947c12cd5afc611951c2208289c4a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_257" level="file">
+               <did>
+                  <unittitle>Retrenchment Review, 1979-1981 (3 folders)</unittitle>
+                  <container id="aspace_524b69712992d6e109b4908d86f7bb49" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_2dd" level="file">
+               <did>
+                  <unittitle>October 1979 [Retrenchment Review]</unittitle>
+                  <container id="aspace_c68d5f8f72dba21b693ec25c7f677266" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_uri" level="file">
+               <did>
+                  <unittitle>November 1979 [Retrenchment Review]</unittitle>
+                  <container id="aspace_558c0e4148f8d0c8b387d94650545d3d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_i3h" level="file">
+               <did>
+                  <unittitle>December 1979 [Retrenchment Review]</unittitle>
+                  <container id="aspace_a0bd50486318014b6b14d1fac6d3a217" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_we9" level="file">
+               <did>
+                  <unittitle>January 1979 [Retrenchment Review]</unittitle>
+                  <container id="aspace_d23bd61c4be7a98ef6e5c06cd3ea8234" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_tft" level="file">
+               <did>
+                  <unittitle>Future Directions, 1980 [Retrenchment Review]</unittitle>
+                  <container id="aspace_f22d06155c2b41b0624cb2efd460e4bd" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_wbq" level="file">
+               <did>
+                  <unittitle>Ann Scott Meeting, February 6, 1980 [Retrenchment Review]</unittitle>
+                  <container id="aspace_bc4b3391dccf3cfaa98fa0801c3e79a5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_816" level="file">
+               <did>
+                  <unittitle>Safety-Larry Blake manager, 1983; 1985</unittitle>
+                  <container id="aspace_d771ceafca4850afa0e6cd5911a21623" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_6pq" level="file">
+               <did>
+                  <unittitle>President Terry Sanford, 1979-1985</unittitle>
+                  <container id="aspace_54e1b30b29b3b2b9d38bdcde1f4ec972" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_5tl" level="file">
+               <did>
+                  <unittitle>Semester reports-Annual reports, 1978-1985 (2 folders)</unittitle>
+                  <container id="aspace_dbbbf1cd173434e281e99bf997dae082" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_i8h" level="file">
+               <did>
+                  <unittitle>Spring Semester C0-ordinator, 1980 [Facilities Management and
+                     Maintenance]</unittitle>
+                  <container id="aspace_3250399abbb305c137d6c5683e064668" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_2k2" level="file">
+               <did>
+                  <unittitle>UFCAS [Undergraduate Faculty council of Arts and Sciences) minutes,
+                     1978-1979</unittitle>
+                  <container id="aspace_b1f6f9b13869cdcdac98e1681eb989ae" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_fgb" level="file">
+               <did>
+                  <unittitle>UFCAS minutes, 1980-1981</unittitle>
+                  <container id="aspace_37d08b63bd4ead6a130efdbae64fa7da" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/uasubjectrc/">uasubjectrc</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Subject Files Reference Collection, 1859-ongoing
+            <num>UA.01.11.0070</num></titleproper>
+        <author>Processed by: Thomas Harkins; machine-readable finding aid created by: Kimberly
+          Sims</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2009</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">004198508</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-03-23 15:26:57
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Subject Files Reference collection</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">Duke University. University Archives</corpname>
+      </origination>
+      <unitid>UA.01.11.0070</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1859/2014" type="inclusive">1859-ongoing</unitdate>
+      <physloc id="aspace_0f625ca9c1916e087327cd0f1352b60e">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <abstract id="aspace_5f6b95fe8f1c7b0b3994c89b67834a74">The Subject Files Reference Collection
+        contains files concerning a variety of subjects common to academic institutions, such as
+        institutional history and governance, diversity, parking, statistics, and so forth. This
+        collection was compiled from a variety of sources by the University Archives for use in
+        reference and research.</abstract>
+      <physdesc id="aspace_7ad058eeb89c27803da699338fd00b6b"
+        label="General Physical Description note"><extent>approx. 2,000 Items</extent></physdesc>
+      <langmaterial id="aspace_155edd976624d5182ea45beaaad60e73">Material in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_6450635680f41d99db55ba5d22fc4d7e">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_0b7670f32dc76fb4ca2798b34e01cd54">
+      <head>Copyright Notice</head>
+      <p>Copyright for Official University records is held by Duke University; all other copyright
+        is retained by the authors of items in these papers, or their descendants, as stipulated by
+        United States copyright law.</p>
+    </userestrict>
+    <prefercite id="aspace_f24df7d37aec95f2606255112937a0e2">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Subject Files Reference Collection, Duke University Archives,
+        David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_bdb97577d268e374e86bb1071e8a7d4f">
+      <head>Provenance</head>
+      <p>The Subject Files Reference Collection was compiled by University Archives staff from a
+        variety of sources.</p>
+    </acqinfo>
+    <processinfo id="aspace_3330932f2ed967df97f3082e18a45e46">
+      <head>Processing Information</head>
+      <p>Processed by Thomas Harkins, July 2009</p>
+      <p>Encoded by Kimberly Sims, August 2009</p>
+      <p>Updated by Molly Bragg, August 2011</p>
+    </processinfo>
+    <scopecontent id="aspace_cb7c509deb085365f691d51bf130aafc">
+      <head>Collection Overview</head>
+      <p>The collection contains files concerning a variety of subjects common to academic
+        institutions. The materials present include memoranda, lists and compilations, brochures,
+        news clippings, articles about the University, and manuscripts. Major subjects include
+        university history and governance, tuition and financial aid, pluralism, and transportation
+        and parking. Among the notable subjects is a 1975 fact-finding trip to China led by Mrs.
+        Terry Sanford.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_a6a76c8e9d27f3548a18cc0cb49e04c5">
+      <head>Related Material</head>
+      <p><archref><unittitle label="Collection">Commencement Collection (for visitors to
+            campus)</unittitle><repository label="Repository">Duke University Archives</repository>
+        </archref><archref><unittitle label="Collection">Newspapers Collection (articles about
+            Duke)</unittitle><repository label="Repository">Duke University Archives</repository>
+        </archref><archref><unittitle label="Collection">University Policies Reference Collection
+            (honor code)</unittitle><repository label="Repository">Duke University
+            Archives</repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <corpname source="ingest">Trinity College (Durham, N.C.) -- History -- 19th century</corpname>
+      <corpname source="ingest">Duke University -- History -- 20th century</corpname>
+      <corpname source="ingest">Trinity College (Durham, N.C.) -- History -- 20th century</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref13_2ve" level="file">
+        <did>
+          <unittitle>Crime</unittitle>
+          <container id="aspace_36a856675c160970fb2fcd8c5a0d3ebc" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref14_x6x" level="file">
+        <did>
+          <unittitle>Crime, frauds and imposters</unittitle>
+          <container id="aspace_b91b46d37e5c4406b8933fddbfa29702" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref15_jhu" level="file">
+        <did>
+          <unittitle>Crime, sexual assault and rape</unittitle>
+          <container id="aspace_d47832999854aad28c20181a1368acef" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref16_k8x" level="file">
+        <did>
+          <unittitle>Duke authors, 1984</unittitle>
+          <container id="aspace_cfa4b18e9fc0000617cc6f2e1a486e62" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref17_5wu" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, list</unittitle>
+          <container id="aspace_70dba9927b6da8e9df71938c32e13741" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref18_tg2" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 1920-1929</unittitle>
+          <container id="aspace_af6303ce9f8a9fadb7979cf86b3b39e6" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref19_79c" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 1930-1939</unittitle>
+          <container id="aspace_06981628e906512ee17ad85472ba2a00" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref20_t0g" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 1940-1949</unittitle>
+          <container id="aspace_fa81f07409f7d61dadacf2f9352365b1" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref21_kg9" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 1950-1959</unittitle>
+          <container id="aspace_a3db86fce410e158f6b304eff9dab9db" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref22_51s" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 1960-1969</unittitle>
+          <container id="aspace_583bdf392a97d91c35e0e7c78130f7e8" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref23_4vz" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 1970-1979</unittitle>
+          <container id="aspace_155b1b7759e2f26b21d1b3dcd3c6e6bc" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref24_vgw" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 1980-1989</unittitle>
+          <container id="aspace_ea06e742ea691fba625794ec4e3c2142" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref25_cqt" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 1990-1999</unittitle>
+          <container id="aspace_008cb471d1fa49e1016ee03a8f047f5c" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref26_5lz" level="file">
+        <did>
+          <unittitle>Duke in the media: articles about Duke, 2000-</unittitle>
+          <container id="aspace_55335d8a41358e65893b6a6cf5e3ef50" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref27_xgx" level="file">
+        <did>
+          <unittitle>Duke in the media: Duke in books</unittitle>
+          <container id="aspace_810577a2a1d5e787c3ee23e79f5951b0" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref28_w3z" level="file">
+        <did>
+          <unittitle>Duke in the media: films and television (2 folders)</unittitle>
+          <container id="aspace_460a9ffa50ad2537ee76606f88b5f6f2" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref29_1hk" level="file">
+        <did>
+          <unittitle>Globalization</unittitle>
+          <container id="aspace_d9f0a7f98f0820a9e24b3f05032d9a3f" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref30_16k" level="file">
+        <did>
+          <unittitle>Globalization: China</unittitle>
+          <container id="aspace_d19e9a69459d2792f45a264498de3245" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref31_v3f" level="file">
+        <did>
+          <unittitle>Globalization: China trip, 1975</unittitle>
+          <container id="aspace_171198a80e29879a4ee8bd14f0258404" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref32_si5" level="file">
+        <did>
+          <unittitle>Globalization: China trip, 1975: China Encounter [newspaper]</unittitle>
+          <container id="aspace_7323b471caa3699cfeef808568e8190d" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref33_qbb" level="file">
+        <did>
+          <unittitle>Globalization: China trip, 1975: clippings and news releases</unittitle>
+          <container id="aspace_c2797ca137a59e194abe2d73e37098eb" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref34_i2y" level="file">
+        <did>
+          <unittitle>Globalization: China trip, 1975: participants' notes and reports (2
+            folders)</unittitle>
+          <container id="aspace_3e367834c8eb2193699b0697944a797b" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref35_d2n" level="file">
+        <did>
+          <unittitle>Globalization: India</unittitle>
+          <container id="aspace_725f2f088ee3818ffd86adffde65e034" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref36_jvg" level="file">
+        <did>
+          <unittitle>Governance: Academic Council, 1971, 1988</unittitle>
+          <container id="aspace_29ca1ce4167b93288d28a3b055ee6c0f" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref37_pxn" level="file">
+        <did>
+          <unittitle>Governance: Aims of the University and mission statements, 1903-</unittitle>
+          <container id="aspace_082fc17db473d08ca16e5aa39386c56a" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref38_l01" level="file">
+        <did>
+          <unittitle>Governance: Bylaws, 1859-</unittitle>
+          <container id="aspace_069131f89f4cf9dba73be528d4e94177" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref39_189" level="file">
+        <did>
+          <unittitle>Governance: Charter, 1975-; see also History and Government of Duke
+            University</unittitle>
+          <container id="aspace_213e7372a2dfe6b76f7088c9445469a3" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref40_4nr" level="file">
+        <did>
+          <unittitle>Governance: Clippings, 1969-</unittitle>
+          <container id="aspace_897d7e3a4a79bf846f4ace1b480c2be7" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref41_z29" level="file">
+        <did>
+          <unittitle>Governance: History and Government of Duke University, 1931, 1936, 1952, 1955,
+            1958</unittitle>
+          <container id="aspace_b2c6394df7d2298eaeab141e55a6f528" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref42_fld" level="file">
+        <did>
+          <unittitle>Governance: The <title render="doublequote">Troika,</title> [1969]</unittitle>
+          <container id="aspace_b501b7e40069c149b3c1dad1f6caa5ab" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref43_2s8" level="file">
+        <did>
+          <unittitle>History and tradition: Class gifts</unittitle>
+          <container id="aspace_4a30c398b867f986484b70738eb7394c" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref44_n97" level="file">
+        <did>
+          <unittitle>History and tradition: Commencement, Bibles at</unittitle>
+          <container id="aspace_18e132a0c7ba2365acbd822fdaa372fa" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref45_xav" level="file">
+        <did>
+          <unittitle>History and tradition: Duke and the Methodist Church, 1957-</unittitle>
+          <container id="aspace_eebdbd42aadbbdfe123d513f1a5215a2" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref46_hvq" level="file">
+        <did>
+          <unittitle>History and tradition: Duke history</unittitle>
+          <container id="aspace_04120f23cd1221c1f1ea39d6aa0e3d82" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref47_epj" level="file">
+        <did>
+          <unittitle>History and tradition: Duke statistics, circa 1962-1996</unittitle>
+          <container id="aspace_814ba0561cd264dd2881c632c8d84841" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref48_2ij" level="file">
+        <did>
+          <unittitle>History and tradition: Ghosts and ghost stories</unittitle>
+          <container id="aspace_dee8509450f055cb9f57e38e1d2e29cc" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref49_1b4" level="file">
+        <did>
+          <unittitle>History and tradition: Myths</unittitle>
+          <container id="aspace_c8a395534e25507a20f46fec03091c85" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref50_yov" level="file">
+        <did>
+          <unittitle>History and tradition: Student Education Project, 1997</unittitle>
+          <container id="aspace_4dfc230500b66328c61c511cdb505af0" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref51_cnf" level="file">
+        <did>
+          <unittitle>History and tradition: Traditions</unittitle>
+          <container id="aspace_858e1f62a558c13269441d97899e2590" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref52_l5z" level="file">
+        <did>
+          <unittitle>Honorary degrees, lists</unittitle>
+          <container id="aspace_0e2c9c2b755a1e4efaf7c0b866701426" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref53_3rh" level="file">
+        <did>
+          <unittitle>Humor</unittitle>
+          <container id="aspace_396d2307ccdd50e134218506c3d300bd" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref54_ipt" level="file">
+        <did>
+          <unittitle>Intellectual life</unittitle>
+          <container id="aspace_69fe471b8506357dd1f37aa1dddb822e" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref55_zuo" level="file">
+        <did>
+          <unittitle>Playboy</unittitle>
+          <container id="aspace_223249288982aad4677dc5d6794121e5" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref56_lk8" level="file">
+        <did>
+          <unittitle>Pluralism: Duke's Vision, 1989-1991</unittitle>
+          <container id="aspace_989adfdd4ff9f4cad1d9241f0cf20564" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref57_4gg" level="file">
+        <did>
+          <unittitle>Pluralism: Political correctness, circa 1989-1994</unittitle>
+          <container id="aspace_11ae70d6d1737dafd7326a3706c5f992" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref58_ui2" level="file">
+        <did>
+          <unittitle>Politics: national, state, local, circa 1960-</unittitle>
+          <container id="aspace_b7992075c96f5c911569c575cb1d9364" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref59_22g" level="file">
+        <did>
+          <unittitle>Politics: Duke connections in Congress, 1986-1987</unittitle>
+          <container id="aspace_96faf8692fb8d6008bb37b63d7881284" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref60_zlv" level="file">
+        <did>
+          <unittitle>Technology and computing: clippings, circa 1980- (2 folders)</unittitle>
+          <container id="aspace_c2aa80be6eb80e08a2eef2c1acffd6d3" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref61_daq" level="file">
+        <did>
+          <unittitle>Technology and computing: Duchess [computer program], 1978-1982</unittitle>
+          <container id="aspace_b80fcf5dbe0b6a9ead6f7d9b50e3e681" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref62_2qk" level="file">
+        <did>
+          <unittitle>Technology and computing: Duke University Computer Kamp (DUCK),
+            1981-1985</unittitle>
+          <container id="aspace_a354c1e54bb7477462357543f89ece5d" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref63_8ss" level="file">
+        <did>
+          <unittitle>Technology and computing: Memos, brochures, etc., 1954-</unittitle>
+          <container id="aspace_b5e0c067f4aa284acc4d9d340869bd5a" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref64_u23" level="file">
+        <did>
+          <unittitle>Tobacco</unittitle>
+          <container id="aspace_821b1d75c9ea71ada2a0ba930d06db39" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref65_urz" level="file">
+        <did>
+          <unittitle>Tours and tour guides, 1964-</unittitle>
+          <container id="aspace_dfcf413f5fff752e245a4bdff3ee9f80" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref66_24d" level="file">
+        <did>
+          <unittitle>Transportation and parking: clippings</unittitle>
+          <container id="aspace_ddff52e8fca730575387c0fc330101d0" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref67_dra" level="file">
+        <did>
+          <unittitle>Transportation and parking: committees, circa 1989-2000</unittitle>
+          <container id="aspace_a78be123c0aa33e2b7ccb01dae3f82cc" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref68_znk" level="file">
+        <did>
+          <unittitle>Transportation and parking: cycling</unittitle>
+          <container id="aspace_37c868fa2cf6b5109de13e26093980fe" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref69_35m" level="file">
+        <did>
+          <unittitle>Transportation and parking: maps, circa 1972-</unittitle>
+          <container id="aspace_d0cb124f3c60c9cc93e4ad64d8e9b1d0" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref70_6xk" level="file">
+        <did>
+          <unittitle>Transportation and parking: memos and policies, circa 1967-</unittitle>
+          <container id="aspace_9fcc286112069def75dcf1e890bd6a39" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref71_ibl" level="file">
+        <did>
+          <unittitle>Tuition and financial aid: memoranda, receipts, brochures, etc.,
+            1932-</unittitle>
+          <container id="aspace_be5d7a1686d0e7061b738d34fec93b8e" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref72_djj" level="file">
+        <did>
+          <unittitle>Tuition and financial aid: clippings, 1962-</unittitle>
+          <container id="aspace_e4b785f9da35e554986021a78b086a12" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref73_c4o" level="file">
+        <did>
+          <unittitle>University cooperation, 1935-</unittitle>
+          <container id="aspace_8582b7b2caa1154ae9fb3d8fee2639eb" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref74_x9q" level="file">
+        <did>
+          <unittitle>Weather</unittitle>
+          <container id="aspace_f0d09f463f0afc3513dbc42898631d31" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

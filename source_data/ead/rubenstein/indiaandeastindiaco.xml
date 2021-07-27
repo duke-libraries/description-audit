@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/indiaandeastindiaco/"
+         >indiaandeastindiaco</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the India and East India Company Papers, 1691-1830
+                  <num>RL.00610</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library Staff, Noah Huffman, and Mitch Fraas;
+               machine-readable finding aid created by: Noah Huffman</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003876940</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 20:55:23
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>India and East India Company papers</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">East India Company</corpname>
+         </origination>
+         <unitid>RL.00610</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1691/1830" type="inclusive">1691-1830</unitdate>
+         <physloc id="aspace_2561842e302bcaf525a6efc6da1f7a22">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_d75f58cc0f9fa5e53b73ef3d1842f294">The East India Company was an
+            English joint-stock company formed in 1600 that ruled portions of South Asia until 1858.
+            This collection contains over 55 documents including miscellaneous legal papers,
+            correspondence, receipts, and extracts largely relating to the East India Company's
+            operations and employees; three documents relating to Muhammad Ali Khan Wallajah, the
+            Nabob of Arcot (1745-1795); manuscripts relating to Sir Robert Chambers (1737-1803), who
+            traveled to India in 1774 as one of the first justices of the Supreme Court at Calcutta;
+            and a petition written by the wife of Almas Ali Khan, an important administrator in
+            Awadh and one of the key figures in the trial of Warren Hastings. These manuscripts seem
+            to have formerly been part of Sir Thomas Phillipps noted collection.</abstract>
+         <physdesc id="aspace_3c416af556d4c413e4fd6de500aa5f5d">
+            <extent>55 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_c2ace7f4f984eace09e05b117c6ebc6e">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_167344eca7a231a4669a87ed294b9fe9">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_8f39b3b709f6ba5471379afe6b7b5327">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_340977147ce404d602b56b04a38793f0">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], India and East India Company Papers, David M. Rubenstein Rare
+            Book &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_907fb8958fb6b4146059d0918837d8f3">
+         <head>Provenance</head>
+         <p>The India and East India Company Papers were received by the David M. Rubenstein Rare
+            Book &amp; Manuscript Library as a purchase in August 1971. Some materials in the
+            collection were once part of the collection of Sir Thomas Phillipps.</p>
+      </acqinfo>
+      <processinfo id="aspace_b9b6403e731442880f0322f6deb7db16">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library Staff, Noah Huffman, and Mitch Fraas, December 2010</p>
+         <p>Encoded by Noah Huffman, December 2010</p>
+         <p>Accession from August 26, 1971 is described in this finding aid.</p>
+      </processinfo>
+      <bioghist id="aspace_4f23db6155759b4b0eddc77e77208791">
+         <head>Historical Note</head>
+         <p>The East India Company was an English joint-stock company formed in 1600 that ruled
+            portions of South Asia until 1858.</p>
+      </bioghist>
+      <scopecontent id="aspace_374963807f38f741d3ec42ca52554964">
+         <head>Collection Overview</head>
+         <p>This collection contains over 55 documents in four discrete folders. The first folder
+            contains miscellaneous legal documents, correspondence, receipts, and extracts largely
+            relating to East India Company operations and employees, including the earliest document
+            in the collection, a 1691 transfer of EIC stock signed by Sir Josia[h] Child. Some of
+            the manuscripts in the collection appear to have been once in the collection of Sir
+            Thomas Phillipps. The second folder contains three documents relating to Muhammad Ali
+            Khan Wallajah, the Nabob of Arcot (1745-1795). The third folder contains manuscripts
+            relating to Sir Robert Chambers, who traveled to India in 1774 as one of the first
+            justices of the Supreme Court at Calcutta. The collection of Chambers' manuscripts
+            includes letters to the Justices at Calcutta as a whole, a fragmentary legal opinion,
+            and a petition written by the wife of Almas Ali Khan, an important administrator in
+            Awadh and one of the focal points in the trial of Warren Hastings. The fourth folder
+            contains one bound volume of miscellaneous correspondence, some related to the case of
+            merchant James Paull (1770-1808), formerly in the noted collection of Sir Thomas
+            Phillipps.</p>
+      </scopecontent>
+      <arrangement id="aspace_e0861d0385207d76c47f359f6d6ef878">
+         <head>Arrangement note</head>
+         <p>Organized into the following series: Miscellaneous Papers, Sir Robert Chambers Papers,
+            and James Paull Case Papers.</p>
+      </arrangement>
+      <controlaccess>
+         <geogname source="lcsh">India -- History -- 19th century</geogname>
+         <geogname source="lcsh">India -- Politics and government</geogname>
+         <geogname source="lcsh">India -- History -- 18th century</geogname>
+         <persname source="ingest">Muhammad Ali Khan, Umdat al-Mulk Anwar al-Din, Nawab of Arcot,
+            1717 or 18-1795</persname>
+         <corpname source="ingest">East India Company</corpname>
+         <persname source="ingest">Phillipps, Thomas, Sir, 1792-1872</persname>
+         <persname source="ingest">Paull, James, 1770-1808</persname>
+         <persname source="ingest">Chambers, Robert, Sir, 1737-1803</persname>
+         <corpname source="ingest">East India Company</corpname>
+         <persname source="ingest">Child, Josiah, Sir, 1630-1699</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_iz4" level="series">
+            <did>
+               <unittitle>Miscellaneous Papers, 1691-1830</unittitle>
+               <physdesc id="aspace_2d71257502a0f4f36faac76d2097237b">
+                  <extent>2 folders</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref15_73f" level="file">
+               <did>
+                  <unittitle>Letter from L. Sanders to Thomas Lewis [Lewes] on an account matter.
+                     Written on board the Kent at Batavia, 1692 June 9</unittitle>
+                  <physdesc id="aspace_8b0251afe1b7d65cb46c3d7f154b57c7">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_0fe8c298396e3f65265496c9459ef989" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_b97d8eb8ecdaec74135a500bbc0a3951"
+                     parent="aspace_0fe8c298396e3f65265496c9459ef989" type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_59s" level="file">
+               <did>
+                  <unittitle>Certificate of transfer of East India Company stock from Josia Child to
+                     Thomas Lewis. With Child signature and seal,</unittitle>
+                  <unitdate type="inclusive">1691 August</unitdate>
+                  <physdesc id="aspace_048961044600570703b7c901156150e7">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_db7adc90ac3538da2e23b46767b8a121" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_628610390a872a1b6e1c316cc0766699"
+                     parent="aspace_db7adc90ac3538da2e23b46767b8a121" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_cfh" level="file">
+               <did>
+                  <unittitle>Letter to an Ensign Edward Grayham for his subsistence to be deducted
+                     from his pay as an ensign at Bombay. Also orders a clause to be inserted in the
+                     Company's general letter on this subject. Signed Thomas Blackborne, 1697 April
+                     14</unittitle>
+                  <physdesc id="aspace_015469cb125e31f3a0d89f8eb9b27f84">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_0b8867e998f84c751384190730698ee4" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_413d65e1dc8c8a50a646ed57a4016f6e"
+                     parent="aspace_0b8867e998f84c751384190730698ee4" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_7bf71b0de0144ca90c963181ed747e98">
+                  <head>Scope and Contents note</head>
+                  <p>"It is ordered that it be referred to Sir Thomas Rawlinson and Mr. John DuBois
+                     to give direction for payment..."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref22_as8" level="file">
+               <did>
+                  <unittitle>A list of goods and merchandise exported from London by the United EIC,
+                     1706 April-1707 April</unittitle>
+                  <physdesc id="aspace_3229cb5bf28bb9ccd25d29a4a5f744e2">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_f1d899dd8272c9625097d8c549f779fe" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_9c30fac37857d1703534e8daef907376"
+                     parent="aspace_f1d899dd8272c9625097d8c549f779fe" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_93cdf3416322f7e7200f3df06ff6ba66">
+                  <head>Scope and Contents note</head>
+                  <p>Total amount: £297,727.15.7.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref25_tca" level="file">
+               <did>
+                  <unittitle>Letter from Robert Atkyns to Windham Ashe, esq.,about some financial or
+                     stock transference matter, 1737 April 28</unittitle>
+                  <physdesc id="aspace_b96e39950c7af79afaba078c809b210d">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_69a11bf386e8808142c89f375a917d09" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_afce95fb8d241bb5c15345c83af1ecd3"
+                     parent="aspace_69a11bf386e8808142c89f375a917d09" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_kx9" level="file">
+               <did>
+                  <unittitle>Letter to unknown from Fr. Joseph (prefect of the Tibet missions) at
+                     Chandernagore, 1770 July 7</unittitle>
+                  <physdesc id="aspace_a633eca69c1a448040897adfe15b2e7f">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_fd901649885f4949b3174c2ed042e3bb" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_d470500c3bf47c75ad924e988fe80e6b"
+                     parent="aspace_fd901649885f4949b3174c2ed042e3bb" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_8b0a7d62297af783459cfc546fff4d5f">
+                  <head>Scope and Contents note</head>
+                  <p>Letter is written in Latin and describes the Nepalese alphabet. Attached to the
+                     letter is a Nepalese alphabet with phonetic guide. Pencil note ex. Phillipps MS
+                     4068[?].</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref30_u08" level="file">
+               <did>
+                  <unittitle>Sworn statement signed by Henry Wedderburn at Calcutta, 1777 March
+                     11</unittitle>
+                  <container id="aspace_eb2aa928ca547a8ac4c9daca2f6cb544" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_8707c6353033620d7b3d00eb37012385"
+                     parent="aspace_eb2aa928ca547a8ac4c9daca2f6cb544" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_a010b6feeaf3df8b259d715c3464e9c5">
+                  <head>Scope and Contents note</head>
+                  <p>Document pertains to the purchase and fitting out of several vessels at
+                     Calcutta and a contract with a Messr. Zovarg [Jovarg?]. Signed and sealed by
+                     Charles Sealy notary public and S.C. Lemaistre [Stephen Ceasar Lemaistre, d.
+                     1777], justice of the Supreme Court.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref32_hgc" level="file">
+               <did>
+                  <unittitle>Letter to unknown from Major Charles Frederick at Bombay, 1783
+                     October</unittitle>
+                  <physdesc id="aspace_aeedbf17aad54183a2ddd7c0ffa7507c">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_fd2a53734eb27dbee9a7520387d3c646" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_d4e275b17cc18070a1603b76aaefcb21"
+                     parent="aspace_fd2a53734eb27dbee9a7520387d3c646" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_759fade028d7b6d39c05323e8a9eb2e2">
+                  <head>Scope and Contents note</head>
+                  <p>Narrates some personal and political events including a mention of Tipu Sultan
+                     (1750-1799).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref35_2zt" level="file">
+               <did>
+                  <unittitle>Letter to unknown by George Baker at London, 1787 June 4</unittitle>
+                  <physdesc id="aspace_177b4eb14a5728446c8b095d09c007f8">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_ccd849454d20ee90aeda3858e8ad70cb" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_5446c8b4cc5aaf8ce6712410e7febf59"
+                     parent="aspace_ccd849454d20ee90aeda3858e8ad70cb" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_7840a0959e6018857d856b6ba42e8404">
+                  <head>Scope and Contents note</head>
+                  <p>Relates in part to a dispute with a certain W.M.P. and mentions enclosed
+                     opinions by a W. Scott and Mr. Hardinge speaking unfavorably of the recipients
+                     chances of recovering "by legal process."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref38_ep8" level="file">
+               <did>
+                  <unittitle>Two receipts or accounting slips of EIC dividends and sales in the
+                     1660s and 1670s.</unittitle>
+                  <physdesc id="aspace_c47cc7d3735ef9e6b551aac5df31cbc5">
+                     <extent>2 scraps</extent>
+                  </physdesc>
+                  <container id="aspace_1b55a6673c539f45bda0e077c6983927" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_981e63df0dd6011c55d8530967a00b94"
+                     parent="aspace_1b55a6673c539f45bda0e077c6983927" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_el6" level="file">
+               <did>
+                  <unittitle>Two letters from five members of the EIC council [?] at Canton to Capt.
+                     James Farquharson of the ship Alfred, 1791 September 16</unittitle>
+                  <physdesc id="aspace_d9f87013277e0941cbcf282ea9017052">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_7974e2cf9e6ef300ddd5c1a42b315990" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_fa7393010f60b0360553b881336a0dcd"
+                     parent="aspace_7974e2cf9e6ef300ddd5c1a42b315990" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_327121e0bcb8c853c2fdc74ef9b012ee">
+                  <head>Scope and Contents note</head>
+                  <p>Gives orders about how he should conduct himself at port. "We positively direct
+                     that you do not receive on board your ship any slaves belonging to the
+                     inhabitants of Macao." Pencil note - "ex. Phillipps 19,298."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref43_5yh" level="file">
+               <did>
+                  <unittitle>Two letters to Sir Thomas Strange, judge at Madras, from Sir George
+                     Barlow, 1808 July 8 and 27</unittitle>
+                  <physdesc id="aspace_cb1f7d3ad8108b594b09812718a3dfba">
+                     <extent>7 pages</extent>
+                  </physdesc>
+                  <container id="aspace_5e0b5f696fcb10275fa53b767e96477d" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_87f96cf09de9b22e8d727dc4e65cd750"
+                     parent="aspace_5e0b5f696fcb10275fa53b767e96477d" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_cc29e066f9c9d337dd561b15f54762f8">
+                  <head>Scope and Contents note</head>
+                  <p>Both letters concern the sentencing of a corporal in the 69th regiment for
+                     murder of a shopkeeper. Initially Barlow believed the soldier to be insane when
+                     committing the murder but in his subsequent letter to the judge revises his
+                     opinion and blames it on the spirit of revenge against "natives" common amongst
+                     soldiers present at the siege of Vellore and suggests harsh punishment as a
+                     result.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref46_fhr" level="file">
+               <did>
+                  <unittitle>Letter from Lord [John ]Northwick (1770-1859) to HRH the Duke of Kent
+                     on candidates for an EIC directorship post, 1814 January 20</unittitle>
+                  <physdesc id="aspace_593b983c3ba36e8b06cb93fc0ec049bb">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_457b8aca8b8e793d3fd85e3e6ab40b0e" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_5f4309395c4c57a4b21b191d8404890e"
+                     parent="aspace_457b8aca8b8e793d3fd85e3e6ab40b0e" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_naa" level="file">
+               <did>
+                  <unittitle>Letter from unknown to a Mr. [Joseph?] Hume, 1815 October
+                     10</unittitle>
+                  <physdesc id="aspace_37cf1b38cb6911c771d7d347c5b2bb2c">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_fbd9234e3599e47511b19a863dfa4c17" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_e5353d104416afcede832d2dcea464ac"
+                     parent="aspace_fbd9234e3599e47511b19a863dfa4c17" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_8412b4ee3db2c3848f7c562a4682bad5">
+                  <head>Scope and Contents note</head>
+                  <p>Mostly on EIC and military affairs. Asks for a cadetship for his son: "on my
+                     return to England in 1810 I brought home a boy a son of mine; His mother was a
+                     half cast and a Christian. He was born at Ganjam in August 1801 and in
+                     complexion he is fair and has been at an academy ever since he landed in
+                     England where he still continues, No. 12 Camden Street Camden Town London."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref51_1p3" level="file">
+               <did>
+                  <unittitle>Letter to unknown from Sir Evan Nepean [Gov. of Bombay] regarding
+                     military promotions, 1815 or 1816 February 18</unittitle>
+                  <physdesc id="aspace_70a80f1c41b894352d15aa60fd608cad">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_445fe4c415d01a81066cb7b779b2ec74" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_b1afca570fabdc03c83c079ccb9a514a"
+                     parent="aspace_445fe4c415d01a81066cb7b779b2ec74" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_1835ae8331cf74d9bd3fd98711246f41">
+                  <head>Scope and Contents note</head>
+                  <p>Mentions a Capt. Frederick, perhaps same as above.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref54_y7h" level="file">
+               <did>
+                  <unittitle>Letter to Joseph Hume, MP, from a Mr. Armot on changes in education for
+                     EIC service, 1830 November 13</unittitle>
+                  <physdesc id="aspace_b466671eb4bc8ac4e282b1198f61458f">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_ff1b038f091db1ffd96485535727b310" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_a38410e558a86cc2efe17a532611d933"
+                     parent="aspace_ff1b038f091db1ffd96485535727b310" type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_bxf" level="file">
+               <did>
+                  <unittitle>Copy of a letter from Lord Sydney (Thomas Townshend, 1733-1800) to
+                     Mohamed Ali Khan Wallajah, the Nabob of Arcot (1745-1795), 1784 February
+                     14</unittitle>
+                  <physdesc id="aspace_48d86daf334ad5365742fcb513c1ee03">
+                     <extent>3 pages</extent>
+                  </physdesc>
+                  <container id="aspace_f436efaa1fe3ac34a42d5e6925080782" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_9d0362fe73609bfafcc8889051295380"
+                     parent="aspace_f436efaa1fe3ac34a42d5e6925080782" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_1500fa039f93805c9044a19b9f292d0b">
+                  <head>Scope and Contents note</head>
+                  <p>Received 8 October 1784. Relates to a letter sent by the Nabob, 12-13 August
+                     [1783?], detailing grievances against Lord [George] Macartney and promising
+                     "ample justice shall be afforded to your highness."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref59_a3t" level="file">
+               <did>
+                  <unittitle>Copy of a letter from Lord Macartney to the Nabob of Arcot, 1782
+                     February 21</unittitle>
+                  <physdesc id="aspace_ad9a14d73dd6b6931b6ebcc1e081b59c">
+                     <extent>8 pages</extent>
+                  </physdesc>
+                  <container id="aspace_8acdf7fe6f9e6d3de10e27677ac0d366" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_3e442d485a4a69c1f0ed11b123b344a7"
+                     parent="aspace_8acdf7fe6f9e6d3de10e27677ac0d366" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_e663cecc70455755fe3f73fde7de0fcf">
+                  <head>Scope and Contents note</head>
+                  <p>Details several land revenue matters ands asks among other things for the Nabob
+                     to "entrust" the defense of his territories to the EIC army.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref62_8ph" level="file">
+               <did>
+                  <unittitle>Fragmentary letter "In the Nabob's own hand" to the Governor and
+                     Council of Madras, undated</unittitle>
+                  <physdesc id="aspace_40f32ea43fddfce7b82406b4c56b5eec">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_8ab88168849c12abeb9fa6e6b5cff0b0" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_bcebedf15320af564a8cf781d4c8e5a7"
+                     parent="aspace_8ab88168849c12abeb9fa6e6b5cff0b0" type="folder">2</container>
+               </did>
+               <scopecontent id="aspace_414e5584aca3c061c67052653bd66827">
+                  <head>Scope and Contents note</head>
+                  <p>Many corrections and cross-outs. Complains of unjustice done to him - only
+                     bottom half of letter survives.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref65_zem" level="series">
+            <did>
+               <unittitle>Sir Robert Chambers Papers, 1749-1790</unittitle>
+               <physdesc id="aspace_2aa7a53ba893507aba419b47b8003843">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref67_qxj" level="file">
+               <did>
+                  <unittitle>Letter to Robert Chambers, John Hyde, and William Jones [Justices of
+                     the Supreme Court at Calcutta] signed by Cornwallis, Stuart, and Speke[?], 1790
+                     January 10</unittitle>
+                  <physdesc id="aspace_575c593333b9fc7697f486d83b328396">
+                     <extent>4 pages</extent>
+                  </physdesc>
+                  <container id="aspace_a6f9b68d617a0b8a0219929906ed32a6" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_22e55c1b1bdf69b8cb70b516ee968c06"
+                     parent="aspace_a6f9b68d617a0b8a0219929906ed32a6" type="folder">3</container>
+               </did>
+               <scopecontent id="aspace_b75b5885598d8f19a12d9de9b8b22a99">
+                  <head>Scope and Contents note</head>
+                  <p>Letter informs the justices that the High Court of Admiralty in London has sent
+                     out a commission directed to the Supreme Court to investigate a claim. They add
+                     that it is the Government's desire that the Justices comply with the directive
+                     with a minimum of fuss.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref70_z46" level="file">
+               <did>
+                  <unittitle>Letter to Robert Chambers, John Hyde, and William Jones signed by
+                     Cornwallis, Stuart, and Shoal [?], 1788 November 12</unittitle>
+                  <physdesc id="aspace_0915bd7eddd04dcdaffcdd340d2cfbb4">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_183b34953f93561278f21222bab2eee9" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_1619e5e5e5ec9f16eb9cd86c4f99e1ba"
+                     parent="aspace_183b34953f93561278f21222bab2eee9" type="folder">3</container>
+               </did>
+               <scopecontent id="aspace_18933279335bc87a1f15182e4daaeb3e">
+                  <head>Scope and Contents note</head>
+                  <p>The letter asks that those who have served as commissioners of the court of
+                     requests at Calcutta beyond a 2 year term be exempt from serving on juries.
+                     List of 22 persons who fit that description attached.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref73_qun" level="file">
+               <did>
+                  <unittitle>Letter to Elijah Impey, Robert Chambers, John Hyde, and William Jones
+                     signed by Cornwallis, Macpherson, Stables, and Stuart, 1786 December
+                     13</unittitle>
+                  <physdesc id="aspace_655312725fc4502014b4778a35a8ad07">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_c04000c330d3e24a563b611cf613c6bb" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_b6dd223527c8d025d123654e265492d2"
+                     parent="aspace_c04000c330d3e24a563b611cf613c6bb" type="folder">3</container>
+               </did>
+               <scopecontent id="aspace_40d277ccb2e870659408ce9c3ee9beba">
+                  <head>Scope and Contents note</head>
+                  <p>Enclosed is another letter from Gilbert Hall, the coroner of Calcutta, asking
+                     for an increase in salary.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref76_hhm" level="file">
+               <did>
+                  <unittitle>Letter to Elijah Impey, Robert Chambers, John Hyde, and William Jones
+                     signed by Cornwallis and Stables,1786 October 18</unittitle>
+                  <physdesc id="aspace_46a9d5c6f6d6d28c75565b3121fe1398">
+                     <extent>1 page</extent>
+                  </physdesc>
+                  <container id="aspace_da7388b3ff89196559742f69e4c0c646" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_19b6cd53c0eda945bbfffa4e505e670d"
+                     parent="aspace_da7388b3ff89196559742f69e4c0c646" type="folder">3</container>
+               </did>
+               <scopecontent id="aspace_84fd2ce23555c8ba48dccab8ea92044e">
+                  <head>Scope and Contents note</head>
+                  <p>Cover letter enclosing a communication from the President and Council at Ft.
+                     St. George [Madras].</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref79_biz" level="file">
+               <did>
+                  <unittitle>Letter from James Taylor, register to the Madras Mayor's Court, 1786
+                     September 7</unittitle>
+                  <physdesc id="aspace_dc77188f240ae7529f22c066d7525c18">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_5fb03cbb180554d3b29602aa0a260250" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_f1d43ebf82b8a5200f080464df8ad480"
+                     parent="aspace_5fb03cbb180554d3b29602aa0a260250" type="folder">3</container>
+               </did>
+               <scopecontent id="aspace_e7ec25b02c57fa69f4074df5bb63ef02">
+                  <head>Scope and Contents note</head>
+                  <p>Letter asks the President and Council there to ask the Governor General to
+                     solicit the opinion of the "Chief Judge" of the Supreme Court in Calcutta about
+                     whether an alderman of the Mayor's Court could be held on special bail upon
+                     arrest.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref82_9oz" level="file">
+               <did>
+                  <unittitle>Letter to Sir Robert Chambers from James Taylor, Paul Benfield,
+                     Benjamin Roebuck, George Moubra, and another, 1788 April 27</unittitle>
+                  <physdesc id="aspace_2093aed121e7cf1b2cc6e2d51bad3c97">
+                     <extent>2 pages</extent>
+                  </physdesc>
+                  <container id="aspace_8b56c512193eda9bdcff02294337a41d" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_6e0b2b19ef48bd2bbe26c830a70681e3"
+                     parent="aspace_8b56c512193eda9bdcff02294337a41d" type="folder">3</container>
+               </did>
+               <scopecontent id="aspace_214c4851d1f96edf721f31b87cfe8299">
+                  <head>Scope and Contents note</head>
+                  <p>Writers ask for Chambers' advice on a case, possibly the same as above. They
+                     enclose the opinion of attorney general Sullivan and write "We are confident
+                     you must be sensible of the embarrassments we who are not professional men and
+                     deprived of legal aid must feel in being under the necessity of standing
+                     forward in opposition to the Company's law council in defense of the Rights and
+                     Fortunes of those whom we represent."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref85_klf" level="subseries">
+               <did>
+                  <unittitle>Bundle of letters marked [Phillipps?] 34771</unittitle>
+               </did>
+               <c03 id="aspace_ref86_75o" level="file">
+                  <did>
+                     <unittitle>Letter from Thomas Fitzmaurice to Robert Chambers on a matter of
+                        parliamentary voting, 1768 January 25</unittitle>
+                     <physdesc id="aspace_d23531a5ec0e350eb2208199b309b782">
+                        <extent>3 pages</extent>
+                     </physdesc>
+                     <container id="aspace_0389662b8316da43145ab9619dc1957b" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_e77105efbcafe6cf5cb6e6ac2e4a2e98"
+                        parent="aspace_0389662b8316da43145ab9619dc1957b" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_436ad4f5bc134742a245f5256b2de635">
+                     <head>Scope and Contents note</head>
+                     <p>Postscript reads in part: "[William] Blackstone moved the Writ (as his
+                        expression was in a note to me) this morning to deliver the University from
+                        her anxiety..."</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref89_99h" level="file">
+                  <did>
+                     <unittitle>Letter (in Latin) from the young Robert Chambers at Beaufort to his
+                        father, 1749 April 17</unittitle>
+                     <physdesc id="aspace_09a1e342900593c546e415356907fe10">
+                        <extent>1 page</extent>
+                     </physdesc>
+                     <container id="aspace_e1c6f3d741e8d6ff5f64a077011de9d4" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_6d2c453191956239e44cb97a96d0374e"
+                        parent="aspace_e1c6f3d741e8d6ff5f64a077011de9d4" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_ddfe40d5b85107b24b1206208b9e5a39">
+                     <head>Scope and Contents note</head>
+                     <p>Annotation on back "Scrap of a Latin letter from my father to me in 1749
+                        copied (as I believe) by myself."</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref92_rrs" level="file">
+                  <did>
+                     <unittitle>Undated partial draft of an opinion on the privileges of the Mayor
+                        and Aldermen of Madras</unittitle>
+                     <physdesc id="aspace_911d3c12bbcbe1cce84d0ed2f6e39f5c">
+                        <extent>1 page</extent>
+                     </physdesc>
+                     <container id="aspace_9ae3435a2f73efdc4e60c907d60e1bf0" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_331b593bd9d0c49ee1ec8b20d73beed8"
+                        parent="aspace_9ae3435a2f73efdc4e60c907d60e1bf0" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref94_vqs" level="file">
+                  <did>
+                     <unittitle>Letter from T. Motte in Calcutta to Robert Chambers, 1780 May
+                        26</unittitle>
+                     <container id="aspace_c6f809e8828284dbbade1a6f01659b82" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_f1194e142b9f86e9bc34eca6eb65c85b"
+                        parent="aspace_c6f809e8828284dbbade1a6f01659b82" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_24ff247ce5175785712a1ee2a97fdc81">
+                     <head>Scope and Contents note</head>
+                     <p>Body of the letter reads in full: "I waited on Sir Elijah Impey this
+                        morning, he wished well to any thing which might conduce to the good of the
+                        settlement he said when the ordinances should be brought before him on the
+                        bench, he would point out any illegality should there be such, or should the
+                        inhabitants make any objections he would hear them, but declined taking it
+                        into consideration 'till that time."</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref96_ot2" level="file">
+                  <did>
+                     <unittitle>Letter from Elizabeth Brown (Chambers' aunt) to Chambers at
+                        University College Oxford, 1767</unittitle>
+                     <physdesc id="aspace_5898778a284d5c1f26ae70e3e313de20">
+                        <extent>3 pages</extent>
+                     </physdesc>
+                     <container id="aspace_9952f3973540efd6d8ce9285971f2518" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_e5b6d73103fa27d7c417eda4ff7f1be5"
+                        parent="aspace_9952f3973540efd6d8ce9285971f2518" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_c4d97ce8e83e6c279319ff7af0e4c4fa">
+                     <head>Scope and Contents note</head>
+                     <p>Encloses a letter on financial affairs from a Mr. Hall of Jamaica.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref99_v9t" level="file">
+                  <did>
+                     <unittitle>Genealogy of the Chambers family in the 16th and 17th
+                        centuries.</unittitle>
+                     <container id="aspace_daf144e143f255a78b8f6882597745e8" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_7f39b05cdcdff54afe41ffbaf9443664"
+                        parent="aspace_daf144e143f255a78b8f6882597745e8" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_lk0" level="file">
+                  <did>
+                     <unittitle>Undated latter to "Professor Chambers" from an unknown friend about
+                        Oxford matters</unittitle>
+                     <physdesc id="aspace_aa6deb210b9b683c9c012c60cf0e6ba1">
+                        <extent>1 page</extent>
+                     </physdesc>
+                     <container id="aspace_034bbe177b42d8712b60f592a1e154d5" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_501f0469444ff8aa34fb95dd7d6db3d8"
+                        parent="aspace_034bbe177b42d8712b60f592a1e154d5" type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref102_a4y" level="file">
+                  <did>
+                     <unittitle>Undated (post 1786) letter from John Hyde to Robert
+                        Chambers</unittitle>
+                     <physdesc id="aspace_a1ada0a4ffc51a4bc1bfd727780a90c0">
+                        <extent>3 pages</extent>
+                     </physdesc>
+                     <container id="aspace_a4f8c180f2f41fa2f58a6beafb3f5f53" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_054190c36989624f66a66f4bfcb392c8"
+                        parent="aspace_a4f8c180f2f41fa2f58a6beafb3f5f53" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_03f0e74590d9f57482d08abbb6f46ffe">
+                     <head>Scope and Contents note</head>
+                     <p>Letter concerns a list of statutes in force in the East Indies that the two
+                        were compiling.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref105_pvf" level="file">
+                  <did>
+                     <unittitle>Letter to Robert Chambers and William Jones from the Secret
+                        Department of Inspection at Fort William (Calcutta), 1786 January
+                        31</unittitle>
+                     <physdesc id="aspace_29e935266aeb260aba0f1f3b0ed26994">
+                        <extent>3 pages</extent>
+                     </physdesc>
+                     <container id="aspace_3f8ade46cfb0e7564660d3252c6beaba" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_4b0fca29a78c31138f4026f325fa628e"
+                        parent="aspace_3f8ade46cfb0e7564660d3252c6beaba" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_266948f1adc0cf351432ee73e6c29038">
+                     <head>Scope and Contents note</head>
+                     <p>The letter asks for the two judges' support for a measure that would end the
+                        preference given to the judges' salary obligations on the local East India
+                        Company treasury and give members of the EIC armed forces preference in
+                        negotiating instruments drawn on the treasury.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref108_d80" level="file">
+                  <did>
+                     <unittitle>An extract (paragraph 4) from the general letter sent from Madras to
+                        Calcutta, 1786 September 23</unittitle>
+                     <physdesc id="aspace_62cac3018af81dac3fcda0fb61e86c15">
+                        <extent>1 page</extent>
+                     </physdesc>
+                     <container id="aspace_6892cb225daf433e4a5dce8770b2a5b2" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_93d59ff8ee4f11fceb09997caf40add1"
+                        parent="aspace_6892cb225daf433e4a5dce8770b2a5b2" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_104fc00e6c6cf4d557f201fdf6f9b4ea">
+                     <head>Scope and Contents note</head>
+                     <p>The extract asks for the opinion of the Supreme Court.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref111_w9d" level="file">
+                  <did>
+                     <unittitle>Letter to Lord Cornwallis from Gilbert Hall, the coroner of
+                        Calcutta, 1786 November 24</unittitle>
+                     <physdesc id="aspace_7fcf8f6ae8e20a1ab5514202683ba56b">
+                        <extent>3 pages</extent>
+                     </physdesc>
+                     <container id="aspace_399ee19346feba9a2d8a443f0061d6bc" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_8765ed9447b7ca22933d19c1e2ce0cbb"
+                        parent="aspace_399ee19346feba9a2d8a443f0061d6bc" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_af47f521170f38c006e4cf94c4bea2c7">
+                     <head>Scope and Contents note</head>
+                     <p>The letter complains of the hardships of being coroner in the city and lists
+                        the expenses and personnel necessary for his job.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ref114_umf" level="file">
+                  <did>
+                     <unittitle>Petition presumably sent to Robert Chambers from the wife of Almas
+                        Ali Khan relating to his pending execution, 1780s</unittitle>
+                     <physdesc id="aspace_b1b5147d47d88f1ae6e22005989fd99e">
+                        <extent>2 pages</extent>
+                     </physdesc>
+                     <container id="aspace_a49a7f27a4594f8b3b87052d61e8b6a0" label="Mixed Materials"
+                        type="box">1</container>
+                     <container id="aspace_7d5bc39fe9a9406d79f92fbde8703f3c"
+                        parent="aspace_a49a7f27a4594f8b3b87052d61e8b6a0" type="folder">3</container>
+                  </did>
+                  <scopecontent id="aspace_26f72f0abdedd585e12c69f2e68dd9f4">
+                     <head>Scope and Contents note</head>
+                     <p>(A photocopy is at the British Library - Mss Eur Photo Eur 123).</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref117_zih" level="series">
+            <did>
+               <unittitle>"James Paull Case" Papers, 1781-1806</unittitle>
+               <physdesc id="aspace_e6f03561bf9f652646cf21851071fb49">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref119_7ei" level="file">
+               <did>
+                  <unittitle>Volume (formerly Phillipps 23,663), 1780s-1810s</unittitle>
+                  <container id="aspace_49466ac11d696f52f6da238afc2d3d33" label="Mixed Materials"
+                     type="box">1</container>
+                  <container id="aspace_3978765c2a5d354fc3db1d4a38f9aa53"
+                     parent="aspace_49466ac11d696f52f6da238afc2d3d33" type="folder">4</container>
+               </did>
+               <scopecontent id="aspace_47415f837ad5cce3b2faa783d3a63cd2">
+                  <head>Scope and Contents note</head>
+                  <p>This volume was part of a series of miscellaneous autograph letterbooks in Sir
+                     Thomas Phillipps' library originally collected by Robert Cole. This particular
+                     book contains MS fragments, letters, and autographs of famous Anglo-Indian
+                     political figures. There are around nineteen separate pieces in the collection
+                     totaling about 110 pages and ranging in date from the 1780s to 1810s. Many of
+                     the pieces relate to James Paull (1770-1808), a merchant in the Indian trade
+                     and later MP, his conduct in India, and his accusations against Lord Wellesley,
+                     circa 1804-1806 (copies of some of this material may also be found in BL Add.
+                     MS 13,532). The volume also contains a small series of letters relating to
+                     military campaigns around Madras, 1781-1783, signed by various officers
+                     including John Garstin and A.W. Hervey. In addition, the collection includes
+                     one letter to Lord Frederick North from [Alexander] Hannay dated 1783. There is
+                     also one unsigned letter to Lord George Macartney, most likely from Mohamed Ali
+                     Khan Wallajah, the Nabob of Arcot, dated March 8, 1783.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

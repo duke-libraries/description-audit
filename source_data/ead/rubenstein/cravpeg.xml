@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/cravpeg/">cravpeg</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Craven-Pegram Family Papers, 1785-1966 <num>RL.00267</num>
+            </titleproper>
+            <author>Processed by Janie C. Morris; machine-readable finding aid created by Alvin
+               Pollock, Electronic Text Unit, UC Berkeley Library</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001020703</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 14:57:29
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Craven-Pegram Family papers</unittitle>
+         <origination label="creator">
+            <famname source="ingest">Craven-Pegram family</famname>
+         </origination>
+         <unitid>RL.00267</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">11.4 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1785/1966" type="inclusive">1785-1966</unitdate>
+         <physloc id="aspace_11f81f6bbfe3d4a9bf5877c51cfa0ed8">For current information on the
+            location of these materials, please consult the library's online catalog.</physloc>
+         <physdesc id="aspace_f8d0d33b4b8cc58ec1627b347580bf88">
+            <extent>Approximately 6,565 items</extent>
+         </physdesc>
+         <langmaterial id="aspace_4964352737aa9bc075a17bef6b869cc9">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_ff2e37b7a1112c1878baa985a8b5c8fb">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_f12cd84b4e26e497770c879e32068cc9">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection are unknown at this time. For more
+            information, consult a Reference Librarian and the copyright section of the Regulations
+            and Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_37915cd5bc8f992715ecbf1e99e8279f">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Craven-Pegram Family Papers, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_106d2663c14e09a2197b910a7655c942">
+         <head>Provenance</head>
+         <p>The Craven-Pegram Family Papers were given to Duke University Library in 1968 through
+            the settlement of the Annie McKinnie Pegram estate. Copyright interests in these papers
+            have not been transferred to the University.</p>
+      </acqinfo>
+      <processinfo id="aspace_34935cc18d5d0219996f643f00ca6346">
+         <head>Processing Information</head>
+         <p>Processed by Janie C. Morris</p>
+         <p>Completed October 31, 1990</p>
+         <p>Encoded by Alvin Pollock, Electronic Text Unit, UC Berkeley Library</p>
+      </processinfo>
+      <bioghist id="aspace_2c31aa93359b239d7c59dc928320eb31">
+         <head>Biographical Note</head>
+         <p>The children and grandchildren of Braxton Craven (1822-1882), first president of Trinity
+            College in Randolph County, N.C., and his wife, Irene (Leach) Craven, are the principals
+            in the Craven-Pegram Family Papers. The children of Braxton Craven most prominently
+            represented are Sallie Kate (Kate) and Emma Lenora Craven, who married William Howell
+            (W. H.) Pegram. The grandchildren primarily featured are those of Emma L. and W. H.
+            Pegram, George Braxton, Annie McKinnie, Irene Craven, John Edward, and William Howell
+            Pegram, Jr.</p>
+         <p>Kate Craven, who attended Greensboro College, returned to her family's home in Trinity,
+            N.C. to live until 1928, when she moved to Durham. Kate lived with two of Emma and W. H.
+            Pegram's children, Irene and John Edward (Edward or Ned) Pegram, until her death in
+            1945.</p>
+         <p>Emma L. Craven (d. 1904) and W. H. Pegram (d. 1928) married in 1875 and lived in
+            Trinity, N.C. until 1892, when they moved to Durham, N.C. W. H. Pegram was a professor
+            in Trinity College from 1873 to 1919 and professor emeritus from 1919 to 1928. He taught
+            chemistry and for many years was secretary to the faculty.</p>
+         <p>Annie M. Craven (d. 1966) graduated from Trinity College and began teaching German and
+            mathematics at Greensboro Female College in 1901. She was involved with the social and
+            religious life on the campus and also taught Sunday school at the Greensboro jail for
+            several years. During the 1920s, the N.C. Board of Charities and Public Welfare
+            appointed her to the Guilford Board of Public Welfare. In 1938, she became a fellow in
+            the American Association for the Advancement of Science. With only a brief interruption
+            in her tenure at Greensboro Female College, after a fire in 1904, she retired from the
+            College in 1948. After her retirement, she lived in Durham with her sister Irene and her
+            brother John Edward.</p>
+         <p>William H. Pegram, Jr. worked in Florida, Alabama, Georgia, Michigan, Illinois, Ohio,
+            and Texas. In 1916 he married Rosalie Pitzlin of Houston, and they settled there.</p>
+         <p>John Edward Pegram (d. 1951) tried several different occupations including school
+            principal, lawyer, businessman, and farmer. </p>
+         <p>Irene Craven Pegram (d. 1958) taught for several years at West Durham High School and in
+            the Durham city school system into the 1920s. After a period of ill health, she retired
+            to manage the Pegram family home. Irene and John Edward, both of whom never married,
+            continued to live in the home.</p>
+         <p>George Braxton Pegram (1876-1958) graduated from Trinity College and served as a school
+            administrator in Trinity and Roxboro, N.C. In the fall of 1899, he went to Columbia
+            University where, during his fifty seven years of association with the school, he was a
+            student, professor of physics, dean of graduate studies, vice-president, and adviser to
+            the president. He was a pioneer in the field of atomic energy research, became one of
+            the country's leading physicists. During the 1950s, he was an educational consultant at
+            the Oak Ridge Institute of Nuclear Studies in Tennessee. He married Florence Bement in
+            1909, and they had two children William Braxton and John Bement Pegram. The National
+            Union Catalog of Manuscript Collections, 1970-1971 describes a collection of about
+            35,000 items of his professional and personal papers located at Columbia University. </p>
+         <p>The daughter-in-law of Braxton and Irene (Leach) Craven, Nannie (Bulla) Craven (d.
+            1937), married James Lucius Craven, a physician. He died in 1885 at the age of
+            thirty-five, leaving her with five sons to rear. She supported herself and the children
+            by teaching at Archdale and then at Trinity High School in Trinity, N.C.</p>
+      </bioghist>
+      <scopecontent id="aspace_c2b0787fb83c233af3e9978343a866ed">
+         <head>Collection Overview</head>
+         <p>The Craven-Pegram Family Papers span the period 1785 to 1966, with the bulk dating from
+            1892 to 1958. The collection chiefly consists of correspondence among various family
+            members and friends, and photographs. Included are legal and financial papers, writings
+            and speeches, genealogical material, newsclippings, and printed material. While the
+            principal focus of the collection is Sallie Kate Craven (Kate) and her sister, Emma L.
+            (Craven) Pegram and her family, information about earlier generations of the Craven,
+            Pegram, and Leach families is included in the legal and genealogical material.</p>
+         <p>The major strength of the collection is the information on the descendents of the first
+            president of Trinity College, Braxton Craven. The letters document the lifestyles and
+            roles of young girls and women in the late 19th and early 20th century and the
+            socialization process of girls. Additionally, single career women, married women who
+            raised a family at home, and a widow supporting a family are represented in the
+            collection.</p>
+         <p>Other topics in the Correspondence Series include: the impact of Trinity College on the
+            development of a community and the effects of the loss of the institution, Columbia
+            University's Physics Department, the economic depression of the 1930s and how it
+            impacted upon Pegram family members, high school and college education in North
+            Carolina, and the process by which young men obtained jobs and established themselves in
+            their occupation. Some of George B. Pegram's letters describe his attendance at the New
+            York World's Fair in 1939 and describe social occasions he went to that were attended by
+            Dwight David Eisenhower (1949, Jan. 30 and Dec. 31), then president of Columbia. Annie
+            M. Pegram's letters home (1904-1948) recount her many activities at Greensboro College
+            and her involvement in community life in Greensboro. A few letters dating from the turn
+            of the century into the 1940s provide a glimpse at hiring domestic help, particularly
+            cooks. Through the collection, one is able to study the functions of the family both as
+            an economic and social unit.</p>
+         <p>Of particular interest to those studying the history of Trinity College are the weekly
+            letters of Kate Craven to Emma L. Pegram (1892- 1903) after she and her family moved to
+            Durham in 1892. In addition to news about family and friends in Trinity, N.C., Kate also
+            discussed her bitterness over the movement of Trinity College to Durham and its effect
+            upon the Trinity community. The correspondence series also contains an unsigned, undated
+            letter, relating to a contract Braxton Craven had signed with the U.S. government about
+            the education of Cherokee boys at Trinity College.</p>
+         <p>Emma Pegram's letters, written chiefly to her son George from the mid-1890s to 1903,
+            contain many comments about the administrators and faculty of Trinity College and
+            Trinity Park School in Durham. Scattered references are made to John Carlisle Kilgo,
+            president of Trinity College, and his family.</p>
+         <p>A letterbook primarily containing letters which Nannie (Bulla) Craven wrote to her son,
+            Harvey Bernard Craven, details the financial hardships faced by the widowed parent of
+            five sons. She wrote the majority of the letters, 1893 and 1896, from Trinity, N.C.
+            while Harvey was a student at Trinity College. Her letters also provide a glimpse of the
+            Trinity community after Trinity College moved to Durham. There are scattered references
+            to Trinity High School, a tuition based school in Trinity that remained after the
+            college was relocated, and its faculty. The narrow parameters within which women of the
+            period lived are clearly illustrated.</p>
+         <p>Correspondents other than family members include: M. H. Lockwood (1897), who taught in
+            the Department of Physics at Trinity College; Thomas Arthur Smoot (1898-1900), who was
+            the headmaster at Trinity (N.C.) High School, 1895-1896, professor of physics and
+            chemistry at Greensboro (N.C.) Female College, 1898-1900, and later a minister in the
+            Methodist Episcopal Church, South; and Jerome Dowd (1941-1945) who wrote a book about
+            Braxton Craven, entitled The Life of Braxton Craven.</p>
+      </scopecontent>
+      <controlaccess>
+         <famname source="ingest">Craven-Pegram family</famname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref11_gpe" level="series">
+            <did>
+               <unittitle>Correspondence, 1862-1965 and undated</unittitle>
+               <physdesc id="aspace_978d43239e3305943436ca24f6738639">4,560 items. (7.8 linear
+                  ft.)</physdesc>
+            </did>
+            <scopecontent id="aspace_aa9ffa6e32fd20c91fe058750cfd86b6">
+               <head>Scope and Contents note</head>
+               <p>Primarily documents the relationships of family and friends in the Craven and
+                  Pegram families. A letterbook, 1893-1898 contains about 150 letters, mostly from
+                  Mrs. Nannie (Bulla) Craven to her son Harvey Bernard Craven while he was a student
+                  at Trinity College in Durham, N.C.</p>
+            </scopecontent>
+            <c02 id="aspace_ref13_f78" level="file">
+               <did>
+                  <unittitle>1862-1894, Mar.</unittitle>
+                  <physdesc id="aspace_1d97099374d0ed60366101a32a0ebfa8">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ca369e14bd38b3aa331d013ba38b4830" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_6q4" level="file">
+               <did>
+                  <unittitle>1894, Apr.-1896, Oct. 15</unittitle>
+                  <physdesc id="aspace_1331d73ab6c7030861fbe803764f2020">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c6c06a4b90dea889cde4a046c5b4df43" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_crg" level="file">
+               <did>
+                  <unittitle>1896, Oct. 16-1898, Dec.</unittitle>
+                  <physdesc id="aspace_7ac230128f8120f20d0922cb7e8bcfaf">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ef11f013ace26ea41ea9f4da41a33740" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_qnx" level="file">
+               <did>
+                  <unittitle>1899, Jan.-1900, Feb.</unittitle>
+                  <physdesc id="aspace_f95468281e24ef4f36786eb28745b6d7">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_99fee682c7ae004ead41f981d4f3b74b" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_3ph" level="file">
+               <did>
+                  <unittitle>1900, Mar.-1901, Feb.</unittitle>
+                  <physdesc id="aspace_ff21be54d205da942a5367bb55fb5655">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c0797803514d2d2e7edc98f3d5e48f69" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_dd9" level="file">
+               <did>
+                  <unittitle>1901, Mar.-1902, Sept.</unittitle>
+                  <physdesc id="aspace_b7b182ab761a1873a676d42477f8730a">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b38a30b17d3610e940ec35158af37a47" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_p53" level="file">
+               <did>
+                  <unittitle>1902, Oct.-1904, June</unittitle>
+                  <physdesc id="aspace_8ca2c8aa31e9e69ef3be4bd8d292398b">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fe8ab2126a90f2822e2c0a5cdf5b5d22" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_534" level="file">
+               <did>
+                  <unittitle>1904, July-1906, Sept.</unittitle>
+                  <physdesc id="aspace_f651e282bafdc5711a9c175bdf187a46">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ea90cc0532380aaf10ca5cfd54388e2d" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_8o2" level="file">
+               <did>
+                  <unittitle>1906, Oct.-1908, May</unittitle>
+                  <physdesc id="aspace_a8210c516d18b3d4f6cbef959cfd17eb">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d39e063fae376543e1de9baadb7d0a51" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_h9o" level="file">
+               <did>
+                  <unittitle>1908, June-1910, Dec.</unittitle>
+                  <physdesc id="aspace_d65d38f1c2d745a9789acf2918fdb97a">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ff4157bf8581d172bb31118282342c66" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_qht" level="file">
+               <did>
+                  <unittitle>1911, Jan.-1915</unittitle>
+                  <physdesc id="aspace_2ff9500b564d488124a2d6e107cf4699">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4338b35fa252657cfd729dcba11c2463" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_agr" level="file">
+               <did>
+                  <unittitle>1916-1927</unittitle>
+                  <physdesc id="aspace_20853613fbf74336b6cbd7b0c8a4f490">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_78eff5d7cee066ee38ba7c3cf5eb6109" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_wxb" level="file">
+               <did>
+                  <unittitle>1928, Jan.-1937, May</unittitle>
+                  <physdesc id="aspace_94be64f33ea922fe8244169832216678">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9694033f4670b53f5821916523690c18" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_wye" level="file">
+               <did>
+                  <unittitle>1937, June-1940, May</unittitle>
+                  <physdesc id="aspace_0e2a488bbf1d5646ad5abfe624db2dfe">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a769473df2bbcb82d3a850a4054ff8ca" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_slx" level="file">
+               <did>
+                  <unittitle>1940, June-1943, Dec.</unittitle>
+                  <physdesc id="aspace_bd20ea855cc73e8096aa9cf83226e8a3">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8b0157dbf94db40bbe8f7f746cddf5ea" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_ie9" level="file">
+               <did>
+                  <unittitle>1944, Jan.-1946, Dec.</unittitle>
+                  <physdesc id="aspace_666a8583af0b3614ee9e411e6f29c5d2">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_35e4e9331915f5aa630c24caeb981c9f" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_k07" level="file">
+               <did>
+                  <unittitle>1947, Jan.-1952</unittitle>
+                  <physdesc id="aspace_99e278915624b21bfb83b3534551dc5c">
+                     <extent>10 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9bb1bcd81983f5b4c91bc5ce3fd5b78d" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_bey" level="file">
+               <did>
+                  <unittitle>1953-1961</unittitle>
+                  <physdesc id="aspace_eac4cf9ed549cd58f57d05f4407d2ad7">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_76b8e07fb6427f70c1ae8c9f1a52298f" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_zcv" level="file">
+               <did>
+                  <unittitle>1962-1966 and undated</unittitle>
+                  <physdesc id="aspace_850dfe026737ec5b7f48edea43123244">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d4327f1c3e2b126a6e18335e670fc92f" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_zxx" level="file">
+               <did>
+                  <unittitle>undated, letters and fragments, S. Kate Craven, Annie McKinnie Pegram,
+                     Irene Craven-Pegram</unittitle>
+                  <physdesc id="aspace_6e774355f676962a7dd32e0dd162e2f0">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_671f1e8f3f0f2796a6916e8d01e38c83" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_gep" level="file">
+               <did>
+                  <unittitle>Letterbook, 1893-1898</unittitle>
+                  <container id="aspace_ca07962132b6e8f775606e21571141da" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref55_umm" level="series">
+            <did>
+               <unittitle>Legal Papers, 1785-1961.</unittitle>
+               <physdesc id="aspace_2ab8804b5ae8bfde6338c3d3f3d47b16">200 items. (.3 linear
+                  ft.)</physdesc>
+            </did>
+            <scopecontent id="aspace_6b79bd8fcaa160b4acb3ee1110bec186">
+               <head>Scope and Contents note</head>
+               <p>Legal Papers, 1785-1961. 200 items. (.3 linear ft.) Deeds, wills, insurance
+                  policies, summons, and teacher contracts, principally relating to members of the
+                  Craven, Pegram, and Leach families. Many of the earlier deeds concern property in
+                  Randolph County, N. C. Also includes information beginning in 1838 about the
+                  settlement of the Bucknier Lanier estate which involved a number of slaves. Other
+                  documents pertain to a court case (1891) brought by the High Point, Randleman,
+                  Ashboro, and Southern Railroad to obtain the right of way to property owned by the
+                  Cravens and Pegrams.</p>
+               <p>There are folders for the estates of Braxton and Irene (Leach) Craven; Sallie
+                  (Kate) Craven; John Edward Pegram; and William Howell Pegram, Sr. Two categories:
+                  papers and estates.</p>
+            </scopecontent>
+            <arrangement id="aspace_fb5a0db68915f58e0816bc4fd6533e53">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically within each.</p>
+            </arrangement>
+            <c02 id="aspace_ref57_qzl" level="file">
+               <did>
+                  <unittitle>1785-1961</unittitle>
+                  <physdesc id="aspace_8165a4f58ee5720e33376e49e85f1bfd">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7a09df9d0f21b8085d68a532261954e6" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_vxk" level="file">
+               <did>
+                  <unittitle>Estates of:</unittitle>
+               </did>
+               <c03 id="aspace_ref60_6tr" level="file">
+                  <did>
+                     <unittitle>Braxton Craven &amp; Irene Leach Craven 1884-1945 and
+                        undated,</unittitle>
+                     <physdesc id="aspace_e5863e2d46317f9098f8e9de9350d1bc">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_452e61005209c619fcf26ffa74c67e83" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_l2v" level="file">
+                  <did>
+                     <unittitle>Sallie Kate Craven, 1928-1946</unittitle>
+                     <container id="aspace_89a77cb299560e867186dae75469dace" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_rjs" level="file">
+                  <did>
+                     <unittitle>John Edward Pegram, 1942-1952</unittitle>
+                     <container id="aspace_29bb3d875763855dc01db1dfda649a00" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_20j" level="file">
+                  <did>
+                     <unittitle>William Howell Pegram, Sr., 1916-1937</unittitle>
+                     <container id="aspace_c666c75961a41d053c638a0df07d7e62" label="Mixed Materials"
+                        type="box">21</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref67_m5q" level="series">
+            <did>
+               <unittitle>Financial Papers, 1898-1908.</unittitle>
+               <physdesc id="aspace_d1b360c1d5dc735cbceee1222c283ec5">80 items. (.2 linear
+                  ft.)</physdesc>
+            </did>
+            <scopecontent id="aspace_82364201acedb8a3cde0f0b88ac1c1ee">
+               <head>Scope and Contents note</head>
+               <p>Ledger (1898-1899) from the Roxboro Institute maintained during the period George
+                  B. Pegram was principal of the school listing tuition payments for students.</p>
+               <p>Also receipts from various businesses, bank deposit slips, and information
+                  pertaining to interest statements. Loose materials are arranged
+                  chronologically.</p>
+            </scopecontent>
+            <arrangement id="aspace_39219e4f18cb1603048f5131af0f9a2d">
+               <head>Arrangement note</head>
+               <p>The volumes are arranged chronologically immediately following the loose
+                  materials.</p>
+            </arrangement>
+            <c02 id="aspace_ref69_gfu" level="file">
+               <did>
+                  <unittitle>1840s-1909</unittitle>
+                  <container id="aspace_50b41c5d095d6a7f1f4b592a4ad3a5d1" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_pfs" level="file">
+               <did>
+                  <unittitle>1910-1965</unittitle>
+                  <container id="aspace_b5bcf52fa7ab85edb64d6dccf36efb55" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_vs3" level="file">
+               <did>
+                  <unittitle>George B. Pegram's Ledger, Roxboro Institute, 1898-1899</unittitle>
+                  <container id="aspace_692b2691726bb2b5cdbea3f2512faaeb" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_l3c" level="file">
+               <did>
+                  <unittitle>Pegram Family's Household Account, 1906-1908,</unittitle>
+                  <container id="aspace_5fefcb8012fd19d562b60a1e2c2a5f4f" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref75_3dg" level="series">
+            <did>
+               <unittitle>Writings and Speeches, 1914-1951 and undated</unittitle>
+               <physdesc id="aspace_1bc6bc4e02bf14d9f091327d1e101c96">80 items. (.2 linear
+                  ft.)</physdesc>
+            </did>
+            <scopecontent id="aspace_5e1de90384c07ffb4393527b4671302d">
+               <head>Scope and Contents note</head>
+               <p>Political speeches before civic groups, primarily made by W. H. Pegram, Sr. and
+                  John Edward Pegram. Also a eulogy delivered by W. H. Pegram, Sr. honoring James H.
+                  Southgate as well as other eulogies, including one for W. H. Pegram, Sr. Contains
+                  stories about Brazil by W. B. Lee, who was with the Methodist Board of Missions in
+                  Sao Paulo, Brazil, and travelogues prepared by Jerome Dowd about his families'
+                  trips to Arkansas, Tennessee, and Florida during 1938. Some of the writings are
+                  anonymous.</p>
+            </scopecontent>
+            <arrangement id="aspace_ecbc9f86b3023ac03653c292e20d1628">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically.</p>
+            </arrangement>
+            <c02 id="aspace_ref77_ouy" level="file">
+               <did>
+                  <unittitle>1914-1951 and undated</unittitle>
+                  <container id="aspace_7642ec137eae63f65fc08944fe02678d" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_656" level="file">
+               <did>
+                  <unittitle>Stories about Brazil, 1930s</unittitle>
+                  <container id="aspace_a9234a8ddf137291b7d9fc4952031ca5" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref81_j9y" level="series">
+            <did>
+               <unittitle>Genealogy, (bulk undated)</unittitle>
+               <physdesc id="aspace_23ecf6f016a51c0c127359a8c077ebad">320 items. (.3 linear
+                  ft.)</physdesc>
+            </did>
+            <scopecontent id="aspace_a641da24b474034c65e689efa94b0e25">
+               <head>Scope and Contents note</head>
+               <p>Chiefly notes and correspondence concerning the genealogical history of the
+                  Craven, Leach, and Pegram families. Most of the material relates to the Pegram
+                  family, including a printed history of the family.</p>
+            </scopecontent>
+            <arrangement id="aspace_1f9158af370aa9ffd1d121e252c82aa4">
+               <head>Arrangement note</head>
+               <p>Arranged alphabetically by name of family.</p>
+            </arrangement>
+            <c02 id="aspace_ref83_9f4" level="file">
+               <did>
+                  <unittitle>Craven and Leach Families, undated</unittitle>
+                  <container id="aspace_4ba5a789537197208c6eca9c090e54a9" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_9gq" level="file">
+               <did>
+                  <unittitle>Pegram Family, undated</unittitle>
+                  <container id="aspace_cb3e844e84509f6e5b2e16fb69f8d1b8" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_di9" level="file">
+               <did>
+                  <unittitle>Pegram Family, undated</unittitle>
+                  <physdesc id="aspace_079510df98f526c03356a562365e2596">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a4ffc4ee71e5bcfefae2106b7ee15cdc" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref89_cuy" level="series">
+            <did>
+               <unittitle>Miscellaneous, 1873-1958 and undated</unittitle>
+               <physdesc id="aspace_52ba441b8f9679605aea4dfef3df7770">.6 linear ft.</physdesc>
+            </did>
+            <scopecontent id="aspace_f90769cfd48f2ea945d57a5dcf73d4f5">
+               <head>Scope and Contents note</head>
+               <p>Kate Craven's notes about the Braxton Craven house and family cemetery in Trinity,
+                  N.C.; school reports for George Braxton, Irene, and William H. Pegram, Jr.;
+                  information about John Edward's farm in Orange County, N.C.; diplomas;
+                  certificates; a war ration book; a floor plan for the Pegram house on Buchanan
+                  Blvd.; a 1963 list of items Annie Pegram gave to Trinity Methodist Church in
+                  Durham; and notes about teaching public speaking and English. Also miscellaneous
+                  volumes. Two categories: loose materials and volumes.</p>
+            </scopecontent>
+            <arrangement id="aspace_8a4481c2f1b890600a90e61d3e2de80a">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically within each.</p>
+            </arrangement>
+            <c02 id="aspace_ref91_gef" level="file">
+               <did>
+                  <unittitle>1892-1963 and undated</unittitle>
+                  <physdesc id="aspace_b8f531dbfcfe87084d8716e449147225">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9b9e427d7326dd470dc6dbffc6c10092" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_kay" level="file">
+               <did>
+                  <unittitle>Record book, Greensboro jail, 1919-1929</unittitle>
+                  <container id="aspace_0b4fe2a2560356266fe028b63ea84623" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_ysr" level="file">
+               <did>
+                  <unittitle>Memorial volume, 1951</unittitle>
+                  <container id="aspace_47ba9816bb7fbe886823ca2a38b770d2" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_fx5" level="file">
+               <did>
+                  <unittitle>Memorial volume, 1958, Jan.</unittitle>
+                  <container id="aspace_c7156d492dd4293f16d33e40eb9227e3" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_jl1" level="file">
+               <did>
+                  <unittitle>Memorial volume, 1958, Aug</unittitle>
+                  <container id="aspace_f60c58b34540c2580250a3b818c48d2c" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_dbf" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1876?-1904</unittitle>
+                  <container id="aspace_1a9413d90df72762599d5d4bdebd9108" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_w02" level="file">
+               <did>
+                  <unittitle>Scrapbook, undated</unittitle>
+                  <container id="aspace_cacb017cf3d6f7a3840fa8a3e8fd5294" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref101_ihp" level="series">
+            <did>
+               <unittitle>Clippings, 1890s and 1960s and undated</unittitle>
+               <physdesc id="aspace_6ea997a6b458cab30d5f2be7e7380bbf">70 items. (.1 linear
+                  ft.)</physdesc>
+            </did>
+            <scopecontent id="aspace_5c7a2397ad788edd3232e75d232456f2">
+               <head>Scope and Contents note</head>
+               <p>Chiefly obituaries of Craven, Pegram, and Leach family members. Also information
+                  about a fire at the Greensboro Female College in 1904; several clippings about the
+                  professional activities of George Braxton Pegram, including information about his
+                  work in the atomic energy field; and a few relating to James and Nannie (Bulla)
+                  Craven's children.</p>
+            </scopecontent>
+            <arrangement id="aspace_319088868a9cdacec82d89da951edee4">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically by decade.</p>
+            </arrangement>
+            <c02 id="aspace_ref103_bb8" level="file">
+               <did>
+                  <unittitle>1890s-1960s and undated</unittitle>
+                  <physdesc id="aspace_9c53874e25c6ad552cb96eb97babea1e">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a5d383c3aba9db9996f70b560f3351ee" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref107_96e" level="series">
+            <did>
+               <unittitle>Printed Material, 1875-1942 and undated</unittitle>
+               <physdesc id="aspace_fee4781aa01a059919f22edecc567e4c">50 items. (.1 linear
+                  ft.)</physdesc>
+            </did>
+            <scopecontent id="aspace_29f81cd5c9a15b267735e6d7a2f84a56">
+               <head>Scope and Contents note</head>
+               <p>Chiefly invitations and commencement programs of various schools and academies in
+                  North Carolina, including Thomasville Female College, Roxboro Institute, Trinity
+                  High School (Trinity, N. C.), Bethel Hill Institute, Trinity Park High School
+                  (Durham, N.C.), and Bellwood Institute. Also a few calling cards.</p>
+            </scopecontent>
+            <arrangement id="aspace_ad2820c434d50f07647e3cd6753096ba">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically.</p>
+            </arrangement>
+            <c02 id="aspace_ref109_umv" level="file">
+               <did>
+                  <unittitle>1875-1942 and undated</unittitle>
+                  <physdesc id="aspace_049a47e2244c9fdd8f62d71cad2e3fd5">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_6cd904bf4838e4fa1e1fc24220b92b22" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref113_2e9" level="series">
+            <did>
+               <unittitle>Pictures, 1850s to 1950s.</unittitle>
+               <physdesc id="aspace_e3de26e2c755ba953cc988678dc3f75a">1,080 items. (1.8 linear
+                  ft.)</physdesc>
+            </did>
+            <scopecontent id="aspace_2950a4e01565c5e45b95a45ef3b40b30">
+               <head>Scope and Contents note</head>
+               <p>Primarily photographs of Craven and Pegram family members, including Braxton and
+                  Irene (Leach) Craven. The oldest photographs are a daguerreotype of Irene (Leach)
+                  Craven, a tintype of Braxton Craven, and an ambrotype of Emma (Craven) Pegram.</p>
+               <p>Also includes photographs of persons associated with Trinity College, including
+                  John Spencer Bassett, Julian S. Carr, Robert Lee Flowers, John Carlisle Kilgo and
+                  his family, M. H. Lockwood, Samuel Fox Mordecai, Dred Peacock, and James Haywood
+                  Southgate, as well as a photograph of Josephus Daniels, Southern Conservatory of
+                  Music students, and Trinity High School faculty and students.</p>
+               <p>A few are of various locations and events in Durham, Durham County, and Trinity,
+                  N. C. They include for Durham, the Bennett Place, the fire on March 23, 1914, the
+                  William Howell Pegram home at 308 Buchanan Blvd., and for Durham County the
+                  Bennehan Cameron home. There are photographs of the following places in Trinity,
+                  N. C. the: Braxton Craven home; Trinity Hotel; railroad station; and Springfield
+                  and Trinity cemeteries. Two categories: people and geographic.</p>
+            </scopecontent>
+            <arrangement id="aspace_e63af5e4a0363611e5567d4365e2db45">
+               <head>Arrangement note</head>
+               <p>Arranged alphabetically within each.</p>
+            </arrangement>
+            <c02 id="aspace_ref115_yhy" level="subseries">
+               <did>
+                  <unittitle>People</unittitle>
+               </did>
+               <c03 id="aspace_ref116_hug" level="file">
+                  <did>
+                     <unittitle>A (4 picture envelopes)</unittitle>
+                     <container id="aspace_f31d31b1ff6e5dff9c6dc5c21dbe85b0" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref117_pjd" level="file">
+                  <did>
+                     <unittitle>Bassett, John Spencer</unittitle>
+                     <container id="aspace_71e1d3d776c89e5dd118919763ecb171" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref118_jzv" level="file">
+                  <did>
+                     <unittitle>Bassett, L.-B (2 picture envelopes)</unittitle>
+                     <container id="aspace_7990ff0460ee781535337635a2136731" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref119_a3c" level="file">
+                  <did>
+                     <unittitle>Carr, Julian Shakespeare and American Indian Couple</unittitle>
+                     <container id="aspace_f0cfd4663e1f4c8ebd2d362fd6cbd025" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref120_x2y" level="file">
+                  <did>
+                     <unittitle>Carr, O.-Ch ( 3 picture envelopes)</unittitle>
+                     <container id="aspace_e2d669b5c53354a1ba78610ca0987070" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref121_dlj" level="file">
+                  <did>
+                     <unittitle>Craven, Braxton (2 picture envelopes)</unittitle>
+                     <container id="aspace_592f6f0717f1ae49c7c9af4a9c2b9f1c" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref122_x8w" level="file">
+                  <did>
+                     <unittitle>Craven, Harvey Bernard and Family</unittitle>
+                     <container id="aspace_6310f1328d93fa3ae17a6b292c27a54b" label="Mixed Materials"
+                        type="box">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref123_rxv" level="file">
+                  <did>
+                     <unittitle>Craven, Irene (Leach)</unittitle>
+                     <container id="aspace_038181d721380671d3ac8861f6eb2204" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref124_rd7" level="file">
+                  <did>
+                     <unittitle>Craven, J. (2 picture envelopes)</unittitle>
+                     <container id="aspace_bca598d9fd1f0fb9295dbc53fb07c5e0" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref125_83j" level="file">
+                  <did>
+                     <unittitle>Craven, Sallie (Kate)</unittitle>
+                     <container id="aspace_e889a3da8f13425df5d729132ef2fe5a" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_dws" level="file">
+                  <did>
+                     <unittitle>Craven, W.</unittitle>
+                     <container id="aspace_093caaf4b9611952bd2e5a7e524afc86" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref127_5fe" level="file">
+                  <did>
+                     <unittitle>Daniels, Josephus</unittitle>
+                     <container id="aspace_52c6904a95f970697999d66aef2d5a3b" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref128_458" level="file">
+                  <did>
+                     <unittitle>Do-E (3 picture envelopes)</unittitle>
+                     <container id="aspace_cc43862f8ccc5e24d3d20cfe370db961" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_vr1" level="file">
+                  <did>
+                     <unittitle>Flowers, Robert Lee</unittitle>
+                     <container id="aspace_df026727f40b1e3807392339e1b357a9" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref130_7xg" level="file">
+                  <did>
+                     <unittitle>Fr-H ( 9 picture envelopes)</unittitle>
+                     <container id="aspace_5649baae248138798b4bb287ebb1322d" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref131_9ph" level="file">
+                  <did>
+                     <unittitle>Kilgo, John Carlisle Family</unittitle>
+                     <container id="aspace_609e7e23c9a2be3d3e1312fb39a9090e" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref132_jmf" level="file">
+                  <did>
+                     <unittitle>Kin-Le ( 5 picture envelopes)</unittitle>
+                     <container id="aspace_d5fbd26db79deba17de5f5319b5cfdfa" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref133_a7o" level="file">
+                  <did>
+                     <unittitle>Lockwood, M. H.</unittitle>
+                     <container id="aspace_6af8e5cdac74db62ba840a29d5c22de4" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref134_twc" level="file">
+                  <did>
+                     <unittitle>Mer-Mi (2 picture envelopes)</unittitle>
+                     <container id="aspace_a21482f6245d891cbdf817bfc9cde6f7" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref135_i6h" level="file">
+                  <did>
+                     <unittitle>Mordecai, Samuel Fox</unittitle>
+                     <container id="aspace_389179f6a4122df3b289f230cdbc26ee" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref136_dmw" level="file">
+                  <did>
+                     <unittitle>Ne-Page (2 picture envelopes)</unittitle>
+                     <container id="aspace_b0e32b145ef8eed40222e486b31f04cf" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref137_3c7" level="file">
+                  <did>
+                     <unittitle>Peacock, Dred and Family</unittitle>
+                     <container id="aspace_0a5830f4f175aa6b271c15ea6c32194a" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref138_dne" level="file">
+                  <did>
+                     <unittitle>Pegram, Annie McKinnie</unittitle>
+                     <physdesc id="aspace_320719072d495c682a272ca51a2cd83f">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_cb0e732f195b33a2e964f46bca37442d" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref140_kwq" level="file">
+                  <did>
+                     <unittitle>Pegram, Emma Lenora (Craven)</unittitle>
+                     <container id="aspace_14236c641b306ecdae967c92702752a3" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref141_ykx" level="file">
+                  <did>
+                     <unittitle>Pegram, George Braxton &amp; Family</unittitle>
+                     <container id="aspace_3a3c009e3524e5b9445757974f632370" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref142_vm7" level="file">
+                  <did>
+                     <unittitle>Pegram, George Washington</unittitle>
+                     <container id="aspace_113c180bd90184cb19764638cbd45d48" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref143_k8t" level="file">
+                  <did>
+                     <unittitle>Pegram, Irene Craven (2 picture envelopes)</unittitle>
+                     <container id="aspace_4a84844c183fcb4492fe591c0dc2d985" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref144_t9r" level="file">
+                  <did>
+                     <unittitle>Pegram, John D. &amp; Family</unittitle>
+                     <container id="aspace_b4d976c3754070547882e3df2253d49b" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref145_ipu" level="file">
+                  <did>
+                     <unittitle>Pegram, John Edward et.al.</unittitle>
+                     <physdesc id="aspace_9c8084fea8d1c767d505a52835f274c4">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_97de6e240933856885aa98b321dce2b6" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref147_992" level="file">
+                  <did>
+                     <unittitle>Pegram, William &amp; Gladys Blacknall Pegram et.al.</unittitle>
+                     <container id="aspace_4c55ed71a808332cffa75f8806b53958" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref148_mpg" level="file">
+                  <did>
+                     <unittitle>Pegram, William Braxton &amp; Family</unittitle>
+                     <container id="aspace_cc21bb059b641b78c2fecfd6aa61d6d3" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref149_p14" level="file">
+                  <did>
+                     <unittitle>Pegram, William Howell, d. 1928</unittitle>
+                     <container id="aspace_dd79d09f5384700430fbeed5043f9eb3" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_di5" level="file">
+                  <did>
+                     <unittitle>Pegram, William Howell, Jr., Rosalie (Pitzlin) Pegram
+                        et.al.</unittitle>
+                     <container id="aspace_57f5e5a542535878eb88524d98df1124" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref151_wa5" level="file">
+                  <did>
+                     <unittitle>Pl-Rol (7 picture envelopes)</unittitle>
+                     <container id="aspace_8b68b8bc6c447c9a30d48b942a5ecdd0" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref152_337" level="file">
+                  <did>
+                     <unittitle>Smoot, Thomas Arthur</unittitle>
+                     <container id="aspace_98b5f34d933fb3fe4e147b86352d789c" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref153_p8a" level="file">
+                  <did>
+                     <unittitle>Southgate, James Haywood et.al</unittitle>
+                     <container id="aspace_046be335a5f89dbef1b7994ef7cf2ec8" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref154_vxg" level="file">
+                  <did>
+                     <unittitle>St-Tur (6 picture envelopes)</unittitle>
+                     <container id="aspace_b2ac68b23d10dee296ba174cac497063" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref155_7eb" level="file">
+                  <did>
+                     <unittitle>People (Identified) Miscellaneous</unittitle>
+                     <physdesc id="aspace_9574afb60b97021e245ea2d08a605f47">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_4f8b91827ecca1259fbb9d24a1a400c1" label="Mixed Materials"
+                        type="box">28</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_op4" level="file">
+                  <did>
+                     <unittitle>People (Identified) Miscellaneous</unittitle>
+                     <container id="aspace_735d7044687a27909e9c01cc5322ec51" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_6s7" level="file">
+                  <did>
+                     <unittitle>People (Unidentified)</unittitle>
+                     <physdesc id="aspace_3643d9ae851d2641639a2b12a77155d6">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_10b47c94dc161a51a55cbd461b85f2e4" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref160_3ss" level="subseries">
+               <did>
+                  <unittitle>Geographic</unittitle>
+               </did>
+               <c03 id="aspace_ref161_c06" level="file">
+                  <did>
+                     <unittitle>Georgia. Stone Mountain (Carving)</unittitle>
+                     <container id="aspace_80d9374e02412c6589562c4a1fdd6011" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref162_023" level="file">
+                  <did>
+                     <unittitle>Massachusetts. Amherst</unittitle>
+                     <container id="aspace_ccf04c023996c569c79efa0f54deb1ba" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref163_8bo" level="file">
+                  <did>
+                     <unittitle>New York. Niagara Falls</unittitle>
+                     <container id="aspace_08f3ec6dceb0a83c459c8fe94a090137" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_s8d" level="file">
+                  <did>
+                     <unittitle>North Carolina:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref165_am9" level="file">
+                     <did>
+                        <unittitle>Bath</unittitle>
+                        <container id="aspace_c77b0c55dc6ea1b20f153cb6cbbbc069"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref166_i1b" level="file">
+                     <did>
+                        <unittitle>Durham (9 picture envelopes)</unittitle>
+                        <container id="aspace_99463d19bd9c11f78318f4a53a9f9e79"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref167_mj5" level="file">
+                     <did>
+                        <unittitle>Durham County</unittitle>
+                        <physdesc id="aspace_bbeab5ab28f77fd65086c6a8095a69a4">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_5976a5730a1e205f767fcf57e03eb73e"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref169_r2o" level="file">
+                     <did>
+                        <unittitle>Lake Junaluska</unittitle>
+                        <container id="aspace_86be1de634b086f9747c01e9d1d97dde"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref170_92g" level="file">
+                     <did>
+                        <unittitle>Salisbury</unittitle>
+                        <container id="aspace_2909282f42058b8c8081ce5bac615026"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref171_311" level="file">
+                     <did>
+                        <unittitle>Trinity (5 picture envelopes and folders)</unittitle>
+                        <container id="aspace_32ee57db6c223bc46e38ecfe7fe8fcc0"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref172_ozl" level="file">
+                     <did>
+                        <unittitle>Miscellaneous</unittitle>
+                        <physdesc id="aspace_8a5c0f523c08c64a84dd2e16ed33d724">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_48ccfe9da889e8b9df5353d74794968e"
+                           label="Mixed Materials" type="box">29</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref176_hvl" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <c02 id="aspace_ref177_xj5" level="file">
+               <did>
+                  <unittitle>Miscellaneous Papers, 1873-1908</unittitle>
+                  <container id="aspace_95c4a145dbff10761786646ab65454e0" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+               <scopecontent id="aspace_da9f549314eeaa884a3859c5dc1de69a">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly diplomas and certificates.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref179_phj" level="file">
+               <did>
+                  <unittitle>Legal Papers, 1836-1944</unittitle>
+                  <container id="aspace_00970999f2a3769185ececfed8432033" label="Mixed Materials"
+                     type="oversize-folder">2</container>
+               </did>
+               <scopecontent id="aspace_bf3f98a1158e277e2ead2ea13ce5d99f">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly deeds and insurance papes.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

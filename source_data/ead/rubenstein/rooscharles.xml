@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/rooscharles/">rooscharles</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Charles F. Roos Papers, 1935-1965
+          <num>RL.10041</num></titleproper>
+        <author>Processed by: Meghan Lyon; machine-readable finding aid created by: Meghan
+          Lyon</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2009</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">004174220</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-04-23 14:11:52
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Charles F. Roos papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Roos, Charles Frederick</persname>
+      </origination>
+      <unitid>RL.10041</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1935/1965" type="inclusive">1935-1965</unitdate>
+      <physloc id="aspace_e36d59d710d07aa1f62bf51e1a72e981">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <abstract id="aspace_5b5068ef3182541fb6afcef1ca5bb444">Charles Roos was a founder and
+        president of the Econometric Society, and founded the Econometric Institute Inc. in 1938.
+        Accession (2009-0146) (1950 items; 2.6 lin. ft.; bulk dated 1930s-1950s) consists largely of
+        reports and studies by the Econometrics Institute for various clients, including railroads,
+        paper companies, copper, newspaper, and electric power. Also includes working papers and
+        charts, offprints and reprints, Economic Measures publications, some correspondence, and
+        other miscellaneous materials related to Roos' work, especially post-World War
+        II.</abstract>
+      <abstract id="aspace_c1c7bb61c8fe52b6c5f10bbf911f4e96">Accession (2013-0024) (1200 items; 2.9
+        lin. ft.) contains additional reports, studies, and internal correspondence from the the
+        Institute of Applied Econometrics and the Index Number Institute; volumes of Economic
+        Measures and other publications; a photograph of Charles Roos; and a single reel sound
+        recording.</abstract>
+      <physdesc id="aspace_2519863f5d112e65053ba66c55996fc1"
+        label="General Physical Description note"><extent>3150 Items</extent></physdesc>
+      <langmaterial id="aspace_1c2eefe8e69a9df95ca99c784f511136">Material in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_953b1bef2396d136b833dfdd8770bd1f">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_9156c8d310afb25cafddafb5b79eef7a">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_5213974b3121a8cbcd6c57afabac6822">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Charles F. Roos Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University</p>
+    </prefercite>
+    <acqinfo id="aspace_40d84ff984c24a7ef54bb6bf764c5e69">
+      <head>Provenance</head>
+      <p>The Charles F. Roos Papers were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library as a gift in 2009 and 2013.</p>
+    </acqinfo>
+    <processinfo id="aspace_05bb20691460b82c6699432c247ba6e4">
+      <head>Processing Information</head>
+      <p>Accessioned by Meghan Lyon, August 2009</p>
+      <p>Encoded by Meghan Lyon, August 2009 and Rachel Penniman, March 2013</p>
+      <p>Accessions described in this finding aid: 2009-0146 and 2013-0024.</p>
+      <p>Materials may not have been ordered and described beyond their original condition. </p>
+    </processinfo>
+    <bioghist id="aspace_598c41d62c99ca81749f29f5660dac0f">
+      <head>Biographical Note</head>
+      <p>Charles F. Roos was a well-known mathematician, economist, and statistician who was a
+        founder and president of the Econometric Society in the 1930s. In 1938, Roos formed the
+        Econometric Institute Inc., which was a research and consulting firm for communities and
+        companies throughout the United States. According to J.W. Nixon's biography for the
+        International Statistical Institute (ISI), of which Roos was an elected member, Roos was the
+        first "to use the concept of disposable personal income in the analysis of consumer demand
+        and size of markets." Nixon goes on to explain that Roos also "originated the concept of
+        corporate purchasing power and used it to help explain the demand for machinery and
+        equipment."</p>
+    </bioghist>
+    <scopecontent id="aspace_c6ba153e2455fc281fe36d67f4d39735">
+      <head>Collection Overview</head>
+      <p>Accession (2009-0146) (1950 items; 2.6 lin. ft.; bulk dated 1930s-1950s) consists largely
+        of reports and studies by the Econometrics Institute for various clients, including
+        railroads, paper companies, copper, newspaper, and electric power. Also includes working
+        papers and charts, offprints and reprints, Economic Measures publications, some
+        correspondence, and other miscellaneous materials related to Roos' work, especially
+        post-World War II.</p>
+      <p>Accession (2013-0024) (1200 items; 2.9 lin. ft.) contains additional reports, studies, and
+        internal correspondence from the the Institute of Applied Econometrics and the Index Number
+        Institute; volumes of Economic Measures and other publications; a photograph of Charles
+        Roos; and a single reel sound recording.</p>
+    </scopecontent>
+    <arrangement id="aspace_2c46a3e738c9e51bd518398cff96e037">
+      <head>Collection Arrangement</head>
+      <p>Although this collection has not been processed, it arrived with a fairly detailed
+        inventory of items which has been replicated where possible in this finding aid.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Economic forecasting -- United States -- Econometrics</subject>
+      <subject source="lcsh">Economics, Mathematical</subject>
+      <subject source="lcsh">Econometrics</subject>
+      <persname source="naf">Roos, Charles Frederick</persname>
+      <corpname source="ingest">Econometric Institute (New York, N.Y.)</corpname>
+      <corpname source="ingest">Econometric Society</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref14_dzt" level="series">
+        <did>
+          <unittitle>Charles Roos Papers, 1930s-1950s</unittitle>
+          <physdesc id="aspace_e52bdb566e4da3bd98a57c26f02b9122"
+            label="General Physical Description note"><extent>9 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_9d3cd2e4c3906b05c60472e1d20682a8">
+          <head>Scope and Contents note</head>
+          <p>Accession (2009-0146) (1950 items; 2.6 lin. ft.; bulk dated 1930s-1950s) consists
+            largely of reports and studies by the Econometrics Institute for various clients,
+            including railroads, paper companies, copper, newspaper, and electric power. Also
+            includes working papers and charts, offprints and reprints, Economic Measures
+            publications, some correspondence, and other miscellaneous materials related to Roos'
+            work, especially post-World War II.</p>
+        </scopecontent>
+        <c02 id="aspace_ref16_sx1" level="subseries">
+          <did>
+            <unittitle>Econometric Institute materials (2 folders)</unittitle>
+            <container id="aspace_bda2b9413690762c61f0055b03c4b96e" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+          <c03 id="aspace_ref17_kcw" level="file">
+            <did>
+              <unittitle>Booklet on services furnished to clients</unittitle>
+              <container id="aspace_f991452069d6dcaee29032a17a655da2" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref18_qxe" level="file">
+            <did>
+              <unittitle>Ledger sheet of Institute clients, Dec. 31, 1949</unittitle>
+              <container id="aspace_2f83d75f0c4456380150320120e880cf" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref19_acw" level="file">
+            <did>
+              <unittitle>Newspaper and magazine clients of Index Number Institute</unittitle>
+              <container id="aspace_9de45af6909612ece865ba39d971f9e1" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref20_0af" level="file">
+            <did>
+              <unittitle>Bank and other companies who were clients of Index Number Institute on May
+                5, 1947</unittitle>
+              <container id="aspace_388f895ad715729b30ecc82692913db5" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref21_dqm" level="file">
+            <did>
+              <unittitle>Roos and Von Szeliski: <title render="doublequote">Demand for Durable
+                  Goods</title></unittitle>
+              <container id="aspace_774f320bab3647c9b094e66bcb37f1c3" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref22_s24" level="file">
+            <did>
+              <unittitle>Non-ferrous metal report, Sept. 1949</unittitle>
+              <container id="aspace_4e3189dc800b5ef3cac7e56c4f96eb58" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref23_t3z" level="file">
+            <did>
+              <unittitle>Retail Trade report, Feb. 1949</unittitle>
+              <container id="aspace_f408a4033f33459e8060bc5c304193a7" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref24_myz" level="file">
+            <did>
+              <unittitle>Beer report, June 1950</unittitle>
+              <container id="aspace_de15d8f00c853f020611a6bb378cfdeb" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref25_thj" level="file">
+            <did>
+              <unittitle>Pittsfield Community Study, Sept. 1948</unittitle>
+              <container id="aspace_2094f9e24c2534c6543fd9bf5c1841bc" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref26_mzi" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <container id="aspace_6e39e6b8ccbb54e0af1f9f4fbfe866f8" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref27_wra" level="file">
+            <did>
+              <unittitle>Podea's work as international economic consultant to India, post-Institute
+                (International Technical Development)</unittitle>
+              <container id="aspace_84f5d7b4dd7da1115009fd583dfa12f8" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref28_03n" level="file">
+          <did>
+            <unittitle>Bound list of clients, 1949</unittitle>
+            <container id="aspace_adc1c8bde6c78e0faa72063791685113" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_47d" level="file">
+          <did>
+            <unittitle>Institute correspondence (2 folders)</unittitle>
+            <container id="aspace_0e3b6b101db9c82650e4f07055c2613b" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref30_nog" level="file">
+          <did>
+            <unittitle>Charles Roos' death, 1958</unittitle>
+            <container id="aspace_c46ef33a59d1099119962d1391ed9abb" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref31_6b8" level="file">
+          <did>
+            <unittitle><title render="italic">Economic Measures</title> (various reports and
+              papers)</unittitle>
+            <container id="aspace_de7ebf975396dc5c5fc4a6d9250c99c1" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref32_da1" level="file">
+          <did>
+            <unittitle>Various books from the Institute Library</unittitle>
+            <container id="aspace_029c5473f7004bdfe0a0ff18b96d5800" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref33_fps" level="file">
+          <did>
+            <unittitle>Loose-leaf notebook with working papers (1944-1947) and <title
+                render="italic">Economic Measures</title> (1947)</unittitle>
+            <container id="aspace_59d1eae2adb141c3f59a3efd3f70b30b" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref34_i1d" level="file">
+          <did>
+            <unittitle>Notebook with charts used by C.F. Roos at the NAM, 1948</unittitle>
+            <container id="aspace_482b28c6b59d3aa1b2a7363d89c39cb5" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref35_pae" level="file">
+          <did>
+            <unittitle>Notebook with <title render="doublequote">Outlook for Retail Trade,</title>
+              Oct. 15, 1944</unittitle>
+            <container id="aspace_7a9c17f78a7eeef91d70bde12ba77ed0" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref36_22f" level="file">
+          <did>
+            <unittitle><title render="doublequote">Outlook for Retail Trade,</title>
+              1944</unittitle>
+            <container id="aspace_d64a420dbe3c6208482b0614f1b25074" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref37_k3q" level="file">
+          <did>
+            <unittitle><title render="italic">Economic Measures</title> (various reports and papers)
+              (2 folders)</unittitle>
+            <container id="aspace_186cce0245490e437fcce2787bb27171" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref38_vbo" level="subseries">
+          <did>
+            <unittitle>Econometric Institute reports and studies</unittitle>
+          </did>
+          <c03 id="aspace_ref39_f0z" level="file">
+            <did>
+              <unittitle>Petroleum Industry</unittitle>
+              <container id="aspace_a04c060eee0759503e238c2e164519f0" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref40_9wu" level="file">
+            <did>
+              <unittitle>Newsprint</unittitle>
+              <container id="aspace_874dd7cf8e36edfbfe31bd88cff414f5" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref41_fop" level="file">
+            <did>
+              <unittitle>Income Payments</unittitle>
+              <container id="aspace_53f4b99f58bb4dc4fffa3142c07a2226" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref42_bku" level="file">
+            <did>
+              <unittitle>Retail Trade</unittitle>
+              <container id="aspace_ee1d8cd4b51d8deda3ec095e80d02a0c" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref43_jrc" level="file">
+            <did>
+              <unittitle>Paper Industry</unittitle>
+              <container id="aspace_3479e5c91b9d4fe518a4577ca1d4903d" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref44_0ai" level="file">
+            <did>
+              <unittitle>Copper</unittitle>
+              <container id="aspace_fb1fdca16ed6caa74f61f704e3ad5f3c" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref45_iv5" level="file">
+            <did>
+              <unittitle>Electric Power</unittitle>
+              <container id="aspace_b8ab33635ce91249841526913d6e2efc" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref46_vwj" level="file">
+            <did>
+              <unittitle>Railroad</unittitle>
+              <container id="aspace_f87aa07f29abff45bec03f12db0431fd" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref47_689" level="file">
+            <did>
+              <unittitle>Jewelry Sales</unittitle>
+              <container id="aspace_471e0f9d4279ab653a21262b2408f425" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref48_037" level="file">
+            <did>
+              <unittitle>Railroad Equipment</unittitle>
+              <container id="aspace_a0e401d119ab2a3937c960ad3c6568db" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref49_1ct" level="file">
+          <did>
+            <unittitle>Punchcard operation manual, 1942</unittitle>
+            <container id="aspace_1fa2f573564fee4c4baf833868a77e92" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref50_km4" level="file">
+          <did>
+            <unittitle>World Resources and Energy (coal study)</unittitle>
+            <container id="aspace_100ac8de221b85756d408c7f68af5c54" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref51_jds" level="file">
+          <did>
+            <unittitle>Banking memoranda, 1940s-1950s</unittitle>
+            <container id="aspace_1c63fe098e902fe274384e8b757d1cb3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref52_qbt" level="file">
+          <did>
+            <unittitle>Kaiser-Frazer operation</unittitle>
+            <container id="aspace_ef3b8dd57a0f456b3fe413bc6c8b0e13" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref53_90h" level="file">
+          <did>
+            <unittitle>Wood Pulp Study, 1949</unittitle>
+            <container id="aspace_fd6f1e3b7be28a5e2dd38d57a31ba774" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref54_i8j" level="file">
+          <did>
+            <unittitle>Monsanto Chemical tax relief</unittitle>
+            <container id="aspace_5c0704ab2587a38e716a45a3ebbc7bbc" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref55_tgd" level="file">
+          <did>
+            <unittitle><title render="italic">Economic Measures</title> charts, 1945</unittitle>
+            <container id="aspace_bc52a1f4dac8f431dc5b36ed6d0d4631" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref56_swy" level="file">
+          <did>
+            <unittitle><title render="italic">Economic Measures</title>, 1947</unittitle>
+            <container id="aspace_ded5841dab15dd15ec1a20d7391d4e7c" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref57_eff" level="file">
+          <did>
+            <unittitle><title render="doublequote">Newsprint Problem,</title> 1949</unittitle>
+            <container id="aspace_5a1ed05e5456b6afffdcfed7ae757e34" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref58_zke" level="file">
+          <did>
+            <unittitle>Union Bag study, 1947</unittitle>
+            <container id="aspace_133580cdc3a8681fbb8a8d606b835406" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref59_cik" level="file">
+          <did>
+            <unittitle>Construction Industry report, undated</unittitle>
+            <container id="aspace_ccb2f90b823aae278a75a60e0a7881db" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref60_9ht" level="file">
+          <did>
+            <unittitle>Beer Industry</unittitle>
+            <container id="aspace_75d5176b0c066954357b90652dc945f9" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref61_xsn" level="file">
+          <did>
+            <unittitle>Wood Rosin and Fir Doors demand, 1940s</unittitle>
+            <container id="aspace_dba59fff10a1e5cec19c687e3204a337" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref62_l0y" level="file">
+          <did>
+            <unittitle>Notebook with various econometric reports</unittitle>
+            <container id="aspace_5003bfada94b8a9efe34cc19e7b272e8" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref63_krc" level="file">
+          <did>
+            <unittitle><title render="italic">Economic Measures</title>, 1954</unittitle>
+            <container id="aspace_4f27e32b344c964ca950e515fa723388" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref64_dxu" level="file">
+          <did>
+            <unittitle>Newspaper Circulation study, 1947</unittitle>
+            <container id="aspace_5fcb18434bf60fd25f416308bc2913f9" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref65_gfo" level="file">
+          <did>
+            <unittitle>Various Institute reports, correspondence, and charts</unittitle>
+            <container id="aspace_dd754e2835dda926949d0b2d2a9eea64" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref66_wi4" level="file">
+          <did>
+            <unittitle>Defiance Machine Works</unittitle>
+            <container id="aspace_d4406fdf66e6e7d0828ea65b001461d6" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref67_ybd" level="file">
+          <did>
+            <unittitle>Econometric Meeting, 1932</unittitle>
+            <container id="aspace_c09745584c38adc53c26e38f8f6af951" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref68_rop" level="file">
+          <did>
+            <unittitle><title render="doublequote">General Outlook American Economy,
+                1949-1960</title> and <title render="doublequote">Statistics and Economics of
+                Housing</title></unittitle>
+            <container id="aspace_ff7155429c08f60e1ee27e1584e66493" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref69_nnw" level="file">
+          <did>
+            <unittitle>Various reports and off-prints, 1930s-1950s</unittitle>
+            <container id="aspace_d22e2a60f943cdea0f57d3b99c904917" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref70_hty" level="file">
+          <did>
+            <unittitle>Economic Measures</unittitle>
+            <container id="aspace_a23beb15ab264ddf42d9ab744fbc9fc7" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+          <c03 id="aspace_ref71_rtx" level="file">
+            <did>
+              <unittitle>Volumes 12 - 13</unittitle>
+              <physdesc id="aspace_b33f8e0ea830869eebfd208a5b8b7e45"
+                label="General Physical Description note"><extent>2 folders</extent></physdesc>
+              <container id="aspace_c7fb300faafe6b62edd95659ecff5a68" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref73_xrl" level="file">
+            <did>
+              <unittitle>Volume 13</unittitle>
+              <container id="aspace_a2cfaa3fc7497ca3b15d62313d9c7682" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref74_nnr" level="file">
+            <did>
+              <unittitle>Volume 14</unittitle>
+              <physdesc id="aspace_c8354d6c888de06ae68c22fb5ca0974e"
+                label="General Physical Description note"><extent>2 folders</extent></physdesc>
+              <container id="aspace_f884e412ad82107a42c7d93cf436a2fa" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref76_tk0" level="file">
+            <did>
+              <unittitle>Volume 15</unittitle>
+              <physdesc id="aspace_cfbe1efbec02b6a86d21db227601e4ca"
+                label="General Physical Description note"><extent>2 folders</extent></physdesc>
+              <container id="aspace_34f71dccfd4e911c1b3ee22230c6bb84" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref78_f0f" level="file">
+            <did>
+              <unittitle>Volume 16</unittitle>
+              <physdesc id="aspace_940507460776fbf9956dedc2bb025515"
+                label="General Physical Description note"><extent>2 folders</extent></physdesc>
+              <container id="aspace_ed3e6d212a127f7cb3321a4631d2e5cd" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref80_fyt" level="file">
+            <did>
+              <unittitle>Volume 19</unittitle>
+              <physdesc id="aspace_81bef3fccb5a1b4d667244c0fb487440"
+                label="General Physical Description note"><extent>2 folders</extent></physdesc>
+              <container id="aspace_ea438753d0d6000cc9a8b0cc744d0d67" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref82_tvt" level="file">
+            <did>
+              <unittitle>Volume 20</unittitle>
+              <physdesc id="aspace_c4f3da8f9f69087bb49611c17504bd67"
+                label="General Physical Description note"><extent>2 folders</extent></physdesc>
+              <container id="aspace_58846d774e1175cda8ed29e2b8cbdc9a" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref84_61f" level="file">
+            <did>
+              <unittitle>Volume 21</unittitle>
+              <container id="aspace_e843ddd670b7f07af89058f70c16513c" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref85_7pt" level="file">
+            <did>
+              <unittitle>Summary, 1948</unittitle>
+              <container id="aspace_3b7f8ba40f269fff991cf692f3605dad" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref86_ho7" level="file">
+          <did>
+            <unittitle>Index Number Institute work papers, stock certificates and corporate minutes,
+              1943</unittitle>
+            <container id="aspace_29c4fc07418eb15a532442940542a41a" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref87_o1z" level="file">
+          <did>
+            <unittitle>Studies on 14 basic industries, 1949</unittitle>
+            <container id="aspace_63c7d9bc97bfa851cc2b24346901ac2a" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref88_11b" level="file">
+          <did>
+            <unittitle>Institute of Applied Econometrics lead industry report, 1942</unittitle>
+            <container id="aspace_7f84463929a7238fe2a8488c429e3096" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref89_fp8" level="file">
+          <did>
+            <unittitle>Internal work papers, 1940-1944</unittitle>
+            <container id="aspace_9dd3f3443420f8052ea9fa9255679cbb" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref90_myp" level="file">
+          <did>
+            <unittitle>Institute of Applied Econometrics reports on various industries,
+              1942</unittitle>
+            <physdesc id="aspace_7f5030199bd80794c2676c9f1ccacc7f"
+              label="General Physical Description note"><extent>2 folders</extent></physdesc>
+            <container id="aspace_942a814c3206c36784803ddf1a98b8a8" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref92_lxl" level="file">
+          <did>
+            <unittitle>Internal correspondence and reports, 1940-1949</unittitle>
+            <container id="aspace_c6b2a1146509bc34125df63fb9b0a9aa" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref93_jap" level="file">
+          <did>
+            <unittitle><title render="italic">Measuring Business Cycles</title> by Arthur Burns and
+              Wesley Mitchell, 1946</unittitle>
+            <container id="aspace_cdb298f8f5b108eff81ca20d955b7d83" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref94_ogu" level="file">
+          <did>
+            <unittitle><title render="italic">Here's the Record</title>, 1938-1947</unittitle>
+            <container id="aspace_e07395bf868df6a9e0fda0f4029be3e6" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref95_tgg" level="file">
+          <did>
+            <unittitle>Miscellaneous personnel records and notes</unittitle>
+            <container id="aspace_0d7fc1aac0cdde234c51b23745faf128" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref96_tay" level="file">
+          <did>
+            <unittitle>Publicaations by Charles Roos</unittitle>
+            <container id="aspace_437af7cd21a1b1fee295aad4f3e4885e" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref97_1eu" level="file">
+          <did>
+            <unittitle>Irving Fisher article, 1934</unittitle>
+            <container id="aspace_7c3f84f9753d8d5361929ad148340057" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref98_38x" level="file">
+          <did>
+            <unittitle>Business Tides, 1941</unittitle>
+            <container id="aspace_f7210a22ae9731b6d7f5716f9bd97de9" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref99_jpp" level="file">
+          <did>
+            <unittitle><title render="italic">National Income</title> by Paul Boschan,
+              1950</unittitle>
+            <container id="aspace_69ad377d996ccd0692caaa546506fbcc" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref100_024" level="file">
+          <did>
+            <unittitle>Photograph of Charles Roos</unittitle>
+            <container id="aspace_f0fec9252dc69ed4589c58f2bacddfcf" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref101_90v" level="file">
+          <did>
+            <unittitle>Economic Measures basic indexes and forecasting techniques, 1944 to
+              1950</unittitle>
+            <container id="aspace_0d59f9e1984e5b2a074f78a5d877bbd6" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref102_393" level="file">
+          <did>
+            <unittitle>Book of charts and calculations, 1919 - 1938 and internal work papers,
+              1945</unittitle>
+            <container id="aspace_e583d3b3dd22f74145dbf8dbf06ce0d2" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref104_kin" level="series">
+        <did>
+          <unittitle>Audiovisual Materials</unittitle>
+          <unitdate>2013</unitdate>
+        </did>
+        <c02 id="aspace_ref105_d57" level="subseries">
+          <did>
+            <unittitle>The Roos Family - Perspectives on Econometrics, FDR's First Term, and
+              More</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">40
+                minutes</extent></physdesc>
+            <unitdate>2013</unitdate>
+            <container id="aspace_0683811547bcbd0317f41f40557bb85c" label="Moving Images"
+              type="video-file">RL10041-MP4-0001.mp4</container>
+          </did>
+          <scopecontent id="aspace_10971eb773db462e92170ef11175b5af">
+            <head>Scope and Contents</head>
+            <p>From the slate introducing the video: "In this interview, shot in 2013, Charles E.
+              Roos, age 85, reflects on the work of his late father, Charles F. Roos. His father wa
+              sa key economist for President Franklin Delano Roosevelt at the start of FDR's first
+              term, and one of the founders of econometrics. Charlie then discusses his mother, Mary
+              Barkuloo Roos, who also worked for FDR, and Charlies own work in physics. The
+              interview takes place at the Roos home in Nashville, Tennessee. The interviewer is Jon
+              Shayne, a family friend."</p>
+          </scopecontent>
+          <c03 id="aspace_ref107_ye3" level="file">
+            <did>
+              <unittitle>Edited video master, MP4 file, 2013</unittitle>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">40
+                  minutes</extent></physdesc>
+              <unitdate>2013</unitdate>
+              <container id="aspace_5e335ee766ac50d19d874408c11cd412" label="Moving Images"
+                type="video-file">RL10041-MP4-0001.mp4</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

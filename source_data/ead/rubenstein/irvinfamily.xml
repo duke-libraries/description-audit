@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/irvinfamily/">irvinfamily</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Irvin Family Papers, circa 1890s-2016
+            <num>RL.00619</num></titleproper>
+        <author>Processed by: Stacey Clarke; machine-readable finding aid created by: Stacey Clarke,
+          Elizabeth Arnold. Additions processed by Katrina Martin and Laurin Penland</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2015</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003268174</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-07-11 16:32:02
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Irvin Family papers</unittitle>
+      <origination label="creator">
+        <famname source="ingest">Irvin family</famname>
+      </origination>
+      <unitid>RL.00619</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">10.25 Linear Feet</extent>
+        <extent altrender="carrier">23 boxes; 2 oversize folders</extent>
+      </physdesc>
+      <unitdate normal="1890/2016" type="inclusive">circa 1890s-2016</unitdate>
+      <abstract id="aspace_01a6d921623b3c0ede79b4e9c9a2f4a3">Collection consists largely of
+        correspondence between historian Nell Irvin Painter and her parents (1969-2003), documenting
+        various stages of their lives, travels, and Painter's scholarly career. Also includes
+        writings by or about Nell Painter, including reviews of her work; materials, including
+        photographs and tintypes (circa 1890s-1910s) of African Americans in Victoria, Texas, kept
+        by Frank and Dona Irvin, relating to their early life near Houston, and documenting aspects
+        of African American history in that area; copies and reviews of Dona Irvin's writings;
+        documents related to Frank and Dona's education and careers; family photographs; videos;
+        Frank irvin's diary (2000-2003); legal papers; and other items. Acquired as part of the John
+        Hope Franklin Research Center for African and African American History and
+        Culture.</abstract>
+      <langmaterial id="aspace_a1d2d84231ca6682ae2c8645b7d6d10b">Materials in English </langmaterial>
+      <physdesc id="aspace_b69e37a1c0fb1f4c2f26f760d3faff49"><extent>approximately 5150
+          Items</extent></physdesc>
+    </did>
+    <bioghist id="aspace_680b62dd38d00acc72f07af55a7818e4">
+      <head>Biographical Note</head>
+      <p>Dona Irvin (1917-2009) was the author of <title type="simple" render="italic">The Unsung
+          Heart of Black America</title>, <title type="simple" render="italic">I Hope I Look That
+          Good When I'm That Old</title>, and other works. Frank Irvin was a chemist and worked for
+        many years for the Chemistry Department of the University of California at Berkeley. The
+        Irvins are the parents of historian Nell Irvin Painter, whose papers are also in the
+        Rubenstein Library.</p>
+    </bioghist>
+    <accessrestrict id="aspace_2410e6a5b8164a6488a860c73c89ca9c">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_172075e56ba995bd9ab68c2d60e0a389">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <acqinfo id="aspace_1db5a86c631555c6177594347af948b0">
+      <head>Provenance</head>
+      <p>The Irvin Family Papers were received by the David M. Rubenstein Rare Book &amp; Manuscript
+        Library as a gift in 2003, 2015, 2016, and 2019.</p>
+    </acqinfo>
+    <prefercite id="aspace_126ae062bbf28507941c0730bbd04f08">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Irvin Family Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <processinfo id="aspace_964c12a1c0ac2bb36e403e9f62310c69">
+      <head>Processing Information</head>
+      <p>Processed by Stacey Clarke</p>
+      <p>Completed October 15, 2003</p>
+      <p>Encoded by Stacey Clarke, Elizabeth Arnold</p>
+      <p>Additions processed by Katrina Martin, 2015 and 2016, and Laurin Penland, 2019.</p>
+      <p>This collection has been given basic processing: materials may not have been ordered and
+        described beyond their original condition.</p>
+      <p>Accessions described in this collection guide: 2003-0185, 2015-0035, 2015-0192, 2016-0112,
+        2019-0101.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_35e31f4663dc73112176afcb17d181a1">
+      <head>Related Material</head>
+      <p>For more information, see the Nell Irvin Painter Papers, 1959-2002 and undated, in the
+        David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_63e5e34fb78a01339a7049573b62924d">
+      <head>Collection Overview</head>
+      <p>Collection consists largely of correspondence between historian Nell Irvin Painter and her
+        parents (1969-2003), documenting various stages of their lives, travels, and Painter's
+        scholarly career. Also includes writings by or about Nell Painter, including reviews of her
+        work; copies and reviews of Dona Irvin's writings; documents related to Frank and Dona's
+        education and careers; Frank irvin's diary (2000-2003); legal papers; and other items. </p>
+      <p>Photographs also form an important part of the collection. Along with papers and records,
+        Frank and Dona Irvin kept early photos and tintypes (circa 1890s-1910s) of African Americans
+        in Victoria, Texas; together, these materials speak to their early life near Houston, and
+        document aspects of African American history in that area. There are also family photographs
+        from later decades (1930s-1980s). </p>
+      <p>For preservation purposes, original audiovisual media are closed to use; copies may be
+        available on request.</p>
+      <p>Acquired as part of the John Hope Franklin Research Center for African and African American
+        History and Culture.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">African American families</subject>
+      <subject source="lcsh">African American families -- History -- 20th century</subject>
+      <subject source="lcsh">African Americans -- Professional education</subject>
+      <subject source="lcsh">African Americans -- History -- 19th century</subject>
+      <subject source="lcsh">African Americans -- Texas -- History</subject>
+      <subject source="lcsh">African Americans -- Employment</subject>
+      <subject source="lcsh">African Americans -- Correspondence</subject>
+      <subject source="lcsh">African Americans -- Photographs</subject>
+      <subject source="lcsh">College teachers -- Correspondence</subject>
+      <subject source="lcsh">Scholars -- Correspondence</subject>
+      <geogname source="lcsh">Victoria (Tex.) -- History</geogname>
+      <genreform source="aat">Black-and-white photographs</genreform>
+      <genreform source="aat">Color photographs</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Tintypes (prints)</genreform>
+      <genreform source="aat">Videocassettes</genreform>
+      <corpname source="naf">John Hope Franklin Research Center for African and African American
+        History and Culture</corpname>
+      <famname source="ingest">Irvin family</famname>
+      <persname source="ingest">Painter, Nell Irvin</persname>
+      <persname source="ingest">Irvin, Dona L., 1917-</persname>
+      <persname source="ingest">Irvin, Frank</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref11_i4o" level="series">
+        <did>
+          <unittitle>Accession 2003-0185</unittitle>
+        </did>
+        <c02 id="aspace_ref12_ezm" level="subseries">
+          <did>
+            <unittitle>Irvin Family</unittitle>
+          </did>
+          <c03 id="aspace_ref14_sv2" level="file">
+            <did>
+              <unittitle>Awards</unittitle>
+              <container id="aspace_739d78dbe6e3cd1f0a582cbddd3e84c8" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+            <scopecontent id="aspace_d514f141d1bd5500bd0cb6c529a86dc8">
+              <head>Scope and Contents note</head>
+              <p>Frank's Plaques and Certificates.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref16_ufj" level="file">
+            <did>
+              <unittitle>Correspondence, [1983-2001]</unittitle>
+              <container id="aspace_c7859a2a93f74a5a81e0655dc79fbd24" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref19_432" level="file">
+            <did>
+              <unittitle>Family Photographs</unittitle>
+              <container id="aspace_9e8e5ec0877655367390316286bda2a0" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref20_pq7" level="file">
+            <did>
+              <unittitle>Legal Papers</unittitle>
+              <container id="aspace_62ff0d10cb9ad228919d5eb4620c2452" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+            <scopecontent id="aspace_7f4c0c8a69d00500025694c0b4e307b2">
+              <head>Scope and Contents note</head>
+              <p>Real Estate and Title Documents, <unitdate era="ce" calendar="gregorian"
+                  type="inclusive">[1960-1988]</unitdate></p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref24_8bc" level="file">
+            <did>
+              <unittitle>Correspondence, [1977-1989]</unittitle>
+              <container id="aspace_c113baf0484938919f95dadce1be38d1" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+            <scopecontent id="aspace_095f28af86285de12aaae2f2a6b81d72">
+              <head>Scope and Contents note</head>
+              <p>Includes letters to Dona from Frank.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref26_phr" level="file">
+            <did>
+              <unittitle><title render="italic">Happily Ever After: Couples Talk About Lasting
+                  Love</title></unittitle>
+              <container id="aspace_6faa7b87fb87f3acb7a4a03e147ac76b" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+            <scopecontent id="aspace_139842ec9fc4d89fe85c71def296b64c">
+              <head>Scope and Contents note</head>
+              <p>Featuring interview with Frank and Dona Irvin.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref28_ixx" level="file">
+            <did>
+              <unittitle>Dona's College Records</unittitle>
+              <container id="aspace_96441e4bf13fdefcbd0ff41081a3bfe6" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+            <scopecontent id="aspace_92e6594cdb1f54f0a2919fe9900a0fcb">
+              <head>Scope and Contents note</head>
+              <p>Includes records from Prairie View College, Houston College for Negroes (now Texas
+                Southern), and UCB.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref30_i07" level="file">
+            <did>
+              <unittitle><title render="italic">Black Women Stirring the Waters</title>, reviews and
+                excerpts</unittitle>
+              <container id="aspace_eb42d354fe0fd8615d6678fcf510c6d1" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref33_zed" level="file">
+            <did>
+              <unittitle>Correspondence, [1995-1996]</unittitle>
+              <container id="aspace_7aa89ab58787049bb064ba0c3dbfcb0b" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref34_y4q" level="file">
+            <did>
+              <unittitle>Books Written by Dona Irvin</unittitle>
+            </did>
+            <c04 id="aspace_ref35_gmg" level="file">
+              <did>
+                <unittitle><title render="italic">Black Women Stirring the
+                  Waters</title></unittitle>
+                <container id="aspace_3798f7faed322d8365074e22f7c78370" label="Mixed Materials"
+                  type="box">4</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref36_cmt" level="file">
+              <did>
+                <unittitle><title render="italic">The Unsung Heart of Black America: A Middleclass
+                    Church at Midcentury</title></unittitle>
+                <container id="aspace_c6c083a88378cc6030a7bce1b082c09f" label="Mixed Materials"
+                  type="box">4</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref37_ij0" level="file">
+              <did>
+                <unittitle><title render="italic">I Hope I Look That Good When I'm That Old: An
+                    Older African-American Woman Speaks to All Women in All of
+                  America</title></unittitle>
+                <container id="aspace_c29b58ec605e0f234cde8ac6033cfe2c" label="Mixed Materials"
+                  type="box">4</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref39_7la" level="file">
+            <did>
+              <unittitle>Newspaper Clippings, 1984-1993</unittitle>
+              <container id="aspace_13fd1132b9c910aebfcba33be35ec8f2" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref40_eg8" level="file">
+            <did>
+              <unittitle>Photos of Ewart and Charles E. McGruder</unittitle>
+              <container id="aspace_3a1f123e50d1aa6600c93786efd37412" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref41_emz" level="file">
+            <did>
+              <unittitle><title render="italic">Prairie View: A Study in Public
+                Conscience</title></unittitle>
+              <container id="aspace_478f1f75b02c7e7ed0125cffd530b3fa" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+            <scopecontent id="aspace_ccef521f3a613f259f2d878670bdafa4">
+              <head>Scope and Contents note</head>
+              <p>The narrative by George Ruble Woolfolk is the story of the only state-supported
+                Negro college in Texas between 1878 and 1946.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref44_0cv" level="subseries">
+          <did>
+            <unittitle>Nell Irvin Painter</unittitle>
+          </did>
+          <c03 id="aspace_ref46_2hv" level="file">
+            <did>
+              <unittitle>Correspondence, 1969-2003</unittitle>
+              <container id="aspace_8ba2402bbc1f5e917c828c2e908c87be" label="Mixed Materials"
+                type="box">6-12</container>
+            </did>
+            <scopecontent id="aspace_86593a650c8ed0d3843073eea385d595">
+              <head>Scope and Contents note</head>
+              <p>Includes letters from Nell Irvin Painter to her parents.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref55_91h" level="file">
+            <did>
+              <unittitle>Articles and Reviews by and About Nell Irvin Painter, 1968-2001</unittitle>
+              <container id="aspace_0f37224fa10b4f4afeebcf338085931e" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+            <scopecontent id="aspace_c8e1f088ba53288d264eb05c7232657b">
+              <head>Scope and Contents note</head>
+              <p>Includes articles and publicity about <title type="simple" render="italic"
+                  >Sojourner Truth, a Life, a Symbol</title></p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref57_le3" level="file">
+            <did>
+              <unittitle>Writing by Nell Irvin Painter 1970</unittitle>
+              <container id="aspace_769e012b225cb1068fc8b7b00c5fee2e" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+            <scopecontent id="aspace_8b9c3a8c2203ff55f56ac007c6e208e8">
+              <head>Scope and Contents note</head>
+              <p><title type="simple" render="doublequote">Jim Crow at Harvard, 1923</title></p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref50_tc0" level="file">
+            <did>
+              <unittitle>Commencement Programs</unittitle>
+            </did>
+            <c04 id="aspace_ref51_oah" level="file">
+              <did>
+                <unittitle>Yale University 2003</unittitle>
+                <container id="aspace_974dbe21881f1db05eb43f5e94cf4c42" label="Mixed Materials"
+                  type="box">13</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref52_9dw" level="file">
+              <did>
+                <unittitle>Dartmouth College 1997</unittitle>
+                <container id="aspace_f3784322b146bbb891ee8a3cd0838ea2" label="Mixed Materials"
+                  type="box">13</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref53_5cz" level="file">
+              <did>
+                <unittitle>Wesleyan University 1996</unittitle>
+                <container id="aspace_993a718f258c29cb276796c998fd8a46" label="Mixed Materials"
+                  type="box">13</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref54_75i" level="file">
+              <did>
+                <unittitle>Princeton University 1996</unittitle>
+                <container id="aspace_96dfeece32bcaa698c777a499c36509b" label="Mixed Materials"
+                  type="box">13</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref61_zbc" level="file">
+            <did>
+              <unittitle>Videos</unittitle>
+            </did>
+            <accessrestrict id="aspace_00b55d59e3725b90b6bfd20efc998fbf">
+              <head>Conditions Governing Access</head>
+              <p>Original audiovisual media closed to use. Listening or viewing copies may be
+                available upon request. Please contact the Rubenstein Library before coming to use
+                these materials.</p>
+            </accessrestrict>
+            <c04 id="aspace_ref62_t66" level="file">
+              <did>
+                <unittitle>MacNeil/Lehrer News with Nell Irvin Painter 1991 Mar. 13</unittitle>
+                <container id="aspace_fa70f0e2a31d77c93cb957b62b96f1a0" label="Mixed Materials"
+                  type="box">14</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref63_b29" level="file">
+              <did>
+                <unittitle>C-SPAN</unittitle>
+                <container id="aspace_03839f3a9eb11686d684a309c76ee3fe" label="Mixed Materials"
+                  type="box">14</container>
+              </did>
+              <scopecontent id="aspace_a4d532e58688e0231123d769ce360f3a">
+                <head>Scope and Contents note</head>
+                <p>Nell Irvin Painter talks about her book <title type="simple" render="italic"
+                    >Sojourner Truth: A Life, A Symbol</title></p>
+              </scopecontent>
+            </c04>
+            <c04 id="aspace_ref65_q8d" level="file">
+              <did>
+                <unittitle>Book Notes from <title render="italic">Sojourner Truth: A Life, A
+                    Symbol</title> 1996 Dec. 8</unittitle>
+                <container id="aspace_da943ca6cc2f844824ed48dbc30a3c69" label="Mixed Materials"
+                  type="box">14</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref66_058" level="file">
+              <did>
+                <unittitle>C-SPAN Organization of American Historians. <title render="doublequote"
+                    >The Art of Writing</title> 2002 Mar. 13</unittitle>
+                <container id="aspace_fe52a024e23bcb3996c59f9f1204dfa1" label="Mixed Materials"
+                  type="box">14</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref67_mdb" level="file">
+            <did>
+              <unittitle>Assorted Photographs</unittitle>
+              <container id="aspace_505746344e8d808e943fabe71352b22b" label="Mixed Materials"
+                type="box">14</container>
+            </did>
+            <scopecontent id="aspace_788c5872173e8e5d99243667ccacbb5b">
+              <head>Scope and Contents note</head>
+              <p>Includes photographs from Nell and Glenn's wedding and the OBU rally at
+                Harvard.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref72_c7g" level="file">
+            <did>
+              <unittitle>Assorted Photographs and Postcards</unittitle>
+              <container id="aspace_e024bdd1d7d25417b301b15c38811757" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+            <scopecontent id="aspace_68c01ef45517c737196badcd7b0c3473">
+              <head>Scope and Contents note</head>
+              <p>Includes Nell Irvin Painter's high school photographs, photographs from trip to
+                Quebec City, <unitdate era="ce" calendar="gregorian" type="inclusive"
+                  >2001</unitdate>, and portraits and tintypes taken in Victoria, Texas, <unitdate
+                  era="ce" calendar="gregorian" type="inclusive">ca. 1890s-1900s</unitdate>.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref71_i7k" level="file">
+            <did>
+              <unittitle>Nell's Home in North Carolina</unittitle>
+              <container id="aspace_cf71322adb9ca1e8ae526a2a52b5d5ac" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref76_h1v" level="file">
+            <did>
+              <unittitle>Family Photographs</unittitle>
+              <container id="aspace_bb1736aabccc137f739576e3cec0ebdd" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+            <scopecontent id="aspace_b42a632cadf21d24d372cf5cc84452b2">
+              <head>Scope and Contents note</head>
+              <p>Includes black-and-white photos, <unitdate era="ce" calendar="gregorian"
+                  type="inclusive">[1930s]-[1980s]</unitdate></p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref78_9ql" level="file">
+            <did>
+              <unittitle>Correspondence, 1995-2003</unittitle>
+              <container id="aspace_5f96cca8df81257368ea38ffa322ef5e" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+            <scopecontent id="aspace_5faf9755dd41707f57a4446c7f832a45">
+              <head>Scope and Contents note</head>
+              <p>Includes e-mail messages from Nell Irvin Painter to her parents.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref82_1is" level="file">
+            <did>
+              <unittitle>High School Diploma and Graduation Ceremony, 1959</unittitle>
+              <container id="aspace_9fa9565955e666ce2829a346f2e525bf" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref83_emt" level="file">
+            <did>
+              <unittitle>Pelican Magazine UCB, 1959</unittitle>
+              <container id="aspace_cf9be907c0689aaae0620824917bb8e3" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref84_dxt" level="file">
+            <did>
+              <unittitle>Harvard Union Commencement Program, 1974</unittitle>
+              <container id="aspace_7c7c9138b7d08ec33b6bc6a8b0332df4" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref85_qor" level="file">
+            <did>
+              <unittitle>Correspondence, 1962</unittitle>
+              <container id="aspace_66b596b49ce73ff0f1fd7656ff63f595" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+            <scopecontent id="aspace_3d77a4aefd7447bf68cc35a5f3a27eec">
+              <head>Scope and Contents note</head>
+              <p>Includes Nell Irvin Painter's letters to her parents.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref89_3j8" level="file">
+            <did>
+              <unittitle>Photographs</unittitle>
+              <container id="aspace_2844060a6fb57ff279189dda34dad8af" label="Mixed Materials"
+                type="box">18</container>
+            </did>
+            <scopecontent id="aspace_2ecdd3bffd5764101dcfea731d2e7fb2">
+              <head>Scope and Contents note</head>
+              <p>Includes pictures from Crossroads Africa summer in Nigeria.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ref91_di4" level="file">
+            <did>
+              <unittitle>Legal Papers, 1945</unittitle>
+              <container id="aspace_481f46113dfac05df7b88e22c740e163" label="Mixed Materials"
+                type="box">18</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref92_qca" level="file">
+            <did>
+              <unittitle>Documents Regarding Nell Irvin Painter's Education</unittitle>
+            </did>
+            <c04 id="aspace_ref93_lrh" level="file">
+              <did>
+                <unittitle>Education Abroad Program, Boreaux, France, 1962</unittitle>
+                <container id="aspace_d36955d8951fbc4483617ede3369277b" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref94_2fz" level="file">
+              <did>
+                <unittitle>B.A. from UCB, 1964</unittitle>
+                <container id="aspace_42747c6d563944031885cf3e202e1536" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref95_xgl" level="file">
+              <did>
+                <unittitle>M.A. from UCLA, 1967</unittitle>
+                <container id="aspace_94299349f91a6ca1c39f9c0253783f5a" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref96_t2n" level="file">
+              <did>
+                <unittitle>CA Junior College Teaching Credential, Life. 1968</unittitle>
+                <container id="aspace_e89de1dfa55aa0d2de9e7b947a845a9b" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref97_z7x" level="file">
+              <did>
+                <unittitle>Nell Irvin Painter curriculum vitae. 1984</unittitle>
+                <container id="aspace_1e42009401dabc03296cd35c525cd489" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref100_dac" level="series">
+        <did>
+          <unittitle>Accession 2015-0035</unittitle>
+        </did>
+        <c02 id="aspace_ref102_4ps" level="file">
+          <did>
+            <unittitle>Frank Irvin's Diary </unittitle>
+            <unitdate>2000-2003</unitdate>
+            <container id="aspace_59c5c16eb02f8ddeb33ecc22e976c300" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref104_haj" level="subseries">
+          <did>
+            <unittitle>Books Written by Dona Irvin</unittitle>
+          </did>
+          <c03 id="aspace_ref103_rmv" level="file">
+            <did>
+              <unittitle>Expenses for The Unsung Heart of Black America</unittitle>
+            </did>
+          </c03>
+          <c03 id="aspace_ref105_lpg" level="file">
+            <did>
+              <unittitle>Book Reviews: The Unsung Heart of Black America</unittitle>
+              <container id="aspace_ba08bb1788de7fd590157c80d8ea1408" label="Mixed Materials"
+                type="box">19</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref106_meu" level="file">
+            <did>
+              <unittitle>Drafts</unittitle>
+              <container id="aspace_8268c3cfacab36dd1d4120f2760a24d5" label="Mixed Materials"
+                type="box">19</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref107_gx5" level="file">
+            <did>
+              <unittitle>Drafts - I Hope I Look That Good When I'm That Old</unittitle>
+              <container id="aspace_6427430120478378852147a385bc6471" label="Mixed Materials"
+                type="box">19</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref108_lt3" level="file">
+            <did>
+              <unittitle>Correspondence - I Hope I Look That Good When I'm That Old</unittitle>
+              <container id="aspace_dd5bd9eaaa9812b9da3b27ef4486f65e" label="Mixed Materials"
+                type="box">19</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref109_oej" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <container id="aspace_492c9a316a9f6cd87ee2beb1f12bace6" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+          <scopecontent id="aspace_514370f0c4e2573d879fcf8bc39e9e46">
+            <head>Scope and Contents</head>
+            <p>Largely correspondence between Nell Irvin Painter and her parents, ranging from the
+              1960s to 2000s. Includes email correspondence.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref110_qi9" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <container id="aspace_2284e05b8e8bdde6edcaeb2ba4326f8b" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref112_ccc" level="file">
+          <did>
+            <unittitle>Miscellaneous notes</unittitle>
+            <container id="aspace_5222ebe79f15a9fffd2905df746c2496" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref113_1co" level="file">
+          <did>
+            <unittitle>Biographical essay - Dona Irvin</unittitle>
+            <container id="aspace_a381c37f34d2f51ff198fabf704e8235" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref114_w3e" level="file">
+          <did>
+            <unittitle>Events</unittitle>
+            <container id="aspace_759cf3b67fe680ba9a3dc878856fbabf" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+          <scopecontent id="aspace_66624aa73aa70ca9c3be49b2b5752c32">
+            <head>Scope and Contents</head>
+            <p>Includes planning materials for Frank Irvin's 85th birthday party and materials from
+              memorial services, including Dona Irvin's memorial service.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref115_dsi" level="file">
+          <did>
+            <unittitle>Printed Material</unittitle>
+            <container id="aspace_1f7fa5e2e0bec181df7347b740847b38" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref116_tiu" level="file">
+          <did>
+            <unittitle>Awards</unittitle>
+            <container id="aspace_3fa6d51451577e42f463fe76b03edf74" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+          <scopecontent id="aspace_25bc82ee7c1f5461519335c3c9ffb750">
+            <head>Scope and Contents</head>
+            <p>Includes Frank Irvin's Certificate of Appreciation for 25 years of service from the
+              Univerisity of California.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref117_che" level="file">
+          <did>
+            <unittitle>Medical Documents</unittitle>
+            <container id="aspace_aea501b5bb3dfded1752257b4b8ac208" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref118_hig" level="file">
+          <did>
+            <unittitle>Legal and Financial documents</unittitle>
+            <container id="aspace_ef6e8e853938c9d5ce30500eb6298b35" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+          <scopecontent id="aspace_ab69eba9cdc081e27c18585a6fcea5d0">
+            <head>Scope and Contents</head>
+            <p>Includes photocopies of Frank and Dona Irvin's marriage certificate, tax records, and
+              talent release forms.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref119_9hv" level="file">
+          <did>
+            <unittitle>Photocopies - Research Material </unittitle>
+            <container id="aspace_e3a88cf6f06d82de108175b4ce0a586d" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref120_dkv" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <container id="aspace_acc98075520e84b8bf9228920b0b1205" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref121_r89" level="file">
+          <did>
+            <unittitle>AV Materials</unittitle>
+            <container id="aspace_ee67ecf3d97a45eb7d476a8a4d81ad8a" label="Mixed Materials"
+              type="box">20</container>
+          </did>
+          <accessrestrict id="aspace_3813f553ba8d05a40b2b5d0bfa085dd1">
+            <head>Conditions Governing Access</head>
+            <p>Original audiovisual media closed to use. Listening or viewing copies may be
+              available on request. Please contact the Rubenstein Library before coming to use these
+              materials.</p>
+          </accessrestrict>
+        </c02>
+      </c01>
+      <c01 id="aspace_d33fac712e0633aeea16ca30d2b50b22" level="series">
+        <did>
+          <unittitle>Accession 2015-0192</unittitle>
+        </did>
+        <c02 id="aspace_c916261fcec2e1e33562651ebfe9525b" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>2007-2009</unitdate>
+            <container id="aspace_203cecabfc27c99ce057dcf9993c8a91" label="Mixed Materials"
+              type="box">21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_8d4af693d5d5c277485e239f4d832113" level="file">
+          <did>
+            <unittitle>Frank and Dona Irvin's Wedding Anniversary Guest Book</unittitle>
+            <unitdate>1997</unitdate>
+            <container id="aspace_1bb4acf3a788a55bb3d338cc64197a33" label="Mixed Materials"
+              type="box">21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_3bdf00777a0f219a07a9cdb127182f09" level="file">
+          <did>
+            <unittitle>Correspondence received by Frank Irvin </unittitle>
+            <unitdate type="inclusive">2009-2011</unitdate>
+            <physdesc id="aspace_af574c737856e1c7d527276b3c8168cc">2 folders</physdesc>
+            <container id="aspace_55ee4e8184c453e09a1eaf072e3984d7" label="Mixed Materials"
+              type="box">21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_83d63b1c7618631fd1133288736e582a" level="file">
+          <did>
+            <unittitle>Dona Irvin correspondence and notes</unittitle>
+            <unitdate>2007</unitdate>
+            <container id="aspace_8a7046fbad822528dd02c67b0354dbb8" label="Mixed Materials"
+              type="box">21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_8ff6af089b4c4278ed02b4d93273a056" level="file">
+          <did>
+            <unittitle>Dona Irvin obituary </unittitle>
+            <unitdate>2009</unitdate>
+            <container id="aspace_4cedfb04c72c444bee8078132343db8b" label="Mixed Materials"
+              type="box">21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_2782480877fb84404c2f8e82447c4b35" level="file">
+          <did>
+            <unittitle>Family photographs</unittitle>
+            <unitdate>1985, 1997, and undated</unitdate>
+            <container id="aspace_80a0a71616a29d38a2153893d29643ee" label="Mixed Materials"
+              type="box">21</container>
+            <container id="aspace_69fceb92402661fed6ed3077806059f4"
+              parent="aspace_80a0a71616a29d38a2153893d29643ee" type="oversize-folder">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_68eb60f3b8a8a152b55dd7a7ee2551cc" level="series">
+        <did>
+          <unittitle>Accession 2016-0112</unittitle>
+        </did>
+        <scopecontent id="aspace_5ad5270ac3f5d240c372716dadfd0991">
+          <head>Scope and Contents</head>
+          <p>Addition (2016-0112) contains materials transferred from the Nell Irvin Painter papers.
+            Contains family photographs primarily from the 1990s and a calendar in which Dona and
+            Frank Irvin appeared.</p>
+        </scopecontent>
+        <c02 id="aspace_cfdaa67aa4e312e3442ed47b5e31a2a1" level="file">
+          <did>
+            <unittitle>Photograph of Frank and Dona Irvin at Dona's retirement party,
+              1982</unittitle>
+            <container id="aspace_5e9ce535664dcf74aaabe302d6e1a308" label="Mixed Materials"
+              type="box">22</container>
+          </did>
+        </c02>
+        <c02 id="aspace_11780857408a4d55d05d6d26155936e5" level="file">
+          <did>
+            <unittitle>Portrait of Dona and Nell taken by Bill Gaskins, ca. 1999</unittitle>
+            <container id="aspace_1a964d0e1d7c6f63eae6a4c54f176d94" label="Mixed Materials"
+              type="box">22</container>
+          </did>
+        </c02>
+        <c02 id="aspace_36e26275d47f118c640d558c8bf6d9e0" level="file">
+          <did>
+            <unittitle>Family snapshots 1964-1999 and undated</unittitle>
+            <container id="aspace_c1833862aea6f7153e57586f0268eb00" label="Mixed Materials"
+              type="box">22</container>
+          </did>
+        </c02>
+        <c02 id="aspace_2e338cc47d3bfb6306ef6fcfe890648d" level="file">
+          <did>
+            <unittitle>2002 calendar:Happily Ever After, pictures of everlasting love</unittitle>
+            <container id="aspace_ea543bbab1ee6de15f6dcaee757a856f" label="Mixed Materials"
+              type="oversize-folder">2</container>
+          </did>
+          <scopecontent id="aspace_162a8dd395bcf70f5f31d59bfd4f189b">
+            <head>Scope and Contents</head>
+            <p>Month of April features a portrait of Dona and Frank Irvin.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="aspace_1497968ac464e7082adeb87bf34a8ba1" level="series">
+        <did>
+          <unittitle>Accession 2019-0101</unittitle>
+        </did>
+        <c02 id="aspace_601a5b1bfadb614eccd5a627cd783f2b" level="file">
+          <did>
+            <unittitle>Donna Irvin's memorial service</unittitle>
+            <unitdate normal="2009/2009">2009</unitdate>
+            <container id="aspace_9a712eed49d220bbc5b1dd3d969b23e3" label="Mixed Materials"
+              type="box">23</container>
+          </did>
+        </c02>
+        <c02 id="aspace_69610a10a8310287797de87511a953da" level="file">
+          <did>
+            <unittitle>General correspondence</unittitle>
+            <unitdate normal="2011/2017" type="inclusive">2011-2017</unitdate>
+            <container id="aspace_2d1717d5e23e15140feba57d6be04dd8" label="Mixed Materials"
+              type="box">23</container>
+          </did>
+        </c02>
+        <c02 id="aspace_631e56d0e2c4f7dc220a347866478972" level="file">
+          <did>
+            <unittitle>McGruder family correspondence</unittitle>
+            <unitdate normal="2016/2018" type="inclusive">2016-2018</unitdate>
+            <container id="aspace_dcf33a1080ea3e74f52147e58b2e4abc" label="Mixed Materials"
+              type="box">23</container>
+          </did>
+        </c02>
+        <c02 id="aspace_8dcf21f3fff53c5db58766a277fcc958" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate normal="1890/2014" type="inclusive">1890s-2014</unitdate>
+            <container id="aspace_00053a10c03a5b9d32cb810f140f3f76" label="Mixed Materials"
+              type="box">23</container>
+          </did>
+        </c02>
+        <c02 id="aspace_3b320ed5585fc7efc3aa65bda4917570" level="file">
+          <did>
+            <unittitle>Frank Irvin's memorial service</unittitle>
+            <unitdate normal="2016/2016">2016</unitdate>
+            <container id="aspace_3dba5491cbfcb6ef339e4fc6de8a288a" label="Mixed Materials"
+              type="box">23</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

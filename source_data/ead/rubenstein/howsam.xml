@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/howsam/">howsam</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the George R. Howsam Papers, 1920-1981 <num>RL.00579</num>
+            </titleproper>
+            <author>Processed by: John Gribble; Assisted by Dave Daily and Sandra Hack Polaski ;
+               Machine-readable finding aid created by: Stephen D. Miller</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001530473</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 20:27:50
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>George R. Howsam papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Howsam, George R.</persname>
+         </origination>
+         <unitid>RL.00579</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1920/1981" type="inclusive">1920-1981</unitdate>
+         <physloc id="aspace_47c5d431b3551de103a927f436950c71">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_ad0cbbc10eb10fb41d2d9c047807c2e2">
+            <extent>6,750 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_944b3cb8b48f66bcb4576474766494d1">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_c3f66bae7a4a3d5472972bb4f50af90d">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_5443cf085ee3eb76c999f88b584fa98d">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in the George R. Howsam papers have not been transferred to Duke
+            University. For further information, see the section on copyright in the Regulations and
+            Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library and consult a
+            Reference Archivist.</p>
+      </userestrict>
+      <acqinfo id="aspace_9ce451c5bdf5b2057301406569ea5844">
+         <head>Provenance</head>
+         <p>The George R. Howsam papers (1920-1981) were donated to the Duke University. David M.
+            Rubenstein Rare Book &amp; Manuscript Library in 1990 by Peter Howsam.</p>
+      </acqinfo>
+      <processinfo id="aspace_30d5f52ffb1d12c46fabfde14a2fb89f">
+         <head>Processing Information</head>
+         <p>Processed by: John Gribble; Assisted by Dave Daily and Sandra Hack Polaski</p>
+         <p>Completed July 10, 1993</p>
+         <p>Encoded by Stephen D. Miller</p>
+      </processinfo>
+      <bioghist id="aspace_f5e2813da57a74a9db0e789c2d227e23">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1895, Jan. 29</date>
+               <eventgrp>
+                  <event>Born, Lake Scugog, Ontario</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1916-1918</date>
+               <eventgrp>
+                  <event>Enlisted in 116th South Ontario Battalion, Accepted into Royal Canadian
+                     Expeditionary Force, Promoted to Lieutenant</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1918, Sept.</date>
+               <eventgrp>
+                  <event>Joined Canadian Air Force, stationed in France and Belgium flying bombing
+                     missions for various government departments</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1921</date>
+               <eventgrp>
+                  <event>Worked with Royal Canadian Air Force photographic survey, NW Canada</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1923-1926</date>
+               <eventgrp>
+                  <event>Worked for Canadian Air Board (mapping early radio communications, aircraft
+                     and radio equipment, flying)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1929</date>
+               <eventgrp>
+                  <event>Senior member, Royal Canadian Air Force 1st Aerobatics Team, (Siskin)
+                     Display, Cleveland, OH</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1930</date>
+               <eventgrp>
+                  <event>Joined the Royal Canadian Air Force Staff College, England, Director of
+                     Civil Administration</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1931-1932</date>
+               <eventgrp>
+                  <event>Staff member CGAO Operations at Air Force Headquarters</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1933-1936</date>
+               <eventgrp>
+                  <event>SASO, MD2 Toronto</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1937</date>
+               <eventgrp>
+                  <event>OC 2, Army Co-operation Squadron, Ottawa</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1938-1940</date>
+               <eventgrp>
+                  <event>SASO, No.4 Training Command, Regina</event>
+                  <event>Director of Training for Royal Canadian Air Force, Ottawa</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1941</date>
+               <eventgrp>
+                  <event>Directed and organized the funding of the building of the Service Flying
+                     School, Yorktown, Saskatchewan</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1942-1943</date>
+               <eventgrp>
+                  <event>AOC Air Staging Route to Alaska</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1942-1944</date>
+               <eventgrp>
+                  <event>AOC No.4 Training Command, Calgary</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1945</date>
+               <eventgrp>
+                  <event>Chairman, Organization Committee, AF HQ, Ottawa</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1946</date>
+               <eventgrp>
+                  <event>Retired from the Royal Canadian Air Force as Air Vice-Marshal</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1948-1949</date>
+               <eventgrp>
+                  <event>Director, Sicks' Breweries Ltd. and Sicks' Edmonton Brewery, President of
+                     the United Services Institute of Edmonton</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1950-1951</date>
+               <eventgrp>
+                  <event>Co-Ordinator of Civil Defense, Alberta</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1960, Oct.</date>
+               <eventgrp>
+                  <event>Canadian Delegate to Emergency Measures NATO Assembly, Paris</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>George R. Howsam was awarded the following awards of merit: Legion of Merit in Degree of
+            Commander (United States, 1945), Order of White Lion (Czechoslovakia, 1946), and
+            Commander de l'orde de la Couronne (Belgium, 1948). His works include: <title
+               type="simple" render="doublequote"> Rocky Mountain Foothills Offer Great Chance to
+               Guilders</title> (1923), and <title type="simple" render="doublequote"> Industrial
+               and Mechanical Development: War</title> (1931).</p>
+      </bioghist>
+      <scopecontent id="aspace_bd51cd36ee50f3ccce13fa02b5530291">
+         <head>Collection Overview</head>
+         <p>The George R. Howsam Papers span the years 1920-1981, although the bulk of the material
+            dates from 1930-1948. They consist of correspondence, legal papers, photographs, printed
+            materials, writings and speeches, clippings, and miscellaneous, The collection
+            principally relates to Howsam's career as Air Vice-Marshall in the Royal Canadian Air
+            Force, and has a few items regarding Howsam's employment as a manager for Sicks'
+            Breweries Ltd. and his service as Co-Ordinator of Civil Defense in Alberta. Subject
+            areas represented within the collection include: Alberta Civil Defense, Royal Canadian
+            Air Force Training before and during World War II, and Royal Canadian Air Force
+            lectures.</p>
+         <p>Although the Correspondence Series primarily relates to Royal Canadian Air Force
+            activities, personal letters are included within the series. The series offers insight
+            into the professional life of a Canadian airman in the 1930's and 1940's, and also the
+            network of people Howsam worked and associated with before, during, and after World War
+            II.</p>
+         <p>The Pictures Series documents Howsam's professional military life, ranging from several
+            personal military photographs of Howsam as a young man to photograph albums detailing
+            such subjects as awarding of medals, “presentation of wings” for Canadian Airmen in
+            1941, and building of the Royal Canadian Air Force Station at Yorktown, Saskatchewan
+            (the No. 11 Service Flying Training School, 1941). Also included is Howsam's report
+            titled, <title type="simple" render="doublequote"> Some Continental Flying
+               Boats,</title> 1932, which includes photographs and descriptions of seaplanes
+            designed to take off from the water.</p>
+         <p>Howsam served as a lecturer and speaker for the Royal Canadian Air Force Staff College,
+            and these activities are reflected in the many folders of lectures and speeches that
+            Howsam prepared for use in the Staff College courses from 1930-1944. These lectures are
+            included in the Printed Materials Series and the Writings and Speeches Series.</p>
+         <p>The Clippings Series offers insight not only into World War II but also to Alberta Civil
+            Defense, and the threat and precautions of nuclear war, 1959-1961. Howsam's work at
+            Sicks' Brewery is documented in the Legal Papers Series, which includes a printed
+            brochure from the brewery, letters, balance sheets, and also information regarding oil
+            and gas investments.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Air Pilots, military -- Canada -- Education</subject>
+         <subject source="lcsh">Air forces -- Canada</subject>
+         <geogname source="lcsh">Canada -- Air defenses, Military</geogname>
+         <geogname source="lcsh">Alberta -- Civil defense</geogname>
+         <geogname source="lcsh">Canada -- Royal Canadian Air Force</geogname>
+         <geogname source="lcsh">Canada. Royal Canadian Air Force -- History -- World War,
+            1939-1945</geogname>
+         <persname source="ingest">Howsam, George R.</persname>
+         <corpname source="ingest">Sicks' Breweries</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_0g5" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1931-1978, undated (bulk 1936-1948).</unittitle>
+            </did>
+            <arrangement id="aspace_decf14df8773bf86912c09073eba909e">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically, followed by four topical folders.</p>
+            </arrangement>
+            <c02 id="aspace_ref13_lkm" level="file">
+               <did>
+                  <unittitle>1931-1943, Mar.</unittitle>
+                  <physdesc id="aspace_fce68f96b6f6bf2d6080efc0610aba2a">
+                     <extent>18 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d2e92611c1015da2abe88a11c5fedbb8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_zk7" level="file">
+               <did>
+                  <unittitle>1943, Apr.-1947, June</unittitle>
+                  <physdesc id="aspace_4da99d0f2a22c23b595b8680045de706">
+                     <extent>17 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f87363fd80c0f694cb3c944c03f5c14c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_3l3" level="file">
+               <did>
+                  <unittitle>1947, July-1978, undated</unittitle>
+                  <physdesc id="aspace_43aad83e9b502916744958bf1c3ba4e7">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d650907e8897a78191439bf413fdcae9" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_fiw" level="file">
+               <did>
+                  <unittitle>Chief Electoral Officer,1962</unittitle>
+                  <container id="aspace_15b577a1fd8c5cef18fc3325fc0da090" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_0tr" level="file">
+               <did>
+                  <unittitle>du Park, Vicomte, 1948-1949</unittitle>
+                  <container id="aspace_0411618db2507a08447aed8a5747a994" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_6a1" level="file">
+               <did>
+                  <unittitle>Roy, R.H., 1965-1967, 1971-1972</unittitle>
+                  <container id="aspace_7c536540f080ee079932290ff9c463d7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_awd" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force Project, 1967-1975, undated</unittitle>
+                  <container id="aspace_d13d48a89f4ab6305ae6034a2f3103c0" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref24_ps2" level="series">
+            <did>
+               <unittitle>Legal Papers, 1945-1977, undated (bulk 1951-1963).</unittitle>
+            </did>
+            <c02 id="aspace_ref25_vtj" level="file">
+               <did>
+                  <unittitle>Oil and Gas Properties, 1951-1977, undated</unittitle>
+                  <physdesc id="aspace_68cdd615d50dec40ca84ae5b01d48346">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b4092e70304ce62b908e689f637354a6" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_xiw" level="file">
+               <did>
+                  <unittitle>Sicks' Breweries Ltd., 1945-1954, undated</unittitle>
+                  <container id="aspace_ab27bc6d4c5fef9bce67780b4f1675c4" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref28_zcv" level="series">
+            <did>
+               <unittitle>Pictures Series, 1917-1960 (bulk1941).</unittitle>
+            </did>
+            <scopecontent id="aspace_59b556fac2d45797452f6255288c04ba">
+               <head>Scope and Contents note</head>
+               <p>Includes loose photographs and bound photograph albums chiefly regarding Howsam's
+                  military duties. Also includes a report by Howsam titled, <title type="simple"
+                     render="doublequote"> Some Continental Flying Boats.</title>
+               </p>
+            </scopecontent>
+            <arrangement id="aspace_44c5485b115724d522be33adf9d8a71b">
+               <head>Arrangement note</head>
+               <p>Arranged by subject or title.</p>
+            </arrangement>
+            <c02 id="aspace_ref29_ykk" level="file">
+               <did>
+                  <unittitle>Alberta Civil Defence</unittitle>
+                  <container id="aspace_7f7c96fbab239465e916f534d076bd1e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_oiq" level="file">
+               <did>
+                  <unittitle>Graduating Classes Nos. 25, 28,1941</unittitle>
+                  <container id="aspace_f284a5c44b52b4f8ab19ddd02ee12f59" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_3ab" level="file">
+               <did>
+                  <unittitle>Howsam personal photographs</unittitle>
+                  <container id="aspace_099668af3b66e31ac243adf170d87bfd" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_3c6" level="file">
+               <did>
+                  <unittitle>Progressive photographs, 1917-1918</unittitle>
+                  <container id="aspace_d33c1bffdee6ce2bea3d9910ff472eab" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_sam" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force, B.C.A.T.P. Gates Ceremony, 1949,
+                     Sept.</unittitle>
+                  <container id="aspace_894303cdac94c307b1aeb8bbb02d84ba" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_c4v" level="file">
+               <did>
+                  <unittitle>“Photographic Operation of the Belcher Islands,”1932</unittitle>
+                  <container id="aspace_ce6a369e72d2aca9f5b46f1d485a365a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_rbs" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Some Continental Flying Boats,</title>
+                     1930</unittitle>
+                  <container id="aspace_b8cf8e7d943c8f8ac69759f719be3d27" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref38_o38" level="series">
+            <did>
+               <unittitle>Printed Material Series, 1923-1981 (bulk1930, 1958-1960).</unittitle>
+            </did>
+            <scopecontent id="aspace_f90aff5fa1f9f52dd9852d4159b1b780">
+               <head>Scope and Contents note</head>
+               <p>Includes Alberta Civil Defence reports, published texts, Royal Canadian College
+                  course lectures and training manuals, and serials.</p>
+            </scopecontent>
+            <arrangement id="aspace_c8837600b7351117036401ecfea40b8d">
+               <head>Arrangement note</head>
+               <p>Arranged by topic, then chronologically.</p>
+            </arrangement>
+            <c02 id="aspace_ref39_o8q" level="file">
+               <did>
+                  <unittitle>Alberta Civil Defence, Reports,1923, 1951-1960</unittitle>
+                  <physdesc id="aspace_cfdd451f79ff194fee53a279c691c870">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_624a9d22c9dcf01173e1a0167ca88976" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_2q7" level="file">
+               <did>
+                  <unittitle>Minutes of Meetings, 1942-1945</unittitle>
+                  <container id="aspace_e957e4e4fa5f4c336b23b332050c857c" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_ekb" level="file">
+               <did>
+                  <unittitle>Published, <title render="doublequote">Canadian War Museum Papers No.
+                        2,</title> 1972-1981, undated</unittitle>
+                  <container id="aspace_7972d9883a069e67d20ac4d8f0eec651" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_lul" level="file">
+               <did>
+                  <unittitle>Published, <title render="doublequote">Spitfire-The Story Of A Famous
+                        Fighter,</title> 1961</unittitle>
+                  <container id="aspace_3374644480267eb9c14361370960ea35" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_e45" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force, Photocopied documents, 1918-1919</unittitle>
+                  <container id="aspace_767755fdecf2cbae9f07f318ae93237d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_iws" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force Staff College, course lectures,
+                     1928-1930</unittitle>
+                  <physdesc id="aspace_49c7711db805e55b778f9023a7cba0cd">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d9804fcf8af588754cd1c89d8dfb4000" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_715" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force Staff College, training manuals,1924, 1934
+                     1938-1939</unittitle>
+                  <physdesc id="aspace_a4b3a361efbd8fb102d1f8ca5a13bacd">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_6293b00583a05a82a9225eb8a8a40085" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_iz5" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force Staff College, training manuals, <title
+                        render="doublequote"> Defence Forces List,</title> 1934</unittitle>
+                  <container id="aspace_a2cc2b778c4accfa04ff3aabbad03617" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_1l5" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force Staff College, training
+                     manuals,1938</unittitle>
+                  <container id="aspace_816b29821ce7a7591086ede1dcddfd21" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_j7x" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force Staff College, training manuals, <title
+                        render="doublequote"> The British Commonwealth Air Training Plan,</title>
+                     1939</unittitle>
+                  <container id="aspace_e1d86bbf8e7ff9976d0ce53393396235" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_3sj" level="file">
+               <did>
+                  <unittitle>Royal Canadian Air Force Staff College, training manuals,
+                     1943-1944</unittitle>
+                  <container id="aspace_addc9ec38b4718b733662a8e06a57bf5" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_zvm" level="file">
+               <did>
+                  <unittitle>Serials: <title render="italic">Air Force Officers' Association of
+                        Vancouver Island, </title> 1957-1971</unittitle>
+                  <container id="aspace_b2377ba9367316705d05500db2d5b590" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_83w" level="file">
+               <did>
+                  <unittitle>Serials:</unittitle>
+               </did>
+               <c03 id="aspace_ref55_1cx" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Circular,</title> 1951-1961</unittitle>
+                     <container id="aspace_327624da457174d83761a4a0ebdfa845" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref56_eyl" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Royal Canadian Air Force List,</title>
+                        1945</unittitle>
+                     <container id="aspace_6a65cc7cb285a3798a28454cfa2edd8a" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_yjz" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Wings,</title> 1941-1974</unittitle>
+                     <container id="aspace_cda5a78a4b86c59c00a8686a7bb977bb" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref60_oyt" level="series">
+            <did>
+               <unittitle>Writings and Speeches Series, 1935-1979</unittitle>
+            </did>
+            <scopecontent id="aspace_ff3a65b75556c838cd5e17bf463f2fd6">
+               <head>Scope and Contents note</head>
+               <p>Contains written speeches that Howsam gave while a member of the Royal Canadian
+                  Air Force. Also included are cassette recordings of Howsam giving interviews.</p>
+            </scopecontent>
+            <c02 id="aspace_ref61_mlj" level="file">
+               <did>
+                  <unittitle>Interviews, cassette recordings, 1971-1972, 1977-1979</unittitle>
+                  <physdesc id="aspace_a06010f2c1090cf584aff2e9f4376757">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7041b0278f3688389f8df44cea654285" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_qw7" level="file">
+               <did>
+                  <unittitle>Speeches: Howsam, 1935-1969</unittitle>
+                  <physdesc id="aspace_381e8ecd00eb82057ac937d5d1e44bea">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_22a5e50d3bd0b8ce517de417485cbbdd" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_0gy" level="file">
+               <did>
+                  <unittitle>Speeches: Howsam, notebook, 1940-1942, 1948-1953</unittitle>
+                  <physdesc id="aspace_ea262fe03c8a9ede0e8e69bf72dad72e">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8e406b2aa12922eaf6073938da61ed3a" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_a9l" level="file">
+               <did>
+                  <unittitle>Speeches, miscellaneous, 1959-1967</unittitle>
+                  <container id="aspace_a11396d0b2ebf581d8d0e83101774e55" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref69_z38" level="series">
+            <did>
+               <unittitle>Clippings Series, 1942-1961, undated (bulk 1958-1961).</unittitle>
+            </did>
+            <scopecontent id="aspace_150ed952d96d57b87b493bd9a8798bcf">
+               <head>Scope and Contents note</head>
+               <p>Consists of four folders of photocopied clippings.</p>
+            </scopecontent>
+            <c02 id="aspace_ref70_i67" level="file">
+               <did>
+                  <unittitle>Calgary Civil Defence, 1958</unittitle>
+                  <container id="aspace_212966dfd0462382335569be14af34c5" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_5oe" level="file">
+               <did>
+                  <unittitle>Nuclear War, 1959-1961, undated</unittitle>
+                  <container id="aspace_96c767ca391a36b6bf86bbfa05e3e1ce" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_1s0" level="file">
+               <did>
+                  <unittitle>World War II, 1942-1946, undated</unittitle>
+                  <container id="aspace_a75d1d05d9f2a16b46d966a8ce616863" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_8aj" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1962-1967</unittitle>
+                  <container id="aspace_b98cad29c1b516ab73ddbef710c0657a" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref75_6c2" level="series">
+            <did>
+               <unittitle>Miscellaneous Series, 1945-1967 (bulk 1964-1967).</unittitle>
+            </did>
+            <scopecontent id="aspace_3a6da4dc4b205c5c1813bc61a3634521">
+               <head>Scope and Contents note</head>
+               <p>Includes one scrapbook, <title type="simple" render="doublequote">Americana and
+                     Canadiana,</title> personnel evaluations, and road maps.</p>
+            </scopecontent>
+            <c02 id="aspace_ref76_4lt" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1930-1945, 1964-1965</unittitle>
+                  <physdesc id="aspace_164d6169009fcd739c5e56ab3012b8dd">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7884f775bc8e90ce271717017088dcd2" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_tkd" level="file">
+               <did>
+                  <unittitle>Miscellaneous: Scrapbook, <title render="doublequote">Americana and
+                        Canadiana,</title> 1964-1967</unittitle>
+                  <container id="aspace_052ef4d7f690421626ab75d3490b4b91" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref80_9zp" level="series">
+            <did>
+               <unittitle>OVERSIZE MATERIALS</unittitle>
+            </did>
+            <c02 id="aspace_ref81_1km" level="file">
+               <did>
+                  <unittitle>PRINTED MATERIAL SERIES</unittitle>
+               </did>
+               <c03 id="aspace_ref82_yhd" level="file">
+                  <did>
+                     <unittitle>Royal Air Force, photocopied documents,
+                        1918-1919,Restricted</unittitle>
+                     <container id="aspace_f89ff01e038015c0daca53af41002007" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref83_ygd" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Wings,</title> 1941-1974</unittitle>
+                     <container id="aspace_b080d4fa573edb47ffaa1d00dc9c51ed" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_446" level="file">
+                  <did>
+                     <unittitle>Serials, miscellaneous, 1941-1943</unittitle>
+                     <container id="aspace_9611444dd372551fb883b236c0c05f2b" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref85_8g0" level="file">
+                  <did>
+                     <unittitle>Maps, Royal Automobile Club, undated</unittitle>
+                     <container id="aspace_f89d4e797882ba30ba0f7adc9bfd05cf" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref86_zrq" level="file">
+               <did>
+                  <unittitle>CLIPPINGS SERIES</unittitle>
+               </did>
+               <c03 id="aspace_ref87_c5s" level="file">
+                  <did>
+                     <unittitle>World War II, 1942-1946, undated</unittitle>
+                     <container id="aspace_0793f5a8575075baf84ae490de1944ce" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref88_37m" level="file">
+               <did>
+                  <unittitle>MISCELLANEOUS SERIES</unittitle>
+               </did>
+               <c03 id="aspace_ref89_cp3" level="file">
+                  <did>
+                     <unittitle>Scrapbook, Americana and Canadiana, 1964-1967</unittitle>
+                     <container id="aspace_7721337395d1db819648b11512bb8f84" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

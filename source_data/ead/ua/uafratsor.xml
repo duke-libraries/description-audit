@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/uafratsor/">uafratsor</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Fraternities and Sororities collection, 1931-2001
+                  <num>UA.01.11.0087</num>
+            </titleproper>
+            <author>Processed by: Emily Glenn ; machine-readable finding aid created by: Emily
+               Glenn</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2003.</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003205746</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2016-09-15 11:34:56
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Fraternities and Sororities collection</unittitle>
+         <origination label="creator">
+            <corpname source="naf">Duke University. University Archives</corpname>
+         </origination>
+         <unitid>UA.01.11.0087</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">5.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1931/2001" type="inclusive">1931-2001</unitdate>
+         <abstract id="aspace_7f490775ab0ece5011fda5a120193de9">This artificial reference collection
+            contains materials from student service and social fraternities and sororities of
+            Trinity College and Duke University from about 1931 to 2001. Types of materials include
+            profiles, handbooks, correspondence, clippings, flyers, newsletters, composite
+            photographs, and miscellaneous writings relating to student life in Greek letter
+            societies at Duke University. General topics include rush, alcohol policies, hazing,
+            critiques of the Greek system, and chapter establishment and governance.
+            English.</abstract>
+         <langmaterial id="aspace_115ec77aa64de2238cd65396f1560a2f">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_903cae28dbad0809e24d5e04242f24d8">
+         <head>Access Restrictions</head>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict id="aspace_91df05e0a305c6789ee05cf5e41d29ba">
+         <head>Use Restrictions</head>
+         <p>Copyright for Official University records is held by Duke University; all other
+            copyright is retained by the authors of items in these papers, or their descendants, as
+            stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite id="aspace_ab4ca77e6f76ef2f5d808a4449910f07">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Fraternities and Sororities Collection, Duke University
+            Archives, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_0e92c534abfb20aa3b37f78b59f3f520">
+         <head>Provenance</head>
+         <p>Compiled files from University Archives collections; 1980 (accession number: 80-83).</p>
+         <p>Gift; 1980; 80-183.</p>
+         <p>Transfer; 1988; A88-0053.</p>
+         <p>Gift; 1989; A89-0047.</p>
+         <p>Gift; 1991; A91-11.</p>
+         <p>Gift; 1994; A94-9.</p>
+      </acqinfo>
+      <processinfo id="aspace_08e8eb574f058d663c1b0451e7a220f4">
+         <head>Processing Information</head>
+         <p>Processed by Emily Glenn </p>
+         <p>Completed November, 2002.</p>
+         <p>Encoded by Emily Glenn, March 2003</p>
+         <p>Updated by Molly Bragg, July 2011</p>
+         <p>Accession UA2015-0005 added by Tracy M. Jackson, September 2016.</p>
+      </processinfo>
+      <bioghist id="aspace_3f765b966efe1f49cb82357a29ccfcef">
+         <head>Historical Note</head>
+         <p>Fraternities and sororities have historically been a large part of campus life at Duke
+            University by sponsoring inter-campus events, hosting parties, and performing community
+            service. They are known for providing leadership opportunities and fostering a sense of
+            belonging among a large student body. The first fraternities and sororities on campus
+            were a part of Trinity College (1859-1924), the precursor to Duke University. The
+            earliest fraternity chapter on campus was the Xi Chapter of Alpha Tau Omega, chartered
+            in 1872 (at Trinity College, then located in Randolph County, N.C.). The earliest
+            sorority chapter on campus (then Trinity College) was the Omicron Chapter of Alpha Delta
+            Pi, chartered in 1911. </p>
+         <p>Fraternities and sororities at Duke are governed by the Interfraternity Council, the
+            National Pan-Hellenic Council, and the Panhellenic Association. There also exist
+            cultural Greek letter organizations which are not formally governed. The Interfraternity
+            Council at Duke University is the local umbrella organization for national fraternities
+            at Duke University. The National Pan-Hellenic Council serves as the governing body for
+            historically African American fraternities and sororities at Duke University. The Duke
+            Panhellenic Association is the organizing body of the National Panhellenic Council
+            sororities on campus. </p>
+      </bioghist>
+      <scopecontent id="aspace_ce536b2732f0eb3e883b7b4c4e7e4588">
+         <head>Collection Overview</head>
+         <p>This artificial reference collection contains profiles, handbooks, correspondence,
+            clippings, flyers, newsletters, composite photographs, and miscellaneous writings
+            pertaining to fraternities and sororities at Duke University. Materials range in date
+            from 1931-2001.</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_c8804436ad053f819e406e71de5d43f8">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle>Interfraternity Council records.</unittitle>
+               <repository>University Archives, Duke University. </repository>
+            </archref>
+            <archref>
+               <unittitle>Panhellenic Council records.</unittitle>
+               <repository>University Archives, Duke University. </repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Hazing</subject>
+         <subject source="lcsh">Greek letter societies -- North Carolina -- Durham</subject>
+         <subject source="lcsh">Initiations (into trades, societies, etc.)</subject>
+         <subject source="lcsh">Greek letter societies</subject>
+         <subject source="lcsh">College students -- Alcohol use -- North Carolina --
+            Durham</subject>
+         <corpname source="ingest">Duke University -- Students -- Societies, etc.</corpname>
+         <corpname source="ingest">Duke University -- Societies, etc.</corpname>
+         <corpname source="naf">Duke University. University Archives</corpname>
+         <corpname source="ingest">Duke University</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_6ku" level="series">
+            <did>
+               <unittitle>Greek life at Duke University, general subject files,
+                  1952-1989.</unittitle>
+            </did>
+            <scopecontent id="aspace_85fb072aa40b7f44626a3a2dd036492e">
+               <head>Scope and Contents note</head>
+               <p>Includes clippings, rush handbooks, general flyers, a history of fraternity
+                  housing locations, and student evaluations of sororities. Also contains
+                  correspondence between fraternities, sororities, and Duke University regarding
+                  campus policies.</p>
+            </scopecontent>
+            <c02 id="aspace_ref13_sgs" level="file">
+               <did>
+                  <unittitle>Big Brother/Sister (IFC-Panhel) Program, 1978</unittitle>
+                  <container id="aspace_00e409db9c58cf2dc379903dc65a05b0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref14_gdu" level="file">
+               <did>
+                  <unittitle>Chapter establishment, general</unittitle>
+                  <container id="aspace_cf327911eb456e5cacd1eae6f3682880" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_gto" level="file">
+               <did>
+                  <unittitle>Clippings, 1975-2001, undated</unittitle>
+                  <container id="aspace_a5808606568846fc6dba44b68558f953" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_cri" level="file">
+               <did>
+                  <unittitle>Evaluations of sororities</unittitle>
+                  <container id="aspace_df9608fdebb838e505b23930bf8303e8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_6jb" level="file">
+               <did>
+                  <unittitle>Flyers</unittitle>
+                  <container id="aspace_ee98706270dc91a443ad68ac5412e719" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_yjx" level="file">
+               <did>
+                  <unittitle>Greek Week</unittitle>
+                  <container id="aspace_ddcd70327d7e3522295843dec1fbca05" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_7ni" level="file">
+               <did>
+                  <unittitle>Handbooks, 1952-1964</unittitle>
+                  <container id="aspace_1d4983a88d9dc4a379e1be29373a9cd6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_kml" level="file">
+               <did>
+                  <unittitle>Handbooks, 1966-1989</unittitle>
+                  <container id="aspace_68ab3442549638ecfe1ff087ae493e1b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_xqr" level="file">
+               <did>
+                  <unittitle>Hazing</unittitle>
+                  <container id="aspace_51dbd3b4af0b4d0026486cc036471f8d" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_hu5" level="file">
+               <did>
+                  <unittitle>Housing</unittitle>
+                  <container id="aspace_ae8bc40fd21f1b831da047f752566f06" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_idk" level="file">
+               <did>
+                  <unittitle>InterFraternity Council, 1968-1984</unittitle>
+                  <container id="aspace_600e880173be37b7ac1f14b591ee5f84" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_rzi" level="file">
+               <did>
+                  <unittitle>Panhellenic Council, general</unittitle>
+                  <container id="aspace_26cdf2361b32e853a36f80473842cf44" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref26_at1" level="series">
+            <did>
+               <unittitle>Fraternities and Sororities, 1923-1998.</unittitle>
+            </did>
+            <scopecontent id="aspace_9c859fcd0df3cb1f50a9c03898c23e0e">
+               <head>Scope and Contents note</head>
+               <p>Includes small collections of material from and about individual fraternities and
+                  sororities. Collections include clippings, flyers, membership lists, business
+                  meeting notes, newsletters, and pledge books. Also contains correspondence between
+                  sororities, fraternities, and their governing bodies.</p>
+            </scopecontent>
+            <arrangement id="aspace_0492de6e431c5a18dd40ca5a9e2d3961">
+               <head>Arrangement note</head>
+               <p>Ordered alphabetically by group name.</p>
+            </arrangement>
+            <c02 id="aspace_ref27_8fi" level="file">
+               <did>
+                  <unittitle>Alpha Epsilon Phi</unittitle>
+                  <container id="aspace_9f140e2d91d8f468567d85da3b1b38a1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_hq6" level="file">
+               <did>
+                  <unittitle>Alpha Chi Omega</unittitle>
+                  <container id="aspace_5e79f9eb578f02944af4ac799a3f97f0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_9m0" level="file">
+               <did>
+                  <unittitle>Alpha Kappa Alpha</unittitle>
+                  <container id="aspace_ed35367b81b629cda17fc23b25f8ebb3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_snn" level="file">
+               <did>
+                  <unittitle>Alpha Omicron Pi</unittitle>
+                  <container id="aspace_b9a52a3b18968f1d3e6df4e7d1f81d27" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_l13" level="file">
+               <did>
+                  <unittitle>Alpha Phi</unittitle>
+                  <container id="aspace_2ffc1d7547b4b4d973800c5db668073b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_ons" level="file">
+               <did>
+                  <unittitle>Alpha Phi Omega</unittitle>
+                  <container id="aspace_c25b45365281340fac0943f60bb4e470" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_3lf" level="file">
+               <did>
+                  <unittitle>Alpha Phi Alpha</unittitle>
+                  <container id="aspace_d8e5dba17fb0deb1799adfa50856fc0f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_vv3" level="file">
+               <did>
+                  <unittitle>Alpha Tau Omega</unittitle>
+                  <container id="aspace_8dfb91af94c29df74b3936b64891e784" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_jz6" level="file">
+               <did>
+                  <unittitle>Beta Phi Zeta</unittitle>
+                  <container id="aspace_404904e6c3af956a67a3df7873ff8ab3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_5mw" level="file">
+               <did>
+                  <unittitle>Beta Theta Pi</unittitle>
+                  <container id="aspace_500da9a8e5106aef058d24d9282fd51a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_dsq" level="file">
+               <did>
+                  <unittitle>Chi Delta Phi</unittitle>
+                  <container id="aspace_e3d224592321e5351189e586d8596db1" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_p0k" level="file">
+               <did>
+                  <unittitle>Chi Epsilon</unittitle>
+                  <container id="aspace_5c81231239151bbdd83b3e3cc37cf8c4" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_lko" level="file">
+               <did>
+                  <unittitle>Chi Phi</unittitle>
+                  <container id="aspace_4f2c69ecd3bcc13a1ee0a51a3f575466" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_vel" level="file">
+               <did>
+                  <unittitle>Chi Tau</unittitle>
+                  <container id="aspace_6dd3116acbc84aca6eda5ff4191735d6" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_jrc" level="file">
+               <did>
+                  <unittitle>Delta Delta Delta</unittitle>
+                  <container id="aspace_a99a624f78501905323a74a18803d119" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_94a55fd9d5e16ec35cf40933ae516069" level="file">
+               <did>
+                  <unittitle>Delta Gamma</unittitle>
+                  <unitdate type="inclusive">2014</unitdate>
+                  <container id="aspace_117999e41c9232b1f27c129d4e0561dd" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+               <scopecontent id="aspace_39ff952805d2f036fbdbf2df717a70fe">
+                  <head>Scope and Contents</head>
+                  <p>Three tri-fold table stands with information about the sorority, and one
+                     program from the 75th anniversary event in 2014.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref42_qvl" level="file">
+               <did>
+                  <unittitle>Delta Kappa Epsilon</unittitle>
+                  <container id="aspace_9714e8a1bd23f107a4a504edbaa3d06b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_xrq" level="file">
+               <did>
+                  <unittitle>Delta Sigma Phi</unittitle>
+                  <container id="aspace_1e65093a7c583d6c6428c02cb2e68a40" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_8pv" level="file">
+               <did>
+                  <unittitle>Delta Sigma Theta</unittitle>
+                  <container id="aspace_45e510c30726aa17cd7be7af82749562" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_gh6" level="file">
+               <did>
+                  <unittitle>Delta Tau Delta</unittitle>
+                  <container id="aspace_c2922fe7acb1f3760aa6e61824654ef3" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_zz9" level="file">
+               <did>
+                  <unittitle>Kappa Alpha Order</unittitle>
+                  <container id="aspace_17de96fdb14dc734d425aa43dba3150e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_4mv" level="file">
+               <did>
+                  <unittitle>Kappa Alpha Psi</unittitle>
+                  <container id="aspace_bd8e4fd6efca860298e3e0eef01187d4" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_0ir" level="file">
+               <did>
+                  <unittitle>Kappa Kappa Gamma</unittitle>
+                  <container id="aspace_5b6aa0e24c24585f55e5e804d5d216ab" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_i5j" level="file">
+               <did>
+                  <unittitle>Kappa Sigma</unittitle>
+                  <container id="aspace_2a240861c31453dd5ffd38419c09e6a9" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_r3m" level="file">
+               <did>
+                  <unittitle>Lambda Chi Alpha</unittitle>
+                  <container id="aspace_dfb8cd88d4dc225518b62bc4787b398e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_wzf" level="file">
+               <did>
+                  <unittitle>Latinas Promoviendo Comunidad, Lambda Pi Chi</unittitle>
+                  <container id="aspace_606817bee391dd876a3cb646486ff310" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_0jm" level="file">
+               <did>
+                  <unittitle>La Unidad Latina, Lambda Upsilon Lambda</unittitle>
+                  <container id="aspace_2ff07307624d500c72a65e8d6c0eb5c4" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_hsh" level="file">
+               <did>
+                  <unittitle>Mu Lambda</unittitle>
+                  <container id="aspace_124064cd31c0fe06b9131e73de3b4983" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_bjx" level="file">
+               <did>
+                  <unittitle>Omega Psi Phi</unittitle>
+                  <container id="aspace_f5b2616fa2f6ae6bc83b446ef52f6e80" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_djb" level="file">
+               <did>
+                  <unittitle>Phi Delta Theta</unittitle>
+                  <container id="aspace_06822dcfc0490de0473c04471e397f50" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_2zu" level="file">
+               <did>
+                  <unittitle>Phi Kappa Psi</unittitle>
+                  <container id="aspace_6cfa4efe18093a8523d53371afe8e7fc" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_cvp" level="file">
+               <did>
+                  <unittitle>Phi Kappa Sigma, 1959-1979</unittitle>
+                  <container id="aspace_7ea3965aba184d10815f89b2ab3311f1" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_86o" level="file">
+               <did>
+                  <unittitle>Phi Kappa Sigma, 1992-1998</unittitle>
+                  <container id="aspace_ed263d1425eae463e05eec79cbeea480" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_d38" level="file">
+               <did>
+                  <unittitle>Phi Mu</unittitle>
+                  <container id="aspace_b8b8459b8fe4d4cb8bd5824401cf4b1b" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_edc" level="file">
+               <did>
+                  <unittitle>Pi Beta Phi</unittitle>
+                  <container id="aspace_d7ad691248215e8cf951600a485cac48" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_fbt" level="file">
+               <did>
+                  <unittitle>Pi Gamma Nu</unittitle>
+                  <container id="aspace_0f919827ee360d47592e8b088878acfc" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_g11" level="file">
+               <did>
+                  <unittitle>Pi Kappa Alpha</unittitle>
+                  <container id="aspace_3bda9292663cdb073c8ace3b1eca1997" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_y81" level="file">
+               <did>
+                  <unittitle>Pi Kappa Phi</unittitle>
+                  <container id="aspace_9cc2b305f394f40e6359e1ebca5aeffb" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_e1t" level="file">
+               <did>
+                  <unittitle>Psi Upsilon</unittitle>
+                  <container id="aspace_9c7020c702097ee8eb66101a7cb4c72a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_nra" level="file">
+               <did>
+                  <unittitle>Phi Kappa Sigma (2 folders)</unittitle>
+                  <container id="aspace_be78907bb044dac2da7b29eaf474b58b" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_2pc" level="file">
+               <did>
+                  <unittitle>Phy Kappa Sigma Newsletter</unittitle>
+                  <container id="aspace_68f2b81a130ee7c2a3b1eded125f043c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_2nb" level="file">
+               <did>
+                  <unittitle>Sigma Alpha Epsilon</unittitle>
+                  <container id="aspace_751938b049ddd3f4a5e941f761f60e83" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_4cs" level="file">
+               <did>
+                  <unittitle>Sigma Chi, 1966-1967</unittitle>
+                  <container id="aspace_f230e631bfaf0ae648272a7e308771f3" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_sif" level="file">
+               <did>
+                  <unittitle>Sigma Chi, 1923-1965</unittitle>
+                  <container id="aspace_490065deb75210ae3ef949adcfa2b471" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_j17" level="file">
+               <did>
+                  <unittitle>Sigma Gamma</unittitle>
+                  <container id="aspace_e4fa7c16be32085c685c2f6bb45c8db7" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_mng" level="file">
+               <did>
+                  <unittitle>Sigma Gamma Rho</unittitle>
+                  <container id="aspace_05d64cd3d5b73718cec0149d6dbdd24f" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_qzq" level="file">
+               <did>
+                  <unittitle>Sigma Nu</unittitle>
+                  <container id="aspace_66ef38d228b42c854d6f8f18e4635a70" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_rey" level="file">
+               <did>
+                  <unittitle>Sigma Chi, 1923-1965</unittitle>
+                  <container id="aspace_91cf5cb30888cacecc107632610ef588" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_ay4" level="file">
+               <did>
+                  <unittitle>Sigma Chi, 1966-1967</unittitle>
+                  <container id="aspace_2bb97bc794ea1e78013d346202f7bad9" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_eo8" level="file">
+               <did>
+                  <unittitle>Sigma Gamma</unittitle>
+                  <container id="aspace_3305ff3e1c13c8972427047d5145b183" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_rwl" level="file">
+               <did>
+                  <unittitle>Sigma Gamma Rho</unittitle>
+                  <container id="aspace_e9967d5e50604a452ec8590b674314ff" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_ppz" level="file">
+               <did>
+                  <unittitle>Sigma Nu (3 folders)</unittitle>
+                  <container id="aspace_21c21185970ed9e05a3cc6b03da713a8" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_uif" level="file">
+               <did>
+                  <unittitle>Sigma Phi Epsilon</unittitle>
+                  <container id="aspace_4677c3e39e515589af71d190d3ebf7d1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_l4t" level="file">
+               <did>
+                  <unittitle>Theta Beta Sigma</unittitle>
+                  <container id="aspace_dfc105ff8ad2fcf23bd5771ea5361fe9" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_80i" level="file">
+               <did>
+                  <unittitle>Theta Chi</unittitle>
+                  <container id="aspace_852532899bf50c30482d1e08209b3af4" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_7uz" level="file">
+               <did>
+                  <unittitle>Theta Nu Xi</unittitle>
+                  <container id="aspace_4911346713c6fe21e3e7c80b11350786" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_bo3" level="file">
+               <did>
+                  <unittitle>Zeta Beta Tau, 1935-1956</unittitle>
+                  <container id="aspace_30b2b059d56cabdb13201f79fceb78cb" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_0bv" level="file">
+               <did>
+                  <unittitle>Zeta Beta Tau, 1968</unittitle>
+                  <container id="aspace_4985e93cf2ecffcf5877c6ae1925df7b" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_cyu" level="file">
+               <did>
+                  <unittitle>Zeta Tau Alpha</unittitle>
+                  <container id="aspace_7d246fbdde668479ff71e0997bf90f04" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref87_psr" level="series">
+            <did>
+               <unittitle>Composite photographs, 1973-1993.</unittitle>
+            </did>
+            <scopecontent id="aspace_56f8dac302802280c3836ac4a4614635">
+               <head>Scope and Contents note</head>
+               <p>Contains composite photographs of fraternity and sorority members (mostly
+                  fraternity groups).</p>
+            </scopecontent>
+            <arrangement id="aspace_c98f8760dd89f28a04c9d5817eb9e74a">
+               <head>Arrangement note</head>
+               <p>Ordered by date.</p>
+            </arrangement>
+            <c02 id="aspace_ref88_owg" level="file">
+               <did>
+                  <unittitle>Composite photographs</unittitle>
+                  <unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate>
+                  <container id="aspace_ee03c30d8446d23dc73a76a006230c76" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_won" level="file">
+               <did>
+                  <unittitle>Composite photographs</unittitle>
+                  <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+                  <container id="aspace_9d9f03c44fc198b91a2b629a0c328ad2" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_iyo" level="file">
+               <did>
+                  <unittitle>Composite photographs</unittitle>
+                  <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+                  <container id="aspace_37a02f93fbb7aaf1879ae2a7e5c0ae6e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_vwc" level="file">
+               <did>
+                  <unittitle>Composite photographs</unittitle>
+                  <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+                  <container id="aspace_36aec89cb5c6b88df3d8248bd8268165" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_haf" level="file">
+               <did>
+                  <unittitle>Composite photographs</unittitle>
+                  <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+                  <container id="aspace_81b4531dd1b1d510a056304d65acb9d0" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_csh" level="file">
+               <did>
+                  <unittitle>Composite photographs</unittitle>
+                  <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+                  <container id="aspace_e4f62de453a4d0631519008b875cf6ef" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_art" level="file">
+               <did>
+                  <unittitle>Composite photographs</unittitle>
+                  <unitdate normal="1987/1993" type="inclusive">1987-1993</unitdate>
+                  <container id="aspace_c045aea7fca066d4370d5b91d1e38396" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_q1l" level="file">
+               <did>
+                  <unittitle>Psi Epsilon</unittitle>
+                  <unitdate normal="1973/1979" type="inclusive">1973-1979</unitdate>
+                  <container id="aspace_fc5780e6198673c0681d3a43ac9bba6c" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

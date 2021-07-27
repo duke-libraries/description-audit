@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/uakramer/">uakramer</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Paul Jackson Kramer Papers, 1856 - 1994 (bulk 1927-1974)
+                  <num>UA.29.02.0040</num>
+            </titleproper>
+            <author>Processed by: Linda Daniel; machine-readable finding aid created by: Linda
+               Daniel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2004</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003309402</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-05-25 12:10:52
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Paul Jackson Kramer papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Kramer, Paul Jackson, 1904-</persname>
+         </origination>
+         <unitid>UA.29.02.0040</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1856/1994" type="inclusive">1856 - 1994 (bulk 1927-1974)</unitdate>
+         <physloc id="aspace_c075a3e32a23bd46187c1ed99826198e">For current information on the
+            location of these materials, please consult University Archives, Duke
+            University.</physloc>
+         <abstract id="aspace_40f6c0d870696d98a67839c84b9c6068">Paul Jackson Kramer, a world
+            renowned educator, scientist and author, was professor of botany at Duke University from
+            1931-1995. The Paul J. Kramer Papers reflects Kramer's career as a university professor
+            and plant physiologist, his participation in various scientific and learned societies
+            including his service within the National Science Foundation and on the U.S. Air Force's
+            Committee on the Disposal of Herbicide Orange, and his involvement in the development of
+            the Botany Dept., the Phytotron, and Duke University. Materials include correspondence,
+            reports, writings and addresses, memoranda, research and teaching material, photographs,
+            and printed matter. Major subjects include Kramer's contributions in the field of
+            botany, particularly plant-water relationships, the physiology of forest trees, and
+            botanical research in controlled environments. English.</abstract>
+         <physdesc id="aspace_85bd274fab259fecdb960d48aafc67f9">
+            <extent>12000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_81f1c9f3dadb5137f9c4df9c10a70149">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_2905be7df10575d6bc8094f515542cb4">
+         <head>Access Restrictions</head>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>In accordance with the Family Education Rights and Privacy Act of 1974 as amended, Duke
+            University permits students to inspect their education records and limits the disclosure
+            of personally identifiable information from education records. </p>
+         <p>In off-site storage; 48 hours advance notice is required for use. </p>
+         <p>Box 7 is closed pending processing.</p>
+         <p>The folder entitled <title type="simple" render="doublequote">Named
+               Professorships</title> is restricted by donor request.</p>
+      </accessrestrict>
+      <userestrict id="aspace_e20a1dca5f0237d82d05091416cbc920">
+         <head>Use Restrictions</head>
+         <p>Copyright for Official University records is held by Duke University; all other
+            copyright is retained by the authors of items in these papers, or their descendants, as
+            stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite id="aspace_780fed3ac1d9775cea2c40cf23cf0374">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Paul Jackson Kramer Papers, Duke University Archives, David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_19d5eeff1219d45fd0e66772a6fac09c">
+         <head>Provenance</head>
+         <p>The Paul Jackson Kramer Papers were received by the University Archives as a transfer in
+            1962 (A62-629), 1967 (A67-77), 1974 (A74-117), 1981 (A81-7), 1995 (A95-68) and
+            (A95-90).</p>
+      </acqinfo>
+      <processinfo id="aspace_1fe5ad4ce03fa91f102c176d67c85e4b">
+         <head>Processing Information</head>
+         <p>Processed by Linda Daniel</p>
+         <p>Completed February, 2004</p>
+         <p>Encoded by Linda Daniel, February 2004</p>
+         <p>Updated by Sherrie Bowser, May 2007</p>
+      </processinfo>
+      <bioghist id="aspace_98271cf89ce108e3cdd9fdcd1dd41bf3">
+         <head>Biographical Note</head>
+         <p>Paul Jackson Kramer was a world renowned educator, scientist and author. Born 8 May 1904
+            in Brookville, Ind., educated at Miami University in Ohio (A.B., 1926) and Ohio State
+            University (M.Sc., 1929 and Ph.D, 1931), Kramer was appointed to the Duke University
+            faculty in 1931, and promoted to Professor of Botany in 1945. Kramer was named James B.
+            Duke Professor of Botany in 1954 and became James B. Duke Professor Emeritus in 1974.
+            Other appointments included Director of the Sarah P. Duke Gardens, Duke University,
+            1945-c.1974, and Program Director in Regulatory Biology, National Science Foundation,
+            1960-1961. Kramer served as president for the following professional societies: American
+            Society of Plant Physiologists, 1945; North Carolina Academy of Science, 1961-1962;
+            Botanical Society of America, 1964; and American Institute of Biological Sciences, 1964.
+            He served as Chair, Phytotron Board of Duke University and North Carolina State
+            University, 1962-1976. Honors and awards received include National Academy of Sciences,
+            1962; American Academy of Arts and Sciences, 1963; American Philosophical Society, 1971;
+            and the American Institute of Biological Sciences Distinguished Services Award, 1977, as
+            well as four honorary degrees between 1966 and 1975. Kramer's publications include
+               <title type="simple" render="italic">Plant and Soil Water Relationships</title>.
+            Kramer died 24 May 1995.</p>
+      </bioghist>
+      <scopecontent id="aspace_2a6a6603a65daa778cc7658b9eb8bc12">
+         <head>Collection Overview</head>
+         <p>The Paul Jackson Kramer Papers include correspondence, reports, writings and addresses,
+            memoranda, research and teaching material, photographs, and printed matter. The
+            collection reflects Kramer's career as a university professor and plant physiologist;
+            his participation in various scientific and learned societies, including his service
+            within the National Science Foundation and on the U.S. Air Force's Committee on the
+            Disposal of Herbicide Orange; and his involvement in the development of the Botany
+            Dept., the Phytotron, and Duke University. Kramer's prominence within the international
+            and national scientific communities is attested to throughout the collection. </p>
+         <p>The Correspondence and the Subject Files series document the development of the Botany
+            Department; the phytotron; faculty governance; and the Gross-Edens Affair, an
+            administrative controversy at Duke in 1960. The Correspondence and Subject Files series
+            contain Kramer's correspondence with scientists abroad. The subject files document
+            Kramer's role in a number of scientific organizations, the National Science Foundation,
+            learned societies, and the government. The papers are particularly useful as they
+            provide information on cooperation among plant scientists after World War II and the
+            early history of the American Institute of Biological Sciences (AIBS).</p>
+         <p>A substantial portion of the collection is comprised of correspondence that pertains to
+            Kramer's research, the direction of graduate students, scientific organizations, matters
+            at Duke University, and other subjects.</p>
+         <p>The Research and Teaching Notes series document Kramer's research and teaching and are
+            useful for the study of his contributions in the field of botany, particularly
+            plant-water relationships, the physiology of forest trees, and botanical research in
+            controlled environments. Research notes and materials are principally located in the
+            Research and Teaching Notes series. However, information related to Kramer's research is
+            scattered throughout the collection. The Correspondence series as well as the Subject
+            Files and Research and Teaching Notes series reflect Kramer's role as a teacher.</p>
+         <p>The Photographs series contains pictures of the Botany faculty.</p>
+         <p>A folder list of Boxes 5-11 is available as part of the collection file. Please consult
+            University Archives staff.</p>
+         <p>Box 7 is closed pending processing.</p>
+         <p>The folder entitled <title type="simple" render="doublequote">Named
+               Professorships</title> is restricted by donor request.</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_96b4c650a1dd30fc256fae76558876d2">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle>Department of Botany Records.</unittitle>
+               <repository>University Archives, Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle>A. Hollis Edens Records.</unittitle>
+               <repository>University Archives, Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle>Paul M. Gross Papers.</unittitle>
+               <repository>University Archives, Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle>Sarah P. Duke Gardens Collection.</unittitle>
+               <repository>University Archives, Duke University.</repository>
+            </archref>
+            <archref>
+               <unittitle>Henry J. Oosting Papers.</unittitle>
+               <repository>University Archives, Duke University.</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Forest plants</subject>
+         <subject source="lcsh">Phytotron</subject>
+         <subject source="lcsh">Botany -- Southern States</subject>
+         <subject source="lcsh">Forest ecology</subject>
+         <subject source="lcsh">Botany -- Research</subject>
+         <subject source="lcsh">Botany -- Societies, etc.</subject>
+         <subject source="lcsh">Botany</subject>
+         <subject source="lcsh">Botany -- North Carolina</subject>
+         <subject source="lcsh">Agent Orange</subject>
+         <genreform source="aat">Photographs</genreform>
+         <geogname source="lcsh">Sarah P. Duke Gardens</geogname>
+         <subject source="lcsh">Plant physiology</subject>
+         <subject source="lcsh">Plant-water relationships</subject>
+         <corpname source="ingest">Duke University -- Administration</corpname>
+         <corpname rules="dacs" source="naf">Duke University. Department of Botany</corpname>
+         <persname source="ingest">Kramer, Paul Jackson, 1904-</persname>
+         <corpname source="ingest">National Science Foundation (U.S.)</corpname>
+         <corpname source="ingest">Duke University</corpname>
+         <corpname source="ingest">Duke University -- Faculty</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_7gm" level="series">
+            <did>
+               <unittitle>Correspondence, 1930-1993</unittitle>
+            </did>
+            <scopecontent id="aspace_345e557ce6c0d24585543748ec6c1dcd">
+               <head>Scope and Contents note</head>
+               <p>The main body of the Correspondence Series is arranged chronologically, however a
+                  small number of letters are filed together by correspondent and arranged
+                  alphabetically at the beginning of the series. It appears that Kramer created a
+                  separate set of files for postdoctoral students, and it is these files that are at
+                  the beginning of the series. Comprised of incoming letters and copies of outgoing
+                  letters with graduate students, university administrators, and scientists, the
+                  series reflects the full range of Kramer's professional life. Letters often relate
+                  to research questions, the direction of graduate students, the review of
+                  manuscripts, and matters at Duke University.</p>
+               <p>The very beginnings of Kramer's career are documented in the 1930s correspondence
+                  with Duke University biologists Arthur Sperry Pearse, Hugo L. Blomquist, and Ruth
+                  M. Addoms as well as William Wannamaker, Dean of Duke University. This early
+                  correspondence is particularly interesting as it reflects the correspondents'
+                  views on developing the biology department and Duke University. Beyond Duke, other
+                  notable correspondents from the 1930s and the 1940s include F.W. Went, Henry W.
+                  Popp, J. H. Priestly, Walter Loehwing, Burton E. Livingston, and Charles A. Shull.
+                  Other correspondents during the 1930s include Floyd W. Gail of the University of
+                  Idaho, B.S. Meyer and E.N. Transeau of Ohio State University. Kramer corresponded
+                  with these botanists, his former professors, throughout a substantial part of his
+                  career.</p>
+               <p>In the 1940s, the series contains numerous letters from Kramer's graduate
+                  students. Letters from Kramer's graduate students during the early 1940s provide
+                  perspectives on military life during World War II. John P. Decker and Theodore
+                  Kozlowski were among Kramer's students who corresponded with him during the war.
+                  Other Duke students who corresponded with Kramer include Wilbur Duncan, William K.
+                  Ferrell, Harold E. Young, and Johnson Parker.</p>
+               <p>Notable scientists who corresponded with Kramer during the 1940s and 1950s include
+                  N.A. Maximov, from the U.S.S.R.'s Academy of Sciences, as well as Henry Oosting,
+                  Clifford S. Schopmeyer, Paul Burkholder, William T. Jackson, Herman Wiebe, W.
+                  Dwight Billings, and Kenneth Thimann.</p>
+               <p>Correspondence from the 1960s to the 1990s reflects a number of matters at Duke
+                  including the construction of the phytotron. Douglas M. Knight, R. Taylor Cole,
+                  Henry Hellmers, and George Dutrow are among the Duke University figures with whom
+                  Kramer corresponded. Correspondence with George Dutrow in 1986 includes Kramer's
+                  reflections on the relationship between the Botany Department and the forestry
+                  program at Duke. Scientists who corresponded with Kramer during this period
+                  include William Lopushinsky, F.C. Steward, and a number of international scholars
+                  including Ralph O. Slatyer.</p>
+            </scopecontent>
+            <arrangement id="aspace_e716fc09866f8a538a96884b0023eac3">
+               <head>Arrangement note</head>
+               <p>The Correspondence Series is arranged in two subseries. The first is arranged
+                  alphabetically by the last name of the correspondent. The second series is
+                  arranged chronologically by date of the correspondence.</p>
+            </arrangement>
+            <c02 id="aspace_ref13_spw" level="subseries">
+               <did>
+                  <unittitle>Names of Correspondents</unittitle>
+               </did>
+               <c03 id="aspace_ref14_ivu" level="file">
+                  <did>
+                     <unittitle>Barrs, Henry D., [1965-1969]</unittitle>
+                     <container id="aspace_fb9a28839dc97d7e5dce14ca07563667" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref15_lv6" level="file">
+                  <did>
+                     <unittitle>Brix, Holger, 1959-1963</unittitle>
+                     <container id="aspace_1ce493993ccb31b2bfd608b8fb214afe" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref16_yyr" level="file">
+                  <did>
+                     <unittitle>Burstrom, Hans, 1958-1959</unittitle>
+                     <container id="aspace_1bc1a69b6a3fb8db457204c5da26efc8" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref17_ce7" level="file">
+                  <did>
+                     <unittitle>Carlson, William, [1986-1990]</unittitle>
+                     <container id="aspace_7ee3f010e10059866a19eb0e3f52b7d7" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref18_17n" level="file">
+                  <did>
+                     <unittitle>Chung, Hsu-Ho, [1978-1979]</unittitle>
+                     <container id="aspace_4aef971b7aef75717847aed5ca521550" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref19_1y6" level="file">
+                  <did>
+                     <unittitle>Decker, John, 1956-1967</unittitle>
+                     <container id="aspace_89ee07dfa3718919c196faa00a991e14" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref20_gxd" level="file">
+                  <did>
+                     <unittitle>Dove, Lewis, 1964-1969</unittitle>
+                     <container id="aspace_9d4eb0578ceca8666e52f620cb94661b" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref21_8jp" level="file">
+                  <did>
+                     <unittitle>Loehwing, Walter F., 1945-1947</unittitle>
+                     <container id="aspace_ec92e8ec126b6ed78d3cb9a513f6da48" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref22_qpr" level="file">
+                  <did>
+                     <unittitle>Knipling, Edward, [1962-1969]</unittitle>
+                     <container id="aspace_6a7ac1b9bc078f967158e30852b8fcec" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref23_6aq" level="file">
+                  <did>
+                     <unittitle>McGregor, W.H.D., [1957-1964]</unittitle>
+                     <container id="aspace_15e18339a3fe559e2f088da1d470e5be" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref24_th7" level="file">
+                  <did>
+                     <unittitle>Miller, Lee, 1962-1967</unittitle>
+                     <container id="aspace_1ebde208ab3f5b8bd3015c14ba445223" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref25_gaz" level="file">
+                  <did>
+                     <unittitle>O'Leary, James, [1961-1974]</unittitle>
+                     <container id="aspace_a70723b383cad387c99c5041504e91bb" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref26_sy5" level="file">
+                  <did>
+                     <unittitle>Pharis, Richard P., 1961-1968</unittitle>
+                     <container id="aspace_9ced1bea29e8d7690b011ef6c481d5f8" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref27_8lg" level="file">
+                  <did>
+                     <unittitle>Queen, W.H., [1962-1972]</unittitle>
+                     <container id="aspace_a4359132f28c1194c84c8d96ce912b81" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref28_ynp" level="file">
+                  <did>
+                     <unittitle>Quraishi, Mohammad 1968-1979</unittitle>
+                     <container id="aspace_db51bd7160dbfc8b41c1e3842e71389a" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref29_sa4" level="subseries">
+                  <did>
+                     <unittitle>Slatyer, Ralph O.</unittitle>
+                  </did>
+                  <c04 id="aspace_ref30_vrq" level="file">
+                     <did>
+                        <unittitle>1957-1968</unittitle>
+                        <container id="aspace_71bbd6b0a52bb3a358163c9cdc82ee57"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref31_3jo" level="file">
+                     <did>
+                        <unittitle>1962-1963</unittitle>
+                        <container id="aspace_35e4d22c8dcba7b27930beca583ca983"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref32_bxu" level="file">
+                     <did>
+                        <unittitle>1963-1966</unittitle>
+                        <container id="aspace_e4feff68c9e5e52a001c58c94a5f53dd"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref33_m0a" level="file">
+                  <did>
+                     <unittitle>Smith, Richard T., 1958-1977</unittitle>
+                     <container id="aspace_336a6c84f076b132bf47f24f0b848b1c" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_m0x" level="file">
+                  <did>
+                     <unittitle>Tal, Moshe, 1964-1967</unittitle>
+                     <container id="aspace_5d06e93b8e587fbd4fe1b2a41645e122" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref35_mqi" level="file">
+                  <did>
+                     <unittitle>Thornthwaite, C.W., 1956-1962</unittitle>
+                     <container id="aspace_48f5c603b9bd6817aad1cf4d80e3dc0b" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_jmd" level="file">
+                  <did>
+                     <unittitle>Verdoorn, Frans, 1942-1949</unittitle>
+                     <container id="aspace_e05ed7df7a1bbda215d7645ae7dcde4a" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_0ka" level="file">
+                  <did>
+                     <unittitle>Yu, Grace Wei-Chi Hu, [1962-1967]</unittitle>
+                     <container id="aspace_ec545764f64ec7206c67bb8a93801128" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref38_565" level="subseries">
+               <did>
+                  <unittitle>Dates of Correspondence</unittitle>
+               </did>
+               <c03 id="aspace_ref39_w2f" level="file">
+                  <did>
+                     <unittitle>Nov. 1930-January 1941</unittitle>
+                     <container id="aspace_37c5fbdf420290ecc6800dc1b915e64a" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_7c0" level="file">
+                  <did>
+                     <unittitle>Feb. 1, 1941-July 1955</unittitle>
+                     <container id="aspace_c2b3d738304c0560f5a827f1a2915b47" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_2b7" level="file">
+                  <did>
+                     <unittitle>Sept. 1955-Dec. 1972</unittitle>
+                     <container id="aspace_98bf0422e079550335eaf2b4f301131c" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_fse" level="file">
+                  <did>
+                     <unittitle>1966-June 1993</unittitle>
+                     <container id="aspace_815ed01fd5ea849208253e91b842e1de" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref45_nnd" level="series">
+            <did>
+               <unittitle>Subject Files, 1856-1994 (bulk 1926-1982)</unittitle>
+            </did>
+            <scopecontent id="aspace_292056aad81ec6550b715eb0a697e089">
+               <head>Scope and Contents note</head>
+               <p>The Subject Files series reflects Kramer's involvement in governance and other
+                  matters at Duke, his government service, and his service in a number of special
+                  committees and scientific societies. It includes memoranda, correspondence,
+                  reports, notes, printed matter, and writings. The materials are arranged
+                  alphabetically by folder.</p>
+               <p>Significant subjects within the materials, related to Duke University, include the
+                  development of phytotron research and the establishment of the Southeastern Plant
+                  Environment Laboratories, the Academic Council and the University Council, the
+                  Gross-Edens affair and the ensuing selection of a new university president. The
+                  documents pertaining to the Gross-Edens affair are particularly significant as
+                  they document Kramer's observations. Other subjects related to Duke University
+                  include early interdisciplinary programs, the Department of Botany and the School
+                  of Forestry, and faculty membership in learned societies. Files pertaining to the
+                  Sarah P. Duke Gardens include letters between Kramer, who served as director of
+                  the Gardens, and Richard Fillmore, assistant director. Also included are letters
+                  from Fillmore to Mary Carbonna, who wrote a history of the Gardens, and memoranda
+                  concerning landscape planning in the Gardens.</p>
+               <p>The principal societies, programs, and special committees that the papers reflect
+                  include the American Institute of Biological Sciences (AIBS), the International
+                  Biological Program and the Committee to Evaluate the International Biological
+                  Program, the National Academy-National Research Council Committee on War-time
+                  Modifications in Biology, the American Society of Plant Physiologists, and the
+                  National Academy of Sciences. Documents related to the AIBS reflect Kramer's
+                  participation and its development. Significant figures reflected among the AIBS
+                  material include Robert F. Griggs, Paul Burkholder, Kenneth Thimann, and Detlev
+                  Bronk. The series also documents Kramer's service within the National Science
+                  Foundation as well as his service on a number of committees of the United States
+                  government, including the U.S. Air Force's Committee on the Disposal of Herbicide
+                  Orange.</p>
+               <p>Scattered throughout the series are manuscripts and notes for Kramer's
+                  publications and addresses. Topics of the manuscripts include the need for
+                  controlled environments to conduct botanical research, soil and plant water
+                  relationships; biological programs during World War II; and the role of science in
+                  society.</p>
+               <p>Accounts of travel abroad, nineteenth century nursery catalogs, and class
+                  notebooks are included in the series. These items along with the biographical
+                  information within the papers complement the materials that relate to the various
+                  aspects of Kramer's career.</p>
+               <p>A folder list of Boxes 5-11 is available as part of the collection file. Please
+                  consult University Archives staff.</p>
+            </scopecontent>
+            <arrangement id="aspace_161d8cc3af28f9b40901b86af89096ea">
+               <head>Arrangement note</head>
+               <p>The titles describe the alphabetical range found within each box.</p>
+            </arrangement>
+            <c02 id="aspace_ref46_2p5" level="file">
+               <did>
+                  <unittitle>Addresses and Papers -- American Institute of Biological Sciences,
+                     1964-1966</unittitle>
+                  <container id="aspace_e031d778b6398b828c6a89f70f3166b5" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_azm" level="file">
+               <did>
+                  <unittitle>American Institute of Biological Sciences, 1965-- Class Notes,
+                     Agricultural Chemical Lab Manual</unittitle>
+                  <container id="aspace_92c4f08fc1848b1bd4fc525570a085f0" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_i0q" level="file">
+               <did>
+                  <unittitle>Contents of Box 7</unittitle>
+                  <container id="aspace_36f86d998707e9411f34e24409a6f47d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <accessrestrict id="aspace_08a2f70219d84c57589396735454bae7">
+                  <head>Conditions Governing Access note</head>
+                  <p>Box 7 is closed pending processing.</p>
+                  <p>The folder entitled <title type="simple" render="doublequote">Named
+                        Professorships</title> is RESTRICTED by donor request.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref50_gqy" level="file">
+               <did>
+                  <unittitle>Duke University: Notes and Clippings on Edens Retirement --
+                     International Biological Program: Duke University Participation,
+                     1967-1973</unittitle>
+                  <container id="aspace_0ccd4ea1cd3de0b6cbd3555555a0f978" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_w83" level="file">
+               <did>
+                  <unittitle>International Biological Program: Foreign Participation, 1974-1975 --
+                     Phytotron: Proposal to NSF, 1970-1971</unittitle>
+                  <container id="aspace_5aa05bc44875ecc7f8e6907ae826b403" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_5y6" level="file">
+               <did>
+                  <unittitle>Phytotron: Support of Visiting Scientists, 1970-1971 -- United States
+                     Air Force: Ad Hoc Committee on the Disposal of Herbicide [Agent] Orange,
+                     1972-1974</unittitle>
+                  <container id="aspace_443625af94375d5506ece135916df49c" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_4s9" level="file">
+               <did>
+                  <unittitle>U.S. Atomic Energy Commission: Radiation Effect on Plants, 1963-1964 --
+                     United States Forestry Service, 1962</unittitle>
+                  <container id="aspace_d801b208df775bbdec136f7beb3d0bb9" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref57_h9k" level="series">
+            <did>
+               <unittitle>Research and Teaching Notes, 1925-1987</unittitle>
+            </did>
+            <scopecontent id="aspace_2691db0825807ccafb02c9b0268d5809">
+               <head>Scope and Contents note</head>
+               <p>The Research and Teaching series contains a sample of the data and notes Kramer
+                  compiled during his career. Materials include tables and charts, publications,
+                  syllabi, correspondence, reports, and manuscripts. </p>
+               <p>The papers within the series document Kramer's views on the government support of
+                  science and science education, his work in forestry research, his association with
+                  the School of Forestry at Duke, and his work with the National Science
+                  Foundation.</p>
+            </scopecontent>
+            <arrangement id="aspace_b3191a495140f3360977566d068caeb9">
+               <head>Arrangement note</head>
+               <p>The folder titles describe the alphabetical range found within the box.</p>
+            </arrangement>
+            <c02 id="aspace_ref58_h56" level="file">
+               <did>
+                  <unittitle>Advanced Physiology, 1938 -- Tree Physiology, 1937</unittitle>
+                  <container id="aspace_962368c46fabbd74ed586d85d22bd953" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref61_q8f" level="series">
+            <did>
+               <unittitle>Photographs, 1941-1983</unittitle>
+            </did>
+            <scopecontent id="aspace_dd92a13a63a62679a70b25edbaaec17c">
+               <head>Scope and Contents note</head>
+               <p>Chiefly black and white photographs of Kramer, the botany faculty at Duke
+                  University, and participants at professional meetings. Photographs of the botany
+                  faculty date from 1946 and 1954. This series includes some candid pictures.
+                  Subjects among the pictures include Ruth Addoms, Lewis Anderson, Hugo L.
+                  Blomquist, Henry J. Oosting, Clarence Korstian, and Theodore Kozlowski.</p>
+            </scopecontent>
+            <processinfo id="aspace_0712456fb6104e409310c87e233a74f1">
+               <head>Processing Information note</head>
+               <p>These photographs have been removed to the Paul Jerome Kramer file in the
+                  Photograph Collection, in University Archives. Please consult University Archives
+                  staff.</p>
+            </processinfo>
+         </c01>
+         <c01 id="aspace_ref64_oth" level="series">
+            <did>
+               <unittitle>Oversize</unittitle>
+            </did>
+            <scopecontent id="aspace_4445e8ba0b5d3238a89e63baba9ce78b">
+               <head>Scope and Contents note</head>
+               <p>Oversize material is located in map cabinet drawer 8.</p>
+            </scopecontent>
+            <c02 id="aspace_ref65_6wj" level="file">
+               <did>
+                  <unittitle>Catalogue of Fruit Trees, for sale from the large and extensive nursery
+                     of George Aupel, Eaton. Preble County, Ohio, 2 February 1858</unittitle>
+                  <container id="aspace_10a026d85b9d6fb3757cdb25ff98b317" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_atb" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Philadelphia Inquirer</title> "Sherman's New
+                     Movement," front page, 21 November 1864</unittitle>
+                  <container id="aspace_1b65097ff555fdea09909f1dc05674c9" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

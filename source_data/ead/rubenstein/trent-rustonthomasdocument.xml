@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-rustonthomasdocument/"
+         >trent-rustonthomasdocument</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Thomas Ruston document, 1765, Nov. 26, Edinburgh, Scotland
+                  <num>RL.10839</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002164674</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:33:41
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="lat">Latin</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Thomas Ruston document, Edinburgh, Scotland</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Ruston, Thomas, approximately 1739-1804</persname>
+         </origination>
+         <unitid>RL.10839</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 items</extent>
+         </physdesc>
+         <unitdate normal="1765/1765" type="inclusive">1765, Nov. 26</unitdate>
+         <physloc id="aspace_4a9e305b475b219ac5d9bd65665b5464">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_0903b15ce17c9021d9c7d0f698221887">Holograph document, signed. Diploma
+            granted by Edinburgh University, signed by Alexander Monro, William Cullen, and
+            Alexander Monro, Jr., among others.</abstract>
+         <langmaterial id="aspace_288bb31a44e2e5be3a12e20e704507b0">Materials in Latin
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_0353e4fdcb6e0c26e5a9b7325d2a765e">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_a2a76fe7d006d16c2e710e79d220407c">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_4ab49602459b49e13d5c84464228dda9">
+         <head>Preferred Citation</head>
+         <p>Thomas Ruston document, 1765, Nov. 26, Edinburgh, Scotland, David M. Rubenstein Rare
+            Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_463e6781a594a16ee1e1b8b460942ae0">
+         <head>Provenance</head>
+         <p>Source unknown</p>
+      </acqinfo>
+      <processinfo id="aspace_8ecde6cad428bdfd1449e2074795ef6b">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <bioghist id="aspace_3b32aff0da4373e14b67f0be04f5053f">
+         <head>Historical Note</head>
+         <p>Physician of Philadelphia.</p>
+      </bioghist>
+      <scopecontent id="aspace_3156bbe264eca8450e7ce42acd6920bc">
+         <head>Collection Overview</head>
+         <p>Holograph document, signed. Diploma granted by Edinburgh University, signed by Alexander
+            Monro, William Cullen, and Alexander Monro, Jr., among others.</p>
+      </scopecontent>
+      <odd id="aspace_4b3a295fd6d4e78f268a81f00fc3be46">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+         <persname source="ingest">Ruston, Thomas, approximately 1739-1804</persname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

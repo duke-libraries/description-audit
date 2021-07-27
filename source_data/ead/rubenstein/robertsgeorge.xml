@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/robertsgeorge/"
+         >robertsgeorge</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the George Arthur Roberts Family Papers, 1884-[1970s] and undated
+               (bulk 1907-[1950s]) <num>RL.01098</num>
+            </titleproper>
+            <author>Processed by: Elizabeth Arnold; machine-readable finding aid created by:
+               Elizabeth Arnold</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002448936</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 08:18:02
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>George Arthur Roberts Family papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Roberts, George Arthur, 1882-</persname>
+         </origination>
+         <unitid>RL.01098</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4.6 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1884/1979" type="inclusive">1884-1970s and undated, bulk
+            1907-1950s</unitdate>
+         <physloc id="aspace_05740ddf6d92b273a9deffddd9a9eb44">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_4095ddf7c270fe6b3458a4a9ae57242f">
+            <extent>2240 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_f291ee7b867d037c0b418457a57ec322">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_56f57ed671de7a3afe0ba8af782b77db">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research, with the exception of original negatives, where contact
+            sheets have been made for patron access.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_83e2cffd32b4e514ce2cbdf5bfe152c9">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_1fb8233303e3b110409c8c6303e8dfa1">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], George Arthur Roberts Family Papers, David M. Rubenstein Rare
+            Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_53137a31059d06738bafb0f342d9c35c">
+         <head>Provenance</head>
+         <p>The George Arthur Roberts Family Papers were received by the David M. Rubenstein Rare
+            Book &amp; Manuscript Library as a gift in 1998.</p>
+      </acqinfo>
+      <processinfo id="aspace_3b112708c49b1a70858c701f655c34ee">
+         <head>Processing Information</head>
+         <p>Processed by Elizabeth Arnold</p>
+         <p>Completed February 20, 2004</p>
+         <p>Encoded by Elizabeth Arnold</p>
+      </processinfo>
+      <bioghist id="aspace_e8d19c9e7d68629a9a511274e34f54f2">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1882</date>
+               <eventgrp>
+                  <event>George Arthur Roberts born in Marathon, Iowa</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1906</date>
+               <eventgrp>
+                  <event>George Roberts received BSA from Iowa State University, Ames, Iowa</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1907</date>
+               <eventgrp>
+                  <event>George Roberts became a Methodist Episcopal missionary, based at the United
+                     Methodist Church of Marathon, Iowa; sent to Southern Rhodesia (now Zimbabwe),
+                     Africa, and began work at Old Umtali (now Mutare)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1912</date>
+               <eventgrp>
+                  <event>Roberts married fellow missionary Bertha Fowles</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1915</date>
+               <eventgrp>
+                  <event>Twin sons, Tudor and Thomas Roberts, born</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1918</date>
+               <eventgrp>
+                  <event>Moved to Mutambara mission, Umtali</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>ca. 1920</date>
+               <eventgrp>
+                  <event>Daughter, Mary Elma, born</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1948</date>
+               <eventgrp>
+                  <event>Moved to Nyadiri mission, Umtali</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1950</date>
+               <eventgrp>
+                  <event>Retired from missionary work to a farm near the Mutambara mission</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1957</date>
+               <eventgrp>
+                  <event>Bertha Fowles Roberts died; George Roberts remarried a retired local
+                     missionary, Lulu Tubbs</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1964</date>
+               <eventgrp>
+                  <event>George Roberts wrote <title type="simple" render="italic">Let Me Tell You a
+                        Story...</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>Late 1960s</date>
+               <eventgrp>
+                  <event>George and Lulu Tubbs Roberts returned to America and lived at the Penney
+                     Farms Retirement Community in Clay County, Florida</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1973, July 29</date>
+               <eventgrp>
+                  <event>George Roberts died in Marathon, Iowa</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>At Old Umtali, George Arthur Roberts took charge of agricultural training for the
+            recently-established mission. There he taught various subjects at mission schools and
+            conducted projects and experiments, including instituting animal husbandry and
+            introducing a variety of food crops, as well as serving as blacksmith and resident
+            tooth-puller.</p>
+         <p>The birth of twin boys to Roberts and his first wife, Bertha Fowles Roberts, bore
+            significance due to the apparent local tribal custom calling for twins to be killed at
+            birth, as they were viewed as portents of evil that would cause the deaths of their
+            parents. The Robertses provided an example in opposition to this custom, resulting in
+            increased acceptance of twins in the region. Bertha Fowles Roberts (1883-1957), a native
+            of Oregon, had responsibility for mission bookkeeping and other office duties, as well
+            as teaching and organizing women's conferences. </p>
+      </bioghist>
+      <scopecontent id="aspace_ba9b01f12f82d971cb7375902444e36a">
+         <head>Collection Overview</head>
+         <p>The George Arthur Roberts Family Papers span the years from 1884 until the late 1970s
+            (primarily the first half of the twentieth century), and consist largely of visual
+            documents, including photographs, photograph albums, slides, and negatives; a collection
+            of postcards and a small amount of printed material are also included. While the
+            majority of the images are unidentified, they provide a rich and extensive pictorial
+            record of the activities of pioneer Methodist missionaries, the early missions they
+            established, and the personal experience and growth of one missionary family in this
+            setting. George Arthur Roberts' memoir <title type="simple" render="italic">Let Me Tell
+               You a Story...</title>, copies of which are included in the collection, describes
+            life as lived by these early missionaries and contrasts them with conditions in 1964,
+            the time of its writing. In addition to documenting aspects of missionary history, the
+            Roberts papers also depict the landscapes and peoples of Rhodesia (Zimbabwe) and
+            surrounding areas, particularly the Umtali region (now Mutare), at a time when they
+            remained relatively untouched by western influence. The Papers are organized into the
+            following series based on format: the <emph render="bold">Photographic Prints
+               Series</emph>, <emph render="bold">Postcards Series</emph>, <emph render="bold"
+               >Printed Material Series</emph>, <emph render="bold">Negatives Series</emph>, <emph
+               render="bold">Slides Series</emph>, and the <emph render="bold">Photograph Albums
+               Series</emph>.</p>
+         <p> The <emph render="bold">Photographic Prints Series</emph> and the <emph render="bold"
+               >Slides Series</emph> comprise the bulk of the collection. Both series have been
+            organized into the following subseries: <emph render="bold">People</emph>, <emph
+               render="bold">Mission Activities</emph>, and <emph render="bold">African
+               Scenes/Landscapes</emph>. The <emph render="bold">People Subseries</emph> contains
+            numerous portraits of African men, women, and children; missionaries; and primarily the
+            Roberts family themselves, including photos likely taken on various trips both within
+            Africa and to other locations including the United States, Europe, and Asia. Of
+            particular note in the <emph render="bold">People Subseries</emph> are a group of prints
+            of the visit of the British Queen Mother and Elizabeth II to Melsetter Junction in 1948.
+            The <emph render="bold">Mission Activities Subseries</emph> contains images of such
+            school- and church-related events as conferences and gatherings, construction of mission
+            buildings, agriculture, and animal husbandry. Some of the original prints used to
+            illustrate Roberts' <title type="simple" render="italic">Let Me Tell You A
+               Story...</title> can also be found. <emph> There is little overlap, in terms of
+               identical images, between the prints and slides series.</emph>
+         </p>
+         <p>The <emph render="bold">Negatives Series</emph> contains 27 rolls of 35mm film, likely
+            dating from the 1950s, from which contact sheets have been made. While the contact
+            sheets are open for research, the master negative rolls themselves are closed to patron
+            use. The series also includes some cut 35mm negative frames and a few medium-format
+            negatives which are open for research. The subject matter of the negatives is similar to
+            that of the <emph render="bold">Photographic Prints Series</emph> and the <emph
+               render="bold">Slides Series</emph>. The majority of the images in this series do not
+            appear to duplicate images found in previous series.</p>
+         <p>The <emph render="bold">Photograph Album Series</emph> consists of three bound
+            photograph albums, containing a rich variety of images. The collection also includes an
+            extensive <emph render="bold">Postcards Series</emph>, 1918-1965 and undated, from
+            locations largely within Africa but also in Europe, Asia, and North America. The <emph
+               render="bold">Printed Materials Series</emph> contains two copies of <title
+               type="simple" render="italic">Let Me Tell You A Story...</title>, George Arthur
+            Roberts' memoir, and other mission-related material.</p>
+      </scopecontent>
+      <controlaccess>
+         <genreform source="aat">Postcards</genreform>
+         <geogname source="lcsh">Mutare (Zimbabwe) -- History</geogname>
+         <subject source="lcsh">Portraits, African</subject>
+         <geogname source="lcsh">Umtali Region (Zimbabwe) -- Pictorial works</geogname>
+         <geogname source="lcsh">Mutare (Zimbabwe) -- Pictorial works</geogname>
+         <geogname source="lcsh">Umtali Region (Zimbabwe) -- History</geogname>
+         <genreform source="aat">Slides (photographs)</genreform>
+         <genreform source="aat">Photographs</genreform>
+         <geogname source="lcsh">Zimbabwe -- Pictorial works</geogname>
+         <genreform source="aat">Negative prints</genreform>
+         <genreform source="aat">Contact sheets</genreform>
+         <genreform source="aat">Postcards -- Africa</genreform>
+         <subject source="lcsh">Methodist Church -- Missions -- Africa</subject>
+         <genreform source="aat">Photograph albums</genreform>
+         <subject source="lcsh">Missions -- Zimbabwe -- History</subject>
+         <geogname source="lcsh">South Africa -- Pictorial works</geogname>
+         <subject source="lcsh">Indigenous peoples -- Zimbabwe</subject>
+         <geogname source="lcsh">Zimbabwe</geogname>
+         <subject source="lcsh">Missions -- Africa</subject>
+         <subject source="lcsh">Missionaries -- Africa</subject>
+         <persname source="ingest">Roberts, George Arthur, 1882-</persname>
+         <persname source="ingest">Roberts, George Arthur, 1882-</persname>
+         <famname source="ingest">Roberts family</famname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_93u" level="series">
+            <did>
+               <unittitle>Photographic Prints Series, 1884-[1970s] and undated</unittitle>
+               <physdesc id="aspace_b4a4a278d53f85f09386bd585a7e93b1">
+                  <extent>1.4 lin. ft.; 1610 items</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_9a3e2199d624297b5ce2149f70b58957">
+               <head>Scope and Contents note</head>
+               <p>Because the majority of prints were no longer in their original order, this series
+                  was organized into the following subseries based on content: <emph render="bold"
+                     >People</emph>, <emph render="bold">Mission Activities</emph>, and <emph
+                     render="bold">African Scenes/Landscapes</emph>. While most of the slides and
+                  prints are uncaptioned, a number have identifying information hand-written on
+                  them, including some very detailed accounts. The captions appear to have been
+                  written primarily by Bertha Roberts and Lulu Tubbs Roberts.</p>
+            </scopecontent>
+            <c02 id="aspace_ref15_oos" level="subseries">
+               <did>
+                  <unittitle>People Subseries</unittitle>
+               </did>
+               <scopecontent id="aspace_97b2720825936858af1989de77d4a49f">
+                  <head>Scope and Contents note</head>
+                  <p>This subseries is the largest, and includes portraits of African men, women,
+                     and children; missionaries; and primarily the Roberts family themselves. The
+                     Roberts family portraits cover not only their time in Rhodesia, but also
+                     include later locations and generations. Tudor and Mary Elma Roberts both
+                     married and had children; Tudor and his wife, Emelie Roberts, stayed in Africa
+                     as missionaries, while Mary Roberts married Richard Clark and settled initially
+                     in Hawaii. The earliest photographs are albumen prints of Bertha Fowles as an
+                     infant and of her parents.</p>
+                  <p>
+                     <emph render="bold">People</emph> also includes photos likely taken by the
+                     Robertses on various trips to the United States, including a visit to Mary Elma
+                     in Hawaii, Asia, Europe, Australia, and other locations. Also of note are a
+                     group of prints of the visit of the British Queen Mother and Elizabeth II to
+                     Melsetter Junction in 1948, where they were introduced to George Roberts.</p>
+               </scopecontent>
+               <c03 id="aspace_ref16_ua3" level="file">
+                  <did>
+                     <unittitle>Africans</unittitle>
+                     <container id="aspace_c1e56b28b330d3b29f26b57c98ddc516" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref17_sra" level="file">
+                  <did>
+                     <unittitle>Missionaries</unittitle>
+                     <container id="aspace_fd07e6c3a9e1ce78a088fdcbb0d2a070" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref18_gtz" level="file">
+                  <did>
+                     <unittitle>Roberts Family (1-3 of 5 folders)</unittitle>
+                     <container id="aspace_8721c9caa26cb7fd5cac601727fcbdeb" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref19_nka" level="file">
+                  <did>
+                     <unittitle>Roberts Family (4-5 of 5 folders)</unittitle>
+                     <container id="aspace_0598315b478aeb63fda1f0822e7cf8a9" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref20_iav" level="file">
+                  <did>
+                     <unittitle>Roberts Family--Travel</unittitle>
+                     <container id="aspace_feaae8b0c4c66a1f7375373f922afb8c" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref21_md6" level="file">
+                  <did>
+                     <unittitle>Visit of Queen Mother in 1948</unittitle>
+                     <container id="aspace_7571d4559fe9f1b3a882ff59b6341fa5" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref23_jtm" level="subseries">
+               <did>
+                  <unittitle>Mission Activities Subseries</unittitle>
+               </did>
+               <scopecontent id="aspace_9f0c9aa175ea12a410d8e95763c97aaa">
+                  <head>Scope and Contents note</head>
+                  <p>This subseries contains images of school- and church-related events,
+                     conferences and gatherings, construction of mission buildings, agriculture, and
+                     animal husbandry, among other practices. Included in this subseries are some
+                     groupings of pictures as they were originally arranged, pertaining to Bible
+                     Schools, various mission locations including Nyadiri, Old Umtali, and
+                     Sunnyside, and a folder containing some of the original prints used to
+                     illustrate Roberts' <title type="simple" render="italic">Let Me Tell You A
+                        Story...</title>, the contents of which overlap with other established
+                     subseries.</p>
+               </scopecontent>
+               <c03 id="aspace_ref24_sv9" level="file">
+                  <did>
+                     <unittitle>Bible Schools</unittitle>
+                     <container id="aspace_758d89864cc5fa13d809f0c98b0b7e2c" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref25_wjh" level="file">
+                  <did>
+                     <unittitle>Nyadiri Mission</unittitle>
+                     <container id="aspace_a7fecbe047c950c5d736bac78031eaa3" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref26_l3r" level="file">
+                  <did>
+                     <unittitle>Old Umtali</unittitle>
+                     <container id="aspace_a78d915e54a91a7ac5b9546e34796ec1" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref27_cfc" level="file">
+                  <did>
+                     <unittitle>Congo trip</unittitle>
+                     <container id="aspace_2308a5559fb1f3c1ede09d3a78301171" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref28_j45" level="file">
+                  <did>
+                     <unittitle>School and church related (1 of 2 folders)</unittitle>
+                     <container id="aspace_da49aca45555dac8bcda0bcd29746786" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref29_p5g" level="file">
+                  <did>
+                     <unittitle>School and church related (2 of 2 folders)</unittitle>
+                     <container id="aspace_070a9cb73f0d9dd15cebe746f4c6165e" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref30_zje" level="file">
+                  <did>
+                     <unittitle>Agriculture and construction</unittitle>
+                     <container id="aspace_70f8fec1517093fb2e20818c7519a7b8" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref31_6n1" level="file">
+                  <did>
+                     <unittitle>Book Pictures: <title render="italic">Let Me Tell You A
+                           Story</title>
+                     </unittitle>
+                     <container id="aspace_20d7d37c13b4e4a11d44de97d535a203" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref33_8bh" level="subseries">
+               <did>
+                  <unittitle>African Scenes/Landscapes Subseries</unittitle>
+                  <container id="aspace_30793c91c41167d90b6f22a82a500082" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_e43200a511c1b232d9ec02147468ecd5">
+                  <head>Scope and Contents note</head>
+                  <p>Includes various images of African village scenes, wildlife, and tourist areas
+                     (1 folder).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref35_yc2" level="subseries">
+               <did>
+                  <unittitle>Oversize prints</unittitle>
+                  <container id="aspace_71f3e5918f935daceea8ce8c0d7d2687" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+               <scopecontent id="aspace_bd8153556cd08568b0a9bdc1aeac1597">
+                  <head>Scope and Contents note</head>
+                  <p>Includes a Roberts family portrait, landscape shots, and a large print (in 2
+                     pieces) of African women attending a mission conference.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref38_2os" level="series">
+            <did>
+               <unittitle>Postcards Series, 1918-1965 and undated</unittitle>
+               <physdesc id="aspace_5cd5054ca3679ad3a083bbc819a8a53b">
+                  <extent>.3 lin. ft.; 145 items</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_6ccfb3ebe1fec3548743034fc9cdbbf1">
+               <head>Scope and Contents note</head>
+               <p>The majority of the postcards depict African locations, including Umtali,
+                  Salisbury, and other areas in Rhodesia; Cape Town, East London, and Gordon's Bay
+                  in South Africa; Gordon's Bay; and Victoria Falls. A few also feature Africans,
+                  wildlife, and mission scenes. Other postcards are from locations outside Africa,
+                  presumably reflecting the Roberts family's travels. Locales include Hong Kong,
+                  Europe (England, France, Portugal, and Italy), the Middle East, the United States,
+                  Canada, Trinidad, and St. Lucia. Significantly, a small number of postcards in the
+                  series were written and mailed, primarily to/from Lulu Tubbs Roberts and Bertha
+                  Fowles Roberts. They pertain mostly to travel and family news, and provide
+                  examples of first-person written observation otherwise scarce in the collection
+                  (outside of G. A. Roberts' published book).</p>
+            </scopecontent>
+            <c02 id="aspace_ref40_b5g" level="file">
+               <did>
+                  <unittitle>Africa (2 folders)</unittitle>
+                  <container id="aspace_14651fd67f96bdf6391ac58a0d2f1baf" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_2q9" level="file">
+               <did>
+                  <unittitle>Outside Africa (1 folder)</unittitle>
+                  <container id="aspace_61489c0473175af52a8fbdec294186be" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref43_2jl" level="series">
+            <did>
+               <unittitle>Printed Material Series, 1954-[1960s] and undated</unittitle>
+               <physdesc id="aspace_ae75e73c4c859e3d7dc838ea9e22ec58">
+                  <extent>10 items</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_6518a0367f1d715474b4bd2f65510ea6">
+               <head>Scope and Contents note</head>
+               <p>The series comprises two inscribed copies of <title type="simple" render="italic"
+                     >Let Me Tell You A Story...</title> by G. A. Roberts, two pamphlets by Lulu
+                  Tubbs Roberts regarding the Sunnyside retreat and bible study at the Rhodesian
+                  missions, and miscellaneous clippings.</p>
+            </scopecontent>
+            <c02 id="aspace_ref45_v00" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Let Me Tell You A Story...</title>
+                  </unittitle>
+                  <container id="aspace_e9656e4a02c2345d46297efae8a09474" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_v7j" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">From a Retreat to Sunnyside Secondary
+                        School</title>
+                  </unittitle>
+                  <container id="aspace_e91ee09df54abdb165ee94f06e037a9a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_fml" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Through Christ We Conquer</title>
+                  </unittitle>
+                  <container id="aspace_a26ce66daebdbf943901564de43e78a2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_3yn" level="file">
+               <did>
+                  <unittitle>Miscellaneous clippings</unittitle>
+                  <container id="aspace_9a7d59b6761d65e7dd6179dd7694a814" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref50_3l4" level="series">
+            <did>
+               <unittitle>Negatives Series, [1950s]</unittitle>
+               <physdesc id="aspace_1713f8d031c58228a5656b387736c497">0.7 lin. ft.; 200
+                  items</physdesc>
+            </did>
+            <scopecontent id="aspace_53f56541e70dd5d5f1f2e405340b60f2">
+               <head>Scope and Contents note</head>
+               <p>This series contains 27 intact rolls of 35mm film, some 35mm film cut into
+                  individual frames, as well as a small number of medium-format negatives. Image
+                  content includes mission-sponsored gatherings, construction, and agriculture;
+                  portraits of African families and other groups, of the Roberts family, and of
+                  other missionaries; and various scenes of African life and landscapes. Contact
+                  sheets are available for the 35mm rolls of master negatives (closed to patron
+                  use), but not for the cut frames or the medium-format negatives (open for
+                  research). Arranged by format.</p>
+            </scopecontent>
+            <c02 id="aspace_ref52_ve3" level="file">
+               <did>
+                  <unittitle>Contact sheets</unittitle>
+                  <container id="aspace_5accf9a83a5348480a8ba287187f3099" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_3b049522f9812d71756f6a9d38553b7b">
+                  <head>Scope and Contents note</head>
+                  <p>Prints made from original 27 rolls of black-and-white 35mm film (in Box 4,
+                     closed to patron use); subject matter includes mission-sponsored conferences
+                     and activities, agriculture, events (including weddings), portraits of
+                     Africans, portraits of missionaries (including members of the Roberts family),
+                     and African scenes/landscapes.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref54_w2b" level="file">
+               <did>
+                  <unittitle>Medium-format negatives</unittitle>
+                  <container id="aspace_af0fa7c9287aea1f7c438b88e1c11827" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <scopecontent id="aspace_1ab21d3f7e046c0cd1ea144bf14e5834">
+                  <head>Scope and Contents note</head>
+                  <p>Consists of 19 negatives depicting agricultural scenes and livestock, including
+                     images of African men carrying a pig tied to a pole.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref56_ntk" level="file">
+               <did>
+                  <unittitle>Cut 35mm negative frames</unittitle>
+                  <container id="aspace_5978383733b0335c984bee3d5ce142e4" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_jp4" level="file">
+               <did>
+                  <unittitle>35mm film rolls</unittitle>
+                  <container id="aspace_8c61a1ccaa08a612670bccfd1dc640a2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <accessrestrict id="aspace_5b6d8ee1afded09fee07b4132cafbcce">
+                  <head>Conditions Governing Access note</head>
+                  <p>Note: these master negatives are <emph render="bold">CLOSED</emph> to patrons.
+                     Images can be viewed on contact sheets found in Box 3.</p>
+               </accessrestrict>
+               <scopecontent id="aspace_fee7c12d492ce153791b86948f1062c2">
+                  <head>Scope and Contents note</head>
+                  <p>Includes the 27 rolls from which contact sheets were made.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref61_7uf" level="series">
+            <did>
+               <unittitle>Slides Series, [1950s?]</unittitle>
+               <physdesc id="aspace_7ddd7c6acc1456300cfd767b5a2691b7">
+                  <extent>1 lin. ft.; 270 items</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_d02938bffbb038ddc393274dd4d172c5">
+               <head>Scope and Contents note</head>
+               <p>This series contains images largely of the same content as the <emph render="bold"
+                     >Photographic Prints Series</emph> described above, and has been arranged into
+                  the same subseries. Portraits, travel photos, documentation of mission-related
+                  activities, and various African scenes are included.</p>
+            </scopecontent>
+            <c02 id="aspace_ref63_902" level="subseries">
+               <did>
+                  <unittitle>People Subseries</unittitle>
+                  <container id="aspace_b1855953f8660135a871802df69183ae" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <c03 id="aspace_ref64_gxj" level="file">
+                  <did>
+                     <unittitle>Africans</unittitle>
+                     <container id="aspace_849f1a00e83c3fc659d9cbb211789cbb" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_gwv" level="file">
+                  <did>
+                     <unittitle>Missionaries</unittitle>
+                     <container id="aspace_353331b3094c797d70c40213dc74c3f0" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_i0a" level="file">
+                  <did>
+                     <unittitle>Other</unittitle>
+                     <container id="aspace_d06395f7c98ef14707d2def47e3b1247" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_j76" level="file">
+                  <did>
+                     <unittitle>Roberts Family</unittitle>
+                     <container id="aspace_ecbfbf5ee3c18a58454e1e2f86cfbd65" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref68_k8d" level="file">
+                  <did>
+                     <unittitle>Roberts Family--Travel</unittitle>
+                     <container id="aspace_1a7f23d89251828a07a59cb9454cf69a" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+                  <scopecontent id="aspace_fb7f47868ee978a425eef1d40a4d76fb">
+                     <head>Scope and Contents note</head>
+                     <p>Contains images from family visits to locations including Singapore, Hong
+                        Kong, Japan, Mauritius, and Hawaii, as well as within Africa (Congo,
+                        Victoria Falls).</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref70_g97" level="subseries">
+               <did>
+                  <unittitle>Mission Activities Subseries</unittitle>
+               </did>
+               <c03 id="aspace_ref71_44f" level="file">
+                  <did>
+                     <unittitle>Women's Annual Meetings</unittitle>
+                     <container id="aspace_cc358a073765edde43bdd2dd25cdb52f" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref72_9t0" level="file">
+                  <did>
+                     <unittitle>Bible Schools</unittitle>
+                     <container id="aspace_e381a0b4c1db6bdfe7b042d9ddadc2e2" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_gpe" level="file">
+                  <did>
+                     <unittitle>Sunnyside</unittitle>
+                     <container id="aspace_b1e383353e422ef0c91e348185ffb311" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref74_5a0" level="file">
+                  <did>
+                     <unittitle>Nyakatsapa</unittitle>
+                     <container id="aspace_89719efb000d07b4171977dfcded4a1b" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_sg5" level="file">
+                  <did>
+                     <unittitle>School and church related</unittitle>
+                     <container id="aspace_14578e2d966017ee022f0b46ee1204be" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref76_5te" level="file">
+                  <did>
+                     <unittitle>Agriculture and construction</unittitle>
+                     <container id="aspace_8017d415a8486c2492f23a92e29b13c1" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref77_wad" level="subseries">
+               <did>
+                  <unittitle>African Scenes/Landscapes Subseries</unittitle>
+                  <physdesc id="aspace_2c0f067f8a9b1d6658f0bf24b799d6c6">
+                     <extent>part of 1 small slide box</extent>
+                  </physdesc>
+                  <container id="aspace_4e1b5eb50dfbdcc160e4300524f1b4ad" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_cho" level="subseries">
+               <did>
+                  <unittitle>African Scenes/Landscapes Subseries</unittitle>
+                  <physdesc id="aspace_e2afca3daa221123889e342911da26c7">
+                     <extent>1 small slide box</extent>
+                  </physdesc>
+                  <container id="aspace_dbd6236347c1abca720cf8e11d55c844" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref82_5gg" level="series">
+            <did>
+               <unittitle>Photograph Albums Series, 1907-[1930s]</unittitle>
+               <physdesc id="aspace_d87e73949523fd0c577363dade15e334">
+                  <extent>3 volumes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_cac3ef961726b36431999311c0223d71">
+               <head>Scope and Contents note</head>
+               <p>The albums contain images from all of the categories included in the above series:
+                  portraits, mission activities, and African scenes.</p>
+            </scopecontent>
+            <c02 id="aspace_ref84_nfs" level="file">
+               <did>
+                  <unittitle>Old Umtali</unittitle>
+                  <container id="aspace_1e40c42efd6762f8ce6cdc8d35c23428" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_svj" level="file">
+               <did>
+                  <unittitle>Scenes from Africa</unittitle>
+                  <container id="aspace_44a9bca32b8472290485cf099dd8e308" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_94b" level="file">
+               <did>
+                  <unittitle>Mutambara</unittitle>
+                  <container id="aspace_ba816acfcf206044a08aa307a14ebe8d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/gouldjohn/">gouldjohn</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the John Mead Gould Papers, 1841-1944 <num>RL.00469</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+               Tanya Lee and Carrie Mills</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2014</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000855524</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:21:12
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>John Mead Gould papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Gould, John Mead, 1839-1930</persname>
+         </origination>
+         <unitid>RL.00469</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">8.8 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1841/1944" type="inclusive">1841-1944</unitdate>
+         <physloc id="aspace_3bd2f80c35d40cfdeada0935f295b3e6">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_4a163ac6f68a1cbf952a2a9470e109b5">John Mead Gould was a Union Army
+            officer and bank teller, of Portland, Maine. Correspondence, diaries, official papers,
+            clippings and other printed materials, and other papers relating to Gould's service with
+            the 1st Maine Infantry Regiment and its successors, the 10th and 29th Maine regiments,
+            during the Civil War. Gould served as the regiments' official historian and was
+            extensively involved in post-war reunions and veterans' claims. Subjects include Civil
+            War campaigns and wartime and Reconstruction conditions in South Carolina, and the
+            career of zoologist Edward Sylvester Morse. Also includes the diaries of Amelia Jenkins
+            Twitchell Gould, 1860-1865, who taught a freedmen's school in Beaufort, S.C., and
+            diaries written by Samuel McClellan Gould, a Presbyterian minister, 1841-1845,
+            1890-1895. Other materials include photocopies of letters, 1906-1926, from veterans of
+            Gould's Civil War regiment, mostly giving news about the deaths of former members, and a
+            photocopy of an autobiographical and genealogical narrative by Gould and two
+            photographs.</abstract>
+         <physdesc id="aspace_64167f1ebb4a0a19d114ee93292ac643">
+            <extent>3,617 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_d8c26d63bf41260844c6ee544f24ec08">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_d05328d4f07e86f4eb266d33045a63ec">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_94c904e4de937a025df30622c59f762e">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_6a6fdb19d3d5788c9f4a8f2cf71e589f">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], John Mead Gould Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_220a93145cd24a20f95587ec4d260e74">
+         <head>Provenance</head>
+         <p>The John Mead Gould papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 1967 and 1988.</p>
+      </acqinfo>
+      <processinfo id="aspace_52811fae2f3b2a3cbb1d7af23877edf5">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff</p>
+         <p>Encoded by Tanya Lee, Carrie Mills, and Paula Jeannet, March 2014</p>
+         <p>Accession(s) described in this finding aid: 1967 and 88-084</p>
+         <p>Parts of this collection have been given basic processing: materials may not have been
+            ordered and described beyond their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_b4be683d11db35f6600188aaf8b40615">
+         <head>Biographical Note</head>
+         <p>John Mead Gould was born in 1839 in Portland, Maine, the son of a local banker, Edward
+            Gould. His closest friend beginning with his school years was Edward Sylvester Morse
+            (1838-1925), who became a well-known biologist; there are some papers in the collection
+            that relate to his life and career.</p>
+         <p>Gould enlisted in the Portland Light Guards in April 1861, which then became part of the
+            1st Maine Regiment, commanded by Colonel Nathaniel Jackson; he then re-enlisted with the
+            10th Regiment in September 1861, which was commanded by Colonel George L. Beal (who
+            later led the 29th Regiment). This regiment traveled and fought in Harper's Ferry,
+            Winchester, Cedar Mountain, Antietam, and other places in Maryland and in the Shenandoah
+            Valley. During this time Gould was promoted to First Lieutenant and Adjutant, a position
+            which required him to maintain the regiment's records. Gould enlisted again in late 1863
+            with the 29th Maine Regiment, under Nathaniel Banks, and saw action in the Red River
+            campaign, Louisiana, and in the last campaigns of Virginia in 1864 and 1865. He was
+            elected major of the regiment in 1864. Gould was in a hospital in Harper's Ferry when
+            Lee surrendered on April 9, 1865.</p>
+         <p>After the war's end, he traveled with the 29th Maine Regiment to Georgia and South
+            Carolina, where he took on the duties associated with an occupying army. His comments in
+            his diaries reflect on this time of reconstruction and chaos. He resigned his commission
+            in February 1866 and moved to Yauhanna Ferry, South Carolina, where he lived until 1867,
+            and profited from selling lumber to Maine shipyards. </p>
+         <p>John Mead Gould returned to his home state of Maine in 1866 and married Amelia Jenkins
+            Twitchell, whose diaries are also in the collection; the couple lived in South Carolina
+            for a time, but financial troubles forced them to return to Maine in 1867. He and Amelia
+            had three children, a daughter and two sons. Gould became active in the veterans'
+            association, the Grand Army of the Republic (GAR); he also was appointed to serve the
+            Maine Regiment as their chief historian and secretary. During this time he wrote a
+            history of the regiment and other pieces of writing.</p>
+         <p>In his later years, Gould entered the banking profession, and retired by 1915. His wife
+            Amelia passed away in 1926 and John Gould died in 1930 at the age of ninety, in Bethel,
+            Maine.</p>
+         <p>[Adapted from a biography of John Mead Gould published on a descendant's website.]</p>
+      </bioghist>
+      <scopecontent id="aspace_c968c418d2315143c7b71934ca039cc0">
+         <head>Collection Overview</head>
+         <p>This rich collection contains correspondence, diaries, official military papers,
+            clippings and other printed materials, drafts of writings, photographs, and other papers
+            documenting John Mead Gould's experiences in the Civil War, his activities in veterans'
+            organizations, and his work as historian of the lst, l0th, and 29th Maine Regiments. </p>
+         <p>The correspondence in the collection relates in part to Gould's service in the 1st Maine
+            Regiment and its successors, the 10th Maine Regiment and the 29th Maine Regiment and
+            contains descriptions of the situation in Washington, D.C., 1861; guard duty on the
+            Baltimore and Ohio Railroad at Relay, Maryland, 1861-1862; the battle of Winchester,
+            1862; the battle of Cedar Mountain, 1862; two fragments from field notes on the Maryland
+            campaign and the battle of Antietam, 1862; the Red River expedition, 1864; operations in
+            the Shenandoah Valley, 1864; and occupation duty in Darlington, South Carolina, 1865. </p>
+         <p>There is family correspondence, especially for 1864; correspondence relating to Gould's
+            attempt to establish a lumber business in South Carolina, 1866-1867; correspondence with
+            other veterans after the war concerning Gould's history of the three regiments,
+            validating pension claims, and veterans' organizations; correspondence of Adelthia
+            Twitchell and Amelia Jenkins Twitchell, who went from Maine to teach freedmen in
+            Beaufort, South Carolina, 1864-1865; and letters relating to the early career of the
+            zoologist, Edward Sylvester Morse, a close friend of Gould's.</p>
+         <p>Legal papers in the collection include commissions, discharges, furloughs, pensions, and
+            papers from the superior provost court, Darlington, South Carolina, 1865-1866. Rolls and
+            reports of the lst-l0th-29th Maine Regiment, 1861-1869, form the official papers of
+            those units and concern supplies, finances, furloughs and other service records. The
+            records of 65 consecutive reunions of the lst-l0th-29th Regiment veterans, 1869-1933,
+            include lists of personnel, minutes, and obituaries. </p>
+         <p>The letters written by Gould during the war, which he called his "journal," were bound
+            into several volumes by his family. Although these are not with his papers, a long
+            series of memorandum diaries by Gould remains in the collection. These little volumes
+            begin in 1854 at Bethel Academy and continue until 1874, when Adelthia (Twitchell)
+            Thompson and William E. Harward died. Along with Gould's Civil War diaries there is the
+            diary of a Levi Johnson, Company B, 29th Maine Regiment, in South Carolina, 1865. The
+            collection also contains the diaries of Gould's wife, Amelia Jenkins (Twitchell) Gould,
+            1860, 1862-1863, 1864-1865; diaries written by Samuel McClellan Gould, a Presbyterian
+            minister (Gould's uncle), 1841-1845, 1890-1895; and diaries written about excursions to
+            Antietam, Cedar Mountain, and other battlefields of the Civil War, 1884-1912.</p>
+         <p>Printed materials include clippings, broadsides, and pamphlets, many from the Civil War
+            era. Accounts of Civil War prisons appear in the clippings as reminiscences. Casualties
+            are reported in clippings directly after the Civil War battles in which the regiment
+            fought. Broadsides contain poetry, veteran materials, and political brochures. The
+            pamphlets pertain to veterans' activities.</p>
+         <p>There is a substantial series of photographs of the men of the lst-10th-29th Maine
+            Regiment in the war and at various reunions. Materials added to the collection in 1988
+            include photocopies of letters, 1906-1926, from veterans of Gould's Civil War regiment,
+            mostly giving news about the deaths of former members, and a photocopy of an
+            autobiographical and genealogical narrative by Gould and two photographs.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Presbyterian Church -- Clergy -- Diaries</subject>
+         <subject source="lcsh">Soldiers -- United States -- Diaries</subject>
+         <subject source="lcsh">Reconstruction (U.S. history, 1865-1877) -- South Carolina</subject>
+         <geogname source="lcsh">United States -- History -- Civil War, 1861-1865 --
+            Campaigns</geogname>
+         <geogname source="lcsh">South Carolina -- History -- Civil War, 1861-1865</geogname>
+         <geogname source="lcsh">United States -- History -- Civil War, 1861-1865 -- Regimental
+            histories</geogname>
+         <geogname source="lcsh">United States -- History -- Civil War, 1861-1865 -- Personal
+            narratives</geogname>
+         <persname source="ingest">Gould, John Mead, 1839-1930</persname>
+         <persname source="ingest">Gould, Samuel McClellan, 1809-1894</persname>
+         <persname source="ingest">Morse, Edward Sylvester, 1838-1925</persname>
+         <corpname source="ingest">United States. Army. Maine Infantry Regiment, 10th
+            (1861-1863)</corpname>
+         <corpname source="ingest">United States. Army. Maine Infantry Regiment, 1st
+            (1865-1868)</corpname>
+         <corpname source="ingest">United States. Army. Maine Infantry Regiment, 29th
+            (1863-1865)</corpname>
+         <famname source="ingest">Gould family</famname>
+         <persname source="ingest">Gould, Amelia Jenkins Twitchell</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_dhg" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1853-1935 and undated</unittitle>
+               <physdesc id="aspace_9f9ace44ce5a76df437ec2e6e97ff56d">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref14_dmi" level="file">
+               <did>
+                  <unittitle>1853-1864</unittitle>
+                  <physdesc id="aspace_131d3f2394209e9cbab77bf839e1e14e">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5638db1959ad89c90f395beadf5a38fe" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <scopecontent id="aspace_b5e099bdd6ba73e238a6988a99c2371c">
+                  <head>Scope and Contents note</head>
+                  <p>Includes an information folder about John Gould Papers at Maine Historical
+                     Society, and a folder of letters, 1853-1861 1st Maine Regiment.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref17_rgd" level="file">
+               <did>
+                  <unittitle>1865-1869</unittitle>
+                  <physdesc id="aspace_63dd92a6088c3e4f2aca29c7da0278f4">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_970f7b45bdd8a6bbc3e5c6ab6188b40b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_4lk" level="file">
+               <did>
+                  <unittitle>1870-1871</unittitle>
+                  <physdesc id="aspace_0f5c5d85a485c03780d3ecfe9623ff61">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7d6d3d485a10f3e39ca96ad7ef2238cf" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_6hg" level="file">
+               <did>
+                  <unittitle>1872-1879</unittitle>
+                  <physdesc id="aspace_1132ee7a7f80ca5c1adb708e479367d3">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2b0f1342c77cf516f68999b3b7dce8c7" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_cc5" level="file">
+               <did>
+                  <unittitle>1880-1899</unittitle>
+                  <physdesc id="aspace_ac66a7c64f65290cf74b72d4eab228a9">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f68b8a4ae186f24c26a7007325e54752" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_3gy" level="file">
+               <did>
+                  <unittitle>1900-1935 and undated</unittitle>
+                  <physdesc id="aspace_60346460ae714f91e1371c77bef4281e">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a35371c4cc257bb9271cfa9c846afd6f" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref27_i24" level="series">
+            <did>
+               <unittitle>Legal Papers Series, 1865-1866 and undated</unittitle>
+               <physdesc id="aspace_ba36143c6f41931a8a470088e16f8920">
+                  <extent>.5 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref29_ozk" level="file">
+               <did>
+                  <unittitle>Personal</unittitle>
+                  <container id="aspace_05251fabe3816b8b5b0080f1be878589" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_i65" level="file">
+               <did>
+                  <unittitle>Provost Marshal cases, 1865-1866</unittitle>
+                  <container id="aspace_d379d4b4e5c2df0040699e0017bad853" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_2bz" level="file">
+               <did>
+                  <unittitle>Soldiers</unittitle>
+                  <container id="aspace_a9f39afa88d7bb2eb2d95074a73fb283" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref32_e8a" level="series">
+            <did>
+               <unittitle>Financial Papers Series, 1860s and undated</unittitle>
+               <physdesc id="aspace_baf1d7b8a30cfd07e493ad88f48b51f5">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref34_4eh" level="file">
+               <did>
+                  <unittitle>29th Maine Regiment (1860s) and the 10th Maine Regiment (1863), and
+                     other papers</unittitle>
+                  <container id="aspace_aeffcc1ec1beed58a8ff3697848daf6c" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref35_u1j" level="series">
+            <did>
+               <unittitle>Writings Series, 1892 and undated</unittitle>
+               <physdesc id="aspace_9ed78231bae910e0b6419870c3a36a9e">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref37_ob1" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">History of the 1st-10th-29th Maine
+                        Regiments</title>
+                  </unittitle>
+                  <container id="aspace_ca1dbe9a15368a5a91d3c0ca7be50352" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_g1d" level="file">
+               <did>
+                  <unittitle>Manuscript on the Battle of Antietam, 1892</unittitle>
+                  <container id="aspace_6e57c0f0bc474a8bda0fb23ee9938e13" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_t67" level="file">
+               <did>
+                  <unittitle>Miscellany</unittitle>
+                  <container id="aspace_e31b8ac49219929a41741c666ed2a46f" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref40_x24" level="series">
+            <did>
+               <unittitle>Printed Material Series, 1860s-1920s and undated</unittitle>
+               <physdesc id="aspace_0b74e04efae16fb86658586be5a07db1">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref42_g9w" level="file">
+               <did>
+                  <unittitle>Pamphlets</unittitle>
+                  <container id="aspace_a99ea5482044546653ba97b5c96b3389" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_d87" level="file">
+               <did>
+                  <unittitle>Leaflets</unittitle>
+                  <container id="aspace_140fec5f544986ad87bf2f7a47c01027" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_w04" level="file">
+               <did>
+                  <unittitle>Broadsides</unittitle>
+                  <container id="aspace_14dc37e79290d50f88b40e4bd0dfbfed" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_aus" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_49d8dfbaef9296b612a24e7cda6d608f" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref46_ydw" level="series">
+            <did>
+               <unittitle>Reunion Papers Series, 1869-1933</unittitle>
+               <physdesc id="aspace_4e72162251a310965831c84cfce4272e">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref48_e1w" level="file">
+               <did>
+                  <unittitle>1869-1899</unittitle>
+                  <physdesc id="aspace_3be7806026aa6db3c0a5311aa2621ac3">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e9649a7dfad780266ad23b20019f05fb" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_apq" level="file">
+               <did>
+                  <unittitle>1900-1922</unittitle>
+                  <physdesc id="aspace_08393e32ad333018e3ccc961cd1f4f9b">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d8715d262c22ac9048fd01d86e2cedb2" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_o2s" level="file">
+               <did>
+                  <unittitle>1923-1933</unittitle>
+                  <physdesc id="aspace_93d345d2426ce84141023349e0bccb62">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c2ea843ee11dc8bc1f70897407d81b68" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_2ja" level="file">
+               <did>
+                  <unittitle>Rolls and reports of 1st-10th-29th Maine Regiment</unittitle>
+                  <physdesc id="aspace_05aa12923594187cdf45da38d4ac7407">
+                     <extent>1 box</extent>
+                  </physdesc>
+                  <container id="aspace_feb264dd63cb1f6e5e08e21bae1c73c7" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref56_24a" level="series">
+            <did>
+               <unittitle>Photographs Series, 1870s-1925 and undated</unittitle>
+               <physdesc id="aspace_2eff27354efcdafa61b2eebe4cff1ab5">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref58_erf" level="file">
+               <did>
+                  <unittitle>Reunions, circa 1870s-1925</unittitle>
+                  <physdesc id="aspace_da27da4b9f2abceed32acabd6dcd418a">
+                     <extent>22 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1a76849239d92b096f96fb5b56cc4959" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_1on" level="file">
+               <did>
+                  <unittitle>Excursion of 1889</unittitle>
+                  <container id="aspace_c150bd20ac0d72f84d6c6b18d2d28c23" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_d1u" level="file">
+               <did>
+                  <unittitle>Excursion to Cedar Creek</unittitle>
+                  <physdesc id="aspace_58f4e3b997f7cfc0280581514d1d43d0">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2753b7906c1ee3d1e35d1d158b945a62" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_u7k" level="file">
+               <did>
+                  <unittitle>Unknown battlefield</unittitle>
+                  <container id="aspace_aa88c2461bd1652471ff4f19c55308b3" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_1za" level="file">
+               <did>
+                  <unittitle>Red River Dam</unittitle>
+                  <container id="aspace_1d64eb5e5836db281af8c7a7a8ad0de4" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_tc2" level="file">
+               <did>
+                  <unittitle>Antietam, 1910 and undated</unittitle>
+                  <physdesc id="aspace_1b3e079e345bb7b9f2c9d586300d2b83">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_0675cb0657fb956b8bae43200978d033" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_zqh" level="file">
+               <did>
+                  <unittitle>Cedar Mountain, 1912 and undated</unittitle>
+                  <physdesc id="aspace_78a93de9cc2004c0d086a6ede027e5fa">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5a55c6ea0a13de9738533d7693cd7dee" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_kjs" level="file">
+               <did>
+                  <unittitle>Veterans, soldiers, and others</unittitle>
+                  <container id="aspace_90b9bd87a46b05451eb3cfb369812f86" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_uhm" level="file">
+               <did>
+                  <unittitle>Prints of officers of 1st, 10th, and 29th Maine Regiments</unittitle>
+                  <container id="aspace_4f58d9540df09dfa162a955931d4a8ab" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_2p6" level="file">
+               <did>
+                  <unittitle>29th Maine</unittitle>
+                  <container id="aspace_42bb00ae4e12fa5aad83adeaa0bfe39f" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_krt" level="file">
+               <did>
+                  <unittitle>1st, 10th, and 11th of Maine</unittitle>
+                  <container id="aspace_fea94a9331b5a469bab92d509a643637" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_02m" level="file">
+               <did>
+                  <unittitle>Long Island, Casco Bay, Maine and Portland, Maine</unittitle>
+                  <container id="aspace_9b7fe864771bfe8045114ebb317c0654" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref74_zyf" level="series">
+            <did>
+               <unittitle>Volumes Series, 1854-circa 1920 and undated</unittitle>
+               <physdesc id="aspace_a05935fd724bb7030bdc406758f7e59b">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_a51b1bfd2341ed17012a32744e49cfb5">
+               <head>Scope and Contents note</head>
+               <p>Boxes 19-22 in this series have been given basic processing; materials may not
+                  have been arranged beyond original order.</p>
+            </scopecontent>
+            <c02 id="aspace_ref76_3wq" level="file">
+               <did>
+                  <unittitle>Directory of the 1st-10th-29th Maine Regiment (red covers), 1889-circa
+                     1920 (32 volumes)</unittitle>
+                  <container id="aspace_58ed5c1dc3feb0cf9dfb8b2715f6d7de" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_txi" level="file">
+               <did>
+                  <unittitle>Directories of the 1st-10th-29th Maine Regiment (white
+                     covers)</unittitle>
+                  <physdesc id="aspace_663ea57a20f25ea6365f12e450720dcb">
+                     <extent>circa 60 volumes</extent>
+                  </physdesc>
+                  <container id="aspace_9a7525c69f4d43ff77b24c9b75c157c6" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+               <scopecontent id="aspace_d45044a8d99a99c110f65cb3cab24296">
+                  <head>Scope and Contents note</head>
+                  <p>The career of a Louisiana freedman, Harry Johnson, who followed the regiment
+                     home to Maine, is related in the white-covered volume marked "Jennings."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref80_s4i" level="file">
+               <did>
+                  <unittitle>Regimental records</unittitle>
+                  <physdesc id="aspace_358a8128b6c76ee859db4faba0211511">
+                     <extent>18 volumes</extent>
+                  </physdesc>
+                  <container id="aspace_cbd37ac0da601c358f9cc554f679452d" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_ult" level="file">
+               <did>
+                  <unittitle>Regimental records</unittitle>
+                  <physdesc id="aspace_bddfc7606c0e372ad60f584b149e4600">
+                     <extent>8 volumes</extent>
+                  </physdesc>
+                  <container id="aspace_08b418cf6441f2cac8758b928d953110" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_vem" level="file">
+               <did>
+                  <unittitle>Diaries of Amelia Jenkins (Twitchell) Gould, 1860, 1862, 1863, 1865,
+                     1889</unittitle>
+                  <physdesc id="aspace_6777b425e07f8187e9ac37b11cd708c3">
+                     <extent>5 volumes</extent>
+                  </physdesc>
+                  <container id="aspace_016720d837ad66f692ac2a82bc0fbd40" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_72c" level="file">
+               <did>
+                  <unittitle>Diaries of Samuel McLellan Gould, 1841-1845 and 1890-1895</unittitle>
+                  <physdesc id="aspace_ce62f37edc7ecfe5db122a6b648e98d2">
+                     <extent>6 volumes</extent>
+                  </physdesc>
+                  <container id="aspace_564d0d58dfb96ae8bfa5ccc0f5f56574" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_yla" level="file">
+               <did>
+                  <unittitle>Miscellaneous financial records of John M. and Edward Gould</unittitle>
+                  <physdesc id="aspace_7b8b13a4bb2a9745c52a8ee472507d34">
+                     <extent>8 volumes</extent>
+                  </physdesc>
+                  <container id="aspace_721cf1d033a3746d990f187bce65aa9c" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_vwk" level="file">
+               <did>
+                  <unittitle>Memorandum diaries of John Mead Gould, 1854-1874</unittitle>
+                  <physdesc id="aspace_21bfe1aa16252e7b15f38f5dba51a7e0">
+                     <extent>15 volumes</extent>
+                  </physdesc>
+                  <container id="aspace_dab1ebb4dc9d6b20d9102baa333ca556" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+               <scopecontent id="aspace_558e3b14d90c4f6d083471a77cafd9a9">
+                  <head>Scope and Contents note</head>
+                  <p>With Gould's Civil War diary is that of Levi Johnson, Co. B, 29th Maine, in
+                     South Carolina, 1865.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref94_efy" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <c02 id="aspace_ref95_ipn" level="file">
+               <did>
+                  <unittitle>Photograph, 48th Reunion, 1-10-29 Maine Regiment Association, Long
+                     Island, Maine, 1916, Aug. 10</unittitle>
+                  <container id="aspace_3968adf1549e6dc483fadfb955ac4d15" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_0ua" level="file">
+               <did>
+                  <unittitle>Photograph, Randall B. Williams, 1924, July</unittitle>
+                  <container id="aspace_a0637ebf32cabb4c0936887d3c00ba72" label="Mixed Materials"
+                     type="oversize-folder">2</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

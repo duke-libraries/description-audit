@@ -1,0 +1,2542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/brownles/">brownles</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Les Brown Scores Collection, circa 1944-1953 and undated
+                  <num>RL.00164</num>
+            </titleproper>
+            <author>Processed by: Jeremy Smith; machine-readable finding aid created by: Jeremy
+               Smith</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002388089</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 13:11:58
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Les Brown Scores collection</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Brown, Les, 1912-2001</persname>
+         </origination>
+         <unitid>RL.00164</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">12.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1944/1953" type="inclusive">circa 1944-1953 and undated</unitdate>
+         <physloc id="aspace_ba3b9c552053cb71c6f53748c786d353">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_2671615dd810e944d85057763d9f18ea">Les Brown (1912-2001) was a 1936
+            graduate of Duke University, where he led the dance band the Duke Blue Devils. Under the
+            name Les Brown and His Band of Renown, the band would achieve professional success in
+            the 1940s and beyond, including a long tenure as Bob Hope's band. The Les Brown Scores
+            Collection chiefly contains manuscripts of 329 jazz big band charts composed and/or
+            arranged for Brown's band, the majority of which are undated, but with some dated
+            between 1944 and 1953. While some charts comprise both a score and complete parts, most
+            are either the score only or incomplete parts only. One additional folder contains a
+            concert program and press clippings related to Brown's performance at Duke University in
+            1985.</abstract>
+         <physdesc id="aspace_95c8289bcc903ba156b71b0c5ed8a001">
+            <extent>9000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_2a60b39838010062a2311c0e3fbb169a">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_fb8453be2ed9b7f9179a0f5a02472aa4">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_04655969a13f4596d47f4a7bd059864e">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_a01fae50041d19348b25ed037c080cbe">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Les Brown Scores Collection, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_a1fdf8bbee715462029c28de803dec30">
+         <head>Provenance</head>
+         <p>The Les Brown Scores Collection was received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 1977.</p>
+      </acqinfo>
+      <processinfo id="aspace_508c041156b543000cbbcf779388a772">
+         <head>Processing Information</head>
+         <p>Processed by Jeremy Smith, September 2008</p>
+         <p>Encoded by Jeremy Smith, September 2008</p>
+         <p>Accession from 1977 is described in this finding aid. </p>
+      </processinfo>
+      <bioghist id="aspace_45dddcb1b17bba4fb56881651ac70d86">
+         <head>Biographical Note</head>
+         <p>Les (Lester Raymond) Brown (born Reinerton, Penn., 14 March 1912; died Los Angeles, 4
+            Jan 2001) was a 1936 graduate of Duke University. There he led his first dance band, the
+            Duke Blue Devils, for which he also played clarinet and saxophone. The band would go on
+            to professional fame in the 1940s under the name Les Brown and His Band of Renown.
+            During that decade Brown had several hit songs, most notably <title type="simple"
+               render="doublequote">Sentimental Journey</title> (1944) and <title type="simple"
+               render="doublequote">I've Got My Love to Keep Me Warm</title> (1946). He performed
+            extensively with Bob Hope and led the house bands for <title type="simple"
+               render="doublequote">The Steve Allen Show</title> (1959-1961) and <title
+               type="simple" render="doublequote">The Dean Martin Show</title> (1963-1972). In
+            1993-1994 Brown received a Distinguished Alumni Award from Duke University.</p>
+      </bioghist>
+      <scopecontent id="aspace_903da6d4ca0d0d578121d58a6cb1cc7a">
+         <head>Collection Overview</head>
+         <p>The Les Brown Scores Collection (chiefly undated, but some dated between 1944 and 1953)
+            has as its focal point manuscripts of 329 jazz big band charts composed and/or arranged
+            for Brown's band. While some charts comprise both a score and complete parts, most are
+            either the score only or incomplete parts only. One additional folder contains a concert
+            program and press clippings related to Brown's performance at Duke University in 1985.
+            The collection is arranged alphabetically by chart title.</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_10494a927ef1e1520c04786a94b1db92">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection">Les Brown Manuscript Music, 1930s-1990s</unittitle>
+               <repository label="Repository">American Heritage Center, University of
+                  Wyoming</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Sonny Burke Papers</unittitle>
+               <repository label="Repository">David M. Rubenstein Rare Book &amp; Manuscript
+                  Library, Duke University</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">Duke Ambassadors Records</unittitle>
+               <repository label="Repository">University Archives, Duke University</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Popular music -- 1941-1950</subject>
+         <genreform source="aat">Scores</genreform>
+         <subject source="lcsh">Swing (Music)</subject>
+         <subject source="lcsh">Big band music -- Scores and parts</subject>
+         <subject source="lcsh">Popular music -- 1951-1960</subject>
+         <subject source="lcsh">Big bands -- United States</subject>
+         <subject source="lcsh">Big band music -- North Carolina</subject>
+         <subject source="lcsh">Jazz -- 1931-1940</subject>
+         <subject source="lcsh">Dance orchestra music</subject>
+         <subject source="lcsh">Jazz -- 1951-1960</subject>
+         <subject source="lcsh">Jazz -- 1941-1950</subject>
+         <genreform source="aat">Music</genreform>
+         <subject source="lcsh">Jazz musicians</subject>
+         <subject source="lcsh">Popular music -- 1931-1940</subject>
+         <subject source="lcsh">Music -- Scores</subject>
+         <corpname source="ingest">Les Brown Orchestra</corpname>
+         <corpname source="ingest">Duke University -- Alumni and alumnae</corpname>
+         <persname source="ingest">Brown, Les, 1912-2001</persname>
+         <persname source="ingest">Brown, Les, 1912-2001</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_fnu" level="series">
+            <did>
+               <unittitle>Music Manuscripts Series, circa 1944-1953 and undated</unittitle>
+               <physdesc id="aspace_fde59ae558d8a0d232529fd91a862f19">
+                  <extent>25 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref15_z9n" level="file">
+               <did>
+                  <unittitle>9:20 Special (parts)</unittitle>
+                  <container id="aspace_c516054f773f042346b283b28a7aeacd" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_ssv" level="file">
+               <did>
+                  <unittitle>40 Cups of Coffee (score)</unittitle>
+                  <container id="aspace_1a38480dbb5770aa0aa523d6d04e842a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_wlo" level="file">
+               <did>
+                  <unittitle>A.T. &amp; S.F. (score)</unittitle>
+                  <container id="aspace_f37c7572273c93689a26f6be14de6dde" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_19o" level="file">
+               <did>
+                  <unittitle>Ah Yes, There's Good Blues Tonight (score)</unittitle>
+                  <container id="aspace_f9104f04e810ea09eccb573f1351706f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_0yk" level="file">
+               <did>
+                  <unittitle>Ain't Misbehavin' (parts)</unittitle>
+                  <container id="aspace_3a5c2fde65861430e3b712f7e6bfe215" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_vwy" level="file">
+               <did>
+                  <unittitle>All I Need Is You (score)</unittitle>
+                  <container id="aspace_6fea59a033b97148a24afc829beef73b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_arv" level="file">
+               <did>
+                  <unittitle>All Thru the Day (score)</unittitle>
+                  <container id="aspace_0fef59d5957543c30681213f14d9e4c9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_z3y" level="file">
+               <did>
+                  <unittitle>All the Time (parts)</unittitle>
+                  <container id="aspace_610b2da9ec837ad71a80eb46bd0b0f51" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_d1t" level="file">
+               <did>
+                  <unittitle>Am I Blue (parts and score)</unittitle>
+                  <container id="aspace_3a58ee03456d95765eb793939f87fa89" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_o2w" level="file">
+               <did>
+                  <unittitle>Am I In Love (score)</unittitle>
+                  <container id="aspace_a6e7007f8c8a99b7bd04805c1d6285f4" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_v2l" level="file">
+               <did>
+                  <unittitle>Amor (parts and score)</unittitle>
+                  <container id="aspace_c0fd8512edf1ae4ec4ba09cd71f7ff30" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_476" level="file">
+               <did>
+                  <unittitle>Another Night Like This (score)</unittitle>
+                  <container id="aspace_801501e1a3307b1a0f86ebbad1950832" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_53l" level="file">
+               <did>
+                  <unittitle>Answer Me (score)</unittitle>
+                  <container id="aspace_ae39ebe7da2ca4ea0589fcebb33e83c4" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_7sf" level="file">
+               <did>
+                  <unittitle>Anvil Chorus (parts and score)</unittitle>
+                  <container id="aspace_fd2818028cd02f9889ceba70dfc33421" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_zy1" level="file">
+               <did>
+                  <unittitle>Are You Still In Love With Me (tbn 1 and bari 5 parts only)</unittitle>
+                  <container id="aspace_8ecf0af48345e184a98e44c39846386a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_69v" level="file">
+               <did>
+                  <unittitle>Aren't You Glad You're You (parts)</unittitle>
+                  <container id="aspace_f181727489db1a3844d72deb79b0b355" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_4es" level="file">
+               <did>
+                  <unittitle>Arthritis Show: Opening (parts)</unittitle>
+                  <container id="aspace_c70eae0bb785c802769be71cf4142963" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_pp7" level="file">
+               <did>
+                  <unittitle>Ask Anyone Who Knows (score)</unittitle>
+                  <container id="aspace_d1d4a1bf57e3cae4fd28689c78d6209c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_whx" level="file">
+               <did>
+                  <unittitle>Baby Don't Be Mad at Me (score)</unittitle>
+                  <container id="aspace_ce5b64e63027834470e1bb3ee6f3752c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_l06" level="file">
+               <did>
+                  <unittitle>Baby It's Cold Outside (parts)</unittitle>
+                  <container id="aspace_5a26fb905259a1747567b0d1ff82e2fd" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_bcf" level="file">
+               <did>
+                  <unittitle>Back in Your Own Back Yard (score)</unittitle>
+                  <container id="aspace_ea5c2b84a1b27c2f3bfee7b7e6c54dea" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_j7r" level="file">
+               <did>
+                  <unittitle>Basin Street Blues (score)</unittitle>
+                  <container id="aspace_9c95dbb3bf452eb03cdfd612a17e3edd" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_dam" level="file">
+               <did>
+                  <unittitle>Baubles, Bangles, and Beads (score)</unittitle>
+                  <container id="aspace_63eb07d17f680f6f8e45fac980578a7a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_cno" level="file">
+               <did>
+                  <unittitle>Beau Night (parts)</unittitle>
+                  <container id="aspace_22c39ad931ccb4bdbab3f27a06233159" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_x1g" level="file">
+               <did>
+                  <unittitle>A Bed of Roses (score)</unittitle>
+                  <container id="aspace_0a9ff123c46c45b1cf082d74d4a4c175" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_ebg" level="file">
+               <did>
+                  <unittitle>Beware My Heart (score)</unittitle>
+                  <container id="aspace_52904cd9137d612a90b8c34153602d82" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_1ux" level="file">
+               <did>
+                  <unittitle>Bizet Has a Hat Dance (parts), also titled <title render="doublequote"
+                        >Bizet Has a Hat Danse</title> and <title render="doublequote">Bizet Has a
+                        Hat Job</title>
+                  </unittitle>
+                  <container id="aspace_8ccd4e917f49e4900242704c7c989268" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_xzc" level="file">
+               <did>
+                  <unittitle>Blacksmith Blues (score)</unittitle>
+                  <container id="aspace_3692da10cc826e186b70dee565030835" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_lac" level="file">
+               <did>
+                  <unittitle>Bloop! Bleep! (score)</unittitle>
+                  <container id="aspace_cbe83e6676b803dc78f31b8118fb5430" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_kh8" level="file">
+               <did>
+                  <unittitle>Blue Lou (parts)</unittitle>
+                  <container id="aspace_a6bf2a92dbcc976df74795b72eb71d24" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_g9m" level="file">
+               <did>
+                  <unittitle>Blue Music (parts)</unittitle>
+                  <container id="aspace_d5ac27b44223ad2f0cf25a24a4686d96" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_97x" level="file">
+               <did>
+                  <unittitle>Blue Pacific Blues (score)</unittitle>
+                  <container id="aspace_ca83749b8b2f33721662910649eefe44" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_xqm" level="file">
+               <did>
+                  <unittitle>Blue Tango (score), arr. Les Brown</unittitle>
+                  <container id="aspace_dc1444921b2ce94fd1b82ae256a4aac4" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_jpl" level="file">
+               <did>
+                  <unittitle>Blues in the Night (score)</unittitle>
+                  <container id="aspace_8177f0bf4e70c50f4b4d3c56657ec303" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_mz0" level="file">
+               <did>
+                  <unittitle>Body and Soul (parts)</unittitle>
+                  <container id="aspace_8137a4c209b50b20a1d292433030ccd0" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_ek4" level="file">
+               <did>
+                  <unittitle>Butch and Stumpy (score)</unittitle>
+                  <container id="aspace_04ddbff695798477a9b1ec863e18d7e7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_obm" level="file">
+               <did>
+                  <unittitle>Button Up Your Overcoat (score)</unittitle>
+                  <container id="aspace_f0b1ef0ae1cc1e3ae6f6bc9477a4e9fa" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_cu2" level="file">
+               <did>
+                  <unittitle>Candy (score)</unittitle>
+                  <container id="aspace_c241adc3848eee7942855d80ce7363d0" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_nt5" level="file">
+               <did>
+                  <unittitle>Caprice Viennois (parts and score), arr. Les Brown</unittitle>
+                  <container id="aspace_b5ff9c5d032366436990fce933771f6f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_vvz" level="file">
+               <did>
+                  <unittitle>Captain Kidd (score)</unittitle>
+                  <container id="aspace_45f6e209e6e58554cb2eebe78dcbab59" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_0ie" level="file">
+               <did>
+                  <unittitle>C'est Si Bon (parts)</unittitle>
+                  <container id="aspace_7a4718b2d183354f433683d51c944e34" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_cjo" level="file">
+               <did>
+                  <unittitle>Chickery Chick (score)</unittitle>
+                  <container id="aspace_75bbde3f8bba1bc7a506d69529d0cfbe" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_wf4" level="file">
+               <did>
+                  <unittitle>The Christmas Song (score)</unittitle>
+                  <container id="aspace_7607b9267330f00181ab051f37f94177" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_6he" level="file">
+               <did>
+                  <unittitle>The Coffee Song (score)</unittitle>
+                  <container id="aspace_9cedc1e3f29f376b09f07125c8774fc5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_8wf" level="file">
+               <did>
+                  <unittitle>Come to Baby Do (parts and score)</unittitle>
+                  <container id="aspace_7653e4f3ee37cbf89f8d654e2d2d9551" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_f8b" level="file">
+               <did>
+                  <unittitle>Comstock Special (parts)</unittitle>
+                  <container id="aspace_939bbc63b95999e34df39ca7da9a4371" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_d9l" level="file">
+               <did>
+                  <unittitle>Confessin' (parts and score)</unittitle>
+                  <container id="aspace_1da8ff77dd81ce75764d0e31c2c29335" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_5a5" level="file">
+               <did>
+                  <unittitle>Cool of Evening (parts)</unittitle>
+                  <container id="aspace_a69d88112e835a94cfd1fb7b0ef2bc6a" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_o2b" level="file">
+               <did>
+                  <unittitle>Coquette (parts)</unittitle>
+                  <container id="aspace_96674f59d6977d8274efbcefbf46381c" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_7zg" level="file">
+               <did>
+                  <unittitle>Cross-Roads (score)</unittitle>
+                  <container id="aspace_96ca2627a9b946737d0f6c2b315274dc" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_y72" level="file">
+               <did>
+                  <unittitle>Dance With a Dolly (parts)</unittitle>
+                  <container id="aspace_4d15754a2f2286ceb598b8468185bc0d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_0m8" level="file">
+               <did>
+                  <unittitle>Dancing on a Great Big Rainbow (score), includes a letter from Gil
+                     Evans to Les Brown</unittitle>
+                  <container id="aspace_14ee5ffc0cdf1074ba40ae8f916d749d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_tss" level="file">
+               <did>
+                  <unittitle>Do Nothin' Til You Here [<emph render="italic">sic</emph>] From Me
+                     (score)</unittitle>
+                  <container id="aspace_10f937189af841ba87a1991fb99f560a" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_bke" level="file">
+               <did>
+                  <unittitle>Doctor, Lawyer, Indian Chief (parts and score)</unittitle>
+                  <container id="aspace_89f274b7ef3443ce6b0cf1cedf2d8f9d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_7rp" level="file">
+               <did>
+                  <unittitle>Don't Do Something (parts)</unittitle>
+                  <container id="aspace_e552668b80c8393c487add1d6abfcbf1" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_3g2" level="file">
+               <did>
+                  <unittitle>Don't Ever Change (score)</unittitle>
+                  <container id="aspace_7c378dea1a7eeade24a5f83c5061e80a" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_py8" level="file">
+               <did>
+                  <unittitle>Don't Let Me Dream (parts)</unittitle>
+                  <container id="aspace_1a2e6297badb9e69a251267261870e70" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_di4" level="file">
+               <did>
+                  <unittitle>Don't Take Love From Me (score)</unittitle>
+                  <container id="aspace_7235f3211f1353cba7a5eb345980a10f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_cc9" level="file">
+               <did>
+                  <unittitle>Don't Talk About Me (parts)</unittitle>
+                  <container id="aspace_a1db1aac6fa57605ce0486ad9a955038" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_f8o" level="file">
+               <did>
+                  <unittitle>Don't Yield To Temptation (score)</unittitle>
+                  <container id="aspace_1be9c7781bad44636900579d370dadb1" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_lzk" level="file">
+               <did>
+                  <unittitle>Doodle-ee-doo (score)</unittitle>
+                  <container id="aspace_75754a03fe6f3d5088355a6547ca6794" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_ugp" level="file">
+               <did>
+                  <unittitle>Dreamland (score), arr. Les Brown</unittitle>
+                  <container id="aspace_4d70e0d9dc8f11aaaa54097fadac3566" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_bk6" level="file">
+               <did>
+                  <unittitle>Dreams Are Getting Better (parts)</unittitle>
+                  <container id="aspace_92aab3af45fc096c89c11f4a12baf435" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_w9g" level="file">
+               <did>
+                  <unittitle>Duration Blues (score)</unittitle>
+                  <container id="aspace_c06e3893538f4ad93879aebebf640854" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_n6k" level="file">
+               <did>
+                  <unittitle>East of the Sun (parts and score)</unittitle>
+                  <container id="aspace_c7717d44a75c2e78cc36aec6b4da5ba0" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_9lj" level="file">
+               <did>
+                  <unittitle>Easy To Remember (score)</unittitle>
+                  <container id="aspace_9c05e0b20c696e6c54dd092b02209b04" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_rf4" level="file">
+               <did>
+                  <unittitle>Easy Street (parts)</unittitle>
+                  <container id="aspace_9953bfd3c5a5735b7a180a2c7a68e33a" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_64b" level="file">
+               <did>
+                  <unittitle>Elephant Girl (score)</unittitle>
+                  <container id="aspace_ca8bec0cc1e9d9be8a506a465f4b79d6" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_fxo" level="file">
+               <did>
+                  <unittitle>Enjoy Yourself (score)</unittitle>
+                  <container id="aspace_301ae62425074195d360caedf5e8bfab" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_7wj" level="file">
+               <did>
+                  <unittitle>Etiquette Blues [arrangement 1] (parts and score)</unittitle>
+                  <container id="aspace_b74a1de8b77ebfc926c224c94e3615d2" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_ag4" level="file">
+               <did>
+                  <unittitle>Etiquette Blues [arrangement 2] (score)</unittitle>
+                  <container id="aspace_60854fb8796bc38f9ab298592dd8477b" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_tll" level="file">
+               <did>
+                  <unittitle>Even As You and I (score)</unittitle>
+                  <container id="aspace_d93f000978f1cab19826b18be528b109" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_112" level="file">
+               <did>
+                  <unittitle>Everybody Wants To Go To Heaven (score)</unittitle>
+                  <container id="aspace_a18b7c7a6be67267a88ec8e6ecae1065" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_t4v" level="file">
+               <did>
+                  <unittitle>Everyone Is Sayin' Hello Again (score), also titled <title
+                        render="doublequote">Hello Again</title>
+                  </unittitle>
+                  <container id="aspace_48ec858f4c93bff8472d424a490e7e1a" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_qqf" level="file">
+               <did>
+                  <unittitle>F.D.R. Jones (parts)</unittitle>
+                  <container id="aspace_452c29129d1fd823feb396a9c80fabc7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_bo1" level="file">
+               <did>
+                  <unittitle>Flamingo (parts)</unittitle>
+                  <container id="aspace_e904f14252d74dc13167e2f5585aed58" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_sg3" level="file">
+               <did>
+                  <unittitle>Flip Lid [arrangement 1] (score)</unittitle>
+                  <container id="aspace_e65ec360ed85a22a235d721245588897" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_qoz" level="file">
+               <did>
+                  <unittitle>Flip Lid [arrangement 2] (parts)</unittitle>
+                  <container id="aspace_4f57d51f508152cc85986b1d56832583" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_r74" level="file">
+               <did>
+                  <unittitle>For You (score)</unittitle>
+                  <container id="aspace_bfdc3d4a2a12d4f40e8f8e35998f6af9" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_vrt" level="file">
+               <did>
+                  <unittitle>Frim-Fram Sauce (score)</unittitle>
+                  <container id="aspace_210dc073c484ad2d96fa9c4c9095cb77" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_2xg" level="file">
+               <did>
+                  <unittitle>Full and Empty Arms (parts)</unittitle>
+                  <container id="aspace_8da79a0eb80d051c14ae1cdf0c2b538c" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_kwq" level="file">
+               <did>
+                  <unittitle>Gee, Baby, Ain't I Good to You (score), also titled <title
+                        render="doublequote">Ain't I Good to You</title>
+                  </unittitle>
+                  <container id="aspace_235deddc4a9e237f5f93910306c6a927" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_dl1" level="file">
+               <did>
+                  <unittitle>Grand Canyon (cue sheet only)</unittitle>
+                  <container id="aspace_10754b9cd19133e33ecf9f45e942b00b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_oze" level="file">
+               <did>
+                  <unittitle>A Guy is a Guy (parts)</unittitle>
+                  <container id="aspace_058bf9553a09644314fb2b69054b5bc9" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_da2" level="file">
+               <did>
+                  <unittitle>Hair of Gold (parts and score)</unittitle>
+                  <container id="aspace_1bf3109f736c92b262e888d3fa43795e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_14r" level="file">
+               <did>
+                  <unittitle>Handful of Stars (score), arr. Les Brown</unittitle>
+                  <container id="aspace_daf85c2380343bcbc4cc0c614c637da7" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_qa2" level="file">
+               <did>
+                  <unittitle>Happy Times (parts and score)</unittitle>
+                  <container id="aspace_80bfb7ef9166c5e0621bcaed098e521d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_q83" level="file">
+               <did>
+                  <unittitle>Havin' a Wonderful Wish (score)</unittitle>
+                  <container id="aspace_8a6d2e692cc9b07c22ba598c4758360e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_y92" level="file">
+               <did>
+                  <unittitle>Heavenly (score), arr. Les Brown</unittitle>
+                  <container id="aspace_ff6834bd87293f4376c239591811dd65" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_b1o" level="file">
+               <did>
+                  <unittitle>Here Comes Santa Claus (parts and score)</unittitle>
+                  <container id="aspace_8f676ed599dc12a32909a7dd7d3375e3" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_vmi" level="file">
+               <did>
+                  <unittitle>He's Funny That Way (parts and score)</unittitle>
+                  <container id="aspace_4cbdd12b519b4555f28e30a499c62da6" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_iv7" level="file">
+               <did>
+                  <unittitle>High On a Windy Saxophone (parts), additional score for a section
+                     titled <title render="doublequote">Windy Trumpet Insert</title>
+                  </unittitle>
+                  <container id="aspace_f1a85dc43df57f4bf2c6d01973bcad8b" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_hhw" level="file">
+               <did>
+                  <unittitle>Hills of Colorado (score)</unittitle>
+                  <container id="aspace_53c024ba387b0441c3750523b915ecdd" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_4lr" level="file">
+               <did>
+                  <unittitle>Hold Me, Hold Me, Hold Me (score)</unittitle>
+                  <container id="aspace_c6aa1a5ce10fe21f04163d142e8b5ef9" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_hc3" level="file">
+               <did>
+                  <unittitle>Hold the Phone (score)</unittitle>
+                  <container id="aspace_3bafc2ebb44877930a9277e59611161e" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_dox" level="file">
+               <did>
+                  <unittitle>Holiday for Strings (score)</unittitle>
+                  <container id="aspace_f5a57b92c34e951274fbe21662ed3de4" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_10y" level="file">
+               <did>
+                  <unittitle>Home Country (score)</unittitle>
+                  <container id="aspace_28678a4867946165bc759c134715d25e" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_s7c" level="file">
+               <did>
+                  <unittitle>Home for a Little While (score)</unittitle>
+                  <container id="aspace_2c24416aee3415495741b08124386e51" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_yil" level="file">
+               <did>
+                  <unittitle>Honey (parts)</unittitle>
+                  <container id="aspace_d1745f9a3dbbfa288259f347d02c6699" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_pdo" level="file">
+               <did>
+                  <unittitle>Honeysuckle Rose (score)</unittitle>
+                  <container id="aspace_7544c8bc0867823d8b2f2730a9acb89e" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_q2e" level="file">
+               <did>
+                  <unittitle>Hoop-Dee-Doo Polka (score)</unittitle>
+                  <container id="aspace_32451e0474ae28dbefce67c16a7cdebc" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_a58" level="file">
+               <did>
+                  <unittitle>The Hot Canary (score)</unittitle>
+                  <container id="aspace_542455388db85c7d27c20e938248a091" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref117_v6f" level="file">
+               <did>
+                  <unittitle>Hot Point (score), additional score for a section titled <title
+                        render="doublequote">Hot Point Extension</title>
+                  </unittitle>
+                  <container id="aspace_4376f8cb91ead952fdaaa7e50bdf0da8" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_jar" level="file">
+               <did>
+                  <unittitle>How Blue the Night (score)</unittitle>
+                  <container id="aspace_cb010cb5a9381e0e7ba7b9118b4f71ad" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_k9l" level="file">
+               <did>
+                  <unittitle>Hungry Man (score)</unittitle>
+                  <container id="aspace_8b0a114de93acc68175abce9712d3b40" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_ffr" level="file">
+               <did>
+                  <unittitle>I Apologize (score)</unittitle>
+                  <container id="aspace_5fa42e00e3e98bd61dcc8a6fd410fc42" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_t62" level="file">
+               <did>
+                  <unittitle>I Ate My Sister Cuz Her Name Wuz Olive (score)</unittitle>
+                  <container id="aspace_6b9b431f566a56fc581128cd38ccaf7b" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_6u9" level="file">
+               <did>
+                  <unittitle>I Believe (score)</unittitle>
+                  <container id="aspace_12afe98d8ed15412673489a0450447cd" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_vzi" level="file">
+               <did>
+                  <unittitle>I Don't Wanna Be Kissed (parts)</unittitle>
+                  <container id="aspace_f91e4cf9bf2b3f81aefa2a948c1750bc" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_qqq" level="file">
+               <did>
+                  <unittitle>I Get a Hank'rin' for You (parts), also titled <title
+                        render="doublequote">Hankrin' for You</title>
+                  </unittitle>
+                  <container id="aspace_6c22b86766f9f06c08b25a17a5c54251" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_r06" level="file">
+               <did>
+                  <unittitle>I Hear Music (score)</unittitle>
+                  <container id="aspace_86dedb7ce38d26c3974b3c5f2537f195" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref126_art" level="file">
+               <did>
+                  <unittitle>I Know that You Know (parts)</unittitle>
+                  <container id="aspace_0a3deb98fbf6c2c1e1515a2d10d93e39" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_ytr" level="file">
+               <did>
+                  <unittitle>I Love You (score)</unittitle>
+                  <container id="aspace_a4b242cf7946a2a63d2c1685c924efb6" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_x1w" level="file">
+               <did>
+                  <unittitle>I Love You So Much it Hurts Me (tbn 4 part only)</unittitle>
+                  <container id="aspace_ee0bae41c3ff6f6e8546264c66be2dbf" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref129_gzb" level="file">
+               <did>
+                  <unittitle>I Said My Prayers (parts)</unittitle>
+                  <container id="aspace_f675bbaa3224453a5bf17d5c7d3abda6" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_22q" level="file">
+               <did>
+                  <unittitle>I Should Care (score)</unittitle>
+                  <container id="aspace_1a62bc9e245cc80093c74974c6745fcf" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_pa6" level="file">
+               <did>
+                  <unittitle>I Speak to the Stars (score), additional score for a ten-measure
+                     section titled <title render="doublequote">Revision</title>
+                  </unittitle>
+                  <container id="aspace_f71b5945309189a6a3cfc5fd8c2f41c4" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_w4f" level="file">
+               <did>
+                  <unittitle>I Thought About You (score)</unittitle>
+                  <container id="aspace_e296b9a03f23c618b90979874a03e296" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_0ix" level="file">
+               <did>
+                  <unittitle>I Understand (score)</unittitle>
+                  <container id="aspace_a214d72c914451faf5c3e7d00532d403" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_zmp" level="file">
+               <did>
+                  <unittitle>I Wanna Be Loved (parts and score)</unittitle>
+                  <container id="aspace_4c5b1d10469ac43e310c70b76a6c3fe3" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_wot" level="file">
+               <did>
+                  <unittitle>I Whistle a Happy Tune (score)</unittitle>
+                  <container id="aspace_6cb90cef2c13748c4942521267d91c27" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_zzc" level="file">
+               <did>
+                  <unittitle>I Wish I Could Tell You (parts)</unittitle>
+                  <container id="aspace_2292a869e12b9b7c3b5afd38c843dad2" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref137_ycp" level="file">
+               <did>
+                  <unittitle>I Wish I Didn't Love You So (score)</unittitle>
+                  <container id="aspace_924c55c5641a75d75200eabf8d392de1" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_9gz" level="file">
+               <did>
+                  <unittitle>I Wish I Were Twins (score)</unittitle>
+                  <container id="aspace_91590b37a9f875828db97ff9b94c3b5e" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref139_d0s" level="file">
+               <did>
+                  <unittitle>I'd Rather Be With You [arrangement 1] (score)</unittitle>
+                  <container id="aspace_e3dfa47497865365281e6f1189f656df" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref140_uh6" level="file">
+               <did>
+                  <unittitle>I'd Rather Be With You [arrangement 2] (parts)</unittitle>
+                  <container id="aspace_46b7521b8891dc66b42f077c928ee272" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref141_9dl" level="file">
+               <did>
+                  <unittitle>I'd've Baked a Cake (score)</unittitle>
+                  <container id="aspace_2b4343bef46701cd5c4d1f60dd8ada27" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref142_8cb" level="file">
+               <did>
+                  <unittitle>If I Could Be With You (parts), additional parts for an
+                     introduction</unittitle>
+                  <container id="aspace_f985431df36974b2869c7ea91c6d1619" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref143_q5t" level="file">
+               <did>
+                  <unittitle>If I Give My Heart to You (score)</unittitle>
+                  <container id="aspace_e853f6fb461eb077df0e6ff935a57a2c" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_qzk" level="file">
+               <did>
+                  <unittitle>If You Are But a Dream (parts)</unittitle>
+                  <container id="aspace_f9ee375ac780f01ee6020aa768a3befb" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref145_gar" level="file">
+               <did>
+                  <unittitle>If You're So Smart, How Come You ain't Rich? (score)</unittitle>
+                  <container id="aspace_3904d2db092004676b4b414d7975f62c" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_gis" level="file">
+               <did>
+                  <unittitle>I'll Always Love You (parts)</unittitle>
+                  <container id="aspace_098ca6a55ee4451055e7432889a78175" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref147_nzb" level="file">
+               <did>
+                  <unittitle>I'll Be Seeing You (score)</unittitle>
+                  <container id="aspace_7f027f37b6ea0327e63e61973a09e7e6" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref148_1r6" level="file">
+               <did>
+                  <unittitle>I'll Never Let You Cry (score), additional part for vocals, also titled
+                        <title render="doublequote">Never Let You Cry</title>
+                  </unittitle>
+                  <container id="aspace_4dfb7105f81ed127f20df1ac976f98af" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref149_lcx" level="file">
+               <did>
+                  <unittitle>I'll Walk Alone (score)</unittitle>
+                  <container id="aspace_71d3dbcc6d3e2f43ddc97cecee29621b" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref150_bsa" level="file">
+               <did>
+                  <unittitle>I'm Confessin' (parts)</unittitle>
+                  <container id="aspace_b8db2d2ea6df8650f2441588430dfb1a" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref151_ry2" level="file">
+               <did>
+                  <unittitle>I'm Yours (score)</unittitle>
+                  <container id="aspace_d31ec1c54cfd3a00a80edebd9a5a57f9" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_lju" level="file">
+               <did>
+                  <unittitle>In Love In Vain (score)</unittitle>
+                  <container id="aspace_ce55647cd7bef22d9ef5869c185c4e97" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref153_6ow" level="file">
+               <did>
+                  <unittitle>In the Middle of May (score)</unittitle>
+                  <container id="aspace_c01d072d6053ffd9e5d539b55689786f" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref154_goe" level="file">
+               <did>
+                  <unittitle>Intermezzo (parts and score)</unittitle>
+                  <container id="aspace_05de0608eaa1c6ba58a7af4402c79abe" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref155_vdf" level="file">
+               <did>
+                  <unittitle>Invitation to the Blues (score)</unittitle>
+                  <container id="aspace_3392ef1686d8ea26e07f63f4e235b849" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref156_1ol" level="file">
+               <did>
+                  <unittitle>Isle of Capri (parts and score)</unittitle>
+                  <container id="aspace_4d81258bea3a48e087858c256c0d91f0" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref157_oc3" level="file">
+               <did>
+                  <unittitle>It Couldn't Be True (parts and score)</unittitle>
+                  <container id="aspace_175eedf92c5b6d805db5219dbb0083d3" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref158_5at" level="file">
+               <did>
+                  <unittitle>It Doesn't Cost a Dime to Dream (parts), includes a vocal part for Bob
+                     Hope</unittitle>
+                  <container id="aspace_9f604778a90d2220080f5d4567ba9c64" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref159_bmc" level="file">
+               <did>
+                  <unittitle>It Had to be You (score)</unittitle>
+                  <container id="aspace_45ede542ebb0a8cffa09adb59bbe444e" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref160_xnc" level="file">
+               <did>
+                  <unittitle>It Might As Well Be Spring (score), also titled <title
+                        render="doublequote">Might As Well Be Spring</title>
+                  </unittitle>
+                  <container id="aspace_08680e5439dc075b36f55987dd262556" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref161_794" level="file">
+               <did>
+                  <unittitle>It Might Have Been a Different Story (score)</unittitle>
+                  <container id="aspace_e8b7b6f44ecf51630a69710d70d6761f" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref162_152" level="file">
+               <did>
+                  <unittitle>It's Dawn Again (score)</unittitle>
+                  <container id="aspace_2280ad1e543b57fd6d55b70285a926f8" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref163_vwj" level="file">
+               <did>
+                  <unittitle>It's Dream Time (score)</unittitle>
+                  <container id="aspace_6468f76ecfb640d973fa17f95667981e" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref164_dv2" level="file">
+               <did>
+                  <unittitle>It's a Great Feeling (parts)</unittitle>
+                  <container id="aspace_e79fa79cadb641d26089d7c29014e0f7" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref165_axv" level="file">
+               <did>
+                  <unittitle>It's a Wonderful World We Live In (parts), also titled <title
+                        render="doublequote">World</title>
+                  </unittitle>
+                  <container id="aspace_3f19070824e89dbb2c7a4bfadc5ea64d" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref166_47a" level="file">
+               <did>
+                  <unittitle>It's So Peaceful (parts)</unittitle>
+                  <container id="aspace_70da7e48449f38a6c820179e198f65b5" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref167_ars" level="file">
+               <did>
+                  <unittitle>It's Too Soon to Know (parts)</unittitle>
+                  <container id="aspace_731f8a53bca3386d07065d1f1eb006c5" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref168_jk0" level="file">
+               <did>
+                  <unittitle>I've Got the World on a String (score)</unittitle>
+                  <container id="aspace_3aa01aaf1806009cf552ac426551e68c" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref169_0gu" level="file">
+               <did>
+                  <unittitle>I've Got to Fall in Love Again (score), additional piano and vocal
+                     reduction</unittitle>
+                  <container id="aspace_1c6dfb8035bbdca0e025ed49bfb520a3" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref170_k6e" level="file">
+               <did>
+                  <unittitle>Kansas City (parts)</unittitle>
+                  <container id="aspace_60f0acf2a7c027b31e636c44d7691792" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref171_ps9" level="file">
+               <did>
+                  <unittitle>Kentucky (score)</unittitle>
+                  <container id="aspace_e5b2d2de92e847c250549da7f193c22c" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref172_54f" level="file">
+               <did>
+                  <unittitle>La Vie en Rose (score)</unittitle>
+                  <container id="aspace_6e2ab68b412f17071a05560fc4f8ad1c" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref173_5nc" level="file">
+               <did>
+                  <unittitle>Lady of the Evening (score)</unittitle>
+                  <container id="aspace_d07ec6c966551bc7a1acd3d1cd0e4f10" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref174_thf" level="file">
+               <did>
+                  <unittitle>Land of Make Believe (score)</unittitle>
+                  <container id="aspace_c18421be105ff3fa791de59a7ec5f13c" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref175_v9v" level="file">
+               <did>
+                  <unittitle>Last Love (parts)</unittitle>
+                  <container id="aspace_6fd16ffd94496375ad873cd391f621a4" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref176_91j" level="file">
+               <did>
+                  <unittitle>The Last Time I Saw You (score)</unittitle>
+                  <container id="aspace_f8e70c87381d43e675ca78f74d53ad67" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref177_k2x" level="file">
+               <did>
+                  <unittitle>Late Date (parts and score)</unittitle>
+                  <container id="aspace_26bbba27491cee0f761582153c291bc0" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref178_rpb" level="file">
+               <did>
+                  <unittitle>Lemon Twist (score)</unittitle>
+                  <container id="aspace_a32f0aa77d57f858626dabeedf148157" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref179_wx7" level="file">
+               <did>
+                  <unittitle>Let's Take an Old-Fashioned Walk (parts), additional parts titled
+                        <title render="doublequote">Intro</title>
+                  </unittitle>
+                  <container id="aspace_cec1dd4d120dd9c1615afe08c3abbdc3" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref180_ir1" level="file">
+               <did>
+                  <unittitle>Life Begins (parts)</unittitle>
+                  <container id="aspace_778b093905de0a95b4ad6950009c0b05" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref181_amo" level="file">
+               <did>
+                  <unittitle>Like Someone in Love (score), also titled <title render="doublequote"
+                        >Someone in Love</title>
+                  </unittitle>
+                  <container id="aspace_54d92ce35b124eefa0f755131129f4c0" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref182_reh" level="file">
+               <did>
+                  <unittitle>Little Bird (parts and score)</unittitle>
+                  <container id="aspace_5827d159a77fee0248cfe6e4cba14384" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref183_w1j" level="file">
+               <did>
+                  <unittitle>Little Ponky (parts)</unittitle>
+                  <container id="aspace_dbf3bc903f23e46aabaeee8d4e07a38a" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref184_1sv" level="file">
+               <did>
+                  <unittitle>Lollipops (parts)</unittitle>
+                  <container id="aspace_ab66d80a7d3b6ec4b8cffff52e05cc08" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref185_o6u" level="file">
+               <did>
+                  <unittitle>Look Up (parts)</unittitle>
+                  <container id="aspace_18d9ecde7518c563f156340908b6f884" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref186_ceu" level="file">
+               <did>
+                  <unittitle>Love Is Here To Stay (score)</unittitle>
+                  <container id="aspace_6532127572d49e725f916a9809d5f06c" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref187_2rj" level="file">
+               <did>
+                  <unittitle>Love Somebody (tpt 4 part only)</unittitle>
+                  <container id="aspace_022addb438cf35e32e4764d76790e2eb" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref188_jqf" level="file">
+               <did>
+                  <unittitle>Lucky Us (parts), additional piano and vocal reduction</unittitle>
+                  <container id="aspace_d370d7e10ee446c6cc4a2617764a9eb4" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref189_p34" level="file">
+               <did>
+                  <unittitle>Mahzel (score)</unittitle>
+                  <container id="aspace_b57805e240d12389771fcc26c3a2da1a" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref190_n13" level="file">
+               <did>
+                  <unittitle>Makin' Whoopee (score)</unittitle>
+                  <container id="aspace_c577fb59a0d389f47bee512a642fed1d" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref191_jvq" level="file">
+               <did>
+                  <unittitle>Mam-selle (score)</unittitle>
+                  <container id="aspace_2ad6929693ba32d9ae0d979a5a2182bf" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref192_e49" level="file">
+               <did>
+                  <unittitle>The Man I Love (score)</unittitle>
+                  <container id="aspace_dce2b4cdb378e4aa930105dac5423c83" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref193_zsn" level="file">
+               <did>
+                  <unittitle>A Man Is a Bro To a Mule (score)</unittitle>
+                  <container id="aspace_01b4d6eaf9640ba0ef1710e681c0a7bb" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref194_22f" level="file">
+               <did>
+                  <unittitle>Maybe You'll Be There (score), arr. Les Brown</unittitle>
+                  <container id="aspace_f46ddcc3015c3868f8832cfc8caebff5" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref195_64a" level="file">
+               <did>
+                  <unittitle>Medley (parts)</unittitle>
+                  <container id="aspace_bc15cd34cbc98aa2f75764a13756032c" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref196_qin" level="file">
+               <did>
+                  <unittitle>Memory Closing - No. 1 (score)</unittitle>
+                  <container id="aspace_108cd711f8580cbc1a1738ff5b160f57" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref197_k92" level="file">
+               <did>
+                  <unittitle>Mexico City (score)</unittitle>
+                  <container id="aspace_3e9e4fe2363688dee38664925ec39961" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref198_niq" level="file">
+               <did>
+                  <unittitle>Mi Vida (parts and score)</unittitle>
+                  <container id="aspace_7a8ca9a154ed15df3e9f4701a1a185ca" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref199_5l5" level="file">
+               <did>
+                  <unittitle>Milkman, Keep Those Bottles Quiet (score)</unittitle>
+                  <container id="aspace_4f9277b32184cec06e92bbb9e2cb9f04" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref200_d4o" level="file">
+               <did>
+                  <unittitle>Mississippi (parts), additional piano and vocal reduction</unittitle>
+                  <container id="aspace_c2159b457d2051dfdec1991b6a88f3ad" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref201_lw8" level="file">
+               <did>
+                  <unittitle>Mona Lisa (score)</unittitle>
+                  <container id="aspace_e8e44500f8af2c93a1fe4842bc841b02" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref202_kfx" level="file">
+               <did>
+                  <unittitle>Moon for Love (score)</unittitle>
+                  <container id="aspace_7652f4e984857d15fca685f6af632839" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref203_22u" level="file">
+               <did>
+                  <unittitle>Moon Mist (parts)</unittitle>
+                  <container id="aspace_89f0058b03f56fe684aa4e5b306e873e" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref204_suu" level="file">
+               <did>
+                  <unittitle>Moon On My Pillow (score)</unittitle>
+                  <container id="aspace_6d0128d93f59e70e533bb368e77722f2" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref205_rld" level="file">
+               <did>
+                  <unittitle>Moon-Faced, Starry-Eyed (score)</unittitle>
+                  <container id="aspace_3a0605a9972ca9404582edc94e9f1bc8" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref206_0o8" level="file">
+               <did>
+                  <unittitle>More and More (score)</unittitle>
+                  <container id="aspace_857b1e6b299de5ce8d5682d9d4963495" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref207_jvt" level="file">
+               <did>
+                  <unittitle>Moulin Rouge (score)</unittitle>
+                  <container id="aspace_834a126f03da5b947eefb5f1acfc9d6c" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref208_dtd" level="file">
+               <did>
+                  <unittitle>Mr. Percussion (score)</unittitle>
+                  <container id="aspace_3daeabcb8edd0b996ecdcb123f0e591f" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref209_bz1" level="file">
+               <did>
+                  <unittitle>My Ev'ry Wish and Prayer (parts and score)</unittitle>
+                  <container id="aspace_56f3976c3992e6343df1d427c65d121c" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref210_h45" level="file">
+               <did>
+                  <unittitle>My Foolish Heart (parts and score), also titled <title
+                        render="doublequote">Foolish Heart</title>
+                  </unittitle>
+                  <container id="aspace_c29d8b608ba28987ff1ca80179e9b152" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref211_ki3" level="file">
+               <did>
+                  <unittitle>My Heart Goes Crazy (score)</unittitle>
+                  <container id="aspace_a3d36f6e5ee2ad1ad43f46686fa4475f" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref212_vlw" level="file">
+               <did>
+                  <unittitle>My Heart Is a Hobo (score)</unittitle>
+                  <container id="aspace_09a021e0e73e771e164c1845dffaaeed" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref213_sno" level="file">
+               <did>
+                  <unittitle>My Heart's In the Middle of July (score)</unittitle>
+                  <container id="aspace_4715c8d46848c1a6a4fa7dbed096a942" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref214_5pc" level="file">
+               <did>
+                  <unittitle>Negra Consentida (score)</unittitle>
+                  <container id="aspace_25486afaf75e790a2fb78ed85112fc15" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref215_8ii" level="file">
+               <did>
+                  <unittitle>Nevertheless (parts), additional parts titled <title
+                        render="doublequote">Intro to Nevertheless</title>
+                  </unittitle>
+                  <container id="aspace_e0d47fa29cf683e9274d0c13c71c489e" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref216_did" level="file">
+               <did>
+                  <unittitle>Night Flight (score)</unittitle>
+                  <container id="aspace_ab60a322c5fa82d8617753ddeb7b7418" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref217_jqw" level="file">
+               <did>
+                  <unittitle>Nobody Else But Me (score), arr. Les Brown</unittitle>
+                  <container id="aspace_9532ada327b6ff5d2a8b9b06687dcac5" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref218_b07" level="file">
+               <did>
+                  <unittitle>Oh Baby [arrangement 1] (score)</unittitle>
+                  <container id="aspace_7168074972bc45cc43db73522b2e2ca5" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref219_brp" level="file">
+               <did>
+                  <unittitle>Oh Baby [arrangement 2] (score)</unittitle>
+                  <container id="aspace_e4608bad166e91b98bb25faeaa6937fa" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref220_62l" level="file">
+               <did>
+                  <unittitle>Oh But I Do! (score)</unittitle>
+                  <container id="aspace_97573f3c2febf7e98b37901473e0d6c2" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref221_nw7" level="file">
+               <did>
+                  <unittitle>O.K. for Baby (parts)</unittitle>
+                  <container id="aspace_25e17ade433d2d0ef75c233d6ce98094" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref222_und" level="file">
+               <did>
+                  <unittitle>Oldsmobile (score)</unittitle>
+                  <container id="aspace_068877cbb60a7bd586b69452086d19e7" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref223_7xv" level="file">
+               <did>
+                  <unittitle>On the Alamo [arrangement 1] (score)</unittitle>
+                  <container id="aspace_4938964159c6a26d2e504fc62884d01d" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref224_qyj" level="file">
+               <did>
+                  <unittitle>On the Alamo [arrangement 2] (parts)</unittitle>
+                  <container id="aspace_80e95286a0893605a7abef16085e99c5" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref225_37x" level="file">
+               <did>
+                  <unittitle>On the Other End Of a Kiss (score)</unittitle>
+                  <container id="aspace_e2590cb44135108d3d7a49ff7d31f240" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref226_s3o" level="file">
+               <did>
+                  <unittitle>Once Upon a Moon (score)</unittitle>
+                  <container id="aspace_c5f769cf95e6128e8a373492eb5baefc" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref227_p2e" level="file">
+               <did>
+                  <unittitle>Opus 1 (parts)</unittitle>
+                  <container id="aspace_3a76593bd0eba0f12fbba700ed29a4e7" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref228_l9j" level="file">
+               <did>
+                  <unittitle>Out of My Way (score)</unittitle>
+                  <container id="aspace_8c097cf121636e16b0bcdbc7e17b36f1" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref229_af8" level="file">
+               <did>
+                  <unittitle>Pathetique (parts and score)</unittitle>
+                  <container id="aspace_f039bca8a1c52dfc55954d566c2a873b" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref230_eb7" level="file">
+               <did>
+                  <unittitle>Patience and Fortitude (parts)</unittitle>
+                  <container id="aspace_e455145ee151f2bec94f2e48f38b706f" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref231_sby" level="file">
+               <did>
+                  <unittitle>Pavanne (score)</unittitle>
+                  <container id="aspace_5ae3ce24bf8f1818c6b69bf77811e65c" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref232_azs" level="file">
+               <did>
+                  <unittitle>Penthouse (score)</unittitle>
+                  <container id="aspace_3d8d47c5aea16454507cb34d359709fd" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref233_mjc" level="file">
+               <did>
+                  <unittitle>Pick Yourself Up (score)</unittitle>
+                  <container id="aspace_4d1026ed6a7da464b29929e948380de6" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref234_h5g" level="file">
+               <did>
+                  <unittitle>Pipe-Dreaming (parts and score)</unittitle>
+                  <container id="aspace_9b2d9f491da1fc53d0507933a6002ad5" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref235_moo" level="file">
+               <did>
+                  <unittitle>Please Don't Kiss Me (score)</unittitle>
+                  <container id="aspace_ae3a047fc23caf39003a01df5263f72d" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref236_36a" level="file">
+               <did>
+                  <unittitle>Polka Commercial (score)</unittitle>
+                  <container id="aspace_05a5467a1985e1a6e4385cf8dcde91f5" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref237_h13" level="file">
+               <did>
+                  <unittitle>Pomp (parts)</unittitle>
+                  <container id="aspace_10db33a8bbb4bebab080b9d64689a611" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref238_udm" level="file">
+               <did>
+                  <unittitle>Powder My Face (score)</unittitle>
+                  <container id="aspace_b239dbf6c24f4a4019298c9459bbd735" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref239_vz3" level="file">
+               <did>
+                  <unittitle>Pretend (score)</unittitle>
+                  <container id="aspace_232cbdf899203b9c91148a918d1fa7f0" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref240_002" level="file">
+               <did>
+                  <unittitle>Pretty Baby (parts)</unittitle>
+                  <container id="aspace_0546075f5fb965d0ef3312f67cf851c2" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref241_43w" level="file">
+               <did>
+                  <unittitle>Procession of the Sardar (score)</unittitle>
+                  <container id="aspace_86304ffcb5dae8dda3403ff87e2ef922" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref242_ipu" level="file">
+               <did>
+                  <unittitle>Put 'Em In a Box [arrangement 1] (parts and score)</unittitle>
+                  <container id="aspace_945ec48c523bec65f3aa46a6d843e9c3" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref243_nz6" level="file">
+               <did>
+                  <unittitle>Put 'Em In a Box [arrangement 2] (score)</unittitle>
+                  <container id="aspace_454dbb87ab0e9c83c04d751d2e0ba9eb" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref244_j4j" level="file">
+               <did>
+                  <unittitle>Put Something In the Pot (score)</unittitle>
+                  <container id="aspace_cffaa69d9dddabd95ab56515ded5b5d9" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref245_lpv" level="file">
+               <did>
+                  <unittitle>Put Yourself In My Place, Baby (score)</unittitle>
+                  <container id="aspace_1c1c85907f6ef4dc79d39ff6a0e21a81" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref246_s4z" level="file">
+               <did>
+                  <unittitle>Quick Silver (parts and score)</unittitle>
+                  <container id="aspace_14393043de16411f2b35fdfe9c79d8eb" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref247_q0c" level="file">
+               <did>
+                  <unittitle>Ready To Go Steady (score)</unittitle>
+                  <container id="aspace_b67d03ee1347c7ac675ab543951ebb0b" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref248_u66" level="file">
+               <did>
+                  <unittitle>Red Kiss (score)</unittitle>
+                  <container id="aspace_2b6f2f997c1ad936e91f386ac0127ebb" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref249_4bh" level="file">
+               <did>
+                  <unittitle>Red Sails in the Sunset (parts)</unittitle>
+                  <container id="aspace_6bb68b2064d4c629e704a03d3dc2313c" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref250_cu7" level="file">
+               <did>
+                  <unittitle>Remember Me (parts)</unittitle>
+                  <container id="aspace_0d30618b7c7156639c6f8e4ec817c2e9" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref251_621" level="file">
+               <did>
+                  <unittitle>Rhumba (score)</unittitle>
+                  <container id="aspace_1063e5294f452e2ca29d237523383f9e" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref252_wqj" level="file">
+               <did>
+                  <unittitle>Riders In the Sky (parts), additional piano and vocal
+                     reduction</unittitle>
+                  <container id="aspace_b42148ff6450fa8147b922a0853c7e2e" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref253_v8q" level="file">
+               <did>
+                  <unittitle>Riff Staccato (parts and score)</unittitle>
+                  <container id="aspace_543174e03d0af34060028db15affd775" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref254_xtn" level="file">
+               <did>
+                  <unittitle>Rigoletto (parts)</unittitle>
+                  <container id="aspace_d3d883235714ac85b5201f4c06628ba5" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref255_mb1" level="file">
+               <did>
+                  <unittitle>Rio Cristal (parts)</unittitle>
+                  <container id="aspace_715dce4f8f9406b78ca13ab66db39c10" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref256_ikm" level="file">
+               <did>
+                  <unittitle>Ritual Fire Dance (score)</unittitle>
+                  <container id="aspace_3904e2237fd3469017ee64810964010d" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref257_kbe" level="file">
+               <did>
+                  <unittitle>River St. Marie (parts and score)</unittitle>
+                  <container id="aspace_236ad053427378f54e95a26e81447805" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref258_s6r" level="file">
+               <did>
+                  <unittitle>Robert the Playboy (parts)</unittitle>
+                  <container id="aspace_030232974f9d0c2ecc5c4bfee2154bcd" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref259_313" level="file">
+               <did>
+                  <unittitle>Robins &amp; Roses (parts)</unittitle>
+                  <container id="aspace_d670810efc3224a0d209627a47c480ca" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref260_q4x" level="file">
+               <did>
+                  <unittitle>Rodgers and Hammerstein (score)</unittitle>
+                  <container id="aspace_d7615a1b1d38f3311141945f141c4a89" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref261_w3g" level="file">
+               <did>
+                  <unittitle>Route 66 (score)</unittitle>
+                  <container id="aspace_a74a7da25f74cb8a577ec6a4cc376cd5" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref262_gj7" level="file">
+               <did>
+                  <unittitle>Rumors Are Flying (parts)</unittitle>
+                  <container id="aspace_dc4cd523d959912e6cdeee83c53bb986" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref263_kw0" level="file">
+               <did>
+                  <unittitle>Salt Water Cowboy (score)</unittitle>
+                  <container id="aspace_6d79bc8d184cf13cca35b15e190b335f" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref264_qp4" level="file">
+               <did>
+                  <unittitle>Sam's Song (parts)</unittitle>
+                  <container id="aspace_9de23ccbd1349e8e821fad2289410723" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref265_ytu" level="file">
+               <did>
+                  <unittitle>Sentimental Journey (score)</unittitle>
+                  <container id="aspace_f8d1e16944f078d3c6854b9bd75b9529" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref266_6ym" level="file">
+               <did>
+                  <unittitle>Sentimental Rhapsody (score), arr. Les Brown</unittitle>
+                  <container id="aspace_b351258ee83a7b9c96ca6707d4834594" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref267_zje" level="file">
+               <did>
+                  <unittitle>Shangri-La (score)</unittitle>
+                  <container id="aspace_1358412b608f1bb35bd228a2b6cc1384" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref268_nhg" level="file">
+               <did>
+                  <unittitle>She's Funny (parts)</unittitle>
+                  <container id="aspace_128581e8325d0469fbd1ac9e6a58ff00" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref269_51p" level="file">
+               <did>
+                  <unittitle>Should I? (parts and score)</unittitle>
+                  <container id="aspace_8fb8fbf98853f6f74d167ed09544393d" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref270_x7t" level="file">
+               <did>
+                  <unittitle>Show Me the Way To Go Home (parts)</unittitle>
+                  <container id="aspace_c3fe4435b60e9a5022fba7231e2c83a7" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref271_fb1" level="file">
+               <did>
+                  <unittitle>Sing You Sinners (score)</unittitle>
+                  <container id="aspace_5f044761c27559119d7e6c9e2b57fe2d" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref272_gca" level="file">
+               <did>
+                  <unittitle>Sister Kate (parts)</unittitle>
+                  <container id="aspace_0c313df37c86f5dc78fe54b57774a60f" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref273_rlp" level="file">
+               <did>
+                  <unittitle>Six Pence (parts)</unittitle>
+                  <container id="aspace_89ed4b6714dd3aa5ce5cb017d2539017" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref274_bux" level="file">
+               <did>
+                  <unittitle>Skylark (score)</unittitle>
+                  <container id="aspace_3d5c75b34da7fc6fbda9604bcfd7f050" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref275_p9l" level="file">
+               <did>
+                  <unittitle>Sleigh Ride in July (parts and score)</unittitle>
+                  <container id="aspace_162be1aaeaae2e03f4a6b1ad7992c97c" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref276_v13" level="file">
+               <did>
+                  <unittitle>Slowly (score)</unittitle>
+                  <container id="aspace_80f324690516be86bef625f694109e89" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref277_fqa" level="file">
+               <did>
+                  <unittitle>So Rare (score), additional drum part for different
+                     arrangement</unittitle>
+                  <container id="aspace_48562778070aa29cde1c3400f9922f11" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref278_nwm" level="file">
+               <did>
+                  <unittitle>Solid Potato Salad (score)</unittitle>
+                  <container id="aspace_3b314dad2b8d86f687924d1b8d3c07a7" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref279_v3q" level="file">
+               <did>
+                  <unittitle>Someday, Somewhere (score)</unittitle>
+                  <container id="aspace_fd35dd899d7d1b37964520e55ba68a32" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref280_rag" level="file">
+               <did>
+                  <unittitle>Someday Sweetheart (parts)</unittitle>
+                  <container id="aspace_072ac20f262531bdb4977e3a74db9d3e" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref281_66i" level="file">
+               <did>
+                  <unittitle>Someone Like You (parts)</unittitle>
+                  <container id="aspace_6cff7b6b5f4afe2cb6aeff945a40636c" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref282_gob" level="file">
+               <did>
+                  <unittitle>Somewhere In the Night (score)</unittitle>
+                  <container id="aspace_29555f7f1cc11de7050831d2a439d831" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref283_oxc" level="file">
+               <did>
+                  <unittitle>Soon (parts)</unittitle>
+                  <container id="aspace_e4a498e2434cec0a50f4ff51ab8700a6" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref284_g6c" level="file">
+               <did>
+                  <unittitle>Sorghum Switch (score)</unittitle>
+                  <container id="aspace_67af34a8140129b692a5bb68b5f7cc24" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref285_vfk" level="file">
+               <did>
+                  <unittitle>South America - Take It Away (score)</unittitle>
+                  <container id="aspace_5359f37bfbf6198d2d3a7a553432c2fe" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref286_4yr" level="file">
+               <did>
+                  <unittitle>Spesh'lly You (score)</unittitle>
+                  <container id="aspace_846801ef9a74cf2157958ccaecad1ed2" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref287_6yx" level="file">
+               <did>
+                  <unittitle>Spring Isn't Everything (score)</unittitle>
+                  <container id="aspace_6b628518d7775331244f66520f02ad5c" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref288_lza" level="file">
+               <did>
+                  <unittitle>Stage Medley (parts and score)</unittitle>
+                  <container id="aspace_b359aeb80748bfc7a97bf3505c20c34d" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref289_hux" level="file">
+               <did>
+                  <unittitle>Stage Medley: Eileen Wilson (score)</unittitle>
+                  <container id="aspace_45a0cecbbf0f5e68e678ca24e55ab747" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref290_2o2" level="file">
+               <did>
+                  <unittitle>Stage Medley Record (parts)</unittitle>
+                  <container id="aspace_71fd9bc6dd704c69e9613e6e5ddfd794" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref291_tba" level="file">
+               <did>
+                  <unittitle>Stranger In Town (score)</unittitle>
+                  <container id="aspace_2905b5e6df1d3385b4258de046ffe786" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref292_za2" level="file">
+               <did>
+                  <unittitle>Street of Dreams (score)</unittitle>
+                  <container id="aspace_99699e6fa5f0440097a5c4e1ccd273d4" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref293_2ca" level="file">
+               <did>
+                  <unittitle>Strictly Instrumental (drum part only)</unittitle>
+                  <container id="aspace_75108a752e0a191620e99d5179b25c56" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref294_42u" level="file">
+               <did>
+                  <unittitle>String Background (parts)</unittitle>
+                  <container id="aspace_4eec305a698c54c680e56e73a3ecf6ef" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref295_pt8" level="file">
+               <did>
+                  <unittitle>Summer Interlude (parts)</unittitle>
+                  <container id="aspace_381cb85817f94022fed006e774264d63" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref296_srg" level="file">
+               <did>
+                  <unittitle>Sunbeam: Intro (parts)</unittitle>
+                  <container id="aspace_862bb91889eec610aad936f49c0e7ede" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref297_tf9" level="file">
+               <did>
+                  <unittitle>Sunday Kind of Love (score)</unittitle>
+                  <container id="aspace_7b746a56a683e93521ec2a5bae5e2bcc" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref298_swk" level="file">
+               <did>
+                  <unittitle>Sunny Side (parts)</unittitle>
+                  <container id="aspace_9a15fc6d2f4b5f57b1d2c59e881d53f3" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref299_w4p" level="file">
+               <did>
+                  <unittitle>Sunny Side of the Street (parts)</unittitle>
+                  <container id="aspace_4d71d423f31bf9d5ddafd38870b151b4" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref300_ei3" level="file">
+               <did>
+                  <unittitle>Sweet Eloise (score)</unittitle>
+                  <container id="aspace_8bd38dfcd3d187d7c432fb404915fe87" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref301_0u9" level="file">
+               <did>
+                  <unittitle>Sweet Lorraine (score)</unittitle>
+                  <container id="aspace_c272008c76d8443bb708c428b1d2bcd9" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref302_6um" level="file">
+               <did>
+                  <unittitle>Sweet and Lovely (score)</unittitle>
+                  <container id="aspace_29f9e475d5fdc8a7e1c4170ac087bac3" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref303_ygj" level="file">
+               <did>
+                  <unittitle>Tain't Whatcha Do (score)</unittitle>
+                  <container id="aspace_d0b1a0c619b1174d3c011bd234e7dde7" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref304_irl" level="file">
+               <did>
+                  <unittitle>Take a Look (score)</unittitle>
+                  <container id="aspace_063b9977207b04958dd114006ea4df8c" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref305_1pm" level="file">
+               <did>
+                  <unittitle>Take Me In Your Arms (score)</unittitle>
+                  <container id="aspace_950ce85af4daf4f38356d148e1e50a3c" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref306_o87" level="file">
+               <did>
+                  <unittitle>Tease Me (score)</unittitle>
+                  <container id="aspace_6c336bbf07eee4aab0237ab32663e3c9" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref307_qev" level="file">
+               <did>
+                  <unittitle>That Certain Party (parts)</unittitle>
+                  <container id="aspace_224b3207034db3a4f7c9b358d42345be" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref308_djg" level="file">
+               <did>
+                  <unittitle>That's Where I Came In (score)</unittitle>
+                  <container id="aspace_0477551b33b6bcd3859a3e0c0169413b" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref309_wbm" level="file">
+               <did>
+                  <unittitle>There Will Always Be an Ireland (parts)</unittitle>
+                  <container id="aspace_2950c182a1b1ef23c1cbaa169f84ff2a" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref310_0cq" level="file">
+               <did>
+                  <unittitle>These Foolish Things (score)</unittitle>
+                  <container id="aspace_dd8f03a653c1ee5ce84e1cd1ffcc9486" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref311_7gy" level="file">
+               <did>
+                  <unittitle>They Were Doin' the Mambo (score)</unittitle>
+                  <container id="aspace_acd0eb18e037f75ea1bf327735b78d4a" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref312_a4l" level="file">
+               <did>
+                  <unittitle>This Is Always (score)</unittitle>
+                  <container id="aspace_2e14a25438ef581adce15663e8c44568" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref313_q1b" level="file">
+               <did>
+                  <unittitle>Time After Time (parts)</unittitle>
+                  <container id="aspace_2cbe3e2ed9e7a6724c0eaaca6093e821" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref314_3qe" level="file">
+               <did>
+                  <unittitle>Turkey Hop (parts)</unittitle>
+                  <container id="aspace_de599c663a6fbc2b9abaed30025f2bf0" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref315_ni9" level="file">
+               <did>
+                  <unittitle>Twas Brillig (parts)</unittitle>
+                  <container id="aspace_93bf7ff56f82021875c8114d1873623c" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref316_qgc" level="file">
+               <did>
+                  <unittitle>Twilight Lullaby (parts)</unittitle>
+                  <container id="aspace_589c9ff077969e5b41bf6d1322a757fc" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref317_gdt" level="file">
+               <did>
+                  <unittitle>Two To Tango (score), additional score titled <title
+                        render="doublequote">Intro - Tango</title>
+                  </unittitle>
+                  <container id="aspace_ae05f3b847bd419256160563920b3aad" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref318_vmn" level="file">
+               <did>
+                  <unittitle>Wait a Little Longer (parts)</unittitle>
+                  <container id="aspace_c6639a8c66b7c49a63333f1ce40be925" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref319_zu0" level="file">
+               <did>
+                  <unittitle>Waited Too Long (parts)</unittitle>
+                  <container id="aspace_d0aa27820111951984f1ff301e80f3a1" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref320_h9z" level="file">
+               <did>
+                  <unittitle>Waiting (score)</unittitle>
+                  <container id="aspace_556db32af16ff08603c350ebbcb251d9" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref321_qqv" level="file">
+               <did>
+                  <unittitle>Waiting at the Station (score)</unittitle>
+                  <container id="aspace_12e51ad7f046d0d2cf1b5e6d24f5a2c3" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref322_hhq" level="file">
+               <did>
+                  <unittitle>Wake Up the Place (score)</unittitle>
+                  <container id="aspace_32dcebcea57da42e2446aaf55431042d" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref323_0k2" level="file">
+               <did>
+                  <unittitle>Walkin' My Baby Back Home (score)</unittitle>
+                  <container id="aspace_8a61e48dd650cc49ed0560dba39f5b12" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref324_ek1" level="file">
+               <did>
+                  <unittitle>What Does It Take (score)</unittitle>
+                  <container id="aspace_fec2d252a621e445756db87e0a05bd7b" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref325_ozm" level="file">
+               <did>
+                  <unittitle>What Is This Thing Called Love [arrangement 1] (score)</unittitle>
+                  <container id="aspace_77082ccb33c8ad678dddfb863ee2e822" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref326_4q2" level="file">
+               <did>
+                  <unittitle>What Is This Thing Called Love [arrangement 2] (score)</unittitle>
+                  <container id="aspace_bd84ed01c87dfaa419c3d0fdf71ea44a" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref327_re8" level="file">
+               <did>
+                  <unittitle>When Am I Gonna Kiss You (score)</unittitle>
+                  <container id="aspace_1aea32c13f6e29b242217287f288f6c7" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref328_1c8" level="file">
+               <did>
+                  <unittitle>When the Swallows Come Back to Capistrano (score)</unittitle>
+                  <container id="aspace_12424a2e4b4b0cc9d36b2652b70347de" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref329_0ge" level="file">
+               <did>
+                  <unittitle>When They Ask About You (score)</unittitle>
+                  <container id="aspace_ab6549c175057c4abc463364e1ab7a8b" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref330_e8e" level="file">
+               <did>
+                  <unittitle>When You Love Someone (score)</unittitle>
+                  <container id="aspace_91a07041a2ad0abc021712ea090de234" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref331_554" level="file">
+               <did>
+                  <unittitle>When You Trim Your Christmas Tree (score)</unittitle>
+                  <container id="aspace_b117f4a7c800404ef428ec48d659fad9" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref332_ees" level="file">
+               <did>
+                  <unittitle>White Xmas (drum part only)</unittitle>
+                  <container id="aspace_47edde92854959fd102fe56f76be6759" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref333_efy" level="file">
+               <did>
+                  <unittitle>Who's Excited (score)</unittitle>
+                  <container id="aspace_e94ab52bb7d945cc751cc3a9999090d9" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref334_27c" level="file">
+               <did>
+                  <unittitle>Why Don't We Say We're Sorry (score)</unittitle>
+                  <container id="aspace_a3a0108a91fe64b3b333cac9c960d4ae" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref335_tko" level="file">
+               <did>
+                  <unittitle>Winter Moon (score)</unittitle>
+                  <container id="aspace_0e59c5f451a93ae88cdd76397e678830" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref336_2of" level="file">
+               <did>
+                  <unittitle>Wishing (parts)</unittitle>
+                  <container id="aspace_a4248bbc4d5f7d6dfdc57966e2766ae2" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref337_5cf" level="file">
+               <did>
+                  <unittitle>Yep Roc Heresi (score)</unittitle>
+                  <container id="aspace_1804a4959b98ef9732e377f00288cc55" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref338_kr8" level="file">
+               <did>
+                  <unittitle>You Are Too Beautiful (score)</unittitle>
+                  <container id="aspace_f9945def9396f6c2dc5d5b0bef7804ca" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref339_r44" level="file">
+               <did>
+                  <unittitle>You May Not Love Me (parts)</unittitle>
+                  <container id="aspace_2eaae05f09c60d4f58b8f0ff1b668008" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref340_3vp" level="file">
+               <did>
+                  <unittitle>You Won't Be Satisfied (score)</unittitle>
+                  <container id="aspace_a9526e5ad4d7cc4eb23d4506799dac23" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref341_6w6" level="file">
+               <did>
+                  <unittitle>You're In Love With Someone (score)</unittitle>
+                  <container id="aspace_36891a4662418eb0f2e29a39c3fa82ec" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref342_iou" level="file">
+               <did>
+                  <unittitle>You're So Sweet To Remember (score)</unittitle>
+                  <container id="aspace_941e3202a03b081290f991a9cbf889af" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref343_5v1" level="file">
+               <did>
+                  <unittitle>You're the Top (score)</unittitle>
+                  <container id="aspace_6151ce792c039082a7f365d1d2c76c13" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref344_hvo" level="file">
+               <did>
+                  <unittitle>Miscellaneous, concert program and newspaper clippings for a 1985 Les
+                     Brown concert at Duke; unidentified parts or incomplete arrangements separated
+                     from main collection by staff</unittitle>
+                  <container id="aspace_5ee300b8ddf28dd7ecc935f819e1658e" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

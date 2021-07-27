@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/lokkecarl/">lokkecarl</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Carl L. Lokke Papers, 1913-1968 <num>RL.00821</num>
+            </titleproper>
+            <author>Processed by Rubenstein Library staff; machine-readable finding aid created by:
+               Robert Carlson, Ted Holt, and Paula Jeannet</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2009</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001767371</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:22:14
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Carl L. Lokke papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Lokke, Carl Ludwig, 1897-1960</persname>
+         </origination>
+         <unitid>RL.00821</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">16.1 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1913/1968" type="inclusive">1913-1968</unitdate>
+         <physloc id="aspace_3c4200f5f12438b8480477f48ec85ef7">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_be776567985bfafa12adc0f68395ef3a">Archivist and historian; chief of
+            Foreign Affairs Branch at the U.S. National Archives. Collection consists of the
+            biographical and professional files of Carl Ludwig Lokke, who was on the staff of the
+            National Archives for many years. Material includes copies of his own research papers
+            and many folders of research notes on his specialty, 18th century French colonialism in
+            the West Indies colonies, and more specifically on the life and career of colonial
+            administrator Baron Pierre-Victor Malouet, who was active mainly in French Guiana. There
+            are also many transcriptions and photocopies of primary documents from archives in
+            France and other repositories, as well as some microfilms. Other material includes
+            Lokke's work files from the National Archives.</abstract>
+         <physdesc id="aspace_eb2cff1763f6131fef2c9c655d79382f">
+            <extent>Approximately 4000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_b560d69e3bd26df84f999f052012544c">Material in English and French
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_a99ec6df4ee24be46c134b281af4227b">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_13784f8967e90bf05c2e98e2254df22b">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_133b196338cccd3d6945d649c6e05579">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Carl L. Lokke Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_1960e157a1db4bd531c7e1bc6d636da0">
+         <head>Provenance</head>
+         <p>The Carl L. Lokke Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 1964 and 1968.</p>
+      </acqinfo>
+      <processinfo id="aspace_51c68e664f80bfdfb8c7bb84ac17ff89">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff, February 1964</p>
+         <p>Further processing may be required before materials can be accessed.</p>
+         <p>Encoded by Robert Carlson, Ted Holt, and Paula Jeannet, April and September 2009</p>
+         <p>Accession 64-49 is described in this finding aid. </p>
+         <p>Edited to include unnumbered addition by Alice Poffinberger, May 2014.</p>
+      </processinfo>
+      <bioghist id="aspace_863accfe6ff58fadbbd9eaec269ecf58">
+         <head>Biographical Note</head>
+         <p>Archivist and historian; chief of Foreign Affairs Branch at the U.S. National
+            Archives.</p>
+      </bioghist>
+      <scopecontent id="aspace_0cd1b171ecdd6f438cec0e4bd05bf027">
+         <head>Collection Overview</head>
+         <p>The Carl L. Lokke Papers are dated between 1918 and 1968, and consist of the
+            biographical and professional files of Carl Ludwig Lokke, who was on the staff of the
+            National Archives for many years. Material includes copies of his own research papers
+            and many folders of research notes on his specialty, 18th century French colonialism in
+            the West Indies colonies, and more specifically on the life and career of colonial
+            administrator Baron Pierre-Victor Malouet, who was mainly active in French Guiana. There
+            are also many transcriptions and photocopies of primary documents from archives in
+            France and other repositories, as well as some microfilms and a few journal issues and
+            other printed material. A series of alphabetical fiels contains writings by other
+            authors and is arranged by country. Other files contain material related to Lokke's
+            archival career, including files relating to the National Archives, and service
+            awards.</p>
+      </scopecontent>
+      <controlaccess>
+         <genreform source="aat">Microfilms</genreform>
+         <geogname source="lcsh">West Indies, French -- History</geogname>
+         <geogname source="lcsh">French Guiana -- History</geogname>
+         <subject source="lcsh">Historians -- United States -- Correspondence</subject>
+         <geogname source="lcsh">France -- Colonies -- History</geogname>
+         <geogname source="lcsh">France -- History -- 18th century</geogname>
+         <subject source="lcsh">Colonial administrators -- West Indies</subject>
+         <corpname source="ingest">United States. National Archives and Records Service -- Officials
+            and employees</corpname>
+         <corpname source="ingest">United States. National Archives and Records Service</corpname>
+         <persname source="ingest">Lokke, Carl Ludwig, 1897-1960</persname>
+         <persname source="ingest">Malouet, Pierre-Victor, baron, 1740-1814</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_sta" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1918-1960</unittitle>
+               <physdesc id="aspace_9d7be7ea67bfb705799a67a578dbb957">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref14_x8t" level="file">
+               <did>
+                  <unittitle>Correspondence, 1920-1945</unittitle>
+                  <container id="aspace_4ab4c1076145cdb872163a3595809b66" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_bn2" level="file">
+               <did>
+                  <unittitle>Postcards</unittitle>
+                  <container id="aspace_390983173021c28bfac50162feb87681" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_tka" level="file">
+               <did>
+                  <unittitle>Dissertation correspondence</unittitle>
+                  <container id="aspace_beb8bfb4a1b5183b8dbfcfb351814bfc" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_pv5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1918-1937</unittitle>
+                  <container id="aspace_74748a2898d671cbaee1e7d6a4fe2ea4" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_0zz" level="file">
+               <did>
+                  <unittitle>1939-1945</unittitle>
+                  <container id="aspace_98116f0d28e02e9284bdab7d149e8d29" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_uui" level="file">
+               <did>
+                  <unittitle>1946-1951</unittitle>
+                  <container id="aspace_77c7fd31a663dd3b47dc1a9083dcf409" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_iny" level="file">
+               <did>
+                  <unittitle>1952-1960</unittitle>
+                  <container id="aspace_c32efba0e6e8de6eda90450c0b1d9f23" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref21_ro5" level="series">
+            <did>
+               <unittitle>Research Notes Series, 1926-1958</unittitle>
+               <physdesc id="aspace_e59f5967032fbe257bc0b0e8879bb510">
+                  <extent>2.5 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref23_mjz" level="file">
+               <did>
+                  <unittitle>Printed material</unittitle>
+                  <container id="aspace_c75849c99c6500f7a9c4aa8eb6e4aef5" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <c03 id="aspace_ref24_cwj" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Revue Société d'Histoire et de Geographie
+                           d'Haiti,</title> 1946-1949</unittitle>
+                     <container id="aspace_3401b5367f5e65953c59db2aebf1ad5e" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref25_5af" level="file">
+               <did>
+                  <unittitle>Research notes</unittitle>
+                  <container id="aspace_c748ef3c0beccfe500de885624a625ff" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_f2q" level="file">
+               <did>
+                  <unittitle>Black and white photographs</unittitle>
+                  <container id="aspace_3db0b0f508865ebb0d21031f18b667dc" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_nju" level="file">
+               <did>
+                  <unittitle>Research notes</unittitle>
+                  <container id="aspace_fa48f952f4f59895ce53f4d9522a3d3c" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_f1i" level="file">
+               <did>
+                  <unittitle>Certificates and awards:</unittitle>
+               </did>
+               <c03 id="aspace_ref29_ugj" level="file">
+                  <did>
+                     <unittitle>General Services Administrative Service Award, 1957</unittitle>
+                     <container id="aspace_f667faba1d9b57b0b017c17d0ecb704a" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref30_d3t" level="file">
+                  <did>
+                     <unittitle>Fellow of the Society of American Archivists, 1958</unittitle>
+                     <container id="aspace_f3ed8aed6f231ce017efac10fd9aa758" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref31_399" level="file">
+               <did>
+                  <unittitle>Clippings, 1926-1958 and undated</unittitle>
+                  <container id="aspace_83eed68c27b929d66dc94d7f6d9d38fa" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_g7l" level="file">
+               <did>
+                  <unittitle>Record group memos</unittitle>
+                  <container id="aspace_c72c7764a1d410c81200506ead4135dc" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_3pt" level="file">
+               <did>
+                  <unittitle>U.S. National Archives</unittitle>
+                  <container id="aspace_390ed9a2386c4045ea7c2d9b27991f39" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref34_mfr" level="series">
+            <did>
+               <unittitle>Biographical and Professional Files Series, 1935-1960</unittitle>
+               <physdesc id="aspace_a9d24a23beca3759da8035316d2ddaf0">
+                  <extent>5 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref36_g0f" level="file">
+               <did>
+                  <unittitle>Personal and family history files</unittitle>
+                  <container id="aspace_ddbaea6570b77dbc64fcc7a3cbec761c" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_pbq" level="file">
+               <did>
+                  <unittitle>U.S. National Archives, 1935-1937</unittitle>
+                  <container id="aspace_1dde4feb28400f55fbc2a809b2edeb12" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_oue" level="file">
+               <did>
+                  <unittitle>U.S. National Archives, 1941-1944</unittitle>
+                  <container id="aspace_38a106ca034470810eae340112df17ea" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_nva" level="file">
+               <did>
+                  <unittitle>U.S. National Archives, 1944-1956</unittitle>
+                  <container id="aspace_1adf4c73359868a7f66f5339aac35e19" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_8xi" level="file">
+               <did>
+                  <unittitle>U.S. National Archives, 1956-1960</unittitle>
+                  <container id="aspace_df587c075385e18ebd63a8f6d50d0384" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref41_px7" level="series">
+            <did>
+               <unittitle>French Research Series</unittitle>
+               <physdesc id="aspace_be53b246015676afa8357827a6676978">
+                  <extent>10 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_33c7e6913d3b14c84d3ac4145ae2c985">
+               <head>Scope and Contents note</head>
+               <p>Primarily contains unarranged research notes for Lokke's work on Baron
+                  Pierre-Victor Malouet, an 18th century French colonial administrator and French
+                  colonial policy strategist, active mainly in French Guiana. In addition to
+                  secondary source notes and citations, contains photostats and hand-written
+                  transcriptions of primary sources.</p>
+            </scopecontent>
+            <c02 id="aspace_ref43_194" level="file">
+               <did>
+                  <unittitle>French research files</unittitle>
+                  <container id="aspace_8dbb842c2f60507f57cb52b372b84fb2" label="Mixed Materials"
+                     type="box">15-24</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref45_yyj" level="series">
+            <did>
+               <unittitle>Writings Series, 1913-1968</unittitle>
+               <physdesc id="aspace_acf1d44826966e2a62251fdd8009e55f">
+                  <extent>7.5 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref47_9wk" level="file">
+               <did>
+                  <unittitle>Bibliography</unittitle>
+                  <container id="aspace_91a16954128232aa85dcd6a31ca6a66e" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_bcu" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">St. Nicholas</title> magazine, 1913</unittitle>
+                  <container id="aspace_3ba1759ffdf580f4be35ba93c3164f7e" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_nfq" level="file">
+               <did>
+                  <unittitle>Dissertation, draft copy</unittitle>
+                  <container id="aspace_8e3acd1039c8364bdcf4b37bf39f3a20" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_gh3" level="file">
+               <did>
+                  <unittitle>Revision of book on French colonies</unittitle>
+                  <container id="aspace_fcbf3ecbe58a066d2f9d8a4a9d612bbe" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_hf8" level="file">
+               <did>
+                  <unittitle>Fauchet Memoire</unittitle>
+                  <container id="aspace_bb18249c31c1fe70783544e6b2623197" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_ap2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Handbook of Federal World War Agencies</title>,
+                     1943</unittitle>
+                  <container id="aspace_5e0fbcc86a6fbead46c6a1de72d4f836" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_l0q" level="file">
+               <did>
+                  <unittitle>Alaska article, <title render="italic">Collins Encyclopedia</title>
+                  </unittitle>
+                  <container id="aspace_9187777fd72afd33b67cd320f1594570" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_iis" level="file">
+               <did>
+                  <unittitle>Article on Continental Congress Papers</unittitle>
+                  <container id="aspace_84abb8b56900559a1b66c5b7ee147764" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_0ds" level="file">
+               <did>
+                  <unittitle>Writings, 1949-1959</unittitle>
+                  <container id="aspace_b8bbd2dfae6d008e8ea50f1fbd6da4e9" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_x52" level="file">
+               <did>
+                  <unittitle>Writings, 1947, 1959</unittitle>
+                  <container id="aspace_ac63986e7981589f30899d996e048dd6" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_gy8" level="file">
+               <did>
+                  <unittitle>Writings, 1928-1944</unittitle>
+                  <container id="aspace_d9949c92adf4750ec9b720361ef88dd1" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_4eu" level="file">
+               <did>
+                  <unittitle>Writings, 1946, 1958</unittitle>
+                  <container id="aspace_fa072dd924dc76a8b20de4af18ab2b45" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_dh9" level="file">
+               <did>
+                  <unittitle>Writings, 1949, 1968 and undated</unittitle>
+                  <container id="aspace_b9963d62cd148a34d5ac9a8283d1f8a2" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref60_ied" level="series">
+            <did>
+               <unittitle>Printed Material Series</unittitle>
+               <physdesc id="aspace_e56a9d3cfbd54773ef7736ab1428db81">
+                  <extent>6.5 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_36494061f8c8862cd8e4c7513431057e">
+               <head>Scope and Contents note</head>
+               <p>Contains primarily pamphlets and books by authors other than Lokke. Arranged
+                  geographically.</p>
+            </scopecontent>
+            <c02 id="aspace_ref62_2um" level="file">
+               <did>
+                  <unittitle>Alaska</unittitle>
+                  <container id="aspace_2a5606a85d9005aef93ac2d283ec064d" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_kcc" level="file">
+               <did>
+                  <unittitle>Venezuela</unittitle>
+                  <container id="aspace_228d370ce8c958a497281980af8d9591" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_h86" level="file">
+               <did>
+                  <unittitle>Great Britain</unittitle>
+                  <container id="aspace_b99fd0a92d15d1000c94c0dc18891658" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_df4" level="file">
+               <did>
+                  <unittitle>Other foreign countries</unittitle>
+               </did>
+               <c03 id="aspace_ref66_v4u" level="file">
+                  <did>
+                     <unittitle>Italy</unittitle>
+                     <container id="aspace_eaf898b4c68c1517327f22c409d292b2" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_z8m" level="file">
+                  <did>
+                     <unittitle>Japan</unittitle>
+                     <container id="aspace_32ddbfd3eacbdf3b381bcf679c542864" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref68_qpv" level="file">
+                  <did>
+                     <unittitle>Montenegro</unittitle>
+                     <container id="aspace_c0e2092d7f262be4424dc27cd84df34d" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_jod" level="file">
+                  <did>
+                     <unittitle>Poland</unittitle>
+                     <container id="aspace_6d8c48364349ac99cc6644e249dfbc5e" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref70_77f" level="file">
+                  <did>
+                     <unittitle>Romania</unittitle>
+                     <container id="aspace_b4f18e8ccaa881f119ed504e17efe41d" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_flp" level="file">
+                  <did>
+                     <unittitle>Turkey</unittitle>
+                     <container id="aspace_61fcb9a60adc0aac0038b552aa997a46" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref72_jtq" level="file">
+               <did>
+                  <unittitle>Scandinavia</unittitle>
+                  <container id="aspace_195f8b66edbe0bc3918c9902642bde39" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_l9p" level="file">
+               <did>
+                  <unittitle>Spain and Portugese America</unittitle>
+                  <container id="aspace_7436fdcedf28e81b2c64b26bcb0c8901" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_gyl" level="file">
+               <did>
+                  <unittitle>Various printed material</unittitle>
+                  <container id="aspace_16242954a1c83af77e9565b89effe46b" label="Mixed Materials"
+                     type="box">34</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_ifu" level="file">
+               <did>
+                  <unittitle>Austria</unittitle>
+                  <container id="aspace_acc45fbe8e7df72e08f75275c3094076" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_340" level="file">
+               <did>
+                  <unittitle>Germany</unittitle>
+                  <container id="aspace_5d4712e3a67ee28dbeccf7860640394c" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_n4x" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_072c8e64c0fffe5f28b5f375a87b7bb0" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_xu0" level="file">
+               <did>
+                  <unittitle>Various printed material</unittitle>
+                  <container id="aspace_7da7edc00c68ca4f764d7844ffca839a" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_rcb" level="file">
+               <did>
+                  <unittitle>French Foreign Office report of research</unittitle>
+                  <container id="aspace_acb09c5bfad93b5506fa95f99d940e1d" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_h02" level="file">
+               <did>
+                  <unittitle>Various journals</unittitle>
+                  <container id="aspace_c2e3877eef072886a87c54990beacdb1" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref82_hum" level="series">
+            <did>
+               <unittitle>Oversize Material</unittitle>
+               <physdesc id="aspace_dab0d495995eef8aefa79d244e8c8157">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref84_gc7" level="file">
+               <did>
+                  <unittitle>Oversize copies of primary sources</unittitle>
+                  <container id="aspace_44f970cc690d0f3b17f2f113965a4313" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

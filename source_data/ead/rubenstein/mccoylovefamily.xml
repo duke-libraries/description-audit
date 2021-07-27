@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/mccoylovefamily/"
+         >mccoylovefamily</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the McCoy-Love Family Papers, 1774-1970 and undated
+                  <num>RL.00867</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+               Ted Holt and Paula Jeannet</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2008</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002226316</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:16:57
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>McCoy-Love Family papers</unittitle>
+         <origination label="creator">
+            <famname source="ingest">McCoy-Love family</famname>
+         </origination>
+         <unitid>RL.00867</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">12.3 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1774/1970" type="inclusive">1774-1970 and undated</unitdate>
+         <physloc id="aspace_3e3255d7838825856b4b5b2d0065eedf">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_2cf7b44909b02fc014491d1829c0a2cd">Asheville, N.C. residents. Two
+            prominent members of the families were George William McCoy, Sr. (b. 1901), editor of
+            the Asheville-Citizen Times, and his father-in-law, Harry Weaver Love (b. 1883), YMCA
+            executive. The collection contains personal and business correspondence, genealogical
+            material, financial and legal records, printed material, clippings, addresses and
+            writings, scrapbooks, miscellaneous items, photographs, and a number of volumes. Topics
+            include the Great Smoky Mountains National Park, and the Thomas Wolfe Memorial Assoc.
+            Harry Love's business papers include a large number of correspondence, reports, pictures
+            and volumes relating to his work with the YMCA, in the U.S. and abroad; there are a
+            great many items relating to the Philippine Islands. There are a sizable number of
+            papers from Wythe Munford Peyton, a civil and highway engineer, who worked for several
+            N.C. railroads; the papers of William C. Coleman, a businessman who sold and serviced
+            Harley-Davidson motorcycles (1914-1915); and papers of the Frelinghuysen-Southwick
+            family of N.J. and N.Y., one relative being a Senator and another, Emeline Sherman
+            Smith, a poet. There are a few items concerning Thomas Dixon who founded the Mt.
+            Mitchell Assoc. of Arts and Sciences.</abstract>
+         <physdesc id="aspace_57b1b9a32206de7377b150deed28b582">
+            <extent>circa 9,210 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_d99b18ba50d107c8222dd834ec570c16">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_0e87c7a83817b1fbb0996ce17383d7c5">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_5463c1d6deb43ba937f1a34ca12eb73d">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_ceb33ff29d5c98341448ff69286cfe0c">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], McCoy-Love Family Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_23d11b0387eea4dac0bc4cbc3aae2e6f">
+         <head>Provenance</head>
+         <p>The McCoy-Love Family Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a purchase in 1980 and 1986.</p>
+      </acqinfo>
+      <processinfo id="aspace_d47d8195f253c6b8a29f9f97a3b855c6">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff</p>
+         <p>Encoded by Ted Holt and Paula Jeannet, May 2008</p>
+         <p>Accessions from 1980 and 1986 are described in this finding aid. </p>
+      </processinfo>
+      <scopecontent id="aspace_b309ab0297457b2aa882b3041b9e0cb2">
+         <head>Collection Overview</head>
+         <p>The papers of this Asheville, North Carolina family span the years 1774-1970. Two
+            prominent members of the families were George William McCoy, Sr. (b. 1901), editor of
+            the <title type="simple" render="italic">Asheville-Citizen Times</title>, and his
+            father-in-law, Harry Weaver Love (b. 1883), YMCA executive. The collection contains
+            personal and business correspondence, genealogical material, financial and legal
+            records, printed material, clippings, addresses and writings, scrapbooks, miscellaneous
+            items, photographs, and a number of volumes. Topics include the development of parks in
+            the Appalachia region, particularly the Great Smoky Mountains National Park, and
+            activities relating to the Thomas Wolfe Memorial Association. Harry Love's business
+            papers include a large number of correspondence, reports, pictures and volumes relating
+            to his work with the YMCA, in the U.S. and abroad; there are a great many items relating
+            to the Philippine Islands. There is a sizable number of papers from Wythe Munford
+            Peyton, a civil and highway engineer, who worked for several N.C. railroads; the papers
+            of William C. Coleman, a businessman who sold and serviced Harley-Davidson motorcycles
+            (1914-1915); and papers of the Frelinghuysen-Southwick family of N.J. and N.Y., one
+            relative being a Senator and another, Emeline Sherman Smith, a poet. There are a few
+            items concerning Thomas Dixon who founded the Mt. Mitchell Assoc. of Arts and
+            Sciences.</p>
+      </scopecontent>
+      <controlaccess>
+         <genreform source="aat">Scrapbooks</genreform>
+         <geogname source="lcsh">Philippines</geogname>
+         <genreform source="aat">Photograph albums</genreform>
+         <genreform source="aat">Photographs</genreform>
+         <subject source="lcsh">Businessmen -- North Carolina -- Correspondence</subject>
+         <geogname source="lcsh">North Carolina -- Economic conditions</geogname>
+         <subject source="lcsh">Railroads -- North Carolina</subject>
+         <subject source="lcsh">Civil Engineering -- North Carolina</subject>
+         <famname source="ingest">Love family (N.C.)</famname>
+         <famname source="ingest">Frelinghuysen-Southwick family</famname>
+         <persname source="ingest">Coleman, William C.</persname>
+         <persname source="ingest">Asheville-Citizen Times (newspaper)</persname>
+         <persname source="ingest">McCoy, George William</persname>
+         <persname source="ingest">Love, Harry Weaver</persname>
+         <famname source="ingest">McCoy family (N.C.)</famname>
+         <corpname source="ingest">United States. Great Smoky Mountains National Park</corpname>
+         <corpname source="ingest">Young Men's Christian Association</corpname>
+         <persname source="ingest">Peyton, Wythe Munford</persname>
+         <corpname source="ingest">Thomas Wolfe Memorial Association</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref11_bed" level="series">
+            <did>
+               <unittitle>Biographical Information Series, 1904-1963</unittitle>
+               <physdesc id="aspace_ae152533e899029a973c1bf043ebaff2">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref13_uw4" level="file">
+               <did>
+                  <unittitle>Genealogy, 1926-1954</unittitle>
+                  <container id="aspace_5e9b82622ad000c2f1543c0022d4a156" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref14_yg7" level="file">
+               <did>
+                  <unittitle>Information Folder</unittitle>
+                  <container id="aspace_5025746772c12bbbc212dbbb586be476" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_s5w" level="file">
+               <did>
+                  <unittitle>Biographical Information</unittitle>
+               </did>
+               <c03 id="aspace_ref16_qig" level="file">
+                  <did>
+                     <unittitle>McCoy, George William, 1923-1954</unittitle>
+                     <container id="aspace_092335ce706335ee0f5140c4de73c73a" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref17_klx" level="file">
+                  <did>
+                     <unittitle>Love, Harry Weaver, 1904-1960</unittitle>
+                     <container id="aspace_b94493c788048b4496b3433ab6d9ade2" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref18_8di" level="file">
+                  <did>
+                     <unittitle>Peyton, Wythe Munford, 1911-1963</unittitle>
+                     <container id="aspace_877fc933962c8b38d0d999037950af2a" label="Mixed Materials"
+                        type="box">29</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref19_fwu" level="series">
+            <did>
+               <unittitle>Legal Papers Series, 1774-1964</unittitle>
+               <physdesc id="aspace_3db4715e2d65f795729e87af2c390534">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref21_vv9" level="file">
+               <did>
+                  <unittitle>1774-1964</unittitle>
+                  <container id="aspace_eb67c85694dd421bdbd5a6aec3c52e2b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref22_azo" level="series">
+            <did>
+               <unittitle>Financial Papers Series, 1885-1954</unittitle>
+               <physdesc id="aspace_84816241aacdaa92f1b5396ab3047fa0">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref24_uii" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1885-1952</unittitle>
+                  <container id="aspace_3c763780336254ac05f949fac135305c" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_w1g" level="file">
+               <did>
+                  <unittitle>YMCA, 1918-1922</unittitle>
+                  <container id="aspace_0b87129f971b37e406404ce05d571f66" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_fml" level="file">
+               <did>
+                  <unittitle>Thomas Wolfe Memorial Association, 1949-1954</unittitle>
+                  <container id="aspace_fb14b0474f47d388b12737e011be3678" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_uf2" level="file">
+               <did>
+                  <unittitle>Financial accounts, specifications, etc. for roads, railroads and other
+                     enterprises, 1908-1919</unittitle>
+                  <container id="aspace_dc20664462ee0b62a80bb545ad767115" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref28_32s" level="series">
+            <did>
+               <unittitle>Miscellaneous Papers Series, 1860-1961 and undated</unittitle>
+               <physdesc id="aspace_5b775e57e5181f7f2fd156d99fa2b6a9">
+                  <extent>4 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref30_ock" level="file">
+               <did>
+                  <unittitle>YMCA</unittitle>
+                  <container id="aspace_2e52d6367f1288c2b0a3a7ec8cf85704" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+               <c03 id="aspace_ref31_ehx" level="file">
+                  <did>
+                     <unittitle>U.S., 1910-1924</unittitle>
+                     <container id="aspace_faa928b4bc58c8ffdc834439e99a28ad" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_gqu" level="file">
+                  <did>
+                     <unittitle>Philippine Islands, 1900-1921</unittitle>
+                     <container id="aspace_02db8f2d853eaf754180ab3db2ea2ac5" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref33_q3p" level="file">
+                  <did>
+                     <unittitle>China and Chinese branch in the Philippines, 1920</unittitle>
+                     <container id="aspace_0da7da8ee57557fe138701d20f3f5988" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_pxw" level="file">
+                  <did>
+                     <unittitle>Latin America, 1921 and undated</unittitle>
+                     <container id="aspace_ce9769fe953f41bcc6c4a2bc69fe4f46" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref35_vue" level="file">
+               <did>
+                  <unittitle>General, 1860-1961</unittitle>
+                  <container id="aspace_d89de6876923c1433055e868cf5976fd" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_i52" level="file">
+               <did>
+                  <unittitle>Thomas Wolfe Memorial Association, 1949-1954</unittitle>
+                  <container id="aspace_332026193fcbce90012fb15167c77b3e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_g9a" level="file">
+               <did>
+                  <unittitle>Badge, etc., 1907- 1949</unittitle>
+                  <container id="aspace_8143dce56893cbaecd4c5bc7a29c3a1e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_w76" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1934-1960</unittitle>
+                  <container id="aspace_6b6dd71decd0b33ebd1f4eb2fa1f8888" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_1i9" level="file">
+               <did>
+                  <unittitle>YMCA</unittitle>
+               </did>
+               <c03 id="aspace_ref40_pgv" level="file">
+                  <did>
+                     <unittitle>Philippine Islands, 1911-1921</unittitle>
+                     <container id="aspace_a29e640d5cf16e3bada56bac12edb120" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_lik" level="file">
+                  <did>
+                     <unittitle>China, 1918-1924</unittitle>
+                     <container id="aspace_e3ae1df840d67857fc2a3a26f5e03b94" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_nb8" level="file">
+                  <did>
+                     <unittitle>Foreign countries, 1919-1921</unittitle>
+                     <container id="aspace_21d8c101cb143804a76442641ee97457" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref43_prl" level="file">
+               <did>
+                  <unittitle>Miscellaneous, undated</unittitle>
+                  <container id="aspace_74838258edecfe26056bfdfe751a2918" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref44_jbv" level="series">
+            <did>
+               <unittitle>Addresses and Writing Series, 1901-1961</unittitle>
+               <physdesc id="aspace_27bf7b648a90c61c2a2a21b1138b0b56">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref46_awv" level="file">
+               <did>
+                  <unittitle>1901-1961</unittitle>
+                  <container id="aspace_5b4d341de0d4d24654436159e0964f09" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_u0b" level="file">
+               <did>
+                  <unittitle>Philippine Islands, 1920</unittitle>
+                  <container id="aspace_89d71dddca6e6ce881fbb98b9661bea5" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref48_fqe" level="series">
+            <did>
+               <unittitle>Printed Material Series, 1891-1969</unittitle>
+               <physdesc id="aspace_ad5bf6833c124fced3e7b55372062451">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref50_4x5" level="subseries">
+               <did>
+                  <unittitle>Printed Material</unittitle>
+               </did>
+               <c03 id="aspace_ref51_gor" level="file">
+                  <did>
+                     <unittitle>Philippine Islands, 1916-1924</unittitle>
+                     <container id="aspace_37eb8daa64ad804ad4e264466288e4e0" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_ngj" level="file">
+                  <did>
+                     <unittitle>YMCA, U.S. and territories, 1891-1918</unittitle>
+                     <container id="aspace_537d253ae14bebfead8f88275e177da4" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_gut" level="file">
+                  <did>
+                     <unittitle>YMCA, U.S. and territories, 1919-1936</unittitle>
+                     <container id="aspace_fb5f400b99d6f19ab413c346212f972b" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_r88" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, 1894-1933</unittitle>
+                     <container id="aspace_1f4afb659510ad83e3efb77437ef3025" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref55_ptt" level="subseries">
+               <did>
+                  <unittitle>Clippings</unittitle>
+               </did>
+               <c03 id="aspace_ref56_xq3" level="file">
+                  <did>
+                     <unittitle>Great Smoky Mountains National Park</unittitle>
+                     <container id="aspace_9eca98b23d17a3db866f16f6533a868b" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+                  <c04 id="aspace_ref57_2te" level="file">
+                     <did>
+                        <unittitle>Acquisitions, 1930-1937</unittitle>
+                        <container id="aspace_606be246af5c0ebae31d4a7d40984cef"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref58_u5s" level="file">
+                     <did>
+                        <unittitle>Roads, 1930-1937</unittitle>
+                        <container id="aspace_fd03014641f34ad1d748e75ba5db201a"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref59_hdx" level="file">
+                     <did>
+                        <unittitle>Park movement, 1925-1939</unittitle>
+                        <container id="aspace_9aa756856ca1a5869165c9b2138ad80c"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref60_mur" level="file">
+                  <did>
+                     <unittitle>Western North Carolina, 1924-1952</unittitle>
+                     <container id="aspace_b32b6d498ecfe426e16d405c0bff68f5" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_k1h" level="file">
+                  <did>
+                     <unittitle>Appalachian Mountains, Fauna, 1926-1939</unittitle>
+                     <container id="aspace_540ba1610b04f85a8e2b277d09450951" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_753" level="file">
+                  <did>
+                     <unittitle>Appalachian Mountains, Flora, 1926-1939</unittitle>
+                     <container id="aspace_d87d0d84d65cfc63f0cdbe8309186e98" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_pyq" level="file">
+                  <did>
+                     <unittitle>Cherokee Indians and other tribes, 1925-1955</unittitle>
+                     <container id="aspace_23781f1b5986905ed4c9ce561c625962" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_l3v" level="file">
+                  <did>
+                     <unittitle>Horace Kephart, 1927-1936</unittitle>
+                     <container id="aspace_65c455d26298b86f4895f797c59319e9" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_lop" level="file">
+                  <did>
+                     <unittitle>George Masa, 1933</unittitle>
+                     <container id="aspace_9c7b06fdb476ff2c53d5a19f7c4202bc" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_7w0" level="file">
+                  <did>
+                     <unittitle>Philippine Islands, 1919-1964</unittitle>
+                     <container id="aspace_9127c3d08afeca516f912e9cde7a723a" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_7ak" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, 1903-1969</unittitle>
+                     <container id="aspace_3aa2f01a46b14e0752dfde0f4011b54e" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref68_jbb" level="series">
+            <did>
+               <unittitle>Pictures Series, 1906-1930s</unittitle>
+               <physdesc id="aspace_86602c7003e284e458f1ff3e7ca66b84">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref70_jxk" level="file">
+               <did>
+                  <unittitle>Philippine Islands</unittitle>
+                  <container id="aspace_67785accb366bf887f9e788b6cbc675a" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_jvj" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_0d3912a87ee10c68c30b25883c115d63" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_qqv" level="file">
+               <did>
+                  <unittitle>Albums from Mexico</unittitle>
+                  <container id="aspace_966ba5a7e70fa19e06be3a13c1470e42" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_ltj" level="file">
+               <did>
+                  <unittitle>Black Hills Trips, 1914</unittitle>
+                  <container id="aspace_9714b171b124df1daa96534291b34b00" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_w07" level="file">
+               <did>
+                  <unittitle>Brookville YMCA Hike, 1907</unittitle>
+                  <container id="aspace_83a89f84e62462789611c2a7318d932e" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_pkk" level="file">
+               <did>
+                  <unittitle>Peyton Album, ca. 1906-1907</unittitle>
+                  <physdesc id="aspace_4e2ac9ec5504b3bedc83cf80dd00103e">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_daf2574de2afe4777943ecd320dc833a" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_85s" level="file">
+               <did>
+                  <unittitle>Philippine Islands</unittitle>
+                  <container id="aspace_42ad67f89bb2c9e531b021be5dbe3eb5" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_z12" level="file">
+               <did>
+                  <unittitle>Photograph Albums I and II, 1930s</unittitle>
+                  <container id="aspace_f2886c254d0071fb1da0c5fcb7facc16" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref79_8x7" level="series">
+            <did>
+               <unittitle>Volumes Series, 1857-1940s</unittitle>
+               <physdesc id="aspace_bc14f706e8a3922fd701fadd95de9100">
+                  <extent>8 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref81_pxl" level="file">
+               <did>
+                  <unittitle>William C. Coleman's Bingham military scrapbook, 1924</unittitle>
+                  <container id="aspace_12459ab1f8d5624cfce6bde9aaa384ef" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_q1f" level="file">
+               <did>
+                  <unittitle>Zebulon Baird Vauce's birthplace scrapbook</unittitle>
+                  <container id="aspace_ed123153d1ab3e4be824b543d31b085e" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_d92" level="file">
+               <did>
+                  <unittitle>George W. McCoy's Smoky Mountains scrapbook and
+                     bibliography</unittitle>
+                  <container id="aspace_b76e8bd51ace2b45abf0d81f9be5c2a3" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_shk" level="file">
+               <did>
+                  <unittitle>George W. McCoy's scrapbook on Great Smoky Mountains National Park
+                     Museum</unittitle>
+                  <container id="aspace_dece7dce35bc0fcdd2d2ff3acf15c54a" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_7y8" level="file">
+               <did>
+                  <unittitle>Folksongs</unittitle>
+                  <container id="aspace_9707cf16d72af802a54db9322c9a0513" label="Mixed Materials"
+                     type="box">19-20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_o6g" level="file">
+               <did>
+                  <unittitle>Harry Love's Philippine Island scrapbook</unittitle>
+                  <container id="aspace_fb34d7933ae9d9ad052aa3f6cb12256c" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_sdt" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1928(?)-1938</unittitle>
+                  <container id="aspace_99d82f38fa2389fdbfaba938f4563ff8" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_4ca" level="file">
+               <did>
+                  <unittitle>Poems of M. Y. Jarkett of Hillsboro, N.C., 1932</unittitle>
+                  <container id="aspace_c0b4c5351ca3589c078d0a39ce5da80c" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_iw5" level="file">
+               <did>
+                  <unittitle>Law school lectures of Chief Justice Richmond Mumford Pearson,
+                     1857</unittitle>
+                  <container id="aspace_5cb5d2db9287306199dbbeb776d1715f" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_62j" level="file">
+               <did>
+                  <unittitle>Flora of Great Smokies scrapbook</unittitle>
+                  <container id="aspace_05bcb7b44600353725ee5ed33c08bf73" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_zfo" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Ladder</title>, 1919-1920</unittitle>
+                  <container id="aspace_7e7dbf951fbc09641759fcb860f0ac12" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_x3n" level="file">
+               <did>
+                  <unittitle>YMCA, Philippine Islands</unittitle>
+                  <container id="aspace_e6a02fe53266c97c072bd9d8a998328d" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_63y" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container id="aspace_2a48851810d15704d6cadc04667d71fe" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_46c" level="file">
+               <did>
+                  <unittitle>Writings of Lola (Love) McCoy</unittitle>
+                  <container id="aspace_52bbd2583c82b59e926901b80dd3b3af" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_kp3" level="file">
+               <did>
+                  <unittitle>Scrapbook of Lola (Love) McCoy</unittitle>
+                  <container id="aspace_f4245782bb34e7f8e167648fc6988aa7" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_l6z" level="file">
+               <did>
+                  <unittitle>Diary of Wythe M. Peyton, 1908 Mar.-Aug.</unittitle>
+                  <container id="aspace_32b9988c576b1a8dc29cd7d59b6f9a14" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_a0l" level="file">
+               <did>
+                  <unittitle>Harry W. Love's scrapbook, ca. 1920s-1940s</unittitle>
+                  <container id="aspace_bb890330ed07d233d28d66e99f7e959b" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref98_acx" level="series">
+            <did>
+               <unittitle>Frelinghuysen, Southwick Division Series, 1799-1966</unittitle>
+               <physdesc id="aspace_b8ce2a7734d9d3214303ed74c032d0d8">
+                  <extent>3 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref100_doh" level="file">
+               <did>
+                  <unittitle>Information Folder</unittitle>
+                  <container id="aspace_a23ab757af7485af9f5e305ccc6d1ded" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_u2w" level="file">
+               <did>
+                  <unittitle>Legal papers, 1799-1913</unittitle>
+                  <container id="aspace_ff534b5a6023d95abf008e0eb2e1789e" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_4nn" level="file">
+               <did>
+                  <unittitle>Genealogy, 1930</unittitle>
+                  <container id="aspace_80aee9ceab3bb0a300fe5b358df505de" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_tam" level="file">
+               <did>
+                  <unittitle>Clippings, 1861-1950</unittitle>
+                  <container id="aspace_bc491189e316f2ff6938cde73f727a40" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_9a5" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1906-1925</unittitle>
+                  <container id="aspace_ab1c96f2681201f5f3936c7ca97dbd5d" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_2m2" level="file">
+               <did>
+                  <unittitle>Pictures</unittitle>
+                  <container id="aspace_9cd48c8cc95b6f223ccc93d33c89bcb3" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_yc8" level="file">
+               <did>
+                  <unittitle>Family Division</unittitle>
+                  <container id="aspace_157f2f1a2803ed9d4f7e0560008b6b9d" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+               <c03 id="aspace_ref107_8bw" level="file">
+                  <did>
+                     <unittitle>Volumes, 1851-1916</unittitle>
+                     <container id="aspace_9066976817946931b66ed413972e5ad8" label="Mixed Materials"
+                        type="box">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref108_oxn" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1854, 1966</unittitle>
+                     <container id="aspace_b75e53097a72edb3bcff8e610d796735" label="Mixed Materials"
+                        type="box">27</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref109_lkz" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1868-1970 and undated</unittitle>
+               <physdesc id="aspace_48b69f7c2e1b71d459ec1b8a87bcec5e">
+                  <extent>17 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref111_om6" level="file">
+               <did>
+                  <unittitle>1868-1911</unittitle>
+                  <container id="aspace_cd624dd0a4ef7ece6f61271be692f6f3" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_yc1" level="file">
+               <did>
+                  <unittitle>1912-1914 June</unittitle>
+                  <container id="aspace_572d2d2d84afa9bdb8eda8daee669b01" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_qq7" level="file">
+               <did>
+                  <unittitle>1914 July-1915 May</unittitle>
+                  <container id="aspace_d290edeefe4fa5cc4da7e0606c026515" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_i80" level="file">
+               <did>
+                  <unittitle>1915 June-Dec. and undated</unittitle>
+                  <container id="aspace_f7ad0e866cbb8e55315e6dbd98477be2" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_0v2" level="file">
+               <did>
+                  <unittitle>1916-1918</unittitle>
+                  <container id="aspace_58720b316a10d96e5fa8f609874ed221" label="Mixed Materials"
+                     type="box">34</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_yyv" level="file">
+               <did>
+                  <unittitle>1919</unittitle>
+                  <container id="aspace_1bfc713fccdf74f82fba75a014faecc7" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref117_91f" level="file">
+               <did>
+                  <unittitle>1920 Jan.-June</unittitle>
+                  <container id="aspace_5deccbe2c240012591e427b0bf50d059" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_0wz" level="file">
+               <did>
+                  <unittitle>1920 July-Dec.</unittitle>
+                  <container id="aspace_ff1dbf1756b0f606bb61566ccb778c80" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_6rx" level="file">
+               <did>
+                  <unittitle>1921 Jan.-June</unittitle>
+                  <container id="aspace_852eff4b6ca5099fe15b7dc08bccd7ba" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_2fm" level="file">
+               <did>
+                  <unittitle>1921 July-Dec.</unittitle>
+                  <container id="aspace_6df3519c79197d0cfbf299d06d7759e5" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_5gz" level="file">
+               <did>
+                  <unittitle>1922</unittitle>
+                  <container id="aspace_42e3ac1f32dbd2da5fd0db93daa4e35e" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_xvp" level="file">
+               <did>
+                  <unittitle>1923-1924</unittitle>
+                  <container id="aspace_177e0497d03b3601cd4deae8cfc21fb0" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_xu1" level="file">
+               <did>
+                  <unittitle>1925-1934</unittitle>
+                  <container id="aspace_bef776d1957104c2fa59c77d029e495f" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_6iv" level="file">
+               <did>
+                  <unittitle>1935-1937</unittitle>
+                  <container id="aspace_9b5d575fc3bffa59cce520338beec36b" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_ice" level="file">
+               <did>
+                  <unittitle>1938-1953</unittitle>
+                  <container id="aspace_4e03c02e616fc88b218b9470a2a8fc35" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref126_uss" level="file">
+               <did>
+                  <unittitle>1954-1958</unittitle>
+                  <container id="aspace_0f607c688532299c069432e822d522a4" label="Mixed Materials"
+                     type="box">45</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_9gm" level="file">
+               <did>
+                  <unittitle>1959-1970</unittitle>
+                  <container id="aspace_2bef8ae387350799073553976398bf2d" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref128_w1j" level="series">
+            <did>
+               <unittitle>Additional Papers</unittitle>
+               <physdesc id="aspace_4ed98d2b24441d9c4665e4fd74cb39a4">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref130_u40" level="file">
+               <did>
+                  <unittitle>1986 Accession</unittitle>
+                  <container id="aspace_629329e5011b91c54fb9c821b5df7945" label="Mixed Materials"
+                     type="box">1986: 1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref131_y66" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+               <physdesc id="aspace_e0471535cc27888113be274d915e81fd">
+                  <extent>2 oversize folders</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_d3a1ff2390ca7f802e7b55ff966955f1">
+               <head>Scope and Contents note</head>
+               <p>Consists of blueprints; black and white group photographs; clippings; maps;
+                  payrolls; and posters for the Mt. Mitchell Association of Arts and Sciences.</p>
+            </scopecontent>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

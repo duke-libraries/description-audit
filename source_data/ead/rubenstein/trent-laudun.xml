@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-laudun/">trent-laudun</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Laudun Letter, 1785, July 4, Tarascon, France
+                  <num>RL.10614</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002147963</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:20:23
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="fre">French</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Laudun letter, Tarascon, France</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Laudun.</persname>
+         </origination>
+         <unitid>RL.10614</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 items</extent>
+         </physdesc>
+         <unitdate normal="1785/1785" type="inclusive">1785, July 4</unitdate>
+         <physloc id="aspace_bb29cf318e2704056af64c730c340b1e">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_86a12eebbb14cfee17ae90c0260e90f8">ALS. Asks a Parisian colleague to
+            look after his son, who travels to Paris to study surgery.</abstract>
+         <langmaterial id="aspace_21f713ced512e13fa7cb3dc75c327715">Materials in French
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_25a76e9272c4babda5272b4133808b2f">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_f41a17002955a10bfd87f1670a78ac78">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_25b1a24263ff2908d2c43ddda1f9f099">
+         <head>Preferred Citation</head>
+         <p>Laudun Letter, 1785, July 4, Tarascon, France, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_92a03d4acb08dd0f25c0c95c433af8aa">
+         <head>Provenance</head>
+         <p>Source unknown</p>
+      </acqinfo>
+      <processinfo id="aspace_68d4c8f93e36b8d002e74ec03555a624">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <bioghist id="aspace_166323e011d4a651e8e3e64b23455d3d">
+         <head>Historical Note</head>
+         <p>Physician of Tarascon, France.</p>
+      </bioghist>
+      <scopecontent id="aspace_625a8f63251e4a9c328ee4c5d52b94f2">
+         <head>Collection Overview</head>
+         <p>ALS. Asks a Parisian colleague to look after his son, who travels to Paris to study
+            surgery.</p>
+      </scopecontent>
+      <odd id="aspace_4fab9a188fc3224ed66a54391e33673d">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+         <persname source="ingest">Laudun.</persname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

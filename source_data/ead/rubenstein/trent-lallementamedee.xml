@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/trent-lallementamedee/"
+      >trent-lallementamedee</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Lallemant Amédée note, undated. <num>RL.10604</num></titleproper>
+        <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+          DukeMARC2EAD-HOMproject.xsl</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2014</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">002160415</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-31 13:15:17
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="fre">French</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Lallemant Amédée, note</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Lallemant, Amédée.</persname>
+      </origination>
+      <unitid>RL.10604</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 items</extent>
+      </physdesc>
+      <unitdate type="inclusive">undated</unitdate>
+      <physloc id="aspace_516c833b03795a32ba23aed398bf6ceb">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <abstract id="aspace_38e9708cb8f93cf818d6fbd08af82ab3">Signed note from French surgeon Amédée
+        Allemant reports that he will be unable to visit that evening.</abstract>
+      <langmaterial id="aspace_c4140ad66c3069138e1e2d948e5c730c">Materials in French </langmaterial>
+    </did>
+    <accessrestrict id="aspace_5d358caee67dfc81833217b62a0262c4">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>All or portions of this collection may be housed off-site in Duke University's Library
+        Service Center. The library may require up to 48 hours to retrieve these materials for
+        research use.</p>
+      <p>Please contact Research Services staff before visiting the Rubenstein to use this
+        collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_092f1c744352bd7ec5141927ff2b29cc">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_1937ffce173db86b8512490de66e2004">
+      <head>Preferred Citation</head>
+      <p>Amédée Allemant note, undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke
+        University.</p>
+    </prefercite>
+    <processinfo id="aspace_a2c6f5f8344d83320eafc74fe3f32c45">
+      <head>Processing Information</head>
+      <p>Processed by: Rubenstein Staff</p>
+      <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December 2014</p>
+    </processinfo>
+    <bioghist id="aspace_b42c9999379b92f378e2f735775013dd">
+      <head>Historical Note</head>
+      <p>French surgeon.</p>
+    </bioghist>
+    <scopecontent id="aspace_3e5fd3755e747bac507ff22d4e6718a7">
+      <head>Collection Overview</head>
+      <p>This signed note from Allemant reports that he will be unable to visit that evening.</p>
+    </scopecontent>
+    <odd id="aspace_4a0fddab6234968efaca0bb5da433c2d">
+      <head>General note</head>
+      <p>Forms part of the Trent Manuscripts Collection.</p>
+    </odd>
+    <controlaccess>
+      <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+      <persname source="ingest">Lallemant, Amédée.</persname>
+    </controlaccess>
+    <dsc/>
+  </archdesc>
+</ead>

@@ -1,0 +1,2743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/dalton/">dalton</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Harry L. and Mary K. Dalton Collection, 1695-1955 and undated
+                  <num>RL.00284</num>
+            </titleproper>
+            <author>Compiled by: Kimberly Sims; machine-readable finding aid created by: Kimberly
+               Sims</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2008</date>
+            </p>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001662928</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-28 09:42:10
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Harry L. and Mary K. Dalton collection</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Dalton, Harry L.</persname>
+         </origination>
+         <unitid>RL.00284</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">80.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1695/1955" type="inclusive">1695-1955 and undated</unitdate>
+         <physloc id="aspace_90225ad24af9816300600d0703565533">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_9d85ab4de3bfc268fa51d2b4e6e4b62e">Harry L. and Mary K. Dalton
+            collected art, rare books, and manuscripts, and made many contributions to art museums
+            and libraries, most notably the Duke University Library, the Mint Museum, and the
+            library of the University of North Carolina at Charlotte. The Dalton Collection is
+            comprised of sub-collections acquired by Harry L. and Mary K. Dalton.</abstract>
+         <physdesc id="aspace_9a65dcd29d262b7c1f1f03deb7ec7a5c">
+            <extent>approx. 11,160 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_17308f314c629897a5fea9e6efcffdf5">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_f496339d49fcbe5266c97a1eaa5c7f1d">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_f9d6577a14be0d42083e4dd744ad92d4">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_02284268c5dec4ae13aa99e9b13156b8">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Harry L. and Mary K. Dalton Collection, David M. Rubenstein
+            Rare Book &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_1c6dc566239aeb51e31d3522fba628c7">
+         <head>Provenance</head>
+         <p>The Harry L. and Mary K. Dalton Collection were received by the David M. Rubenstein Rare
+            Book &amp; Manuscript Library as a series of gifts in 1977, 1978, 1980, 1982, and
+            1991.</p>
+      </acqinfo>
+      <processinfo id="aspace_b407c1c293282a500b5fd862b82cfa95">
+         <head>Processing Information</head>
+         <p>Compiled by Kimberly Sims, April 2008</p>
+         <p>Encoded by Kimberly Sims, April 2008</p>
+         <p>Updated by Kimberly Sims, October 2011</p>
+         <p>Accessions were merged into one collection, described in this finding aid. </p>
+      </processinfo>
+      <bioghist id="aspace_39806193e31c429e29c0d227ff61b23e">
+         <head>Biographical Note</head>
+         <p>Harry Lee Dalton was born in Winston, North Carolina on June 13, 1895. A graduate of
+            Trinity College (now Duke University), he served in the U.S. Army Air Corps during World
+            War I. Dalton had a successful career in banking and finance and served as an officer
+            and investor in numerous companies, including American Viscose Corporation, American
+            Credit Corporation and Wachovia Bank. His other business interests included investments
+            in oil extraction ventures, mainly through the Ancora Corporation. </p>
+         <p> Dalton and his wife, Mary Keesler, collected art, rare books, and manuscripts, and made
+            many contributions to art museums and libraries, most notably the Duke University
+            Library, the Mint Museum, and the library of the University of North Carolina at
+            Charlotte. Dalton died in Charlotte on July 26, 1990. </p>
+      </bioghist>
+      <scopecontent id="aspace_4b1f5b042c2f45c8da696aaa865be3ef">
+         <head>Collection Overview</head>
+         <p>The Dalton Collection is comprised of sub-collections acquired by Harry L. and Mary K.
+            Dalton. Included are family papers, correspondence, diaries, account books, photographs,
+            engravings, land grants, and military papers. The material largely encompasses the Civil
+            War, Southern [U.S.] history, business and politics. The material ranges in date from
+            1695-1955.</p>
+         <p>Each sub-collection is listed in alphabetical order below. Most include their
+            descriptions from the catalog record as well as a link to the record which will serve to
+            state the physical location of the sub-collections. For the small number of
+            sub-collections not yet fully cataloged, a brief description will follow as well as
+            which Dalton Collection box the material resides in. </p>
+      </scopecontent>
+      <relatedmaterial id="aspace_ab487b0a15d3e37220e43b67f2257238">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection">Harry L. Dalton Papers, 1776-1990</unittitle>
+               <repository label="Repository">Special Collections, J. Murrey Atkins Library,
+                  UNC-Charlotte</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <persname source="ingest">Dalton, Harry L.</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_zq9" level="series">
+            <did>
+               <unittitle>A-B</unittitle>
+            </did>
+            <c02 id="aspace_ref14_epe" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000842384"
+                           >Adams Family papers, 1828</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_916fb928dd0a3d4e6acd1c4eab56b8ae">
+                  <head>Scope and Contents note</head>
+                  <p>Land grant signed by John Quincy Adams for William Mason of Huntsville, AL in
+                     1828.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref16_gvd" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003950049"
+                           >Andrassy, Count Julius papers, 1832-circa 1873</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_4ae7ff2314959b8cf3ac2bbc696f73af">
+                  <head>Scope and Contents note</head>
+                  <p>One 1832 letter written in Hungarian, possibly from Andrassy's father, Karoli,
+                     as well as a couple of newspaper articles that deal with the acceptance by
+                     Count Andrassy of the post of Prime Minister of Hungary, written in English in
+                     the 1870s. Items are located in Box 1 of the Harry L. and Mary K. Dalton
+                     Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref18_a8f" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001751725"
+                           >Arnett Family papers, 1861-1865</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_756882f1a5c42afc20cce5511ab29067">
+                  <head>Scope and Contents note</head>
+                  <p>Two Civil War diaries chiefly concerning camp life. Contributors to diaries
+                     are: B. A. Arnett, a private in the Buck Head Guards of the Fairfield District,
+                     S.C., his brother R. C., and his sister Sue. Entries include accounts and debts
+                     contracted during the war by the Arnett brothers.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref20_rh8" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001662926"
+                           >Austin, Benjamin W. papers, 1798-1895</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_d74585a1eece623032ada744b3ebe0cf">
+                  <head>Scope and Contents note</head>
+                  <p>This is the autograph and signed letter collection of Benjamin W. Austin. Many
+                     of the letters and autographs were obtained through Mr. Austin’s written
+                     request, but older items appear to have come from the autograph collection of
+                     Henry Sheldon of Salisbury, Vermont. Although many items are older, most of Mr.
+                     Austin’s active collecting was done in the 1880s and 1890s. The group includes
+                     items from Congressmen, Civil War heroes, literary figures, and educators. Of
+                     special note in the collection is a 1798 message from William Henry Harrison at
+                     Fort Washington. Many of the items are accompanied by biographical clippings
+                     and several are attached to photographs. Of particular interest are the vintage
+                     photographs of Commander Gilbert C. Wittse, naval engineer William H. Shock,
+                     and statesman and educator J. L. M. Curry.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref22_e1z" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002494262"
+                           >Balloch, William papers, 1856-1866</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_5e9c72cb2ac5035031101dd908c17a5d">
+                  <head>Scope and Contents note</head>
+                  <p>Account book (1832-1851) lists transactions with local people (including
+                     relatives). Entries document the sale of farm products; the letting of fields,
+                     vehicles, and animals; and transactions with a boarder. Occasionally Ballock
+                     was paid in labor and in trade. Form 1844-1851 Balloch used part of the book as
+                     a memorandum book, recording household and personal purchases. Cash book
+                     (1856-1866) lists objects and services bought by Balloch and names the
+                     supplier. Purchases include books and newspapers, toys, and a violin as well as
+                     household supplies. Entries also document loans made, funds handled for the
+                     town of Claremont, N.H., and drugs purchased.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref24_y0p" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000897849"
+                           >Baylor, Mary papers, 1861</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_44198f46f820dc37de9a8cb457e45a4c">
+                  <head>Scope and Contents note</head>
+                  <p>Three letters from E. R. Brown of North Mountain, Va., to Mary Baylor,
+                     concerning her slave, William, who is imprisoned in the Hagerstown (Md.) jail.
+                     Brown offers Miss Baylor his assistance in crossing Confederate lines to
+                     retrieve William before he is sold. The final letter is an angry reply to an
+                     "impertinent" message from Miss Baylor and contains a cartoon vignette of
+                     slaves fleeing to Fort Monroe, Va., while a Southern master dressed in a white
+                     suit and with a whip attempts to stop them.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref26_ovh" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001732993"
+                           >Beatty, Reading K. papers, 1898-1906</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_00fb182cb99d05afb64a0a96e0163d9f">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly personal letters written from the Philippines by John Beatty, soldier
+                     in Company A, First Tennessee Infantry, to his brother Reading K. Beatty.
+                     Topics include: Manila; the Spanish-American War; Philippines culture; John's
+                     business ventures in the Philippines; and references to Maryville College in
+                     Tennessee. Also includes a few financial papers and printed public documents
+                     such as executive orders.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref28_61y" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002505330"
+                           >Beauregard, Doctor [Chevalier?] papers, 1808-1822</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_3c5d1492c9bf14aed887cdaa89a29bad">
+                  <head>Scope and Contents note</head>
+                  <p>Sales slips and bills of Beauregard in Philadelphia, buying medicinal goods and
+                     settling acounts (1817-1819); three letters from "Good Rest" (1822), one from
+                     his overseer, Richard Newman, one from his manager, John Cotter, and a letter
+                     from young Dr. Beauregard to his father in Augusta, Ga. An undated list of the
+                     goods and slaves of his plantation in included in the collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref30_t4d" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000845240"
+                           >Beauregard, [Pierre] Gustave Toutant papers, 1860-1870s</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_90079bb7a862e13205399c82176ee575">
+                  <head>Scope and Contents note</head>
+                  <p>Papers are an estimate signed by Beauregard of the funds necessary for the
+                     operations of Fort Jackson, La., during the fiscal year ending June 30, 1861
+                     and a report of "Sherman's March" written on 1870s stationery of the New
+                     Orleans and Carrollton Railroad Company, giving mileage and dates.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref32_s6c" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002180171"
+                           >Bingham, Lemuel papers, 1815-1816, 1832</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_1b045de1604f931db51602cabb47196c">
+                  <head>Scope and Contents note</head>
+                  <p>Lemuel Bingham's ledger is divided into two parts: an auctioneer's sales book
+                     for a Fayetteville, N.C. auctioneers' firm listing sales of groceries and
+                     sundries from January 1815 -January 1816 and a subscription book, 1832, for the
+                     CATAWBA JOURNAL (Charlotte, N.C.).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref34_3mb" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref
+                           xlink:href="http://library.duke.edu/rubenstein/findingaids/bradleyf/"
+                           >Bradley Family papers, 1774-1882</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_d4a99e7ee76dedc6aa9232506e9959ca">
+                  <head>Scope and Contents note</head>
+                  <p>Stephen Row Bradley and his son William Czar Bradley were lawyers who, as
+                     residents of Westminster, Vermont, served in the U.S. Senate and House of
+                     Representatives respectively. Later Stephen moved to Walpole, New Hampshire.
+                     Many prominent New Englanders corresponded with them about Federalist,
+                     Republican, and Democratic politics, patronage, and legal and personal matters.
+                     Stephen's son-in-law, Samuel Griswold Goodrich ("Peter Parley") was his most
+                     frequent correspondent. Other subjects of the correspondence include the
+                     Vermont militia, relations between the U.S. and Tripoli, attitudes toward the
+                     War of 1812, surveying of the northeastern boundary between the U.S. and
+                     Canada, General Lafayette's visit to Thomas Jefferson in 1824, John Quincy
+                     Adams, Henry Clay, and Andrew Jackson.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref36_qci" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000846347"
+                           >Bragg, Braxton papers, 1847-1876</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_4cbd26c07ba9ef1ebc10a03b53ff14b9">
+                  <head>Scope and Contents note</head>
+                  <p>Predominently letters concerning military affairs. The four items collected by
+                     the Daltons were combined with other Bragg materials in 1980.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref38_2y9" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002245413"
+                           >Brown, Jacob Jennings papers, 1814-1825</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_1674dfe1e258ab46dbc2b625997cf9f3">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of two undated engravings of Brown, a letter, and a
+                     memorandum bound in pink ribbon. The letter is addressed to the Secretary of
+                     the Navy and was written in Brown's capacity as Commander. The full title of
+                     the memorandum booklet is "Memoranda of occurences and some important facts
+                     attending the Campaign on the Niagara." Brown narrates the events of the
+                     campaign. There are verified copies of major communications during the
+                     campaign, including messages from J.C. Calhoun, James Monroe, General Ripley,
+                     and others. Of special interest is a sort of appendix consisting of "An
+                     Estimate of the British Regular Troops in Upper Canada, July 1, 1814. With a
+                     view of their distribution." It is a detailed look at early nineteenth century
+                     military conflicts.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref40_32a" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000887917"
+                           >Buchanan, James papers, 1841-1859</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_4a85d276a9bb43ac4cd2605bfef06187">
+                  <head>Scope and Contents note</head>
+                  <p>One letter dated 1841, land grants signed by Buchanan; and an 1856 pamplet
+                     entitled, <title type="simple" render="italic">The Agitation of Slavery. Who
+                        Commenced! and Who Can End It!! Buchanan and Fillmore Compared from the
+                        Record. </title>
+                  </p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref42_cmv" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002494265"
+                           >Burns, Robert, undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_97c12470b20a2caed0f6fe63b067ca8a">
+                  <head>Scope and Contents note</head>
+                  <p>Letter from Burns to an unnamed friend in Edinburgh thanking him for the gift
+                     of a set of the writings of Edmund Spenser. Burns closed the letter with a
+                     stanza of poetry. Transcription of the letter is included.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref44_20t" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002582807"
+                           >Butler, Benjamin Franklin papers, 1864-1893</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_a3267014c39db79009938d8ee834c164">
+                  <head>Scope and Contents note</head>
+                  <p>Primarily letters, most to O. D. Barrett regarding financial matters. Also
+                     included are references to organized labor, the eight-hour law, and Butler's
+                     attitude toward African Americans.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref46_a56" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002247865"
+                           >Butler, Matthew Calbraith papers, 1851-1920</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_793fc6ff3ab0200c31f101ea159fb78a">
+                  <head>Scope and Contents note</head>
+                  <p>Collection is primarily composed of Butler's personal and political
+                     correspondence. A few letters relate to his cousins in Louisiana. He sends
+                     detailed accounts of the war to his wife, Maria, daughter of S.C. Governor
+                     Pickens. Butler vividly describes battles, troop movements, and camp life.
+                     After the war, some correspondence deals with his Senate office, including his
+                     involvement in the Spanish evacuation of Cuba. Other papers concern his son's
+                     murder and legal matters. There are poems, genealogical materials, a 32-page
+                     memoir of Reconstruction in S.C. by Butler's daughter, plus an essay by
+                     her.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref48_o00" level="series">
+            <did>
+               <unittitle>C-D</unittitle>
+            </did>
+            <c02 id="aspace_ref49_ap0" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001112758"
+                           >Cist, Lewis Jacob papers, 1726-1896, undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_33dda8b14622f0892c5e94608c9e9ddf">
+                  <head>Scope and Contents note</head>
+                  <p>283 autographed letters collected by Cist, largely of military officers as well
+                     as writers and scientists.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref51_yra" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Civil War, Miscellany papers, 1860-1865</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_7ac8c3d844645f1c0cf7ad2ba0f700d5">
+                  <head>Scope and Contents note</head>
+                  <p>Thirty-eight items that relate to the Civil War. Mainly correspondence, the
+                     material represents both the Union and the Confederacy. Of note is an 1862
+                     petition signed by 74 citizens of De Soto and Marshall Counties in Mississippi
+                     in an effort to have a negro named Isaac returned to De Soto County from the
+                     protection of General Sherman. Isaac was accused of the rape and murder of a
+                     local woman, Ellen Vines. The items are located in Box 2 of the Harry L. and
+                     Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref53_uq0" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001751774"
+                           >Clawson, Jacob H. papers, 1820-1862</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_bff31b31b02b77bed5805fa8218781b2">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists mostly of correspondence concerning business dealings among
+                     Clawson's family members in Berkeley County, W. Va. Although most of the items
+                     in this collection concern the collection of old debts, several letters from
+                     Thomas Dunn outline the hardships of frontier medical life. A few letters are
+                     addressed to "Dr." Jacob H. Clawson at the Ebenezer Academy near Rock Hill, S.
+                     C.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref55_x0e" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001751775"
+                           >Cleburne, Patrick Ronayne papers, 1864</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_79c6ae78b21316b7d839de0c1f7a6c34">
+                  <head>Scope and Contents note</head>
+                  <p>This collection centers on a copy of a speech given by General Cleburne to the
+                     regimental commanders and general officers of the Army of the Tennessee on
+                     January 2, 1864. The copy was requested from Cleburne by General W. H. T.
+                     Walker to be forwarded to Jefferson Davis. Walker considered the address
+                     inflammatory and likely to result in "ruin" and "disgrace." The document
+                     itself, signed by Cleburne, is his famous suggestion that the Confederacy, by
+                     that time in dire circumstances, should free the slaves and muster them into
+                     the Army. Cleburne outlined the main reasons this would be beneficial: 1) the
+                     wind would be knocked out of Yankee moral zeal, 2) foreign countries would be
+                     morally free to give substantial aid to the South, 3) the actual size of the
+                     Army would be greatly augmented, and 4) the black population of the South would
+                     no longer constitute a threat as spies for the enemy.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref57_sab" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000890414"
+                           >Crawford, Samuel Wylie papers, 1861-1863</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_9afc0703c8e221defef697b60869aeb8">
+                  <head>Scope and Contents note</head>
+                  <p>Report to Lt. Col. F. T. Locke of the operations of the 3rd Division in the
+                     battles near Gettysburg [1863], a letter from John Titcomb Sprague, 1861,
+                     commenting on Fort Sumter and its commander, Robert Anderson; orders from
+                     Crawford, 1870, as commander of the United States troops in Alabama instructing
+                     officers on the policing of the polls during the coming election; and a letter
+                     from the sheriff of Montgomery, 1870, concerning the threat of a riot.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref59_dlx" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002199801"
+                           >Davis, James M. papers, 1864</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_a9fd5173effbba4628365342d079dd6f">
+                  <head>Scope and Contents note</head>
+                  <p>Two letters written by Davis to his wife in Camden, South Carolina, during the
+                     Civil War. He wrote the week of May 7-10, 1864, of his efforts to rejoin his
+                     command.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref61_yza" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000849840"
+                           >Davis, Jefferson papers, 1841-1938</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_3dfa42eaa10ccd4ff49a2ba17768b907">
+                  <head>Scope and Contents note</head>
+                  <p>Four items collected by the Daltons were combined with other Davis
+                     materials.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref63_4ru" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002199805"
+                           >Deblois, Thomas A. papers, 1833</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_dc479a096d8ee193d50fb2c3f6992b98">
+                  <head>Scope and Contents note</head>
+                  <p>Letter from Nathan Hale, editor of the Boston Daily Advertiser, to Deblois
+                     writing in support of Daniel Webster as a possible presidential candidate. Hale
+                     makes reference to Andrew Jackson and asks Dublois to pass an article about
+                     Webster on to Major Jack Downing (pseudonym for Seba Smith) for possible
+                     publication in the Portland Courier.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref65_qq6" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002199806"
+                           >De la Rame´, Louise papers, circa 1893</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_7f279074015162181ddb8aef719a4013">
+                  <head>Scope and Contents note</head>
+                  <p>This signed manuscript is a translation of Louis-Adrien Levat's "La Disparition
+                     des Oiseaux" (La Nouvelle Revue, Vol. 80, Jan.-Feb. 1893, pp. 598-602). De la
+                     Rame´ was a translator of French who went by the pseudonym Ouida.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref67_lhl" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000851748"
+                           >De Saussure Family papers, 1788-1916</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_2b3e7a02bb7d4aa71fcc8456dde9d556">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence and papers of Henry William De Saussure and of grandson Wilmot
+                     Gibbes De Saussure, South Carolina legislator and Confederate Army officer.
+                     Subjects include the establishment of South Carolina College (later the
+                     University of South Carolina), the Mexican War, conditions in the Confederacy,
+                     political phases of Reconstruction, an interview between Carl Schurz and Henry
+                     A. De Saussure, effect of the contested election of 1877, and the Charleston
+                     earthquake of August 31, 1886. Also included are documents concerning real
+                     estate transfers, and genealogical records of the Bacot, Burden, De Saussure,
+                     Gourdin, Hamilton, Mood, Pringle, and Swinton families. Among the
+                     correspondents and persons mentioned are P.G.T. Beauregard, Henry Alexander De
+                     Saussure, John M. De Saussure, Adam T. Millican, Benjamin Silliman, and Henry
+                     D.A. Ward. The 5 items collected by the Daltons were merged into this
+                     collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref69_p5u" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">District of Columbia, Miscellany papers, 1815-1928</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_021b102c3b8eb0cd0ebe7f738ad4e598">
+                  <head>Scope and Contents note</head>
+                  <p>These 22 items are largely correspondence written in Washington, DC or sent to
+                     Washington, DC. Examples include a 1928 letter from Herbert Hoover to John
+                     Mullowney of Nashville, TN, a 1901 letter from Senator Orville H. Platt to
+                     Julius Brown, Esq., an 1884 letter from Secretary of the Interior, Henry M.
+                     Teller to U. S. Representative Richard Warner, an 1881 letter from Supreme
+                     Court Justice John Marshall Harlan, an 1879 letter from then-U. S.
+                     Representative James A. Garfield to Joseph Carter of Missouri, an 1877 letter
+                     from Z. Chandler, Chairman of the National Republican Committee to George
+                     Carter of New Orleans, an 1863 and an 1866 letter from U. S. Representative
+                     Schuyler Colfax, and an 1865 letter written by Confederate veteran, George C.
+                     Watkins of Little Rock to Washington lawyer James Carlisle, regarding Watkins'
+                     legal post-war woes. This folder is in Box 3 of the Harry L. and Mary K. Dalton
+                     Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref71_p2w" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002683930"
+                           >Dugas Family papers, 1763-1848</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_0e8ef1c6ffcc143799ef9397b07320a6">
+                  <head>Scope and Contents note</head>
+                  <p>Papers in this collection include letters, as well as financial and legal
+                     documents. The oldest item is a French marriage contract drawn in 1763, in the
+                     name of Louis Renee Adrien Dugas. Most of the material in the collection,
+                     however, pertains to Leon Frederick E. Dugas, who traveled extensively as a
+                     cotton merchant and general factor. Letters to Dugas discuss business and
+                     prices, as well as numerous lawsuits and disputes with importers. Several
+                     letters to Dugas from his brother-in-law and partner Paul Ronignol, are in
+                     French. A letterpress volume from 1845 records much of Dugas's correspondence
+                     from that year. Many of these letters are in French, and virtually all deal
+                     with matters of finance, cotton sales, or estate settlements. Of interest are
+                     documents representing Dugas's attempts to gain control of the Habersham Iron
+                     Works; papers relating to the sale of slaves to the family; and an inventory
+                     showing that in 1827, the Dugas family purchased most of the land, goods, and
+                     slaves of <title type="simple" render="doublequote">Good-Rest,</title> the
+                     Edgefield, S.C. home of Dr. Beauregard.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref73_yy4" level="series">
+            <did>
+               <unittitle>E-G</unittitle>
+            </did>
+            <c02 id="aspace_ref74_ltb" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002560941"
+                           >Ellet, William papers, 1761</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_783d0ca863f4af631544b289b88f9ba4">
+                  <head>Scope and Contents note</head>
+                  <p>Book of arithmetic problems and rules.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref76_076" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002273871"
+                           >Espy, James Pollard papers, 1844</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_d310529523cde58b683ce7c6bd89098b">
+                  <head>Scope and Contents note</head>
+                  <p>Collection centers on the rain theories of Espy. Included is the text of an
+                     address on artificial rain-making. There are also two documents from the
+                     citizens of Coudersport, Pennsylvania, who tried Espy's theories on a small
+                     scale and believed them to be effective.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref78_e7i" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002356522"
+                           >Faunce, S.E. papers, 1861-1865</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_d13f1ccf52cffd1dcba88c9e507766ca">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of a highly readable account of a Union soldier's
+                     experiences in the Civil War. It is in the form of a 48-page, typewritten
+                     memoir. There is no substantial clue to the identity of the author, but an
+                     attached business card is that of an "S.E. Faunce." The memoir describes events
+                     surrounding the 13th Mass. Volunteer Infantry, including the author's
+                     witnessing of the battle of Hampton Roads between the MONITOR and the MERRIMAC.
+                     Some relationship probably exists between the author of this memoir and Daniel
+                     W. Faunce, also of Plymouth.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref80_qvq" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002356524"
+                           >Feaster Family papers, 1755-1860</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_e37cbe10914d8e71b7b0eafa994adfde">
+                  <head>Scope and Contents note</head>
+                  <p>Collection contains mainly legal items, such as deeds and land grants. The
+                     evolution of a tract of land in S.C., 1755, may be traced to the Civil War.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref82_4yq" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002388154"
+                           >Fludd, Eliza papers, 1865-1868</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_002c4b9327480f352485a7eb4cdf8644">
+                  <head>Scope and Contents note</head>
+                  <p>Collection contains letters from Fludd mostly written to her friend, Mrs.
+                     Jolliffe. Fludd was the sister-in-law of a brother of George A. Trenholm,
+                     Secretary of the Treasury of the Confederate States of America. In clear
+                     handwriting, Fludd reveals herself to be deeply religious, well-educated, and a
+                     witness to the political and social events of the time; her context is
+                     Calvinist doctrine. She witnessed the battle and surrender of Fort Sumter and
+                     her belongings were destroyed or stolen when Sherman's army passed through
+                     Charleston. The letters describe her experiences and trials during the end of
+                     the Civil War. She gives an account of her radical change in lifestyle from
+                     living with abundance to starvation during Reconstruction, and also of the
+                     attitudes of the South to the North.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref84_v1u" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002388021"
+                           >Frost, Arthur Burdett papers, 1913-1914</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_d9b4383a9815090d394b77e90943df44">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of two letters. One is from Katherine Hinton Wootten,
+                     librarian of the Carnegie Library in Atlanta, to Frost thanking him for his
+                     letter and drawing of Brer Rabbit. His reply from Switzerland gives news of his
+                     illness.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref86_6c5" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002254457"
+                           >Gaffney Family papers, 1862-1866</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_bb40d67516df7c6a29c378536e2f271c">
+                  <head>Scope and Contents note</head>
+                  <p>Letters to the Gaffney family of Columbia, S.C., from friends and relatives. A
+                     letter (1862) written by P. Lemmons of the 12th South Carolina infantry
+                     (Gregg's Brigade) while he was at Camp Arsenal Green in Charleston, S.C.,
+                     describes the stealing of a steamship, THE PLANTER, by a party of African
+                     Americans. Several letters were written by William W. Gaffney to his parents
+                     during the Civil War: one (1862 May 20) from Camp Jackson in Spottsylvania,
+                     Va., These describe the events of battles in Virginia and Pennsylvania. Two
+                     items deal with financial matters at Furman University.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref88_wkh" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref
+                           xlink:href="http://library.duke.edu/rubenstein/findingaids/galesand/"
+                           >Gales &amp; Seaton records, 1811-1868</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_a6b9eef550883eb6c236c796c4ef7606">
+                  <head>Scope and Contents note</head>
+                  <p>Collection contains the business papers of Joseph Gales, Jr., and William W.
+                     Seaton, editors of the National Intelligencer. Correspondence pertains to
+                     subscriptions, advertising, announcements and letters to the editors. Some
+                     prominent names appear in the subscription correspondence. Of particular
+                     interest are fifty-six transcripts of Congressional speeches, resolutions, and
+                     motions. These were presented for publication and are marked for editing. Among
+                     the authors of the manuscripts are Henry Clay, James K. Polk, Martin Van Buren,
+                     and Daniel Webster. Many are signed. Part of the Harry L. and Mary K. Dalton
+                     Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref90_7ty" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003952462"
+                           >Gaston, William papers, 1814, 1817</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_dc47c4b81038bf0718834b8ec8e71721">
+                  <head>Scope and Contents note</head>
+                  <p>Two letters written by Gaston [of New Bern, NC] to an unknown person. These
+                     letters are located in Box 4 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref92_6ve" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Georgia, Miscellany papers, 1806-1865</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_961624999b41ede23ae23d174aa03dfa">
+                  <head>Scope and Contents note</head>
+                  <p>Twelve items, miscellaneous in relation to one another, but all relate to
+                     Georgia. Items include a pledge of allegiance to the Union, signed by Andrew
+                     Young in 1865 and an 1806 pardon for Jedediah Seymore signed by Secretary of
+                     State Horatio Marbury. These items are located in Box 4 of the Harry L. and
+                     Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref94_bz6" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002508717"
+                           >Greenaway, Kate papers, 1895-1901</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_3e7e823e72e67247d0fd100ea83752d8">
+                  <head>Scope and Contents note</head>
+                  <p>Contains two letters written to a friend she addresses as Lady Maria. In the
+                     first letter she is trying to arrange a time for Lady Maria to visit her, and
+                     refers to Mr. Ponsonby, presumably Lady Maria's husband. In the second letter
+                     she thanks Lady Maria for flowers she has sent from Ireland; says she has
+                     influenza; and reports a coming art exhibit that would feature paintings by Sir
+                     John Everett Millais.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref96_xzt" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002586486"
+                           >Great Britain, Miscellany papers, 1804-1939</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_117f06ad54c8851c6f641665bad18685">
+                  <head>Scope and Contents note</head>
+                  <p>Primarily correspondence of various government departments and individuals.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref98_qjd" level="series">
+            <did>
+               <unittitle>H-K</unittitle>
+            </did>
+            <c02 id="aspace_ref99_qp4" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003952514"
+                           >Hill, Daniel Harvey papers, 1923</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_cdf8a18379c6803781d97fda60573601">
+                  <head>Scope and Contents note</head>
+                  <p>Two letters to Hill from the Adjutant General of the State of North Carolina
+                     regarding the service of North Carolinians in World War I. They are located in
+                     Box 4 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref101_lor" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002565755"
+                           >Huddleston, Eliza A. papers, 1861-1864</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_c6a6c7dd60c8faea5a279bb5cc0ff441">
+                  <head>Scope and Contents note</head>
+                  <p>Consists of Civil War correspondence between R. R. Huddleston, 6th Regiment of
+                     the S.C. Volunteers, and his wife, Eliza A. (Chandler) Huddleston. The first
+                     two letters, headed "York District, S.C.," are love letters written before the
+                     couple married in 1861. Soon after this, R. R. left for the war. His letters
+                     during the period 1862-1864 are from various places in Va., and contain
+                     occasional comments on battles and camp life. In one letter (Sept. 12, 1863)
+                     Huddleston recounts to his wife the story of having to watch as two fellow
+                     South Carolinians were shot for desertion.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref103_jd2" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002779194"
+                           >Iredell, James papers, 1831-1842</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_724503de9893b869e7eb3a14fc468a97">
+                  <head>Scope and Contents note</head>
+                  <p>Three letters by Iredell addressed to John Branch, Secretary of the Navy; Gales
+                     and Seaton; and Willie P. Magnum and William A. Graham. The letter to branch
+                     recommends James H. Popelston for a midshipman's warrant. The letter to Gales
+                     and Seaton pertains to a subscription to the NATIONAL INTELLIGENCER. To Magnum
+                     and Graham, Iredell writes in support of James H. Brazier for appointment as
+                     midshipman, and requests that they forward his letter to Secretary of the Navy,
+                     Abel P. Upshur. On the same page, Magnum and Graham write a note of transmittal
+                     to Upshur, stating that they concur heartily with Iredell's recommendation.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref105_g07" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000862797"
+                           >Jackson, Andrew papers, 1820-1836</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_50b759fdb2e255a9aafd2245ef127c1e">
+                  <head>Scope and Contents note</head>
+                  <p>Papers chiefly concern military and Indian affairs, including a fight with the
+                     British at Mobile, Ala., 1814; raids of the Creek and Seminole Indians;
+                     relations between the U. S. government and the Indians in Alabama; the use of
+                     U. S. troops to remove intruders from Cherokee lands; affairs of the military
+                     department of the South when Jackson was in command, 1816; construction of a
+                     military road from Nashville to New Orleans, 1816; and the Seminole War,
+                     1835-1842. Several letters discuss politics during and after Jackson's
+                     presidency, including his relationships with John Rhea and John C. Calhoun.
+                     There is also material about military actions in Florida and Georgia during the
+                     War of 1812 and on government relations with the Creek Indians.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref107_00f" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002588767"
+                           >Jesup, Thomas Sidney papers, 1787-1860</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_a715f6035c8ff3d99841656d331b2167">
+                  <head>Scope and Contents note</head>
+                  <p>This collection consists military and other papers of Gen. Thomas Sidney Jesup
+                     relating mainly to the War of 1812, The Seminole War, and the Mexican War. It
+                     contains correspondence between Jesup and Major Willson, Hugh McCall, William
+                     Linnard, James Brown, L. P. Heintzelman, William Schley, and William Ballard
+                     Preston, among others. Topics are mostly related to military matters and
+                     relations with the Creeks and Seminoles. A detailed memoir by Jesup entitled
+                     "Memoir of the Campaigne on the Niagara" complements a similar item in the
+                     Jacob Jennings Brown Papers. Combined, the two memoirs yield a stunning
+                     overview of the Niagara Campaign, and also point to interesting areas of
+                     disagreement. Also included in the collection are two items from Washington,
+                     D.C., dated 1831. One represents the sale of 21 slaves to Jesup, while the
+                     other is the official District of Columbia authorization for such a sale, which
+                     is on Department of State Letterhead, and is signed by Secretary of State
+                     Edward Livingston. Additionally, the collection contains an 1813 article of
+                     agreement between Jesup and Brintnel Robins of Penn., who contracted to supply
+                     65 boats for the U.S. troops. The boats were intended for the expedition that
+                     later led to the Battle of the Chippewa.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref109_wml" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000862813"
+                           >Johnson, Andrew papers, 1865</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_0bc4f296df61372f3192d1997d5c4a65">
+                  <head>Scope and Contents note</head>
+                  <p>This folder contains a draft of a petition to Johnson, 1865, requesting
+                     favorable action on the application for pardon submitted by James H. Wilson of
+                     Charlotte.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref111_yde" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002586367"
+                           >Johnson, Thomas papers, 1776-1779</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_10e5511d85a16990d2480e1a22de0f44">
+                  <head>Scope and Contents note</head>
+                  <p>The collection consists of 24 items addressed to the Maryland Council of Safety
+                     (of which Johnson was a member) and to Thomas Johnson in his capacity as
+                     Governor of Maryland (1777-1779). Most of the letters and documents concern
+                     Revolutionary War matters, such as the raising of the militia, the difficulties
+                     in getting men to accept military commissions, loyalty vouchers for ships
+                     leaving Annapolis, and financial aspects such as checks for the payment of
+                     debts for supplies. Many names prominent in Maryland history are mentioned.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref113_rnr" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002474145"
+                           >Jones, Iredell papers, 1842-1906</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_2c63e3a3ec4c3129052660d2c8457225">
+                  <head>Scope and Contents note</head>
+                  <p>Collection contains Jones's correspondence and focuses on the Civil War. Some
+                     letters are from Jones to his parents, written while a student at S.C. College
+                     and a member of a volunteer group concerned with abolition. In all of the
+                     letters he wrote with a terse style, relating news and events. He includes
+                     detailed accounts of the military activities surrounding Charleston and Fort
+                     Sumter, such as iron-clad battles, bombardment of Sumter and hand to hand
+                     combat. Letters of family members, including his brother Cadwallader (Waddy)
+                     Jones, also give vivid pictures of the military and social aspects of the war
+                     in a broad area of the South. There is an account of the June 1862 twelve-day
+                     forced march to Fredericksburg. Other correspondence reflects Jones's courtship
+                     and marriage to Ellen Adams. He may have been a member of the Ku Klux Klan and
+                     letters tell of his arrest and imprisonment in 1871. Other items include legal
+                     papers, miscellany such as an unidentified photograph, and papers concerning
+                     the United Confederate Veterans, including data on many veterans.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref115_j8t" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002683903"
+                           >Kee, C. T. papers, 1866-1878</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_6c92d2a5bc9280f208b7a2b7c57e4bb9">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of one volume, which appears to be a records of
+                     compensation for agricultural labor. Most of the volume consists of lists of
+                     staples, foodstuffs, and cash given to laborers on a per diem basis from 1866
+                     to 1878. The last few pages of the book contain written receipts from wages
+                     paid by C. T. Kee. All recipients have signed with an "X." This, and a
+                     reference to several laborers as "Freedmen" indicate that Kee's laborers were
+                     African American. If so, then this volume, covering the 10 years after the
+                     Civil War, is valuable documentation of the ways in which African Americans
+                     were co-opted into semi-slavery in many parts of the South.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref117_2pz" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002683909"
+                           >Kelly, Henry Kuhl papers, 1933</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_7733cfd91d5f32db4780e44b32015099">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of three short notes from Dr. Harry Atwood Kelly to his son
+                     Henry Kuhl Kelly. Dr. Kelly, a devout Christian, writes of his travels and
+                     cautions his son on the importance of a pious life and the temptations of
+                     alcohol.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref119_dju" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002235673"
+                           >Kendall, Amos papers, 1840-1849</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_64f2b67fa6a2824bc54704fe53c972a8">
+                  <head>Scope and Contents note</head>
+                  <p>Letter (1840 May 20) from James W. Jeffreys, postmaster at Red House, Caswell
+                     County, N.C., to Kendall. The author congratulated Kendall on becoming editor
+                     of the Extra Globe and listed his qualifications for the position. Letter (1844
+                     Oct. 7) from Andrew Jackson to Kendall. In his letter, Jackson told Kendall how
+                     he planned to try to overawe the "nulifiers" of S.C. with a force of around
+                     150,000 volunteers from a number of states. If this did not work, he planned to
+                     punish the leaders only and not "their humble followers." Jackson reminisced
+                     about fighting the Creek Red Sticks in the Battle of Talladega and referred to
+                     the mutiny and disorder in his camp at Ten Islands. He also revealed that in
+                     his 1829 inaugural address, his friends persuaded him to strike a paragraph
+                     opposing the Bank of the United States as being unconstitutional. In closing,
+                     Jackson spoke of his shortness of breath when he attempted to walk unassisted.
+                     Letter from Sears Cook Walker (1849 Aug. 11) soliciting aid in connecting
+                     Southern Telegraph Company lines with the Charleston Observatory.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref121_b2m" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002683912"
+                           >Kentucky, Miscellany papers, 1795-1865</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_83cf8a30fe388f2976b4f18ae64f7616">
+                  <head>Scope and Contents note</head>
+                  <p>Collection of miscellaneous items from Kentucky, including a 1795 Commonwealth
+                     of Ky. land grant of 9,728 acres in Nelson Co. to Joseph Lewis, among other
+                     deed transferrals. Additional items include a letter of recommendation from
+                     George Bibb; a letter dated 3 August 1816, from R. Whiting in New York to James
+                     Prentiss in Lexington, Ky., concerning the failure of acceptance of bank drafts
+                     on the Mechanics Bank and other banks in Philadelphia and New York; and various
+                     business letters.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref123_u0e" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003952439"
+                           >Kincaid, M. Virginia papers, 1875-1888</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_967c7aadbfbef6626a199ab1c504c834">
+                  <head>Scope and Contents note</head>
+                  <p>This collection contains correspondence written to Virginia "Jennie" Kincaid of
+                     Collettsville, NC. The folder is located in Box 4 of the Harry L. and Mary K.
+                     Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref125_zc2" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002588754"
+                           >Knox family papers, 1837-1884</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_1e958b474ac2a53bb700abf8a181c3c8">
+                  <head>Scope and Contents note</head>
+                  <p>The first item in this collection is a letter from Rome written in 1837 to John
+                     Knox of Leesville, S.C. The signature is missing from this item, which relates
+                     to the sights and art of Rome. The second item is a letter (1866) addressed to
+                     James Knox from Robert H. Miller of Lawrence, Kan. Miller discusses in detail
+                     his feelings about the recent Civil War. Most of the letter is devoted to a
+                     detailed and stirring account of Quantrill’s 1863 raid on Lawrence, Kan., and
+                     the extraordinary events that happened at Miller’s own house. The next three
+                     items pertain to W. D. Knox, the son [?] of James Knox. One item is a personal
+                     letter of family news written in 1872. Also from that year is a Davidson report
+                     card for W. D. Knox’s son, John. The final item (1884) is W. D. Knox’s
+                     appointment certificate as school commissioner for Chester County, S.C.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref127_fp2" level="series">
+            <did>
+               <unittitle>L</unittitle>
+            </did>
+            <c02 id="aspace_ref128_n2t" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001826859"
+                           >Lafayette, Marie Joseph Paul Yves Roch Gilbert du Motier, Marquis de
+                           papers, 1825-1830</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_74faf818b2fd24cbfbabfbbf7973c775">
+                  <head>Scope and Contents note</head>
+                  <p>Letter of Lafayette, 1825, written on board the "Natchez" on the Mississippi
+                     River, introducing Prince Achille Murat, son of the King of Naples, and a group
+                     of Murat's Neapolitan friends; letter from Lafayette in Halifax, N.C.,
+                     responding to an invitation to visit Tarboro, N.C.; letter from Lafayette to
+                     unidentified friend, written from LaGrange, France, 1830, concerning funds for
+                     a statue of Thomas Jefferson to be commissioned in Europe on behalf of the
+                     University of Virginia (Lafayette favored the appointment of his friend
+                     Pierre-Jean David for this commission).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref130_s42" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003952864"
+                           >Langley family papers, 1855-1887</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_28fd2cbc19cd03e08e4e84c2fae8b1ee">
+                  <head>Scope and Contents note</head>
+                  <p>This collection consists mainly of Civil War letters written by T. C. Langley
+                     (Company J, 12th Regiment, South Carolina Volunteers), to his family near
+                     Lancaster Courthouse, South Carolina. Many of the letters are addressed to his
+                     father, William C. Langley, and many South Carolina names are mentioned.
+                     Although T. C. Langley wrote regularly from 1861-1865, these letters have
+                     little military or political content and pertain mainly to personal matters.
+                     Langley's main concerns were his brother John (serving with him, and frequently
+                     ill) and the state of agricultural matters back home. The regiment to which
+                     Langley belonged traveled widely but little is revealed about camplife,
+                     battles, or war perspectives, other than occasional lists of casualties. Of
+                     interest at one point in the correspondence is the writer's anger that a
+                     Lancaster neighbor had tried to buy first T. C.'s father and then his little
+                     brother as substitutes in the army (1862). Miscellany for the collection is
+                     mainly pre-war legal material from Lancaster District, including small court
+                     suits and the settlement of a James Langley's estate. This folder is located in
+                     Box 5 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref132_l8o" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002878433"
+                           >Lane, Samuel papers, 1817</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_d9d5ce2a8257014d187b04ac6c22536d">
+                  <head>Scope and Contents note</head>
+                  <p>One letter in which Lane informs Congress the new Representative and Senate
+                     Chambers will be ready by the autumn of 1818. Dated 1817, the letter includes
+                     reports from James Hoban, who was put in charge of rebuilding the White House
+                     after it was destroyed in the War of 1812. Hoban gives a detailed account of
+                     materials, costs and interior finishing and reveals that the Oval Office was
+                     originally called the "Elliptical Saloon."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref134_1xl" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/lee/"
+                           >Lee, Robert Edward papers, 1749-1975</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_6cbf190f17d8790f462dbcbe91c3a70e">
+                  <head>Scope and Contents note</head>
+                  <p>The Daltons gifted 27 items which help make up the Lee papers.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref136_zto" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001767415"
+                           >Lee, Thomas Sim papers, 1779-1782</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_18ba76bd5d2852c867e3055988421b0a">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence directed to Governor Thomas Sim Lee of Maryland during the
+                     Revolutionary War. Included are two letters from Army provisioners, and various
+                     military letters concerning resignations and deserters. One letter from the
+                     General Council grants a man and wife the right to return to Great Britain
+                     despite the war; another, from Richard Barnes, solicits aid and describes
+                     British harassment of boats and citizens at the mouth of the Potomac.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref138_hhi" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001767417"
+                           >Leech, Abraham Paul, 1796-1955(bulk 1840-1930)</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_f8087e0be713ef8a56e22bc491136870">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence, legal and financial papers, photographs, printed material,
+                     writings, clippings, and volumes relating chiefly to the Leech family, but also
+                     to relations in the Dewey, Warner, and Duryea families. Correspondence topics
+                     include: nineteenth-century American politics; reform movements; lectures and
+                     lyceums in New York; late nineteenth-century courtship; and school activities
+                     at the Stone School and Williams College. One series of letters from 1841 refer
+                     to the American poet Walt Whitman. Another series of letters from the Dewey
+                     family, beginning in the 1840s, originate from Ohio. Also included in this
+                     collection are papers concerning the Jamaica Lyceum, of which Abraham Paul
+                     Leech was secretary pro tem in the 1840s.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref140_3hr" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000863105"
+                           >Legaré, Hugh Swinton papers, 1837-1843</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_7676f6d59454a80ad7863e84d307f46a">
+                  <head>Scope and Contents note</head>
+                  <p>Miscellaneous correspondence concerning Legaré's legal practice, politics, and
+                     the purchase of books for his library. Letter to Legaré (1837) from jurist
+                     Frederick Grimke in Delaware, Ohio, while Legaré was in the U.S. Congress,
+                     relating to the organization of the court system in the Ohio area and Legaré's
+                     planned visit to the "western U. S." Also contains a letter, 1838, from Joel
+                     Poinsett, secretary of war of the United States, pertaining to a treaty with
+                     the Sioux Indians, and a letter from the sculptor, John Stevens Cogdell,
+                     concerning his career.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref142_cfa" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001767357"
+                           >Leventhorpe, Collette papers, 1862-1931</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_797f91f47ebdafa06dee096bccffe980">
+                  <head>Scope and Contents note</head>
+                  <p>Records of Confederate Army's 11th Regiment of N.C., formerly 1st Infantry
+                     Regiment, also known as the "Bethel Regiment." Includes orders issued by
+                     Leventhorpe as commander of the regiment, and orders issued to Leventhorpe;
+                     final accounts of members who died in service and inventories of their personal
+                     effects; certificates of disability and discharge; and proceedings of
+                     courts-martial. Final accounts of deceased members include a physical
+                     description of individual, and often his former occupation. Also includes a
+                     1931 clipping with a photograph of Leventhorpe.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref144_5sp" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000863868"
+                           >Lincoln, Abraham papers, 1861-1938</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_4175add82d6228af0c0b4897646767b5">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly facsimiles of Lincoln letters; clippings; and other miscellany
+                     concerning Lincoln and his assassination.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref146_6zo" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001767367"
+                           >Lockyer, Edmund papers, 1811-1814</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_13ec898a3b8e05dd07085a14c10db479">
+                  <head>Scope and Contents note</head>
+                  <p>Handbills and one letter related to British sale of goods captured from sailing
+                     ships during War of 1812. Handbills are for sales in Plymouth, England: one
+                     (1811) advertises the auction of the cargo of the brig "Fox," and includes
+                     detailed auction sheet; another advertises 1812 auction of the cargo of
+                     American schooner "Arrow", whose cargo included items such as silk, brandy,
+                     champagne, almonds, dress goods, and toys. Each handbill names William Lockyer
+                     as broker, and Edmund Lockyer as customs-house agent. A letter (1814) from
+                     George Tobin, captain of the H.M.S. "Andromache" asks Edmund Lockyer for
+                     payment of bounty on captured ship.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref148_3qe" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001112753"
+                           >Long, Benjamin papers, 1854-1856</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_595f6bc373c8ef95f4eb175a07e00876">
+                  <head>Scope and Contents note</head>
+                  <p>The Daltons gifted 4 items in 1980 which were cataloged under James R. W.
+                     Sellwood's name. The items are correspondence from James Sellwood and his
+                     brother, John, to Benjamin Long of Mendon, Ill., chiefly concerning the
+                     Sellwoods' mission in and around Grahamville, Beaufort Co., S.C. The letters,
+                     including a copy of a report to the mission's trustees, describes Sellwood's
+                     living conditions and salary, the religious condition and lives of the
+                     inhabitants in and around Grahamville, sermon topics, and local customs.
+                     Sellwood also mentions the existing local prejudice against the Episcopal
+                     Church and that the Baptists attracted possible communicants away from
+                     Anglicanism.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref150_hna" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002235674"
+                           >Lucas Family papers, 1813-1867 and undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_415ff634be10bc423856ba70e71b0c53">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence, legal papers, and financial papers of the Lucas family of
+                     Raleigh, N.C. Early letters (1813-1816) were written by Alexander Lucas to his
+                     wife Mary while he visited Pennsylvania and Washington, D.C. Legal papers
+                     pertain to a lawsuit involving William Lucas, Henderson Lucas, and Margaret
+                     Lucas and concerning the estate and Revolutionary War military bounty of their
+                     grandfather, Thomas Lucas. A letter written to William Lucas from N. Davidson
+                     (1857) on an advertising sheet contains descriptions of inventions of 1857,
+                     including a counterfeit preventing machine for the printing of banknotes, a
+                     windmill, a pump, and a letter-copying press. Also included in the collection
+                     are letters (1861-1862) from Henderson Lucas of the 34th Regiment of N.C.
+                     Troops, Company G, to his sister Margaret. Lucas wrote from Camp Fisher near
+                     High Point, N.C., from Camp Davis near Wilmington, and from Hamilton's
+                     Crossing. Clippings include one describing Henderson Lucas' heroism at the
+                     battle of Gettysburg. Collection also includes a small account book (1821) in
+                     which Mary Lucas made a few brief entries.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref152_acw" level="series">
+            <did>
+               <unittitle>M-O</unittitle>
+            </did>
+            <c02 id="aspace_ref153_l1d" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Maryland, Miscellany papers, 1775-1860</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_39378e7f51e98cdbc92771dd6ba83483">
+                  <head>Scope and Contents note</head>
+                  <p>Collection of miscellaneous items from Maryland. Includes correspondence and an
+                     indenture. This folder is located in Box 6 of the Harry L. and Mary K. Dalton
+                     Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref155_kcv" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002241554"
+                           >Mason, George papers, undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_f3a87af927a6ded85519161f435b3890">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of a photostat of pages six and seven of a letter from
+                     Mason to an unidentified relative. Mason tells him to proceed to execute a
+                     warrant and entry for a grant of land, and he will make an assignment of the
+                     entry to him. The land matter involves others, including Messrs. Steptoe and
+                     Gosnell. Mason writes that he has delivered to his son a hogshead of tobacco
+                     recently received from one of the addressee's tenants, and mentions a snuff
+                     mill with which his son Thomson was "concerned" for two years.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref157_ckm" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000868351"
+                           >Mayer, Brantz papers, 1845-1890</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_f8a3f6eadaf8de84cd034aef8df6b942">
+                  <head>Scope and Contents note</head>
+                  <p>Papers including several letters concerning Bennet Allen, an 18th century
+                     Anglican clergymen, pertaining to a riot in Allen's parish and to property he
+                     left in America at the time of the Revolution; and correspondence and papers
+                     concerning Mayer's interest in Maryland history and archival sources and in the
+                     Maryland Historical Society.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref159_6lr" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE005999071"
+                           >McIntosh, Alexander papers, 1860-1865</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_c665f79612d437a7b1699e4df60d54d4">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly letters to McIntosh from his wife and other relatives. Several are
+                     written to him in early 1865 while he was stationed with Company K, 4th
+                     Regiment, Senior Reserves in Salisbury, NC, and they primary concern his family
+                     and other personal news. Another letter, dated February 4, 1865, is to
+                     McIntosh's wife from her brother, R. Gerrard Sifford, while he was being held
+                     as a prisoner of war at Point Lookout, MD. McIntosh and his family lived in
+                     Martindale, Mecklenburg County, NC. This folder is located in Box 6 of the
+                     Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref161_rpv" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002241567"
+                           >Medical College of Georgia records, 1833-1859</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_31570dd5cca08e7b064dc0580c04b849">
+                  <head>Scope and Contents note</head>
+                  <p>Collection contains three items. The first is the bill (1833), creating the
+                     Medical College from the old Institute. It is signed by Governor Lumpkin and
+                     endows the college with funds, land, and trustees. The second item is an 1858
+                     graduation statement, listing graduates and discussing briefly the fact that
+                     enrollment is down due to the local economy. A third letter (1859), is from F.
+                     Campbell at the college, informing an unknown addressee that he has been
+                     appointed to the Board of Trustees.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref163_bq0" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002241568"
+                           >Megahey Family papers, 1861-1877</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_89495d309431c19dc6f0fdef5e3a2736">
+                  <head>Scope and Contents note</head>
+                  <p>Collection contains three letters from T.C. Megahey to his family in Charlotte,
+                     N.C. He recounts events of a trip to Petersburg, Va., and writes of camp life.
+                     For one letter, the stationery is from the U.S. Sanitary Commission. The final
+                     item is an April Fool's rhyme sent to Miss Mary Megahey.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref165_mbc" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Miscellany papers, 1695-1919</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_9fe2f9b5270062c56f27c24359a9e418">
+                  <head>Scope and Contents note</head>
+                  <p>These are miscellaneous items gifted by Harry L. and Mary K. Dalton. Included
+                     are deeds and correspondence, including a letter from Jonathan Trumbull, an
+                     1865 oath of allegiance signed by James Stump, a ticket to the trial of Tilton
+                     vs. Beecher in 1874, and a rough draft of a letter [1877] to Lucy Hayes. This
+                     folder is located in Box 6 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref167_gr6" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003953502"
+                           >Montgomery, Josiah papers, 1862-1869</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_bdc9272900a68e2d52533d0043a41793">
+                  <head>Scope and Contents note</head>
+                  <p>Largely correspondence written by Montgomery to his mother. This folder is
+                     located in Box 6 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref169_bxd" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002251866"
+                           >Morrow, John W. papers, 1836-1894</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_0066a08db1e7aaa529266e0828f7079b">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of Morrow's business papers that cover a wide variety of
+                     legal and financial matters. Morrow appears to have specialized in the
+                     settlement and disposition of estates. Of note is the correspondence and legal
+                     materials of J.E. Hennigan of Texas. Morrow administered the estate of
+                     Hennigan's father and the papers reflect the facts of the estate but also
+                     family squabbles. The 1888 Articles of Incorporation for the Pineville Cotton
+                     mill, as well as two diaries, and an account book are also included.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref171_ek9" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000748142"
+                           >Murdoch, Susan Butterworth papers, 1894-1912 and undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_fa32f445554484049d90316ea931c302">
+                  <head>Scope and Contents note</head>
+                  <p>Diary, 1894-1900 (ca. 320 p.), kept by Susan B. Murdoch, and four miscellaneous
+                     items. The diary, written primarily from Maineville, Ohio, describes daily
+                     routines of a homemaker and wife as well as family concerns. There are
+                     additional entries for Benjamin Butterworth (1837-1898) ; the 2d Ohio Volunteer
+                     Infantry Regiment; floods; elections and women voting; and medical home
+                     remedies. An undated essay by Murdoch's husband describes pioneer life in
+                     Ohio.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref173_9na" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000868037"
+                           >Nadenbousch, John Quincy Adams papers, 1861-1871</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_8b1e582e84adbb99a3ef49f3bf448cb8">
+                  <head>Scope and Contents note</head>
+                  <p>Included in this collection are Civil War papers relating to Nadenbousch's
+                     service as Provost-Marshall of Martinsburg, [West] Virginia and as a Captain in
+                     the "Stonewall" Brigade. Although several items of family correspondence
+                     appear, most letters concern military affairs.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref175_jl2" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">New York, Miscellany papers, 1765-1924</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_2992c500a6563ae9be448087ade5e732">
+                  <head>Scope and Contents note</head>
+                  <p>Miscellaneous items related to New York, largely correspondence. This folder is
+                     located in Box 6 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref177_cpn" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">North Carolina, Miscellany papers, 1806-1878</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_d0a834b0ea15b454f2b29d4bff91cfd1">
+                  <head>Scope and Contents note</head>
+                  <p>This collection contains miscellaneous items related to North Carolina. Largely
+                     correspondence, included is a speech on women, written by North Carolina's
+                     first governor, Richard Caswell. This folder is located in Box 6 of the Harry
+                     L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref179_bis" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001021269"
+                           >Norton, Mary papers, 1852-1895</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_f1d5150b2022f065584905bf5446029f">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly letters from Clara Barton, founder and president of the American Red
+                     Cross, to Norton who was an intimate friend. Letters contain references to
+                     mutual friends and family and document the administration and operation of the
+                     Red Cross. Letters written during the Civil War include instructions for
+                     sending relief supplies and detailed observations which illustrate Barton's
+                     life in the trenches with the soldiers. Later letters concern Barton's travels,
+                     speaking engagements, and charity work; her life in Dansville, N.Y., as she
+                     contemplated the future of the Red Cross; and her work as the superintendent of
+                     the Reformatory Prison for Women in Southfarmington, Mass. A letter from Barton
+                     to her cousin Jerry details her breakdown in London, her views on the Stanley
+                     and Livingston affair, and her activities in France during the Franco-Prussian
+                     War. Other items include pamphlets on women's schools and charity organizations
+                     and a letter to Norton from P.T. Barnum discussing Horace Greeley.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref181_i2n" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002269720"
+                           >Otis, Harrison Gray papers, 1803</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_6196b626e3c795f87365bdc4bacb993c">
+                  <head>Scope and Contents note</head>
+                  <p>Letter is written to Otis from Alexander Hamilton, and discusses a civil suit
+                     related to trade between a New Jersey company and Para, Brazil. Hamilton
+                     mentions evidence from Portugal.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref183_qvj" level="series">
+            <did>
+               <unittitle>P-R</unittitle>
+            </did>
+            <c02 id="aspace_ref184_jny" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001751784"
+                           >Paca, William papers, 1782-1783</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_e3824284801018bdd8c04391c38d7722">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of four letters addressed to Paca. Most are requests from
+                     various persons, e.g., a British prisoner asking for his freedom and permission
+                     to settle in Annapolis with his family, a Maryland Representative writing on
+                     behalf of a woman seeking restitution for personal losses to the British, and a
+                     Baltimore man seeking an official pass to visit New York City on business.
+                     Another letter inventories the losses in the 1783 fire at the Annapolis
+                     armory.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref186_dsj" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001751785"
+                           >Palliser, Hugh papers, 1770s[?]</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_ae676f38e6e4a42e2e7b1454fc2eb55d">
+                  <head>Scope and Contents note</head>
+                  <p>A note on the cover of a missing letter. The note refers to the enclosed letter
+                     on the 14th from Palliser, who has given intelligence information to the
+                     British regarding a vessel that is to be purchased or detained for His
+                     Majesty's use.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref188_3yr" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002569225"
+                           >Payne, John Howard papers, undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_178ef2c8d4296a8cf8ad8644028f2c7e">
+                  <head>Scope and Contents note</head>
+                  <p>Facsimile of Payne's "Home, Sweet Home." Located in Box 7 of the Harry L. and
+                     Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref190_r0e" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Pennsylvania, Miscellany papers, 1796-1915</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_a85ca45289a20b7ee501b9b7b81a7bac">
+                  <head>Scope and Contents note</head>
+                  <p>Miscellaneous correspondence written in Pennsylvania. Items are located in Box
+                     7 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref192_70l" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001767386"
+                           >Perry, Oliver Hazard papers, 1808-1813</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_3e79b84097611fe3bb0a8e93554fe8dc">
+                  <head>Scope and Contents note</head>
+                  <p>Three letters, two engravings of Perry, and an announcement of a public dinner
+                     given by the citizens of Washington, D.C. in honor of Perry's victory on Lake
+                     Erie in 1813. The letters, two of which are facsimiles, are written by Perry to
+                     Robert Smith, Secretary of the Navy, and General William Henry Harrison, and
+                     chiefly concern his military victory on Lake Erie, the delivery of prisoners
+                     following that event, and a recommendation that a William Prant Smith be given
+                     a midshipman's warrant.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref194_453" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001751791"
+                           >Phillips, John papers, 1743-1798</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_8035fd58a1742ed53be6e9236ab77df2">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of oversized parchment deeds and indentures pertaining to
+                     land in what was called the "Northern Liberties" of Philadelphia in the 18th
+                     century. Included is a map [ca. 1778?] of land owned by William Coates, a
+                     Revolutionary officer and Justice of the Peace for the township of North
+                     Liberties. Of particular interest is the plot of land on Coates Street
+                     designated as the property of Benjamin Franklin. This is the plot mentioned in
+                     Franklin's last will and testament as "my pasture-ground which I have in
+                     Hickory Lane, with the buildings thereon..." The remainder of the collection
+                     consists of land indentures made by several different parties.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref196_bei" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002586491"
+                           >Pickens, Andrew papers, 1801-1827</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_89e0fa44d9f194a2b9a29b0248b9816a">
+                  <head>Scope and Contents note</head>
+                  <p>Includes correspondence; a memorandum of agreement between Pickens and David
+                     Files regarding a loan from Pickens to Files; financial papers relating to the
+                     operation of Pickens' plantation in Alabama; a mortgage bond; and an
+                     Agricultural Memorandum Book (1822-1826) which discusses the clearing of land
+                     for planting cotton and corn, describes the seeds he used, and includes several
+                     pages of accounts. Pickens also comments on his visits to Cahaba, Alabama, and
+                     the flood which occurred while it was the state capitol.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref198_we0" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000868115"
+                           >Pickens, Francis Wilkinson papers, 1806-1868, undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_7d1e229a36224fffb7bf89fe9a8b03bd">
+                  <head>Scope and Contents note</head>
+                  <p>Twenty-three items of correspondence in this collection mainly concern
+                     political matters after 1832, when Pickens became openly active in the
+                     nullification controversy. Several letters from 1833 deal with Colonel Pickens'
+                     efforts to promote the state oath of allegiance and to raise and provision a
+                     contingent of his Edgefield constituents. Of particular interest is a letter
+                     detailing the types and amounts of military supplies available to various local
+                     volunteer groups. The finest items in the collection are three lengthy letters
+                     from James Hammond to Pickens in 1839-1840. Some correspondence is personal.
+                     Also included are some legal documents and miscellany items. The collection is
+                     housed in Box 7 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref200_ict" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003955129"
+                           >Picture Collection, after 1860</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_0a2e0728346ad6a95652fc5034a6f4d3">
+                  <head>Scope and Contents note</head>
+                  <p>The major portion of this collection of pictures consists of 53 cartes de
+                     viste, dating from the 1860s. Most of them are pictures of Civil War generals.
+                     Many of these cartes bear a U.S. postage stamp, indicating that they were
+                     produced before or during the period Sept. 1, 1864-Aug. 1, 1866, when all such
+                     photographs transported in the U. S. mail were subject to this form of
+                     government tax in order to raise additional wartime revenue. Only five of them
+                     have not been identified. Also included in this collection are 30 engravings,
+                     most of them of prominent American statesmen. Included in the collection are
+                     engravings of Kit Carson, Samuel P. Chase, Horatio Gates, and members of
+                     Abraham Lincoln's cabinet. Two non-person pictures include an undated print of
+                     the Charlotte Female Institute and an 1863 print of Camp Vermont, Virginia
+                     during the Civil War. As of April 2008, these items are located on 6th
+                     16:B.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref202_0px" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002458598"
+                           >Pillow, Gideon Johnson papers, 1861</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_7cd6961f3ca4cb0702278c5cd4f0ffd9">
+                  <head>Scope and Contents note</head>
+                  <p>Collection contains largely routine items pertaining to Gen. Pillow. They
+                     concern army supplies and skirmishes around, Charleston, Mo.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref204_wal" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Poetry, Miscellany papers, 1848-1865</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_f5899affbe99f8fa474d96cddd617af3">
+                  <head>Scope and Contents note</head>
+                  <p>Miscellaneous poems, most of the creators are unidentified. These items are
+                     housed in Box 7 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref206_8yk" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000872365"
+                           >Polk, James K. papers, 1840-1845</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_b46571b5cbb931899ac32f64dd04725b">
+                  <head>Scope and Contents note</head>
+                  <p>Includes a written statement from the Sherriff of Bradley County, Tennessee in
+                     addition to two unrelated letters. These items are housed in Box 7 of the Harry
+                     L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref208_42l" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001776958"
+                           >G. P. Putnam's Sons records, 1886-1908</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_f6c394ad2556013bc851e3cf1d08b3bf">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence illustrating the publication and investment relationship of
+                     Theodore Roosevelt with the G. P. Putnam’s Sons publishing house. Among the
+                     items are four notes from Roosevelt to George Haven Putnam, discussing business
+                     affairs and Roosevelt’s reasons for breaking off business with the company. Two
+                     other notes discuss Roosevelt’s North Dakota cattle ranches. Other
+                     correspondence comes from Douglas Robinson, a New York real estate man and
+                     partner with Roosevelt in an investment venture with the Putnam firm. Robinson
+                     questions the timing and amount of his returns.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref210_pgp" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003953848"
+                           >Revolutionary War autographs, 1776-1784</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_557864dfe0b0f068c7f71e83efaa266d">
+                  <head>Scope and Contents note</head>
+                  <p>Individual autographs of Revoluntionary War soldiers. These items are located
+                     in Box 7 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref212_sai" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001826863"
+                           >Roosevelt, Theodore papers, 1916, undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_3886f62b785f55815231136ff1bd63e6">
+                  <head>Scope and Contents note</head>
+                  <p>Includes a note written by Roosevelt to Judge M. W. Morrow and a thank-you note
+                     to a Dr. Mullowney. These items are located in Box 7 of the Harry L. and Mary
+                     K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref214_cbf" level="series">
+            <did>
+               <unittitle>S</unittitle>
+            </did>
+            <c02 id="aspace_ref215_fma" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001826809"
+                           >Saye, James Hodge papers, 1790-1896</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_cee0fd7af06764d03b1fbe0001580658">
+                  <head>Scope and Contents note</head>
+                  <p>Chiefly correspondence of the Saye family. Early letters trace James Saye's
+                     progress through the Columbia Theological Seminary in Decatur, Ga. Other
+                     correspondence details his pastorships in Henry County, Ga., in Unionville and
+                     Fairforest, S.C., then in Chester County, S.C. Several letters are from fellow
+                     ministers, and discuss Presbyterian Church matters and national politics. Later
+                     correspondence is chiefly between the six Saye daughters and their mother,
+                     Rebecca Saye (McJunkins), and concern domestic issues and Reconstruction in the
+                     South. A letter by Rebecca details the genealogies of the Saye and McJunkins
+                     families. One letter (1883) addressed to James Saye from a professor at
+                     Davidson College recounts college affairs. Other documents include legal
+                     papers, including one Freedmen's Bureau document of 1866 which indentures an
+                     orphaned African-American boy to Rev. Saye for fourteen years.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref217_o90" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001826813"
+                           >Schriver, Edmund papers, 1834-1853</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_784ffec486be26104ddaf625315a54dc">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence to Edmund Schriver from two West Point fellow graduates, Robert
+                     Selden Garnett and William Wallace Smith Bliss. Topics deal in great detail
+                     with army life in general, including politics, scandals, and events; the
+                     Cherokee War; the war with Mexixo, including the battles of Palo Alto, Resaca
+                     de la Palma, Monterey, and Buena Vista; Bliss' role as chief-of-staff to
+                     General Zachary Taylor, and, later, as private secretary to President Taylor in
+                     Washington; and the reaction to Taylor's election in 1848.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref219_8rm" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001826866"
+                           >Scott, Winfield papers, 1822</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_0c3d830007aa5413a7ab758eef79b5a6">
+                  <head>Scope and Contents note</head>
+                  <p>This collection contains 2 items: an 1822 letter from Scott to John Floyd in
+                     Washington and Floyd's response to Scott. The letters discuss military
+                     publications. These items are located in Box 8 of the Harry L. and Mary K.
+                     Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref221_xz5" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">South Carolina, Miscellany papers, 1787-1934</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_0cb63ce01cf58362252bf71567d4b341">
+                  <head>Scope and Contents note</head>
+                  <p>This collection includes miscellaneous items related to South Carolina.
+                     Correspondence makes up the bulk of the collection and correspondents include
+                     Strom Thurmond and Arthur P. Hayne. Also included are financial documents such
+                     as receipts and printed material such as pamphlets for The Crosby Military
+                     Institute in Feasterville, S.C. and reports regarding S.C. government. The
+                     material is housed in Box 8 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref223_6yx" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000879187"
+                           >Sherman, William T. papers, 1863-1869</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_89002c0d6eac0d9b68361f6f48903e6e">
+                  <head>Scope and Contents note</head>
+                  <p>Included in this collection are correspondence and orders written by Sherman as
+                     well as his address to the 1869 graduating class of the United States Military
+                     Academy at West Point. These items are located in Box 8 of the Harry L. and
+                     Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref225_tc3" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001826832"
+                           >Sims, Joseph Starke papers, 1819-1903 and undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_3f210dc9f9bdfe897787c62359bf837d">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence, financial records, legal documents, clippings, account books,
+                     commissions, addresses and speeches, and a diploma. Correspondence concerns
+                     chiefly cotton growing, trade and prices; slaves who worked in cotton fields;
+                     financial matters; Washington, D.C. politics, with references to Henry Clay and
+                     John Calhoun; state and national politics; descriptions of newly settled areas
+                     of Mississippi and California; and a cholera outbreak in Charleston (1832).
+                     Civil War letters detail problems at Fort Sumter (1861), and often refer to
+                     economic difficulties and shortages in South Carolina. Other Civil War letters
+                     are also written from Manassas, Alabama, and Mississippi. One letter from
+                     Mississippi details the desperation of women left alone and unable to flee
+                     before the advancing Union Army. Post-war letters reveal the problems of
+                     Reconstruction in South Carolina. Many of the letters are to Sims' wife Jane
+                     Emily Sims (Farnandis). Includes an autobiographical letter from J. K.
+                     Paulding, author and statesman, and an essay by the same, entitled "The history
+                     of Uncle Sam and his boys." Some of Sims' addresses and one of the legal
+                     documents concern Nullification, which Sims' strongly supported. Other
+                     documents include an obituary for Franklin H. Elmore, plantation and general
+                     account books, and some material on Sims' student days at South Carolina
+                     College (ca. 1817-1819), which includes a letter to his brother in 1819 "in
+                     defence of General Jackson," and his "treatment of the Indians."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref227_5e8" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001826833"
+                           >Sims, William papers, 1770-1860</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_afc5b0eb6e616806b7d1355e62e7f0f3">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence, financial papers, and legal documents, concerning William Sims'
+                     extensive plantation holdings in South Carolina. Includes two account books.
+                     Correspondence is primarily related to business matters, including cotton trade
+                     and prices; the price and availability of slaves; and the beginnings of a
+                     textile industry on the plantation. Local and state politicians in South
+                     Carolina are often mentioned, as is the general economic plight of the Southern
+                     planter in the period (ca. 1819-1830), and currency problems in the state (ca.
+                     1826-1830). One personal letter effusively describes newly settled land in
+                     Mississippi and the quality of the cotton grown there. Detailed financial
+                     papers form the bulk of the collection, and concern the cotton trade (including
+                     weights, bale numbers, shipping, prices, and sales), and household and
+                     plantation expenses. Legal papers are confined to deeds, documents of land
+                     litigation, military commissions, and documents relating to slaves, such as
+                     indentures and lists of slaves on the plantation. Also includes genealogical
+                     information on the Sims family.Cotton grower in Union County, South
+                     Carolina.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref229_pde" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002254456"
+                           >Samuel Slater &amp; Sons records, 1839</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_13c5d1f2c83058082cec8e2b272d17bf">
+                  <head>Scope and Contents note</head>
+                  <p>Letters and financial papers from shops and individuals who bought cloth from
+                     and sold cloth to Samuel Slater and Sons. Many of the merchants discussed
+                     problems in cash availability, as the letters were written during one of the
+                     peaks of the 1839 banking crisis.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref231_g08" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001534679"
+                           >Sloan, Edwin R. papers, 1861-1863</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_aa41a329682567543167dc93afffe18e">
+                  <head>Scope and Contents note</head>
+                  <p>Civil War letters from Edwin R. Sloan, a private in Company F, 1st Regiment,
+                     N.C. Cavalry, chiefly to his wife Sarah in N.C. Letters span Sloan's military
+                     career from 1861 to ten days before his death in September, 1863. Some of
+                     Sloan's letters are written from Camp Marsh; Camp W. S. Ash; Washington Co.,
+                     Md.; Culpepper, Va.; Hanover Junction, Va.; Upperville, Va.; and Raccoon Ford,
+                     Va. Letters contain accounts of camp life, deprivations, and rumors and
+                     predictions about the war. The author expressed strong Southern sentiments. One
+                     letter written in 1861 provides an account of Confederate soldiers fraternizing
+                     with the United States soldiers under a flag of truce and being entertained and
+                     fed by them. Sloan also described scouting expeditions along the Potomac; Union
+                     soldiers burying Confederate dead at Upperville; his sorrow on the death of
+                     General Jackson; and his attempt to buy a furlough to come home. In August and
+                     September of 1863, Sloan reported of rumors that North Carolina would return to
+                     the Union. He expressed his desire for peace, but not at the expense of
+                     returning to the Union.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref233_8tc" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001826842"
+                           >Smith, Samuel Francis papers, 1831-1936</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_1a4b7c17a74f4242bb6c3b66b6fb7390">
+                  <head>Scope and Contents note</head>
+                  <p>Signed holograph copy of four verses of "America," written by Samuel Francis
+                     Smith, and a pamphlet published by American Autograph Shop, containing a
+                     facsimile of the first and last verses of "America"; a copy of the entire hymn
+                     as printed for the celebration by the Boston Sabbath School Union of
+                     Independence Day in 1931; printed copies of two other hymns; a copy of an
+                     address to the children by the Rev. Wisner; and a facsimile of notes made by a
+                     Dr. Jenks during the celebration.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref235_13o" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001845550"
+                           >Stephens, William papers, 1780-1811</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_2142b8f61799e86b133f331265852c68">
+                  <head>Scope and Contents note</head>
+                  <p>Letters pertaining to Stephens' business and legal affairs, as well as a letter
+                     in which he complains to Governor Richard Howley about the lack of a jail in
+                     Augusta and the consequent lawlessness in the county. One letter to Abraham
+                     Mims in Newport, R.I., was written from the Stephens family vacation home in
+                     Providence.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref237_7ug" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002044924"
+                           >Sternes, A. L. papers, 1861-1862</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_847ea863cbe5d8accd757c23e742c42e">
+                  <head>Scope and Contents note</head>
+                  <p>Two letters from Sternes to his wife, expressing affection and concern, and a
+                     third letter from Lieutenant L. A. Potts informing Mrs. Sterned of her
+                     husband's death on August 2, 1862.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref239_ipm" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002372622"
+                           >Stuart, J.E.B. papers, 1861-1863</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_aa5dab97f9a37c407b34706bf492c618">
+                  <head>Scope and Contents note</head>
+                  <p>This addition to the Jeb Stuart Papers includes the following: General Order
+                     no. 14 issued under Stuart's order and signed by Heros von Bourke; an
+                     announcement of the death of Captain Redmond Burke at Shepherdstown, Va.;
+                     letters to Major Martin concerning cavalry operations in Va.; and a number of
+                     letters to Stuart's wife, Flora, in Wytheville(?), Va. One group of letters to
+                     her is from Harper's Ferry and concerns men and arms for an upcoming battle.
+                     Others discuss the Union troops' advance, Stuart's advancement in the C.S.A.,
+                     his concern for his wife's well-being, and efforts to arrange for her a visit
+                     to his camp. One holograph message from Stuart states that General Jackson
+                     wishes to see Rufus Barringer.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref241_155" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000875791"
+                           >Sumner, Charles papers, 1862-1868</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_9f2a8717b9ab557e7c741a2495de33ab">
+                  <head>Scope and Contents note</head>
+                  <p>This collection includes four letters to Sumner, including one from W. H.
+                     Seward and one from Edwin Stanton. These items are housed in Box 8 of the Harry
+                     L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref243_e19" level="series">
+            <did>
+               <unittitle>T-Z</unittitle>
+            </did>
+            <c02 id="aspace_ref244_mno" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002044936"
+                           >Tappan, Mason Weare papers, 1857-1865</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_bd517050c8e0fbae10d98a063cacf29a">
+                  <head>Scope and Contents note</head>
+                  <p>Letters to Mason W. Tappan primarily concerning Republican politics.
+                     Correspondents include Schuyler Colfax, N.H. senator John Parker Hale, and Amos
+                     Tuck. Also includes letters on legal matters from U.S. Attorney General Caleb
+                     Cushing.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref246_wug" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001996468"
+                           >Tucker-Coalter Family papers, 1794-1821</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_51087fac9ec2ce62a48e10a8602ffb4d">
+                  <head>Scope and Contents note</head>
+                  <p>Collection of letters chiefly written by John Randolph, known as "Randolph of
+                     Roanoke," to various family members, including his half-sister Frances Bland
+                     Tucker Coalter, John Coalter, and Henry St. George Tucker. Other correspondents
+                     include St. George Tucker, Edmund Randolph, and William Wirt, Attorney General
+                     of the U.S. Topics cover family matters, Washington and Virginia politics,
+                     legal matters, illnesses, and child-rearing. Another letter mentions
+                     "automata," mechanical men Randolph observed while a law student in
+                     Philadelphia.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref248_prm" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001112507"
+                           >Tyler, Erastus Barnard, 1856-1863</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_cafb43c350d5c867408aedb7aece60c2">
+                  <head>Scope and Contents note</head>
+                  <p>Primarily letters written during the Civil War by Tyler to his parents from
+                     camps in the Kanawha Valley of Virginia as well as posts near Washington, Va.,
+                     and Culpepper, Va; and the field at the Battle of Gettysburg. These letters
+                     reflect Tylers's service under General Rosecrans as well as the movements and
+                     engagements of his forces. One letter was written from Fort Randall, Nebraska
+                     Territory in 1858.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref250_2fp" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002067265"
+                           >Tyler Family papers, 1834-1881</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_ba97b034a48550bee11d9f75763a7640">
+                  <head>Scope and Contents note</head>
+                  <p>Papers pertaining to President John Tyler and his family. Petition, 1834, from
+                     prominent residents of King and Queen County, Va., asking Tyler to endorse
+                     their candidate for the U.S. Senate; letter of recommendation (1841) from Burke
+                     Washington concerning a naval candidate, Alexander Jones; letter from John
+                     Tyler, Jr. (?) in reply to H. C. Corbin; letter written by Julia (Gardiner)
+                     Tyler (1881) in reply to an autograph collector.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref252_9c3" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE003877925"
+                           >U. S. Dept. of the Navy records, 1802-1877</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_8d02c999b92097c4120bdf9fc7820fd5">
+                  <head>Scope and Contents note</head>
+                  <p>This collection of correspondence, directed to the Secretaries of the U. S.
+                     Navy, consists largely of recommendations for young men desiring appointments
+                     to the Naval Academy and other Naval positions. Other contents include
+                     incidental messages on Navy finance, notes and letters on legislation affecting
+                     the Navy, reports on Naval operations in Gibraltar and elsewhere, on sailors'
+                     conduct and on provisioning.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref254_tgw" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002257991"
+                           >U. S. War Department records, 1814-1865</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_770c786d7996407c042a2cc4c1d94cee">
+                  <head>Scope and Contents note</head>
+                  <p>A detailed list of a cavalry troop; a letter from Tenn. governor Willie Blount
+                     to Capt. James Cowan of the U.S. Rangers, concerning the Creek Wars in Tenn.; a
+                     letter from Mass. governor Caleb Strong to Adj. Gen. John Brooks referring to
+                     appointments to the War Dept.; four letters of recommendation, two of these
+                     directed to Joel R. Poinsett, then Secretary of War; a property document (1865)
+                     from the Freedmen's Bureau; and a grant of military bounty lands to a Mrs.
+                     Sarah Woolley.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref256_dsg" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002582823"
+                           >Van Buren, Martin papers, 1837-1840</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_b57d118679b517e09ac1be9a8d0c47d5">
+                  <head>Scope and Contents note</head>
+                  <p>This collection includes a letter (1840) to Van Buren from his daughter-in-law,
+                     Angelica as well as a land grant from 1837 to Benjamin Crumpacker of La Porte
+                     County, Indiana.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref258_ci4" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002205148"
+                           >Van Ness, William Peter papers, 1805</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_f611751cfbc1f1f8b07873d6b976da16">
+                  <head>Scope and Contents note</head>
+                  <p>Van Ness was the second in Aaron Burr's duel with Alexander Hamilton and was
+                     indicted as an accessory to Hamilton's murder. He fled to New York and later
+                     became judge of the U.S. Circuit Court for a New York district. The letter is
+                     from Burr from Chilicothe. Here, Burr asks Van Ness to meet him in Berkeley
+                     Springs and instructs him to contact certain people in New York and
+                     Philadelphia.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref260_o3q" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002205153"
+                           >Vinson, Fred M. papers, 1944-1946</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_accbff155042c12f2ce6b69b4dca3053">
+                  <head>Scope and Contents note</head>
+                  <p>Included are four short pieces of correspondence addressed to Harry L. Dalton
+                     from 1844-1946. A large folder of clippings and miscellany includes articles on
+                     Vinson and the Treasury, a long statement delivered to the House Ways and Means
+                     Committee (Oct 1, 1945), as well as clippings and the Life magazine cover story
+                     on Vinson's swearing in as Chief Justice (1946).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref262_hmk" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Virginia, Miscellany papers, 1761-1864</emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_c547b83121be6f9b89c5b9dceeda8f7d">
+                  <head>Scope and Contents note</head>
+                  <p>Miscellaneous items related to the Commonwealth of Virginia. Collection
+                     includes mainly land grants and correspondence. This material is located in Box
+                     9 of the Harry L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref264_0j3" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001530414"
+                           >Voigt, Edward papers, 1839-1874(bulk 1839-1845)</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_67f8232f4316331efe9969f594239392">
+                  <head>Scope and Contents note</head>
+                  <p>Predominantly correspondence between Edward Voight and Caroline Voigt of Warren
+                     Farm, Chester County, Pa., during their courtship and early years of marriage.
+                     A majority of the letters are from Edward's hand. The correspondence between
+                     the couple concerns Edward's work as a bookkeeper, and later his mercantile
+                     business in Philadelphia; religious devotion and piety; social engagements; the
+                     couple's courtship and wedding plans; and travel, particularly by rail between
+                     Chester County and Philadelphia. These letters provide a perspective on gender
+                     roles and relations during the mid-nineteenth century insofar as they reflect
+                     the propriety and etiquette expected of the young couple, as well as Edward's
+                     expectations concerning Caroline's religious devotion and her independence on
+                     this matter.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref266_6qt" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000884148"
+                           >Washington, George papers, 1775-1939</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_a7ee0113956c63ef31b7d999d47ad306">
+                  <head>Scope and Contents note</head>
+                  <p>Facsimilies of Washington correspondence and several engravings of both
+                     Washington and his wife Martha. These items are located in Box 9 of the Harry
+                     L. and Mary K. Dalton Collection.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref268_nh7" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002199783"
+                           >White, R. L. C. papers, 1852-1861</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_78f2f134df199d5af8ebac89f4226423">
+                  <head>Scope and Contents note</head>
+                  <p>Collection is composed of autographs solicited and collected by R.L.C. White of
+                     Lebanon, Tennessee. Most of the signatures are from government figures in
+                     Washington. A note is also included, dated March 10, 1860, written from
+                     Washington, DC by Charles Francis Adams in response to a request for an
+                     autograph.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref270_pbl" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002199785"
+                           >Whiteside, Thomas papers, 1821-1864</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_783eb7bde7bd3bfe4871629bd4feabf0">
+                  <head>Scope and Contents note</head>
+                  <p>Gentleman's pocket book, bound in suede with flap. Scanty accounts fill only a
+                     small portion of the book. "Thos. Whiteside--His book" is written on the front,
+                     and the name is mentioned several times inside. Book appears to have originally
+                     been owned by Jesse Broomfield whose initials appear above Whiteside's on the
+                     cover and the earliest entries bear his name. Broomfield was one of the
+                     original sponsors of the Ebenezer Academy (1834) near Rock Hill, SC.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref272_gwv" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000877883"
+                           >Wilkes Family papers, 1816-1877</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_04ba80e327545f11f3243b415f6b4548">
+                  <head>Scope and Contents note</head>
+                  <p>Correspondence of members of the Wilkes family, consisting primarily of letters
+                     to Charles Wilkes (1798-1877), naval admiral, and of many letters that he
+                     wrote. Letters from prominent scientists such as James Renwick, Asa Gray, James
+                     D. Dana, and Jean L. R. Agassiz also appear in the papers, as does
+                     correspondence of naval officers, Congressmen, diplomats, and cabinet
+                     secretaries, especially Secretaries of the Navy. Included among the numerous
+                     subjects mentioned in the papers is the exploring expedition that Wilkes
+                     commanded to the Antarctic continent, islands of the Pacific Ocean, and the
+                     American Northwest coast from 1838-1842. There is a lot of family
+                     correspondence from various members of the Wilkes family which include two
+                     wives of Charles Wilkes. Other types of material in the collection are legal
+                     papers, financial records, printed material, writings, account books, a science
+                     notebook written by Wilkes' son Edmund in 1847, and a volume entitled, "Notes
+                     Relative to the Fijii [sic] Islands," written by Charles Wilkes. These items
+                     make up part of the Charles Wilkes Papers.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref274_0sl" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE002199792"
+                           >Willard, Henry A. papers, 1834-1890</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_5a9e128ce222fd53c0362de140fe4714">
+                  <head>Scope and Contents note</head>
+                  <p>Most of the collection deals with Willard's ownership of the famous Willard
+                     Hotel. Extensive correspondence documents the comings and goings of clients at
+                     the hotel, as well as repair and financial matters there. Legal and financial
+                     papers are concerned with the hotel, as well as with Willard's other interests
+                     as founder of the National Safe Deposit, Savings and Trust, Co., as a member of
+                     the D.C. Board of Public Works, and as chairman of the Board of Trustees for
+                     the District of Columbia Reform School in the 1870s and 1880s. Willard received
+                     appointments signed by the President every three years. Thus, the signatures of
+                     Grant, Hayes and Cleveland appear here. A few personal items are included, such
+                     as an icy exchange between Henry and his brother Joseph C. Willard. Of interest
+                     is a long document to the Supreme Court of the District of Columbia which
+                     details the feud between the two brothers.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref276_kvo" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE001530449"
+                           >Williams, William Augustus papers, 1825-1867 and undated</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_ed01777d55f0381b48fa1fe3061ea9bd">
+                  <head>Scope and Contents note</head>
+                  <p>Collection consists of correspondence, notebooks, and miscellaneous papers of
+                     Colonel William Augustus Williams of Wilmington and Charlotte, N.C.
+                     Correspondence includes letters from Henderson C. Lucas, Williams's nephew, who
+                     was wounded at Gettysburg while serving in the 11th Regiment of the N.C.
+                     Infantry; and letters related to Williams's efforts to bring the wounded Lucas
+                     to Charlotte. Other correspondence is primarily of a financial nature. A letter
+                     from William Henry Heyward describes the effects of reconstruction on South
+                     Carolina Coastal planters. A letter from Rev. Aldert Smedes mentions the
+                     financial hardships suffered by St. Mary's School in Raleigh, N.C. and is
+                     written on stationery describing the school's tuition and curriculum. Notebook
+                     dated 1827 contains exercises in penmanship and renderings of famous poems,
+                     while one dated 1825 is an arithmetic practice book. Also included are papers
+                     related to the Raleigh City Guards.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref278_6rq" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000885573"
+                           >Wirt, William papers, 1810-1854</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_066c9466d2deafe0befaf6a3bb778ca3">
+                  <head>Scope and Contents note</head>
+                  <p>Papers of William Wirt and of Elizabeth Washington (Gamble) Wirt, including
+                     letters concerning William's law practice; a letter relating an anecdote
+                     concerning William Wirt, Henry Clay, and a General Parker; fragmentary letter,
+                     1833, from Wirt to a law student at the University of North Carolina, Chapel
+                     Hill, discussing education; and a fragment of Wirt's draft of his biography of
+                     Patrick Henry. Correspondence of Elizabeth Washington (Gamble) Wirt, wife of
+                     William, and two sons, Dabney Carr and William C., concerns the purchase and
+                     sale of land, a debt incurred by Wirt for land he planned to develop in
+                     Florida, the widow's financial affairs, the erection of a monument to her
+                     husband, and other family matters.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref280_xkg" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">
+                        <extref xlink:href="http://search.library.duke.edu/search?id=DUKE000885579"
+                           >Woodruff, Isabella papers, 1768-1865</extref>
+                     </emph>
+                  </unittitle>
+               </did>
+               <scopecontent id="aspace_fb98e9e358ab7c11f941d3b114cdf495">
+                  <head>Scope and Contents note</head>
+                  <p>This collection contains correspondence, primarily containing observations of a
+                     social and political nature regarding the period in South Carolina before,
+                     during and immediately following the Civil War. Much of the subject matter
+                     deals with viewpoints of the women. Correspondants include: her mother, Mrs.
+                     Louisa Roberts; her brother, Samuel C. Roberts; and her best friend, Countess
+                     Aniela N. Pinkind, as well as Charles F. A. Holst, her future husband.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/smithwm/">smithwm</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William Smith Papers, 1785-1860 <num>RL.01224</num></titleproper>
+        <author>Processed by: David M. Rubenstein Rare Book &amp; Manuscript Library;
+          machine-readable finding aid created by: Stephen Douglas Miller. Updated by Meghan Lyon,
+          2018.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2018</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">000874812</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-05-22 13:26:26
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+      <change>
+        <date>2018</date>
+        <item>Revised/rehoused as part of RLTS ticket response by Meghan Lyon</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>William Smith papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Smith, William, 1756-1835</persname>
+      </origination>
+      <unitid>RL.01224</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1785/1860" type="inclusive">1785-1860</unitdate>
+      <physdesc id="aspace_8378b059f866e4b7fb40a6438a8589be">328 Items</physdesc>
+      <langmaterial id="aspace_78fc8290e733c7b0d6438442d4920e81">English. </langmaterial>
+      <abstract id="aspace_8186c5cc1c02df27673eb6ef2c80b985">Correspondence, writings, and printed
+        materials relating to Smith's advocacy for the abolition of slavery in Great Britain and in
+        Britain's colonies in the West Indies. Collection contains notes, statistics, and research
+        on the slave trade between Africa and the British West Indies; slave revolts and the
+        conditions on sugar plantations in the Caribbean; abolitionist tracts discussing moral,
+        economic, and religious opposition to slavery; and diagrams of slave ships documenting
+        conditions for enslaved people and casualty rates during transport. The bulk of the
+        collection's correspondence is addressed to Smith. Letters of William Wilberforce and the
+        Wilberforce family discuss personal affairs, politics, abolition, and other matters. Letters
+        from Thomas Clarkson discuss the antislavery movement. Letters from Smith's constituents
+        discuss politics, social conditions, parliamentary reform, British foreign trade, slavery in
+        the West Indies, and economic conditions. Correspondents include Priscilla Buxton, Thomas
+        Fowell Buxton, and Zachary Macaulay. Also contains a partially unpublished poem of Robert
+        Southey entitled To the Exiled Patriots.</abstract>
+    </did>
+    <accessrestrict id="aspace_670d515028a919a4dd766aa9ff415fe6">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_d7d1ebc407fd4a6504bf255c65303622">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in the William Smith Papers have not been transferred to Duke
+        University. For more information consult the section on copyright in the Regulations and
+        Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_2cc72f5b3384c2d8fe491d4f9c676bb0">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], The William Smith Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University</p>
+    </prefercite>
+    <acqinfo id="aspace_bb1de533a1f55b06f26d643207f80080">
+      <head>Provenance</head>
+      <p>The William Smith papers were acquired by Duke University between 1954 and 1967.</p>
+    </acqinfo>
+    <processinfo id="aspace_b188ed396e0848be5c43fec35a987ec0">
+      <head>Processing Information</head>
+      <p>Processed by: Duke University. David M. Rubenstein Rare Book &amp; Manuscript Library
+        Staff</p>
+      <p>Completed ca. 1967. Updated 2018.</p>
+      <p>Encoded by Stephen Douglas Miller</p>
+    </processinfo>
+    <bioghist id="aspace_4b7d010d7f58b497d1af9da9ee9933f6">
+      <head>Biographical Note</head>
+      <p>William Smith (1756â€“1835) was a leading independent British politician, sitting as Member
+        of Parliament (MP) for more than one constituency. He was an English Dissenter and was
+        instrumental in bringing political rights to that religious minority. He was a friend and
+        close associate of William Wilberforce and a member of the Clapham Sect of social reformers,
+        and was in the forefront of many of their campaigns for social justice, prison reform and
+        philanthropic endeavour, most notably the abolition of slavery. He was the maternal
+        grandfather of pioneer nurse and statistician Florence Nightingale.</p>
+    </bioghist>
+    <scopecontent id="aspace_98e6e99c52e42c8a3a2cdf16cdae7e2a">
+      <head>Collection Overview</head>
+      <p>This collection consists of letters and writings to and from William Smith, as well as
+        collected printed materials largely related to Smith's work opposing the slave trade and the
+        abolition of slavery in British colonies in the early 1800s. Outstanding are the 24 letters
+        of William Wilberforce (1759-1833); these discuss such topics as: religion, sickness in the
+        family, his sickness which forced him to leave the House of Commons, his family and his
+        desire for more private life with them, his relatives, political disappointments, trips and
+        engagements, publishers, criminals in Great Britain and their punishment, resolutions and
+        plans for the abolition of slavery, the antl-slavery society, the Jamaica Law, Spanish slave
+        trade, Spanish abolition, William Pitt, Lord Grenville and his estate Dropmore, Dr.
+        Channing, Robert Hall, and Thomas Buxton. </p>
+      <p>A number of the letters from Smith's many correspondents stand out. There are a number of
+        letters around 1790 from various societies and committees discussing the abolition of
+        slavery and approving Smith's actions; some of them also mention Wilberforce. A letter from
+        J. Yule in Edinburgh of August 13, 1792, tells of the poor Scottish peasants who are being
+        driven from their lands to make room for sheep which are more profitable. Three letters from
+        James Muir between 1793 and 1797 discuss the case of his son who has been banished for
+        fourteen years for Joining the Society for Parliamentary Reform. A letter from John Longley
+        on January 31, 1796, tells of a book which he has just published on parliamentary reform and
+        discusses various aspects of the English government from the viewpoint of a reformer. Thomas
+        Coke on March 16, 1809, writes of the different slavery laws in Jamaica. A lengthy 1813
+        letter from Andrew Wedderburn, a Jamaica plantation owner, discusses the condition of the
+        enslaved people after a storm, their food supplies, sickness and death, his attitude toward
+        their care, the various uses of the land, the crops raised, the market for produce, the
+        purchase and hiring of slaves. A number of letters from Bermuda, Nevis, St. Vincent,
+        Barbados, and Berbice contain similar discussions. An unusually good letter comes from a
+        planter in St. Vincent, April 4, 1816. Some of these planters' letters give in rather
+        emphatic terms the case of the planters against the abolition of slavery. There is copy of a
+        sermon preached at Port Royal, Jamaica, June 7, 1822, on the anniversary of the great
+        earthquake (1692) which contains a very frank and oven criticism of the moral life of Port
+        Royal.</p>
+      <p>One significant in the collection is a letter in very tiny handwriting from John Horseman,
+        July 15, 1817, which includes the text of Robert Southey's poem entitled "To the Exiled
+        Patriots." The only known publication of the poem is in Samuel Taylor Coleridge's Essays on
+        His Own Times, (1850) I, 19-20. Horseman's edition of the poem contains sixteen stanzas as
+        compared to Coleridge's ten. In addition eight of the lines are different in the two
+        editions.</p>
+      <p>Several letters from Thomas Clarkson between 1825 and 1827 discuss the methods to be used
+        in the drive for complete abolition of slavery. A letter from T. Gisborne in 1829 accuses
+        Smith of being a Papist. A lengthy petition in 1829 signed by 95 principal native
+        inhabitants of Bombay, India, protests to the House of Commons against certain grievances
+        and asks redress. A letter of Gilbert Shelton in Bermuda in 1832 comments with keen insight
+        on the recent Reform Act, on Irish independence, and on the types of Christian missionaries
+        in the West Indies; later letters from him give considerable details regarding the purchase
+        of a life insurance Policy in England. Different letters in 1833 tell of the methods and
+        problems involved in the abolition of slavery. A letter from James Stephen announces
+        Wilberforce's death, July 29, 1833; also a letter from Wilberforce's son, Robert, tells of
+        the death. There is a copy of a petition to Rev. H. W. Wilberforce signed by 127 members of
+        both houses of Parliament requesting that William Wilberforce be buried in Westminster Abbey
+        and that they be granted permission to attend the funeral. Several letters between the
+        Clarksons and William Smith shortly offer Wilberforce's death concern Robert Wilberforce's
+        proposed life of his father and his ideas of attacking some of Thomas Clarkson's claims for
+        himself in the abolition movement.</p>
+      <p>The correspondents in this collection include: M. Babington, J. Barham, Richard Bickell,
+        Henry Bright, Richard Brodbelt, Priscilla Buxton, Thomas Powell Buxton, Catherine Clarkson,
+        Thomas Coke, Benjamin Cooper, John Frederick Garling, T. Gisborne, Andrew Grant, Robert
+        Grosvenor, George Hibbert, John Horseman, Robert Harry Inglis, John Longley, Men Leith,
+        Zachary Macaulay, A. Mavrocordato, James Muir, J. Plymley, D. Power, William Rathbone,
+        Gilbert Salton, Philip Sansom, John Scott, B. Shank, Granville Sharp, E. Sharpe, James
+        Stephen, W. Villers, Andrew Wedderborn, James Weeker, Barbara Ann Wilberforce, Robert I.
+        Wilberforce, William Wilberforce, John Wright, and J. Yule.</p>
+      <p>In addition to the letters mentioned above, there is extensive evidence in the
+        miscellaneous papers and the printed material on slavery. It includes Smith's notes and
+        research on: spies in the slave trade, deaths (of crew and captives) on slave ships, food
+        carried on slave ships, methods of obtaining slaves in Africa, conditions of Africans in
+        Africa, British exports to Africa, eyewitness accounts and lists of witnesses, general
+        information on the West Indies, estates and plantations, diseases and epidemics, population,
+        mistreatment of slaves, breeding of slaves versus importation, description of a riot in
+        Barbados in 1823 and the destruction of a Methodist chapel, printed petitions from the West
+        Indies showing the increasingly difficult financial position of the sugar planters due to
+        high taxes, shipping costs, and low prices, lists and copies of British Laws concerning
+        slavery in the colonies, a planter's plan for the emancipation of slaves over a period of 34
+        years, conditions of slaves in French colonies, papers comparing the raising of sugar cane
+        in the West Indies and in the East Indies and India, letters regarding the abolition of
+        slavery in Ceylon, speeches in Parliament or manuscripts of books, Parliamentary
+        resolutions, printed statements for and against slavery, history of the movement for
+        abolition, newspaper excerpts, and magazine articles.</p>
+    </scopecontent>
+    <index id="aspace_2172757d6bb7b2bef4b5efe99acb015f">
+      <head>Index of the Additions to the William Smith Papers cataloged after 1965</head>
+      <p>This partial index was compiled by library staff in the 1980s as part of catalog work on
+        the library's autograph file. Information included here has not been verified since (as of
+        May 2018).</p>
+      <indexentry>
+        <name>Abinger, James Scarlett, First Baron</name>
+        <ref>See Scarlett</ref>
+      </indexentry>
+      <indexentry>
+        <name>Addington, Henry, First Viscount Sidmouth</name>
+        <ref>1805, Apr. 21-28 (Memo.); 1812, Apr. 17.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Animals. Treatment</name>
+        <ref>1828, Jan. 4</ref>
+      </indexentry>
+      <indexentry>
+        <name>Army in Calabria</name>
+        <ref>1806, Sept. 3</ref>
+      </indexentry>
+      <indexentry>
+        <name>Art Galleries</name>
+        <ref>1805, July 12, 13</ref>
+      </indexentry>
+      <indexentry>
+        <name>Art. Medieval.</name>
+        <ref>1810, Dec 3</ref>
+      </indexentry>
+      <indexentry>
+        <name>Auckland, William Eden, First Baron</name>
+        <ref>See Eden</ref>
+      </indexentry>
+      <indexentry>
+        <name>Augustus Frederick, First Duke of Sussex</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Barham, Charles Middleton, First Baron</name>
+        <ref>See Middleton</ref>
+      </indexentry>
+      <indexentry>
+        <name>Belsham, William</name>
+        <ref>1806, Sept. 28</ref>
+      </indexentry>
+      <indexentry>
+        <name>Bentinck, William Henry Cavendlsh, Third Duke of Portland</name>
+        <ref>1807, May 9</ref>
+      </indexentry>
+      <indexentry>
+        <name>Bexley, Nicholas Vansittart, First Baron</name>
+        <ref>See Vanisittart</ref>
+      </indexentry>
+      <indexentry>
+        <name>Blomfield, Charles James</name>
+        <ref>1829, June 28</ref>
+      </indexentry>
+      <indexentry>
+        <name>Bonaparte, Jerome</name>
+        <ref>1806, ca. Sept.</ref>
+      </indexentry>
+      <indexentry>
+        <name>British Institution for Promoting the Fine Arts in the United Kingdom</name>
+        <ref>1805, July 12, 15</ref>
+      </indexentry>
+      <indexentry>
+        <name>Buckinghamshire</name>
+        <ref>1820, Feb. 19</ref>
+      </indexentry>
+      <indexentry>
+        <name>Buckinghamshire, Robert Hobart, Fourth Earl of</name>
+        <ref>See Hobart</ref>
+      </indexentry>
+      <indexentry>
+        <name>Bullbaiting</name>
+        <ref>1828, Jan. 4</ref>
+      </indexentry>
+      <indexentry>
+        <name>Cambridge University</name>
+        <ref>1807, Feb. 12</ref>
+      </indexentry>
+      <indexentry>
+        <name>Canada. New Brunswick</name>
+        <ref>1825, March 20</ref>
+      </indexentry>
+      <indexentry>
+        <name>Canada. Nova Scotia</name>
+        <ref>1825, March 20</ref>
+      </indexentry>
+      <indexentry>
+        <name>Canning, George</name>
+        <ref>1805, Apr. 21-28 (Memo.); 1827, Aug 31.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Carrington, Robert John, Second Baron Barrington (While known as Robert Smith)</name>
+        <ref>1820, Feb. 19</ref>
+      </indexentry>
+      <indexentry>
+        <name>Chatham, John Pitt, Second Earl of</name>
+        <ref>See Pitt</ref>
+      </indexentry>
+      <indexentry>
+        <name>Church of England</name>
+        <ref>1829, June 28; 1831, Apr. 29; 1834, March 3.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Clarkson, Thomas</name>
+        <ref>1807, Feb. 12 (Possibly)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Coleridge, Samuel Taylor</name>
+        <ref>1806, Sept. 3; 1806, ca. Sept..</ref>
+      </indexentry>
+      <indexentry>
+        <name>Commerce</name>
+        <ref>1808, Feb. 22</ref>
+      </indexentry>
+      <indexentry>
+        <name>Copley, John Singleton, First Baron Lyndhurst</name>
+        <ref>1828, Jan. 4; 1829, June 28; 1830, Apr. 30, May.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Crime and Criminals. Great Britain</name>
+        <ref>1828, Jan. 4</ref>
+      </indexentry>
+      <indexentry>
+        <name>Cuesta, Feliciano</name>
+        <ref>1809, April 13, May 6, 8</ref>
+      </indexentry>
+      <indexentry>
+        <name>Curtis, Sir John</name>
+        <ref>1806</ref>
+      </indexentry>
+      <indexentry>
+        <name>Denman, Thomas, First Baron Denman</name>
+        <ref>1828, Jan. 4</ref>
+      </indexentry>
+      <indexentry>
+        <name>Denmark, Relations with</name>
+        <ref>1808, Jan. 23, Feb. 16</ref>
+      </indexentry>
+      <indexentry>
+        <name>Dissenters</name>
+        <ref>1808, June 3; 1812, Apr. 17, May 27; 1820, Feb. 19; 1827, Jan. 1; 1829, June 28; 1831,
+          Apr. 29; 1833, Jan. 17; 1834, March 3; [?], May 2 (Lord Holland).</ref>
+      </indexentry>
+      <indexentry>
+        <name>Duncombe, U.</name>
+        <ref>1796, June 30</ref>
+      </indexentry>
+      <indexentry>
+        <name>Dundas, Henry, First Viscount Melville</name>
+        <ref>1805, Apr. 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Economic Conditions</name>
+        <ref>1808, Feb. 22</ref>
+      </indexentry>
+      <indexentry>
+        <name>Eden, William, First Baron Auckland </name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Elections</name>
+        <ref>1802, July 7; 1806, Oct. 13, 26, 30, Oct. [?], Nov 19 (2); 1806; 1807, May 9, 11; 1820,
+          Feb. 19; 1831, Apr. 29.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Exchequer</name>
+        <ref>1806, March 1, Dec.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Exmouth, Edward Pellew, First Viscount</name>
+        <ref>See Pellew</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fane, John, Tenth Earl of Westmorland</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fawkes, Walter Ramsden</name>
+        <ref>1807, May 9</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fellowes, Robert</name>
+        <ref>1806, Oct. 25; 1807, May 9.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fisher</name>
+        <ref>1806, Oct. 30</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fitzpatrick, Sir Jeremiah</name>
+        <ref>1799, June 10</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fitzpatrick, Richard</name>
+        <ref>1827; Aug. 31</ref>
+      </indexentry>
+      <indexentry>
+        <name>Foreign Policy</name>
+        <ref>1804, April 4</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fox, Charles James</name>
+        <ref>1804, Jan. 23, April 4; 1805, Apr. 21, 28 (Memo.); 1806, Sept. 3, 10 (2), 11, Sept.;
+          1806, Autumn; 182?, Aug. 31; n. d. (Wyvill to Fox).</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fox, Henry Richard Vassall, Third Baron Holland</name>
+        <ref>1819, Oct. 7</ref>
+      </indexentry>
+      <indexentry>
+        <name>France, Relations with </name>
+        <ref>1794, Oct. 14; 1795, Nov. 27-29, Dec. 1; 1800, June 26; 1804, Jan. 23; 1808, Jan. 23,
+          Feb. 16; 1810, Dec. 3; n. d. (Wyvill to Fox).</ref>
+      </indexentry>
+      <indexentry>
+        <name>Francis, Sir Philip</name>
+        <ref>1794, Nov. 29-Dec. 21; 1795, Jan. 13.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Frederlok Augustus, Duke of York and Albany</name>
+        <ref>1809, April 13, May 6</ref>
+      </indexentry>
+      <indexentry>
+        <name>Fremantle, Sir William Henry</name>
+        <ref>1806, Oct. 30, Oct.; Nov. 19.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Gascoyne, Isaac</name>
+        <ref>1807, May 11, 18</ref>
+      </indexentry>
+      <indexentry>
+        <name>George III</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Goderich, Frederick John Robinson, Viscount</name>
+        <ref>See Robinson</ref>
+      </indexentry>
+      <indexentry>
+        <name>Grattan, Henry</name>
+        <ref>1808, June 3</ref>
+      </indexentry>
+      <indexentry>
+        <name>Grenville, William Wyndham, First Baron Grenville</name>
+        <ref>1804, April 4; 1806, Oct. 30, Nov. 19 (2); 1806; 1809, Dec. 22.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Grey, Charles, Second Earl Grey</name>
+        <ref>1815, Feb. 9; 1834, July 14.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Harrowby, Dudley Ryder, First Earl of</name>
+        <ref>See Ryder</ref>
+      </indexentry>
+      <indexentry>
+        <name>Hawkesbury, Robert Banks Jenkinson, Second Baron</name>
+        <ref>See Jenkinson</ref>
+      </indexentry>
+      <indexentry>
+        <name>Heywood, Samuel</name>
+        <ref>1806</ref>
+      </indexentry>
+      <indexentry>
+        <name>Hobart, Robert, Fourth Earl of Bucklnghamshire</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Holland, Henry Richard Vassall Fox, Third Baron </name>
+        <ref>See Fox</ref>
+      </indexentry>
+      <indexentry>
+        <name>Indians. Canada</name>
+        <ref>1825, March 20</ref>
+      </indexentry>
+      <indexentry>
+        <name>Jenkinson, Robert Banks, Second Earl of Liverpool (While Lord Hawkesbury)</name>
+        <ref>1805, April 21-28 </ref>
+      </indexentry>
+      <indexentry>
+        <name>Jews</name>
+        <ref>1829, June 28</ref>
+      </indexentry>
+      <indexentry>
+        <name>Kempt, Sir James</name>
+        <ref>1825, March 20</ref>
+      </indexentry>
+      <indexentry>
+        <name>Kerrison</name>
+        <ref>1806, Oct. 30</ref>
+      </indexentry>
+      <indexentry>
+        <name>Liverpool</name>
+        <ref>1807, May 11, 18</ref>
+      </indexentry>
+      <indexentry>
+        <name>Liverpool, Robert Banks Jenkinson, Second Earl of</name>
+        <ref>See Jenkinson</ref>
+      </indexentry>
+      <indexentry>
+        <name>Lyndhurst, John Singleton Copley, First Baron</name>
+        <ref>See Copley</ref>
+      </indexentry>
+      <indexentry>
+        <name>Macaulay, Thomas Babington, First Baron Macaulay</name>
+        <ref>1830, March 1</ref>
+      </indexentry>
+      <indexentry>
+        <name>Mackintosh, Sir James</name>
+        <ref>1828, Jan. 4</ref>
+      </indexentry>
+      <indexentry>
+        <name>Manchester Riots</name>
+        <ref>1819, Oct. 7</ref>
+      </indexentry>
+      <indexentry>
+        <name>Melville, Henry Dundas, First Viscount</name>
+        <ref>See Dundas</ref>
+      </indexentry>
+      <indexentry>
+        <name>Middle Ages</name>
+        <ref>1810, Dec. 3</ref>
+      </indexentry>
+      <indexentry>
+        <name>Middlesex</name>
+        <ref>1819, Oct. 7</ref>
+      </indexentry>
+      <indexentry>
+        <name>Middleton, Charles, First Baron Barham</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Mortality</name>
+        <ref>1799, June 22</ref>
+      </indexentry>
+      <indexentry>
+        <name>Navy</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Oxford University</name>
+        <ref>1809, Dec. 22</ref>
+      </indexentry>
+      <indexentry>
+        <name>Parliamentary Reform</name>
+        <ref>1794, Nov. 29-Dec. 21; 1795, Jan. 13; 1796, April 27, May 23, June 30; 1804, Jan. 23;
+          1811, March 12, Apr. 29; 1833, Jan. 17 (Possibly).</ref>
+      </indexentry>
+      <indexentry>
+        <name>Patterson, John (1755-1833)</name>
+        <ref>1806, Oct. 26, 30, Oct.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Peel, Sir Robert, Second Baronet</name>
+        <ref>1828, Jan. 4</ref>
+      </indexentry>
+      <indexentry>
+        <name>Pellew, Edward, First Viscount Exmouth</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Pitt, John, Second Earl of Chatham</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Pitt, Wllllam (1759-1806)</name>
+        <ref>1794, Oct. 14; 1796, April 27, May 23, June 30; 1804, Jan. 23, April 4; 1805, April
+          21-28 (Memo.).</ref>
+      </indexentry>
+      <indexentry>
+        <name>Ponsonty, George</name>
+        <ref>1808, June 3; 1815, Feb. 9.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Portland, William Henry Cavendish Bentinck, Third Duke of</name>
+        <ref>See Bentinck</ref>
+      </indexentry>
+      <indexentry>
+        <name>Portugal, Relations with</name>
+        <ref>1807, Feb. 11</ref>
+      </indexentry>
+      <indexentry>
+        <name>Pringle, Thomas (1789-1834) [Possibly about Thomas Pringle]</name>
+        <ref>1831 [Watermark].</ref>
+      </indexentry>
+      <indexentry>
+        <name>Robinson, Frederick John, First Earl of Ripon</name>
+        <ref>1827, Aug. 31</ref>
+      </indexentry>
+      <indexentry>
+        <name>Roman Catholic Emancipation</name>
+        <ref>1804, April 4; 1806, Autumn; 1808, June; 1820; 1827, Aug. 31; 1828, April 28, June 17;
+          1829, June 28; 1831, April 29; [?], May 2 (Lord Holland).</ref>
+      </indexentry>
+      <indexentry>
+        <name>Russell, Lord John, First Earl Russell</name>
+        <ref>1831, Apr. 29</ref>
+      </indexentry>
+      <indexentry>
+        <name>Ryder, Dually, First Earl of Harrowby</name>
+        <ref>1827, Aug. 31</ref>
+      </indexentry>
+      <indexentry>
+        <name>Scarlett, James, First Baron Abinger</name>
+        <ref>1828, Jan. 4</ref>
+      </indexentry>
+      <indexentry>
+        <name>Sherbrooke, Slr John Coape</name>
+        <ref>1825, March 20</ref>
+      </indexentry>
+      <indexentry>
+        <name>Sidmouth, Henry Addington, First Viscount</name>
+        <ref>See Addington</ref>
+      </indexentry>
+      <indexentry>
+        <name>Sierra Leone</name>
+        <ref>1807, Feb. 11</ref>
+      </indexentry>
+      <indexentry>
+        <name>Slave Trade</name>
+        <ref>1799, June 10, 22; 1806, Autumn; 1807, Feb. 11, 25, 26, 28, March 5, May 11, 18.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Smyth, William</name>
+        <ref>1807, Feb. 12</ref>
+      </indexentry>
+      <indexentry>
+        <name>Society of Friends of the People</name>
+        <ref>1794, Dec. 21; 1795, Jan. 13.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Spain. Napoleonic Conquest</name>
+        <ref>1809, April 13, May 6, 8</ref>
+      </indexentry>
+      <indexentry>
+        <name>Strickland, Mr. (Of York)</name>
+        <ref>1804, Jan. 23</ref>
+      </indexentry>
+      <indexentry>
+        <name>Sussex, Augustus Frederick, First Duke of</name>
+        <ref>See Augustus Frederick</ref>
+      </indexentry>
+      <indexentry>
+        <name>Tarleton, Sir Banastre, First Baronet</name>
+        <ref>1807, May 11, 18</ref>
+      </indexentry>
+      <indexentry>
+        <name>Taxation</name>
+        <ref>1815, Feb. 9</ref>
+      </indexentry>
+      <indexentry>
+        <name>Thornton, Henry</name>
+        <ref>1815, Jan. 19</ref>
+      </indexentry>
+      <indexentry>
+        <name>Thornton, Marianne (Sykes)</name>
+        <ref>1815, Jan. 19</ref>
+      </indexentry>
+      <indexentry>
+        <name>Thornton, Samuel</name>
+        <ref>1815, March 6</ref>
+      </indexentry>
+      <indexentry>
+        <name>Thornton, Robert (1759-1826)</name>
+        <ref>1814, Sept. 19; 1815, March 6.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Trinidad </name>
+        <ref>1807, Feb. 11</ref>
+      </indexentry>
+      <indexentry>
+        <name>Unitarian Churches</name>
+        <ref>1829, June 28</ref>
+      </indexentry>
+      <indexentry>
+        <name>Vansittart, Nicholas, First Baron Bexley </name>
+        <ref>1805, Apr. 21-28 (Memo.); 1806, Oct. 30, Oct. [?].</ref>
+      </indexentry>
+      <indexentry>
+        <name>Vyse, Richard (1746-1825)</name>
+        <ref>1806, Nov. 19 (2)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Wellesley, Arthur, First Duke of Wellington</name>
+        <ref>1829, June 28</ref>
+      </indexentry>
+      <indexentry>
+        <name>Westmorland, John Fane, Tenth Earl of</name>
+        <ref>See Fane</ref>
+      </indexentry>
+      <indexentry>
+        <name>Whitbread, Samuel</name>
+        <ref>1815, Feb. 9</ref>
+      </indexentry>
+      <indexentry>
+        <name>Wilberforce, William</name>
+        <ref>1795, Dec. 1; 1796, May 23, June 30; 1807, Feb. 26, March 5, May 18; 1815, Jan. 19,
+          March 6.</ref>
+      </indexentry>
+      <indexentry>
+        <name>Windham, William (1750-1810)</name>
+        <ref>1806, Oct. 30</ref>
+      </indexentry>
+      <indexentry>
+        <name>Yorke, Charles Philip</name>
+        <ref>1805, April 21-28 (Memo.)</ref>
+      </indexentry>
+      <indexentry>
+        <name>Yorkshire</name>
+        <ref>1794, Oct. 14; 1795, Jan. 19, Nov. 27-29, Dec. 1; 1796, June 30.</ref>
+      </indexentry>
+    </index>
+    <controlaccess>
+      <subject source="lcsh">Parliament -- Reform</subject>
+      <subject source="lcsh">Abolitionists -- Great Britain</subject>
+      <geogname source="lcsh">Great Britain</geogname>
+      <subject source="lcsh">Great Britain -- Social conditions</subject>
+      <subject source="lcsh">Slavery -- Great Britain -- Anti-slavery movements</subject>
+      <geogname source="lcsh">Great Britain -- Commerce -- 19th century</geogname>
+      <geogname source="lcsh">Great Britain -- Politics and government -- 1800-1837</geogname>
+      <subject source="lcsh">Slavery -- West Indies</subject>
+      <geogname source="lcsh">West Indies -- Economic conditions</geogname>
+      <subject source="lcsh">Sugar -- Manufacture and refining -- West Indies</subject>
+      <subject source="lcsh">Slave trade -- Africa -- History</subject>
+      <subject source="lcsh">Slave trade -- Great Britain -- History</subject>
+      <subject source="lcsh">Slave insurrections</subject>
+      <subject source="lcsh">Slave trade -- Caribbean Area -- History</subject>
+      <persname source="ingest">Macaulay, Zachary, 1768-1838</persname>
+      <persname source="ingest">Southey, Robert, 1774-1843</persname>
+      <persname source="ingest">Wilberforce, William, 1759-1833</persname>
+      <persname source="ingest">Buxton, Priscilla</persname>
+      <persname source="ingest">Buxton, Thomas Fowell, Sir, 1786-1845</persname>
+      <persname source="ingest">Clarkson, Thomas, 1760-1846</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_c05de5221ac34ff98e365126137196c2" level="file">
+        <did>
+          <unittitle>General manuscripts: correspondence, essay drafts, and notes</unittitle>
+          <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">6
+              folders</extent></physdesc>
+          <unitdate type="inclusive">1787-1860 and undated</unitdate>
+          <container id="aspace_ea100934eefc52b5eef6af5e4f78ce32" label="Mixed Materials" type="box"
+            >1</container>
+          <container id="aspace_a73ccb3d86e20569a03fbc4e657f0728" label="Mixed Materials"
+            type="oversize-folder">1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_41a3fd4a11110d8d01a25ecb4b14455d" level="file">
+        <did>
+          <unittitle>Manuscript notes, gathered statistics, and research regarding slavery in the
+            Caribbean and West Indies</unittitle>
+          <unitdate type="inclusive">1780s-1840s</unitdate>
+          <container id="aspace_2fe9dcd2d3b2faec2453398ac177a3c5" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_4857aae31a802cf3bda84b12c723826f" level="file">
+        <did>
+          <unittitle>Manuscript notes, gathered statistics, and research regarding slave trade and
+            conditions in Africa</unittitle>
+          <unitdate type="inclusive">1790s-1840s</unitdate>
+          <container id="aspace_cb13112dfabc05ffebd0cf54232b3099" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_dfe524b83775be6ea73db2dfd6de866d" level="file">
+        <did>
+          <unittitle>Drafts of speeches, papers, and resolutions regarding slavery</unittitle>
+          <unitdate type="inclusive">1800s</unitdate>
+          <container id="aspace_4b132cf99423539f34dd61fe697cc90e" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_db6ec9a2e0d72b1e865cfffd3ca0aa42" level="file">
+        <did>
+          <unittitle>Drawings, notes, and statistics regarding slave trade, deaths, and conditions
+            on vessels between Africa and the Caribbean/West Indies</unittitle>
+          <container id="aspace_e4b834cd0c60f84be26a14e4d0b65d3f" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_73668887baaa1ece18e4d41883e1ab72" level="file">
+        <did>
+          <unittitle>Manuscript notes, statistics, and research regarding Great Britain crime and
+            punishment, economics, and military</unittitle>
+          <unitdate type="inclusive">1820s-1830s</unitdate>
+          <container id="aspace_07fcf530c21e48a87c9e7598a4dc178f" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_9de4493384951b2f34c99485a25ed320" level="file">
+        <did>
+          <unittitle>"Dimensions of ships in the port of Liverpool, employed in the African Slave
+            Trade"</unittitle>
+          <unitdate>1788</unitdate>
+          <container id="aspace_b8d1c758bfe26dd2ebfba51fd9cb7fd6" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+        <scopecontent id="aspace_dc7d397ef3c6087e65d6212340adfd5f">
+          <head>Scope and Contents</head>
+          <p>Fragile fold-out broadsheet that has deteriorated along creases. Includes tables of
+            slave ship measurements as well as calculations of provisions and conditions for
+            enslaved people during transport.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_d5f56a09a1e63a947921cddcb8841ec9" level="file">
+        <did>
+          <unittitle>Printed pamphlet with a resolution in favor of Britain continuing to allow the
+            slave trade, agreed to by "planters, merchants, and others, interested in the West
+            Indies" at a meeting "held at the London-Tavern"</unittitle>
+          <unitdate>1789 May 19</unitdate>
+          <container id="aspace_ee854bcbc3cc8eb1c4808fc8a952a87a" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+        <scopecontent id="aspace_77f990a2fa0ed2210d9bcf9ee92ec518">
+          <head>Scope and Contents</head>
+          <p>Resolution outlining support for the protection of the slave trade and imports of
+            slaves persisting among British colonies in the Caribbean, with 19 reasons articulated
+            including: the right to property, the calculated financial gains from sugar imports, the
+            need to compete with the Spanish, the risks and dangers of the West Indies climate to
+            slaves (meaning population growth was not sufficient to meet demand for laborers),
+            racial stereotypes about the physical constitution of both English and African laborers,
+            and the importance of the colonies to the Empire.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ecc818e7925b4555a7ae50fea0dfa7e5" level="file">
+        <did>
+          <unittitle>"An Address to the Public of Great Britain and Ireland on the Occasion of the
+            Approaching Termination of Colonial Slavery, on the First Day of August
+            Next"</unittitle>
+          <unitdate>1834 June 27</unitdate>
+          <container id="aspace_304799d28096a3bb21ebe0ccccbfd786" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+        <scopecontent id="aspace_4b44f88b0788a185c7e589330c8695b7">
+          <head>Scope and Contents</head>
+          <p>Printed by Order of the Committee of the Anti-Slavery Society, Aldermanbury.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_16f021fbafd813767274a9e59c328c56" level="file">
+        <did>
+          <unittitle>"Colonial Laws respecting Slaves," House of Commons</unittitle>
+          <unitdate>1816 April 5</unitdate>
+          <container id="aspace_cb3faa551dea881f0e8a49776d8e22fd" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+        <scopecontent id="aspace_56d119b86e7e21c253fee116cf88adda">
+          <head>Scope and Contents</head>
+          <p>Printed compilation of slave laws for British colonies enacted between 1788 and 1816,
+            including Antigua, Bahamas, Barbadoes, Bermuda, Dominica, Grenada, Jamaica, Nevis, St.
+            Christopher, St. Vincent, and Tobago.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_bd0188645b31153644aa0ff330e276cc" level="file">
+        <did>
+          <unittitle>Proclamation by Walter W. Lewis announcing a British blockade of Galinas,
+            Sierra Leone, to curtail slave ships and the slave trade</unittitle>
+          <unitdate>1826</unitdate>
+          <container id="aspace_cf1f247329dec8bc5027ec50b1b609cb" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_78fc65b530dfb0a5166442e418e3af56" level="file">
+        <did>
+          <unittitle>General printed materials including bills, petitions, articles re: British
+            colonial slave trade and sugar trade</unittitle>
+          <unitdate type="inclusive">1780s-1820s</unitdate>
+          <container id="aspace_ab851550c98b0fcc7197b6de807abf05" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_5dec0ec0e2ce77bf239ce5ae7df61ffc" level="file">
+        <did>
+          <unittitle>Printed materials: clippings from West Indies newspapers regarding Barbadoes
+            slave riot and general slave trade press coverage</unittitle>
+          <unitdate type="inclusive">1823-1827</unitdate>
+          <container id="aspace_7e0a0ffabe93f8dd7511a24374e2b99f" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_1552e62b5f56e61c7b6becf8ca79a35f" level="file">
+        <did>
+          <unittitle>Printed materials: abolitionist tracts, pamphlets, and essays circulated for
+            British public</unittitle>
+          <container id="aspace_51dcd142a5a3bd102c41deab2be9d3e1" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

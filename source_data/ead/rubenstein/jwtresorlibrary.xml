@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/jwtresorlibrary/"
+         >jwtresorlibrary</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the J. Walter Thompson Company. New York Office. Resor Library
+               Records, 1822-1967 <num>RL.00744</num>
+            </titleproper>
+            <author>Processed by: JWT Archives staff; machine-readable finding aid created by:
+               Jessica Wood</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">004176602</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 00:51:13
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>J. Walter Thompson Company. New York Office. Resor Library records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">J. Walter Thompson Company. New York Office</corpname>
+         </origination>
+         <unitid>RL.00744</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1822/1967" type="inclusive">1822-1967</unitdate>
+         <physloc id="aspace_57057af09248a3ae7cabbb460d226eb9">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_6e6193ab4b6a895974aac2c2b341c040">Founded in 1864, the J. Walter
+            Thompson Company (JWT) is one of the largest and oldest enduring advertising agencies in
+            the United States. The Resor Library was a project initiated by Helen Lansdowne Resor to
+            enhance the intellectual and cultural environment in the JWT New York corporate
+            headquarters at the Graybar Building on Lexington Avenue. The Resor Library Records
+            contain books and book inventories, as well as correspondence, memoranda and invoices
+            related to purchases of books for the JWT Resor Library between 1927-1930. The bulk of
+            the books were published between 1890 and 1919. Acquired as part of the John W. Hartman
+            Center for Sales, Advertising &amp; Marketing History.</abstract>
+         <physdesc id="aspace_0fe3bcaeef50b643820dda824db57838">
+            <extent>616 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_6bb732d75bbfcf6865bf51cd522b846a">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_5ef319319fe0dc6d34d95414f2e9d5a7">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_379f39c444b24e1ca010e6120580f44c">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_d0c4305b0736123ea0f1631a02bfe207">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], J. Walter Thompson Company. New York Office. Resor Library
+            Records, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_16c0995b53597e9087cea14fadb85100">
+         <head>Provenance</head>
+         <p>The Resor Library Records were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a transfer in 1987.</p>
+      </acqinfo>
+      <processinfo id="aspace_0b995349c116c1710377e092e651c654">
+         <head>Processing Information</head>
+         <p>Processed by JWT Archives staff, August 1981</p>
+         <p>Encoded by Jessica Wood, March 2009</p>
+         <p>Multiple accessions were merged into one collection, described in this finding aid. </p>
+      </processinfo>
+      <bioghist id="aspace_d192791b21856472c54afaf525e23b3d">
+         <head>Historical Note</head>
+         <p>In 1927 the New York office of the J. Walter Thompson Company (JWT) moved from 244
+            Madison Avenue to the Graybar Building at 420 Lexington Avenue. The event provided Helen
+            Lansdowne Resor an opportunity to create a showcase in JWT's new corporate headquarters.
+            She commissioned Norman Bel Geddes to design a lecture hall and hired numerous interior
+            designers (among them Elsie de Worl) to decorate specific offices. Additionally, she
+            commissioned Samuel Yellin to create iron grill-work for the executive wing and moved an
+            entire Colonial kitchen to serve as a private dining room.</p>
+         <p>Lansdowne Resor wished to improve not only the visual appeal of the offices but also the
+            intellectual and cultural environment. Therefore she commissioned noted historian Lewis
+            Mumford to compile a list of three thousand books to be purchased for the use of company
+            employees. Mumford was likely chosen because of his views on the study of civilization;
+            Mumford emphasized the importance of the study of the interrelationships between social,
+            economic and artistic events. He applied this approach in particular to the study of
+            America's history and as a result is largely credited with the re-discovery and renewed
+            appreciation of our popular cultural heritage.</p>
+         <p>Mumford solicited input from a variety of sources: existing book lists; outside experts;
+            employees' recommendations; as well as his own choices. He divided the books into three
+            general categories: Science, Arts, and Ideologies. Sub-categories were included under
+            each general heading.</p>
+         <p>The project of physically collecting the individual volumes fell to Fanny Bell of the
+            Research Library. Bell was charged to supply the volumes as quickly and cheaply as
+            possible, which Bell began to do in February 1927. In April 1927 she discovered Dauber
+            and Pine Bookshops, a used book dealer on Fifth Avenue. For the next six years, Dauber
+            and Pine was the primary supplier for the library. By 1930 books began to disappear from
+            the collection. The last survey, taken on October 23, 1967 listed 44 remaining titles.
+            Sometime later the collection was dispersed. Materials in this collection comprise all
+            the volumes that remain of the library. </p>
+         <p>[Notes derived from those written by JWT Archives staff.]</p>
+      </bioghist>
+      <scopecontent id="aspace_051db7b31c5eff9312f899fa5f48f683">
+         <head>Collection Overview</head>
+         <p>The Resor Library Records contain books and book inventories, as well as correspondence,
+            memoranda and invoices related to purchases of books for the JWT Resor Library between
+            1927-1930. The bulk of the books were published between 1890 and 1919.</p>
+      </scopecontent>
+      <arrangement id="aspace_00c7dbfcd1b1ab477934119950a38c0a">
+         <head>Arrangement note</head>
+         <p>The collection consists of two series: <emph render="bold">General Files</emph> and
+               <emph render="bold">Books</emph>. The <emph render="bold">General Files Series</emph>
+            contains correspondence, memoranda, invoices, book lists, and inventories related to
+            Resor Library book purchases. The <emph render="bold">Books Series</emph> contains books
+            purchased for and housed in the Resor Library.</p>
+      </arrangement>
+      <relatedmaterial id="aspace_cf97d7efb1cc8eef9671b68473dce4b1">
+         <head>Related Material</head>
+         <p>Related materials may be found in the following Hartman Center collections of the <emph
+               render="bold">J. Walter Thompson Company Archives</emph>:</p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtdawkins/">Colin
+               Dawkins Papers</extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtstrouse/">Norman
+               H. Strouse Papers</extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtartifacts/"
+               >Artifacts and Memorabilia</extref>
+         </p>
+         <p>
+            <extref xlink:href="http://library.duke.edu/rubenstein/findingaids/jwtnewsletters/"
+               >Newsletter Collection</extref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <corpname source="ingest">J. Walter Thompson Company. New York Office</corpname>
+         <persname source="ingest">Resor, Helen Lansdowne, 1886-1964</persname>
+         <persname source="ingest">Mumford, Lewis, 1895-1990</persname>
+         <corpname source="ingest">John W. Hartman Center for Sales, Advertising &amp; Marketing
+            History</corpname>
+         <corpname source="ingest">J. Walter Thompson Company</corpname>
+         <corpname source="ingest">J. Walter Thompson Company. New York Office</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref14_4ag" level="series">
+            <did>
+               <unittitle>General Files, 1927-1967</unittitle>
+               <physdesc id="aspace_d9bac2cf65466b1ac85682fe3ea32ec9">
+                  <extent>2 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_002a5f7c289ad3c8f8ac61e1ce643f86">
+               <head>Scope and Contents note</head>
+               <p>Contains correspondence, memoranda, invoices, book lists, and inventories related
+                  to the Resor Library. Maintained in the original order received from JWT
+                  Archives.</p>
+            </scopecontent>
+            <c02 id="aspace_ref16_lf2" level="file">
+               <did>
+                  <unittitle>Mumford list of original 125, 1927 Apr. 2</unittitle>
+                  <container id="aspace_3aa8b8fff57fd65e51465096e8d707bb" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_3h4" level="file">
+               <did>
+                  <unittitle>Preliminary list, 1927 May 27-June 17</unittitle>
+                  <container id="aspace_04994f855a0ab3f15592ed218ede13ea" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_ob1" level="file">
+               <did>
+                  <unittitle>First thousand, 1927 June 8, 2 copies</unittitle>
+                  <physdesc id="aspace_78d35cc5535fa09e8760ad4dd2952e75">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_50e6caddff93fc8658f24d842a492f26" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_g3x" level="file">
+               <did>
+                  <unittitle>Preliminary list, 1927 June 29</unittitle>
+                  <container id="aspace_ec2c248fbc7a066b7edb910bba1679ef" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_8ar" level="file">
+               <did>
+                  <unittitle>Preliminary list, 1927 June</unittitle>
+                  <container id="aspace_0b2ea92306df2cd373267337aaed1f8e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_15p" level="file">
+               <did>
+                  <unittitle>Second thousand, 1927 June 17</unittitle>
+                  <container id="aspace_f2fe10174c9e9a7cceb0dfbe5d5775d3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_tlo" level="file">
+               <did>
+                  <unittitle>Final list: Dauber and Pine copy, 1927 Oct.</unittitle>
+                  <physdesc id="aspace_e1ae705862d982630c7d6ece2d6945b4">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_6c6d61e3506e62c8d662a2a1f8ded42e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_lmi" level="file">
+               <did>
+                  <unittitle>Final list: company copy, 1928 Sept.</unittitle>
+                  <physdesc id="aspace_855621729e7a7fd2463d151fab572915">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_dfb77d5e3302d53c260c6c9e445322fe" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_y9q" level="file">
+               <did>
+                  <unittitle>Correspondence, memoranda and invoices regarding dealers other than
+                     Dauber and Pine, 1927-1929</unittitle>
+                  <physdesc id="aspace_c8590a00f0ff7c8593648944aecef763">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8d8046c849988ff9fb12b530caf1e8a3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_vsi" level="file">
+               <did>
+                  <unittitle>Correspondence, memoranda and invoices regarding Dauber and Pine,
+                     1927-1928</unittitle>
+                  <physdesc id="aspace_3ee1ae9bc5dcb3edf82c3269863c397c">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_de9a5668bba648f6711aa1a82c6cacd8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_2qi" level="file">
+               <did>
+                  <unittitle>Correspondence, memoranda and invoices regarding Dauber and Pine,
+                     1929-1935</unittitle>
+                  <physdesc id="aspace_cb07262c7a13ac11e9a59b23abc770c7">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1be8dcee2bb4d4f007af22635f8ccd0d" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_s2p" level="file">
+               <did>
+                  <unittitle>Correspondence and memoranda regarding Lewis Mumford,
+                     1927-1930</unittitle>
+                  <physdesc id="aspace_6ab86eaa0b94a6880b965d89c36bab7b">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2d548995670a5022c324003d2685053a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_g88" level="file">
+               <did>
+                  <unittitle>Correspondence and memoranda regarding progress on Resor Library,
+                     1927-1930</unittitle>
+                  <container id="aspace_a81f1e6caa6d81925031d190321cb87e" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_2a4" level="file">
+               <did>
+                  <unittitle>Lists of missing books, 1930-1942</unittitle>
+                  <container id="aspace_441320b97ff4363dc4a07fa61215e90f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_y86" level="file">
+               <did>
+                  <unittitle>Inventory of books, 1966-1967</unittitle>
+                  <container id="aspace_85e09b4b9103f62500726fcc67cee5df" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref39_ujq" level="series">
+            <did>
+               <unittitle>Books, 1822-1928</unittitle>
+               <physdesc id="aspace_e9785447d8b29de43d3a3293c62e3164">
+                  <extent>8 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_4cf35b9dc932f6fdc9580e5d7406a0f0">
+               <head>Scope and Contents note</head>
+               <p>Contains books purchased for the Resor Library at the recommendation of Lewis
+                  Mumford. Organized alphabetically by title.</p>
+            </scopecontent>
+            <c02 id="aspace_ref41_jox" level="file">
+               <did>
+                  <unittitle>Binyon, Laurence. <title render="italic">Painting in the Far East: An
+                        Introduction to the History of Pictorial Art in Asia Especially China and
+                        Japan,</title> Second edition. New York: Longmans, Green &amp; Co.; London:
+                     Edward Arnold, 1913</unittitle>
+                  <container id="aspace_586105db88ccfd074717aae3067d0d7e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_6a1" level="file">
+               <did>
+                  <unittitle>Birrell, Augustine. <title render="italic">Obiter Dicta.</title> New
+                     York: Charles Scribner's Sons, 1893</unittitle>
+                  <container id="aspace_a130b92182d691caea1cd1cea8849b45" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_cbg" level="file">
+               <did>
+                  <unittitle>Buckle, Henry Thomas. <title render="italic">History of Civilization in
+                        England</title>, vols. I-II. London: John W. Parker &amp; Son,
+                     1857</unittitle>
+                  <container id="aspace_35b3b707a4226d8503350a313e97e510" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_ffn" level="file">
+               <did>
+                  <unittitle>Butler, Samuel. <title render="italic">Hudibras: A Poem</title>, vols.
+                     I-II. London: Ackerman, Strand, 1822</unittitle>
+                  <container id="aspace_780a541185a74a3a36e8d3e199c3c944" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_a9z" level="file">
+               <did>
+                  <unittitle>Carlyle, Thomas. <title render="italic">Frederick the Great</title>,
+                     vol. I. London: Chapman and Hall,1858-1865</unittitle>
+                  <container id="aspace_0aba2ba091b573a216743e2408c45603" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_c4n" level="file">
+               <did>
+                  <unittitle>Carlyle, Thomas. <title render="italic">Frederick the Great</title>,
+                     vols. II-V. London: Chapman and Hall, 1862-1865</unittitle>
+                  <container id="aspace_9ea041d0b65ce22b97037ad37e81b326" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_o5i" level="file">
+               <did>
+                  <unittitle>Carlyle, Thomas. <title render="italic">Frederick the Great</title>,
+                     vol. VI. London: Chapman and Hall, 1862-1865</unittitle>
+                  <container id="aspace_0d6ee1ab93f8f33d0c09f8e325da5b73" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_4pa" level="file">
+               <did>
+                  <unittitle>Cervantes Saavedra, Miguel de. <title render="italic">Don
+                        Quixote</title>, vol. I. Translated by Henry Edward Watts. New York: D.
+                     Appleton &amp; Co., 1898</unittitle>
+                  <container id="aspace_5c9f4915e142e523e171e0fe37cba851" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_2ox" level="file">
+               <did>
+                  <unittitle>Compayre, Gabriel. <title render="italic">Abelard and the Origin and
+                        Early History of Universities</title>. New York: Charles Scribner's Sons,
+                     1893</unittitle>
+                  <container id="aspace_2c0f1f3b68fa3b32c3c9a12d721611a4" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_iw0" level="file">
+               <did>
+                  <unittitle>Croce, Benedetto. <title render="italic">European Literature in the
+                        Nineteenth Century</title>. Translated by Douglas Ainslie. New York: Alfred
+                     A. Knopf, 1924</unittitle>
+                  <container id="aspace_769dac304b8531d7f2d61c0f36ee81b7" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_oyo" level="file">
+               <did>
+                  <unittitle>Cushing, Frank Hamilton. <title render="italic">Zuni Folk
+                     Tales</title>. New York: G.P. Putnam's Sons, 1902</unittitle>
+                  <container id="aspace_a45e98b1e95c5314e531b61930a3b2b7" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_jf2" level="file">
+               <did>
+                  <unittitle>Farrand, Livingston. <title render="italic">Basis of American History:
+                        1500-1900</title>, vol. 2 of <title render="italic">American Nation: A
+                        History</title>. Edited by Albert Bushnell Hart. New York: Harper &amp;
+                     Bros., 1904</unittitle>
+                  <container id="aspace_c158ac7ea08a686adceac6935f81781e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_gvz" level="file">
+               <did>
+                  <unittitle>Faure, Elie. <title render="italic">Ancient Art</title>, vol. 1 of
+                        <title render="italic">History of Art</title>. Translated by Walter Pach.
+                     New York: Harper &amp; Bros., 1921</unittitle>
+                  <container id="aspace_012c5d364b82ca8f644b9d18472ef922" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_um6" level="file">
+               <did>
+                  <unittitle>Hamilton, Alexander, James Madison and John Jay. <title render="italic"
+                        >The Federalist</title>, vol. I. Washington, D.C., M. Walter Dunne,
+                     1901</unittitle>
+                  <container id="aspace_779cb813ac7313c86540694f65e9c18a" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_as9" level="file">
+               <did>
+                  <unittitle>Holroyd, Charles. <title render="italic">Michael Angelo
+                        Buonarroti</title>. London: Duckworth and Co., 1911</unittitle>
+                  <container id="aspace_abcbdb73fe818e82944f24e8b12abe4b" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_b4u" level="file">
+               <did>
+                  <unittitle>Homer, <title render="italic">Iliad of Homer.</title> Translated by
+                     Alexander Pope. New York: D. Appleton &amp; Co., 1899</unittitle>
+                  <container id="aspace_c48fbf8daf3f7a2edfef10c53fc1ea57" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_dwm" level="file">
+               <did>
+                  <unittitle>Pater, Walter. <title render="italic">The Renaissance</title>. New
+                     York: MacMillian and Co., 1901</unittitle>
+                  <container id="aspace_afb04a9d90d84abdc1e982d8ab1f6776" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_c6x" level="file">
+               <did>
+                  <unittitle>Ruskin, John. <title render="italic">Fors Clavigera: Letters</title>,
+                     vols. I-IV. London: George Allen, Sunnyside, Orpington, 1896</unittitle>
+                  <container id="aspace_302cfdc72b8b99db99b47be0e8e42ea0" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_4jx" level="file">
+               <did>
+                  <unittitle>Ruskin, John. <title render="italic">Sesame and Lilies</title>. London:
+                     George Allen, Sunnyside, Orpington, 1898</unittitle>
+                  <container id="aspace_77e4730831dbb8b52159f356f1ab136e" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_vwv" level="file">
+               <did>
+                  <unittitle>Ruskin, John. <title render="italic">Seven Lamps of
+                        Architecture</title>. London: George Allen, Sunnyside, Orpington,
+                     1898</unittitle>
+                  <container id="aspace_7866975908585b045a90e3185191d283" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_tjp" level="file">
+               <did>
+                  <unittitle>Ruskin, John. <title render="italic">Stones of Venice</title>, vols. II
+                     and III. London: George Allen, Sunnyside, Orpington, 1898</unittitle>
+                  <container id="aspace_48d6a9f8990b63816f5a4eb855e72db0" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_fg7" level="file">
+               <did>
+                  <unittitle>Smollett, Tobias. <title render="italic">The Expedition of Humphry
+                        Clinker</title>. London: George Routledge and Sons., Ltd., 1895</unittitle>
+                  <container id="aspace_54d0f588515daf41331d1f4d5ae88f73" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_ykb" level="file">
+               <did>
+                  <unittitle>Thackeray, William Makepeace. <title render="italic">Irish Sketch
+                        Book</title>. London: Smith, Elder &amp; Co.; Philadelphia: J.B. Lippincott
+                     &amp; Co., 1886</unittitle>
+                  <container id="aspace_08e07f92218f02aa7af1baf0e0477263" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_4cd" level="file">
+               <did>
+                  <unittitle>Thackeray, William Makepeace. <title render="italic">Lovell the
+                        Widower</title>. London: Smith, Elder &amp; Co.; Philadelphia: J.B.
+                     Lippincott &amp; Co., 1886</unittitle>
+                  <container id="aspace_d6531931f775a8d12ffc8ce241b8a7da" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_ypm" level="file">
+               <did>
+                  <unittitle>Whitehead, A.N. <title render="italic">Organization of Thought,
+                        Educational and Scientific</title>. Philadelphia: J.B. Lippincott Co.,
+                     1917</unittitle>
+                  <container id="aspace_756d4cdc93b4f6660c746d04a8a499aa" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/walton/">walton</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Walton family papers, 1730-1980 and undated, bulk 1890-1975
+            <num>RL.01339</num></titleproper>
+        <author>Fran Tracy-Walls and Sharon Knapp</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>1992</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">001058215</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-04-04 16:35:13
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+      <change>
+        <date>2018</date>
+        <item>Rehoused nitrate negatives; revised description.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Walton family papers</unittitle>
+      <origination label="creator">
+        <famname source="ingest">Walton family</famname>
+      </origination>
+      <unitid>RL.01339</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+        <extent altrender="carrier">9 boxes; 2 oversize folders</extent>
+        <physfacet>Approximately 1700 items</physfacet>
+      </physdesc>
+      <unitdate normal="1730/1980" type="inclusive">1730-1980 and undated</unitdate>
+      <unitdate normal="1890/1975" type="bulk">1890-1975</unitdate>
+      <abstract id="aspace_391481521784bd5ecea3e4a7cf28352f">The papers of the Walton family
+        comprise journals and diaries; correspondence; writings; photographic materials; clippings;
+        and printed material. Early items pertain to the Baker family of Hingham, Massachusetts, and
+        letters document the Walton's courtship and early marriage. Papers from the 1920s to 1948
+        relate to Eleanore Walton's work with societies and clubs, and as a motion picture censor in
+        Kansas City, Missouri. The larger Loring B. Walton Series documents Walton's student days,
+        his service as a U.S. Army officer in the American Expeditionary Force in France and
+        Germany, 1918-1919, and his lengthy correspondence with his mother, Eleanore, and with A.
+        Goderic A. Hodges, a British Army officer. In addition there are a few letters from authors
+        such as Wilmon Brewer, Count Sforza, Maurice Holleaux, and Anatole France, and a poem by
+        Edmund Wilson. Walton's involvement with Duke University as a Romance Languages faculty
+        member is also documented to a lesser degree. Photographs and negatives are of family member
+        portraits, Princeton and Harvard campuses, 1920, Fort Douglas, Utah, also 1920, Hingham,
+        Massachusetts, and unidentified subjects.</abstract>
+      <langmaterial id="aspace_fa69bbb310962ef0b161557b1b844741">Materials in English. </langmaterial>
+      <physdesc id="aspace_0093bf55187164ea9b7c65dd48e90531">Approximately 1700 items</physdesc>
+    </did>
+    <bioghist id="aspace_180d0d5d29a0a2a32aa2b8b5d7bb2559">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>George E. Walton</head>
+        <chronitem>
+          <date>1839, Dec. 25</date>
+          <eventgrp>
+            <event>Born in Cincinnati, Ohio to Charles and Sarah Underwood Horsey Blake
+              Walton</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1864</date>
+          <eventgrp>
+            <event>Graduated from Bellevue Medical College (N.Y.).</event>
+            <event>Served as Assistant Surgeon in the Union Army</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1865</date>
+          <eventgrp>
+            <event>Toured Europe to study methods of surgery and medicine</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1866</date>
+          <eventgrp>
+            <event>Began medical practice in Cincinnati, Ohio</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>circa 1870</date>
+          <eventgrp>
+            <event>Married Marion Young of Pittsburg, Pa.</event>
+            <event>Had two sons and two daughters</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1880</date>
+          <eventgrp>
+            <event>Assumed Chair of Medicine and Surgery at Cincinnati Academy of Medicine</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1880-1881</date>
+          <eventgrp>
+            <event>President of Cincinnati Academy of Medicine</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1883</date>
+          <eventgrp>
+            <event>Published <title render="italic">The Mineral Springs of the United States and
+                Canada with Analyses and Notes on the Prominent Spas of Europe, and a List of
+                Sea-Side Resorts</title> (D. Appleton)</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1890</date>
+          <eventgrp>
+            <event>Moved to DeLand, Florida area</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1892, Fall</date>
+          <eventgrp>
+            <event>Married Eleanore C. Baker in St. Augustine, Fla. Son was Loring Baker
+              Walton</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1917, June 25</date>
+          <eventgrp>
+            <event>Died in Terre Haute, Indiana</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Eleanore Coolidge Baker Walton</head>
+        <chronitem>
+          <date>1865, March 18</date>
+          <eventgrp>
+            <event>Born Eleanore "Nellie" Coolidge Baker in Hingham, Massachusetts to Susan L. and
+              James Loring Baker</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1880s</date>
+          <eventgrp>
+            <event>Studied in Chicago</event>
+            <event>Attended Hingham Academy (Hingham, Mass.).</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1891</date>
+          <eventgrp>
+            <event>Moved to Florida because of illness, treated by Dr. George E. Walton</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1892, Fall</date>
+          <eventgrp>
+            <event>Married George E. Walton in St. Augustine, Fla. Son was Loring Baker
+              Walton</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>circa 1898</date>
+          <eventgrp>
+            <event>Moved to Kansas City, Mo. and became active on the Board of the Women's and
+              Children's Hospital, and in the Missouri Society for Crippled Children, the Women's
+              Chamber of Commerce, the YWCA, and the 2nd District Federation of Women's Clubs for
+              Missouri</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1933, May</date>
+          <eventgrp>
+            <event>Appointed Assistant to Film Censor for Kansas City</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1938, December</date>
+          <eventgrp>
+            <event>Appointed Film Censor for Kansas City</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1948</date>
+          <eventgrp>
+            <event>Retired and moved to Durham, N.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1958, July 12</date>
+          <eventgrp>
+            <event>Died in Durham, N.C.</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Loring Baker Walton</head>
+        <chronitem>
+          <date>1893, November 17</date>
+          <eventgrp>
+            <event>Born in Deland, Florida to Eleanore C. and George E. Walton</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1898</date>
+          <eventgrp>
+            <event>Moved to Kansas City, Mo. with his mother</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1916</date>
+          <eventgrp>
+            <event>Entered Harvard University as a graduate student</event>
+            <event>A.B. degree from Princeton University.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1918-1920</date>
+          <eventgrp>
+            <event>Served in the U.S. Army in France, Germany, and Fort Douglas, Utah</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1920, November</date>
+          <eventgrp>
+            <event>Employed by Guaranty Trust Company in New York City</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1923 (?)</date>
+          <eventgrp>
+            <event>Returned to Europe for study and travel</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1924</date>
+          <eventgrp>
+            <event>Awarded License-en-Lettres from the Sorbonne in Paris in classical
+              languages</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1924-1929</date>
+          <eventgrp>
+            <event>Instructor of Romance Languages at Princeton University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1925, December</date>
+          <eventgrp>
+            <event>Married Susanne Joseph Lindlar. Children were Loring B. Walton, Jr. and
+              Eleanore</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1929-1963</date>
+          <eventgrp>
+            <event>Professor of Romance Languages at Duke University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1943</date>
+          <eventgrp>
+            <event>Ph.D. degree from the University of Chicago</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1975, February 9</date>
+          <eventgrp>
+            <event>Died in Durham, N.C., buried in Maplewood Cemetery</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <p>Published: <title render="italic">Anatole France and the Greek World</title> (Duke
+        University Press: 1950), <title render="italic">A Manuscript of Thais</title>(PMLA: 1956),
+        and <title render="italic">Anatole France and the First World War: the Correspondence with
+          Carlos Blacker</title> (1962).</p>
+    </bioghist>
+    <accessrestrict id="aspace_f04243dbf91c846c34819c9f9295ee86">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research. </p>
+      <p>Nitrate negatives are closed to use; access copies are available on request. </p>
+      <p>Please contact the Rubenstein Library before coming to use this collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_955e2b606bcd8567bf7d7c8b05afa994">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in the Walton family papers have not been transferred to Duke
+        University. For further information, see the section on copyright in the Regulations and
+        Procedures of the Rubenstein Library.</p>
+    </userestrict>
+    <acqinfo id="aspace_df92ff9e7b36acaf4eb72daf85625cda">
+      <head>Provenance</head>
+      <p>The papers of the Walton family were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library as a gift from 1984-1987 by Mrs. Loring B. Walton, Loring B. Walton, and
+        Eleanore Walton Bequaert.</p>
+      <p>Additions to the collection were received in 2003 and 2008.</p>
+    </acqinfo>
+    <processinfo id="aspace_07dfbba2c89961db51609ac39e7f7360">
+      <head>Processing Information</head>
+      <p>Processed by: Fran Tracy-Walls and Sharon Knapp, 1992.</p>
+      <p>Encoded by Stephen D. Miller.</p>
+      <p>Additions encoded by Alice L. Poffinberger, February 12, 2009.</p>
+      <p>Nitrate negatives rehoused and description revised by Paula Jeannet, October 2018</p>
+    </processinfo>
+    <scopecontent id="aspace_a3ddc5ad767c16f86755130bede40294">
+      <head>Collection Overview</head>
+      <p>The Walton family papers date from 1730 to 1980, and comprise journals and diaries;
+        incoming and outgoing correspondence; writings; postcards, photographs, albums and
+        negatives; clippings; printed material; and genealogical information and history relating to
+        Hingham, Massachusetts. </p>
+      <p>Small groups of early materials refer to the lives of Eleanore's father James Loring Baker
+        and the history of Hingham, Massachusetts. Later correspondence documents the courtship and
+        early marriage of Eleanore Coolidge Baker and George E. Walton; an 1896 diary recounts
+        George Walton's trip to Florida by wagon. A larger series of papers and correspondence
+        relates to Loring Baker Walton's student years, travel abroad, service in World War I, and
+        his role as academic author and professor of Romance Languages at Duke University. Letters
+        in this series also document Loring B. Walton's relationship with his mother Eleanore and
+        her involvement in various societies, clubs, and employment as a film censor in Kansas City,
+        Missouri. </p>
+      <p>Photographs, postcards, and negatives in the collection include portraits of family
+        members; images of travel abroad in France and Hingham, Massachusetts, circa 1920s; Fort
+        Douglas, Utah, 1920; and the campuses of Harvard and Princeton in 1920, and unidentified
+        subjects.</p>
+      <p>Addition (03-053)(175 items, .2 lin. ft.; dated 1917-1968) comprises materials on Loring
+        Baker Walton, and consists primarily of scholarly correspondence and materials concerning
+        his work on Anatole France and other projects (1932-1968). Also includes his class notes
+        from Harvard (1917-1918), and from his training and service with the American Expeditionary
+        Forces during World War I.</p>
+      <p>Addition (08-184)(375 items, .4 lin. ft.; dated 1891-1980 and undated) contains primarily
+        material related to Loring Baker Walton's background and service with the American
+        Expeditionary Forces in World War I. Includes information regarding Walton family property
+        settlements for land they owned in Germany that was damaged during WWII. There are also
+        letters (1891-1951) for George E. and Eleanore C. Walton.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Authors, European -- Correspondence</subject>
+      <subject source="lcsh">College students</subject>
+      <subject source="lcsh">Courtship</subject>
+      <subject source="lcsh">Mothers and sons -- Correspondence</subject>
+      <subject source="lcsh">Motion pictures -- Censorship -- United States</subject>
+      <subject source="lcsh">Women -- Societies and clubs</subject>
+      <subject source="lcsh">World War, 1914-1918 -- France</subject>
+      <subject source="lcsh">World War, 1914-1918 -- Germany</subject>
+      <geogname source="lcsh">United States. Army -- Officers -- Correspondence</geogname>
+      <geogname source="lcsh">Great Britain. Army -- Officers -- Correspondence</geogname>
+      <geogname source="lcsh">Fort Douglas (Utah) -- Photographs</geogname>
+      <subject source="lcsh">Hingham (Mass.) -- History</subject>
+      <geogname source="lcsh">Hingham (Mass.) -- Photographs</geogname>
+      <genreform source="lcsh">Black-and-white photographs</genreform>
+      <genreform source="aat">Cellulose nitrate film</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Negatives (photographs)</genreform>
+      <persname source="ingest">Sforza, Carlo, Conte, 1872-1952</persname>
+      <persname source="ingest">France, Anatole, 1844-1924</persname>
+      <famname source="ingest">Baker family</famname>
+      <persname source="ingest">Wilson, Edmund, 1895-1972</persname>
+      <persname rules="rda" source="naf">Walton, Loring Baker, 1893-1975</persname>
+      <persname rules="aacr" source="naf">Walton, George E. (George Edward), 1839-1917</persname>
+      <persname rules="rda" source="naf">Walton, Eleanore C. (Eleanore Coolidge),
+        1865-1958</persname>
+      <corpname rules="dacs" source="naf">Harvard University -- Photographs</corpname>
+      <corpname rules="dacs" source="naf">Princeton University -- Photographs</corpname>
+      <corpname rules="dacs" source="local">Duke University -- Faculty</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref14_oi7" level="series">
+        <did>
+          <unittitle>George E. and Eleanore C. Walton Papers</unittitle>
+          <unitdate normal="1730/1958" type="inclusive">1730-1958</unitdate>
+        </did>
+        <scopecontent id="aspace_ac5af2daa14f19d3d1feee4a3b0c235f">
+          <head>Scope and Contents note</head>
+          <p>Most of the earliest items pertain to Mrs. Walton's family, the Bakers, who had settled
+            in Hingham, Massachusetts at least by the eighteenth-century. Letters to Mrs. Walton
+            comprise a major segment of this series, including those to her from her father, James
+            Baker, 1880-1882. Included are courtship letters from George Walton, a physician who
+            attended Eleanore Walton while she was convalescing near Deland, Florida. Most were
+            written from 1891-1892, after she returned to her home in Chicago. Letters from George
+            Walton after the marriage suggest financial hardship and indicate that the couple was
+            frequently separated from the beginning of their marriage and during the early childhood
+            of their son Loring. After 1895, there is a gap in the correspondence. </p>
+          <p>Also included is George Walton's 1896 diary of a trip via wagon from Indiana to
+            Florida. Later material and correspondence in the series pertains to Eleanore Walton's
+            work as a clubwoman and motion picture censor in Kansas City, Missouri from the 1920s to
+            1948, when she retired and moved to Durham, N.C. to live with her son Loring Baker
+            Walton, who was on the faculty at Duke University. </p>
+          <p>The papers of Loring Baker Walton, make up a separate and larger series in this
+            collection. An extensive series of correspondence between Eleanor and her son is located
+            there.</p>
+        </scopecontent>
+        <c02 id="aspace_ref15_3qk" level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1830/1949" type="inclusive">1830-1949</unitdate>
+          </did>
+          <c03 id="aspace_ref16_08i" level="file">
+            <did>
+              <unittitle>Early family, 1830-1835</unittitle>
+              <container id="aspace_5b35997f81f8f37d9d0b730d331b8c60" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref17_897" level="file">
+            <did>
+              <unittitle>James L. Baker to Eleanore, 1880-1886, undated</unittitle>
+              <container id="aspace_87f4303124d4de88c4584806992d1230" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref18_z9l" level="file">
+            <did>
+              <unittitle>George to Eleanore, 1891-1895 and undated</unittitle>
+              <physdesc id="aspace_3819b4e7711e6367fd8051b5e79d14d4"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_d36024bdc8f804935b86ef4cdc0335a8" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref20_jlu" level="file">
+            <did>
+              <unittitle>Other correspondents to Eleanore, 1887-1949</unittitle>
+              <container id="aspace_5c4c32ac9dadbe2595347bb9b2fb9a12" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref21_mdt" level="subseries">
+          <did>
+            <unittitle>Papers and Photographs</unittitle>
+            <unitdate normal="1730/1958" type="inclusive">1730-1958</unitdate>
+          </did>
+          <c03 id="aspace_ref22_668" level="file">
+            <did>
+              <unittitle>Clippings, 1924-1949 and undated</unittitle>
+              <container id="aspace_03511a8f00e4eb8cfb983de62ae82cdd" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref23_8u7" level="file">
+            <did>
+              <unittitle>Diary of trip, 1896</unittitle>
+              <container id="aspace_e0eac961db6d9eeb06362608d82ce63a" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref24_jsc" level="file">
+            <did>
+              <unittitle>Funeral preparations for Eleanore Walton, 1957-1958</unittitle>
+              <container id="aspace_f5fde8337a6a915d820b817f46670cfe" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref25_5ya" level="file">
+            <did>
+              <unittitle>Hingham, Massachusetts and other family material, 1730-1828</unittitle>
+              <container id="aspace_6f612e1e3ecf7d8c8ab9283fd9010318" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref26_7mi" level="file">
+            <did>
+              <unittitle>Photographs, 1883-1919 and undated</unittitle>
+              <container id="aspace_5d94be2ecad746e9b1a16c5785c943bf" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref27_xet" level="file">
+            <did>
+              <unittitle>General, 1865-1956 and undated</unittitle>
+              <physdesc id="aspace_7c1cb3033558efc666003d1794d2d1a4"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_81ec37f821e3be58fedfe4d33b2030ce" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref30_qpq" level="series">
+        <did>
+          <unittitle>Loring Baker Walton Papers</unittitle>
+        </did>
+        <scopecontent id="aspace_95e4b94a94adf486c509def5196a15ed">
+          <head>Scope and Contents note</head>
+          <p>Four volumes of journal entries describe Loring Walton's daily life and thought as a
+            student, first in Kansas City, Missouri, and later at Princeton University, which he
+            entered in 1912. The journals record campus reaction to Woodrow Wilson's election to the
+            presidency. </p>
+          <p>Walton was a graduate student at Harvard when he was discharged from ROTC, called to
+            active duty in the U.S. Army, and assigned to the American Expeditionary Force in France
+            and Germany in 1918-1919. During the war and its aftermath, Walton assembled postcards
+            and some photographs which complement his journal entries and correspondence. Other
+            photographs and negatives show Fort Douglas, Utah, in 1920, the campuses of Harvard and
+            Princeton, 1920, and Hingham, Massachusetts. Negatives are closed to use; copies may be
+            requested in advance.</p>
+          <p>Most of the letters in this series are addressed to Loring Walton's mother, Eleanore C.
+            Walton, with a few to his grandmother and aunt in Kansas City, Missouri. Of interest are
+            his characterizations of civilians during the war and occupation as well as his view of
+            political conditions. For over 30 years Walton corresponded with A. Goderic A. Hodges, a
+            British Army officer who lost a leg while in balloon service.</p>
+          <p>To a limited extent there is information in the series about Walton's literary and
+            scholarly interests. A small quantity of correspondence is from figures such as
+            philanthropist Wilmon Brewer (from Hingham, Mass.), antifascist politican and writer
+            Count Carlo Sforza, and art historian and archaeologist Maurice Holleaux. Included is a
+            letter written by Anatole France, which was given to Walton, and a handwritten, signed
+            poem by Edmund Wilson. There are several draft versions of Walton's addresses or
+            articles, mostly undated. While there are no papers or correspondence relating to
+            Walton's study at the Sorbonne, one address refers to his living in the home of a French
+            family and his observations of French culture and educational methods. This series also
+            thinly documents his involvement with Duke University through the Interdenominational
+            Church and the Erasmus Club, and his sabbatical in Europe while a member of the
+            Department of Romance Languages.</p>
+        </scopecontent>
+        <accessrestrict id="aspace_eeca86bcf5ae116c2e0e1dc102d87ff2">
+          <head>Conditions Governing Access</head>
+          <p>Nitrate negatives are closed to use; copies are available on request. Please contact
+            Rubenstein Library Research Services for assistance.</p>
+        </accessrestrict>
+        <c02 id="aspace_ref31_uzw" level="subseries">
+          <did>
+            <unittitle>Diaries</unittitle>
+            <unitdate normal="1908/1923" type="inclusive">1908-1923</unitdate>
+          </did>
+          <c03 id="aspace_ref32_br2" level="file">
+            <did>
+              <unittitle>Diaries and journals, 1908-1919</unittitle>
+              <physdesc id="aspace_4dcc608c410e1fee4a19e6443646495e"><extent>4
+                folders</extent></physdesc>
+              <container id="aspace_630b8f2db63bc96926fab157a505c951" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref34_62z" level="file">
+            <did>
+              <unittitle>Journals, including postcards and some photographs, 1923, July</unittitle>
+              <container id="aspace_83b830f415fc69a4be1bbcfdd376112e" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref35_tby" level="file">
+            <did>
+              <unittitle>Journal, including postcards and photographs, 1923, July</unittitle>
+              <container id="aspace_d6bc557c4bbef274c748971469c83d01" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref36_7tx" level="file">
+            <did>
+              <unittitle>Journal, including postcards, 1923 Aug.</unittitle>
+              <physdesc id="aspace_c7586a5625e9ed428d096c905118ede5"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_7422b4a35609b5f1c7122cbe1552b02e" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref38_5ik" level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1911/1975" type="inclusive">1911-1975</unitdate>
+          </did>
+          <c03 id="aspace_ref39_c7v" level="file">
+            <did>
+              <unittitle>To mother, 1913-1919, July</unittitle>
+              <physdesc id="aspace_b16f4e25880e47daeb68fc111260adad"><extent>6
+                folders</extent></physdesc>
+              <container id="aspace_52c0f0b65567e17c2e7006b989fdb61d" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref41_fub" level="file">
+            <did>
+              <unittitle>To mother, 1919-1923</unittitle>
+              <physdesc id="aspace_209aa6242c464944ff0065d1adbc422d"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_d782e2042236469f8957f4f61f6e7eaa" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref43_q2n" level="file">
+            <did>
+              <unittitle>From mother, 1911-1958</unittitle>
+              <physdesc id="aspace_a22c07a430df0c08b8fe9f2ba604597b"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_c3209a97495909f1322c1e7bfa77aaea" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref45_1sv" level="file">
+            <did>
+              <unittitle>Brewer, Wilmon, 1958-1972</unittitle>
+              <container id="aspace_13be41a005580020fffd533004beffaa" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref46_ibg" level="file">
+            <did>
+              <unittitle>France, Anatole, 1940</unittitle>
+              <container id="aspace_3ac51f57979f0489b799c031e2c5626c" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref47_l0s" level="file">
+            <did>
+              <unittitle>Hodges, A. Goderic A., 1930-1975</unittitle>
+              <physdesc id="aspace_e65d6c5653d20942a34db1bee5a158db"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_19d45be80b7c62ae6dccb2c952e1ca14" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref49_uzu" level="file">
+            <did>
+              <unittitle>Holleaux, Maurice, 1932</unittitle>
+              <container id="aspace_37eae52b27722de66049b258d94a7e8b" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref50_r3x" level="file">
+            <did>
+              <unittitle>Sforza, Count Carlo, 1933-1950</unittitle>
+              <container id="aspace_4a0b3b288f5d290b1338959afea9eba5" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref51_leg" level="file">
+            <did>
+              <unittitle>General, 1932-1975</unittitle>
+              <container id="aspace_4b013f685f50ea6d64b30123a05ff70d" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref52_bf6" level="subseries">
+          <did>
+            <unittitle>Other Papers</unittitle>
+            <unitdate normal="1905/1967" type="inclusive">1905-1967</unitdate>
+          </did>
+          <c03 id="aspace_ref53_015" level="file">
+            <did>
+              <unittitle>Duke University, 1950-1967</unittitle>
+              <container id="aspace_47c5135e5be7beb7f63206fbc76105e0" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref54_npn" level="file">
+            <did>
+              <unittitle>Military service, 1918-1934</unittitle>
+              <container id="aspace_7078cd5a26b8ef98acb215cb1ea2b10f" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref55_4t7" level="file">
+            <did>
+              <unittitle>Wilson, Edmund, undated</unittitle>
+              <container id="aspace_7b476790f673be4b520c462f2f9b62ac" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref56_jee" level="file">
+            <did>
+              <unittitle>Writings and speeches, 1905-1923 and undated</unittitle>
+              <container id="aspace_d0489eab1e2c25e3b5e82b00aadb7a23" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref57_ckd" level="file">
+            <did>
+              <unittitle>General, 1916-1929, 1963, and undated</unittitle>
+              <container id="aspace_0cccc2ef0421b82ecbecc83959002cea" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref58_p0h" level="subseries">
+          <did>
+            <unittitle>Postcards and Photographic Materials</unittitle>
+            <unitdate normal="1913/1948" type="inclusive">1913-1948</unitdate>
+          </did>
+          <c03 id="aspace_ref59_gjk" level="file">
+            <did>
+              <unittitle>Wilson's inauguration, 1913</unittitle>
+            </did>
+            <c04 id="aspace_6f67d777cffc3d99d0b5e92bb9abbd09" level="file">
+              <did>
+                <unittitle>Postcards and photograph</unittitle>
+                <container id="aspace_5ed4fc42fa75c3245c6725801c34d002" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref61_uku" level="file">
+            <did>
+              <unittitle>Photographs</unittitle>
+              <unitdate normal="1919/1948" type="inclusive">1919-1921, 1947-1948</unitdate>
+            </did>
+            <c04 id="aspace_ref60_bu5" level="file">
+              <did>
+                <unittitle>Mounted photographs, 1919</unittitle>
+                <container id="aspace_465837b941d0ad240923d298441ca690" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref62_10b" level="file">
+              <did>
+                <unittitle>General staff of Third Army, U.S.A., Coblenz on Rhine, 1919</unittitle>
+                <container id="aspace_a5b583cac317644bb256e6a798b28b5f" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref63_5q2" level="file">
+              <did>
+                <unittitle>Princeton, Harvard, Hingham, Mass., 1920</unittitle>
+                <container id="aspace_815e345f4b09316cdcf77c09647ce3fc" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref64_esa" level="file">
+              <did>
+                <unittitle>Postcards and photographs, 1921</unittitle>
+                <container id="aspace_b9ae08c23f35d3f73b1557968f163ccd" label="Mixed Materials"
+                  type="box">5</container>
+              </did>
+            </c04>
+            <c04 id="aspace_c0b7abfa3199fc1ec8cc3361d70422a0" level="file">
+              <did>
+                <unittitle>Fort Douglas, Utah, 1920</unittitle>
+                <container id="aspace_05cec3b98c32cdaf79c0082b96dd390b" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+              <processinfo id="aspace_9692a715d041c5649976747f17f6f34d">
+                <head>Processing Information</head>
+                <p>Two small photographs, uncaptioned, removed from the photographic negatives
+                  folder for Fort Douglas, Utah. One shows a man in uniform on a horse; the other is
+                  a view of camp buildings, shade trees, and mountains in the background.</p>
+              </processinfo>
+            </c04>
+            <c04 id="aspace_ref65_j6v" level="file">
+              <did>
+                <unittitle>Postcards and photographs, circa 1921</unittitle>
+                <container id="aspace_06d8d8384fa4cf6960f3d15bbb6e76fe" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+              <scopecontent id="aspace_7a2190d29c0122c59c032b64ac059827">
+                <head>Scope and Contents</head>
+                <p>Real photographic postcards from Solesmes, France, and St. Moritz, showing
+                  cathedrals, abbey, and ski resorts. Two gelatin silver photographs show Loring B.
+                  Walton posing in skis with Paul Larwill.</p>
+              </scopecontent>
+            </c04>
+            <c04 id="aspace_ref66_f95" level="file">
+              <did>
+                <unittitle>Photograph of Romance Language Department, Duke University,
+                  1947-1948</unittitle>
+                <container id="aspace_183f8584a08cfc4498407e68d198464c" label="Mixed Materials"
+                  type="box">6</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref67_vcx" level="file">
+            <did>
+              <unittitle>Photographic negatives (NITRATE)</unittitle>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">172
+                  items</extent></physdesc>
+              <unitdate normal="1920/1929" type="inclusive">1920s</unitdate>
+            </did>
+            <accessrestrict id="aspace_93756b2ac46d23b473b9360aba3321e1">
+              <head>Conditions Governing Access</head>
+              <p>Nitrate negatives are closed to use; copies are available. Please contact
+                Rubenstein Library Research Services before coming to use this collection.</p>
+            </accessrestrict>
+            <c04 id="aspace_ref68_0vn" level="file">
+              <did>
+                <unittitle>Fort Douglas, Utah, 1920</unittitle>
+                <container altrender="Document-Half Legal"
+                  id="aspace_3b3d7737401d051cfe66bf1b1c81e0ca" label="Mixed Materials" type="box"
+                  >7</container>
+              </did>
+              <scopecontent id="aspace_9a00a0fb973bcb3619aa7eb20d3c9fad">
+                <head>Scope and Contents</head>
+                <p>Numbers 1-23</p>
+              </scopecontent>
+            </c04>
+            <c04 id="aspace_ref69_pki" level="file">
+              <did>
+                <unittitle>Princeton, Harvard, 1920</unittitle>
+                <container altrender="Document-Half Legal"
+                  id="aspace_c67b9dfe079891bcfbe45c7e25f2e7c6" label="Mixed Materials" type="box"
+                  >7</container>
+              </did>
+              <scopecontent id="aspace_d7626ba4c7713ace73140f85005bd805">
+                <head>Scope and Contents</head>
+                <p>Numbers 24-56</p>
+              </scopecontent>
+            </c04>
+            <c04 id="aspace_ref70_csx" level="file">
+              <did>
+                <unittitle>Princeton, Harvard, Hingham [Mass.], 1920</unittitle>
+                <container altrender="Document-Half Legal"
+                  id="aspace_37f0c0c296061178b3f905ca07bdfe28" label="Mixed Materials" type="box"
+                  >7</container>
+              </did>
+              <scopecontent id="aspace_a60df2ae88e9390749a54ea11e4de016">
+                <head>Scope and Contents</head>
+                <p>Numbers 57-104</p>
+              </scopecontent>
+            </c04>
+            <c04 id="aspace_ref71_hb8" level="file">
+              <did>
+                <unittitle>Unidentified subjects, 1920s?</unittitle>
+                <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                    folders</extent></physdesc>
+                <container altrender="Document-Half Legal"
+                  id="aspace_68d8b3fe61e3bcdf4e399531c9d3538c" label="Mixed Materials" type="box"
+                  >7</container>
+              </did>
+              <scopecontent id="aspace_7790ba36ecfc0d215852a383d1358a5f">
+                <head>Scope and Contents</head>
+                <p>Numbers 105-132, 133-172</p>
+              </scopecontent>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref74_zwn" level="series">
+        <did>
+          <unittitle>Oversize Materials</unittitle>
+        </did>
+        <c02 id="aspace_ref75_ndw" level="file">
+          <did>
+            <unittitle>George and Eleanore Walton Series, 1868 and undated</unittitle>
+            <container id="aspace_604a94ac14287fc05307598dbe64ded9" label="Mixed Materials"
+              type="oversize-folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref76_7w7" level="file">
+          <did>
+            <unittitle>Other oversize papers</unittitle>
+            <container id="aspace_5e286d177fe205de623bfe39e848a41e" label="Mixed Materials"
+              type="oversize-folder">2</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref77_vie" level="series">
+        <did>
+          <unittitle>Addition (2003-0053) </unittitle>
+          <unitdate normal="1917/1968" type="inclusive">1917-1968</unitdate>
+          <physdesc id="aspace_e265614a9a9cf4656fdd2ba7caf87044"><extent>1 box</extent></physdesc>
+          <container id="aspace_4221e299bd638231805ef2ebb01f7ec7" label="Mixed Materials" type="box"
+            >Acc. 03/053, Box 1</container>
+        </did>
+        <scopecontent id="aspace_de48802b256e950bf2c8f190be58b78c">
+          <head>Scope and Contents note</head>
+          <p>Addition (03-053)(175 items, .2 lin. ft.; dated 1917-1968) comprises materials of
+            Loring Baker Walton, and consists primarily of scholarly correspondence and materials
+            concerning his work on Anatole France and other projects (1932-1968). Also includes his
+            class notes from Harvard (1917-1918), and from his training and service with the
+            American Expeditionary Forces during World War I. This addition has been given
+            core-level processing.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref80_j0c" level="series">
+        <did>
+          <unittitle>Addition (2008-0184)</unittitle>
+          <unitdate normal="1891/1980" type="inclusive">1891-1980 and undated</unitdate>
+          <physdesc id="aspace_949d03035eeb38ae47caf02e1a194d3c"><extent>1 box</extent></physdesc>
+          <container id="aspace_ea821a5d424358aa5402bf4a77dab718" label="Mixed Materials" type="box"
+            >Acc. 08/184, Box 1</container>
+        </did>
+        <scopecontent id="aspace_5d93ca053cf48bcf1d1b9165f2390da6">
+          <head>Scope and Contents note</head>
+          <p>Addition (2008-0184) (375 items, .4 lin. ft.; dated 1891-1980 and undated) primarily
+            comprises material related to Loring Baker Walton's background and service with the AEF
+            in World War I. Includes information regarding Walton family property settlements for
+            land they owned in Germany that was damaged during World War II. There are also letters
+            (1891-1951) for George E. and Eleanore Coolidge Baker Walton. This addition has been
+            given core-level processing.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

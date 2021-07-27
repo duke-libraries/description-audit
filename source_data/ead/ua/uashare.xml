@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD" url="https://idn.duke.edu/ark:/87924/m1zq53"
+      >uashare</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the SHARE records, 1968-ongoing <num>UA.09.06.0001</num></titleproper>
+        <author>Processed by: Emily Glenn, updated by Kimberly Sims; machine-readable finding aid
+          created by: Emily Glenn, updated by Kimberly Sims</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2003</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003205752</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-03-16 16:06:25
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>SHARE records</unittitle>
+      <origination label="Creator">
+        <corpname source="ingest">Duke University. Student Housing for Academic and Residential
+          Experimentation</corpname>
+      </origination>
+      <unitid>UA.09.06.0001</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1968/2014" type="inclusive">1968-ongoing.</unitdate>
+      <abstract id="aspace_0a119e600c54f55a7c294c40920a6e9f">Contains the records of SHARE (Student
+        Housing for Academic and Residential Experimentation), a co-educational residential living
+        group at Duke University. Types of materials include correspondence, minutes, reports,
+        evaluations, financial materials, applications, plaques, a videotape, short writings,
+        newsletters, literary magazines, notes, photographs, and clippings. Major subjects include
+        residence and education, Duke University, Epworth Inn, Wilson House, Faculty Apartments,
+        experimental living, Program II, college freshmen, and faculty advisor John M. Clum.
+        Materials range in date from 1968 to ongoing. English.</abstract>
+      <langmaterial id="aspace_02e4d925eb2156260f7f1e7afd339e2e">English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_3cd99b91468e25f7d8f44c09837f69cf">
+      <head>Access Restrictions</head>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>In accordance with the Family Education Rights and Privacy Act of 1974 as amended, Duke
+        University permits students to inspect their education records and limits the disclosure of
+        personally identifiable information from education records.</p>
+      <p>In off-site storage; 48 hours advance notice is required for use.</p>
+      <p>For a period of twenty-five years from the origin of the material, permission in writing
+        from the office of origin and the University Archivist is required for use. After
+        twenty-five years, records that have been processed may be consulted with the permission of
+        the University Archivist.</p>
+    </accessrestrict>
+    <userestrict id="aspace_01b0759a2cad328747245a35a7d22503">
+      <head>Use Restrictions</head>
+      <p>Copyright for Official University records is held by Duke University; all other copyright
+        is retained by the authors of items in these papers, or their descendants, as stipulated by
+        United States copyright law.</p>
+    </userestrict>
+    <prefercite id="aspace_dbf13cc6948f3d22e3f4e2e36c328e06">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], SHARE Records, Duke University Archives, David M. Rubenstein Rare
+        Book &amp; Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_8553bd441c1f8463487e35e2b7de14ae">
+      <head>Provenance</head>
+      <p>The SHARE records were received as transfers in 1977, 1983, 2002, and 2009 (Accession
+        numbers 77-203, 83-93, A2002-66, UA2009-0020, UA2014-0038).</p>
+    </acqinfo>
+    <processinfo id="aspace_25cd2f5fdec0d01b80c28c1ebc348c5d">
+      <head>Processing Information</head>
+      <p>Processed by Emily J. Glenn (updated by Kimberly Sims March 2010)</p>
+      <p>Completed February, 2003</p>
+      <p>Encoded by Emily J. Glenn, March 17, 2003</p>
+      <p>Updated by Kimberly Sims March 2010</p>
+      <p>Updated by Molly Bragg, August 2011</p>
+      <p>Accession UA2014-0038 added by Tracy M. Jackson, September 2016.</p>
+    </processinfo>
+    <bioghist id="aspace_80ff2ce018e54fc26e55d38781a0ccae">
+      <head>Historical Note</head>
+      <p>SHARE (Student Housing for Academic and Residential Experimentation) was founded in 1970 as
+        an academically elite experimental living group of 54 men and women. The integrated
+        residence, then known as the Experimental College, was part of Duke's "New Curriculum". The
+        "New Curriculum" recommendations of 1969 had suggested various changes in living
+        arrangements for students on campus, including the elimination of freshmen dormitories and
+        the establishment of a co-educational dormitory.</p>
+      <p>SHARE generally included students who were creative and possessed special talents or
+        interests. SHARE applicants also had to demonstrate a clear sense of academic direction, and
+        show interest in helping develop programs of the Experimental College within the first year.
+        Students enrolled in Program II, an interdisciplinary study program, were given preference
+        to live in the SHARE house.</p>
+      <p>The first director, overseeing the academic progress of residents, was English professor
+        John Clum. Clum worked closely with the administration of Duke University to blend SHARE's
+        social and academic components into a sustainable living environment. SHARE was first
+        located in the Faculty Apartments (now Wilson House) on Duke University's East Campus. The
+        apartment-type layout of the building allowed for men and women to live closely together
+        while preserving privacy. SHARE participants lived in Wilson House until 1982, then in
+        Alspaugh House from 1983 to 1984. In 1984, SHARE moved again to Epworth Inn, where it would
+        remain until 1997. In 1997, SHARE was moved to Wilson House. </p>
+      <p>SHARE programming consisted of a variety of seminars, credit courses, meetings, film
+        festivals, and lectures. Events included a "Use Your Appendages" Party, Anime Fest, Epworth
+        Prom (Oil My Lizard), The Epworth Retreat, and "Twilight", a rave. Two of the most notable
+        activities were SHARE hours and Pedagogo. SHARE hours gave members of the dorm an
+        opportunity to tell others about their interest and experiences. Pedagogo was a series of
+        events where members of the Duke University faculty were invited to Epworth to speak
+        informally about issues in research and academics. </p>
+      <p>In 1995, SHARE became the first living group on campus to include members from all four
+        undergraduate years. SHARE persisted as an alternative to conventional Duke residential
+        life. When cited for low membership in 1997, SHARE was relocated from Epworth House to the
+        third floor in Wilson House. As of 2003, SHARE is active at Duke University.</p>
+    </bioghist>
+    <scopecontent id="aspace_d5cb6389ee684fbeb952800bb15878b3">
+      <head>Scope and Content Note</head>
+      <p>This collection contains the records of SHARE, an experimental co-educational student
+        living organization housed in Wilson House, Alspaugh House and Epworth Inn on Duke
+        University's East Campus. Types of materials include correspondence, minutes, reports,
+        evaluations, financial materials, applications, plaques, a videotape, short writings,
+        newsletters, literary magazines, notes, photographs, and clippings. Materials range in date
+        from 1968 to ongoing. Contains restricted materials.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_95537ddfe46133e4d8af1ff102e380e3">
+      <head>Related Material</head>
+      <p><archref><unittitle>Alspaugh House records.</unittitle><repository>University Archives,
+            Duke University. </repository>
+        </archref><archref><unittitle>Association of Independent Houses
+            records.</unittitle><repository>University Archives, Duke University. </repository>
+        </archref><archref><unittitle>Association of Independent Houses
+            records.</unittitle><repository>University Archives, Duke University. </repository>
+        </archref><archref><unittitle>Bassett House records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Brown House records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Bunch of Guys records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Few Federation records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Fraternities and Sororities
+            collection.</unittitle><repository>University Archives, Duke University. </repository>
+        </archref><archref><unittitle>Gilbert-Addoms Residence Hall
+            records.</unittitle><repository>University Archives, Duke University. </repository>
+        </archref><archref><unittitle>Giles House records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Jarvis House records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Living Groups collection.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Mirecourt House records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Pegram House records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>Warwick House records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref><archref><unittitle>York House records.</unittitle><repository>University
+            Archives, Duke University. </repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Dormitories -- North Carolina</subject>
+      <subject source="lcsh">College students -- Alcohol use -- North Carolina -- Durham</subject>
+      <subject source="lcsh">College students -- North Carolina -- Durham</subject>
+      <subject source="lcsh">Student housing -- North Carolina -- Durham</subject>
+      <subject source="lcsh">Residence and education</subject>
+      <corpname source="ingest">Duke University. Alspaugh House</corpname>
+      <corpname source="ingest">Duke University. Program II</corpname>
+      <corpname source="ingest">Duke University -- Students -- Social conditions</corpname>
+      <corpname source="ingest">Duke University -- Students</corpname>
+      <persname source="ingest">Clum, John M.</persname>
+      <corpname source="ingest">Duke University. Wilson House</corpname>
+      <corpname source="ingest">Duke University. Student Housing for Academic and Residential
+        Experimentation</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref13_53j" level="file">
+        <did>
+          <unittitle>Correspondence (John Clum), 1970-1972</unittitle>
+          <container id="aspace_2b3212676d3a06f36271235aa4fdece4" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref14_apg" level="file">
+        <did>
+          <unittitle>House Courses correspondence, general, 1970-1972</unittitle>
+          <container id="aspace_681bb4e0cf87c0f405b0a8c21ab660f1" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref15_f32" level="file">
+        <did>
+          <unittitle>Correspondence, 1974-1984</unittitle>
+          <container id="aspace_da317cbf592eade111f32ffd82edcbee" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref16_grk" level="file">
+        <did>
+          <unittitle>Minutes, 1973-1979</unittitle>
+          <container id="aspace_e374427c9e30f7274c05cdb94721f2b9" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref17_8n7" level="file">
+        <did>
+          <unittitle>Community service, 1968-1969</unittitle>
+          <container id="aspace_dcd8900c665c98a75861ae03ff7d0230" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref18_5a8" level="file">
+        <did>
+          <unittitle>Retreat, in-dorm, 1974</unittitle>
+          <container id="aspace_3dc8898e36d27715f5e309d3880d2a95" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref19_e5g" level="file">
+        <did>
+          <unittitle>Conference, 1971</unittitle>
+          <container id="aspace_2e01042981c1eaeb4dc73e490f2943fe" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref20_7ko" level="file">
+        <did>
+          <unittitle>Film festivals, 1971-1972</unittitle>
+          <container id="aspace_8d832b9cb70c228eb12750086cc1a58e" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref21_f2k" level="file">
+        <did>
+          <unittitle>Reports, 1970-1976</unittitle>
+          <container id="aspace_8e5d0358188eedcb43e5290810668254" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref22_us9" level="file">
+        <did>
+          <unittitle>Subcommittee on Curriculum, 1969-1970</unittitle>
+          <container id="aspace_4607659b6eebdc5e418094037e712c2d" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref23_mq7" level="file">
+        <did>
+          <unittitle>Curriculum, early planning materials, 1970-1971</unittitle>
+          <container id="aspace_eadf8a508d03b919ab876b9b4a2bb623" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref24_gz0" level="file">
+        <did>
+          <unittitle>House Courses, 1972-1973</unittitle>
+          <container id="aspace_d238716183336ae450f8d09a2b9aaba1" label="Mixed Materials" type="box"
+            >1</container>
+          <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r45x2cc05"
+            xlink:role="image-service" xlink:show="new" xlink:title="House Courses, 1972-1973"
+            xpointer="ark:/87924/r45x2cc05"/>
+        </did>
+      </c01>
+      <c01 id="aspace_ref25_fv4" level="file">
+        <did>
+          <unittitle>House Courses, 1975-1976</unittitle>
+          <container id="aspace_229758c0fa442e71954a9e550b0f9ca3" label="Mixed Materials" type="box"
+            >1</container>
+          <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4n878z3p"
+            xlink:role="image-service" xlink:show="new" xlink:title="House Courses, 1975-1976"
+            xpointer="ark:/87924/r4n878z3p"/>
+        </did>
+      </c01>
+      <c01 id="aspace_ref26_gnn" level="file">
+        <did>
+          <unittitle>Small-group experience surveys, 1970</unittitle>
+          <container id="aspace_01cf7a94b66100dc377ae233bc6689a3" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref27_i9l" level="file">
+        <did>
+          <unittitle>General history of SHARE/Epworth/Wilson</unittitle>
+          <container id="aspace_dffcadf4fd34bd66a9c2ff1a59e37d75" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref28_w35" level="file">
+        <did>
+          <unittitle>General housing: Wilson, 1970-1971</unittitle>
+          <container id="aspace_65b3430188662e074afcad5ad808ca65" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref29_vnm" level="file">
+        <did>
+          <unittitle>Clippings, 1970-2001</unittitle>
+          <container id="aspace_6e427ecd6c50aa328f4aad228088c70f" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref30_lwd" level="file">
+        <did>
+          <unittitle>Clippings re: Epworth move, 1997</unittitle>
+          <container id="aspace_3b6b019f2c763091d61b164bd31cb991" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref31_lxo" level="file">
+        <did>
+          <unittitle>Printed material, 1995-1997</unittitle>
+          <container id="aspace_0ac5c96e870735415423291a1809c5f6" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref32_twb" level="file">
+        <did>
+          <unittitle>Photographs, 1980</unittitle>
+          <container id="aspace_5e009b2a2fd4e479068e50b8c3f5246e" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref33_sj2" level="file">
+        <did>
+          <unittitle>Transcript: Interview with John Clum, 21 March 1980</unittitle>
+          <container id="aspace_dec5ada5b11e9d7f8a24655bafdf208a" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref34_qlq" level="file">
+        <did>
+          <unittitle>"The Wilsonian or The Gnome at Home," 1975-1976 and Miscellaneous
+            Notes</unittitle>
+          <container id="aspace_203d66a8632806bc3e1156f8cc1624b2" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref35_cni" level="file">
+        <did>
+          <unittitle>Questionnaires, 1980 (sampling)</unittitle>
+          <container id="aspace_d3e4463ede722ec97c2dc8bd25e25beb" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref36_tif" level="file">
+        <did>
+          <unittitle>Event Materials, 1970-1986</unittitle>
+          <container id="aspace_8d1a0213c0a0645594cccbc03bea0fc1" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref37_ybr" level="file">
+        <did>
+          <unittitle>Event Materials, 1986-1988</unittitle>
+          <container id="aspace_c0add0188addd81fd4ee0034c962a1da" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref38_bkp" level="file">
+        <did>
+          <unittitle>Event Materials, 1988-1989</unittitle>
+          <container id="aspace_866236f93aa8156f363fc7380ca57be5" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref39_dlf" level="file">
+        <did>
+          <unittitle>Event Materials, 1990-1991</unittitle>
+          <container id="aspace_985df5cee04472c16a435f6228418573" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref40_0tw" level="file">
+        <did>
+          <unittitle>Event Materials, 1993-1994</unittitle>
+          <container id="aspace_d89a50ad0c67ab4f952a77bd7f427d5a" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref41_a4l" level="file">
+        <did>
+          <unittitle>Event Materials, 1994-1995</unittitle>
+          <container id="aspace_3cb508aeac5defd38ef259957afc9201" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref42_k8f" level="file">
+        <did>
+          <unittitle>SHARE Long Sleeve T-shirts</unittitle>
+          <container id="aspace_7505ffdd67eaf608febffff82e0dafb4" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref43_3ji" level="file">
+        <did>
+          <unittitle>Administrative Records [RESTRICTED]</unittitle>
+          <container id="aspace_22e0abf0c4ba35bb3230d9160a9d35e8" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+        <accessrestrict id="aspace_cd4d170ca85522c1d96f6b60edc46ee4">
+          <head>Conditions Governing Access note</head>
+          <p>This box contains administrative records that are restricted for 25 years from their
+            date of origin. In the interim, these records can only be accessed with the permission
+            of the office of origin and the University Archivist. Please contact the University
+            Archives for more information.</p>
+        </accessrestrict>
+      </c01>
+      <c01 id="aspace_ref45_fcs" level="file">
+        <did>
+          <unittitle>Council and Board, 1992-1996</unittitle>
+          <container id="aspace_662384fb0de2bd0202e1ff3b67206c7c" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref46_q82" level="file">
+        <did>
+          <unittitle>Event Materials, 1989-1990</unittitle>
+          <container id="aspace_17ba0481f7bdb395418cdbfed2289097" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref47_boe" level="file">
+        <did>
+          <unittitle>Jamaica Jam, 1988-1989</unittitle>
+          <container id="aspace_d9031a27b1c1f0d958fb486e603d223e" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref48_65x" level="file">
+        <did>
+          <unittitle>Event Materials, 1995-1996</unittitle>
+          <container id="aspace_f47f22df5bd7718be61583f3ef9a84a4" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref49_kiy" level="file">
+        <did>
+          <unittitle>Events, 1996-1997</unittitle>
+          <container id="aspace_4615b6013fb36a3694b92cc7e532ea66" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref50_np2" level="file">
+        <did>
+          <unittitle>Reports, 1985-1993, 1993-1994</unittitle>
+          <container id="aspace_f94c81bf8a632d60ce004c482e535050" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref51_lo0" level="file">
+        <did>
+          <unittitle>Annual Report 1997 and Writings in Support of SHARE, 1997</unittitle>
+          <container id="aspace_1b44e5df68ec57ea2669b5961fd20fb0" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref52_fdu" level="file">
+        <did>
+          <unittitle>House Courses 1985-1986</unittitle>
+          <container id="aspace_33aa09145894a8c0314d224d9c70f7ff" label="Mixed Materials" type="box"
+            >2</container>
+          <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4q23xz80"
+            xlink:role="image-service" xlink:show="new" xlink:title="House Courses, 1985-1986"
+            xpointer="ark:/87924/r4q23xz80"/>
+        </did>
+      </c01>
+      <c01 id="aspace_ref53_r6v" level="file">
+        <did>
+          <unittitle>House Courses 1987-</unittitle>
+          <container id="aspace_398aff59cdba5b1eb3277b3af5f716f6" label="Mixed Materials" type="box"
+            >2</container>
+          <dao xlink:actuate="onRequest" xlink:href="https://idn.duke.edu/ark:/87924/r4xk8bp6b"
+            xlink:role="image-service" xlink:show="new" xlink:title="House Courses, 1987-"
+            xpointer="ark:/87924/r4xk8bp6b"/>
+        </did>
+      </c01>
+      <c01 id="aspace_ref54_j8b" level="file">
+        <did>
+          <unittitle>General- Identity Establishment/ Short Writings, 1971-1987</unittitle>
+          <container id="aspace_4e4a8b23138aaa2678aa026de8b2f871" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref55_fbx" level="file">
+        <did>
+          <unittitle>East Campus Residence, 1994-1995</unittitle>
+          <container id="aspace_069ae460620c2cb8a0f07ea6f1de2c9f" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref56_9sf" level="file">
+        <did>
+          <unittitle>SHARE Proposal to become a cross-sectional house, 1995</unittitle>
+          <container id="aspace_ec4d808585f162f735b8e92631d9248e" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref57_el2" level="file">
+        <did>
+          <unittitle>Housing Problems, 1986-1987</unittitle>
+          <container id="aspace_284cc629341db3cafe01d079d0f74dc6" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref58_bt8" level="file">
+        <did>
+          <unittitle>General Housing- Programming and Residents, 1991-1992, 1993-1994</unittitle>
+          <container id="aspace_b0e9fb25c49620ee0dee455b22c78920" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref59_n1i" level="file">
+        <did>
+          <unittitle>Miscellaneous Materials, n.d. (regarding SHARE)</unittitle>
+          <container id="aspace_5ae594662749a1b20d21182b064b338f" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref60_7bw" level="file">
+        <did>
+          <unittitle>Short Writings and Miscellaneous Materials, ca 1971-ca 1974</unittitle>
+          <container id="aspace_0736c26b53e16c283dbc3e52dfbfbb8d" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref61_li5" level="file">
+        <did>
+          <unittitle>Short Writings 1994-1995</unittitle>
+          <container id="aspace_751b146cfee922f3d2445324b00f2d4f" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref62_im9" level="file">
+        <did>
+          <unittitle>Short Writings and Newsletters, 1996</unittitle>
+          <container id="aspace_395ee18cdafd2183ee953e6d140c5629" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref63_tt3" level="file">
+        <did>
+          <unittitle>Quotes, 1989-1990, 1990-1991</unittitle>
+          <container id="aspace_a65134f8204a3ec14bea2065c88a4f4b" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref64_17h" level="file">
+        <did>
+          <unittitle>Photographs, n.d.</unittitle>
+          <container id="aspace_3813426a76f6520baa5b13b0783a1d38" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref65_lye" level="file">
+        <did>
+          <unittitle>Applications, 1990-1991 (questionnaires)</unittitle>
+          <container id="aspace_9e1258f2022f86781d788950b7260e3f" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref66_k9j" level="file">
+        <did>
+          <unittitle>SHARE Interview Book, n.d.</unittitle>
+          <container id="aspace_ad6e7c61fe6362e6b2a6e63ff65e5412" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref67_ls5" level="file">
+        <did>
+          <unittitle>Epworth Appeal, 1997</unittitle>
+          <container id="aspace_6c1cdade2fd41a40b6c0b832c9ddfe14" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref68_a2b" level="file">
+        <did>
+          <unittitle>Meeting Minutes, 1997-1998</unittitle>
+          <container id="aspace_e1bc4c7487d0db399a8cd9ac1bf95fdb" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref69_ojr" level="file">
+        <did>
+          <unittitle>Recruitment and Freshman Experience, 1997</unittitle>
+          <container id="aspace_3482a6287a30c52be811ae655ed32cf7" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref70_x66" level="file">
+        <did>
+          <unittitle>Symposiums, 1997-1998</unittitle>
+          <container id="aspace_4be5948992e97d5356a1fc012da5b71c" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref71_iil" level="file">
+        <did>
+          <unittitle>Constitution, undated</unittitle>
+          <container id="aspace_5d3031698e5b6abef58d08f039f2108b" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref72_z1r" level="file">
+        <did>
+          <unittitle>SHARE History, 1997</unittitle>
+          <container id="aspace_3288703985b989e9c1269e47ca566674" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref73_q56" level="file">
+        <did>
+          <unittitle>Bi-Annual Review, 2000</unittitle>
+          <container id="aspace_984c2379075ee3d76193487f4f188115" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref74_6ss" level="file">
+        <did>
+          <unittitle>Miscellaneous, 1995-1999</unittitle>
+          <container id="aspace_89618c97a6abb80868d7859cca7949a5" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref75_8mc" level="file">
+        <did>
+          <unittitle>Administrative Records [RESTRICTED]</unittitle>
+          <container id="aspace_2fb28cac19d1ea5f0b3e3b5f7b29d5ab" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+        <accessrestrict id="aspace_9b64ab3719eca72bb3ff9defd5128855">
+          <head>Conditions Governing Access note</head>
+          <p>This box contains administrative records that are restricted for 25 years from their
+            date of origin. In the interim, these records can only be accessed with the permission
+            of the office of origin and the University Archivist. Please contact the University
+            Archives for more information.</p>
+        </accessrestrict>
+      </c01>
+      <c01 id="aspace_ref77_2xx" level="file">
+        <did>
+          <unittitle>Applications, 1970-1971, 1971-1972</unittitle>
+          <container id="aspace_97532b4f97ed5271d564abb987a8715d" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref78_6ac" level="file">
+        <did>
+          <unittitle>Applications, 1972-1973</unittitle>
+          <container id="aspace_15c081020d1efbf36a62d7e367e3a54d" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref79_lfv" level="file">
+        <did>
+          <unittitle>Applications, 1974-1975 (2 folders)</unittitle>
+          <container id="aspace_06343bcd07ced05cc2e7ba82602383ce" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref80_ziw" level="file">
+        <did>
+          <unittitle>Wilson House Records, applications and evaluations for residence, 1977-1982 (2
+            folders)</unittitle>
+          <container id="aspace_6c172adc47a1e8f72285ab7944489dc5" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref81_n2f" level="file">
+        <did>
+          <unittitle>Applications, 1985-2001 (12 folders)</unittitle>
+          <container id="aspace_30ac6eb151a000047a10a320eaec8439" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref82_6vq" level="file">
+        <did>
+          <unittitle>Correspondence, 1985-1988</unittitle>
+          <container id="aspace_64944cb8a0e53159612bfe26c05b2b82" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref83_hl8" level="file">
+        <did>
+          <unittitle>Correspondence, 1991-1992</unittitle>
+          <container id="aspace_2938ef919dcedfbd3e7ff62f05799926" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref84_lls" level="file">
+        <did>
+          <unittitle>Correspondence, 1996-1997</unittitle>
+          <container id="aspace_085867d0b00f97eaea12ddd0e84dc10f" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref85_o7x" level="file">
+        <did>
+          <unittitle>Correspondence, 1997-1998</unittitle>
+          <container id="aspace_f0af42592627c38c03214a173fcf5479" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref86_eba" level="file">
+        <did>
+          <unittitle>Correspondence re: Epworth move, 1997</unittitle>
+          <container id="aspace_5228965765df056555a84964774f35d2" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref87_5vq" level="file">
+        <did>
+          <unittitle>Correspondence re: Faculty-in-Residence, 1999</unittitle>
+          <container id="aspace_3dd6484405e6f9b9de7a669a3a3d9630" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref88_340" level="file">
+        <did>
+          <unittitle>Constitutions, 1995, 1996</unittitle>
+          <container id="aspace_8a871b2586f3c173a068a0f4420602b0" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref89_haa" level="file">
+        <did>
+          <unittitle>Minutes, 1990-1994</unittitle>
+          <container id="aspace_5d3074ff2a75d856d232204d291cbb5e" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref90_qtk" level="file">
+        <did>
+          <unittitle>Financial, 1971-1976/1977, 1985/1986</unittitle>
+          <container id="aspace_b21c25958f12e2e467618635dd7802bf" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_c0c9bed15e9b481a712df0defeb17ff4" level="file">
+        <did>
+          <unittitle>SHARE scrapbook</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+          <container id="aspace_ad32ead3b5468ea610a52755053d8909" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/hendersonmuriel/"
+         >hendersonmuriel</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Preliminary Guide to the Muriel Henderson Papers, 1900-2009
+                  <num>RL.00531</num>
+            </titleproper>
+            <author>Accessioned by: Angela Diveglia and Meghan Lyon; machine-readable finding aid
+               created by: Meghan Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">004226097</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 19:53:02
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Muriel Henderson papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Henderson, Muriel, 1920-2009</persname>
+         </origination>
+         <unitid>RL.00531</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">18 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1900/2009" type="inclusive">1900-2009</unitdate>
+         <physloc id="aspace_ec255db8a477f31ea0c8d0862f95a092">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_db10a61b9143944e3bd059bb66cd0165">Muriel Henderson (1920-2009) and her
+            husband, Lawrence (Larry), were originally from Tacoma, Washington. They served as
+            missionaries to Angola from 1947 to 1969 and eventually retired to Durham in the 1990s.
+            The bulk of the papers relate Muriel Henderson's personal and family history (for the
+            Woods and Henderson families). She lived with her husband Lawrence (Larry) Henderson in
+            Angola doing missionary work from 1947 to 1969 and the collection includes many
+            materials from this time (including journals and letters). Henderson kept in touch with
+            people from Angola throughout the remainder of her life. The collection also includes
+            many materials documenting her family's life in the early 20th century in the Pacific
+            Northwest (mostly in or around Tacoma, Washington), including photographs, diaries,
+            children's drawings and letters, school report cards, diplomas, letters, recollections
+            (many typed) from family members, and ledgers of household expenses. Acquired as part of
+            the Sallie Bingham Center for Women's History and Culture.</abstract>
+         <physdesc id="aspace_42893169feccedf81bfdb730e3bccb69">
+            <extent>13500 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_4e8224f66bd1ec03f6d3984e221d358d">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_7bb4cb1e558a95c5cebd4670c4f29c39">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_bcce279cd7d42775d355357392a80f44">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_3a6744fa4cd56edb47eb12c19ae375e1">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Muriel Henderson Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_0541bfa52e8ee2312ef799523be1ecd9">
+         <head>Provenance</head>
+         <p>The Muriel Henderson Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 2009.</p>
+      </acqinfo>
+      <processinfo id="aspace_9213c8b8454ce610298da1d471703e9b">
+         <head>Processing Information</head>
+         <p>Accessioned by Angela Diveglia and Meghan Lyon, October 2009</p>
+         <p>Encoded by Meghan Lyon, October 2009</p>
+         <p>Materials may not have been ordered and described beyond their original condition. </p>
+      </processinfo>
+      <bioghist id="aspace_635de2608e12583d80d0a1f1d20ba9b9">
+         <head>Biographical Note</head>
+         <p>Muriel W. Henderson was born on June 20, 1920 in Tacoma, Washington, and died on June 9,
+            2009 in Chapel Hill, NC. Her family and friends knew her as Ki. She lived a full and
+            active life with a wonderful will to experience as much as possible. She spent 22 years
+            as a missionary in Angola with her husband Larry, leaving there in 1969 when the
+            colonial war for independence made it hard to continue the work. She and Larry moved to
+            New Jersey where he worked for the mission board in New York and she worked in social
+            services. She loved working with African students at the Africa-America Institute. Ki
+            and Larry finished their careers in Florida, first in Leisure City and then at Sun City
+            Center. From 1985 to 1991 they lived in Portugal, where they had first gone in 1947 to
+            learn Portuguese for their work in Angola. Ki helped Larry research in Portuguese
+            archives for his book on the church in Angola. While there, they reconnected with many
+            old friends from Angola. In 1991 they moved to Durham, NC and became active in the life
+            of Pilgrim United Church of Christ. Ki was a life-long letter writer and corresponded
+            with friends and colleagues all over the world.</p>
+         <p>Biographical sketch taken from Muriel's obituary, available at: <extref
+               xlink:href="http://www.cremationsocietync.com/sitemaker/sites/Cremat2/obit.cgi?user=murial-henderson"
+               >http://www.cremationsocietync.com/sitemaker/sites/Cremat2/obit.cgi?user=murial-henderson</extref>.</p>
+      </bioghist>
+      <scopecontent id="aspace_848002c04b8c9ec2b93c451cfb7d8d2a">
+         <head>Collection Overview</head>
+         <p>The bulk of the papers relate to Muriel Henderson's personal and family history (for the
+            Woods and Henderson families). She lived with her husband Lawrence (Larry) Henderson in
+            Angola doing missionary work from 1947 to 1969. The collection includes many materials
+            from this time (including journals and letters), and she kept in touch with people from
+            Angola throughout the remainder of her life. The collection also includes many materials
+            documenting her and her family's life in the early 20th century in the Pacific Northwest
+            (mostly in or around Tacoma, Washington), including photographs, diaries, children's
+            drawings and letters, school report cards, diplomas, letters, recollections (many typed)
+            from family members, and ledgers of household expenses.</p>
+      </scopecontent>
+      <arrangement id="aspace_7e5c3fcacd45615272f1058baf652a22">
+         <head>Collection Arrangement</head>
+         <p>The collection has not been processed, but materials have been grouped within each box
+            as best as possible for preservation and ease of use.</p>
+      </arrangement>
+      <controlaccess>
+         <subject source="lcsh">Genealogy</subject>
+         <subject source="lcsh">Missions -- Angola</subject>
+         <geogname source="lcsh">Angola</geogname>
+         <geogname source="lcsh">Tacoma (Wash.)</geogname>
+         <genreform source="aat">Scrapbooks</genreform>
+         <persname source="ingest">Henderson, Muriel</persname>
+         <persname source="ingest">Henderson, Muriel, 1920-2009</persname>
+         <persname source="ingest">Henderson, Lawrence</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_6vh" level="series">
+            <did>
+               <unittitle>Accession (2009-0227)</unittitle>
+               <physdesc id="aspace_d2e18b0fac4785d81ae8921a6e977c4e">
+                  <extent>12 boxes and 1 oversize folder</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_27527dfda5627510f99aaf33b8bbca52">
+               <head>Scope and Contents note</head>
+               <p>The bulk of the papers relate to her personal and family history (for the Woods
+                  and Henderson families). She lived with her husband Lawrence (Larry) Henderson in
+                  Angola doing missionary work from 1947 to 1969; the collection includes many
+                  materials from this time (including journals and letters), and she kept in touch
+                  with people from Angola throughout the remainder of her life. The collection also
+                  includes many materials documenting her and her family's life in the early 20th
+                  century in the Pacific Northwest (mostly in or around Tacoma, Washington),
+                  including photographs, diaries, children's drawings and letters, school report
+                  cards, diplomas, letters, recollections (many typed) from family members, and
+                  ledgers of household expenses.</p>
+            </scopecontent>
+            <c02 id="aspace_ref15_go4" level="file">
+               <did>
+                  <unittitle>Personal correspondence</unittitle>
+                  <container id="aspace_ef7e42fac8ce36aa93375abdb8efdd8b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_wa7" level="file">
+               <did>
+                  <unittitle>Diaries</unittitle>
+                  <container id="aspace_70b7a8e9857f3669d7d0393f38cca1be" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_doq" level="file">
+               <did>
+                  <unittitle>Ledger books</unittitle>
+                  <container id="aspace_472fa61204a9de337203daf65cba05e7" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_v8p" level="file">
+               <did>
+                  <unittitle>Diplomas</unittitle>
+                  <container id="aspace_b84ff889bfcc7a966735731ec94948f9" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_e97" level="file">
+               <did>
+                  <unittitle>Memory box with letters, early 20th-century photograph, statue, and
+                     wood/metal harmonica</unittitle>
+                  <container id="aspace_661d69dec46df845d88dc12877c2e02f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_bbn" level="file">
+               <did>
+                  <unittitle>Court proceedings for a case between her parents and the hospital where
+                     their infant son was burned when he rolled into a radiator</unittitle>
+                  <container id="aspace_b1026b0d37f5aafac98acd052204954c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_yrp" level="file">
+               <did>
+                  <unittitle>Personal correspondence</unittitle>
+                  <container id="aspace_cda9d1307ecd9fa21ff76cce2b3714bb" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_vr9" level="file">
+               <did>
+                  <unittitle>Newspapers</unittitle>
+                  <container id="aspace_f98ac0850163a4366a21056eeb100ae1" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_uqo" level="file">
+               <did>
+                  <unittitle>Binders of family items, including letters, announcements, clippings,
+                     children's artwork, etc. (4)</unittitle>
+                  <container id="aspace_cd92807e5dd3c6de11f369c395e94464" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_6h3" level="file">
+               <did>
+                  <unittitle>Angola mission work</unittitle>
+                  <container id="aspace_d4db822170a48ab60a545cf80c2bb589" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_sz9" level="file">
+               <did>
+                  <unittitle>Family photographs</unittitle>
+                  <container id="aspace_8e2e6d1a8f4797c7f85534c723f3f608" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_qrt" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <container id="aspace_7dcaa94891704597f6f693b553b48fc8" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_n9t" level="file">
+               <did>
+                  <unittitle>Calendars</unittitle>
+                  <container id="aspace_7be4f6cd068cf7cca98e127e20ca199a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_1ju" level="file">
+               <did>
+                  <unittitle>Personal notes</unittitle>
+                  <container id="aspace_61fd9d17bad3c8b37f313949776215cb" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_98z" level="file">
+               <did>
+                  <unittitle>Family letters box, 1922</unittitle>
+                  <container id="aspace_8b062d29397e734954671209d8fe3648" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_gjz" level="file">
+               <did>
+                  <unittitle>Other early letters, 1900s-1920s</unittitle>
+                  <container id="aspace_2312578fcbbc0a95c291605e36daa725" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_34b" level="file">
+               <did>
+                  <unittitle>Ralph Woods memorial book</unittitle>
+                  <container id="aspace_1c3261cd6f9ab43f3b5ad7ebc10b956f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_459" level="file">
+               <did>
+                  <unittitle>Yearbook</unittitle>
+                  <container id="aspace_fcdb830d8665d91bdf5389a87ba0254d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_k0z" level="file">
+               <did>
+                  <unittitle>Miscellaneous correspondence</unittitle>
+                  <container id="aspace_8c19f3787983c48ff7a8ccda95858e70" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_gye" level="file">
+               <did>
+                  <unittitle>Family photographs</unittitle>
+                  <container id="aspace_918aab8fba941dd553918861e17206e6" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_4qk" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Memories</title> folders</unittitle>
+                  <container id="aspace_5f24a908de4461b9ac2883b3d6b01890" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_mjz" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_3adf5c0c406597e1d72656bfa7dccc67" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_frc" level="file">
+               <did>
+                  <unittitle>Old passports</unittitle>
+                  <container id="aspace_c411ef1a6d9ef600efbd3002328ceccd" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_fss" level="file">
+               <did>
+                  <unittitle>Notebooks with personal notes and records of letters
+                     sent/received</unittitle>
+                  <container id="aspace_7c5849e041abf0611049ddf4a0844614" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_97t" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <container id="aspace_811f0ba40a8d6053a375f7d3623278f5" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_9tf" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_ae311e154759e42bef06b56c877929f1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_cap" level="file">
+               <did>
+                  <unittitle>Family photographs</unittitle>
+                  <container id="aspace_dc4e57eab276a4870c85d7831aeead44" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_dzo" level="file">
+               <did>
+                  <unittitle>Personal correspondence</unittitle>
+                  <container id="aspace_dbd1b8958ca81179fbdb751bda17b42d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_fnj" level="file">
+               <did>
+                  <unittitle>Scrapbook</unittitle>
+                  <container id="aspace_d00452c0d72dd848f68a5114c04fecfa" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_0ku" level="file">
+               <did>
+                  <unittitle>Personal correspondence</unittitle>
+                  <container id="aspace_1c5794c4cade02147cc005d2b4f2779c" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_oi9" level="file">
+               <did>
+                  <unittitle>Address books</unittitle>
+                  <container id="aspace_35bf7835e2a92c53f080f2d7e6b62d2f" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_h76" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_0696fe5fee1c0c196a07662cf5552566" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_v5x" level="file">
+               <did>
+                  <unittitle>Personal correspondence</unittitle>
+                  <container id="aspace_288abfba6693df9526c2fcd827e8ecd1" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_78n" level="file">
+               <did>
+                  <unittitle>Newsletters</unittitle>
+                  <container id="aspace_5e9cee508a6753b35853a6797fcd7c1a" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_kky" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_f368c04a760683660376cad68edbec55" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_cjl" level="file">
+               <did>
+                  <unittitle>Christmas cards</unittitle>
+                  <container id="aspace_5a381b413ec03b283687a8dcec6b5064" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_ndp" level="file">
+               <did>
+                  <unittitle>Address book</unittitle>
+                  <container id="aspace_438de5437b508f127fa2600ee3236e7c" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_07j" level="file">
+               <did>
+                  <unittitle>Photographs, 1940s</unittitle>
+                  <container id="aspace_4be5453d1e72eb2cf82557497ac9876a" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_30z" level="file">
+               <did>
+                  <unittitle>Report cards</unittitle>
+                  <container id="aspace_c086b1c789109ae0954d9248493f6365" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_2xz" level="file">
+               <did>
+                  <unittitle>Personal correspondence</unittitle>
+                  <container id="aspace_071ab1ace6130c4275fc3fc4398bd9a9" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_627" level="file">
+               <did>
+                  <unittitle>Personal correspondence</unittitle>
+                  <container id="aspace_c1180d788d7efdeae8fd87172daefd5d" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_udv" level="file">
+               <did>
+                  <unittitle>News clippings</unittitle>
+                  <container id="aspace_09e1771edc57a7be48cc890b6bae7a5a" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_tjg" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <container id="aspace_606c34e6bc1460bd5cd1d40aa64c20f8" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_es4" level="file">
+               <did>
+                  <unittitle>Autograph books, early 20th century</unittitle>
+                  <container id="aspace_6bb1d77aab5718431b29ae1e9f13ef25" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_054" level="file">
+               <did>
+                  <unittitle>Address books</unittitle>
+                  <container id="aspace_bf5977128f22da28ab4072c48f878522" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_vaw" level="file">
+               <did>
+                  <unittitle>Muriel Henderson's baby book</unittitle>
+                  <container id="aspace_ece8271ff97bfc81680f4c9db8bea969" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_c26" level="file">
+               <did>
+                  <unittitle>Tintype photograph of male relatives</unittitle>
+                  <container id="aspace_ffba536de585386ce1e53acf41ad0ff9" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_344" level="file">
+               <did>
+                  <unittitle>Books and diaries (some books discuss family members; most diaries
+                     belong to Muriel)</unittitle>
+                  <container id="aspace_3cc665906a68d0d742a05a7521918498" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_80u" level="file">
+               <did>
+                  <unittitle>Memorial service materials (including a DVD), 2009</unittitle>
+                  <container id="aspace_17fa526c20f49b8ae441563c2a29a7c9" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_v49" level="file">
+               <did>
+                  <unittitle>Scrapbook pages</unittitle>
+                  <container id="aspace_f45f5e8a3cd4230952fb6db28b6be16a" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_52edcb75ff7b6e5dfb0c13b383608bed"
+                     parent="aspace_f45f5e8a3cd4230952fb6db28b6be16a" type="oversize-folder"
+                     >1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/proctoralexander/"
+         >proctoralexander</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Alexander Proctor papers, 1837-1895 <num>RL.01055</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+               Jessica Carew, Paula Jeannet</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2014</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001776953</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:17:38
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Alexander Proctor papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Proctor, Alexander, 1814-1865</persname>
+         </origination>
+         <unitid>RL.01055</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1837/1895" type="inclusive">1837-1895</unitdate>
+         <physloc id="aspace_76207ef469d517e6f997b004226ac10f">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_4714fe3c24e03a1a9d4b868ae3151530">African American family originally
+            from Virginia and North Carolina. Legal papers and correspondence relating to the
+            Alexander Proctor family, tracing their history beginning as freedmen in Virginia and
+            North Carolina, their 1840s resettlement in Warren County, Ohio, their emigration to
+            Haiti in 1861 as part of the Redpath movement, and their eventual return to Kalamazoo,
+            Michigan in 1866. The correspondence dates principally from the 1870s, is chiefly
+            written by A.W. Proctor, one of Alexander Proctor's sons, and S.S. Hutchins, friend of
+            Proctor's son, Isaac, and relates to family affairs, business, and other matters. S.S.
+            Hutchins is identified in the Gould's St. Louis Directory (1874), 449, as Chief Clerk in
+            the U.S. Army Engineer's Office. One letter from a friend to a family member mentions
+            seeing Frederick Douglass at Wilberforce College in 1893. The legal records document the
+            free status of the Proctors, various labor agreements, and migration papers, and include
+            receipts and letters of introduction.</abstract>
+         <physdesc id="aspace_491790b121895577138511eda13fb8a7">
+            <extent>36 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_0f664eb9c62f97520444f58f8bec8f0f">Material in English and French
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_50206a08055456ddd89c6eb0c1c40f1a">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_3176fb5ea97bb807bdd14b963fe95121">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_1db1c79d883ac0af2c06b81abadfa5a3">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Alexander Proctor Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_b70c1cebc55f72711870812f13080273">
+         <head>Provenance</head>
+         <p>The Alexander Proctor papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a purchase in 1978.</p>
+      </acqinfo>
+      <processinfo id="aspace_21da451c7b361636c291caeb33d8d695">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff, 1978</p>
+         <p>Encoded by Jessica Carew, Paula Jeannet, June 2014</p>
+         <p>Accession(s) described in this finding aid: 1978</p>
+      </processinfo>
+      <bioghist id="aspace_f399cc7d2b65cb97c6eca70cc7ff17e4">
+         <head>Biographical Note</head>
+         <p>The Proctors were a free African American family from the South, who left Virginia in
+            the early 1840s, lived in Warren County, Ohio, moved to Canada in 1860, and emigrated to
+            Haiti in 1861. Alexander Proctor (1814-1865), a Baptist minister, died there, and his
+            family, headed by wife Margaret Chaven Proctor (1814-?), returned to the U.S. and
+            settled in Kalamazoo, Michigan with one of her sons.</p>
+      </bioghist>
+      <scopecontent id="aspace_f103d31d5692bbeee53a997835ecb5a0">
+         <head>Collection Overview</head>
+         <p>One-folder collection of 19th century legal papers and correspondence concerning the
+            migratory movements, legal status, life situations, and relationships of members of a
+            free African American family. The correspondence dates principally from the 1870s, is
+            chiefly written by A.W. Proctor, one of Alexander Proctor's sons, and S.S. Hutchins,
+            friend of Proctor's son, Isaac, and relates to family affairs, business, and other
+            matters. S.S. Hutchins is identified in the <emph render="italic">Gould's St. Louis
+               Directory (1874), 449,</emph> as Chief Clerk in the U.S. Army Engineer's Office. One
+            letter from a friend to a family member mentions seeing Frederick Douglass at
+            Wilberforce College in 1893.</p>
+         <p>The legal records document the free status of the Proctors, various labor agreements,
+            and migration papers, and include receipts and letters of introduction. Official
+            documents from Haiti are written in French and include an 1865 order permitting the
+            burial of Proctor at St. Marc, Haiti. In terms of the context relating to the family's
+            emigration to Haiti, many people that emigrated by way of the Redpath Agency to Haiti,
+            as was the case for the Proctors, either died or were untraceable by 1864, and few
+            managed to return to the U.S.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">Warren County (Ohio) -- Emigration and immigration</geogname>
+         <subject source="lcsh">Indentured servants -- United States</subject>
+         <subject source="lcsh">Freedmen -- Virginia -- History -- 19th century</subject>
+         <subject source="lcsh">Redpath movement</subject>
+         <subject source="lcsh">Missionaries -- Haiti</subject>
+         <subject source="lcsh">African American families</subject>
+         <subject source="lcsh">African Americans -- Haiti</subject>
+         <subject source="lcsh">Freedmen -- North Carolina</subject>
+         <subject source="lcsh">Back to Africa movement</subject>
+         <subject source="lcsh">African Americans -- North Carolina</subject>
+         <subject source="lcsh">African Americans -- Migrations -- History -- 19th century</subject>
+         <subject source="lcsh">African Americans -- Ohio</subject>
+         <subject source="lcsh">African Americans -- Michigan</subject>
+         <geogname source="lcsh">Ohio -- Emigration and immigration</geogname>
+         <geogname source="lcsh">Saint-Marc (Haiti) -- Emigration and immigration</geogname>
+         <geogname source="lcsh">Haiti -- Emigration and immigration</geogname>
+         <geogname source="lcsh">Michigan -- Emigration and immigration</geogname>
+         <famname source="ingest">Proctor family</famname>
+         <persname source="ingest">Proctor, Margaret</persname>
+         <persname source="ingest">Proctor, Alexander, 1814-1865</persname>
+         <persname source="lcsh">Douglass, Frederick, 1818-1895</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_r2o" level="series">
+            <did>
+               <unittitle>Legal Papers, 1837-1866</unittitle>
+               <physdesc id="aspace_18ed1508d41c3376a006739d7170b05b">
+                  <extent>21 items</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_e09e11c85c36381efddda8951f0831bf">
+               <head>Scope and Contents note</head>
+               <p>Series begins with a brief descriptive sketch of the Proctors and the nature of
+                  this collection. The legal papers include documents demonstrating that Alexander
+                  and Margaret Proctor were free persons in Virginia and North Carolina. The papers
+                  also document the travels and various life events of the Proctor family up through
+                  Margaret Proctor's permission to return to the U.S. after the death of her husband
+                  Alexander Proctor in St. Marc, Haiti, in 1865.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_5po" level="file">
+               <did>
+                  <unittitle>Brief descriptive sketch of the Proctors and the contents and
+                     historical context of the collection, undated</unittitle>
+                  <container id="aspace_a857b53096f4a50be1029e14e6d8a830" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_ez0" level="file">
+               <did>
+                  <unittitle>Articles of agreement for <emph render="doublequote">Thomas Proctor, a
+                        free Negro</emph> to bind himself in service for 5 years to G. H. Crosman,
+                     Capt. U.S. Army, 1837 July 18</unittitle>
+                  <container id="aspace_ed73e1f5bff4a97ba4da4a3ccfd170dd" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_ujv" level="file">
+               <did>
+                  <unittitle>Recommendation for hiring for work with boats for <emph
+                        render="doublequote">Alexander Proctor, a free man</emph> from J. M.
+                     Jeffress, 1839 Dec. 4</unittitle>
+                  <container id="aspace_dc9dc1ad9c12fe8f5ab877652d2a99d5" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_qzu" level="file">
+               <did>
+                  <unittitle>Official statement from Clerks Office of Charlotte Co., Va. that
+                     Margaret Proctor was born to a free family in that county, 1840 Apr.
+                     7</unittitle>
+                  <container id="aspace_97a0cda3785e3ccb63152f862b026e6b" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_koy" level="file">
+               <did>
+                  <unittitle>Official statement from Clerk's Office of Mecklenburg Co., Va. that
+                     Alexander Proctor was born to a free woman in Granville Co, NC, 1840 Apr.
+                     16</unittitle>
+                  <container id="aspace_1f1e60e4c2764a8eda21b777f7b058a2" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_fpk" level="file">
+               <did>
+                  <unittitle>Deposition for case pending in the Supreme Court of Mercer Co, Ohio,
+                     detailing testimony of John Anthony concerning a case between Melchen Adam
+                     Meyer and Samuel Gray over a horse, circa 1842</unittitle>
+                  <container id="aspace_2c41df1f07c957cc3fa4bbe51772d759" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_pjm" level="file">
+               <did>
+                  <unittitle>Document affirming the good citizenship and moral character of
+                     Alexander Proctor, signed by 36 members of the community in Mason, Warren Co.,
+                     Ohio, 1843 Oct. 20</unittitle>
+                  <container id="aspace_1ddcc74ce49d35cacbc983a8178d0f07" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_uz3" level="file">
+               <did>
+                  <unittitle>Document pertaining to land transfer to Alexander Proctor, 1845 Apr.
+                     9</unittitle>
+                  <container id="aspace_00c3b187a181c5ccc75c3b4324629fc5" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_nja" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Charles Moore deed to Alex. Proctor,</emph> 1845
+                     Apr. 11</unittitle>
+                  <container id="aspace_c815e1c7118ad2884d43d7b6bd9a0d3b" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_y8x" level="file">
+               <did>
+                  <unittitle>Document verifying religious beliefs of and recommending Alexander and
+                     Margaret Proctor to other churches, from Regular A. S. Baptist Church of Beaver
+                     Creek, Ohio, 1852 Dec. 18</unittitle>
+                  <container id="aspace_08ab7bfe75ee60cbef546b40a7e4b254" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_1el" level="file">
+               <did>
+                  <unittitle>Affirmation concerning the ordination of Alexander Proctor to <emph
+                        render="doublequote">the work of the Gospel ministering by the laying on of
+                        hands,</emph> prepared by the First Baptist Church of Little River at
+                     Windsor Ontario Canada West, Apr. 27, <emph render="doublequote">no year</emph>
+                  </unittitle>
+                  <container id="aspace_4f3fde1471c6c1a9c34f5bf1c619c842" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_mv7" level="file">
+               <did>
+                  <unittitle>Receipt for payment from Alexander Proctor to Treasurer's Office of
+                     Miami University, 1855 Nov. 1</unittitle>
+                  <container id="aspace_f9710575b8f583f6ec74e1d9374038db" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_kjn" level="file">
+               <did>
+                  <unittitle>Agreement for Alexander Proctor to rent land belonging to Leon St.
+                     Louis, 1860 Feb. 4</unittitle>
+                  <container id="aspace_0d084c02212c9b4b0e2b4a7bdd516b09" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_34u" level="file">
+               <did>
+                  <unittitle>Register entitled <emph render="doublequote">Emigration to Hayti, from
+                        the Township of Sandwich County of Essex Canada West, 1861,</emph> which
+                     lists Alexander and Margaret Proctor, and two of their sons, William (21) and
+                     Samuel (14), among several others planning to emigrate.</unittitle>
+                  <container id="aspace_ba3977ee8a81f882a9643557fd273f0b" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_pys" level="file">
+               <did>
+                  <unittitle>Emigrant's copy of <emph render="doublequote">Haytian Bureau of
+                        Emigration Agreement with Alexander Proctor and family,</emph> arranged by
+                     James Redpath of Boston, Gen. Agent of Emigration, noting the family received 3
+                     tickets for passage to Haiti, 1861 June 15.</unittitle>
+                  <container id="aspace_c3985f8798f06be78048be544f13eab4" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_z1d" level="file">
+               <did>
+                  <unittitle>Letter of introduction of <emph render="doublequote">The Reverend
+                        Alexander Proctor,</emph> written by B. F. Whidden, United States'
+                     Commissioner, Consul General, Haiti, 1864 Mar. 12</unittitle>
+                  <container id="aspace_be3844d36fa06b4fe9561ec055f1f042" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_mka" level="file">
+               <did>
+                  <unittitle>Document from the Bureau L'Etat Civil in Haiti, in French, concerning
+                        <emph render="doublequote">Elder Alexander Proctor,</emph> 1865 May
+                     30</unittitle>
+                  <container id="aspace_904334e1aa7c58a42def1f3fc2ab16d6" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_q10" level="file">
+               <did>
+                  <unittitle>Official government document from Republic of Haiti for Margaret
+                     Proctor, in French, 1865 July 3</unittitle>
+                  <container id="aspace_473e746c59f0c89c14b64a98aa2694a3" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_pjj" level="file">
+               <did>
+                  <unittitle>Note concerning Margaret Proctor, in French, 1865 Nov. 16</unittitle>
+                  <container id="aspace_0328f17b69ce3947cd4029f61ebcf10f" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_ut4" level="file">
+               <did>
+                  <unittitle>Official notice from Consulate of the United States of America, Camille
+                     Lynch, that Margaret Proctor should be granted passage and aid into the U.S.,
+                     1866 Apr. 12</unittitle>
+                  <container id="aspace_efc3ea85b7083db73a72b830cea0345c" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_dbl" level="file">
+               <did>
+                  <unittitle>Prayer or invocation, handwritten, author unknown, undated</unittitle>
+                  <container id="aspace_87cb268e707fdd5e41a878839cd12b6c" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref36_oot" level="series">
+            <did>
+               <unittitle>Correspondence, 1865-1895</unittitle>
+               <physdesc id="aspace_9ed4d8bc579f10e53cbd450161440c28">
+                  <extent>15 items</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_4ed99d79a424299ae1ed5fd039bfcaa9">
+               <head>Scope and Contents note</head>
+               <p>Includes personal and business correspondence between family members and friends
+                  of the Proctor family from 1865 to 1893. Many of the letters are written by A.W.
+                  Proctor, one of Alexander Proctor's sons, and S.S. Hutchins, friend of Proctor's
+                  son, Isaac.</p>
+            </scopecontent>
+            <c02 id="aspace_ref38_h1e" level="file">
+               <did>
+                  <unittitle>Letter, Jan. 3, 1865, from Elizabeth Jackson, Oxford, Ohio, to <emph
+                        render="doublequote">Nephew</emph>
+                  </unittitle>
+                  <container id="aspace_9e0f5e6359814fe529b994f8aac2ed1e" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_sd0" level="file">
+               <did>
+                  <unittitle>Letter, May 11, 1866, from A.W. Proctor, Kalamazoo, Mich., to <emph
+                        render="doublequote">Mother</emph> (Margaret Proctor)</unittitle>
+                  <container id="aspace_1a66279737a1a7a04c755b6f11fde5b1" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+               <scopecontent id="aspace_976163a9fddb734281b4c22a762a59fe">
+                  <head>Scope and Contents note</head>
+                  <p>A.W. Proctor says he is thankful to hear that she is back in the U.S. and urges
+                     her to come live with him.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref41_gwu" level="file">
+               <did>
+                  <unittitle>Letter, Aug. 19, 1870, from A.W. Proctor, Kalamazoo, Mich., to <emph
+                        render="doublequote">Brother</emph>
+                  </unittitle>
+                  <container id="aspace_9153da725dfcc2d9a61c797bfa8d5cee" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_z31" level="file">
+               <did>
+                  <unittitle>Letter, July 7, 1873, from S.S. Hutchins, St. Louis, MO, to Isaac
+                     (Proctor)</unittitle>
+                  <container id="aspace_e30fe59573309603e99cc18ee39204ed" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_353" level="file">
+               <did>
+                  <unittitle>Letter, Aug. 2, 1873, from S.S. Hutchins, St. Louis, MO, to Isaac
+                     (Proctor)</unittitle>
+                  <container id="aspace_5dff224339519effb7031401b1ea9ce2" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_zhw" level="file">
+               <did>
+                  <unittitle>Letter, Mar. 17, 1874, from A.W. Proctor, Kalamazoo, Mich., to <emph
+                        render="doublequote">Brother</emph>
+                  </unittitle>
+                  <container id="aspace_1aa176e6403a49659d5a8b016faa1818" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_wmr" level="file">
+               <did>
+                  <unittitle>Letter, Sept. 21, 1874, from S.S. Hutchins, St. Louis, MO, to <emph
+                        render="doublequote">Friend</emph> (Isaac Proctor)</unittitle>
+                  <container id="aspace_9635c0a1d09283c9382d4aaffbc6fcfc" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_u5d" level="file">
+               <did>
+                  <unittitle>Letter, Sept. 24, 1874, from A.W. Proctor, Star Landing, to <emph
+                        render="doublequote">Mother</emph>
+                  </unittitle>
+                  <container id="aspace_747415234331855f08dace0495467844" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_qum" level="file">
+               <did>
+                  <unittitle>Letter, Oct. 24, 1874, from S.S. Hutchins, St. Louis, MO, to Isaac
+                     (Proctor)</unittitle>
+                  <container id="aspace_b0c2bdd7cd7edd952ab95de45a4dfb17" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_blb" level="file">
+               <did>
+                  <unittitle>Letter, Dec. 12, 1874, from A.W. Proctor, Decatur, to <emph
+                        render="doublequote">Brother</emph>
+                  </unittitle>
+                  <container id="aspace_d068c6f245d597c1cbff9d8b231221a5" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_lah" level="file">
+               <did>
+                  <unittitle>Letter, May 10, 1875, from A.W. Proctor, Decatur, to <emph
+                        render="doublequote">Mother</emph>
+                  </unittitle>
+                  <container id="aspace_a78250f6707ee8bc4ea1f02f2a082908" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_w5g" level="file">
+               <did>
+                  <unittitle>Letter, Dec. 25, 1875, from J.C. Howland, Detroit, Mich., to S. I.
+                     Proctor</unittitle>
+                  <container id="aspace_e62d225eaf8a0b4fc30ad5c32ed909fe" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_ouo" level="file">
+               <did>
+                  <unittitle>Letter, June 25, 1877, from Chavens, Union City, to <emph
+                        render="doublequote">Sir</emph>
+                  </unittitle>
+                  <container id="aspace_b44405d32f210cc322c81de8b2c2ad3a" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_gcz" level="file">
+               <did>
+                  <unittitle>Letter, Mar. 11, 1893, from B.A.S., Washington D.C., to Dean P.
+                     Phillips (daughter of Alexander Proctor)</unittitle>
+                  <container id="aspace_3484d24bdc67ad99f8619083a070178f" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+               <scopecontent id="aspace_36a289509dddaef33ef93205e9f582e9">
+                  <head>Scope and Contents note</head>
+                  <p>Includes reference to bad weather for parade for President Cleveland's
+                     inauguration.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref54_sn7" level="file">
+               <did>
+                  <unittitle>Letter, June 28, 1893, unknown author, Detroit, Mich., to <emph
+                        render="doublequote">Friend</emph> (Dean)</unittitle>
+                  <container id="aspace_6218b97ec5555c9156409856a0638991" label="Mixed Materials"
+                     type="folder">1</container>
+               </did>
+               <scopecontent id="aspace_5ffb735fdbbb158fa1d40d8c695a442a">
+                  <head>Scope and Contents note</head>
+                  <p>Incomplete letter with pages missing. Refers to meeting with Frederick Douglass
+                     at Wilberforce.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

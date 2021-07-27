@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/modern/">modern</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Modern Language Association of America, American Literature
+               Section Papers, 1922-1999 <num>RL.00903</num>
+            </titleproper>
+            <author>Processed by John Hilgart</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002335714</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 03:39:58
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Modern Language Association of America American Literature Section
+            papers</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">Modern Language Association of America</corpname>
+         </origination>
+         <unitid>RL.00903</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">7 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1922/1999" type="inclusive">1922-1999</unitdate>
+         <physloc id="aspace_ba707dd85c064fc66b45c580e2fece87">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_896e2bee49e2df69bdc4362afa5d6d31">
+            <extent>7,586 items</extent>
+         </physdesc>
+         <langmaterial id="aspace_1e2135d328ef5d44af070232f674c0e7">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_9e2054eda808549694b339751e66eb71">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_047595a394b3071e034f7dc74e77c2b4">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For further information, see the section on copyright in the Regulations and Procedures
+            of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_450fe842ea60a10f98848387def64284">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], The Modern Language Association of America, American
+            Literature Section Papers, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke
+            University.</p>
+      </prefercite>
+      <acqinfo id="aspace_6f18ba617c6cf5ce7133557a34eabd70">
+         <head>Provenance</head>
+         <p>The American Literature Section Papers (1922-1994) were transferred from the University
+            of Wisconsin, Madison (1985) and donated by Section members (1983-1995).</p>
+         <p>No systematic preservation of records has ever been supervised by the American
+            Literature Section itself. Henry Pochmann, English professor at the University of
+            Wisconsin, realized in the late 1960s that the opportunity to assemble an archive
+            reaching back to the Section's early days was rapidly disappearing. He solicited
+            material from all those past officers of the ALS he was able to contact, thereby forming
+            the basis of the collection. Beginning with 1928, the collection of annual reports,
+            committee work, and correspondence is extremely thorough. Some periods are documented by
+            the files of several members, some by only one, but little of the Section's history
+            seems to have been lost.</p>
+         <p>Pochmann's original collection was housed at the University of Wisconsin until 1985,
+            when it was transferred to the Hubbell Center. By that time, newly-generated files had
+            been coming directly to the Hubbell Center for two years. Material was not deposited
+            regularly over the following decade, but retrospective collecting was done at the time
+            the collection was organized into its present form.</p>
+      </acqinfo>
+      <processinfo id="aspace_9366244c12aea3cbdfab6d92998bb46c">
+         <head>Processing Information</head>
+         <p>Processed by John Hilgart</p>
+         <p>Completed in 1995 </p>
+         <p>Encoded by Robin LaPasha</p>
+         <p>Updated because of additions by Alice L. Poffinberger, February 2009</p>
+      </processinfo>
+      <bioghist id="aspace_ffd071c118b00013cb31d1302b2f6ed5">
+         <head>Historical Note</head>
+         <p>The American Literature Group was formed in 1921, after the Modern Language Association
+               <abbr>(MLA) </abbr>reluctantly acknowledged a growing scholarly interest in the
+            writing of the United States. At the time such literature was studied primarily in
+            secondary schools, and most colleges and universities had no courses on the topic. Those
+            that did, usually offered only a single survey course. The idea that American literature
+            could stand on its own as a discipline was viewed with skepticism, it being understood
+            at the time as a branch of the literature of England - a branch almost wholly lacking
+            the greatness of its parent.</p>
+         <p>The members of the new group felt that in order to prove their subject reputable, they
+            must bring it into line with the model of disciplines that had come into being in the
+            late-nineteenth and early-twentieth centuries. This model was based on the empiricism of
+            the sciences, which had been modified in English as philology, author biography, textual
+            history, and in its furthest speculative reach, influence study. Interpretive criticism
+            was viewed as insufficiently scholarly, the domain of the "amateurs" who had dominated
+            writing about American literature up to this point. Similarly, some in the Group thought
+            that it should organize a way to better train secondary school teachers in the area, but
+            this was rejected as insufficiently academic.</p>
+         <p>The Group met each December at the annual meeting of the Modern Language Association.
+            Many of the early papers presented under the auspices of the Group dealt with the
+            problem of how to build a proper discipline. Work was immediately begun on
+            bibliographies and on lists of manuscript resources and dissertations written (or
+            needed). In 1926, as an aid to research, the field was divided into three areas: the
+            Puritan tradition, Romanticism in American literature, and the frontier spirit. In 1928,
+            the Group's approach was documented by the essays in <title type="simple"
+               render="italic">The Reinterpretation of American Literature</title> (edited by Norman
+            Forester), which added a fourth area, realism. Efforts to establish a quarterly journal
+            that dealt exclusively with American literature began in 1924. Duke University
+            eventually won a small bidding war for it, and the first issue of <title type="simple"
+               render="italic">American Literature</title> was dated March, 1929. In 1928 a full
+            scheme of officers and procedures was put into place with the first version of the
+            articles of organization. This document would be periodically revised over the following
+            decades. One project that never got off the ground was a history of American literature.
+            Almost from its inception, the Group was dissatisfied with the existing one - <title
+               type="simple" render="italic">The Cambridge History of American Literature</title>
+            (1918) - because it was written prior to the discovery of much information, gave no
+            relative weight to different figures and genres, and had no overarching vision of the
+            area. A committee headed by Robert Speller worked toward a plan for a new history during
+            the thirties, but conflicting positions concerning readiness and approach caused the
+            plan to be abandoned by 1941. (Speller proceeded with the project outside of the Group,
+            his work resulting in <title type="simple" render="italic">The Literary History of the
+               United States</title> (1948).)</p>
+         <p>After World War II, with American literature firmly in place as an academic area, the
+            Group became less central to the discipline's development. The rise of American studies
+            in the early 1950s prompted discussion and dispute concerning the difference between
+            cultural-historical work, and more traditional emphases on literary excellence and the
+            humanistic approach to literature (particularly in the classroom). Insurgent movements
+            occasionally have arisen as the Group was felt to be behind the critical times. In 1968
+            younger members staged a protest at the annual meeting, agitating for a direct
+            denouncement of the Vietnam War and more explicit politics in general (particularly
+            regarding the college students whom the professors were serving). Meanwhile the Group
+            (which became a full-fledged MLA Section in 1966) has periodically had to fight for
+            particular kinds of recognition and privilege within its parent organization.</p>
+         <p>A full list of the Group's/Section's Chairs and Secretaries (later Executive
+            Coordinators) is appended to this inventory and may be used as a cross-reference with
+            the container lists to interpret the collection's coverage of various periods and
+            figures. A fuller listing of officers from 1921-1948 is provided in Kermit Vanderbilt's
+            book (cited below) on pages 545-548.</p>
+         <p>For more information on the American Literature Group/Section, see the following books,
+            parts of which were written using the American Literature Section Papers: <bibref>
+               <name>Kermit Vanderbilt, </name>
+               <title type="simple">American Literature and the Academy</title>
+               <imprint>
+                  <geogname>(Philadelphia: </geogname>
+                  <publisher>U. Penn. Press, </publisher>
+                  <date calendar="gregorian" era="ce">1986)</date>
+               </imprint>
+            </bibref>
+            <bibref>
+               <name>David R. Shumway, </name>
+               <title type="simple">Creating American Civilization: A Genealogy of American
+                  Literature as an Academic Discipline</title>
+               <imprint>
+                  <geogname>(Minneapolis: </geogname>
+                  <publisher>U. Minn. Press, </publisher>
+                  <date calendar="gregorian" era="ce">1994).</date>
+               </imprint>
+            </bibref>
+         </p>
+      </bioghist>
+      <scopecontent id="aspace_cd9bbca3d6627230c5df0065804d798f">
+         <head>Collection Overview</head>
+         <p>The Modern Language Association, American Literature Section <abbr>(ALS) </abbr>Papers
+            date from <unitdate normal="1921/1993" era="ce" calendar="gregorian" type="inclusive"
+               >1921 to 1993</unitdate>
+            <unitdate normal="1928/1993" era="ce" calendar="gregorian" type="inclusive">(bulk
+               1928-1993).</unitdate>Most of the Section's records consist of correspondence saved
+            by Secretaries or Chairs and mechanically-reproduced reports, minutes, and ballots.
+            These last materials are contained in folders designated "Reports" and dated by year.
+            Additionally, there are folders of material used to compile reports (such as
+            institutional polls and other "raw" information) generated by committees, concerning the
+               <title type="simple" render="italic">American Literature</title> journal and Section
+            organization, and copies of papers to be delivered at Section meetings. Correspondents
+            include Joseph Blotner, Edward Bradley, Edwin Cady, Paul Carter, Alexander Cowie,
+            Richard Beale Davis, Robert Falk, Benjamin Franklin Fisher, William M. Gibson, Allan
+            Halline, Harrison Hayford, Elaine Hedges, J. Herber, High Holman, Jay B. Hubbell,
+            Alexander Kern, Robert Edson Lee, J.A. Leo Lemay, Michael Millgate, William Mulder,
+            Russel B. Nye, R.H. Pearce, Henry Pochmann, Walter B. Rideout, Louis D. Rubin, Robert
+            Spiller, Willard Thorp, Arlin Turner, and James Woodress. Papers of the following
+            individuals (past officers of the ALS), which pertain to the American Literature Group,
+            are included in this collection: Joseph Blotner, John Gerber, Robert Edson Lee, Ernest
+            Marchand, William Mulder, Charles Nilon, Henry Pochmann, Lewis P. Simpson, Robert
+            Spiller, Willard Thorp, Arlin Turner, and Donald Yannella. Also, there are folders
+            pertaining to these publications: <title type="simple" render="italic">Reinterpretation
+               of American Literature,</title>
+            <title type="simple" render="italic">Eight American Authors,</title> and <title
+               type="simple" render="italic">American Literary Scholarship.</title>
+         </p>
+         <p>The folders are arranged chronologically based on the date of the earliest material
+            contained in them. A few exceptions have been made for folders where the material is
+            very unrepresentative of the whole. These folders are nonetheless dated by their entire
+            span. Researchers are advised to begin with the "Reports" folders within the period that
+            interests them, for they provide an overview of the year useful for making sense of
+            contemporary folders of manuscript material, and in some cases indicate activities that
+            have no documentation outside of these reports. Minutes from the December meetings
+            sometimes occur as a discrete document and sometimes as part of a report mailed to
+            Section members early in the following year. Since even these reports rarely contain
+            much information that dates from later than the meeting, they have been placed in the
+            "Reports" folders of the year of the meeting documented (i.e. reports dated early in one
+            year appear in the folder for the previous year).</p>
+         <p>The records of the Section are augmented by the individual papers of a number of Section
+            Chairs and Secretaries, also housed in the Hubbell Center.</p>
+         <p>Addition (00-041) (6 items, .1 lin. ft.; dated 1994-1999) includes annual reports for
+            the ALS, 1994-1998, and a mold used to cast the Jay B. Hubbell medals.</p>
+         <p>Addition (08-267) (300 items, .3 lin. ft.; dated 1974-1987) includes records for the
+            section’s Advisory Council over the period, as well as for the awarding of the 1986
+            Hubbell Medal.</p>
+      </scopecontent>
+      <arrangement id="aspace_096feea586d5dbe3bb4f8beb0ad98c96">
+         <head>Processing Note</head>
+         <p>Because the American Literature archive was created retrospectively out of a large
+            number of separate contributions, some of which overlapped with others and some of which
+            consisted of material separated by years or decades, it was decided that chronological
+            interfiling made the most sense. Files generated by a single person over a discrete
+            period were left intact and organized internally by date. If such files were donated
+            with pre-existing separations (material relating to a particular committee, for
+            example), those divisions were retained. To the extent that it was possible, each
+            discrete project, committee, or body of material relating to a particular event was
+            given its own folder, and thus title, to aid finding. If the producer of a portion of
+            material was named or deducible, that name appears as part of the folder title. A
+            significant part of the total material of the archive consisted of duplicate mailings,
+            minutes, and reports. All such material was extracted, and the best copy of each was
+            placed in that year's "Reports" folder.</p>
+      </arrangement>
+      <controlaccess>
+         <subject source="lcsh">Periodical editors</subject>
+         <subject source="lcsh">Women periodical editors</subject>
+         <geogname source="lcsh">United States -- Study and teaching</geogname>
+         <subject source="lcsh">American literature -- History and criticism</subject>
+         <corpname source="ingest">American Literature (Durham, N.C.)</corpname>
+         <corpname source="ingest">Modern Language Association of America. American Literature
+            Group</corpname>
+         <corpname source="ingest">Duke University Press</corpname>
+         <persname source="ingest">Pound, Louise, 1872-1958</persname>
+         <corpname source="ingest">Modern Language Association of America</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_e5e" level="series">
+            <did>
+               <unittitle>Modern Language Association of America, American Literature Section
+                  Papers, 1922-1999</unittitle>
+            </did>
+            <c02 id="aspace_ref13_2ng" level="file">
+               <did>
+                  <unittitle>
+                     <abbr>MLA </abbr> (Modern Language Association) programs, 1924-1969</unittitle>
+                  <physdesc id="aspace_0cad7378326c1639b868cd2997d195f0">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_79a0c2ff0247a923ee0ea7c0b47d186a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_p14" level="file">
+               <did>
+                  <unittitle>1927-1934</unittitle>
+                  <physdesc id="aspace_7827c9e9663ef1279885763c222c8768">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_928c30d911d7d417cdd2605825bf874a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_wfp" level="file">
+               <did>
+                  <unittitle>
+                     <abbr>ALG </abbr> (American Literature Group) survey of members,
+                     1925</unittitle>
+                  <container id="aspace_4be40bc9a101c9e2cfe8391bf6edf2d9" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_wjw" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">American Literature:</title> Journal,
+                     1928-1933</unittitle>
+                  <container id="aspace_b06231c4ccc8ca3c6607201af1062df7" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_be0" level="file">
+               <did>
+                  <unittitle>Articles of Organization, pre 1932-1947</unittitle>
+                  <container id="aspace_e794902324c190d0e2f71b8a0f142c09" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_0rj" level="file">
+               <did>
+                  <unittitle>Correspondence (Edward Bradley, Jay B. Hubbell, Robert Spiller),
+                     1928-1939</unittitle>
+                  <physdesc id="aspace_581ad4a557fd08d8b4aa70d29d398a98">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_572da4ddc0fa8947b11d9e54e1d24c51" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_mxt" level="file">
+               <did>
+                  <unittitle>List of masters essays on American Literature, 1925</unittitle>
+                  <container id="aspace_670a7cc4a43bb0664e842d68e0f95fd5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_ea3" level="file">
+               <did>
+                  <unittitle>Papers delivered at annual MLA convention, 1921-1941</unittitle>
+                  <container id="aspace_67491bc0d10e19745d403f50f1608dba" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_jvi" level="file">
+               <did>
+                  <unittitle>Recommendations for the Doctorate in American Literature,
+                     1926</unittitle>
+                  <container id="aspace_21f3ca9eeb23386d41f7db4129792da3" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_5om" level="file">
+               <did>
+                  <unittitle>Survey: Subdivision of the field of American Literature,
+                     1927</unittitle>
+                  <container id="aspace_9890c9eb7ece9f9f5f40602b5ca1f2bc" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_lme" level="file">
+               <did>
+                  <unittitle>1935-1942</unittitle>
+                  <physdesc id="aspace_ac392192cf218adaa24a98a3d3b6fdb5">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d1343e9041fcc8bcc35c3096bf5b371c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_y34" level="file">
+               <did>
+                  <unittitle>Annual meeting papers listed, 1937-1945</unittitle>
+                  <container id="aspace_3ca5cc17958efb25de35b0e13d2ff57d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_19x" level="file">
+               <did>
+                  <unittitle>Committee on a Cooperative Literary History, 1940</unittitle>
+                  <container id="aspace_3987b9b202688c084fc48c0462e63559" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_6bi" level="file">
+               <did>
+                  <unittitle>Committee on Materials of American Literary History,
+                     1941-1942</unittitle>
+                  <physdesc id="aspace_60c090e69d510b3afd724c3767161d26">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d8f12751b3aa8dc4d1f36eeccadba956" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_y29" level="file">
+               <did>
+                  <unittitle>Correspondence (Alexander Cowie, Jay B. Hubbell, Henry Pochmann),
+                     1939-1946</unittitle>
+                  <physdesc id="aspace_08bc986a144c18b7c5ba387c421a9703">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8576a1cf65742216d1b75435a741c475" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_jlf" level="file">
+               <did>
+                  <unittitle>Dissertations in American Literature (1930-1940),1940</unittitle>
+                  <container id="aspace_a4bc24b67a6e9e632c42472ee0c48cb2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_gcg" level="file">
+               <did>
+                  <unittitle>Organization of ALG, 1942-1945</unittitle>
+                  <container id="aspace_56244f15cd1e17279960ef6c41585e18" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_na6" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">The Present State of Scholarship in American
+                        Literary History,</title> report, 1942</unittitle>
+                  <container id="aspace_149ec9f3f91b38375c7537eebb40f079" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_i3k" level="file">
+               <did>
+                  <unittitle>1943-1948</unittitle>
+                  <physdesc id="aspace_a86f4d7123e545c30c91ba78e1da8e88">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_15ed3648cb097169019cefd575d45b4d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_u8s" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">American Literature:</title> Journal,
+                     1945-1963</unittitle>
+                  <container id="aspace_a5287b6460559289c1b671b68c0e2ac1" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_rt9" level="file">
+               <did>
+                  <unittitle>Correspondence in Re-Anthology of American Literature (Henry Pochmann
+                     Mss.), 1943-1944</unittitle>
+                  <container id="aspace_c492ddead6dc47adcaa0848e7a7c25ae" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_0ma" level="file">
+               <did>
+                  <unittitle>Correspondence (Allan Halline, Willard Thorp), 1946-1949</unittitle>
+                  <physdesc id="aspace_c63b5631de1c43540375136923764e4f">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_fc8f1e96dafff7c1aa0d50895677ca2c" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_46f" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Curricula in American Civilization</title> and
+                        <title render="doublequote">American Literature in the College
+                        Curriculum</title> (Willard Thorp Mss.), 1947-1951</unittitle>
+                  <container id="aspace_9965e96f899f8ce64dcfdebd4ea1dcd2" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_1d5" level="file">
+               <did>
+                  <unittitle>The Teaching of American Literature:</unittitle>
+               </did>
+               <c03 id="aspace_ref45_ovh" level="file">
+                  <did>
+                     <unittitle>Summary report, 1946</unittitle>
+                     <container id="aspace_5f49863a56cfeb85c97652c89dd9a922" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_na0" level="file">
+                  <did>
+                     <unittitle>Survey responses, 1946</unittitle>
+                     <physdesc id="aspace_d3e9538d79a6e54cb018a521691eec90">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_bfa37af254da47f7f3ece47a40b766c3" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref48_mbh" level="file">
+               <did>
+                  <unittitle>1949-1953</unittitle>
+                  <physdesc id="aspace_f04f464212ea3a08e55d8531637dfc7c">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9a47b7cabb2fc33e3d3d14589319245e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_910" level="file">
+               <did>
+                  <unittitle>Best 20 American Works Survey, ca. 1949</unittitle>
+                  <container id="aspace_29981bec6e7694dd6fe6d7010d0a4e47" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_6ci" level="file">
+               <did>
+                  <unittitle>Committee on Library Manuscript Holdings (Ernest Marchand Mss.),
+                     1951-1952</unittitle>
+                  <container id="aspace_18d6f8286752fe9b0d7b2a03dc09c3b0" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_tsp" level="file">
+               <did>
+                  <unittitle>Committee on Trends in Research in American Literature (Arlin Turner
+                     Mss.), 1951-1953</unittitle>
+                  <container id="aspace_9749fb5b219707c6617b4780a4de2861" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_brm" level="file">
+               <did>
+                  <unittitle>Correspondence (Jay B. Hubbell, Henry Pochmann, Robert Spiller, Arlin
+                     Turner), 1949-1957</unittitle>
+                  <physdesc id="aspace_df96040a301963b1a0ad7f46c9d75192">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7ab13aab53ba1f47c97e790a4e76307d" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_r0e" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Trends in Research in American Literature,
+                        1940-1950:</title> Report, 1951</unittitle>
+                  <container id="aspace_fee8847bb4a1d192341110df61e57960" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_vv7" level="file">
+               <did>
+                  <unittitle>1954-1959</unittitle>
+                  <physdesc id="aspace_350230a185a30183b8c2830f00841616">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f0cf921f8b09e562d618ffa081afdc5c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_02l" level="file">
+               <did>
+                  <unittitle>American Studies Association and Society for American Studies (Robert
+                     Spiller Mss.): Chronologies to 1954</unittitle>
+                  <container id="aspace_78804dd728e403f55e87af2896e44430" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_fb2" level="file">
+               <did>
+                  <unittitle>Committee on Library Manuscript Holdings (Ernest Marchand Mss.),
+                     1953-1961</unittitle>
+                  <physdesc id="aspace_c64b4a3532e73317cb3bb0c19a190a1e">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_1efbb7c84d09f9a4924f0765bcb76789" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_emq" level="file">
+               <did>
+                  <unittitle>Correspondence (Robert Falk, Alexander Kern), 1954-1960</unittitle>
+                  <physdesc id="aspace_a71d4036382755d9fe45c7932fdd318f">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b86b1800a71437bef4f26a9e725b45b3" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_djq" level="file">
+               <did>
+                  <unittitle>Nominating Committee (Richard Adams), 1956-1957</unittitle>
+                  <container id="aspace_86e0d30cdda63978a114c85e105a179c" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_cw8" level="file">
+               <did>
+                  <unittitle>1960-1965</unittitle>
+                  <physdesc id="aspace_166ba30b349aeafc9c0ddc7de71779a3">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b797b494ccd94c9e4cd0aefa9b82398e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_v1p" level="file">
+               <did>
+                  <unittitle>Change from "Group" to "Section" of MLA (Henry Pochmann Mss.),
+                     1962-1963</unittitle>
+                  <container id="aspace_b44c59e95e757300f19e22c9a739d74e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_ovd" level="file">
+               <did>
+                  <unittitle>Correspondence (Alexander Kern, Robert Spiller, James Woodress),
+                     1961-1965</unittitle>
+                  <physdesc id="aspace_530f0464278386fdf6637a5bd110836c">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_96646ac1317e783b927627a8dc50342a" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_l4z" level="file">
+               <did>
+                  <unittitle>Nominating Committee, 1962-1965</unittitle>
+                  <container id="aspace_d32a403ca998f4ee93e3fab7ea4ba519" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_vez" level="file">
+               <did>
+                  <unittitle>1966-1967</unittitle>
+                  <container id="aspace_0436feb47c4006fdf11762a8e25ea1a7" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_37p" level="file">
+               <did>
+                  <unittitle>Correspondence (Paul Carter, Arlin Turner, J. Herber, R.H. Pearce,
+                     Henry Pochmann, Robert Spiller, James Woodress), 1965-1981</unittitle>
+                  <physdesc id="aspace_5d825e76cb53c9713bb57b8bf1327d30">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a196086980ea723d9bdce44b3796a1a1" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_usk" level="file">
+               <did>
+                  <unittitle>Foerster Prize Committee (Henry Pochmann Mss.), 1966</unittitle>
+                  <container id="aspace_103479e244127c7fc36e51c4adae6d32" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_u9k" level="file">
+               <did>
+                  <unittitle>Papers delivered at the ALS meeting (Henry Pochmann Mss.),
+                     1966</unittitle>
+                  <container id="aspace_6ffb2908558cc22f91f1b7ad7bd86f74" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_ixz" level="file">
+               <did>
+                  <unittitle>Re: <title render="italic">Reinterpretation of American
+                        Literature</title> (1928): Correspondence and Essay (Robert Falk, Robert
+                     Spiller Mss.), 1928-1966</unittitle>
+                  <container id="aspace_99305984b208c72e122d1f65167b37da" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_abe" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Those Early Days</title> Essay (Robert Spiller
+                     Mss.), 1966</unittitle>
+                  <container id="aspace_96b922501de61445ea9d5b0081fbfb6d" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_6ym" level="file">
+               <did>
+                  <unittitle>1968-1969</unittitle>
+                  <physdesc id="aspace_1e218c0342030ddb91c70908b947052f">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f30047701e12bfb7fd5e849b20445009" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_d3o" level="file">
+               <did>
+                  <unittitle>American Literature Section:</unittitle>
+               </did>
+               <c03 id="aspace_ref80_5j5" level="file">
+                  <did>
+                     <unittitle>Archives Planning, 1968-1972</unittitle>
+                     <container id="aspace_69ac9e736a0129bb0b3abb93c9db01c2" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_d3t" level="file">
+                  <did>
+                     <unittitle>Group I: Early American, 1968-1969</unittitle>
+                     <container id="aspace_c7086ccdf1b852281ae4ed859819a062" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_stb" level="file">
+                  <did>
+                     <unittitle>Group II: 19th Century, 1968-1969</unittitle>
+                     <physdesc id="aspace_41bfd2da145790acbb52ed7bcb323c09">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_bedca9bf9dec862ace8213f9c4f06f1e" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref84_65x" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">American Literature:</title> Journal,
+                     1967-1969</unittitle>
+                  <container id="aspace_231e6a4bfb6a79ff32a76b66d56dbbe4" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_6ki" level="file">
+               <did>
+                  <unittitle>Correspondence (Paul Carter, Henry Pochmann), 1968</unittitle>
+                  <physdesc id="aspace_19e946c911987cbea834818bcc3e87e1">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b6736c19d5c7c8de2985b3b8adb7a910" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_b14" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Eight American Authors</title> Revision,
+                     1968-1970</unittitle>
+                  <container id="aspace_5b10dc8dc922e1a13730fef5af370e2d" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_x30" level="file">
+               <did>
+                  <unittitle>Foerster Prize Committee (John Gerber Mss.), 1969</unittitle>
+                  <container id="aspace_bf7faec4f85136cbdfb4b7bbf191bac9" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_f21" level="file">
+               <did>
+                  <unittitle>Manuscript Holdings Committee, 1968-1969</unittitle>
+                  <container id="aspace_58a8d4f00be6d014cbb1b5ad2084b93e" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_n25" level="file">
+               <did>
+                  <unittitle>Proposed seminar on "Afro-American Bibliography," 1969</unittitle>
+                  <container id="aspace_999446a5ba6375cd5911c1eba20cbc82" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_m4e" level="file">
+               <did>
+                  <unittitle>Re: Politics at 1968 MLA business meeting, 1969</unittitle>
+                  <container id="aspace_49de7a14e76979eca95b600410a41057" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_p6o" level="file">
+               <did>
+                  <unittitle>20th Century American Literature Seminar, 1968-1969</unittitle>
+                  <container id="aspace_7bf672f17b90cbfdb87d67fe0d92650e" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_lkf" level="file">
+               <did>
+                  <unittitle>1970</unittitle>
+                  <container id="aspace_c1a5553756b08f5739ea12cf4774ee3c" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_nl4" level="file">
+               <did>
+                  <unittitle>American Literature Section (ALS):</unittitle>
+               </did>
+               <c03 id="aspace_ref95_ffq" level="file">
+                  <did>
+                     <unittitle>Group I: Early American 1970-1972</unittitle>
+                     <container id="aspace_a3c750f5b7b5c6cbb4beb32fa7dfcff9" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_zv9" level="file">
+                  <did>
+                     <unittitle>Group II: 19th Century, 1970</unittitle>
+                     <container id="aspace_434dbe3dad88fb88b468e3ca9cc42bef" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref97_ke0" level="file">
+                  <did>
+                     <unittitle>Group III: Realism, 1970-1972</unittitle>
+                     <container id="aspace_6462c55676a2d51d4f5b6a9b2d4cea42" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref98_oro" level="file">
+                  <did>
+                     <unittitle>Group IV: 20th Century, 1970-1972</unittitle>
+                     <container id="aspace_2799a9447d5367c845df967f03ec9c3f" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref99_53a" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">American Literature abstracts,</title>
+                     1969-1970</unittitle>
+                  <container id="aspace_6480db60789659a2c41bcbf6ad906ceb" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_nv9" level="file">
+               <did>
+                  <unittitle>Correspondence, 1969-1972 (Paul Carter, Harrison Hayford, High Holman,
+                     Robert Edson Lee)</unittitle>
+                  <physdesc id="aspace_9f73d06dfae685a3930367a402ddd290">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d2cabc0617dde5df61f92543d095467e" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_w5h" level="file">
+               <did>
+                  <unittitle>Foerster Prize (to Nathalia Wright), 1970</unittitle>
+                  <container id="aspace_2bd8ac2eb6858e7705c029b765abef0a" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_ryq" level="file">
+               <did>
+                  <unittitle>Program Planning: Correspondence, 1970</unittitle>
+                  <container id="aspace_75a08127dceb3a4b6cb1f745a0fd9406" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_bfy" level="file">
+               <did>
+                  <unittitle>1971-1972</unittitle>
+                  <physdesc id="aspace_ad74e62fa02e5479562d4f8098b0b691">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d54831ae00256433692f719f9a41cdfb" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_8tp" level="file">
+               <did>
+                  <unittitle>Correspondence, 1971-1972 (Robert Edson Lee, Michael Millgate, William
+                     Mulder)</unittitle>
+                  <physdesc id="aspace_907f64b77dc84aecc419d80909c8119b">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_0c83e614f2bec65c6559c78be9a6bdeb" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_kby" level="file">
+               <did>
+                  <unittitle>Duke Press, 1970-1973</unittitle>
+                  <physdesc id="aspace_2aa07c746d964eb758766b071b058288">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e34e119399c7485ea7a2472fc37ac8a5" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_s3f" level="file">
+               <did>
+                  <unittitle>Financial Records:</unittitle>
+                  <container id="aspace_c6d18b8cbe4342687ac71f8148f5d5f9" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+               <c03 id="aspace_ref111_g6s" level="file">
+                  <did>
+                     <unittitle>1974-1976</unittitle>
+                     <physdesc id="aspace_b3d43fe965b4e3e5046c67b7589d09df">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_cb75b17acc08f5603d6765d7ea551b9b" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref113_tjo" level="file">
+                  <did>
+                     <unittitle>Accounts, 1972-1973</unittitle>
+                     <physdesc id="aspace_86d3be6d87e633c348c5034badd7f35a">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_9591ab8fe1ddc3a51435a8d8af9f4f34" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref115_jn9" level="file">
+               <did>
+                  <unittitle>Financial Records:</unittitle>
+               </did>
+               <c03 id="aspace_ref116_hjv" level="file">
+                  <did>
+                     <unittitle>Bank statements, 1974-1975</unittitle>
+                     <container id="aspace_9b23b4976b0afdcfd7a2dac1a5b86cc0" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref117_06o" level="file">
+                  <did>
+                     <unittitle>Security Bank and U. Colorado Accounts, 1970-1971</unittitle>
+                     <physdesc id="aspace_d059fe20137ea522590c224d9ae701be">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1ac16a0a49cdbea8d161694306adf9f7" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref119_awc" level="file">
+                  <did>
+                     <unittitle>University of Utah Computer Account</unittitle>
+                     <container id="aspace_8b5e0d8dc8b2154fef6ad4981aa88c9e" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref120_0al" level="file">
+               <did>
+                  <unittitle>1973-1974</unittitle>
+                  <physdesc id="aspace_880d5642fd5be39a3f7f9117f0c9ed77">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ed98c7be60165d2eb212e33f23c56770" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_iuu" level="file">
+               <did>
+                  <unittitle>Ballots and membership forms, 1974-1976</unittitle>
+                  <container id="aspace_0e84ff11161b420886e753ffabc99568" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_wt0" level="file">
+               <did>
+                  <unittitle>Correspondence:</unittitle>
+               </did>
+               <c03 id="aspace_ref124_7ap" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">American Literary Scholarship</title> (William Mulder
+                        Mss.), 1974-1975</unittitle>
+                     <container id="aspace_36cc83aec49a1ba94f67097bcaf99a83" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref125_32y" level="file">
+                  <did>
+                     <unittitle>(Robert Edson Lee Mss.), 1973</unittitle>
+                     <container id="aspace_11802bd9d4c5777cf2e65ed4c211cdeb" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_vtw" level="file">
+                  <did>
+                     <unittitle>With MLA, 1974</unittitle>
+                     <container id="aspace_7e6fb63fd1f66410a71a0a741642d46b" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref127_gip" level="file">
+                  <did>
+                     <unittitle>Membership, 1973-1975</unittitle>
+                     <container id="aspace_e70705605771c360b91f91de7937ba3c" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref128_58j" level="file">
+                  <did>
+                     <unittitle>With Richard Beale Davis (William Mulder Mss.),
+                        1974-1975</unittitle>
+                     <container id="aspace_f8159e330d58b13481ee80eb2cf3f2b1" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_2ck" level="file">
+                  <did>
+                     <unittitle>With Louis D. Rubin (William Mulder Mss.), 1974-1975</unittitle>
+                     <container id="aspace_fe55e5ad7083705195ade932ed000aad" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref130_1u8" level="file">
+               <did>
+                  <unittitle>Membership materials, 1973</unittitle>
+                  <container id="aspace_50b78cd0bf9f1dc250181486daa5f793" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_ett" level="file">
+               <did>
+                  <unittitle>NEH Bicentennial Grant, 1974</unittitle>
+                  <container id="aspace_c0ec49a33510eb35855f3ba86c0933b1" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_h2j" level="file">
+               <did>
+                  <unittitle>1975-1979</unittitle>
+                  <physdesc id="aspace_a98248c8dce1b498f806bc3bfb9de6fb">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_0dee7fbe5940cc3999e2846f6250d0c1" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_6ag" level="file">
+               <did>
+                  <unittitle>ALS/MLA relations, 1975</unittitle>
+                  <container id="aspace_d24777250888a208209a1b813142f040" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_a7o" level="file">
+               <did>
+                  <unittitle>Correspondence:</unittitle>
+               </did>
+               <c03 id="aspace_ref136_v7k" level="file">
+                  <did>
+                     <unittitle>Membership, 1976-1978</unittitle>
+                     <physdesc id="aspace_c56c27d5d9c2aaa70c53fff8b25cf7aa">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_277b36a47595fb596c2ba7908d91cbec" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref138_bx6" level="file">
+                  <did>
+                     <unittitle>(William Mulder Mss.), 1976-1979</unittitle>
+                     <container id="aspace_e0c248709ad5ad7c76b6679e43f58d6d" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref139_js7" level="file">
+                  <did>
+                     <unittitle>With William M. Gibson (William Mulder Mss.), 1978</unittitle>
+                     <container id="aspace_8795a3292147962934f8a78038290152" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref140_pfj" level="file">
+                  <did>
+                     <unittitle>With Russel B. Nye (William Mulder Mss.), 1975-1977</unittitle>
+                     <container id="aspace_794504ead8235e0caf3d9876d91a5458" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref141_hd7" level="file">
+                  <did>
+                     <unittitle>With Nathalia Wright (William Mulder Mss.), 1977</unittitle>
+                     <container id="aspace_79990cfb4561ee68c5e5dd8aeadc5ab0" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref142_soa" level="file">
+                  <did>
+                     <unittitle>(Charles Nilon Mss.), 1978-1979</unittitle>
+                     <container id="aspace_708649da8d8faa4fdaeb9d2351e0ea2f" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref143_jyn" level="file">
+                  <did>
+                     <unittitle>With Edwin Cady (Charles Nilon Mss.) 1979-1981</unittitle>
+                     <container id="aspace_40107abc1460e259c16018251342a9f1" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref144_zkf" level="file">
+               <did>
+                  <unittitle>Duke Press, 1974-1981</unittitle>
+                  <physdesc id="aspace_3b007ac65fbe3857f387b55676d84ff7">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_285c5888077073b2e6256f423a0c72b8" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_4lh" level="file">
+               <did>
+                  <unittitle>Nominating Committee (William Mulder Mss.), 1975-1976</unittitle>
+                  <container id="aspace_2d71e746a6d0d662aba76bea4582e360" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref147_o0u" level="file">
+               <did>
+                  <unittitle>Paper abstracts, 1977</unittitle>
+                  <container id="aspace_e0c09f927233886a219bc82d32117759" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref148_io2" level="file">
+               <did>
+                  <unittitle>Use of the ALS mailing list, 1976-1977</unittitle>
+                  <container id="aspace_fa8419b7d3e00bab7651e19ac98b5953" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref149_taj" level="file">
+               <did>
+                  <unittitle>1980-1985</unittitle>
+                  <physdesc id="aspace_8ac54631a6bd046b5ea028a7e18e45e4">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_34bf32ac25d280c516f387c72a2b4bf6" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref151_24q" level="file">
+               <did>
+                  <unittitle>ALS/MLA relations, 1981-1982</unittitle>
+                  <container id="aspace_90dfe1f6f3c26b43b172e37d9bda3735" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_iwh" level="file">
+               <did>
+                  <unittitle>Correspondence:</unittitle>
+               </did>
+               <c03 id="aspace_ref153_rl9" level="file">
+                  <did>
+                     <unittitle>1982</unittitle>
+                     <container id="aspace_edd3306a390499f7386a06466f20b73a" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref154_3yq" level="file">
+                  <did>
+                     <unittitle>Joseph Blotner, Mss.), 1981</unittitle>
+                     <container id="aspace_e230202d6f9c0dfdc0a0b5360f211922" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref155_2m6" level="file">
+                  <did>
+                     <unittitle>Charles Nilon Mss.), 1979-1981</unittitle>
+                     <container id="aspace_b60802a8b7c243f2dd5ccd56108b6707" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref156_l5m" level="file">
+                  <did>
+                     <unittitle>With Joseph Blotner (Charles Nilon, Mss.), 1981</unittitle>
+                     <container id="aspace_4ab19abacbeb8428cd15223682522964" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref157_bxa" level="file">
+                  <did>
+                     <unittitle>With Walter B. Rideout (Charles Nilon Mss.), 1980-1981</unittitle>
+                     <container id="aspace_ed7104e98b61cf1960fad64f96d9e37b" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref158_9j3" level="file">
+                  <did>
+                     <unittitle>(Lewis P. Simpson Mss.), 1983</unittitle>
+                     <container id="aspace_406bab7c7f189ccdce0008b2adfd2cbd" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref159_hjp" level="file">
+               <did>
+                  <unittitle>Duke Press (Donald Yannella Mss.), 1982</unittitle>
+                  <container id="aspace_b5a5b86ce91fde3a080836ca7b18adaa" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref160_olw" level="file">
+               <did>
+                  <unittitle>1986-1993</unittitle>
+                  <physdesc id="aspace_501c0a6a8934482ffb03982a8495bfd7">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8e17e9442cbeceb092b5806fb7231f87" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref162_b20" level="file">
+               <did>
+                  <unittitle>Correspondence (Benjamin Franklin Fisher, Elaine Hedges, J.A. Leo
+                     Lemay), 1986-1990</unittitle>
+                  <physdesc id="aspace_f43a82b5480a92c456c1d22fa17e3ab5">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4ca7bf1fa8d506fcf7e43e11223b5341" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref164_thk" level="file">
+               <did>
+                  <unittitle>Hubbell Award Committee records, 1966-1993</unittitle>
+                  <physdesc id="aspace_f06d2187c32caf0a5d97e7cd029c3d52">
+                     <extent>20 folders</extent>
+                  </physdesc>
+                  <container id="aspace_53fb9b421140a32d9101949b9bd495d6" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+               <accessrestrict id="aspace_6bd0bcee408d3e298cc135b2287d030f">
+                  <head>Conditions Governing Access note</head>
+                  <p>RESTRICTED: Box is restricted</p>
+               </accessrestrict>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref167_47p" level="series">
+            <did>
+               <unittitle>Addition (2000-0041), 1994-1999</unittitle>
+               <physdesc id="aspace_c064876490546ecb464c3c11df14a9f9">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_919cd8c059929e5d8443b628b0638cd5">
+               <head>Scope and Contents note</head>
+               <p>Addition (00-041) (6 items, .1 lin. ft.; dated 1994-1999) includes annual reports
+                  for the ALS, 1994-1998, and a mold used to cast the Jay B. Hubbell medals.</p>
+            </scopecontent>
+            <c02 id="aspace_ref169_ngd" level="file">
+               <did>
+                  <unittitle>Annual reports and mold for medals</unittitle>
+                  <container id="aspace_cfb7b89fe8925cdf3be5fd0df03b44b2" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref171_ayf" level="series">
+            <did>
+               <unittitle>Addition (2008-0267), 1974-1987</unittitle>
+               <physdesc id="aspace_b6af7803e3de090206b8c334af8433ab">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_7f936df66c143ef154d49237a644fd6f">
+               <head>Scope and Contents note</head>
+               <p>Addition (08-267) (300 items, .3 lin. ft.; dated 1974-1987) includes records for
+                  the section’s Advisory Council over the period, as well as for the awarding of the
+                  1986 Hubbell Medal.</p>
+            </scopecontent>
+            <c02 id="aspace_ref173_h70" level="file">
+               <did>
+                  <unittitle>Advisory Council and Hubbell Medal records</unittitle>
+                  <container id="aspace_c39dfa7de258e8e140a53aac606dbc19" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/malet/">malet</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Malet Family Papers, 1808-1937 <num>RL.00838</num></titleproper>
+        <author>Processed by: Melissa Delbridge, William Erwin, Allan Freyer, Akira Ishii, Elizabeth
+          Scott, Lisa Stark</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">000867991</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-06-10 17:11:28
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Malet Family papers</unittitle>
+      <origination label="Creator">
+        <famname source="ingest">Malet family</famname>
+      </origination>
+      <unitid>RL.00838</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">15 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1808/1937" type="inclusive">1808-1937</unitdate>
+      <physloc id="aspace_8bd5968d63bf3df9bd19bac6f2d35736">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <physdesc id="aspace_79dc2edd947af924dd11ec6dc274ff21"
+        label="General Physical Description note"><extent>7,000 Items</extent></physdesc>
+      <langmaterial id="aspace_8153aeb1d78fc69881bea8040ca01e6e">English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_2fd2d3f1dec8806eedaabaae5a26df33">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_380f71b95bfb290fa1f1a32857d76532">
+      <head>Use Restrictions</head>
+      <p>copyright interests in the papers of the Malet family have not been transferred to Duke
+        University. For further information, see the section on copyright in the Regulations and
+        Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <acqinfo id="aspace_6f82317df89b3b935fd50dcde83315e8">
+      <head>Provenance</head>
+      <p>The papers of the Malet family were acquired by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library of Duke University between 1970 and 1990.</p>
+    </acqinfo>
+    <processinfo id="aspace_5cc585cdd4bd4049cd5834abd21c8571">
+      <head>Processing Information</head>
+      <p>Processed by: Melissa Delbridge, William Erwin, Allan Freyer, Akira Ishii, Elizabeth Scott,
+        Lisa Stark</p>
+      <p>Completed September 24, 1996</p>
+      <p>Encoded by Stephen D. Miller</p>
+      <p>When Duke University acquired the Malet family papers, dates had been penciled on some of
+        the letters and documents. Researchers should be aware that some of these dates may not be
+        accurate. No attempt has been made in the processing of the collection to change or verify
+        them.</p>
+      <p>The name of Lady Marian Dora (Spalding) Malet is sometimes given as "Mary Anne" or
+        "Marianne." In processing, the name "Marian" is used after the form used in the OCLC Name
+        Authority File.</p>
+      <p>The papers of Alexander and Edward Malet were housed in acidic folders upon their arrival
+        at Duke University. The notes on these folders have been photocopied and can be found in the
+        Inventory Drawer in the Research Room, and may provide additional information about the
+        material in the Alexander and Edward Malet section of the Malet Family Papers.</p>
+    </processinfo>
+    <bioghist id="aspace_3ab18c08dbe86e3bfb0ae265469e4c5e">
+      <head>Succession of the Malet Baronetage</head>
+      <chronlist>
+        <head>Sir Charles Warre Malet, 1st Baronet</head>
+        <chronitem>
+          <date>1752, Dec. 30</date>
+          <eventgrp>
+            <event>Baptised</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1791, Feb. 24</date>
+          <eventgrp>
+            <event>Was created a baronet</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1799, Sept. 23</date>
+          <eventgrp>
+            <event>Married Susanna Wales</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1815, Dec. 15</date>
+          <eventgrp>
+            <event>Died and was succeeded by son Alexander Malet</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Sir Alexander Malet, 2nd Baronet</head>
+        <chronitem>
+          <date>1800, July 23</date>
+          <eventgrp>
+            <event>Born</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1834, Dec. 22</date>
+          <eventgrp>
+            <event>Married Marian Dora Spalding (d. 1891, Jan. 2)</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1886, Nov. 28</date>
+          <eventgrp>
+            <event>Died and was succeeded by son Henry Charles Eden Malet</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Sir Henry Charles Eden Malet, 3rd Baronet</head>
+        <chronitem>
+          <date>1835, Sept. 25</date>
+          <eventgrp>
+            <event>Born</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1873, Feb. 19</date>
+          <eventgrp>
+            <event>Married Laura Jane Hamilton (d. 1922, May 9)</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1904, Jan 12</date>
+          <eventgrp>
+            <event>Died and was succeeded by brother Edward Baldwin Malet</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Sir Edward Baldwin Malet, 4th Baronet</head>
+        <chronitem>
+          <date>1837, Oct. 10</date>
+          <eventgrp>
+            <event>Born</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1885, Mar. 19</date>
+          <eventgrp>
+            <event>Married Lady Ermyntrude Sackville Russell (d. 1927, Mar. 22)</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1908, June 29</date>
+          <eventgrp>
+            <event>Died and was succeeded by cousin Edward St. Lo Malet</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <bioghist id="aspace_98cad59e36b2baab4c38c09a6958c31b">
+      <head>Biographical Notes</head>
+      <chronlist>
+        <head>Sir Charles Warre Malet, 1st Baronet</head>
+        <chronitem>
+          <date>1753?</date>
+          <eventgrp>
+            <event>Born</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1785-1791</date>
+          <eventgrp>
+            <event>Resident minister at Poona, India</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1791</date>
+          <eventgrp>
+            <event>Was created a baronet for his services at Poona, India</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1791-1798</date>
+          <eventgrp>
+            <event>Acting Governor of Bombay</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1798</date>
+          <eventgrp>
+            <event>Retired and returned to England</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1815</date>
+          <eventgrp>
+            <event>Died</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Sir Alexander Malet, 2nd Baronet</head>
+        <chronitem>
+          <date>1800, June</date>
+          <eventgrp>
+            <event>Born at Hartham Park, Wiltshire</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1815</date>
+          <eventgrp>
+            <event>Succeeded to baronetcy</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1822</date>
+          <eventgrp>
+            <event>BA, Christ Church, Oxford</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1824</date>
+          <eventgrp>
+            <event>Entered diplomatic service as attaché at St. Petersburg</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1832-1834</date>
+          <eventgrp>
+            <event>Secretary of Legation at Lisbon under Lord Howden</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1834</date>
+          <eventgrp>
+            <event>Married Marian Dora Spalding</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1836-1843</date>
+          <eventgrp>
+            <event>Secretary of the Embassy at the Hague</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1849</date>
+          <eventgrp>
+            <event>Became Minister Plenipotentiary to the Germanic confederation at
+              Frankfurt</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1860</date>
+          <eventgrp>
+            <event>Author of <title type="simple" render="italic">The Conquest of
+              England</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1866</date>
+          <eventgrp>
+            <event>Retired</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1870</date>
+          <eventgrp>
+            <event>Author of <title type="simple" render="italic">The Overthrow of the German
+                Confederation by Prussia in 1866</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1886, Nov. 28</date>
+          <eventgrp>
+            <event>Died in London</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Marian Dora Spalding, Lady Malet</head>
+        <chronitem>
+          <date>Unknown</date>
+          <eventgrp>
+            <event>Born to Thomas Spalding and Mary Anne Eden</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1834, Dec. 22</date>
+          <eventgrp>
+            <event>Married Sir Alexander Malet</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1835</date>
+          <eventgrp>
+            <event>Gave birth to Sir Henry Charles Eden Malet, 3rd Baronet</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1836</date>
+          <eventgrp>
+            <event>Anonymously published <title type="simple" render="italic">Violet, or The
+                Danseuse: A Portraiture of Human Passions and Character,</title> a satirical
+              novel</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>ca. 1836</date>
+          <eventgrp>
+            <event>Became friends with Queen Sophia of Holland, with whom she corresponded until the
+              Queen's death in 1877</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1837, Oct. 10</date>
+          <eventgrp>
+            <event>Gave birth to Sir Edward Baldwin Malet, 4th Baronet</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1891, Jan. 2</date>
+          <eventgrp>
+            <event>Died</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Sir Henry Charles Eden Malet, 3rd Baronet</head>
+        <chronitem>
+          <date>1835</date>
+          <eventgrp>
+            <event>Born to Sir Alexander Malet and Marian Dora (Spalding) Malet</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1854</date>
+          <eventgrp>
+            <event>Commissioned in the Grenadier Guards</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1854-1856</date>
+          <eventgrp>
+            <event>Served in the Crimean War</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1862</date>
+          <eventgrp>
+            <event>Was promoted to Lieutenant Colonel</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1870</date>
+          <eventgrp>
+            <event>Retired</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1904</date>
+          <eventgrp>
+            <event>Died</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Sir Edward Malet</head>
+        <chronitem>
+          <date>1837, Oct. 10</date>
+          <eventgrp>
+            <event>Born to Marian and Alexander Malet</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1854</date>
+          <eventgrp>
+            <event>Appointed attaché at Frankfurt at age seventeen</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1860</date>
+          <eventgrp>
+            <event>Appointed to the British Legation at Parana in the Argentine</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1861</date>
+          <eventgrp>
+            <event>Transferred to Brazil</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1862</date>
+          <eventgrp>
+            <event>Changed positions with William Brodie, attaché at Washington, D.C.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1864</date>
+          <eventgrp>
+            <event>Returned to England as Head of Chancery</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1865</date>
+          <eventgrp>
+            <event>Transferred to Constantinople</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1867</date>
+          <eventgrp>
+            <event>Transferred to Paris</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1871</date>
+          <eventgrp>
+            <event>Promoted to Secretary of Legation at Peking</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1873</date>
+          <eventgrp>
+            <event>Accepted appointment as Secretary of the Athens Legation and transferred to
+              Greece</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1875</date>
+          <eventgrp>
+            <event>Accepted appointment as Secretary of the Rome Legation and moved to Italy</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1876</date>
+          <eventgrp>
+            <event>Promoted to Secretary of Embassy</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1878</date>
+          <eventgrp>
+            <event>Appointed to Constantinople</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1879</date>
+          <eventgrp>
+            <event>Appointed Agent and Consul General in Egypt and transferred to Alexandria</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1883</date>
+          <eventgrp>
+            <event>Promoted to Minister at Brussels and transferred to Belgium</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1884</date>
+          <eventgrp>
+            <event>Appointed to Berlin as ambassador</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1885</date>
+          <eventgrp>
+            <event>Married Ermyntrude Hastings</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1895</date>
+          <eventgrp>
+            <event>Retired and returned to England</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1901</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="italic">Shifting Scenes</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1908, June</date>
+          <eventgrp>
+            <event>Died at the Chorleywood home of his sister-in-law, Lady Ella Russell</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="aspace_14ac46d8547aeb85cc5cf38e9716b573">
+      <head>Collection Overview</head>
+      <p>The papers of the Malet family span the dates 1808-1937, with most of the papers being
+        dated between 1824 and 1908. The papers consist chiefly of correspondence among members of
+        the Malet family, particularly Sir Charles Warre Malet, Sir Alexander Malet and his wife
+        Lady Marian Dora Malet, Sir Henry Charles Eden Malet, and Sir Edward Baldwin Malet, and
+        their friends and diplomatic associates. Notable correspondents include Queen Sophia of the
+        Netherlands, Sidney Herbert, Lord Clarendon, Lord Napier, Lord Stuart de Rochesay, Lord
+        Brougham, Sir Rennell Rodd, Lord Lyons, Lord Granville and Lord Dufferin. The papers also
+        include printed material, writings, financial papers, clippings, photographs, Lady Marian
+        Dora Malet's diary (1831-1833), Sir Henry Charles Eden Malet's album of illustrations of his
+        service in the Crimean War, and miscellaneous papers. The collection is particularly rich in
+        material concerning 19th-century British diplomacy. The letters of Sir Alexander and Sir
+        Edward Malet thoroughly document British relations with Russia, Portugal, Holland, Austria,
+        Germany, the United States, France, Turkey, Greece, Italy, Belgium, China, and Egypt. The
+        letters and album of Sir Henry Charles Eden Malet in the Malet Family Correspondence Series
+        provide detailed information about the Crimean War, particularly the siege of
+        Sevastopol.</p>
+      <p>The Queen Sophia Series contains around 900 letters (1842-1877) from Queen Sophia of the
+        Netherlands to Lady Malet relating to political and diplomatic matters with references to
+        Emperor Napoleon III, Empress Eugénie, and Prince Napoleon, of France; King William II, King
+        William III, and Queen Anna, of the Netherlands; King William I and Queen Olga of
+        Württemberg; Francis Napier, Baron Napier; Edward Henry Stanley, Earl of Derby; George
+        William Frederick Villiers, Earl of Clarendon; Henry Richard Charles Wellesley, Earl Cowley;
+        and to other members of the royal families of England, France, the Netherlands, and
+        Württemberg.</p>
+      <p>In the Alexander and Edward Malet Correspondence Series, Sir Alexander Malet's letters to
+        his mother chronicle his duty in Russia (1824-1827), Portugal (1833-1835), Holland
+        (1836-1843), and Austria and Germany (1844-1845). Three letterbooks contain copies of
+        dispatches that he wrote to the Foreign Office while acting as envoy to the Germanic
+        Confederation at Frankfurt from 1852-1866. Bismarck, a friend of the family, was at
+        Frankfurt between 1851 and 1858, and conversations with him were reported in the
+        correspondence.</p>
+      <p>The letters of Sir Edward Malet in the Alexander and Edward Malet Correspondence Series
+        cover his entire diplomatic career. He was in Washington, D.C. during the American Civil
+        War, in Paris during the Franco-Prussian War and Commune, in Constantinople at the end of
+        the Russo-Turkish War, and in Egypt as agent and consul-general from 1879-1883. Peking
+        (1873), Athens (1874), Rome (1875-1876), Brussels (1884), and Berlin (1884-1895) were also
+        on his tour of duty. One volume contains copies of Malet's dispatches from Egypt from
+        1881-1883. Around 4,000 letters span his career, documenting political events of the
+        period.</p>
+      <p>The Malet Family Printed Material Series includes material concerning the marriage of
+        Princess Louise of Schleswig-Holstein in 1891 and for the visit on that occasion of the
+        Emperor and Empress of Germany. The Alexander and Edward Malet Writings Series includes Sir
+        Edward's <title type="simple" render="italic">Shifting Scenes</title> (1901) in both print
+        and manuscript format and proofs and manuscripts of Sir Alexander's <title type="simple"
+          render="italic">The Overthrow of the Germanic Federations by Prussia in 1866</title>
+        (1870)</p>
+    </scopecontent>
+    <controlaccess>
+      <geogname source="lcsh">Netherlands -- Kings and rulers</geogname>
+      <subject source="lcsh">Crimean War, 1853-1856</subject>
+      <subject source="lcsh">Diplomats -- Great Britain -- Correspondence</subject>
+      <geogname source="lcsh">England -- Kings and rulers</geogname>
+      <subject source="lcsh">Europe -- Politics and government -- 18th century</subject>
+      <geogname source="lcsh">France -- Kings and rulers</geogname>
+      <geogname source="lcsh">Germany -- Kings and rulers</geogname>
+      <geogname source="lcsh">India -- History -- British occupation, 1765-1947</geogname>
+      <geogname source="lcsh">Great Britain</geogname>
+      <geogname source="lcsh">Great Britain -- Politics and government -- 1837-1901</geogname>
+      <persname source="ingest">Malet, Alexander, Sir, 1800-1886</persname>
+      <persname source="ingest">Derby, Edward Henry Stanley, Earl of, 1826-1893</persname>
+      <persname source="ingest">Eden, Frances, dd 1801-1849</persname>
+      <corpname source="ingest">Army. Grenadier Guards</corpname>
+      <persname source="ingest">Malet, Mary Ann Dora Spalding -- Lady, d. 1891</persname>
+      <persname source="ingest">Sophie, Queen Consort of William III, King of the Netherlands,
+        1818-1877</persname>
+      <persname source="ingest">Malet, Edwin, Sir, 1837-1908</persname>
+      <persname source="ingest">Malet, Henry Charles Eden, Sir</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref20_hpn" level="series">
+        <did>
+          <unittitle>Malet Family Subgroup</unittitle>
+        </did>
+        <c02 id="aspace_ref21_2va" level="subseries">
+          <did>
+            <unittitle>Malet Family Correspondence Series,1808-and1908and undated</unittitle>
+          </did>
+          <scopecontent id="aspace_03a18d4768a11df3ee4008e8dcf32850">
+            <head>Scope and Contents note</head>
+            <p>Chiefly letters to members of the Malet family. Includes letters (1850-1867) from
+              Lord Edward Henry Stanley to Lady Marian Dora Malet concerning politics and
+              literature; letters from Frances Eden to Lady Malet concerning her life in India from
+              1835-1841; letters to Sir Charles Warre Malet, Indian administrator and diplomat; and
+              letters from Sir Henry Charles Eden Malet, 3rd Baronet, to his parents describing his
+              life as a young officer during the Crimean War. Other correspondents include Sidney
+              Herbert, Lord Clarendon, Lord Napier, Lord and Lady Palmerston, Sharif Pasha, and
+              Nubar Pasha. </p>
+            <p> Note: For more detailed description of the material in this series, see the cards in
+              the Main Entry drawer of the card catalog. The inventory file also contains a folder
+              of biographical and genealogical material regarding the Malet family.</p>
+          </scopecontent>
+          <c03 id="aspace_ref22_u9i" level="file">
+            <did>
+              <unittitle>1808-1859</unittitle>
+              <physdesc id="aspace_621b9afab843aed7b1293a037c44568c"
+                label="General Physical Description note"><extent>9 folders</extent></physdesc>
+              <container id="aspace_b236a27590ad14e82a8871a3f13a0b21" label="Mixed Materials"
+                type="box">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref24_h7u" level="file">
+            <did>
+              <unittitle>1860-1908and undated</unittitle>
+              <physdesc id="aspace_ea4aee5d21b797030380f5ac4f32496a"
+                label="General Physical Description note"><extent>4 folders</extent></physdesc>
+              <container id="aspace_045963010dd6bb99db3dd42809d421af" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref27_y4j" level="subseries">
+          <did>
+            <unittitle>Malet Family Printed Material Series, 1861-1867, 1891</unittitle>
+          </did>
+          <scopecontent id="aspace_debfbdb15fda9134ec9bb5751cd4cf4b">
+            <head>Scope and Contents note</head>
+            <p>Includes <title type="simple" render="italic">Sketch of the Life of the Duke of
+                Devonshire</title> (1861), printed political papers and programs, invitations, and
+              other items from the ceremonies for the marriage of Princess Louise in 1891and for the
+              visit on that occasion of the Emperor and Empress of Germany. Also includes a warrant
+              from Queen Victoria granting Sir Alexander Malet's diplomatic pension, Feb. 22, 1867
+              (oversize folder).</p>
+          </scopecontent>
+          <arrangement id="aspace_3b5e2433d91938ac28261b1991e702e6">
+            <head>Arrangement note</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c03 id="aspace_ref28_7vy" level="file">
+            <did>
+              <unittitle>1861-1864</unittitle>
+              <physdesc id="aspace_49b41d490f969bab895f862a870d39b5"
+                label="General Physical Description note"><extent>1 folder</extent></physdesc>
+              <container id="aspace_d382dacf05ed1e90b79a0b06ab8ec16a" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref30_xq3" level="file">
+            <did>
+              <unittitle>1891</unittitle>
+              <physdesc id="aspace_f3c9c8a9d1d6a7fd2c00c3f6779e9749"
+                label="General Physical Description note"><extent>1 folder</extent></physdesc>
+              <container id="aspace_d73b0c513795418b007478c58c288a33" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref34_2ig" level="subseries">
+          <did>
+            <unittitle>Malet Family Photographs Series, 1866-1883and undated</unittitle>
+          </did>
+          <scopecontent id="aspace_66f43e56ba7e105f72e8db83b33a50b2">
+            <head>Scope and Contents note</head>
+            <p>Card photographs of Sir Edward Malet, Lady Ermyntrude Malet, Ahmed Araby, and Izzet
+              Bey.</p>
+          </scopecontent>
+          <arrangement id="aspace_0b19b19eef86922c83c7f972bf5678e6">
+            <head>Arrangement note</head>
+            <p>Unarranged.</p>
+          </arrangement>
+          <c03 id="aspace_ref35_ki2" level="file">
+            <did>
+              <unittitle>1866-1883and undated</unittitle>
+              <physdesc id="aspace_3063006d16427a1c831fc1f4d03eaeca"
+                label="General Physical Description note"><extent>1 folder</extent></physdesc>
+              <container id="aspace_e35228e36ff1d9b6d4356b039da942ef" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref39_zfl" level="subseries">
+          <did>
+            <unittitle>Lady Marian Dora Malet Diary, 1831 Nov. 14-1833 Aug. 29and1857</unittitle>
+          </did>
+          <scopecontent id="aspace_d11c579d32ce2ea7f2bf750a3364c43a">
+            <head>Scope and Contents note</head>
+            <p>Photocopy of a typescript of a two-volume diary (1831 Nov. 14 - 1833 Aug. 29) of Lady
+              Malet written in the years before her marriage. Entries chiefly contain information
+              about her social activities and conversations with friends, many of whom were notable
+              political figures. Includes a sequel written by her in 1857 in which she reflects on
+              her earlier entries and her relationships with those mentioned in the diary. This
+              sequel concludes with an epilogue by her son, Sir Edward Malet. Some pages appear to
+              be missing from the typescript.</p>
+          </scopecontent>
+          <c03 id="aspace_ref40_f4k" level="file">
+            <did>
+              <unittitle>Diary, 1831-1833</unittitle>
+              <physdesc id="aspace_ee8fd02fc67372fabef5dbdf0e1420e7"
+                label="General Physical Description note"><extent>2 folders</extent></physdesc>
+              <container id="aspace_8fda8d5bae380f6cc6db8e655e5bbefc" label="Mixed Materials"
+                type="box">2</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref42_h13" level="file">
+            <did>
+              <unittitle>Diary sequel,1857</unittitle>
+              <physdesc id="aspace_122e2f4e843bf338aef057a53f5a3b66"
+                label="General Physical Description note"><extent>1 folder</extent></physdesc>
+              <container id="aspace_94f2c75f1d466e0dee9f010958d1d77f" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref45_65d" level="subseries">
+          <did>
+            <unittitle>Sir Henry Charles Eden Malet</unittitle>
+          </did>
+          <scopecontent id="aspace_b1624afa4399cdda7bccddec9374eb13">
+            <head>Scope and Contents note</head>
+            <p>Album of watercolors, drawings, and maps, most created by Sir Henry Charles Eden, 3rd
+              Baronet, during his service as a lieutenant in the Grenadier Guards during the Crimean
+              War. Most of the 44 sketches, battle plans, and watercolors illustrate the siege of
+              Sevastopol, the countryside, and army life. Views include Balaklava, the Inkerman
+              Valley, and the Mackenzie Heights. The album also contains views and maps of the
+              Redan, Mamelon, and Malakoff. Two watercolors of Cintra dated 1834 are not by Malet,
+              if the penciled dates are correct, as he was born in 1835.</p>
+          </scopecontent>
+          <c03 id="aspace_ref46_n73" level="file">
+            <did>
+              <unittitle>Album,1834, 1855-1856 (1 vol.)</unittitle>
+              <container id="aspace_22d0a9b961437b16e25fbed9aa3d7690" label="Mixed Materials"
+                type="box">28</container>
+            </did>
+            <scopecontent id="aspace_4ebbc88567c44a5be630c2fec59acc77">
+              <head>Scope and Contents</head>
+              <p>Album with sketches, maps, and watercolors by Sir Henry Malet showing scenes from
+                the Crimean War, largely dating from the 1850s. Includes images captioned Malakoff,
+                Redan, Cintra, Sebastopol, and Balaclava. Also includes two scenes of Moorish ruins
+                dating 1834.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref48_sqh" level="subseries">
+          <did>
+            <unittitle>Queen Sophia Series, 1842-1877and undated</unittitle>
+          </did>
+          <scopecontent id="aspace_4bf8d950c0f015418c381b3fe0096b38">
+            <head>Scope and Contents note</head>
+            <p>Letters, clippings, and pictures representing Lady Marian (sometimes spelled Mary
+              Anne and Marianne) Dora Malet's close friendship with Queen Sophia Frederica Mathilda
+              of the Netherlands. Most letters are from Queen Sophia, and include references to her
+              personal life with her husband King William III; her friendships with Lord Clarendon,
+              Lord Cowley, Lord Napier, and their wives. Other English friends mentioned were
+              Charles Villiers, Lady Ely, Lady Westmoreland, and Lady Russell. Letters document her
+              anglophilia and her antipathy towards the Russians. Correspondence includes analyses
+              of Napoleon III and his wife Empress Eugénie. Letters contain not only the Queen's
+              information and judgments about European affairs, but also her comments and opinions
+              about rulers, nobles, diplomats, politicians, and military men of England, France,
+              Germany, Austria, the Netherlands, and Russia. Letters are arranged chronologically.
+              Includes clippings regarding Queen Sophia's death in 1877 and a cabinet card
+              photograph of the Queen at the end of the series.</p>
+            <p>Note: Many of the letters in this series are undated. At some point, dates were
+              penciled on letters, but many appear to be inaccurate. For more detailed description
+              of the material in this series, see the cards in the Main Entry drawer of the card
+              catalog. The inventory file also contains a folder of biographical and genealogical
+              material regarding Queen Sophia. </p>
+          </scopecontent>
+          <c03 id="aspace_ref49_2rx" level="file">
+            <did>
+              <unittitle>Correspondence, 1842-1848</unittitle>
+              <physdesc id="aspace_851d09c88d8f0d312a4e6e19ee1bb266"
+                label="General Physical Description note"><extent>4 folders</extent></physdesc>
+              <container id="aspace_2c92fda9603de4ca8908334287eab983" label="Mixed Materials"
+                type="box">3</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref51_poc" level="file">
+            <did>
+              <unittitle>Correspondence, 1849-1863</unittitle>
+              <physdesc id="aspace_6e8048ba145b4300f8513fa942ce846f"
+                label="General Physical Description note"><extent>10 folders</extent></physdesc>
+              <container id="aspace_d9e351289cf51e0193f728c282e3775b" label="Mixed Materials"
+                type="box">4</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref53_shj" level="file">
+            <did>
+              <unittitle>Correspondence, 1864-1877and undated</unittitle>
+              <physdesc id="aspace_7c4f7269ee94b9cb7c212233a6216fb5"
+                label="General Physical Description note"><extent>9 folders</extent></physdesc>
+              <container id="aspace_8f6c6481ec6be38130913a87ccecf62d" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref55_c2c" level="file">
+            <did>
+              <unittitle>Clippings,1877</unittitle>
+              <physdesc id="aspace_c814a0268e29cb9a141d5431afedf6b4"
+                label="General Physical Description note"><extent>1 folder</extent></physdesc>
+              <container id="aspace_36f3fcd0f212fc16efac0fe4b3772dfd" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref57_21c" level="file">
+            <did>
+              <unittitle>Photograph,1877(1 item)</unittitle>
+              <container id="aspace_0457704f02d5be661bf2c23de69b3e5c" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref59_tf8" level="series">
+        <did>
+          <unittitle>Alexander and Edward Malet Subgroup</unittitle>
+        </did>
+        <c02 id="aspace_ref60_clr" level="subseries">
+          <did>
+            <unittitle>Correspondence Series, 1824-1908</unittitle>
+          </did>
+          <scopecontent id="aspace_21f0bd535445319db089b2d980286d63">
+            <head>Scope and Contents note</head>
+            <p>Correspondence among Sir Alexander Malet and Sir Edward Malet and their family
+              members, friends, and political associates. Many of Sir Alexander's letters concern
+              family matters, his accommodations and events at court at his various posts in Europe,
+              and his appointments and transfers. Some letters contain information about political
+              events in Russia, Portugal, Great Britain, and Afghanistan. Sir Edward's letters to
+              his parents (1854-1890) include comments on British politics as well as political
+              events and figures in other places where he traveled (Washington, D.C. during the
+              American Civil War; Paris in 1870; and Berlin in 1884). Also included is Sir Edward's
+              diplomatic correspondence. Correspondents include Lord Clarendon, Lord Stuart de
+              Rochesay, Lord Brougham, Lord Loftus, Lord Powlett, Sir J. R. Milbanke, Sir Rennell
+              Rodd, Lord Lyons, Lord Granville, the Duke of York (later King George V), Lord
+              Salisbury, Wilfred Scawen Blunt, Lord Dufferin, Esme Howard, and Lord Palmerston. One
+              letterbook (1855-1858) contains dispatches of Sir Alexander Malet from Frankfurt while
+              he served as British Minister to the Germanic Federation to Foreign Secretaries, Lords
+              Malmesbury, John Russell and Clarendon, while five others contain printed
+              correspondence from numerous diplomats regarding the political situation in Egypt
+              1882-1884 and 1904.</p>
+          </scopecontent>
+          <arrangement id="aspace_07ab6eb392a3ef66c6921c81438f3aa3">
+            <head>Arrangement note</head>
+            <p>Letters are arranged chronologically with letterbooks arranged chronologically at the
+              end of the series.</p>
+          </arrangement>
+          <c03 id="aspace_ref61_4on" level="file">
+            <did>
+              <unittitle>Correspondence, 1824-1836</unittitle>
+              <physdesc id="aspace_14282f364619981445620a33179c1113"
+                label="General Physical Description note"><extent>8 folders</extent></physdesc>
+              <container id="aspace_0f88995a19444f6200d1efd891c18819" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref63_h5h" level="file">
+            <did>
+              <unittitle>Correspondence, 1837-1854</unittitle>
+              <physdesc id="aspace_cef7edd9f28c4ea16b9f0aa097014859"
+                label="General Physical Description note"><extent>7 folders</extent></physdesc>
+              <container id="aspace_081d592feb09e88cadf63c7767d11344" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref65_f5i" level="file">
+            <did>
+              <unittitle>Correspondence, 1855-1866</unittitle>
+              <physdesc id="aspace_5bfbabe61dcacfcadbe36bebee494ab2"
+                label="General Physical Description note"><extent>9 folders</extent></physdesc>
+              <container id="aspace_d038923b6388ca49ea2079ece9464c4a" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref67_88u" level="file">
+            <did>
+              <unittitle>Correspondence, 1867-1871 Apr. 19</unittitle>
+              <physdesc id="aspace_9c30d29bfd5b97943736818d7d66529f"
+                label="General Physical Description note"><extent>6 folders</extent></physdesc>
+              <container id="aspace_556be5f6869c52677f805f61776043a3" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref69_mc2" level="file">
+            <did>
+              <unittitle>Correspondence, 1871 Apr.20-1871 Dec.and undated</unittitle>
+              <physdesc id="aspace_2bed4a363e7077d6b20abd47437e02bb"
+                label="General Physical Description note"><extent>5 folders</extent></physdesc>
+              <container id="aspace_49375bfb651845b63f699ae5a580ea9d" label="Mixed Materials"
+                type="box">10</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref71_b7u" level="file">
+            <did>
+              <unittitle>Correspondence, 1872 Jan.-1874</unittitle>
+              <physdesc id="aspace_b1cf441802315812420da04692ba327e"
+                label="General Physical Description note"><extent>5 folders</extent></physdesc>
+              <container id="aspace_430795c99e056ca170bc8b94cadbe15b" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref73_2nr" level="file">
+            <did>
+              <unittitle>Correspondence, 1875-1878</unittitle>
+              <physdesc id="aspace_77fe4f7439857d078b9cfd0cd76c404c"
+                label="General Physical Description note"><extent>6 folders</extent></physdesc>
+              <container id="aspace_71c7a747cd30306ebbfc0d74ce7eadf5" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref75_ppf" level="file">
+            <did>
+              <unittitle>Correspondence, 1879-1880 Apr.</unittitle>
+              <physdesc id="aspace_1bebe3a2bea90399f3fca1103b37a02f"
+                label="General Physical Description note"><extent>4 folders</extent></physdesc>
+              <container id="aspace_234ba8bec914b210b92faae254ce68d2" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref77_k09" level="file">
+            <did>
+              <unittitle>Correspondence, 1880 May-1882 July</unittitle>
+              <physdesc id="aspace_790828d47a997bb7e5fff51fbb2a57e6"
+                label="General Physical Description note"><extent>6 folders</extent></physdesc>
+              <container id="aspace_6df8fb552348a15c46d2610cd36b8546" label="Mixed Materials"
+                type="box">14</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref79_x6r" level="file">
+            <did>
+              <unittitle>Correspondence, 1882 Aug.-Dec.1883</unittitle>
+              <physdesc id="aspace_f456fcc179f1c36bdaad42a32b74ea9b"
+                label="General Physical Description note"><extent>5 folders</extent></physdesc>
+              <container id="aspace_d47bca5c02d894ddbfcd544bb9e9c64a" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref81_vcf" level="file">
+            <did>
+              <unittitle>Correspondence, 1884-1886</unittitle>
+              <physdesc id="aspace_8ed526581e67090b1dc8fa8539f2e92a"
+                label="General Physical Description note"><extent>6 folders</extent></physdesc>
+              <container id="aspace_ff6ce1bd3ec001dc4bbcc8db80864abd" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref83_rqf" level="file">
+            <did>
+              <unittitle>Correspondence, 1887-1891</unittitle>
+              <physdesc id="aspace_7acfda9f4b27d916736871e8da105c8d"
+                label="General Physical Description note"><extent>6 folders</extent></physdesc>
+              <container id="aspace_855e28d951ddbe0895a4dbd6c2dd6041" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref85_ev2" level="file">
+            <did>
+              <unittitle>Correspondence, 1892-1899</unittitle>
+              <physdesc id="aspace_a500a311a29cb592d143467cdb215ca9"
+                label="General Physical Description note"><extent>7 folders</extent></physdesc>
+              <container id="aspace_233d5bd6d91b0b931210b7800aa17c62" label="Mixed Materials"
+                type="box">18</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref87_bv8" level="file">
+            <did>
+              <unittitle>Correspondence, 1900-1908May and undated</unittitle>
+              <physdesc id="aspace_f06e1e4127727c529a27ad0e52118296"
+                label="General Physical Description note"><extent>5 folders</extent></physdesc>
+              <container id="aspace_463495e4a096277de8e665336715f4e0" label="Mixed Materials"
+                type="box">19</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref89_dkc" level="file">
+            <did>
+              <unittitle>Letterbooks of Sir Alexander Malet's Dispatches to the Foreign Office,
+                1852-1858(2 vols.)</unittitle>
+              <container id="aspace_6d83abc11eaa48077adbb60a287f9270" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref90_n7b" level="file">
+            <did>
+              <unittitle>Letterbooks of Sir Alexander Malet's Dispatches to the Foreign Office,
+                1859-1864(2 vols.)</unittitle>
+              <container id="aspace_29e7ffba0e7b9759c44b31deae7d7dea" label="Mixed Materials"
+                type="box">21</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref91_oe8" level="file">
+            <did>
+              <unittitle>Correspondence concerning Egypt, 1878-1884</unittitle>
+              <physdesc id="aspace_d3d57d2b8e1923cc8f38d197b62f2e7d"
+                label="General Physical Description note"><extent>1 folder</extent></physdesc>
+              <container id="aspace_2144542cdf34236921f31b750b90eb68" label="Mixed Materials"
+                type="box">22</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref93_j4i" level="file">
+            <did>
+              <unittitle><title render="italic">Despatch to Her Majesty's Agent and Consul-General
+                  at Cairo Respecting the Affairs of Egypt,</title> 1882</unittitle>
+              <physdesc id="aspace_cf98d2933874498547dd45d0c29cc264"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_8c2b7e049a2c93d51e7c2f7938b3c5b0" label="Mixed Materials"
+                type="box">22</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref95_uav" level="file">
+            <did>
+              <unittitle><title render="italic">Correspondence Respecting the Affairs of
+                  Egypt,</title> 1882</unittitle>
+              <physdesc id="aspace_14e744b27ab5e4bb177b40f109043a81"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_db2b575225241b05c09da0661dc1990e" label="Mixed Materials"
+                type="box">23</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref97_htg" level="file">
+            <did>
+              <unittitle><title render="italic">Further Correspondence Respecting the Affairs of
+                  Egypt,</title> 1883</unittitle>
+              <physdesc id="aspace_ac81986544e868cf017ae1bc9128678c"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_11bff45c7a874ffa3681a1d567e30694" label="Mixed Materials"
+                type="box">23</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref99_0gv" level="file">
+            <did>
+              <unittitle><title render="italic">Further Correspondence Respecting the Reorganization
+                  of Egypt,</title> 1884</unittitle>
+              <physdesc id="aspace_957c884ae254a84ca0c0b14e5ff00008"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_013df1e1f89067c79b8d3791fe893f62" label="Mixed Materials"
+                type="box">23</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref101_wzr" level="file">
+            <did>
+              <unittitle><title render="italic">Reports by His Majesty's Agent and Consul-General on
+                  the Finances, Administration, and Condition of Egypt and the Soudan in
+                  1904,</title> 1905</unittitle>
+              <physdesc id="aspace_5f3c00c297c0cba141648d5bf0503101"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_efda05086cc026dbd35b13382a2e363d" label="Mixed Materials"
+                type="box">23</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref105_ged" level="subseries">
+          <did>
+            <unittitle>Writings Series, 1863-1901and undated</unittitle>
+          </did>
+          <scopecontent id="aspace_a06e43b9502630ca780f1169907d5b39">
+            <head>Scope and Contents note</head>
+            <p>Writings include manuscripts and proofs of Sir Alexander Malet's book <title
+                type="simple" render="italic"> The Overthrow of the Germanic Confederation by
+                Prussia in 1866</title> (1870) and manuscripts and a copy of Sir Edward Malet's
+                <title type="simple" render="italic">Shifting Scenes</title> ( 1901). Fragments of
+              poetry, songs, and playbills written by the Malets are also contained within this
+              series, as well as a small illustrated manuscript pamphlet entitled <title
+                type="simple" render="italic"> The Countess and the Tomahawk.</title></p>
+          </scopecontent>
+          <arrangement id="aspace_812bac4de20cd9896aea7a51f009fe77">
+            <head>Arrangement note</head>
+            <p>Unarranged.</p>
+          </arrangement>
+          <c03 id="aspace_ref106_c3o" level="file">
+            <did>
+              <unittitle><title render="italic">The Overthrow of the Germanic Federations by Prussia
+                  in1866,</title> by Sir Alexander Malet,1870</unittitle>
+              <physdesc id="aspace_e826971638676ad519bf798a12b24a45"
+                label="General Physical Description note"><extent> 2 folders</extent></physdesc>
+              <container id="aspace_d51e85199ec75f1b78a21bd92f753814" label="Mixed Materials"
+                type="box">24</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref108_dih" level="file">
+            <did>
+              <unittitle><title render="italic">The Overthrow of the Germanic Federations by Prussia
+                  in 1866,</title> by Sir Alexander Malet,1870</unittitle>
+              <physdesc id="aspace_b19e8008c5be61a630056b9fa4d2fcb4"
+                label="General Physical Description note"><extent> 4 folders</extent></physdesc>
+              <container id="aspace_0c22c26cdda011f50385e09f6223b764" label="Mixed Materials"
+                type="box">24</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref110_pvs" level="file">
+            <did>
+              <unittitle><title render="italic">The Overthrow of the Germanic Federations by Prussia
+                  in 1866,</title> by Sir Alexander Malet,1870 (proof,</unittitle>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1
+                  folders</extent></physdesc>
+              <container id="aspace_d5d9f535fb17ba5e1869d329ff19970c" label="Mixed Materials"
+                type="box">25</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref112_3k8" level="file">
+            <did>
+              <unittitle>Miscellaneous Writings, 1863-1883and undated</unittitle>
+              <physdesc id="aspace_08bc83cb0c330e3d969cc14e17e3be6b"
+                label="General Physical Description note"><extent>1 folder</extent></physdesc>
+              <container id="aspace_9d230570aba1298fe23f87fdf36dcc1e" label="Mixed Materials"
+                type="box">25</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref114_q27" level="file">
+            <did>
+              <unittitle><title render="italic">Shifting Scenes,</title> by Sir Edward
+                Malet,1901</unittitle>
+              <physdesc id="aspace_ef79a92234183e6054d8fd4f8c4684e9"
+                label="General Physical Description note"><extent>manuscript, 2
+                folders</extent></physdesc>
+              <container id="aspace_ed71aef9a3039e2a668fd24dece326dc" label="Mixed Materials"
+                type="box">25</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref116_tkg" level="file">
+            <did>
+              <unittitle><title render="italic">Shifting Scenes, </title> by Sir Edward
+                Malet,1901</unittitle>
+              <physdesc id="aspace_b5745bbe68288dfd68a0d42ba93ada93"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_18383bc47197d9dd21a8cdb5a802f429" label="Mixed Materials"
+                type="box">26</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref120_vdy" level="subseries">
+          <did>
+            <unittitle>Printed Material Series, 1849-1907and undated</unittitle>
+          </did>
+          <scopecontent id="aspace_2fd6d1e595aab7378082a2fb9ec3aba6">
+            <head>Scope and Contents note</head>
+            <p>Volumes, printed reports, playbills, advertisements, menus, calling cards, membership
+              lists of organizations, and guest lists documenting the social and diplomatic
+              activities of Sir Alexander and Sir Edward Malet. Includes a program with seating
+              arrangements for the wedding of Princess Louise of Schleswig-Holstein, a 1905
+              biographical pamphlet on Sir Edward Malet, and 2 copies of a 1907 pamphlet entitled
+                <title type="simple" render="italic">The Episode of the Egyptian Rebellion of<date
+                  calendar="gregorian" era="ce"> 1882.</date>
+              </title></p>
+          </scopecontent>
+          <arrangement id="aspace_61300514e98bbd6829126a8caa2870e6">
+            <head>Arrangement note</head>
+            <p>Unarranged.</p>
+          </arrangement>
+          <c03 id="aspace_ref121_i8a" level="file">
+            <did>
+              <unittitle><title render="italic">The Secret History of the English Occupation of
+                  Egypt, </title> by Wilfred Scawen Blunt,1895</unittitle>
+              <physdesc id="aspace_63533648f5d332ed1c581141efa04cac"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_d8975c7451c85ff072e8d8460b531e3a" label="Mixed Materials"
+                type="box">26</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref123_gpa" level="file">
+            <did>
+              <unittitle>Printed Material, 1849-1907</unittitle>
+              <physdesc id="aspace_20dc2150d8dc630475c2b7dbfb0427aa"
+                label="General Physical Description note"><extent>3 folders</extent></physdesc>
+              <container id="aspace_42a9a9f8b632ec4ce7fa9ce2932f8842" label="Mixed Materials"
+                type="box">26</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref125_ckj" level="file">
+            <did>
+              <unittitle><title render="italic">Les notes sommaire et généale sur les charges
+                  relevées par l'accusation contre Ahmed Araby, 1882</title></unittitle>
+              <physdesc id="aspace_e8eee016ad3df2d61391db87fce0dec4"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_9d8b69dfe7a233602d594fd44872f0e5" label="Mixed Materials"
+                type="box">27</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref127_ftp" level="file">
+            <did>
+              <unittitle><title render="italic">Les actes et protocoles concernant le litage entre
+                  L'Allemagne, La France, et La Grande Bretagne d'une part et Le Japon d'autre
+                  part,</title> 1905</unittitle>
+              <physdesc id="aspace_164dbaa3c138910f9b737541eb232214"
+                label="General Physical Description note"><extent>1 vol.</extent></physdesc>
+              <container id="aspace_9f986b4bef37b29213bcdf4d2c6494cf" label="Mixed Materials"
+                type="box">27</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref131_ua5" level="subseries">
+          <did>
+            <unittitle>Financial Papers Series, 1824-1907</unittitle>
+          </did>
+          <scopecontent id="aspace_86a0cc504030eafe6d23181aec2e348b">
+            <head>Scope and Contents note</head>
+            <p>Receipts, hotel bills, ledger pages, inventories, household accounts, lists of
+              servants' wages, and accounts showing profits and costs of the publication of Sir
+              Edward Malet's <title type="simple" render="italic">Shifting Scenes.</title></p>
+          </scopecontent>
+          <arrangement id="aspace_5c9dba0194b595a4b9705d4fa5b2c84e">
+            <head>Arrangement note</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c03 id="aspace_ref132_258" level="file">
+            <did>
+              <unittitle>Financial papers, 1824-1907</unittitle>
+              <physdesc id="aspace_b10e8bb621aad77ef9aa62e2ea4fee95"
+                label="General Physical Description note"><extent>1 folder</extent></physdesc>
+              <container id="aspace_767881b5db815a4fa82d30c24fdedf88" label="Mixed Materials"
+                type="box">27</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref136_50n" level="subseries">
+          <did>
+            <unittitle>Clippings Series, 1871-1937</unittitle>
+          </did>
+          <scopecontent id="aspace_f263da0c1cbbefd7d0726132e1dfa512">
+            <head>Scope and Contents note</head>
+            <p>Clippings regarding Malet family members and their political associates and friends.
+              Includes a few German and Egyptian newspaper clippings.</p>
+          </scopecontent>
+          <arrangement id="aspace_903d684d02cc06d3610ba63c1f0cee05">
+            <head>Arrangement note</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c03 id="aspace_ref137_an1" level="file">
+            <did>
+              <unittitle>Clippings, 1871-1937and undated</unittitle>
+              <container id="aspace_b6e054568f68674432dfd9ad7683e681" label="Mixed Materials"
+                type="box">27</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref140_ne9" level="subseries">
+          <did>
+            <unittitle>Miscellaneous Papers Series, 1824-1895and n.d</unittitle>
+          </did>
+          <scopecontent id="aspace_f25db8de96d64a8ccf797b4dcd0abf52">
+            <head>Scope and Contents note</head>
+            <p>Includes drawings, guest list for parties, lists of friends and associates who paid
+              calls, a document granting power of attorney for Sir Alexander Malet to his mother
+              Dame Susanna Malet, and a small sketch of a house plan.</p>
+          </scopecontent>
+          <arrangement id="aspace_8e0d948e2760eee34d401f439316c624">
+            <head>Arrangement note</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c03 id="aspace_ref141_0yb" level="file">
+            <did>
+              <unittitle>Miscellaneous papers, 1824-1895and undated</unittitle>
+              <container id="aspace_a101e763b8963631c2f1ac257882b7f2" label="Mixed Materials"
+                type="box">27</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref144_zjd" level="series">
+        <did>
+          <unittitle>Oversize Material</unittitle>
+        </did>
+        <c02 id="aspace_ref146_40a" level="file">
+          <did>
+            <unittitle>Alexander and Edward Malet Subgroup: Printed Material Series</unittitle>
+            <container id="aspace_24fb2847a66d06d8a439e9701b8a804e" label="Mixed Materials"
+              type="oversize-folder">1</container>
+          </did>
+          <c03 id="aspace_ref147_mct" level="file">
+            <did>
+              <unittitle>Queen's Warrant granting Sir Alexander Malet a diplomatic pension,
+                1867</unittitle>
+              <container id="aspace_92f27c65f603655c4d3b8e08e56796ad" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref148_i50" level="file">
+            <did>
+              <unittitle><title render="italic">Journal officiel de la République française,</title>
+                1870 Oct. 18</unittitle>
+              <container id="aspace_32734d975e044e256037da2d12952f39" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref149_4y1" level="file">
+            <did>
+              <unittitle><title render="italic">Le Bosphore Egyptien,</title> 1883
+                Aug.31</unittitle>
+              <container id="aspace_85ed15cecebefcbee4c9f7413e33db44" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref150_bld" level="file">
+            <did>
+              <unittitle>Program and seating scheme for musical event,1885</unittitle>
+              <container id="aspace_19da0c299df4638231e14c323696a054" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref151_ia0" level="file">
+            <did>
+              <unittitle><title render="italic">The Pall Mall Gazette,</title> 1887 Feb.
+                8</unittitle>
+              <container id="aspace_49fa336a1685a571503de8463de6778a" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref152_94h" level="file">
+            <did>
+              <unittitle>Printed list of visitors to Windsor Castle, 1891 July 4-8</unittitle>
+              <container id="aspace_abf07b8fb860a98c43b5e40eb3861bb2" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref153_s0y" level="file">
+            <did>
+              <unittitle>Table arrangement chart for reception of German Emperor at Guildhall, 1891
+                July 10</unittitle>
+              <container id="aspace_02957c35b082ce6979625b40d301bc02" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref154_p0l" level="file">
+            <did>
+              <unittitle><title render="italic">Berliner Intelligenz Blatt,</title> 1894
+                June25</unittitle>
+              <container id="aspace_a21c2c077d6f184eba2add1e85905bca" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref155_k0b" level="file">
+            <did>
+              <unittitle>Unidentified seating chart, undated</unittitle>
+              <container id="aspace_97b1a795afff2e9a001c0bec2fbb9622" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref156_7od" level="subseries">
+          <did>
+            <unittitle>Alexander and Edward Malet Subgroup: Writings Series</unittitle>
+          </did>
+          <c03 id="aspace_ref157_xp1" level="file">
+            <did>
+              <unittitle>Prologue to theatrical event, by Sir Edward Malet, 1873</unittitle>
+              <container id="aspace_c46920a2e2b369f97a3a5c8d891da3bc" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref158_v4o" level="subseries">
+          <did>
+            <unittitle>Alexander and Edward Malet Subgroup: Financial Papers Series</unittitle>
+          </did>
+          <c03 id="aspace_ref159_ll9" level="file">
+            <did>
+              <unittitle>Bill and receipt from Hampton's for furnishings for the Berlin Embassy,
+                1887</unittitle>
+              <container id="aspace_f7e1afad049376c6be195effab217acc" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref160_iyk" level="subseries">
+          <did>
+            <unittitle>Alexander and Edward Malet Subgroup: Miscellaneous Papers Series</unittitle>
+          </did>
+          <c03 id="aspace_ref161_1zo" level="file">
+            <did>
+              <unittitle>Pen and ink drawing by Julian Story, 1876</unittitle>
+              <container id="aspace_6afb9b4a44c6684c2fab5957bbab37f0" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

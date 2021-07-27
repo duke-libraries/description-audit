@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-fiverokepeter/"
+         >trent-fiverokepeter</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Peter Fiveroke ledger, 1791-1792 <num>RL.10462</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001636228</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:11:47
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Peter Fiveroke ledger</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Fiveroke, Peter.</persname>
+         </origination>
+         <unitid>RL.10462</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 items</extent>
+         </physdesc>
+         <unitdate normal="1791/1792" type="inclusive">1791-1792</unitdate>
+         <physloc id="aspace_a1572240962c0df5bba349a53ae8b333">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_0df42a6d1e2d803426b2cb86e94b2e72">Ledger of sums owed to Fiveroke by
+            Christian Forny for various medical supplies and services. The account is witnessed and
+            signed by Jacob Young, a Justice of the Peace for Frederick County, November 20,
+            1793.</abstract>
+         <langmaterial id="aspace_0b4267bb96136ce64d39769c13d953db">Materials in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_619fd4d6378a4a99d9e215d05be2fcbe">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_27ce53a59d734223844fd6300b33cf8a">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_0a122567259a0741cd4d402874a2256c">
+         <head>Preferred Citation</head>
+         <p>Peter Fiveroke ledger, 1791-1792, David M. Rubenstein Rare Book &amp; Manuscript
+            Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_b948ca3d133db779f32e0a5e471d2a52">
+         <head>Provenance</head>
+         <p>Louis Ginsberg, purchase, 1969</p>
+      </acqinfo>
+      <processinfo id="aspace_e33181eb0bb6db25f01853ec19b52ea6">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <scopecontent id="aspace_511c453ea5628e880259e9fbb8525c46">
+         <head>Collection Overview</head>
+         <p>Ledger of sums owed to Fiveroke by Christian Forny for various medical supplies and
+            services. The account is witnessed and signed by Jacob Young, a Justice of the Peace for
+            Frederick County, November 20, 1793.</p>
+      </scopecontent>
+      <odd id="aspace_675591d7d8568d7717097b817ec04403">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+         <persname source="ingest">Fiveroke, Peter.</persname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

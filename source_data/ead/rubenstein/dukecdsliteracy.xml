@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/dukecdsliteracy/"
+         >dukecdsliteracy</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Preliminary Guide to the Literacy Through Photography Records, 1990-2009
+                  <num>RL.00329</num>
+            </titleproper>
+            <author>Processed by: Katie Hyde and Literacy Through Photography staff; Elizabeth
+               Arnold; machine-readable finding aid created by: Ann G. Langford, Elizabeth
+               Arnold</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003144961</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 15:55:16
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Literacy Through Photography records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">Duke University. Center for Documentary Studies. Community
+               Programs</corpname>
+         </origination>
+         <unitid>RL.00329</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4.8 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1990/2009" type="inclusive">1990-2009</unitdate>
+         <physloc id="aspace_432493f9d1addaf772fca0aa29fcbbb4">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_42e3114dab497b4a6e8c87583a759093">
+            <extent>2800 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_a362837af67637aa3c9ab952b718c3b2">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_f62df87183db841e6ccbecc8895eec4a">
+         <head>Access Restrictions</head>
+         <p>Collection is restricted. Images in projects without signed release forms may only be
+            viewed in the library and copied for purposes of study and research. They may not be
+            reproduced for commercial use or for exhibition without permission from LTP. All
+            requests for commercial use of images shall be referred to LTP.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. There may be a 48-hour delay in obtaining these materials.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_473803ad0f88b679b7b455297ac080b6">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_84c6261c878a063730678d9f83cbd253">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Duke University. Center for Documentary Studies. Literacy
+            Through Photography Records., David M. Rubenstein Rare Book &amp; Manuscript Library,
+            Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_91f755e32ce1f6de70c6b2af9c50ebeb">
+         <head>Provenance</head>
+         <p>The Duke University Center for Documentary Studies Literacy Through Photography Records
+            were received by the David M. Rubenstein Rare Book &amp; Manuscript Library as a
+            transfer in 2002 and 2011.</p>
+      </acqinfo>
+      <processinfo id="aspace_fa67172cde2ea2fb9441cea4f947494d">
+         <head>Processing Information</head>
+         <p>Processed by Katie Hyde and Literacy Through Photography staff; Elizabeth Arnold</p>
+         <p>Completed February 11, 2003</p>
+         <p>Updated by Meghan Lyon, October 2011</p>
+         <p>Encoded by Ann G. Langford, Elizabeth Arnold, Meghan Lyon</p>
+         <p>Materials may not have been ordered and described beyond their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_6e995e67aa532e5273f630e0117f8af6">
+         <head>Historical Note</head>
+         <p>The Literacy through Photography (LTP) program in the Durham Public Schools was started
+            in 1989 by photographer, teacher, and writer Wendy Ewald. The program encourages
+            students to find their voice through photographs and written text; students photograph
+            scenes from their lives and then learn to develop and print the film in the school
+            darkroom. These images become the catalyst for subsequent written investigation of self,
+            community, family, and dreams. LTP provides training to middle and elementary school
+            teachers, and partners university students and community volunteers with LTP
+            classrooms.</p>
+         <p>Since 1990, LTP has worked intensively in Durham with children of diverse ages and
+            backgrounds. The emphasis on children's lives and environments as the source of their
+            own creative expression, as well as the focus on the material procedures of photography,
+            has gained international attention. LTP has been invited to give workshops and train
+            teachers and arts organizations throughout the United States and internationally,
+            setting a standard for innovative arts education programs.</p>
+         <p>In 1994, LTP joined the Duke Center for Documentary Studies. From 1994-1999 the majority
+            of LTP materials produced in classrooms were either given back to the students or
+            remained in the classroom with the teacher. In 1999, LTP made plans to create an
+            archive, and began the process of collecting past work from LTP teachers. The task of
+            collecting and organizing this work, from 1994-1999, was undertaken by Julia Beck
+            Hoggson in the fall of 1999. The material was transferred to the Rubenstein Library in
+            2002.</p>
+         <p>The LTP project in Arusha, Tanzania, began in 2004 when Sister Cities of Durham brought
+            two Tanzanian teachers to the Center for Documentary Studies to attend an LTP workshop.
+            Building on these connections, LTP staff and Duke Engage students traveled to Arusha in
+            2008 and 2009 to offer workshops to hundreds of primary-school teachers, from all over
+            the district, and to co-teach lessons that involved more than 2,450 students. </p>
+      </bioghist>
+      <scopecontent id="aspace_db6cb68918bcab70a413fec3fd745164">
+         <head>Collection Overview</head>
+         <p>The Duke University Center for Documentary Studies Literacy Through Photography Records
+            comprise negatives, contact sheets, and written work (generally handwritten or printed
+            observations, comments, stories, poems, drawings) documenting school children’s views of
+            their community, Durham, NC. The materials would be useful to those interested in visual
+            culture, the psychogeography of children, and Durham history, society and living
+            environment, as well as those interested in pedagogy and developing an arts-based
+            curriculum in public schools. The units collected and organized in the Records are LTP
+            class projects, sorted first by format, then chronologically. </p>
+         <p>Along with the physical negatives, contact sheets, and writings transferred to the
+            Rubenstein Library in 2002, LTP coordinators provided detailed supplementary information
+            about the compilation, organization, and selection process of the collection, as well as
+            a finding aid in the form of an Excel database. The Excel file is a master database of
+            individual student projects organized by year, and sortable by other variables; the
+            database is accessible electronically at the Rubenstein Library. A print copy of the
+            database and other supporting documentation is also available in the RMBSCL inventory
+            file, and should be consulted by patrons using this collection.</p>
+         <p>The collection also includes 56 exhibit-quality color prints of LTP in Tanzania include
+            images of children learning to use digital cameras, demonstrating their literacy skills,
+            and exhibiting their projects. Also includes images of some volunteers, LTP staff, and
+            Tanzanian teachers.</p>
+      </scopecontent>
+      <controlaccess>
+         <genreform source="aat">Negatives (photographic)</genreform>
+         <subject source="lcsh">Public Schools -- North Carolina -- Durham County</subject>
+         <genreform source="aat">Contact sheets</genreform>
+         <subject source="lcsh">Children's writings, American -- North Carolina</subject>
+         <subject source="lcsh">Documentary Photography</subject>
+         <subject source="lcsh">School children -- Tanzania -- Pictorial works</subject>
+         <subject source="lcsh">School children -- North Carolina -- Durham County</subject>
+         <corpname source="ingest">Duke University. Center for Documentary Studies. Community
+            Programs</corpname>
+         <corpname source="ingest">Duke University. Center for Documentary Studies</corpname>
+         <corpname source="ingest">Durham Public Schools (Durham County, N.C.)</corpname>
+         <persname source="ingest">Ewald, Wendy</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref11_czs" level="series">
+            <did>
+               <unittitle>Accession 2002-0315</unittitle>
+            </did>
+            <processinfo id="aspace_691919112df441f9105e822d1b1d0d9d">
+               <head>Processing Information note</head>
+               <p>[Attention: Boxes 1-5 contain pictorial materials.]</p>
+            </processinfo>
+            <c02 id="aspace_ref12_iao" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Negatives</emph>
+                  </unittitle>
+               </did>
+               <c03 id="aspace_ref13_ym5" level="file">
+                  <did>
+                     <unittitle>1991-1999 Fall</unittitle>
+                     <container id="aspace_f20bac6e539b94a92d2a76837f88a2e4" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref14_71f" level="file">
+                  <did>
+                     <unittitle>1999 Fall-2000 Fall</unittitle>
+                     <container id="aspace_953a3113003d37683a35c8f2e2ff19e9" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref15_5pr" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Contact Sheets</emph>
+                  </unittitle>
+               </did>
+               <c03 id="aspace_ref16_szw" level="file">
+                  <did>
+                     <unittitle>1991-1994</unittitle>
+                     <container id="aspace_000b24253626bd9c49f09aa55da81183" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref17_ym6" level="file">
+                  <did>
+                     <unittitle>1995 Spring-1999 Fall</unittitle>
+                     <container id="aspace_265226a7935205a3d73e439eb69ea85c" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref18_53x" level="file">
+                  <did>
+                     <unittitle>1999 Fall-2000 Fall</unittitle>
+                     <container id="aspace_f031b4768ee2eb99596eb2a5a09c1366" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref19_2kr" level="file">
+                  <did>
+                     <unittitle>2000 Fall</unittitle>
+                     <container id="aspace_823d65bf8780838dffaadf1a8a5bbba6" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref20_tck" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Student Essays</emph>
+                  </unittitle>
+               </did>
+               <c03 id="aspace_ref21_r76" level="file">
+                  <did>
+                     <unittitle>1990-1999 Fall</unittitle>
+                     <container id="aspace_a1fa592b5ea9c426b92bb5dcab5b9bd3" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref22_vkc" level="file">
+                  <did>
+                     <unittitle>1999 Fall-2000 Fall</unittitle>
+                     <container id="aspace_3acfc826293389267efc2c22f1b5c62e" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref23_7kk" level="file">
+                  <did>
+                     <unittitle>1994-2000 Spring</unittitle>
+                     <container id="aspace_bb9e30cc874f24a8c7dffe4c17746c0c" label="Mixed Materials"
+                        type="box">Oversize 21</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref25_eie" level="series">
+            <did>
+               <unittitle>Accession 2011-0202, dated 2008-2009</unittitle>
+               <physdesc id="aspace_824df12654081a20d44f93d51de0c637">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_eea36c397250a536b9ea812c7643b511">
+               <head>Scope and Contents note</head>
+               <p>The LTP project in Arusha, Tanzania, began in 2004 when Sister Cities of Durham
+                  brought two Tanzanian teachers to the Center for Documentary Studies to attend an
+                  LTP workshop. Building on these connections, LTP staff traveled to Arusha in 2008
+                  and 2009 to offer workshops to hundreds of primary-school teachers, from all over
+                  the district, and to co-teach lessons that involved more than 2,450 students.
+                  These experiences culminated with a public exhibition of children's work.</p>
+               <p>The 56 prints in this series document the collaborative LTP process in Tanzania,
+                  including children's assignments; group work; instruction in photography, history,
+                  geography, life skills, math, and science; and exhibitions of the final projects
+                  created by the children in the program. Most prints are approximately 13x19 or
+                  12x16 digital color prints; there are also three 16x20 prints. Captions and
+                  identification numbers are included when known.</p>
+            </scopecontent>
+            <c02 id="aspace_ref27_w12" level="file">
+               <did>
+                  <unittitle>Unlabeled images (2 prints)</unittitle>
+                  <container id="aspace_907f24e23ad1116cb08478230dbcbd93" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_49q" level="file">
+               <did>
+                  <unittitle>Process Photograph #3</unittitle>
+                  <container id="aspace_07cf1bd22aaa7ac293a4a3a9dae7ae01" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_6df622fee632ef30fb7d0e5b9d743218">
+                  <head>Scope and Contents note</head>
+                  <p>Third-grade students at Arusha Primary School discuss their photography
+                     assignment with DukeEngage student Minette Yao before setting off to take
+                     pictures. 16" x 12" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref30_hpl" level="file">
+               <did>
+                  <unittitle>Process Photograph #13</unittitle>
+                  <container id="aspace_a5cf39dce272b531fdb0940fdb3cee35" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_b647ff9d531905b8952f703b36eda29e">
+                  <head>Scope and Contents note</head>
+                  <p>DukeEngage student Kaitlin Rogers ask seventh-grade students at Uhuru Primary
+                     School to write about their photographs as she hands out paper. 16" x 12"
+                     digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref32_ojm" level="file">
+               <did>
+                  <unittitle>Process Photograph #8</unittitle>
+                  <container id="aspace_9d55907547401134ba7ba6fe0377d968" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_jjd" level="file">
+               <did>
+                  <unittitle>Self-Expression Photograph #13</unittitle>
+                  <container id="aspace_4af0efdb3a495e8c6d7cc3a67c9a8fab" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_3978605ea01c5071115f106255a0291b">
+                  <head>Scope and Contents note</head>
+                  <p>Students at Swifts Primary School took cameras home to make portraits of their
+                     family life. 19" x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref35_kii" level="file">
+               <did>
+                  <unittitle>Math/Statistics Photograph #7</unittitle>
+                  <container id="aspace_96368586a6024509473c112b0854a170" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_aa5e3d12a607eba3a958400eb0d6c260">
+                  <head>Scope and Contents note</head>
+                  <p>In this statistics project, high school students at St. Joseph's Secondary
+                     School created a frequency graph representing the number of siblings per
+                     student. In their aerial photo, students represent the data points, and later,
+                     students labeled the axes and calculated the mean, median, mode, and range. 19"
+                     x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref37_nmj" level="file">
+               <did>
+                  <unittitle>Life Skills Photograph #6</unittitle>
+                  <container id="aspace_94533d5dc6c44dbb5a953f25a49ec056" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_5ac1fab3d7a3e92cf458e9330691ccf8">
+                  <head>Scope and Contents note</head>
+                  <p>During advanced LTP workshops, Tanzanian teachers design their own LTP
+                     curriculum specifying content (how the activity fits into the standard
+                     curricula) and logistics (how to accomplish the project considering class size
+                     and available photographic supplies). This photograph, representing "pain," was
+                     made by teachers to illustrate concepts related to gender in high school "life
+                     skills" courses, which also cover topics like HIV and home economics. 19" x 13"
+                     digital pigment print (1 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref39_kmy" level="file">
+               <did>
+                  <unittitle>Life Skills Photograph #5</unittitle>
+                  <container id="aspace_464d3bc34212cec7413863fe30073cda" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_j0p" level="file">
+               <did>
+                  <unittitle>Science Photograph #4</unittitle>
+                  <container id="aspace_7d5b40b068db9fdad7c86cb58f782947" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_7a807c9f2619f81bfae07ec2aac13777">
+                  <head>Scope and Contents note</head>
+                  <p>At St. Joseph's Secondary School, an all-girls' high school, students represent
+                     "hibernation" in a study of homeostasis. 17" x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref42_dgf" level="file">
+               <did>
+                  <unittitle>Science Photograph #1</unittitle>
+                  <container id="aspace_8ec82dba974b581d2b1d8372436cc371" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_e1b43dace2c12d0868f09d7dad0b2521">
+                  <head>Scope and Contents note</head>
+                  <p>Third-grade students at Arusha School photograph the ways they use one of their
+                     five senses: touch. 17" x 13" digital pigment print (1 of 3).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref44_uqd" level="file">
+               <did>
+                  <unittitle>Science Photograph #2</unittitle>
+                  <container id="aspace_3738aacd1b1fabb406c976f98de4eaa3" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_9fdc42e67481fff8581eef99f7f004ce">
+                  <head>Scope and Contents note</head>
+                  <p>Arusha teachers have used LTP as a method of reviewing science topics such as
+                     the circulatory, respiratory, endocrine, and skeletal systems. Students at
+                     Shalom Primary School represent "joints" and "inhale." 16" x 12" digital
+                     pigment prints (2 prints).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref46_yv7" level="file">
+               <did>
+                  <unittitle>Science Photograph #1</unittitle>
+                  <container id="aspace_bcdf6cef938b7da91966c261eb63d1e6" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_b8c66c15a10d19542635752920fcc886">
+                  <head>Scope and Contents note</head>
+                  <p>Third-grade students at Arusha School photograph the ways they use one of their
+                     five senses: hearing. 16" x 14" digital pigment print (2 of 3).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref48_whs" level="file">
+               <did>
+                  <unittitle>History Photograph #10</unittitle>
+                  <container id="aspace_e9075b405ce125feb0aec997ca4d6665" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_7va" level="file">
+               <did>
+                  <unittitle>History Photograph #16</unittitle>
+                  <container id="aspace_128c632d293d4d17b0f8baf6316657c2" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_8qv" level="file">
+               <did>
+                  <unittitle>Process Photograph #19</unittitle>
+                  <container id="aspace_b2423537407dbb44c9667f18d17cb388" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_1c75ba1643695f6f0e9c2c5bb3da80ab">
+                  <head>Scope and Contents note</head>
+                  <p>Each year the LTP-Arusha program culminates with a large exhibition on the
+                     outside walls of the Natural History Museum in Arusha. Hundreds of students and
+                     their teachers attend the exhibition opening to view the work they created
+                     during the eight-week program. 16" x 13" digital pigment prints (4 prints).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref52_vrl" level="file">
+               <did>
+                  <unittitle>Process Photograph #18</unittitle>
+                  <container id="aspace_355786efb0025e7cf377ab78115a9c81" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_28ff18ddca80ad970164d39bab747235">
+                  <head>Scope and Contents note</head>
+                  <p>Arusha teachers look on as their students write about their LTP photographs.
+                     19" x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref54_x0f" level="file">
+               <did>
+                  <unittitle>Process Photograph #17</unittitle>
+                  <container id="aspace_9e017ca6cedbace29e89f8a04bf73582" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_d51d876e96c26ded0d168fc42092522f">
+                  <head>Scope and Contents note</head>
+                  <p>Students at Shalom Primary School and Uhuru Primary School assemble their
+                     photographs and writing. 16" x 13" digital pigment print (1 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref56_d41" level="file">
+               <did>
+                  <unittitle>Process Photograph #16</unittitle>
+                  <container id="aspace_dd43e893d611c6e172ccb59890f7456c" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_9357f8ddc408b2e90d43b7ae6f5dfe74">
+                  <head>Scope and Contents note</head>
+                  <p>Teachers at Tetra Primary School and students at Shalom Primary School assemble
+                     their photographs and writing. 16" x 12" digital pigment print (1 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref58_n84" level="file">
+               <did>
+                  <unittitle>Process Photograph #15</unittitle>
+                  <container id="aspace_48a0e2f1bcdc86e7d192e6d65e19f3f1" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_24ce94f9079aeb52beb871652b035866">
+                  <head>Scope and Contents note</head>
+                  <p>Students at St. Margaret's Academy and St. Joseph's Secondary School share
+                     their photographs and writing with classmates. 16" x 12" digital pigment print
+                     (1 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref60_cax" level="file">
+               <did>
+                  <unittitle>Process Photograph #14</unittitle>
+                  <container id="aspace_518cbe40f2a81b2b485623aba3000b6e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_8a839d332403ffc1c5f75dc42fcd1888">
+                  <head>Scope and Contents note</head>
+                  <p>A seventh-grade student at Uhuru Primary School presents an image about her
+                     community. Following a recent national call for participatory education,
+                     Tanzanian students are encouraged to take a more active role in their classes.
+                     16" x 12" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref62_9bc" level="file">
+               <did>
+                  <unittitle>Process Photograph #13</unittitle>
+                  <container id="aspace_f8dbcbf0905cf0ea02edb363044cd157" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_e3ebf172bc40df5d71f044e0c845424a">
+                  <head>Scope and Contents note</head>
+                  <p>DukeEngage student Kaitlin Rogers ask seventh-grade students at Uhuru Primary
+                     School to write about their photographs as she hands out paper. 16" x 12"
+                     digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref64_ubl" level="file">
+               <did>
+                  <unittitle>Process Photograph #12</unittitle>
+                  <container id="aspace_a78109ca901fbeabd9df7315ef3a423c" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_0a41cc472619040514a258e0eb449e05">
+                  <head>Scope and Contents note</head>
+                  <p>Arusha School students work together to make a creative picture about the
+                     skeletal system. 16" x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref66_jj6" level="file">
+               <did>
+                  <unittitle>Process Photograph #9</unittitle>
+                  <container id="aspace_65a04a0ceec865d23b5aa9ac81a4cff8" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_7b274e374c8a7086d912a5e2bd8fb3ab">
+                  <head>Scope and Contents note</head>
+                  <p>DukeEngage students Ami Kabadi (left) and Alia Kamal (right) label a display of
+                     photographs taken during a teacher workshop. The poster will be hung in a
+                     classroom where few visual aids are usually available. 16" x 12" digital
+                     pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref68_gxt" level="file">
+               <did>
+                  <unittitle>Process Photograph #2</unittitle>
+                  <container id="aspace_a16ad9e3083a2ac20bc5ee508d1dc5f9" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_0a0f67bc9153a5716316961ac230834a">
+                  <head>Scope and Contents note</head>
+                  <p>During LTP workshops DukeEngage students Alia Kamal and Baldeep Pabla train
+                     teachers how to use digital cameras and printers. 16" x 12" digital pigment
+                     print (2 prints).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref70_r6m" level="file">
+               <did>
+                  <unittitle>Process Photograph #1</unittitle>
+                  <container id="aspace_ab567d3f57086b35520af2dff6386193" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_745ab7c36274df0cd423b6a88ce3d906">
+                  <head>Scope and Contents note</head>
+                  <p>Members of an LTP teacher advisory committee in Arusha consult Tanzania's
+                     national syllabus as they design LTP activities that build upon the required
+                     curricula. Here they've created a poster depicting a Swahili proverb for use in
+                     language or literature classes. 17" x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref72_t20" level="file">
+               <did>
+                  <unittitle>Geography Photograph #11</unittitle>
+                  <container id="aspace_f46a40ca1390dc058c215aa3375ae27b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_8270e57bd8af4e94724bfbfc006739cf">
+                  <head>Scope and Contents note</head>
+                  <p>In a study of southern Africa, sixth-grade students at Themi Primary School
+                     were assigned individual countries and then asked to research their geographic
+                     features. Students also mapped the countries' latitudinal and longitudinal
+                     lines. 17" x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref74_6wo" level="file">
+               <did>
+                  <unittitle>Science Photograph #1</unittitle>
+                  <container id="aspace_6c18187bdf8d28936c7e9f6b4ceabb5d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_d8c96033eeb1ab78490da4a815ae3804">
+                  <head>Scope and Contents note</head>
+                  <p>Third-grade students at Arusha School photograph the ways they use one of their
+                     five senses: smell. 17" x 13" digital pigment print (3 of 3).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref76_yso" level="file">
+               <did>
+                  <unittitle>Language Photograph #19</unittitle>
+                  <container id="aspace_1211530d9fb3e655b4ae518c32874ee7" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_644986b25b85ffda04ce0af617c92558">
+                  <head>Scope and Contents note</head>
+                  <p>The English and Swahili alphabets are utilized as an organizational framework
+                     for photography projects on particular themes, such as the school community,
+                     everyday words, and science topics. The words depicted here are: "J: Jumping,"
+                     "C: Chana nydwe (Comb)," and "G: Goat." 16" x 12" digital pigment prints (3
+                     prints).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref78_wsy" level="file">
+               <did>
+                  <unittitle>History Photograph #8</unittitle>
+                  <container id="aspace_35b4992e041f5eabe6b65853d284c7a6" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_06843431ea9fe2b0c727c1ded0ef5078">
+                  <head>Scope and Contents note</head>
+                  <p>This project at Themi Secondary School began with a history lesson about how
+                     East Africans were enslaved through the sale of prisoners and people with debt,
+                     ambush, and direct raid on vulnerable villages. Following this lecture,
+                     students moved freely around the schoolyard as they considered the best
+                     backgrounds and angles for pictures representing these enslavement tactics.
+                     Once they made their photographs, students wrote about the images from either
+                     the perspective of an enslaved person or that of a slave trader. 17" x 13"
+                     digital pigment prints (3 prints).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref80_99m" level="file">
+               <did>
+                  <unittitle>History Photograph #9</unittitle>
+                  <container id="aspace_80be51d16b0db1fe2dc9b4064f346d1d" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_b69f45708f46bd0bc37307c60a071800">
+                  <head>Scope and Contents note</head>
+                  <p>In another history class at Themi Secondary School, students showed how the
+                     colonial health and education systems perpetuated inequalities and the
+                     exploitation of East Africans. In this set of photographs, the images depict
+                     "white education" and "black education" during colonial times. 17" x 13"
+                     digital pigment print (1 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref82_8dn" level="file">
+               <did>
+                  <unittitle>Self-Expression Photograph #15</unittitle>
+                  <container id="aspace_83ec239f0070c506e74e5708cb5b28e5" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_b7425baefdc95b4bfae1ed89bea552b1">
+                  <head>Scope and Contents note</head>
+                  <p>In this "Best Part of Me" LTP activity, students at Shalom Primary School made
+                     self-portraits highlighting their favorite physical features. 19" x 13" digital
+                     pigment print (1 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref84_e59" level="file">
+               <did>
+                  <unittitle>Self-Expression Photograph #14</unittitle>
+                  <container id="aspace_fd67800c1fc9dc684bbdbf26e83f5af2" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_a77ae957d723d5d437e3820ab2b8b4f4">
+                  <head>Scope and Contents note</head>
+                  <p>Third-grade students at Tetra Primary School were asked to imagine taking a
+                     trip anywhere in the world. These students portrayed an imagined trip to the
+                     United States to meet President Obama. 17" x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref86_3vm" level="file">
+               <did>
+                  <unittitle>Language Photograph #17</unittitle>
+                  <container id="aspace_e73c9e95e0067ea3a69613dd3f9dd061" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_93797a96021f3f1040c81bcb6117962f">
+                  <head>Scope and Contents note</head>
+                  <p>Tanzanian teachers have integrated LTP into language classes by asking students
+                     to make photographs to help them learn English vocabulary and grammar, as well
+                     as to inspire creative writing. In large classrooms of up to a hundred
+                     students, LTP assignments yield sets of useful flash cards, including common
+                     English verbs such as "to read," verb conjugations and the use of different
+                     verb tenses. 19" x 13" digital pigment print (1 of 3).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref88_imf" level="file">
+               <did>
+                  <unittitle>Self-Expression Photograph #15</unittitle>
+                  <container id="aspace_bfe962fde13d5c02e485b9ad41d507af" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_764eb9916e1c06d32e2884c9a064cd8b">
+                  <head>Scope and Contents note</head>
+                  <p>In this "Best Part of Me" LTP activity, students at Shalom Primary School made
+                     self-portraits highlighting their favorite physical features. 19" x 13" digital
+                     pigment print (2 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref90_a9v" level="file">
+               <did>
+                  <unittitle>Language Photograph #17</unittitle>
+                  <container id="aspace_150ccf3fa2b34bca6111a45273888a42" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_e07164ae65e245911b0ae2ef72cc205f">
+                  <head>Scope and Contents note</head>
+                  <p>Tanzanian teachers have integrated LTP into language classes by asking students
+                     to make photographs to help them learn English vocabulary and grammar, as well
+                     as to inspire creative writing. In large classrooms of up to a hundred
+                     students, LTP assignments yield sets of useful flash cards, including common
+                     English verbs such as "to love," and "to smile," verb conjugations and the use
+                     of different verb tenses. 19" x 13" digital pigment prints (2-3 of 3).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref92_ibj" level="file">
+               <did>
+                  <unittitle>History Photograph #9</unittitle>
+                  <container id="aspace_e34d0a7f67e0743c973da54b2b8ee0a4" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_7f4738a4726b2d5ae61a0bd0fbc4b831">
+                  <head>Scope and Contents note</head>
+                  <p>In another history class at Themi Secondary School, students showed how the
+                     colonial health and education systems perpetuated inequalities and the
+                     exploitation of East Africans. In this set of photographs, the images depict
+                     "white education" and "black education" during colonial times. 19" x 13"
+                     digital pigment print (2 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref94_43m" level="file">
+               <did>
+                  <unittitle>Process Photograph #17</unittitle>
+                  <container id="aspace_839ab405bc994750676fd824603da3c6" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_5b20c8be71c2d207dc294da8675c34ce">
+                  <head>Scope and Contents note</head>
+                  <p>Students at Shalom Primary School and Uhuru Primary School assemble their
+                     photographs and writing. 16" x 13" digital pigment print (2 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref96_pqj" level="file">
+               <did>
+                  <unittitle>Process Photograph #18</unittitle>
+                  <container id="aspace_0cf5ea0dfc18727e7545c3a2c16c7355" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_6b5e09f23681f0fdef128692aff7daac">
+                  <head>Scope and Contents note</head>
+                  <p>Arusha teachers look on as their students write about their LTP photographs.
+                     16" x 12" digital pigment print (2 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref98_l4l" level="file">
+               <did>
+                  <unittitle>Process Photograph #16</unittitle>
+                  <container id="aspace_498242604e0267e4909da4dec198fd9b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_6d60188b7d4f82490858ed90b0dfed62">
+                  <head>Scope and Contents note</head>
+                  <p>Teachers at Tetra Primary School and students at Shalom Primary School assemble
+                     their photographs and writing. 16" x 12" digital pigment print (2 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref100_9b4" level="file">
+               <did>
+                  <unittitle>Process Photograph #15</unittitle>
+                  <container id="aspace_a9bb4d584f81e9723ab2fb2b0bba8baa" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_9fb4da517d7ef44bf7567adae36a800b">
+                  <head>Scope and Contents note</head>
+                  <p>Students at St. Margaret's Academy and St. Joseph's Secondary School share
+                     their photographs and writing with classmates. 19" x 13" digital pigment print
+                     (2 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref102_7td" level="file">
+               <did>
+                  <unittitle>Process Photograph #11</unittitle>
+                  <container id="aspace_164b2426408f6a7184526b4529c13d07" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_4b046f509e588aea27bda8f7baa30c3b">
+                  <head>Scope and Contents note</head>
+                  <p>Working with classmates on a geography class LTP project, a sixth-grade student
+                     at St. Margaret's Academy directs the scene he intends to photograph. 19" x 13"
+                     digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref104_73u" level="file">
+               <did>
+                  <unittitle>Process Photograph #10</unittitle>
+                  <container id="aspace_d15bd588ca9740fefe8cbe93a26b8c9e" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_9c0bcb227df70e148a9cea7406e1142f">
+                  <head>Scope and Contents note</head>
+                  <p>LTP Assignments often begin with a lively brainstorming discussion among
+                     students. In contrast to the traditional approach where teachers dictate
+                     lessons, these students at St. Margaret's Academy generated their own ideas
+                     related to an assigned theme. Their brainstorming list will then guide their
+                     photographic choices. 19" x 13" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref106_xhp" level="file">
+               <did>
+                  <unittitle>Life Skills Photograph #6</unittitle>
+                  <container id="aspace_838e36b1d4b117985a93bba6a0371949" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_1cd1854695dd37bcbcc727c0e20b37dc">
+                  <head>Scope and Contents note</head>
+                  <p>During advanced LTP workshops, Tanzanian teachers design their own LTP
+                     curriculum specifying content (how the activity fits into the standard
+                     curricula) and logistics (how to accomplish the project considering class size
+                     and available photographic supplies). This photograph, representing "quiet,"
+                     was made by teachers to illustrate concepts related to gender in high school
+                     "life skills" courses, which also cover topics like HIV and home economics. 19"
+                     x 13" digital pigment print (2 of 2).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref108_yjn" level="file">
+               <did>
+                  <unittitle>Process Photograph #5</unittitle>
+                  <container id="aspace_77e32187dbb45133cd261157f925a966" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_c35bb0bc4a9fb65097b853a3336e86a5">
+                  <head>Scope and Contents note</head>
+                  <p>DukeEngage student Baldeep Pabla shows students from Arusha Primary School how
+                     to review their pictures on a digital camera. 21.5" x 16" digital pigment
+                     print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref110_hgz" level="file">
+               <did>
+                  <unittitle>Process Photograph #6</unittitle>
+                  <container id="aspace_f98e406f384cff47469fa565010b944b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_f924089e22f77f7eab81f7bfea420099">
+                  <head>Scope and Contents note</head>
+                  <p>A student from Arusha Primary School enjoys showing DukeEngage student Hilary
+                     Robbins the digital image she has just taken. 21.5" x 16" digital pigment
+                     print.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref112_hld" level="file">
+               <did>
+                  <unittitle>Process Photograph #10</unittitle>
+                  <container id="aspace_5b5b7dd3c279dfe8f7e0b61945eb0dc9" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+               <scopecontent id="aspace_8257a55b74cd0e6413fa290ce9be499f">
+                  <head>Scope and Contents note</head>
+                  <p>Students at Arusha School respond as DukeEngage students present an LTP
+                     assignment. 21.5" x 16" digital pigment print.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

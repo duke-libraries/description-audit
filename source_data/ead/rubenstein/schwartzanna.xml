@@ -1,0 +1,3516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/schwartzanna/">schwartzanna</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Anna Schwartz Papers, 1929-2012 <num>RL.01152</num></titleproper>
+        <author>Processed by: Rebecca Evans, Meghan Lyon, Hyeeyoung Kim; machine-readable finding
+          aid created by: Meghan Lyon</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2012</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">005599606</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-11-07 11:46:49
+          -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Anna Schwartz papers</unittitle>
+      <unitid>RL.01152</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">23 Linear Feet</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">0.08 Gigabytes</extent>
+      </physdesc>
+      <unitdate normal="1929/2012" type="inclusive">1929-2012</unitdate>
+      <physloc id="aspace_03a82b2c8102d471b0c217021a41e575">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <abstract id="aspace_81cb1b7c7c639fe79e225b0dd5ffc0ae">Economist at the National Bureau of
+        Economic Research and collaborator with Milton Friedman on numerous works, including A
+        Monetary History of the United States, 1867-1960. Schwartz also served as the executive
+        director of the United States Gold Commission from 1981 to 1982. Collection consists largely
+        of Schwartz's professional materials, including economics research and subject files on
+        monetary policy, gold, the Federal Reserve, currency, and the 2008 Financial Crisis;
+        collaborations with other economists; correspondence, largely professional but including
+        some personal letters; Gold Commission materials from the 1980s; Shadow Open Market
+        Committee materials; and writings, including lectures and articles by Schwartz. Another
+        significant part of the collection is the Milton Friedman series, which includes
+        correspondence, writings, and other materials relating to Friedman and his work.</abstract>
+      <physdesc id="aspace_b6cffd44afb6a81e2df4d96afcea4c98"><extent>17500 Items</extent></physdesc>
+      <langmaterial id="aspace_b03799817f25f70a2c345c72bd27e628">Material in English </langmaterial>
+    </did>
+    <accessrestrict id="aspace_e0435d37b3f78b78aa82a029a4595554">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>Electronic records in this collection have been migrated to a library server and digital
+        use copies can only be accessed onsite in the Rubenstein Library Reading Room. To request
+        access, please contact Research Services before coming to use these records.</p>
+      <p>All or portions of this collection may be housed off-site in Duke University's Library
+        Service Center. The library may require up to 48 hours to retrieve these materials for
+        research use.</p>
+      <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+        &amp; Manuscript Library to use this collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_e3f6a70ba3b6886b8e89590eef1ebe8b">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have been transferred to Duke University. For
+        more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_1bd21ed74b9fb9bd62c0b8759bfd23d7">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Anna Schwartz Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_92813335eff72c82977020cdba93b167">
+      <head>Provenance</head>
+      <p>The Anna Schwartz Papers were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library as a gift in 2012.</p>
+    </acqinfo>
+    <processinfo id="aspace_528dca8a1280dbccf5f7ef2fd1f5babc">
+      <head>Processing Information</head>
+      <p>Processed by Rebecca Evans, Meghan Lyon, September 2012</p>
+      <p>Encoded by Meghan Lyon, September 2012</p>
+      <p>Processed by Hyeeyoung Kim, October 2017</p>
+      <p>Accession(s) described in this finding aid: 2012-0133</p>
+      <p>Materials may not have been ordered and described beyond their original condition.</p>
+    </processinfo>
+    <bioghist id="aspace_b3df7b5a81b479a2ba2ec9aec4ef93d7">
+      <head>Historical Note</head>
+      <p>Anna Jacobson Schwartz was born in the Bronx in 1915, and attended Barnard College. She
+        initially worked for the U.S. Dept. of Agriculture and the Social Science Research Council,
+        but moved to the National Bureau of Economic Research in 1941 and remained there until her
+        death in 2012.</p>
+      <chronlist>
+        <head>Chronology List</head>
+        <chronitem>
+          <date>1915 Nov. 10</date>
+          <eventgrp>
+            <event>Born in the Bronx, NY, to Hillel Jacobson and Pauline Shainmark. Her birthday
+              began to be celebrated on Nov. 11 after 1918, when Nov. 11 became a holiday.</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1934</date>
+          <eventgrp>
+            <event>B.A., Barnard College, Phi Beta Kappa</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1935</date>
+          <eventgrp>
+            <event>M.A., Columbia University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1936</date>
+          <eventgrp>
+            <event>Worked at the Dept. of Agriculture</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1936</date>
+          <eventgrp>
+            <event>Married Isaac Schwartz</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1936-1941</date>
+          <eventgrp>
+            <event>Worked at Columbia University Social Science Research Council</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1941</date>
+          <eventgrp>
+            <event>Joined the National Bureau of Economic Research</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1953</date>
+          <eventgrp>
+            <event>Co-wrote Growth and Fluctuations in the British Economy, 1790-1850: An
+              Historical, Statistical, and Theoretical Study of Britain's Economic Development, with
+              A. Gayer and W.W. Rostow</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1963</date>
+          <eventgrp>
+            <event>Co-wrote A Monetary History of the United States, 1867-1960, with Milton
+              Friedman</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1964</date>
+          <eventgrp>
+            <event>Ph.D., Columbia University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1967-1969</date>
+          <eventgrp>
+            <event>Adjunct Professor of Economics at City University of New York</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1969-1970</date>
+          <eventgrp>
+            <event>Adjunct Professor of Economics at New York University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1970</date>
+          <eventgrp>
+            <event>Co-wrote Monetary Statistics of the United States: Estimates, Sources, Methods,
+              with Milton Friedman</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1981-1982</date>
+          <eventgrp>
+            <event>Staff Director of U.S. Gold Commission</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1982</date>
+          <eventgrp>
+            <event>Co-wrote Monetary Trends in the United States and the United Kingdom: Their
+              Relation to Income, Prices, and Interest Rates, 1867-1975, with Milton
+              Friedman</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1983</date>
+          <eventgrp>
+            <event>Co-wrote The International Transmission of Inflation, with M.R. Darby</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1984</date>
+          <eventgrp>
+            <event>Co-wrote A Retrospective on the Classical Gold Standard, 1821-1931, with Michael
+              Bordo</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1987</date>
+          <eventgrp>
+            <event>Wrote Money in Historical Perspective</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1987</date>
+          <eventgrp>
+            <event>Co-edited The Search for Stable Money: Essays on Monetary Reform, with James A.
+              Dorn</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1987-1988</date>
+          <eventgrp>
+            <event>President of the Western Economic Association</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1992</date>
+          <eventgrp>
+            <event>Edited Commodity Monies</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>2012 June 21</date>
+          <eventgrp>
+            <event>Died following a long illness, NY</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="aspace_c7bc98e72d37565db5a3021f6862c010">
+      <head>Collection Overview</head>
+      <p>The Anna Schwartz Papers consists largely of Schwartz's professional materials and has been
+        divided into 9 series and 1 file: Correspondence, Personal Materials, Conferences, Subject
+        and Research Files, Writings, Gold Commission, Shadow Open Market Committee, Milton Friedman
+        Materials, Writings by Others, and Electronic Materials. </p>
+      <p>Schwartz's Correspondence ranges from her college years through 2012, with the majority of
+        material dating from the 2000s. Correspondence has been arranged chronologically and largely
+        reflects Schwartz's research interests and collaborations with other economists.
+        Particularly in her later years, Schwartz saved various email forwards and printouts on news
+        and economics sent from her correspondents, and those materials are also kept in the
+        Correspondence series. Milton Friedman's correspondence is held in the Milton Friedman
+        Series.</p>
+      <p>Another significant portion of the collection is Schwartz's Subject and Research Files,
+        which include materials on economics, monetary policy, banking, various countries, the
+        Federal Reserve and its many activities, foreign exchange rates and intervention, currency,
+        and many other miscellaneous topics. This series has been arranged alphabetically and has
+        overlaps with other series in the collection, including Schwartz's Writings and
+        Correspondence series.</p>
+      <p>The majority of Schwartz's Writings series related to various lectures and articles by
+        Schwartz, although the series does contain some drafts and edited works from Schwartz's
+        books as well as accompanying material such as appendices or editor correspondence. It has
+        been arranged chronologically, with Schwartz's book reviews consolidated at the beginning of
+        the series. Writings by Friedman, including collaborations between Friedman and Schwartz,
+        are housed in the Milton Friedman Series.</p>
+      <p>Writings By Others is large series that includes drafts and final versions of articles
+        collected or sent to Schwartz by colleagues. Most of these relate to Schwartz's research
+        interests. This series also includes reader reports by Schwartz for various articles. It has
+        been arranged alphabetically by author.</p>
+      <p>Three series reflect Schwartz's professional service. The Conferences Series reflects
+        Schwartz's attendance and involvement in various economic conferences throughout her career.
+        It is arranged alphabetically by conference. The Shadow Open Market Committee Series is a
+        small series reflecting her service on the committee in the 2000s. It includes meeting
+        materials as well as papers presented by Schwartz and other committee members. The Gold
+        Commission Series encompasses materials from Schwartz's service as executive director of the
+        Gold Commission from 1981 to 1982, and includes reports and research materials on gold and
+        the gold standard; drafts, comments, and copies of the final report; and correspondence from
+        the committee and the general public on issues regarding gold.</p>
+      <p>The Milton Friedman Materials Series includes all materials in the Schwartz Papers that
+        relate to Milton Friedman and Schwartz's work with him, including joint writings and
+        collaborations. Correspondence from Friedman is housed in this series. It also includes a
+        large number of Friedman's writings, such as his columns for Newsweek and Wall Street
+        Journal, and articles and talks by Friedman that Schwartz collected over the years. Some of
+        these were drafts or working papers sent to Schwartz by Friedman for comments. Another
+        portion of the series is the Writings About Friedman sub-series, which includes news
+        clippings, essays, Nobel Prize coverage, and obituaries and memorials.</p>
+      <p>The Personal Materials Series includes Schwartz's Barnard College materials, interviews and
+        clippings about Schwartz, versions of her curriculum vitae, and her date books from the
+        1950s through the 2000s.</p>
+      <p>The Electronic Materials File includes files received from Schwartz's office at the
+        National Bureau of Economic Research office in New York City. The electronic materials cover
+        professional and personal papers of Anna Schwartz, including correspondence, conference
+        files, research files, writing drafts, writings, newspaper clippings, photos, and her
+        bio/CV.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Money supply -- United States</subject>
+      <subject source="lcsh">Money -- United States</subject>
+      <subject source="lcsh">Gold standard -- United States</subject>
+      <subject source="lcsh">Structural adjustment (Economic policy) -- United States</subject>
+      <subject source="lcsh">Depressions -- History</subject>
+      <subject source="lcsh">Depressions -- 1929</subject>
+      <subject source="lcsh">Economic history -- United Kingdom</subject>
+      <subject source="lcsh">Economic history -- United States</subject>
+      <subject source="lcsh">Banks and banking</subject>
+      <subject source="lcsh">Monetary policy -- United States</subject>
+      <subject source="lcsh">Economists -- United States</subject>
+      <persname source="ingest">Schwartz, Anna J. (Anna Jacobson), 1915-2012</persname>
+      <persname source="ingest">Friedman, Milton, 1912-2006</persname>
+      <corpname source="ingest">Shadow Open Market Committee (U.S.)</corpname>
+      <corpname source="ingest">United States -- Economic conditions</corpname>
+      <corpname source="ingest">United States. Federal Open Market Committee</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref14_di4" level="series">
+        <did>
+          <unittitle>Correspondence, 1929-2012</unittitle>
+          <physdesc id="aspace_0d71e597eeb44494e4743f94b836ed93"><extent>1 box</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_d4acd95a8361a88d39845cd90c3caac2">
+          <head>Scope and Contents note</head>
+          <p>The Correspondence series consists of professional correspondence from throughout
+            Schwartz's career. Materials include handwritten, typed, and email correspondence, with
+            the bulk of the material dating from late in Schwartz's career. Email printouts of
+            articles and other email forwards from Schwartz's contacts are also present in this
+            series. Early correspondence includes courtship letters from Schwartz's husband, Isaac.
+            Correspondence with or directly concerning Milton Friedman is filed in the
+            "Correspondence" subseries within the "Milton Friedman" series.</p>
+        </scopecontent>
+        <c02 id="aspace_ref16_8xx" level="file">
+          <did>
+            <unittitle>Correspondence, 1929-1950s</unittitle>
+            <container id="aspace_967e1b7cb3a5b21d18499678312605a4" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref17_ny3" level="file">
+          <did>
+            <unittitle>Correspondence, 1960s</unittitle>
+            <container id="aspace_0ab974819b7548ea78bc43af2426ca10" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref18_x3l" level="file">
+          <did>
+            <unittitle>Correspondence, 1970s</unittitle>
+            <container id="aspace_0cb35fa45d619735c2ff275d185aeb30" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref19_lq3" level="file">
+          <did>
+            <unittitle>Correspondence, 1980s</unittitle>
+            <container id="aspace_35ca5bd541e8d267337cad2477290654" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref20_w55" level="file">
+          <did>
+            <unittitle>Correspondence, 1990-1995</unittitle>
+            <container id="aspace_0ac26102bdec1f83ecfda7379d16ebb5" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref21_vmu" level="file">
+          <did>
+            <unittitle>Correspondence, 1996-1997</unittitle>
+            <container id="aspace_0e57d58fb7d85e40ae65cba4426e5df6" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref22_8yq" level="file">
+          <did>
+            <unittitle>Correspondence, 1998-1999</unittitle>
+            <container id="aspace_26713845fb6eed99b9487fabb7c01e51" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref23_xu4" level="file">
+          <did>
+            <unittitle>Correspondence, 2000-2002</unittitle>
+            <container id="aspace_f10f76be5b33052b9c938fd57f3ddbc5" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref24_17w" level="file">
+          <did>
+            <unittitle>Correspondence, 2003-2005</unittitle>
+            <container id="aspace_49d2919824ecbb7633a14fcc14f0bf62" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref25_ur2" level="file">
+          <did>
+            <unittitle>Correspondence, 2006-2007</unittitle>
+            <container id="aspace_bb6082e4d0609d6a0f517232d57a56cc" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref26_ziu" level="file">
+          <did>
+            <unittitle>Correspondence, 2008</unittitle>
+            <physdesc id="aspace_ab1e895b42fa1fba84b39d202560feda"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_ca6d8076a500c80e5223f6137011f3f2" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref28_0pk" level="file">
+          <did>
+            <unittitle>Correspondence, 2009</unittitle>
+            <container id="aspace_a10832c4ec1089d07ea747c4bba65912" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_cov" level="file">
+          <did>
+            <unittitle>Correspondence, 2010-2012</unittitle>
+            <container id="aspace_3c5c4f792038692b320523d9e6b6564b" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref30_zfz" level="file">
+          <did>
+            <unittitle>Correspondence, undated</unittitle>
+            <container id="aspace_1bc31d4a319fc74be268e7bd6abd8e5f" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref32_cv4" level="series">
+        <did>
+          <unittitle>Personal Materials, 1933-2012</unittitle>
+          <physdesc id="aspace_08ebf5df1ae7ef14b935b7329a06b4e9"><extent>2 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_63be411dd28d3afd356d70afebc638c4">
+          <head>Scope and Contents note</head>
+          <p>The Personal Materials Series contains materials from Schwartz's college years at
+            Barnard, decades of daybooks with calendars from her various meetings, Schwartz's
+            handwritten phone logs from the early 1980s, resumes, honorary degree materials, and
+            clippings about Schwartz from the 1960s through the 2000s.</p>
+        </scopecontent>
+        <c02 id="aspace_ref34_ffr" level="file">
+          <did>
+            <unittitle>Barnard College materials, 1933-1934</unittitle>
+            <container id="aspace_bbaf1411c9472b7fcebc9c55bc8a604b" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref35_ism" level="file">
+          <did>
+            <unittitle>Miscellaneous personal materials</unittitle>
+            <container id="aspace_2c8a14e72b8b928d18efa7f5dcbee772" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref36_ut9" level="file">
+          <did>
+            <unittitle>Datebooks, 1950s-1970s</unittitle>
+            <physdesc id="aspace_3dfa10cc856d18ae141f355c21ef36a6"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_877a7e39dea312d1b64b5e35a9b0b9ca" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref38_9nr" level="file">
+          <did>
+            <unittitle>Datebooks, 1980s-2000s</unittitle>
+            <physdesc id="aspace_4f00a57b5b6a1d31f2bd9e34d05fbf9f"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_cdb625f5a8ca72d3603f5f22c857b960" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref40_639" level="file">
+          <did>
+            <unittitle>Phone logs, 1981 and undated</unittitle>
+            <container id="aspace_f5266ec4e6768393fd59f6ee178f05ca" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref41_zz8" level="file">
+          <did>
+            <unittitle>Resume/c.v., 1988 and 2007</unittitle>
+            <container id="aspace_ad59126bb73b943e502f7ce0eff14f0d" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref42_29v" level="file">
+          <did>
+            <unittitle>Clippings and interviews about Schwartz, 1960s-2000s</unittitle>
+            <physdesc id="aspace_c629963ea5529f26b5429c37182ff071"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_b346e5b22df2dacb89d6558cb6303e41" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref44_zk5" level="file">
+          <did>
+            <unittitle>Honorary degrees, 2000s</unittitle>
+            <container id="aspace_88cc58d1daff6d137a7922eefbd97cac" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref46_v7q" level="series">
+        <did>
+          <unittitle>Conferences, 1964-2008</unittitle>
+          <physdesc id="aspace_ff8bd8d75d59fb91a85013f53d29a957"><extent>1 box</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_5e3f6939e0bb1a7457bb9583cdac6dcb">
+          <head>Scope and Contents note</head>
+          <p>The Conferences series contains materials from Schwartz's conference participation.
+            Conferences are arranged alphabetically. The series includes programs, correspondence
+            concerning specific events, and copies of speeches given by other participants.</p>
+        </scopecontent>
+        <c02 id="aspace_ref48_g3y" level="file">
+          <did>
+            <unittitle>Alex G. McKenna Economic Education Series, St. Vincent College, 30 April
+              1999</unittitle>
+            <container id="aspace_10eefc158e5c50c716f94b4a1695f41f" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref49_u50" level="file">
+          <did>
+            <unittitle>American Bankers Association - Conference for University Professors,
+              1964</unittitle>
+            <container id="aspace_9467cc2f0e1f81c2e5740946402e9526" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref50_h0x" level="file">
+          <did>
+            <unittitle>American Economic Association, 1984 and 2001</unittitle>
+            <physdesc id="aspace_6f2c3f3954a071035da36b20d3a80285"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_98496e0898e315af39913c7894570bae" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref52_9qu" level="file">
+          <did>
+            <unittitle>American Enterprise Institute, 1998 and 2000</unittitle>
+            <physdesc id="aspace_944bb68df5906c6cf19408edb5c75b9b"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_7ac3d81e90ccae93d82aee1e1b5a70bb" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref54_m4v" level="file">
+          <did>
+            <unittitle>American Finance Association, 2001</unittitle>
+            <container id="aspace_538e2efcfce4379fde1276a9f8b7f6c2" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref55_ryx" level="file">
+          <did>
+            <unittitle>American Institute for Economic Research, 2004-2005</unittitle>
+            <physdesc id="aspace_e14d82163ea4b38336ec11b07b3070bd"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_bad723a2b436c7296dc64d7f392d7ed4" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref57_5x9" level="file">
+          <did>
+            <unittitle>AMEX Monetary Unions Conference, 1999</unittitle>
+            <container id="aspace_84d7012010eb0d45254a7d99dfeb4ba0" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref58_s74" level="file">
+          <did>
+            <unittitle>Asset Price Bubble Conference, 2001-2002</unittitle>
+            <physdesc id="aspace_5676adcc6d9399750f0b5828771b4877"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_ddc1b83390cd821313a6e545d1320833" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref60_9be" level="file">
+          <did>
+            <unittitle>Bank of England Conference, 2004</unittitle>
+            <container id="aspace_f408bb346f77d6d1d7ecd350e56f09f7" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref61_un4" level="file">
+          <did>
+            <unittitle>Capital Markets Colloquium, Duke University, 2007</unittitle>
+            <container id="aspace_df8825a0f17bf31c96f69ab81a4ffd3e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref62_hh2" level="file">
+          <did>
+            <unittitle>Carnegie Rochester Conference, 1999</unittitle>
+            <container id="aspace_afde37bf74c8b6ce0510a014363cfa09" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref63_a8w" level="file">
+          <did>
+            <unittitle>CATO Institute Annual Monetary Conference, 1997, 1999, 2002-2003</unittitle>
+            <physdesc id="aspace_00318ccad51022f07cb4419e6b007147"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_cc4141c40629ac2c0ba5f04048d1d378" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref65_6oi" level="file">
+          <did>
+            <unittitle>Colloquium on Globalization, UCLA, 1999</unittitle>
+            <container id="aspace_cc1a35bcd58eefb6af357a8e7061b988" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref66_47u" level="file">
+          <did>
+            <unittitle>Conference in Honor of Milton Friedman's 60th Birthday: scrapbook pages with
+              photographs</unittitle>
+            <container id="aspace_9e40d2021c4b288ee9c33f16a020ea10" label="Mixed Materials"
+              type="box">18</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref67_ssl" level="file">
+          <did>
+            <unittitle>Conference in Honor of Walter Y. Oi, University of Rochester,
+              1999</unittitle>
+            <container id="aspace_f778b4cacdbf1233a30771a5d5264065" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref68_fq4" level="file">
+          <did>
+            <unittitle>Council on Foreign Relations, 2000 and 2004</unittitle>
+            <physdesc id="aspace_0ffc319bb7c565e755b7e96bbe6d70b4"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_3f106cabb864de0e9ea707f94b0f58a7" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref70_u4t" level="file">
+          <did>
+            <unittitle>ECU Conference, 1987</unittitle>
+            <container id="aspace_9077e0ad4a50483c61e9696445cbfe6f" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref71_3v3" level="file">
+          <did>
+            <unittitle>Federal Reserve Bank of Atlanta Conference on Financial Markets,
+              1999</unittitle>
+            <container id="aspace_4a9a34b62928707b8d467ec348962ee3" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref72_jcz" level="file">
+          <did>
+            <unittitle>Federal Reserve Bank of Chicago Conferences, 1988 and 1999</unittitle>
+            <physdesc id="aspace_a0ed835f9594a2d11fc23fb6cd7cd83a"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_441ce08ff1fe2bb9152d6c0c98337c62" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref74_hcr" level="file">
+          <did>
+            <unittitle>Federal Reserve Bank of New York: Financial Innovation and Monetary
+              Transmission, 2001</unittitle>
+            <container id="aspace_6fad5e584047f00f329a73d89df5e43b" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref75_4u1" level="file">
+          <did>
+            <unittitle>Federal Reserve Bank of St. Louis: Economic Policy Conference,
+              2007</unittitle>
+            <container id="aspace_8820436503d2a102922afe625e25c9a6" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref76_q4j" level="file">
+          <did>
+            <unittitle>Goodhart Festschrift, 2001</unittitle>
+            <container id="aspace_14f44b0bce623f25264b3f98bd06f938" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref77_vi5" level="file">
+          <did>
+            <unittitle>History of Economic Thought, 1998</unittitle>
+            <container id="aspace_30b7782e4622f5e7a2651aded0df1e82" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref78_udd" level="file">
+          <did>
+            <unittitle>How to Manage Capital in a World of Permanent Inflation, 1973</unittitle>
+            <container id="aspace_e358e09b0978cfcff2ab6c06561fb8f8" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+          <scopecontent id="aspace_8325bb0f028c212c473c9dff07042677">
+            <head>Scope and Contents note</head>
+            <p>Includes Schwartz's talk, The Inflation Experience of Other Countries, 1973.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref80_9m8" level="file">
+          <did>
+            <unittitle>International Atlantic Economic Society Meeting, 2002</unittitle>
+            <container id="aspace_b971ae15f6387cb380ead3300a2dda12" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref81_922" level="file">
+          <did>
+            <unittitle>Money, History, and International Finance: Conference Held in Honor of Anna
+              J. Schwartz, 1987: photograph album</unittitle>
+            <container id="aspace_ab3cb8f5d7713dacb108adfc6566e915" label="Mixed Materials"
+              type="box">18</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref82_5ey" level="file">
+          <did>
+            <unittitle>National Bureau of Economic Research conferences, 1986, 1993, 2001,
+              2008</unittitle>
+            <physdesc id="aspace_61ba105d34d6f01569c14002a270bfe4"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_a8ab0159f1ee92ba95fb19daa4da2a04" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref84_v0y" level="file">
+          <did>
+            <unittitle>Political Economy of International Finance, 2000</unittitle>
+            <container id="aspace_ebb4a2c431ad8d4af0dc9ea076b736d8" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref85_fyo" level="file">
+          <did>
+            <unittitle>Social Science Research Council Conference on the Federal Reserve Board,
+              1965</unittitle>
+            <container id="aspace_9e4ca22293c0f5ee303da200de9abfd2" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref86_my9" level="file">
+          <did>
+            <unittitle>U. Beogradu Symposium, 1974</unittitle>
+            <container id="aspace_1b177686ad7e8adcb56c0c398b654ada" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref87_yml" level="file">
+          <did>
+            <unittitle>World Conference on Gold, 1982</unittitle>
+            <container id="aspace_40b9daa08be6491ece24dbae488a9a52" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref88_6ci" level="file">
+          <did>
+            <unittitle>Western Economic Association, 1984 and 2000</unittitle>
+            <container id="aspace_c78a5c70a6bedd399119c399c5949c29" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+          <scopecontent id="aspace_b105fa933c1185a672443b55ec043c98">
+            <head>Scope and Contents note</head>
+            <p>Includes VHS interview of Schwartz, 1984. This item is RESTRICTED until an access
+              copy can be made.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref91_fir" level="series">
+        <did>
+          <unittitle>Subject and Research Files</unittitle>
+          <physdesc id="aspace_ff0e39b1c9ed12a42b2e1f30b0e2ef2d"><extent>5 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_9cff289f2ea14b69552f1945d7e8e9c6">
+          <head>Scope and Contents note</head>
+          <p>This series contains Schwartz's research files on various subjects, comprised of notes,
+            data and tables, and printed materials related to specific topics; some are related
+            directly to specific publications. It is arranged alphabetically by subject. Topics that
+            receive the most coverage include the 2008 financial crisis; banking; business cycles;
+            currency boards; the FDIC, FOMC, and Federal Reserve; gold; the IMF; intervention; and
+            UK economics. There are also a number of files containing worksheets and data from the
+            NBER.</p>
+        </scopecontent>
+        <c02 id="aspace_ref93_w8f" level="file">
+          <did>
+            <unittitle>2008 Financial Crisis</unittitle>
+            <physdesc id="aspace_70a5d0e8ad366151d7e0e4fc055af635"><extent>9
+              folders</extent></physdesc>
+            <container id="aspace_d97f1509db7bfc313505d9482860e4e1" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref95_91b" level="file">
+          <did>
+            <unittitle>American Institute for Economic Research</unittitle>
+            <container id="aspace_2d800820b7e05e6f04d4c3dac3bae4b4" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref96_l1v" level="file">
+          <did>
+            <unittitle>Argentina, 2001</unittitle>
+            <container id="aspace_3fccc489934eb1783dafb1e18b0342b0" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref97_tsc" level="file">
+          <did>
+            <unittitle>Asian Monetary Monitor</unittitle>
+            <container id="aspace_ab99785bd14909fabcece1a21dd22031" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref98_xqv" level="file">
+          <did>
+            <unittitle>Asset prices</unittitle>
+            <container id="aspace_a0a63affe8b49357a506f9da5c92547a" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref99_mze" level="file">
+          <did>
+            <unittitle>Austria-Hungary</unittitle>
+            <container id="aspace_6ef7b47656eb76372c5528819ed32924" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref100_aeu" level="file">
+          <did>
+            <unittitle>Bank of America</unittitle>
+            <container id="aspace_ed7bfcd04b3ccd905fa0ac91bf539cf1" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref101_i1f" level="file">
+          <did>
+            <unittitle>Bank capital</unittitle>
+            <container id="aspace_2e4be52f155a959592e9833e79d3a2be" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref102_cio" level="file">
+          <did>
+            <unittitle>Bank loan loss deduction</unittitle>
+            <container id="aspace_5c7e54840a5470b3a5e98e71423dd284" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref103_kp5" level="file">
+          <did>
+            <unittitle>Bank money computation: P. Cagan: Postal deposits with U.S.
+              Treasury</unittitle>
+            <container id="aspace_af16c4a7cd1ef5e35f7b4e2692fc9d4e" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref104_3op" level="file">
+          <did>
+            <unittitle>Bank of England</unittitle>
+            <container id="aspace_c950b9af278d3b94e453b6a92ded5162" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref105_8bv" level="file">
+          <did>
+            <unittitle>Bank of the United States</unittitle>
+            <container id="aspace_a82bc3447712513aa10538fd58d34d65" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref106_a38" level="file">
+          <did>
+            <unittitle>Bank runs</unittitle>
+            <container id="aspace_b2f03fcc77dff56ed178d30a1276a8a3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref107_oid" level="file">
+          <did>
+            <unittitle>Banking</unittitle>
+            <container id="aspace_74630f73e5377b5a0283381576a63367" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref108_f7u" level="file">
+          <did>
+            <unittitle>Banking supervision</unittitle>
+            <physdesc id="aspace_5751bfa8e5568de00852de1c6307d8b3"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_0c9fce68fe565da3f9fe9fdc0da3e118" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref110_zve" level="file">
+          <did>
+            <unittitle>Banks, savings and loan</unittitle>
+            <container id="aspace_039f1f55301ff8b77cc00355587b0418" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref111_y0f" level="file">
+          <did>
+            <unittitle>Brazil and Mexico</unittitle>
+            <container id="aspace_57675365722d890c5f1403778b0925dd" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref112_x4c" level="file">
+          <did>
+            <unittitle>Business cycle research</unittitle>
+            <physdesc id="aspace_f1c35d2827f3023c367bb4ef1c11ee7b"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_2f8512fa89ba62ab383d73a32790cf65" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref114_v1d" level="file">
+          <did>
+            <unittitle>Charts and graphs, miscellaneous</unittitle>
+            <physdesc id="aspace_09f5d9eee61e0aac7f091251fd56b64b"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_e417c65364e676395ea1190cdb738fc3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref116_rwz" level="file">
+          <did>
+            <unittitle>Congressional oversight panel for economic stabilization, 2008</unittitle>
+            <container id="aspace_b011cfbb3bcd73673059018a6b002cd7" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref117_r2z" level="file">
+          <did>
+            <unittitle>Congressional Record</unittitle>
+            <container id="aspace_ca3356e2ffd02d2ffcac4e31948ed8f3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref118_5ix" level="file">
+          <did>
+            <unittitle>Currency</unittitle>
+            <container id="aspace_06161780e08970b08df0c4ca2eb138f8" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref119_6gi" level="file">
+          <did>
+            <unittitle>Currency boards</unittitle>
+            <physdesc id="aspace_e80dd670d9ae4c9703ef3f247e619311"><extent>8
+              folders</extent></physdesc>
+            <container id="aspace_68d355e21563c5b0c43cbd9da9a16645" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref121_gi0" level="file">
+          <did>
+            <unittitle>Currency boards</unittitle>
+            <physdesc id="aspace_38b0a5ef495a12b4f18d5d900e6f1799"><extent>8
+              folders</extent></physdesc>
+            <container id="aspace_8bf97740cce262f50d50f309109bd9c4" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref123_9kt" level="file">
+          <did>
+            <unittitle>Exchange Stabilization Fund (ESF)</unittitle>
+            <physdesc id="aspace_d6b5cce5b8c775487b7bf0df0036e1fb"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_1b8a2e4493d50eb085ba87a74725d24c" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref125_v7k" level="file">
+          <did>
+            <unittitle>Exchange rate policy</unittitle>
+            <container id="aspace_7a20d45c187802c5dba94401e1f62304" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref126_zex" level="file">
+          <did>
+            <unittitle>FDIC and FDIC reform</unittitle>
+            <physdesc id="aspace_790b21f36a16f99aa4474eb7df387e39"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_ec749f8d320d4ec4ddfc40197d5aa28f" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref128_qle" level="file">
+          <did>
+            <unittitle>Federal Open Market Committee (FOMC)</unittitle>
+            <physdesc id="aspace_3c64bf70e615af4b971570e77391203e"><extent>13
+              folders</extent></physdesc>
+            <container id="aspace_6fcab7bcc7a73ed2259179dfcc30ff51" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <scopecontent id="aspace_99042a28deff07682f61e6dfeab07eaa">
+            <head>Scope and Contents note</head>
+            <p>Includes meeting minutes and transcripts.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref131_csm" level="file">
+          <did>
+            <unittitle>Federal Reserve Board</unittitle>
+            <physdesc id="aspace_376b9de0b10d7168255af5b5e331503d"><extent>15
+              folders</extent></physdesc>
+            <container id="aspace_0d909b1b5aa40ff354558272ccb43fce" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref133_ho0" level="file">
+          <did>
+            <unittitle>Foreign currency</unittitle>
+            <physdesc id="aspace_87aa1018ad217373153c2246a9e74e87"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_47f909d7e3be40a0b2d94ead5fd2a691" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref135_d89" level="file">
+          <did>
+            <unittitle>Foreign exchange rates</unittitle>
+            <container id="aspace_95313bc622ebcffb6072b29efd31af2d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref136_h5n" level="file">
+          <did>
+            <unittitle>Free banking</unittitle>
+            <physdesc id="aspace_b0bd8601f913f43c60d7ecbc8d618be3"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_7e3e37c8c10585fd61c55e1b182f3a6f" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref138_evs" level="file">
+          <did>
+            <unittitle>Free gold</unittitle>
+            <container id="aspace_d005be52d8ea9925fd8cc85cabb7a6c4" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref139_l3f" level="file">
+          <did>
+            <unittitle>Gold</unittitle>
+            <physdesc id="aspace_24a950dcfdc440859b9b0aaf4fffba1e"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_b1734d967e5f4687da1e3898ce1d778e" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref141_rqd" level="file">
+          <did>
+            <unittitle>International Monetary Fund (IMF)</unittitle>
+            <physdesc id="aspace_48e84010fc228b01b638ad59d920e907"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_ab6dfcca8149529cf0b2ee576b3696bd" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref143_gbi" level="file">
+          <did>
+            <unittitle>Intervention</unittitle>
+            <physdesc id="aspace_e92f3aa0943554ec85f2abb87bd7ecc6"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_c2ca9da8dc569e1d755ca47acc5be58b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref145_9is" level="file">
+          <did>
+            <unittitle>Intervention</unittitle>
+            <physdesc id="aspace_40505b6a6ad0846e082ec6d30dfceca1"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_f4577084b5a3818cfbb94db0315e07d3" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+          <scopecontent id="aspace_4f93e5553a2dfe0791477557edcc723e">
+            <head>Scope and Contents note</head>
+            <p>Includes History of Foreign Exchange Market Invention project notes.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref148_vr6" level="file">
+          <did>
+            <unittitle>Interwar world trade</unittitle>
+            <container id="aspace_ee054a1de8063b9dbe28bf79b3298569" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref149_jsf" level="file">
+          <did>
+            <unittitle>Ireland</unittitle>
+            <container id="aspace_091cb6dd3f22387c85dc72c6525b72ac" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref150_0a6" level="file">
+          <did>
+            <unittitle>Italy</unittitle>
+            <container id="aspace_c8ec212ce753b47cdfcb6d3da86c02b0" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref151_l1p" level="file">
+          <did>
+            <unittitle>Japan</unittitle>
+            <container id="aspace_2691632a6bd8c2ce6cfe35a124d68c44" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref152_rhm" level="file">
+          <did>
+            <unittitle>Miscellaneous Newsletters and Printouts</unittitle>
+            <container id="aspace_d20baf14c987f73400102c614b13d98b" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref153_191" level="file">
+          <did>
+            <unittitle>Monetarism</unittitle>
+            <physdesc id="aspace_86fa491eec9aff23ce71dd80e26b7f0a"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_2e14411b1b04cf7aa7545fa3994b98f1" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref155_ecl" level="file">
+          <did>
+            <unittitle>Monetary Control Act of 1980</unittitle>
+            <container id="aspace_8d7bb45262ecd87496467b9db0f161eb" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref156_kyw" level="file">
+          <did>
+            <unittitle>Monetary policy</unittitle>
+            <physdesc id="aspace_2768370bb0ec13af42dadcce970292d1"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_92f8601ed65e9b28e0fbb63ee727975c" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref158_2ly" level="file">
+          <did>
+            <unittitle>Money stock</unittitle>
+            <physdesc id="aspace_2c21755197bde21a772f4bb6e9084d52"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_53a8fd70629ce0b70c20118d5f60c216" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref160_0yk" level="file">
+          <did>
+            <unittitle>National Bureau of Economic Research (NBER)</unittitle>
+            <physdesc id="aspace_622c533264dfa04ff0145f13e11f1ceb"><extent>12
+              folders</extent></physdesc>
+            <container id="aspace_002aba2a1a2b2d80378ca54c4e4f2191" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref162_850" level="file">
+          <did>
+            <unittitle>Notes, handwritten</unittitle>
+            <physdesc id="aspace_4fa2d7b20fc5141495751c2bb9d0a1f1"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_1c42c11b7baff31d31d6441a7d57105c" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref164_qoi" level="file">
+          <did>
+            <unittitle>Reforming financial markets</unittitle>
+            <container id="aspace_a24f0a41108779d26bb7dfd052e4969e" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref165_mnv" level="file">
+          <did>
+            <unittitle>Reserves: Actual versus Required</unittitle>
+            <container id="aspace_bed650856c72fba353002952fc2d9f77" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref166_oet" level="file">
+          <did>
+            <unittitle>Shadow Financial Regulatory Committee, 1989-1998</unittitle>
+            <physdesc id="aspace_c8b0ee3565b8076b15510a64e779597f"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_c90da9bbba6ecd6f91fdb38d7c746e4e" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref168_26o" level="file">
+          <did>
+            <unittitle>System Open Market Account (SOMA)</unittitle>
+            <physdesc id="aspace_37cd0dbdb1bb80994f5027073a50858d"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_ac3fb0a69ec696ef2c4765fdf5068155" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref170_8uo" level="file">
+          <did>
+            <unittitle>Sovereign bankruptcy</unittitle>
+            <container id="aspace_ce89778d877ef396819c993df2d3bba8" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref171_8x6" level="file">
+          <did>
+            <unittitle>Supreme Court: Petitioner's Brief, Samson Taiwo Dada</unittitle>
+            <container id="aspace_c98d0d378de093af882da395b4606d5c" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref172_f8k" level="file">
+          <did>
+            <unittitle>Treasury Select Committee, 2009</unittitle>
+            <container id="aspace_671e4056d5db2b7aedab36fc60852c54" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref173_drg" level="file">
+          <did>
+            <unittitle>United Kingdom</unittitle>
+            <physdesc id="aspace_a3288504a9ff16dd2ec82ee43975fe88"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_0406d3268a97bcc4a979bf974e531303" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref175_enu" level="file">
+          <did>
+            <unittitle>U.S. Senate</unittitle>
+            <physdesc id="aspace_fb62fa4207669dddee5f6f077f5d8a9a"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_5f8df71dc5ca8fe92afa7380f0870ccb" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref177_25q" level="file">
+          <did>
+            <unittitle>U.S. stabilization agreements</unittitle>
+            <container id="aspace_ffb1c0614d4ab7bd6807a823a75583c2" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref178_i7e" level="file">
+          <did>
+            <unittitle>Vault cash worksheets</unittitle>
+            <container id="aspace_c8cf3d8b0225ce86c714d134dc31a527" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref179_6uy" level="file">
+          <did>
+            <unittitle>Harry Dexter White</unittitle>
+            <container id="aspace_4ecfaa52c91ab93bd287ca96b6b84968" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref181_16f" level="series">
+        <did>
+          <unittitle>Writings, 1953-2009</unittitle>
+          <physdesc id="aspace_4693d9e081ad5c8dba9e8a26dd83b431"><extent>2 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_dc3ac68db1d758ab42236f3d0c9199e5">
+          <head>Scope and Contents note</head>
+          <p>The Writings series is arranged chronologically and consists of Schwartz's lectures and
+            publications (some of which are co-authored) as well as drafts of both published and
+            unpublished pieces. Materials related to Schwartz's publications, such as book reviews
+            and edits, are also included under the title of that publication. A significant part of
+            the series consists of drafts of A History of Official Foreign Exchange Market
+            Intervention, a manuscript on which Schwartz was collaborating with Michael Bordo and
+            Owen Humpage. Small amounts of correspondence directly related to the publication of
+            various works is filed with those works. Projects on which Schwartz collaborated with
+            Milton Friedman are in the "Milton Friedman" series; research for various writing
+            projects can be found in the "Subject Files and Research" series.</p>
+        </scopecontent>
+        <c02 id="aspace_ref183_ek7" level="file">
+          <did>
+            <unittitle>Book reviews by Schwartz, 1984-2007</unittitle>
+            <container id="aspace_009b26870de452d4357adeb229fa529c" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref184_sw3" level="file">
+          <did>
+            <unittitle>State Banks, 1942</unittitle>
+            <physdesc id="aspace_7ef51eff8b02c947b8553bd8f14070ee"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_4fb40c2d4154f10a147c4ded45d9f6be" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref186_kps" level="file">
+          <did>
+            <unittitle>Growth and Fluctuation reviews, 1953-1954 and 1971</unittitle>
+            <container id="aspace_0d4fb69997f96680a6e0df063b870e7c" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref187_8nl" level="file">
+          <did>
+            <unittitle>Untitled manuscript draft and appendices, 1982</unittitle>
+            <container id="aspace_56f4be87ecf942c508a9dfa444f6dc18" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref188_e1i" level="file">
+          <did>
+            <unittitle>The Service Flows of Money drafts, 1984-1985</unittitle>
+            <container id="aspace_6f24f2dd591c59faf05fd3d58f7eef54" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref189_a3j" level="file">
+          <did>
+            <unittitle>A European Central Bank, 1990</unittitle>
+            <container id="aspace_9cb3dde9a5e893681f0a86db62610bd1" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref190_5r6" level="file">
+          <did>
+            <unittitle>Currency Boards, 1993</unittitle>
+            <container id="aspace_54e2089c5f0796f29879e75611f3bee9" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref191_qdw" level="file">
+          <did>
+            <unittitle>The Performance of the Federal Research in Pursuing International Monetary
+              Objectives, 1994</unittitle>
+            <container id="aspace_2e0c3909f61fac064be14fafed132387" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref192_ssb" level="file">
+          <did>
+            <unittitle>The Performance and Stabilization of Banking Systems Under Self-Regulation,
+              1995</unittitle>
+            <container id="aspace_156b240c57de68cb2150c1c46f6d574f" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+          <scopecontent id="aspace_560e0ca75a3c1f4b473d2117d990f761">
+            <head>Scope and Contents note</head>
+            <p>Co-authored with Michael Bordo.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref194_rkt" level="file">
+          <did>
+            <unittitle>European Monetary Union, 1996</unittitle>
+            <container id="aspace_8f70c72f86ed7f59d1eca7c9aa4d2e9e" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref195_bz1" level="file">
+          <did>
+            <unittitle>Mexican Loan Repayment Sleight of Hand, 1996</unittitle>
+            <container id="aspace_fce087673704fc99c9cf9807865801c8" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref196_9f1" level="file">
+          <did>
+            <unittitle>From Obscurity to Notoriety, 1997</unittitle>
+            <container id="aspace_b86a979e6ca768e61e97a38d35220ef0" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref197_x80" level="file">
+          <did>
+            <unittitle>Central Banking in a Democracy, 1997</unittitle>
+            <container id="aspace_141b8467ca160d210bf852b84b3a211b" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref198_4la" level="file">
+          <did>
+            <unittitle>Time to Terminate the ESF and IMF, 1998</unittitle>
+            <container id="aspace_1706dd1b04c2ba785ceeef236b14916f" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref199_tmf" level="file">
+          <did>
+            <unittitle>Declaration for Lawsuit Challenging the Mexican Bailout of 1995,
+              1998</unittitle>
+            <container id="aspace_699a745101b1725f208762442689ea97" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref200_uop" level="file">
+          <did>
+            <unittitle>What Europe Can Learn from the Fed, Wall Street Journal, 1998</unittitle>
+            <container id="aspace_bd44f3bcf43a37ef1c87614a28a1637c" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref201_0p1" level="file">
+          <did>
+            <unittitle>Monetary Policy Reforms, 1999</unittitle>
+            <container id="aspace_b5099421f1b5e22ee4e4e631da830eb0" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+          <scopecontent id="aspace_3fc99d99ec1520b09b36725d8fe6dbca">
+            <head>Scope and Contents note</head>
+            <p>Co-authored with Michael Bordo.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref203_0q5" level="file">
+          <did>
+            <unittitle>Measuring Real Economic Effects of Bailouts, 1999</unittitle>
+            <physdesc id="aspace_c603becccaf1ee6aa2d097d03cf1d8b7"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_cc11d135f696f332ea6223fd93b313d9" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+          <scopecontent id="aspace_6742048e551ac1d5a9fe2156db45d62e">
+            <head>Scope and Contents note</head>
+            <p>Co-authored with Michael Bordo.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref206_4p4" level="file">
+          <did>
+            <unittitle>The Rise and Fall of Foreign Exchange Market Intervention as a Policy Tool,
+              2000</unittitle>
+            <container id="aspace_2a91923552c6a1ed8838cb9a757773cf" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref207_sfh" level="file">
+          <did>
+            <unittitle>Was Expansionary Monetary Policy Feasible During the Great Contraction? An
+              Examination of Gold Standard Constraint, 2000</unittitle>
+            <container id="aspace_d76c8f2603d93794175238d54f9e1492" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+          <scopecontent id="aspace_5dc9e6059181ffe2d120ff2a6e41eee3">
+            <head>Scope and Contents note</head>
+            <p>Co-authored with Michael Bordo and Choundhri.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref209_m4e" level="file">
+          <did>
+            <unittitle>From the Exchange Stabilization Fund to the International Monetary Fund,
+              2001</unittitle>
+            <container id="aspace_c6cbd199070e721f07e78f5e38dc10b7" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+          <scopecontent id="aspace_dbe91db00925d90f38d550048eee93d5">
+            <head>Scope and Contents note</head>
+            <p>Co-authored with Michael Bordo.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref211_sw4" level="file">
+          <did>
+            <unittitle>Comment on the Optimal Choice of Exchange-Rate Regime, 2001</unittitle>
+            <container id="aspace_b17d836d72b30f7decff3a32cd184f4b" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref212_875" level="file">
+          <did>
+            <unittitle>Earmarks of a Lender of Last Resort, 2001-2002</unittitle>
+            <container id="aspace_4a088db1ca6f960b1ac1cde7bc44efa0" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref213_p3x" level="file">
+          <did>
+            <unittitle>The IMF's Dubious Proposal for a Universal Bankruptcy Law for Sovereign
+              Debtors, 2003</unittitle>
+            <container id="aspace_8afa7494749e3b7a9f08eadb33be75b5" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref214_ygv" level="file">
+          <did>
+            <unittitle>Aftermath of the Monetarist Clash with the Federal Reserve Before and During
+              the Volcker Era, 2004</unittitle>
+            <container id="aspace_7c4cd87f4af962f369281c1d612d4394" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref215_9rj" level="file">
+          <did>
+            <unittitle>Bretton Woods, 2004</unittitle>
+            <container id="aspace_f38c073a540ac33abf0f3970fcd11f95" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref216_4yi" level="file">
+          <did>
+            <unittitle>Global Order and the Future of the Euro, 2004</unittitle>
+            <container id="aspace_3db3d0a3ccdd88c7d573a236c4739dc3" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref217_jbh" level="file">
+          <did>
+            <unittitle>Dealing with Exchange Rate Protectionism, 2005</unittitle>
+            <container id="aspace_2a3250abb0bbacd98094e7064a46d84c" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref218_igs" level="file">
+          <did>
+            <unittitle>Gold, Policy Expectations, and Financial Markets During the Great Depression,
+              2005</unittitle>
+            <container id="aspace_7b6ee6b6247411386d02d252385c02a9" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref219_zz5" level="file">
+          <did>
+            <unittitle>Money Supply, 2005-2007</unittitle>
+            <container id="aspace_6217a2ba70e77eace41459fc2478c6c3" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref220_xnt" level="file">
+          <did>
+            <unittitle>David Laidler on Monetarism, 2006</unittitle>
+            <container id="aspace_22d7fdd3b34020e6679970dcb07f7cf6" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+          <scopecontent id="aspace_5608ac3b73b1dd6c4aa2f0dd686bbb13">
+            <head>Scope and Contents note</head>
+            <p>Co-authored with Michael Bordo.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref222_4tf" level="file">
+          <did>
+            <unittitle>Globalization, 2007</unittitle>
+            <container id="aspace_77144b6aa12d612f4f610d455256cd16" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref223_36k" level="file">
+          <did>
+            <unittitle>Is there a need for an International Lender of Last Resort?, 2007</unittitle>
+            <container id="aspace_40c99bf1a4fee7aee92669cb08b27b0e" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref224_8b8" level="file">
+          <did>
+            <unittitle>Is Redefinition Needed of the Aims of the Mont Pelerin Society 60 Years After
+              Their Formation?, 2007</unittitle>
+            <container id="aspace_dcf58abb81e93a8ee220f901176a3fef" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref225_4t4" level="file">
+          <did>
+            <unittitle>Why a Dual Mandate is Wrong For Monetary Policy, 2008</unittitle>
+            <container id="aspace_10e062faa82643bc72ff926cf304fa87" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+          <scopecontent id="aspace_652b52b8d84012ba560a74acd49e0cec">
+            <head>Scope and Contents note</head>
+            <p>Co-authored with Walker Todd. Also known as "The Confusion of Nominal Monetary
+              Policies and Real Outcomes at the Federal Reserve."</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref227_tnb" level="file">
+          <did>
+            <unittitle>Monetary Economics Research at the St. Louis Fed During Ted Balbach's Tenure
+              as Research Director, 2008</unittitle>
+            <container id="aspace_454e33a1b9d3fa5b784f2d84d77e0e75" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+          <scopecontent id="aspace_4b4c34cb5df0a890464f29ef713c705a">
+            <head>Scope and Contents note</head>
+            <p>Co-authored with Michael Bordo.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref229_348" level="file">
+          <did>
+            <unittitle>Questions the Senate Finance Committee Could have Asked T. Geithner and the
+              Answers He Should have Given, 2009</unittitle>
+            <container id="aspace_790a6268585e4df0f6e8d4b64224b2b9" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref230_7aa" level="file">
+          <did>
+            <unittitle>General collaborations with Walker Todd, 1990-2009</unittitle>
+            <container id="aspace_a0030ac30ae09b506d26ee64369b9851" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref231_axi" level="file">
+          <did>
+            <unittitle>How to Avoid an International Financial Crisis, undated</unittitle>
+            <container id="aspace_03b73e0f10466b89670942ce392bd7ae" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref232_94a" level="file">
+          <did>
+            <unittitle>How the Relationship between the Federal Reserve and the Academic Community
+              of Monetary Economists Has Changed Over Time, undated</unittitle>
+            <container id="aspace_d71df62340cba06636afe7625a69b1de" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref233_d0n" level="file">
+          <did>
+            <unittitle>Has the Fed Forgotten the Lessons of the Peace Time Inflation of 1965-1979?,
+              undated</unittitle>
+            <container id="aspace_69d6506929f18c88743eefc73306bf94" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref234_2ia" level="file">
+          <did>
+            <unittitle>The Fed in the 1920s and 1930s, undated</unittitle>
+            <container id="aspace_bc297fd40d1d46a6de91dfbf8e16505b" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref235_rrx" level="file">
+          <did>
+            <unittitle>Monetarism, undated</unittitle>
+            <container id="aspace_48a52467ee6047996326d924ad68726b" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref236_b8q" level="file">
+          <did>
+            <unittitle>Origins of the Financial Market Crisis of 2008, undated</unittitle>
+            <container id="aspace_a689274450b23a03635453f10b4f73bf" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref237_bio" level="file">
+          <did>
+            <unittitle>What Future for the IMF?, undated</unittitle>
+            <container id="aspace_cff535dcd2c4bb3b797c95479df4a369" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref238_vqm" level="file">
+          <did>
+            <unittitle>My Answers to your Questions, undated</unittitle>
+            <container id="aspace_e9da0dd001ab94cf6f459f17ccab9707" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref239_fw9" level="file">
+          <did>
+            <unittitle>History of Foreign Exchange Market Intervention materials, with Michael
+              Bordo, 2006-2007 and undated</unittitle>
+            <physdesc id="aspace_3ec18e385884378362db62e64004badc"><extent>29
+              folders</extent></physdesc>
+            <container id="aspace_2c9688c4201811cc887b5200b8c9e4dd" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref241_1ob" level="file">
+          <did>
+            <unittitle>Incomplete pieces of writings and articles, undated</unittitle>
+            <container id="aspace_9a6617b33b667df20805006ea2dc5092" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref242_g58" level="file">
+          <did>
+            <unittitle>Contracts and agreements, 2004-2009</unittitle>
+            <container id="aspace_93eca96bb3a3bb22a428c07675229da2" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref244_pfm" level="series">
+        <did>
+          <unittitle>Gold Commission, 1974-1985</unittitle>
+          <physdesc id="aspace_9d19985345163b7460f6e0b955cd73fe"><extent>2 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_2c496e4f9667e2bba05edeef643bf34e">
+          <head>Scope and Contents note</head>
+          <p>This series covers Schwartz's work with Gold Commission, which was appointed to
+            consider the possibility of returning to the gold standard. Schwartz was the Staff
+            Director from 1981-1982. The series includes transcripts and minutes; memos; statements
+            and testimonials given before the commission; questionnaires filled out by members of
+            the commission; correspondence sent to and within the commission; and research files
+            (articles, reports, notes, and data tables).</p>
+        </scopecontent>
+        <c02 id="aspace_ref246_sst" level="file">
+          <did>
+            <unittitle>Transcripts, 1981-1982</unittitle>
+            <physdesc id="aspace_cff62f6e8af3c1cebb77a344f3147c4d"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_7f0e97a095422d296851e0ae4288b6f6" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref248_8bi" level="file">
+          <did>
+            <unittitle>Memos, 1981-1982</unittitle>
+            <physdesc id="aspace_ae0efeea7e30ddcccc72240e1567ca07"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_391938aff532e794835d1d4af23491a9" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref250_kjh" level="file">
+          <did>
+            <unittitle>November 1981 statements before the Gold Commission</unittitle>
+            <physdesc id="aspace_2fe9a380d68c97afeed5dbf7bc5d73be"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_22f20a5a1753c01540d837279c5fde0f" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref252_87m" level="file">
+          <did>
+            <unittitle>December 1981 questionnaire</unittitle>
+            <container id="aspace_1b4fb797a9d163bbfb54c9b41258508f" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref253_ll5" level="file">
+          <did>
+            <unittitle>Statements, 1980-1981</unittitle>
+            <container id="aspace_4a163990f6b0949c08063006fa314007" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref254_sqn" level="file">
+          <did>
+            <unittitle>Miscellaneous papers</unittitle>
+            <container id="aspace_28c508ce65a64e67c499b14585226c11" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref255_x2o" level="file">
+          <did>
+            <unittitle>Publicity and clippings</unittitle>
+            <container id="aspace_1bade94a69e147ee6cf00e68bfea1645" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref256_479" level="file">
+          <did>
+            <unittitle>Gold Commission Report outline</unittitle>
+            <container id="aspace_4d6c227afd986c4362850c8c436234cd" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref257_qfv" level="file">
+          <did>
+            <unittitle>Report of the Commission on the Role of Gold in the Domestic and
+              International Monetary Systems, volumes 1 and 2, March 1982</unittitle>
+            <container id="aspace_994535672b2a8514f8fbf60408ecab39" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref258_dkm" level="file">
+          <did>
+            <unittitle>Report suggestions, recommendations, and comments</unittitle>
+            <physdesc id="aspace_c6369b687b3b4f247c8f3fd8dff7e783"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_7cfac0af683210bb59f50638dd737921" label="Mixed Materials"
+              type="box">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref260_kdl" level="file">
+          <did>
+            <unittitle>Report suggestions, recommendations, and comments</unittitle>
+            <container id="aspace_0f99c907ddb4bf455e8b2b413ad12797" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref261_rgu" level="file">
+          <did>
+            <unittitle>Report suggestions, recommendations, and comments from Chalmers P.
+              Wylie</unittitle>
+            <container id="aspace_b2e49a26fbc2db4d0894d0da2c1a09b1" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref262_6bj" level="file">
+          <did>
+            <unittitle>Gold Commission proposal with edits</unittitle>
+            <container id="aspace_9fdab1b32808efdcdc2dcf0825d81e44" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref263_ht3" level="file">
+          <did>
+            <unittitle>Consolidated gold fields - limited reports, 1974-1981</unittitle>
+            <physdesc id="aspace_b41d43e01741aee8c130e202949110ab"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_51f8e86c587f2fcb361a881faa858ae1" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref265_1g5" level="file">
+          <did>
+            <unittitle>Committee on Interior and Exterior Affairs on Feasibility of Return to Gold
+              Standard, 1980</unittitle>
+            <container id="aspace_a99d36dbaa536a243cdfa82501d30f3f" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref266_v59" level="file">
+          <did>
+            <unittitle>Thomas Wolfe, "Report on World Production, Marketing, and Use of Gold,"
+              undated, and "Structure of World Gold Stocks," 1977</unittitle>
+            <container id="aspace_992529e565750f2d01221cdf1d74efe8" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref267_nt1" level="file">
+          <did>
+            <unittitle>David Glasner, "A Reinterpretation of Classical Monetary Theory,"
+              1982-1983</unittitle>
+            <container id="aspace_44cc62bf7d8285906a781094623cb782" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref268_ijz" level="file">
+          <did>
+            <unittitle>Edgar Schoen, The Undisciplined Dollar, 1980</unittitle>
+            <container id="aspace_efcf4841602dffae1a313d82b179f8c4" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref269_0it" level="file">
+          <did>
+            <unittitle>Data from Ramachandra Bhagavatula, 1981</unittitle>
+            <container id="aspace_82de74296d4029e54bc1e59cb27520eb" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref270_dky" level="file">
+          <did>
+            <unittitle>Gold Commission articles, 1952-1984 and undated</unittitle>
+            <container id="aspace_e10609c3873d57c95eb8075e1edd5e70" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref271_pd5" level="file">
+          <did>
+            <unittitle>Gold Commission reports and articles, 1974-1985</unittitle>
+            <container id="aspace_85406ef9fc888264793bfb7afb0f042e" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref272_8i2" level="file">
+          <did>
+            <unittitle>Articles on the gold standard, 1978-1985 and undated</unittitle>
+            <container id="aspace_6a316b0909d97fbde8396f3a6fc3e235" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref273_q1c" level="file">
+          <did>
+            <unittitle>Articles on the gold standard, 1979-1980</unittitle>
+            <container id="aspace_21df8a99b8a22631d6e1be5a63dc2aac" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref274_gzu" level="file">
+          <did>
+            <unittitle>Reports, 1981</unittitle>
+            <container id="aspace_e91341c98acfc8e4aea5c441290f482a" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref275_jvb" level="file">
+          <did>
+            <unittitle>"Gold in International Monetary Law," Journal of International Law and
+              Economics, 1981</unittitle>
+            <container id="aspace_416e8acb88c14654612122044880791b" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref276_89u" level="file">
+          <did>
+            <unittitle>Gold Commission notes</unittitle>
+            <container id="aspace_956260ea70f229c4c4d118b1a7bbcc76" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref277_gcp" level="file">
+          <did>
+            <unittitle>Tables and reports</unittitle>
+            <container id="aspace_db0ab6a850de90f4a4c13d2ecaad3f0d" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref278_ehu" level="file">
+          <did>
+            <unittitle>Data and tables</unittitle>
+            <physdesc id="aspace_dd47a983892c75e115007f7861dd5817"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_504db42775a81354a76afb03d233964e" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref280_uw0" level="file">
+          <did>
+            <unittitle>Correspondence, 1 June 1981-1982 and undated</unittitle>
+            <physdesc id="aspace_e0c7477a46fb0d1cc9147a857087430c"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_f6571137dc169a298afab075cc280d47" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref283_fqz" level="series">
+        <did>
+          <unittitle>Shadow Open Market Committee, 1998-2006</unittitle>
+          <physdesc id="aspace_fb5f6e12c24285d90139bb9ea5778be1"><extent>1 box</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_588ae4e7dda10880b37490ec551c0a19">
+          <head>Scope and Contents note</head>
+          <p>This series documents Schwartz's participation in the Shadow Open Market Committee,
+            which was founded in 1973 to independently evaluate and critique the actions of the
+            Federal Reserve's Open Market Committee. The series contains materials from the biannual
+            meetings, including folders, programs, research, notes, and papers presented by Schwartz
+            and other members, from 2000 to 2006, as well as a 2002 article about the SOMC.</p>
+        </scopecontent>
+        <c02 id="aspace_ref285_rz1" level="file">
+          <did>
+            <unittitle>European Shadow Financial Regulatory Committee statements,
+              1998-1999</unittitle>
+            <container id="aspace_2c2167a4f6d0655668291fe42070b6f8" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref286_xyt" level="file">
+          <did>
+            <unittitle>13 November 2000 meeting</unittitle>
+            <container id="aspace_70f52f9155462cde5301405bc36e642a" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref287_42u" level="file">
+          <did>
+            <unittitle>30 April 2001 meeting</unittitle>
+            <container id="aspace_e875b0342065fafdf58631de8ba28f7e" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref288_qpi" level="file">
+          <did>
+            <unittitle>14-15 October 2001 meeting</unittitle>
+            <container id="aspace_e00c275fd2fb9dc27fdba7d4701410bc" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref289_8oa" level="file">
+          <did>
+            <unittitle>14-15 April 2002 meeting</unittitle>
+            <container id="aspace_efb4b2ed11292c5cc0b9a418828bef92" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref290_4sr" level="file">
+          <did>
+            <unittitle>18 November 2002 meeting</unittitle>
+            <container id="aspace_76507f93bbd3339c71ed966adb8ad1f9" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref291_d3l" level="file">
+          <did>
+            <unittitle>2002 meeting data</unittitle>
+            <container id="aspace_199f6da9d8ea3d93fbd8f9cf074db3ad" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref292_3z1" level="file">
+          <did>
+            <unittitle>18-19 May 2003 meeting</unittitle>
+            <container id="aspace_1b79a50c0a5e0ff26937afc7ee60ffcc" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref293_m16" level="file">
+          <did>
+            <unittitle>2 May 2004 meeting</unittitle>
+            <container id="aspace_0cb62fe1d73942fa59c2c1e1ea711c3b" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref294_gg0" level="file">
+          <did>
+            <unittitle>14-15 November 2004 meeting</unittitle>
+            <container id="aspace_93b669247fac70f00238e282e7c52cdb" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref295_7pr" level="file">
+          <did>
+            <unittitle>1-2 May 2005 meeting</unittitle>
+            <container id="aspace_697f8bb3fb445119a02316fb270fa2f4" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref296_4qx" level="file">
+          <did>
+            <unittitle>4-5 December 2005 meeting</unittitle>
+            <container id="aspace_77aa1312254f63932f720039853d50e8" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref297_n66" level="file">
+          <did>
+            <unittitle>7-8 May 2006 meeting</unittitle>
+            <container id="aspace_87084f61dc58e20188ebfc83453ba255" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref298_1to" level="file">
+          <did>
+            <unittitle>Charles Plosser, "Monetary Policy: A Shadow Perspective," 2002</unittitle>
+            <container id="aspace_fc591fb48d9b995516762c5a1ee09e4f" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref300_92u" level="series">
+        <did>
+          <unittitle>Milton Friedman Materials, 1952-2008</unittitle>
+          <physdesc id="aspace_4dfcda3959a6dce683c435a3f2adc34a"><extent>3 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_d99de373abc5a2d9d1d25c48c952c27f">
+          <head>Scope and Contents note</head>
+          <p>This series covers Schwartz's longstanding collaboration with Nobel Prize-winning
+            economist Milton Friedman of the University of Chicago. It is divided into three
+            subseries: Writings, Writings About Milton Friedman, and Correspondence. The Writings
+            subseries contains Friedman's columns for Newsweek and the Wall Street Journal along
+            with other journalistic pieces; privately circulated memorandums; talks and articles
+            from throughout his career, including drafts; and materials relating to four major
+            projects: A Monetary History of the United States, 1867-1960, Monetary Trends in the
+            United States and the United Kingdom, and "Monetary Statistics of the United States,"
+            all co-authored with Schwartz, and The Essence of Friedman, a collection of previously
+            published essays. The Writings About Milton Friedman subseries includes both
+            journalistic clippings and academic articles and is arranged chronologically, with
+            separate folders devoted to interviews, the 1976 Nobel, and obituaries/memorials. The
+            Correspondence subseries mostly contains Friedman's extensive correspondence with
+            Schwartz concerning their collaborations in the 1960s and 1970s, although it also
+            includes letters to and from other colleagues. It is arranged chronologically with the
+            exception of a few subject-specific files. Correspondence not directly concerning Milton
+            Friedman is filed in the general "Correspondence" series.</p>
+        </scopecontent>
+        <c02 id="aspace_ref302_52i" level="subseries">
+          <did>
+            <unittitle>Writings</unittitle>
+          </did>
+          <c03 id="aspace_ref303_0ok" level="file">
+            <did>
+              <unittitle>Memorandums, 1965-1986</unittitle>
+              <container id="aspace_c3f9271c267a5c3f745d6d0a8435f825" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref304_2rk" level="file">
+            <did>
+              <unittitle>Newsweek articles, 1966-1986</unittitle>
+              <physdesc id="aspace_f2bfb0456c79034039fc392db8c1505d"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_9cf35cdb51657382683510e3045c463a" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref306_2vc" level="file">
+            <did>
+              <unittitle>Wall Street Journal articles, 1974-1998</unittitle>
+              <container id="aspace_5980d500c98b148a4d2c24c0bc90fd2d" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref307_rzr" level="file">
+            <did>
+              <unittitle>Journalism, 1973-1989 and undated</unittitle>
+              <container id="aspace_e713ac1c8933123b5e61bfd8c7254a6c" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref308_6dg" level="file">
+            <did>
+              <unittitle>Articles listed in AEA Index of Economic Journals</unittitle>
+              <container id="aspace_30c7181c2b0a8a9a4f72b4656b843abb" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref309_lpj" level="file">
+            <did>
+              <unittitle>Articles and Talks, 1952-1998 and undated</unittitle>
+            </did>
+            <c04 id="aspace_ref310_qwk" level="file">
+              <did>
+                <unittitle>Classical Counterrevolution in Monetary Theory and Policy,
+                  1952</unittitle>
+                <container id="aspace_854b3c49e67cae4a95be3e4f7fd66c92" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref311_5w5" level="file">
+              <did>
+                <unittitle>Why the American Economy is Depression-Proof, 1954</unittitle>
+                <container id="aspace_cd4fc835c51dbf2eff949216d0b3455c" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref312_2gs" level="file">
+              <did>
+                <unittitle>A Statistical Illusion in Judging Keynesian Models, 1957</unittitle>
+                <container id="aspace_7a25927f96db1cd6d00708988714187d" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref313_h6f" level="file">
+              <did>
+                <unittitle>Permanent Income Hypothesis, 1958</unittitle>
+                <container id="aspace_e74e58a206db90f092f4f37a7a0558d7" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref314_7a9" level="file">
+              <did>
+                <unittitle>Foreign Economic Aid, 1958</unittitle>
+                <container id="aspace_17f6305a25232297a5ab79d50055cce9" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref315_osv" level="file">
+              <did>
+                <unittitle>Consumption and Saving; "Horizon" in the Permanent Income Hypothesis,
+                  1959</unittitle>
+                <container id="aspace_7621ce9c80589d920ce602dab42325a7" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref316_wxt" level="file">
+              <did>
+                <unittitle>The Demand for Money: Some Theoretical and Empirical Results,
+                  1959</unittitle>
+                <container id="aspace_d19ff197dfc1eb855c8de9c0821491d6" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref317_mb6" level="file">
+              <did>
+                <unittitle>Judging the Predictive Abilities of the Quantity and Income Expenditure
+                  Theories, 1959</unittitle>
+                <container id="aspace_ca0644598362b778c6a3d41e8c3cd44b" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref318_xx4" level="file">
+              <did>
+                <unittitle>The Demand for Money, 1961-1962</unittitle>
+                <container id="aspace_9af9b4ec0f102c7b87bfc06da8b3dfdc" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref319_24d" level="file">
+              <did>
+                <unittitle>The Lag in Effect of Monetary Policy, 1961</unittitle>
+                <container id="aspace_1a35f9a07bd0e6a8a1be46209f5accf7" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref320_thv" level="file">
+              <did>
+                <unittitle>The Report of the Commission on Money and Credit: An Essay in Petitio
+                  Principii, 1961</unittitle>
+                <container id="aspace_647317e0d61c16fffcca2ba653c285e2" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref321_n2x" level="file">
+              <did>
+                <unittitle>Should there be an Independent Monetary Authority?, 1962</unittitle>
+                <container id="aspace_a3cea7c474a666ddba1476f30a6f3867" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref322_jaj" level="file">
+              <did>
+                <unittitle>Statement at Hearings of Banking and Currency Commission, House of
+                  Representatives, 1964</unittitle>
+                <container id="aspace_078ed0a4e699b328f745edac5296aa63" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref323_te2" level="file">
+              <did>
+                <unittitle>Henry Simons Lecture, University of Chicago: The Monetary Theory and
+                  Policy of Henry Simons, 1967</unittitle>
+                <container id="aspace_c4bc9f54e3fdfbbf194be19367aa091b" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref324_m4b" level="file">
+              <did>
+                <unittitle>The Role of Monetary Policy: AEA Presidential Address, 1967</unittitle>
+                <container id="aspace_442dffee81b2cfeac7ce76dc207e494e" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref325_3h2" level="file">
+              <did>
+                <unittitle>International Encyclopedia of Social Sciences entries, 1968</unittitle>
+                <container id="aspace_216fc1806fae46e09b5c053ad9bfff36" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref326_ktj" level="file">
+              <did>
+                <unittitle>Fiscal and Monetary Policy talk in Geneva at Bache Institute,
+                  1969</unittitle>
+                <container id="aspace_31d60801889356719d58edafa20a2693" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref327_ddg" level="file">
+              <did>
+                <unittitle>Euro-Dollar Market: Some First Principles, 1969</unittitle>
+                <container id="aspace_f7f7815bbc88a7f73fcb2f0fc0a562ad" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref328_abj" level="file">
+              <did>
+                <unittitle>Controls on Interest Rates Paid by Banks, 1970</unittitle>
+                <container id="aspace_16d80961d334a1ef14184d8c23ddc0a3" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref329_5oo" level="file">
+              <did>
+                <unittitle>A Theoretical Framework for Monetary Analysis, 1970</unittitle>
+                <container id="aspace_d44345be11ed10740f18e058d8c7a9da" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref330_rwm" level="file">
+              <did>
+                <unittitle>A Quantity Theory of Money, 1970</unittitle>
+                <container id="aspace_983c54310ea60ce6fb986af4e56bda11" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref331_cmq" level="file">
+              <did>
+                <unittitle>"Money" for Encyclopedia Britannica, 1970</unittitle>
+                <container id="aspace_d07739d356e47fddaac927c072929666" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref332_gau" level="file">
+              <did>
+                <unittitle>Irresponsible Monetary Policy, 1971</unittitle>
+                <container id="aspace_fa9d3091d7bf9616f744f9f5b9674276" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref333_ea8" level="file">
+              <did>
+                <unittitle>"Monetary Policy" draft for symposium of American Philosophical Society,
+                  1971</unittitle>
+                <container id="aspace_301eb41686b7b04a5fa684f839d1ec3a" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref334_frw" level="file">
+              <did>
+                <unittitle>Monetary Aggregates and Monetary Policy, 1971</unittitle>
+                <container id="aspace_e9aa8ec57bb0db7aaf3e6e004df5fd85" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref335_2v9" level="file">
+              <did>
+                <unittitle>Statement for Joint Economic Committee hearing "How Well are Fluctuating
+                  Exchange Rates Working?" 1973</unittitle>
+                <container id="aspace_412c18bd74e9edc2ec303780e8764583" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref336_gn3" level="file">
+              <did>
+                <unittitle>Inflation and Unemployment, 1976</unittitle>
+                <container id="aspace_bf31625dcaef6e12a56f3f7d8b404c53" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref337_x18" level="file">
+              <did>
+                <unittitle>Nobel Banquet response, 1976</unittitle>
+                <container id="aspace_baf28c45d20a18ff4f7c208a37ef52f4" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref338_84h" level="file">
+              <did>
+                <unittitle>Adam Smith's Relevance for 1976</unittitle>
+                <container id="aspace_c4a4108ccf4902db5715d1f869e9a6ec" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref339_83d" level="file">
+              <did>
+                <unittitle>Prices of Money and Goods Across Frontiers: the Pound and Dollar over a
+                  Century, 1980</unittitle>
+                <container id="aspace_0f23f619c101e900d5211c89c587d202" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref340_0ht" level="file">
+              <did>
+                <unittitle>Monetary Policy: Theory and Practice, JMCB lecture and article,
+                  1981-1982</unittitle>
+                <container id="aspace_b0ee8db5e12cd749ea8fa7bb405378b7" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref341_6l4" level="file">
+              <did>
+                <unittitle>Monetary Society for a Free Society, 1981</unittitle>
+                <container id="aspace_145f817c3a168af15b9463f5ebe66c0f" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref342_3g9" level="file">
+              <did>
+                <unittitle>What Could Reasonably Have Been Expected from Monetarism: the U.S.,
+                  1983</unittitle>
+                <container id="aspace_3b3251dcb964cf3908a9f1abbf4a92e4" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref343_36b" level="file">
+              <did>
+                <unittitle>Lessons from the 1979-1982 Monetary Policy Experiment, 1984</unittitle>
+                <container id="aspace_3bea03eec0b69c38a476d24462f3a168" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref344_7hy" level="file">
+              <did>
+                <unittitle>Comment on Leland Yeager's Paper on the Keynesian Heritage,
+                  1984</unittitle>
+                <container id="aspace_a6fc7b27a560c0e44ffa2df3d6bd0902" label="Mixed Materials"
+                  type="box">11</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref345_9bz" level="file">
+              <did>
+                <unittitle>Tribute to Arthur Burns, 1987</unittitle>
+                <container id="aspace_d771fa27fea6ae3d5bfef0bef3db6193" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref346_5lc" level="file">
+              <did>
+                <unittitle>The Political Clout of the Elderly, 1988</unittitle>
+                <container id="aspace_e78691a57884dbc9fead6f911f9fda1c" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref347_zzf" level="file">
+              <did>
+                <unittitle>Merits of Flexible Exchange Rates anthology, 1988</unittitle>
+                <container id="aspace_3c63dd87318a2729a13e0595fe572c00" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref348_chl" level="file">
+              <did>
+                <unittitle>Exchange Rate in a Fiat Money World, 1988</unittitle>
+                <container id="aspace_a906484447408d80169f9b6667a6da1e" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref349_ji9" level="file">
+              <did>
+                <unittitle>John Maynard Keynes: Working Papers in Economics, 1988</unittitle>
+                <container id="aspace_a1437b8382ceaa1f55c7a65b76f82c79" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref350_f7j" level="file">
+              <did>
+                <unittitle>Using the Market for Social Development, 1989</unittitle>
+                <container id="aspace_5c464b18bc14049a9aa5184d89aef4b0" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref351_y0k" level="file">
+              <did>
+                <unittitle>Fraser Forum, 1989</unittitle>
+                <container id="aspace_be6ccf0682e26b64c3184c7906d95ec4" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref352_q4a" level="file">
+              <did>
+                <unittitle>Views on the State of Affairs, 1989</unittitle>
+                <container id="aspace_c4a5dc79c15e4ddb979bd2b7445c3831" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref353_7vi" level="file">
+              <did>
+                <unittitle>The Adam Smith Address: Suicidal Impulse of the Business Community,
+                  1990</unittitle>
+                <container id="aspace_dfcd540b03efeeb3fce33bad0ebc48e8" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref354_ior" level="file">
+              <did>
+                <unittitle>Why Government is the Problem, 1991</unittitle>
+                <container id="aspace_a8916a386e292d09775363befb1b000a" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref355_apo" level="file">
+              <did>
+                <unittitle>Speaking to Oppenheimer Clients, 1991-1992</unittitle>
+                <container id="aspace_cc92cffa4de398273675a8daa67c8c6a" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref356_jag" level="file">
+              <did>
+                <unittitle>Economic Freedom, Human Freedom, Political Freedom, 1991</unittitle>
+                <container id="aspace_0e3b8161234a29f5baef9a92cb15a4a3" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref357_5rl" level="file">
+              <did>
+                <unittitle>Churning Your Money at the Friendly Fed, 1993</unittitle>
+                <container id="aspace_3427e76989ceaffe6f1b9e27f5830725" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref358_qnu" level="file">
+              <did>
+                <unittitle>"Plucking Model" of Business Fluctuations Revisited, 1993</unittitle>
+                <container id="aspace_f32884edcac7a998d72f5e8ae7ae6fb9" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref359_apk" level="file">
+              <did>
+                <unittitle>The Euro, 1997</unittitle>
+                <container id="aspace_a07711185d27f19371e8a334a31f4c15" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref360_v15" level="file">
+              <did>
+                <unittitle>If Only the U.S. was as Free as Hong Kong, 1998</unittitle>
+                <container id="aspace_fc63e85f7db851803a3676bcad27d17f" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref361_3e7" level="file">
+              <did>
+                <unittitle>Britain: 1952-1954 (from Two Lucky People), undated</unittitle>
+                <container id="aspace_75be76081999995d4be0d480c677e130" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref362_pdo" level="file">
+              <did>
+                <unittitle>Tradeoffs in Monetary Policy, undated</unittitle>
+                <container id="aspace_ee8e2c782bb1b4c55172748114b060f7" label="Mixed Materials"
+                  type="box">12</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref363_hv9" level="file">
+            <did>
+              <unittitle>Positive Economics reviews, 1954</unittitle>
+              <container id="aspace_60251c66a824fdf791d5b0c2828b414d" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref364_mq2" level="file">
+            <did>
+              <unittitle>Monetary versus Fiscal Policy, with Walter Heller, 1969</unittitle>
+              <container id="aspace_721239558b067315e14efddd645c7209" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref365_6ym" level="file">
+            <did>
+              <unittitle>Monetary History of the United States, with Anna Schwartz, reviews and
+                articles, 1964-2000</unittitle>
+              <container id="aspace_f43f68f60520318877b6204b9f77fd7a" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref366_28t" level="file">
+            <did>
+              <unittitle>Monetary History of the United States edits and corrections,
+                1964-1978</unittitle>
+              <container id="aspace_169be9b90b10f1d43a9e925d25d32995" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref367_alb" level="file">
+            <did>
+              <unittitle>CATO forum on Monetary History text, 2003</unittitle>
+              <container id="aspace_df96f1e78b7faadf68adb4622cfe5521" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref368_dxh" level="file">
+            <did>
+              <unittitle>Anti-Semitism, Banks, and the Great Depression, 1974</unittitle>
+              <container id="aspace_5c04891d60c11aaccab6abd204d97c49" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref369_8xy" level="file">
+            <did>
+              <unittitle>Monetary Statistics of the United States reviews, 1969-1974</unittitle>
+              <container id="aspace_c15293ce0f7460fc39ecccc65ac02871" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref370_3vg" level="file">
+            <did>
+              <unittitle>Monetary Trends in the United States and United Kingdom reviews and
+                corrections, 1982-1984</unittitle>
+              <container id="aspace_f043fc5f603baa95ac026417ad89154a" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref371_5bb" level="file">
+            <did>
+              <unittitle>Trends in Money, Income, and Prices - correspondence re: revisions,
+                1966-1967</unittitle>
+              <container id="aspace_ef5fbb1f32702ea051c8de44ae1bc484" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref372_vsm" level="file">
+            <did>
+              <unittitle>Essence of Freedom drafts</unittitle>
+              <physdesc id="aspace_79b3eb8be94ff526edf4aecead4996ad"><extent>4
+                folders</extent></physdesc>
+              <container id="aspace_e8d01016ac733098473a39c4054071c4" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref374_ho6" level="file">
+            <did>
+              <unittitle>Silver Memorandum and the Crime of 1873, 1988</unittitle>
+              <container id="aspace_562066e815a3b03258b38c03f6556a3a" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref375_1b8" level="file">
+            <did>
+              <unittitle>Two Lucky People reviews, 1998</unittitle>
+              <container id="aspace_00ae287541daef5714397cb65001aa52" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref376_vzj" level="file">
+            <did>
+              <unittitle>The Great Contraction, 2008 edition</unittitle>
+              <physdesc id="aspace_f1436c3045e0c8d372730ed9c12e18d7"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_822d612535c74a37dff44675728ac825" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref378_0jj" level="file">
+            <did>
+              <unittitle>"Life on the Hook" Friedman autobiography (?), undated</unittitle>
+              <container id="aspace_42e909977aec5aacc7c880a1b15a7611" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref379_pjh" level="file">
+            <did>
+              <unittitle>Untitled and undated comments by Milton Friedman</unittitle>
+              <container id="aspace_92e43e859f87ac78d160786bc121f410" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref380_bfb" level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 id="aspace_ref381_w9w" level="file">
+            <did>
+              <unittitle>Correspondence, May 1956-July 1999</unittitle>
+              <physdesc id="aspace_9960b6d162aedeee5c26e5a6a4ec4208"><extent>5
+                folders</extent></physdesc>
+              <container id="aspace_bae073029c05e60722fd4bbacdf4ff86" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref383_f9o" level="file">
+            <did>
+              <unittitle>Correspondence between Friedman, Schwartz, and Meltzer re: Proxmire's
+                letter to Burns, 1973-1974</unittitle>
+              <container id="aspace_f8159786c4b6df68165d5d11e4a49339" label="Mixed Materials"
+                type="box">12</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref384_4ro" level="file">
+            <did>
+              <unittitle>Correspondence with Joe Cobb re: Gold Coinage Act, 1981</unittitle>
+              <container id="aspace_691ae624d148961f7d9b386a6fff13df" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref385_nxo" level="file">
+            <did>
+              <unittitle>Correspondence with Schwartz, Hetzel, and A. Orphanides re: Orphanides'
+                paper, "The Quest for Prosperity without Inflation," May-July 1999</unittitle>
+              <container id="aspace_1deb3978e6f2cfddcf8e006500cbfa99" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref386_y2p" level="file">
+            <did>
+              <unittitle>Correspondence, undated</unittitle>
+              <container id="aspace_bd7f69a8c6908fe2207c9a789d43c918" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref387_6oa" level="subseries">
+          <did>
+            <unittitle>Writings about Friedman</unittitle>
+            <container id="aspace_13face3507f8ccfe5d26b6019f1c66e0" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+          <c03 id="aspace_ref388_8ux" level="file">
+            <did>
+              <unittitle>Clippings, 1968-2008 and undated</unittitle>
+              <container id="aspace_39df6dfd528f7986bc9f9c53b7e75cc9" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref389_wto" level="file">
+            <did>
+              <unittitle>Interviews, 1973-2007</unittitle>
+              <container id="aspace_f31c32ad73eba81947858a6d048b66a4" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref390_qaa" level="file">
+            <did>
+              <unittitle>Nobel Prize, 1976</unittitle>
+              <container id="aspace_0743a86b560ff47f5209143780b0492f" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref391_7qm" level="file">
+            <did>
+              <unittitle>Rose Friedman, "Milton Friedman: Husband and Colleague,"
+                1976-1977</unittitle>
+              <container id="aspace_6b0f7e4bf565c15ef5f563ff0a888790" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref392_05m" level="file">
+            <did>
+              <unittitle>Bo Axell and Birgitta Swedenborg, "Milton Friedman och ekonomipriset,"
+                1977</unittitle>
+              <container id="aspace_89fecc2b014e30a61e30f835c7b7f3f5" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref393_0p3" level="file">
+            <did>
+              <unittitle>Anna Schwartz, "Milton Friedman," 1979</unittitle>
+              <container id="aspace_2dc4343b219edf7e38b3188d5b0f3a20" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref394_b7k" level="file">
+            <did>
+              <unittitle>Alan Walters, "Milton Friedman," with correspondence, 1985</unittitle>
+              <container id="aspace_435400705c7fad876bedf58b52ea14b7" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref395_a3j" level="file">
+            <did>
+              <unittitle>Jonathan Peterson, "The Captain of Capitalism," 1986</unittitle>
+              <container id="aspace_b5be8f68ffe456bbb673dc766f57a43f" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref396_frr" level="file">
+            <did>
+              <unittitle>Robert Hetzel, "Development and Influence of the Ideas of Milton Friedman,"
+                1997</unittitle>
+              <container id="aspace_1d960b2d0d67eb0f6ba1c60ed75e1d41" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref397_ich" level="file">
+            <did>
+              <unittitle>Pacific Research Institute, "Milton Friedman," 1997</unittitle>
+              <container id="aspace_a7fd9ccf7a3c6cd3172cd4d7f7eac7f8" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref398_u8e" level="file">
+            <did>
+              <unittitle>Deirdre McCloskey, "Milton," 2003</unittitle>
+              <container id="aspace_edd8ac3b3256e01150b61cee2383f471" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref399_hcy" level="file">
+            <did>
+              <unittitle>Richard Timberlake, "Golden Facades," and correspondence, 2004</unittitle>
+              <container id="aspace_4d14d9d13cf45aa309724c9f6bc58381" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref400_oni" level="file">
+            <did>
+              <unittitle>Michel de Vroey, "On the Right Side for the Wrong Reason," 2004</unittitle>
+              <container id="aspace_6df9b47f7899af9beb032f9ed428b9f0" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref401_wws" level="file">
+            <did>
+              <unittitle>Costas Meghir, "A Retrospective on Friedman's Theory of Permanent Income,"
+                2004</unittitle>
+              <container id="aspace_a5d999f90e30ff67a10e231b9966164b" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref402_1jd" level="file">
+            <did>
+              <unittitle>John Ward, "The View from Up There," 2006</unittitle>
+              <container id="aspace_3ebd4fa6d0648778ad47eb3fd7a9e88a" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref403_vyr" level="file">
+            <did>
+              <unittitle>Robert Hetzel, "The Contributions of Milton Friedman to Economics,"
+                2006</unittitle>
+              <container id="aspace_97b7b86c7c1164b406a0afc311107a05" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref404_8qo" level="file">
+            <did>
+              <unittitle>Obituaries and memorials, 2006-2007</unittitle>
+              <container id="aspace_4fa46e18a5b4060d8ad04918908d87ea" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref405_stl" level="file">
+            <did>
+              <unittitle>David Laidler's review of Lanny Ebenstein's Milton Friedman,
+                2007</unittitle>
+              <container id="aspace_cade7bd07b1aee0bfa6446eb2412a25b" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref406_9ki" level="file">
+            <did>
+              <unittitle>Edward Nelson, "Milton Friedman and U.S. Monetary History,"
+                2007</unittitle>
+              <container id="aspace_732e9570c378bcae170c04a040315ca8" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref407_qkt" level="file">
+            <did>
+              <unittitle>Anna Schwartz and Edward Nelson responses to Paul Krugman,
+                2007-2008</unittitle>
+              <container id="aspace_eada54349ad5588f895e4f2e430d7310" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref408_mmh" level="file">
+            <did>
+              <unittitle>Macesich, "Dictionary of the History of American Banking,"
+                undated</unittitle>
+              <container id="aspace_6e5e56d31748941367eb8f56583eb38b" label="Mixed Materials"
+                type="box">13</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref409_5f8" level="file">
+          <did>
+            <unittitle>Xeroxed photographs of Friedman</unittitle>
+            <container id="aspace_72e7b07c079e9af62d4eec38d4059c49" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref410_og6" level="file">
+          <did>
+            <unittitle>Events and programs in Friedman's honor</unittitle>
+            <container id="aspace_18db7af072bc46064234bdfa1c94b293" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref411_cfx" level="file">
+          <did>
+            <unittitle>Miscellaneous unlabelled materials, undated</unittitle>
+            <container id="aspace_52072fdc3339315e9f67613896a77054" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref412_7ey" level="file">
+          <did>
+            <unittitle>Conference in Honor of Milton Friedman's 60th Birthday: scrapbook pages with
+              photographs (also listed above in Conferences Series)</unittitle>
+            <container id="aspace_05b83a265a8f22d4db15068be9a5bc8a" label="Mixed Materials"
+              type="box">18</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref414_axg" level="series">
+        <did>
+          <unittitle>Writings by Others, 1932-2009</unittitle>
+          <physdesc id="aspace_5f50cd6c29f3df1db89297a5f561a3f1"><extent>5 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_5d00cd78c456a18e4b0598093c26914c">
+          <head>Scope and Contents note</head>
+          <p>The Writings by Others series is arranged alphabetically by last name and contains both
+            drafts and published pieces by Schwartz's colleagues and other notable figures. Several
+            writers receive a significant amount of coverage: Michael Bordo, Charles Calomiris,
+            Robert Hetzel, Edward Kane, Allan Meltzer, and Scott Sumner. The "Referee's Reports"
+            subseries is devoted to Schwartz's editorial work providing reader's reports.</p>
+        </scopecontent>
+        <c02 id="aspace_ref416_oqs" level="file">
+          <did>
+            <unittitle>Abrams, Burton</unittitle>
+            <container id="aspace_88606f727a94a5f0ce907246d17cb41e" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref417_i40" level="file">
+          <did>
+            <unittitle>Alvarez, Atkeson, Edmund</unittitle>
+            <container id="aspace_96339fda2d321047ea16de0708d49087" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref418_6t7" level="file">
+          <did>
+            <unittitle>Ball, Lawrence</unittitle>
+            <container id="aspace_4164234e70bf5c4e631e48b4b1eef1de" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref419_mtk" level="file">
+          <did>
+            <unittitle>Benderly, Jason and Burton Zwick</unittitle>
+            <container id="aspace_23a2a145a8323dcc1770631aed9720e2" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref420_eo7" level="file">
+          <did>
+            <unittitle>Bernanke, Ben</unittitle>
+            <container id="aspace_40a6ec0e7f35dd097eb6f75a3d9d7026" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref421_ssj" level="file">
+          <did>
+            <unittitle>Blair, Tony</unittitle>
+            <container id="aspace_83551bfc45d15c05b3e9281b709a3428" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref422_knx" level="file">
+          <did>
+            <unittitle>Blinder, Alan</unittitle>
+            <container id="aspace_5ec4704a2570bdae90c5ef4e641c73e8" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref423_rlc" level="file">
+          <did>
+            <unittitle>Bordo, Michael</unittitle>
+            <physdesc id="aspace_4074c0916ef4a78e7a159526e8a4955f"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_dfe442d18b1180c03eaaec66566d78d7" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref425_69e" level="file">
+          <did>
+            <unittitle>Brenner, Reuben and Gabrielle</unittitle>
+            <physdesc id="aspace_0faaddebdbeda1ad220beb0056cc0f8e"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_409b7597d33beaf92985ed44af584d7d" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref427_lch" level="file">
+          <did>
+            <unittitle>Brunner, Karl</unittitle>
+            <container id="aspace_aa0e8e825d441f759da93d9734fe97b3" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref428_phm" level="file">
+          <did>
+            <unittitle>Buiter, William</unittitle>
+            <container id="aspace_6a68b5408ec9889b52b42a0acdb74990" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref429_cj0" level="file">
+          <did>
+            <unittitle>Cagan, Phillip</unittitle>
+            <container id="aspace_9179c0b73b95e8ff2550a573046c7bec" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref430_7i8" level="file">
+          <did>
+            <unittitle>Calomiris, Charles</unittitle>
+            <physdesc id="aspace_fbc17e0ae083faad8cfe300420ae26d8"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_99c993bf5257b7874445db2c03eedcb7" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref432_md9" level="file">
+          <did>
+            <unittitle>Capie, Forrest</unittitle>
+            <container id="aspace_00282e42a818d6ca195b8a60fda504c1" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref433_bpz" level="file">
+          <did>
+            <unittitle>Cachetti, Genberg, Lipsky, Wadhwani</unittitle>
+            <container id="aspace_825bd632a134766400bc126d6f1066e1" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref434_t41" level="file">
+          <did>
+            <unittitle>Collins, Michael</unittitle>
+            <container id="aspace_eeefb1680addaadd1874f448a11b4274" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref435_cbl" level="file">
+          <did>
+            <unittitle>Demyanyk, Y., et al.</unittitle>
+            <container id="aspace_a3b2016c52febea9cd8597a153c38b32" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref436_i3p" level="file">
+          <did>
+            <unittitle>Dorn, James A.</unittitle>
+            <container id="aspace_66969667730cd7f1462b31bf681fa2aa" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref437_gjz" level="file">
+          <did>
+            <unittitle>Eggertsson, Gauti</unittitle>
+            <container id="aspace_1adeb406e39d3285952892bdb5d1fa22" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref438_ozd" level="file">
+          <did>
+            <unittitle>Fand, David</unittitle>
+            <container id="aspace_1225fd0e5a0705215b0533846fcb3e55" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref439_5e3" level="file">
+          <did>
+            <unittitle>Feldstein, Martin</unittitle>
+            <container id="aspace_6f3ede74251e80800fab7cfe6f0f15c8" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref440_ahr" level="file">
+          <did>
+            <unittitle>Flandreau, Marc</unittitle>
+            <container id="aspace_30f5e4ace596da90b2d06b259eaceca6" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref441_j1d" level="file">
+          <did>
+            <unittitle>Gandolfi, Gandolfi, and Barash</unittitle>
+            <container id="aspace_a310c78a811f3a0464bc154669d8240c" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref442_r90" level="file">
+          <did>
+            <unittitle>George, Eddie</unittitle>
+            <container id="aspace_10a27a4fa32ae5a510b1e1e6fe663be8" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref443_ylj" level="file">
+          <did>
+            <unittitle>Greenspan, Alan</unittitle>
+            <container id="aspace_80014f6a5e8ec935855c494be7e0ade3" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref444_6o7" level="file">
+          <did>
+            <unittitle>Grilli, Enzo, and Maw Cheng Yang</unittitle>
+            <container id="aspace_5ecf2093bc57f10730b3e45f5775f387" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref445_0bp" level="file">
+          <did>
+            <unittitle>Hanke, Steve</unittitle>
+            <container id="aspace_73328ab28e975dc8ba0a935fb73825f0" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref446_6ex" level="file">
+          <did>
+            <unittitle>Hetzel, Robert</unittitle>
+            <physdesc id="aspace_5f053c063b139fced52a7212714e4046"><extent>10
+              folders</extent></physdesc>
+            <container id="aspace_749b0778f05e1d30c8c622133bb6805d" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref448_u13" level="file">
+          <did>
+            <unittitle>Humpage, Owen</unittitle>
+            <container id="aspace_cd61e1525c8b63ef403150adc3f27c65" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref449_oh2" level="file">
+          <did>
+            <unittitle>Humphrey, Thomas</unittitle>
+            <container id="aspace_0c7ec64ef779cf4fdd3e28c739512f46" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref450_cuk" level="file">
+          <did>
+            <unittitle>Irwin, Douglas</unittitle>
+            <container id="aspace_f345012eec5c0e8ccc6b439503e5b7cc" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref451_lqy" level="file">
+          <did>
+            <unittitle>Kane, Edward</unittitle>
+            <physdesc id="aspace_e3e8b299e07fe0a32ce41f12a6a983b7"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_f9ff4f9f713c1c7ecd3a34289704e169" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref453_fmd" level="file">
+          <did>
+            <unittitle>Kaufman, George</unittitle>
+            <container id="aspace_61d3c268ce93451118dd8e8520d1a8ab" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref454_8ii" level="file">
+          <did>
+            <unittitle>Kroos, Herman (essays in memorial)</unittitle>
+            <container id="aspace_7b6624992b40dfa632d57c8d7a7fbd81" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref455_cum" level="file">
+          <did>
+            <unittitle>Laidler, David</unittitle>
+            <container id="aspace_16fdd95f272b84adabe3cc29a2dce3c4" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref456_1i1" level="file">
+          <did>
+            <unittitle>Lastrapes, William and George Selgin</unittitle>
+            <container id="aspace_bb6b614e9cb04855e3ba58d46dd0f108" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref457_ivn" level="file">
+          <did>
+            <unittitle>Levin, Andrew and John Taylor</unittitle>
+            <container id="aspace_9c3d0b8ef2e8a9acd3a7966134f0da47" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref458_qqe" level="file">
+          <did>
+            <unittitle>Lindbeck, Assar et al.</unittitle>
+            <container id="aspace_9f401aa4a6f32fe1b5dc723d4ec26bc6" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref459_a8e" level="file">
+          <did>
+            <unittitle>Mason, Joseph</unittitle>
+            <container id="aspace_817955a8ecf1546572786a0b4f927b17" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref460_8zg" level="file">
+          <did>
+            <unittitle>McCallum, Bennett</unittitle>
+            <container id="aspace_e10e7d70825270f7aaa7154193d81404" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref461_lim" level="file">
+          <did>
+            <unittitle>Meltzer, Allan</unittitle>
+            <physdesc id="aspace_787328405cec09e00de066d27e6d063e"><extent>7
+              folders</extent></physdesc>
+            <container id="aspace_2f0634c29338104fd007edd4d56431db" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref463_1l5" level="file">
+          <did>
+            <unittitle>Meltzer, Allan</unittitle>
+            <physdesc id="aspace_6784d693fdc76de0a5af9b1ac03eed60"><extent>10
+              folders</extent></physdesc>
+            <container id="aspace_0b2106108fbc28aa8508791bad1f91f5" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref465_aag" level="file">
+          <did>
+            <unittitle>Myers, Beckhart, Smith, and Brown</unittitle>
+            <container id="aspace_b4a952b20f57dd60d9593d1ac8125f51" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref466_ol5" level="file">
+          <did>
+            <unittitle>Neal, Larry and Daniel Barzebat</unittitle>
+            <container id="aspace_2f4a745fb76f8e0fa946a1d1c1092321" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref467_ezh" level="file">
+          <did>
+            <unittitle>Nelson, Edward</unittitle>
+            <container id="aspace_d43a92728b1a00464aa06d5bd6f88811" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref468_t6v" level="file">
+          <did>
+            <unittitle>Nishimura, Shizuya</unittitle>
+            <container id="aspace_9db2d6043beb8bb773c650c19f75529f" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref469_4sr" level="file">
+          <did>
+            <unittitle>Obstfeld, Maurice</unittitle>
+            <container id="aspace_4975e00a7a1aab059d52b4ee1ce2a9ae" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref470_w5f" level="file">
+          <did>
+            <unittitle>Officer, Lawrence</unittitle>
+            <container id="aspace_ff506add9c95923ffed11e0bd8852511" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref471_fgu" level="file">
+          <did>
+            <unittitle>Overturf, Steven</unittitle>
+            <container id="aspace_b1985cb13c46a5e35cfda86bafa448a6" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref472_gz5" level="file">
+          <did>
+            <unittitle>Reitz, Stefan and Mark Taylor</unittitle>
+            <container id="aspace_4a26e9467af8de7544fb0ef837a57042" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref473_nf2" level="file">
+          <did>
+            <unittitle>Rich, George</unittitle>
+            <container id="aspace_b7d209bb89b2834f45a2203f473ce6eb" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref474_y5l" level="file">
+          <did>
+            <unittitle>Reinhart, Carmen and Kenneth Rogoff</unittitle>
+            <container id="aspace_6f076858237603d8d96a417a951045db" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref475_cyw" level="file">
+          <did>
+            <unittitle>Sarno, Lucio, and Mark Taylor</unittitle>
+            <container id="aspace_60ad3b381a59c92eb7910dee332a5e07" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref476_dk7" level="file">
+          <did>
+            <unittitle>Schneider, Erich</unittitle>
+            <container id="aspace_9a7ec9b62670324bbef05cc57ece509f" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref477_uc5" level="file">
+          <did>
+            <unittitle>Schwartz, David</unittitle>
+            <container id="aspace_9cf898c523b0fdeb8ecfea01b527095d" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref478_f5l" level="file">
+          <did>
+            <unittitle>Schwartz, Joel</unittitle>
+            <container id="aspace_ae22416fd58ca1ca1136c01bc9e75914" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref479_iph" level="file">
+          <did>
+            <unittitle>Selgin, George</unittitle>
+            <container id="aspace_7e737fd31ee43ea3d193985c70ab2a46" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref480_ylv" level="file">
+          <did>
+            <unittitle>Silver, Andrew</unittitle>
+            <container id="aspace_025b03152e3e2596d16cbae4dd3d521e" label="Mixed Materials"
+              type="box">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref481_7el" level="file">
+          <did>
+            <unittitle>Summer, Scott</unittitle>
+            <physdesc id="aspace_f9b19e0aab1199bf758b788353d29008"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_7e8da6462b1b738c2a0d917ac0a12c93" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref483_zqg" level="file">
+          <did>
+            <unittitle>Taylor, James</unittitle>
+            <container id="aspace_c2152fce23c6fac95c051581aab73671" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref484_1h7" level="file">
+          <did>
+            <unittitle>Thornton, Daniel</unittitle>
+            <container id="aspace_17c9b087dba5e4510502dfbcf0493908" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref485_0hw" level="file">
+          <did>
+            <unittitle>Timberlake, Richard and Kevin David</unittitle>
+            <container id="aspace_d3218154dc81422d4baa9213295a962b" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref486_oet" level="file">
+          <did>
+            <unittitle>Todd, Walker</unittitle>
+            <container id="aspace_b364039061e4250c77048b5994b7a950" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref487_1rc" level="file">
+          <did>
+            <unittitle>Veronesi, Paul and L. Zingales</unittitle>
+            <container id="aspace_fbb7574b8fd7cce30f7f5c995302ef20" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref488_55e" level="file">
+          <did>
+            <unittitle>Warburton, Peter</unittitle>
+            <container id="aspace_97c23444cd6b41be50a54dbb3143b7ee" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref489_1jp" level="file">
+          <did>
+            <unittitle>Weber, E. Juerg</unittitle>
+            <container id="aspace_1449896503a5256d33bb3c291abd6ca1" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref490_b5t" level="file">
+          <did>
+            <unittitle>Weller, Christian and Jurgen von Hagan</unittitle>
+            <container id="aspace_44318428407032088425b246e7e30d78" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref491_t4j" level="file">
+          <did>
+            <unittitle>Wood, Geoffrey</unittitle>
+            <container id="aspace_241293ad6c13753304edc42a8087feb5" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref492_2qo" level="file">
+          <did>
+            <unittitle>Untitled U.S. Exchange Rate paper, undated</unittitle>
+            <container id="aspace_91523aa36643f4275002a1beccd86d8c" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref493_n4x" level="subseries">
+          <did>
+            <unittitle>Referee Reports</unittitle>
+          </did>
+          <c03 id="aspace_ref494_qgc" level="file">
+            <did>
+              <unittitle>Burdekin, Richard: Nontraditional Monetary Policy Options,
+                2004-2005</unittitle>
+              <container id="aspace_7f5a3b56771abdb9bb08d006c29314c2" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref495_6kl" level="file">
+            <did>
+              <unittitle>Frankel, Jeremy: A Proposed Monetary Regime for Small Commodity Exporters,
+                2002</unittitle>
+              <container id="aspace_c216eb814282edecf7118536822a629f" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref496_dy5" level="file">
+            <did>
+              <unittitle>Hanes, Christopher: The Liquidity Trap and U.S. Interest Rates in the
+                1930s, 2003</unittitle>
+              <container id="aspace_c2b1b1ea839e0381c87ba65e3c63fc59" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref497_4kh" level="file">
+            <did>
+              <unittitle>Hetzel, Robert</unittitle>
+              <container id="aspace_2f8570035931b6b0780d27e1acd35e61" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref498_3r6" level="file">
+            <did>
+              <unittitle>Rockoff, Hugh</unittitle>
+              <container id="aspace_e0341413806f9fe7c1c20a8a8c540b56" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref499_bnx" level="file">
+            <did>
+              <unittitle>Schnabel, Isabel: The Role of Liquidity and Implicit Guarantees in the
+                German Twin Crisis of 1931, 2005</unittitle>
+              <container id="aspace_8c0dea9a73c744d68bfa2d997b7b9e1a" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref500_4un" level="file">
+            <did>
+              <unittitle>Selgin, George and Lawrence White: Credible Currency, 2001</unittitle>
+              <container id="aspace_eae55fb5c525e2a2207302e042f08c73" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref501_yfd" level="file">
+            <did>
+              <unittitle>Werner, Richard: The Historical Rationale of Credit Direction Policies,
+                2003</unittitle>
+              <container id="aspace_77eb25ddf40dd17b7c978be2267ff787" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref502_yrw" level="file">
+            <did>
+              <unittitle>White, Lawrence: Did Hayek and Robbins Deepen the Great Depression?,
+                2007</unittitle>
+              <container id="aspace_21efe6aff4eab821c9f1807b203571ce" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref503_049" level="file">
+            <did>
+              <unittitle>Wood, John: Companies of Merchants, 2002-2003</unittitle>
+              <container id="aspace_966449d840abf7096f7b78256c8dec5f" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref504_rlt" level="file">
+            <did>
+              <unittitle>Extending the Friedman-Schwartz Monetary Base, the Balance of Payments, and
+                U.S. Economic Performance by Period, 1789-1932, 2000 (no author)</unittitle>
+              <container id="aspace_c5c2018f9fb1ffb9475ec9cd40dca22c" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref505_wgn" level="file">
+            <did>
+              <unittitle>Fixed Exchange Rates Under a Currency Board versus a Central Bank, 2004 (no
+                author)</unittitle>
+              <container id="aspace_aef7833d8bb62602782cb3ac0060f9b3" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_cef7e147af0192cd0246f7ef2cbefe42" level="series">
+        <did>
+          <unittitle>Electronic Materials</unittitle>
+          <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">80
+              Megabytes</extent></physdesc>
+          <unitdate normal="2012/2012">2012</unitdate>
+          <physdesc id="aspace_f58db3718463c84bc70b9b9907227dc0">353 files including mostly Word and
+            PDF document files; approximately 80 megabytes. </physdesc>
+          <dao xlink:actuate="onRequest"
+            xlink:href="\\tts-nas-03.win.duke.edu\rubenstein_archive\erecs_processed\RL01152_schwartzanna\RL01152-LFF-0001"
+            xlink:role="electronic-record-master" xlink:show="new"
+            xlink:title="Anna Schwartz Electronic Materials" xpointer="RL01152-LFF-0001"/>
+        </did>
+        <accessrestrict id="aspace_a73ed79326eb6a683757355865612233">
+          <head>Conditions Governing Access</head>
+          <p>Electronic records in this file have been migrated to a library server and digital use
+            copies can only be accessed onsite in the Rubenstein Library Reading Room. To request
+            access, please contact Research Services before coming to use these records.</p>
+        </accessrestrict>
+        <scopecontent id="aspace_a0ebe04392ce178239125439aaedf57a">
+          <head>Scope and Contents</head>
+          <p>This file includes electronic materials received from Schwartz's office at the National
+            Bureau of Economic Research office in New York City. The electronic materials cover
+            professional and personal papers of Anna Schwartz, including correspondence, conference
+            files, research files, writing drafts, writings, newspaper clippings, photos, and her
+            bio/CV.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

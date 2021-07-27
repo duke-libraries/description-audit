@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/tompkinsdaniela/"
+         >tompkinsdaniela</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Daniel Augustus Tompkins Papers, 1774-1976 <num>RL.01301</num>
+            </titleproper>
+            <author>Processed by: Noah Huffman; machine-readable finding aid created by: Noah
+               Huffman</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000875841</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 12:06:47
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Daniel Augustus Tompkins papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Tompkins, Daniel Augustus, 1851-1914</persname>
+         </origination>
+         <unitid>RL.01301</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">11 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1774/1976" type="inclusive">1774-1976</unitdate>
+         <physloc id="aspace_d501c2af4287626043a87ee80f9c1abb">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_bdf18c3f63284d62ea2de8a689d725e0">Engineer, author, and entrepreneur,
+            of Charlotte (Mecklenburg Co.), N.C. Collection contains letters and papers relating to
+            Tompkins' work in the Pennsylvania steel industry, specifically with the Bethlehem Iron
+            Works, his career as an industrial engineer in North Carolina with the Westinghouse
+            Machine Company, his personal life, his activities as co-owner of the Charlotte Observer
+            and his disputes with the editor, J. C. Hemphill, his patents and inventions, his
+            business activities and involvement with the textile, brick, and other industries, and
+            the settlement of his estate. Includes ledgers and a stockholders' minute book of the D.
+            A. Tompkins Company.</abstract>
+         <physdesc id="aspace_8eab21b2d26a689713fc74c790d6f65f">
+            <extent>6432 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_9d532fe7e5890dd8a2e4d752a26f9051">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_f58808834105ef0d5b28eeb15bc28ab7">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_4f95d46d946e8a3528280c6f51c6db82">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_f78656cf8ed54cea28510e39c8e9e5f6">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Daniel Augustus Tompkins Papers, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_49b21a30b1f808cd1e6b815d7c137978">
+         <head>Provenance</head>
+         <p>The Daniel Augustus Tompkins Papers were received by the David M. Rubenstein Rare Book
+            &amp; Manuscript Library as a gift between 1950 and 1973.</p>
+      </acqinfo>
+      <processinfo id="aspace_baf665eb23a6de9f59b28dbe1af95cdf">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library Staff</p>
+         <p>Encoded by Noah Huffman, February 2012</p>
+         <p>Accession(s) described in this finding aid: 1950-1973</p>
+      </processinfo>
+      <bioghist id="aspace_5ed149b87955d8c6487cd01e0fab14fe">
+         <head>Biographical Note</head>
+         <p>Daniel Augustus Tompkins (1851-1914) was an engineer, author, and entrepreneur, of
+            Charlotte (Mecklenburg Co.), N.C.</p>
+      </bioghist>
+      <scopecontent id="aspace_60188ade09867be45fb621dc191b77b8">
+         <head>Collection Overview</head>
+         <p>Collection consists of personal, business, legal, and financial papers of Daniel
+            Augustus Tompkins (1851-1914), Charlotte businessman. Correspondence, 1874-1884, is
+            principally with his fiancee, Harriet Brigham, discussing personal matters; his work and
+            colleagues at the Bethlehem Iron Works, Bethlehem, Pennsylvania, where Tompkins was
+            employed as a machinist, 1874-1881; economic conditions relating to Bethlehem Iron
+            Works; life in boarding houses; social and cultural life in Bethlehem; Lehigh
+            University, Bethlehem, Pennsylvania; his organization of a savings and loan association;
+            John Fritz, mechanical engineer at Bethlehem Iron Works; and his work as an engineer and
+            sales agent in Charlotte, North Carolina, for the Westinghouse Machine Company.</p>
+         <p>A ledger, 1881-1886, contains accounts for public committees in Bethlehem including
+            fire, street, lock-up, lamp, health, police, ordinance, finance, and market; and
+            accounts, 1883-1884, for selling steam engines for the Westinghouse Machine Company.
+            Scattered papers, 1884-1914, generally pertain to Tompkins's investments, and to his
+            dispute over editorial policies with James Calvin Hemphill, editor of the <title
+               type="simple" render="italic">Charlotte Observer</title>, in which Tompkins owned a
+            majority interest.</p>
+         <p>Included are a cashbook, 1913-1914; notes and bills receivable and payable, 1889-1918;
+            notes, 1906-1907, about gas engines; a journal, 1910-1914; and a ledger, 1907-1914.</p>
+         <p>Papers, 1915-1921, consisting of correspondence, legal and financial papers, scattered
+            minutes, and financial statements, generally relate to the settlement of the Tompkins
+            estate and his investments in the <title type="simple" render="italic">Charlotte
+               Observer</title>; the Observer Printing House; the Greenville (S.C.) News; the
+            Atherton Mills of which Tompkins was a founder; the High Shoals Company; other cotton
+            mills in North and South Carolina, especially Parker Cotton Mills Company,
+            Victor-Monaghan Mills, Hampton Cotton Mills and Issaqueena Mills; the Troy Oil Mill; the
+            D. A. Tompkins Company, manufacturers, engineers, and contractors with machine and
+            roller covering shops; the Switzerland Company, developers of the resort community of
+            Little Switzerland, North Carolina; the Charlotte Sanatorium, a general hospital;
+            banking investments; and the Johnson Publishing Company. </p>
+         <p>There are also correspondence and other papers dealing with the writing of a biography
+            of Daniel Augustus Tompkins by George Tayloe Winston entitled <title type="simple"
+               render="italic">A Builder of the New South: Being the Story of the Life Work of
+               Daniel Augustus Tompkins</title> (New York: 1920); and with bequests to Edgefield,
+            South Carolina, for their library and for the installation of manual training and home
+            economics in the public schools.</p>
+         <p>Accounts for the estate consist of a journal, 1914-1926; cashbooks, 1914-1926; and a
+            trial balances book, 1913-1918. There are also accounts for the D. A. Tompkins Company
+            including a cashbook, 1907-1917; a ledger, 1907-1917; and a minute book, 1906-1916.
+            Accounts for the Troy Oil Mill Company are a cashbook, 1914-1917; a general ledger,
+            1905-1917; and a ledger, 1914-1916.</p>
+         <p>Papers after 1921 are chiefly those of Sterling Graydon (d. 1974), nephew of Daniel
+            Augustus Tompkins, executor of the Tompkins estate, and owner of the Angus Brick
+            Company, Ninety Six, South Carolina. Included are personal correspondence of Graydon and
+            of his wife, Nell (Saunders) Graydon, concerning family matters, politics, economic
+            conditions, the management of the Tompkins estate, and Graydon's ownership of the Angus
+            Brick Company; papers relating to Graydon's stock investments, especially during the
+            1950s; papers dealing with Nell (Saunders) Graydon's historical writings on South
+            Carolina; information on the Cokesbury (South Carolina) Historical Commission and the
+            campaign to preserve the town; accounts relating to the Angus Brick Company, consisting
+            of ledgers, 1930-1945, and cash journals, 1934-1945; a personal cash journal of Sterling
+            Graydon, 1930-1948; and a ledger of Clint T. Graydon, 1930-1935. </p>
+         <p>The collection also contains printed material and pictures.</p>
+         <p>Description taken from: <title type="simple" render="italic">Guide to the Cataloged
+               Collections in the Manuscript Department of the William R. Perkins Library, Duke
+               University</title> (1980)</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Textile industry -- North Carolina</subject>
+         <subject source="lcsh">Industries -- North Carolina</subject>
+         <subject source="lcsh">Inventors -- United States</subject>
+         <geogname source="lcsh">North Carolina -- Economic conditions</geogname>
+         <subject source="lcsh">Steel industry and trade -- Pennsylvania</subject>
+         <subject source="lcsh">American newspapers -- North Carolina -- Charlotte</subject>
+         <subject source="lcsh">Brick trade -- North Carolina</subject>
+         <subject source="lcsh">Industrial engineers -- United States</subject>
+         <corpname source="ingest">Bethlehem Iron Works (Bethlehem, Pa.)</corpname>
+         <corpname source="ingest">D. A. Tompkins Company (Charlotte, N.C.)</corpname>
+         <persname source="ingest">Tompkins, Daniel Augustus, 1851-1914</persname>
+         <persname source="ingest">Hemphill, J. C. (James Calvin), 1850-1927</persname>
+         <corpname source="ingest">Westinghouse Machine Company</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_ahy" level="series">
+            <did>
+               <unittitle>Daniel Augustus Tompkins Papers, 1774-1976</unittitle>
+               <physdesc id="aspace_99a055ef134cb26de5b34ee065d7fc26">
+                  <extent>17 boxes; 31 volumes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref14_vr4" level="file">
+               <did>
+                  <unittitle>Correspondence, 1854-1876</unittitle>
+                  <physdesc id="aspace_714d166e2ac48370617f2e298c83052e">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f4605747c26d82529aab13c1573e27df" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_fo9" level="file">
+               <did>
+                  <unittitle>Correspondence, 1877-1909</unittitle>
+                  <physdesc id="aspace_a691868fbd4c500d741dfdb8b970d0dd">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_62cca512bdda404ad0abd635d6ff90f7" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_2vf" level="file">
+               <did>
+                  <unittitle>Correspondence, 1910-1915 May</unittitle>
+                  <physdesc id="aspace_52d0088826fd0c92ab5d890aad84af6b">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_96e8753d34c5c39f41d63efad0c2ac59" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_n62" level="file">
+               <did>
+                  <unittitle>Correspondence, 1915 June - 1916 April</unittitle>
+                  <physdesc id="aspace_42ed25e1e8d12df8d941ffd190311dba">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_bf9e04d91e89ee09edf12d936d9bd540" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_daw" level="file">
+               <did>
+                  <unittitle>Correspondence, 1916 May - 1917 Jan.</unittitle>
+                  <physdesc id="aspace_b7b4787f3d0333486b96b4bac99e6db4">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ee6370e9fe0b8197cb995f1985fc88d5" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_1vt" level="file">
+               <did>
+                  <unittitle>Correspondence, 1917 Feb. - 1918 May</unittitle>
+                  <physdesc id="aspace_8762119285d1fe4965bad3e77ab74547">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c6f6af7f36ed57ab1b98cc39ef91df3b" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_mfg" level="file">
+               <did>
+                  <unittitle>Correspondence, 1918 June - 1919</unittitle>
+                  <physdesc id="aspace_cbbf9181485afe55925e34eaa9210bf2">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b92d8f83d1c56b728e6e463ccefaaf7b" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_fp1" level="file">
+               <did>
+                  <unittitle>Correspondence, 1920-1931</unittitle>
+                  <physdesc id="aspace_0cf502187332c1abd4e6fb618990d84b">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e20f5a082e9f47b8e5852ac10fd25170" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_io3" level="file">
+               <did>
+                  <unittitle>Correspondence, 1932-1948</unittitle>
+                  <physdesc id="aspace_60504b393210ebb0d1075bcc9a7303a1">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_cb5dac8ef9b2efae5ddc7d62eb21c8b6" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_ee7" level="file">
+               <did>
+                  <unittitle>Correspondence, 1949-1963</unittitle>
+                  <physdesc id="aspace_7b0c6103892b9a8a9863deca44c1160d">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_28aca39302e5ccf612c373aab746e3b3" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_rpe" level="file">
+               <did>
+                  <unittitle>Correspondence, 1964-1967</unittitle>
+                  <physdesc id="aspace_d3c324081afae5dd7c0ce2ce4301faea">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4f65dd377f6d2e80655b6e28038a351d" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_8nd" level="file">
+               <did>
+                  <unittitle>Correspondence, 1968-1973, undated</unittitle>
+                  <physdesc id="aspace_6e54c0177d6b99aa4f567a9040f15de6">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_253ea8adca8a789a62ba688327e3536e" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_kak" level="file">
+               <did>
+                  <unittitle>Legal Papers, 1790-1965, undated</unittitle>
+                  <physdesc id="aspace_8255a9572ed2552f6b17f81a77cc36d2">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_86869cdbd44d2c8b4ec0dc5f785ef529" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_ko9" level="file">
+               <did>
+                  <unittitle>Legal and Financial Papers: Atherton Mills, 1898-1919</unittitle>
+                  <physdesc id="aspace_39ee91bb3ab77772318628f7f4bbcc10">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_01779deebc4473560de681b078c862b1" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_dfg" level="file">
+               <did>
+                  <unittitle>Legal and Financial Papers: Charlotte Sanatorium, 1908-1919</unittitle>
+                  <physdesc id="aspace_b7751dd8469a74513aef32b16693b1d1">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4056618849c8bff97ebc8b9d761a06a2" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_08e" level="file">
+               <did>
+                  <unittitle>Legal and Financial Papers: High Shoals Co., 1901-1919</unittitle>
+                  <physdesc id="aspace_876f1095c61a66321542fdaa51ad63e8">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3763adfc4f70183e2b6e72df19395093" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_gil" level="file">
+               <did>
+                  <unittitle>Legal and Financial Papers: Observer Printing House,
+                     1910-1916</unittitle>
+                  <container id="aspace_ef4f5ee5da28fecd30e702cc7c2fb348" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_flq" level="file">
+               <did>
+                  <unittitle>Legal and Financial Papers: Switzerland Co., 1909-1918</unittitle>
+                  <container id="aspace_27a11bbc4fae6bb77acccb48175dd17a" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_9is" level="file">
+               <did>
+                  <unittitle>Legal and Financial Papers: Troy Oil Mill, 1906-1917</unittitle>
+                  <container id="aspace_511bcdc1725ced476f26ba8ed4cabe95" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_ogp" level="file">
+               <did>
+                  <unittitle>Legal and Financial Papers: D. A. Tompkins Co., 1889-1917</unittitle>
+                  <container id="aspace_c645983f74616877fb8f2313adb1c44e" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_nar" level="file">
+               <did>
+                  <unittitle>Financial Papers, 1793-1963</unittitle>
+                  <physdesc id="aspace_aecdc9b95d9d925fae50046e8ebefc5d">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2219100fe93a3ac47fd8b27d83fd0d0e" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_1g5" level="file">
+               <did>
+                  <unittitle>Financial Papers: Cash Accounts, 1909-1914</unittitle>
+                  <container id="aspace_76a5f19674af7583bb66740cce0e1871" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_49a" level="file">
+               <did>
+                  <unittitle>Financial Papers: Estate of D. A. Tompkins, 1914-1958</unittitle>
+                  <container id="aspace_d230824a6342a8524f7efb48ac92d7ba" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_2gm" level="file">
+               <did>
+                  <unittitle>Miscellany, 1821-1965</unittitle>
+                  <physdesc id="aspace_09c1f1895a5b635ba377d684bb4b79f5">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_5c9058d9b3f2e758573fd89862eb2b11" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_s5n" level="file">
+               <did>
+                  <unittitle>Printed Material, 1879-1973</unittitle>
+                  <physdesc id="aspace_6895ceb72a1edb96fe2f46fc76cd7d44">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_9201ba71b7f3b50b9798046df8c44305" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_o3x" level="file">
+               <did>
+                  <unittitle>Clippings, 1904-1976</unittitle>
+                  <container id="aspace_8e18b84333247465819550c3e65f614f" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_h9p" level="file">
+               <did>
+                  <unittitle>Pictures, undated</unittitle>
+                  <physdesc id="aspace_181971e0c5fa26dade482d37c17142ec">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_76ff2be9532e1afbce68206823649a14" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_gck" level="file">
+               <did>
+                  <unittitle>Volumes: Genealogy Jesse Edwards Family, 1939</unittitle>
+                  <container id="aspace_2065f2c466f2b4a5abf3c0a9d766b689" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_72h" level="file">
+               <did>
+                  <unittitle>Volumes: Gas Engines, 1906</unittitle>
+                  <container id="aspace_6d50b6637df24a7ec4ea7b963f37cdfa" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_efr" level="file">
+               <did>
+                  <unittitle>Volumes: Notes and Bills Receivables, circa 1889-1907</unittitle>
+                  <container id="aspace_f307e4fcb881a01d2af1aeb95ad66520" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_kwu" level="file">
+               <did>
+                  <unittitle>Volumes: Fetzer Booklet with charges and notations of a vote, circa
+                     1893</unittitle>
+                  <container id="aspace_e7586573ba1b6220e0d6abde1e519663" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_nxc" level="file">
+               <did>
+                  <unittitle>Volumes: Ledger, 1881-1886</unittitle>
+                  <container id="aspace_c25fec06deba97e3097581194074fc1a" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_xen" level="file">
+               <did>
+                  <unittitle>Volumes: D. A. Tompkins Company Checkbook on Commercial National Bank,
+                     1913-1917</unittitle>
+                  <container id="aspace_b1c02fd78397e665a8fbab6652aae294" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_rs3" level="file">
+               <did>
+                  <unittitle>Volumes: Graydon and Fetzer Families Ledger for Notes and Mortgages,
+                     1916-1926</unittitle>
+                  <container id="aspace_7c8edab352cb201fbcc939e631a869c1" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_a80" level="file">
+               <did>
+                  <unittitle>Volumes: John R. Tompkins "Family Notes," 1903</unittitle>
+                  <container id="aspace_962fca7b22818aa4b47d19982068bc3f" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_5go" level="file">
+               <did>
+                  <unittitle>Volumes: D. A. Tompkins Estate. Cash Journal, 1920-1922</unittitle>
+                  <container id="aspace_5dcabd171fe85d304935a47072fae4c2" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_npw" level="file">
+               <did>
+                  <unittitle>Volumes: D. A. Tompkins Estate. Ledger , 1920-1922</unittitle>
+                  <container id="aspace_cd8005b22888143f5a5d1b25d494a76b" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_uik" level="file">
+               <did>
+                  <unittitle>Volumes: Recipe Book, Handwritten, undated</unittitle>
+                  <container id="aspace_959ee54d6e567289213f528d56c6bd41" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_31y" level="file">
+               <did>
+                  <unittitle>Journal, 1910-1914 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_b723b9c249ea2fb1bc772ba16b19f487" label="Mixed Materials"
+                     type="volume">F:4038</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_3e4" level="file">
+               <did>
+                  <unittitle>Cashbook, 1907-1917 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_7c4c0371c48bf9343bedbefcb3a96e16" label="Mixed Materials"
+                     type="volume">F:4040</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_khi" level="file">
+               <did>
+                  <unittitle>Trial Balances, 1913-1918 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_465115e90d48755c70e87ebb1f8500cf" label="Mixed Materials"
+                     type="volume">F:4041</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_yn8" level="file">
+               <did>
+                  <unittitle>Journal, 1914-1926 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_4dc328a7fe36a16756da1f1b96fc0e7a" label="Mixed Materials"
+                     type="volume">F:4042</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_7r0" level="file">
+               <did>
+                  <unittitle>Cashbook, 1914-1919 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_464c18154afa11196c07304a5f132eca" label="Mixed Materials"
+                     type="volume">F:4043</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_nzk" level="file">
+               <did>
+                  <unittitle>Cashbook, 1919-1926 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_5606baa98c1d823bb3b9832b143793b5" label="Mixed Materials"
+                     type="volume">F:4044</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_dky" level="file">
+               <did>
+                  <unittitle>Ledger, 1930-1942 (Ninety Six, S.C.)</unittitle>
+                  <container id="aspace_12ea6a3712b20b3d72c256d3801f8857" label="Mixed Materials"
+                     type="volume">M:4046</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_n8x" level="file">
+               <did>
+                  <unittitle>Ledger, 1930-1945 (Ninety Six, S.C.)</unittitle>
+                  <container id="aspace_91e08a5cd1e24b4274cbd893ca9872e4" label="Mixed Materials"
+                     type="volume">M:4048</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_nrm" level="file">
+               <did>
+                  <unittitle>Angus Brick Company: Cash journal, 1934-1938 (Ninety Six,
+                     S.C.)</unittitle>
+                  <container id="aspace_8ffd8558baaec60e8b5f1f1f77cfc29e" label="Mixed Materials"
+                     type="volume">ff:4049</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_dfc" level="file">
+               <did>
+                  <unittitle>Angus Brick Company: Cash journal, 1938-1941 (Ninety Six,
+                     S.C.)</unittitle>
+                  <container id="aspace_de3df550e8183425bbf1fe11ff0d0e87" label="Mixed Materials"
+                     type="volume">ff:4050</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_gj6" level="file">
+               <did>
+                  <unittitle>Angus Brick Company: Cash journal, 1941-1945 (Ninety Six,
+                     S.C.)</unittitle>
+                  <container id="aspace_01340804b4a1e2e679998cd36ad3baa7" label="Mixed Materials"
+                     type="volume">ff:4051</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_mmg" level="file">
+               <did>
+                  <unittitle>Clint T. Graydon: Ledger, 1930-1935</unittitle>
+                  <container id="aspace_a631657e641314e5ba2013d17c5d32d9" label="Mixed Materials"
+                     type="volume">F:4052</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_zgz" level="file">
+               <did>
+                  <unittitle>Troy Oil Mill Company: General ledger, 1905-1917 (Troy,
+                     S.C.)</unittitle>
+                  <container id="aspace_530705a1d8a372b7f2693850254d7c7d" label="Mixed Materials"
+                     type="volume">F:6692</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_xc4" level="file">
+               <did>
+                  <unittitle>Minute Book, 1906-1916 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_4418c37cf672ca08ca3a7513b0b21b05" label="Mixed Materials"
+                     type="volume">M:6693</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_mf3" level="file">
+               <did>
+                  <unittitle>Ledger, 1907-1914 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_34d1f67cab85a7eae09c24c80c0f4083" label="Mixed Materials"
+                     type="volume">F:6694</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_a2f" level="file">
+               <did>
+                  <unittitle>Ledger, 1907-1917 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_6596b3863ad7793febeccadda0c3bcab" label="Mixed Materials"
+                     type="volume">F:6695</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_xad" level="file">
+               <did>
+                  <unittitle>Cashbook, 1913-1914 (Charlotte, N.C.)</unittitle>
+                  <container id="aspace_d65d62710ed42ba7d185055e5c4eae5d" label="Mixed Materials"
+                     type="volume">F:6696</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_adf" level="file">
+               <did>
+                  <unittitle>Troy Oil Mill Company: Ledger, 1914-1916 (Troy, S.C.)</unittitle>
+                  <container id="aspace_32a79a9b3c3422dd276c810c6813f096" label="Mixed Materials"
+                     type="volume">ff:6697</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_3ri" level="file">
+               <did>
+                  <unittitle>Troy Oil Mill Company: Cashbook, 1914-1917 (Troy, S.C.)</unittitle>
+                  <container id="aspace_da212ac576c5a880349a7982d013ef02" label="Mixed Materials"
+                     type="volume">ff:6698</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_iup" level="file">
+               <did>
+                  <unittitle>Oversize items</unittitle>
+                  <container id="aspace_c1639845b5f83bfe35a8bea0aa47d0e4" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

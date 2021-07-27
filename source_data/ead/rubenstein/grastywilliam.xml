@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/grastywilliam/">grastywilliam</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the William Clark Grasty Papers, 1788-1906 and undated (bulk
+               1800-1869) <num>RL.00475</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+               Ted Holt and Paula Jeannet</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2008</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000855530</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:21:13
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>William Clark Grasty papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Grasty, William Clark, b. ca. 1800</persname>
+         </origination>
+         <unitid>RL.00475</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">10.9 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1788/1906" type="inclusive">1788-1906 and undated (bulk
+            1800-1869)</unitdate>
+         <unitdate normal="1800/1869" type="bulk">1800-1869</unitdate>
+         <physloc id="aspace_eff038324eeb65d5d8f8f1b48c4c9644">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_29a4b261e7f7ce9111e260fd344118aa">General merchant, Pittsylvania Co.,
+            Va. Correspondence, account books, daybooks, fee books, invoices, ledgers, memoranda
+            books, records of sales, inventories, and letterpress copybooks, chiefly 1800-1869, of
+            three generations of general merchants of Pittsylvania Co., Va. Business interests
+            included a general store, a tavern, a blacksmith shop, a simplified type of banking, and
+            the keeping of a post office. Large amounts of tobacco were bought and sold before the
+            Civil War. Post-war records indicate a large volume of trade in Peruvian guano and
+            commercial fertilizers. Partners in the firm included Philip L. Grasty and other members
+            of the Grasty family, John F. Rison and Samuel Pannill. Includes letters (1849-1867) of
+            John S. Grasty, a Presbyterian minister, referring to North Carolina agriculture, slave
+            hiring, Unionist sympathy among the Dutch population of Botetourt Co., Va., and the
+            devastation of Fincastle, Va., during the war.</abstract>
+         <physdesc id="aspace_7ee0b43d7e6774de5796221733da1e43">
+            <extent>8,175 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_91c8d13f3b254e2773acfd6e5903d664">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_07c948b164b1f45e72c3067bc5038672">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_a57c57e446159c94b6c2cee565bcfdc7">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_7277bb7cb3d0fc0b4ef71e91023c0216">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], William Clark Grasty Papers, David M. Rubenstein Rare Book
+            &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_60098f1627affb7e326c71171b2e5377">
+         <head>Provenance</head>
+         <p>The William Clark Grasty Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library from 1934-1937.</p>
+      </acqinfo>
+      <processinfo id="aspace_d1ad7e12cceda1348471f8979abdd018">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff</p>
+         <p>Encoded by Ted Holt and Paula Jeannet, June 2008</p>
+         <p>Accessions from 1934-1937 were merged into one collection, described in this finding
+            aid. </p>
+      </processinfo>
+      <scopecontent id="aspace_7314e7f668098a96030c5637851e9311">
+         <head>Collection Overview</head>
+         <p>Correspondence, account books, daybooks, fee books, invoices, ledgers, memoranda books,
+            records of sales, inventories, and letterpress copybooks, chiefly 1800-1869, of three
+            generations of general merchants of Pittsylvania Co., Va. Business interests included a
+            general store, a tavern, a blacksmith shop, a simplified type of banking, and the
+            keeping of a post office. Large amounts of tobacco were bought and sold before the Civil
+            War. Post-war records indicate a large volume of trade in Peruvian guano and commercial
+            fertilizers. Partners in the firm included Philip L. Grasty and other members of the
+            Grasty family, John F. Rison and Samuel Pannill. Includes letters (1849-1867) of John S.
+            Grasty, a Presbyterian minister, referring to North Carolina agriculture, slave hiring,
+            Unionist sympathy among the Dutch population of Botetourt Co., Va., and the devastation
+            of Fincastle, Va., during the war.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Taverns (Inns) -- Virginia</subject>
+         <subject source="lcsh">Merchants -- Virginia -- Pittsylvania County</subject>
+         <subject source="lcsh">Postal service -- Virginia -- Pittsylvania County</subject>
+         <subject source="lcsh">Presbyterian Church -- Clergy</subject>
+         <subject source="lcsh">Blacksmithing -- Virginia -- Pittsylvania County</subject>
+         <subject source="lcsh">Dutch Americans -- Virginia -- Political activity</subject>
+         <subject source="lcsh">Fertilizer industry -- Virginia</subject>
+         <subject source="lcsh">Guano</subject>
+         <geogname source="lcsh">Pittsylvania County (Va.) -- Commerce</geogname>
+         <subject source="lcsh">Tobacco -- Marketing -- Virginia</subject>
+         <subject source="lcsh">Agriculture -- Virginia</subject>
+         <subject source="lcsh">Banks and banking -- Virginia</subject>
+         <subject source="lcsh">Slavery -- Virginia</subject>
+         <subject source="lcsh">Presbyterian Church -- Virginia</subject>
+         <geogname source="lcsh">Virginia -- History -- Civil War, 1861-1865</geogname>
+         <geogname source="lcsh">United States -- History -- Civil War, 1861-1865 -- Destruction and
+            pillage</geogname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref11_n6a" level="series">
+            <did>
+               <unittitle>Papers Series, 1788-1906 and undated (bulk 1800-1869)</unittitle>
+               <physdesc id="aspace_34b49aaa36fbb4810de3614696484a5e">
+                  <extent>35 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref13_90o" level="file">
+               <did>
+                  <unittitle>1788-1813</unittitle>
+                  <container id="aspace_cc7a0ab65de46aa3d0c8f1092a18b47c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref14_dx4" level="file">
+               <did>
+                  <unittitle>1814-1822</unittitle>
+                  <container id="aspace_9604e43704c882c0ddb1c2fb9ccdb634" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_pq3" level="file">
+               <did>
+                  <unittitle>1823-1824</unittitle>
+                  <container id="aspace_0a7609232ec97636d78bf3944c35bf00" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_lkb" level="file">
+               <did>
+                  <unittitle>1825-1826</unittitle>
+                  <container id="aspace_6d72f09739ddf5e89d833db91d6f4793" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_t01" level="file">
+               <did>
+                  <unittitle>1827-1836</unittitle>
+                  <container id="aspace_f99c8243f915995a0580ec805996f80f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_ooq" level="file">
+               <did>
+                  <unittitle>1837-1839</unittitle>
+                  <container id="aspace_18b0c452853f279bc441e4e361e9c49b" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_pjc" level="file">
+               <did>
+                  <unittitle>1840-1842</unittitle>
+                  <container id="aspace_534e14ead01fb836ae5708334ede125c" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_s9j" level="file">
+               <did>
+                  <unittitle>1843-1844</unittitle>
+                  <container id="aspace_12fd77ea69d60043ab95f40976689ffe" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_kve" level="file">
+               <did>
+                  <unittitle>1845-1847</unittitle>
+                  <container id="aspace_b0b1b02099ea351b8092345119022fed" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_40b" level="file">
+               <did>
+                  <unittitle>1848-1851</unittitle>
+                  <container id="aspace_99061722b156e330e292410d1e1203a3" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_z6v" level="file">
+               <did>
+                  <unittitle>1852-1856</unittitle>
+                  <container id="aspace_4c41a82b4311348ecc90a47f6892693e" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_tcs" level="file">
+               <did>
+                  <unittitle>1857</unittitle>
+                  <container id="aspace_513319ddb364131f905c7711abd88a42" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_3ok" level="file">
+               <did>
+                  <unittitle>1858 Jan.-June</unittitle>
+                  <container id="aspace_8deb4c1012a6c090c10892b877eb7ee9" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_vok" level="file">
+               <did>
+                  <unittitle>1858 July-Dec.</unittitle>
+                  <container id="aspace_3c2cdca6f03b21eba61ef86edd7cb171" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_rsi" level="file">
+               <did>
+                  <unittitle>1859 Jan.-Apr.</unittitle>
+                  <container id="aspace_7873802b34c2fc90641c7c416a97a722" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_hb2" level="file">
+               <did>
+                  <unittitle>1859 May-Dec.</unittitle>
+                  <container id="aspace_240cde05dfc16104af95487ab0554dc1" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_nr1" level="file">
+               <did>
+                  <unittitle>1860 Jan.-Mar.</unittitle>
+                  <container id="aspace_86c4a8153c61a4ec2824e8fd51e21ed6" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_3hw" level="file">
+               <did>
+                  <unittitle>1860 Apr.-Sept.</unittitle>
+                  <container id="aspace_734a7d59c6ffca25a9b3d754194c3f49" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_y7w" level="file">
+               <did>
+                  <unittitle>1860 Oct.-1861 Mar.</unittitle>
+                  <container id="aspace_701b7ccd34af9bc2da6c33eac1fdec16" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_8bq" level="file">
+               <did>
+                  <unittitle>1861 Apr.-Aug.</unittitle>
+                  <container id="aspace_bf8a627a2cfba2532c2e3043c34537de" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_liy" level="file">
+               <did>
+                  <unittitle>1861 Sept.-1862 Feb.</unittitle>
+                  <container id="aspace_c3fcec0bfed81ddb19faf064735bf4b2" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_zov" level="file">
+               <did>
+                  <unittitle>1862 Mar.-Aug.</unittitle>
+                  <container id="aspace_ecb4b1c739c75dd674db7dec31ba4d57" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_stw" level="file">
+               <did>
+                  <unittitle>1862 Sept.-1863 Apr.</unittitle>
+                  <container id="aspace_3ec7e7ce3d990613081787ae1592f49a" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_i5q" level="file">
+               <did>
+                  <unittitle>1863 May-Dec.</unittitle>
+                  <container id="aspace_e63fe8d55007f18261e28d82ac62ce4a" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_lvb" level="file">
+               <did>
+                  <unittitle>1864 Jan.-Sept.</unittitle>
+                  <container id="aspace_a46cda87225002b7e00ecd64a4b33d36" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_0xy" level="file">
+               <did>
+                  <unittitle>1864 Oct.-1865 July</unittitle>
+                  <container id="aspace_61d77675dfef2e212a1fa5ce40138f37" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_4vn" level="file">
+               <did>
+                  <unittitle>1865 Aug.-1866 Apr.</unittitle>
+                  <container id="aspace_ba13968be5bf1675c92738611211551f" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_da3" level="file">
+               <did>
+                  <unittitle>1866 May-1867 June</unittitle>
+                  <container id="aspace_0b9c10f4a46f45e4f8d9150807366af4" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_2y8" level="file">
+               <did>
+                  <unittitle>1867 July-Dec.</unittitle>
+                  <container id="aspace_1f56ea8505139ffd0cd30184db38f809" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_ufm" level="file">
+               <did>
+                  <unittitle>1868 Jan.-July</unittitle>
+                  <container id="aspace_aaccbedf9fb46e2ddff2fbd01df6fc8f" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_r5b" level="file">
+               <did>
+                  <unittitle>1868 Aug.-1869 June</unittitle>
+                  <container id="aspace_670264191c1f84ba219064c4cda6b751" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_ubl" level="file">
+               <did>
+                  <unittitle>1870-1876 and undated</unittitle>
+                  <container id="aspace_a1f9b1150fd80866f4108cf3c2a1cab9" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_8xk" level="file">
+               <did>
+                  <unittitle>1870-1906 and undated</unittitle>
+                  <container id="aspace_d94e8b055c683fa3c12c9b812f92776e" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_cjs" level="file">
+               <did>
+                  <unittitle>undated</unittitle>
+                  <container id="aspace_058d46d19a436e34bf8a2bb6bc17ff19" label="Mixed Materials"
+                     type="box">34-35</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref47_p8m" level="series">
+            <did>
+               <unittitle>Volumes Series, 1788-1868</unittitle>
+               <physdesc id="aspace_e64bcceb74651bb93fed51152bb049b0">
+                  <extent>9 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref49_ukj" level="file">
+               <did>
+                  <unittitle>Grasty, Jane W., memorandum book, 1828</unittitle>
+                  <container id="aspace_8d401b6f56069ed26f40806c2afc6161" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_rfk" level="file">
+               <did>
+                  <unittitle>Grasty, Philip L.,</unittitle>
+               </did>
+               <c03 id="aspace_ref51_klr" level="file">
+                  <did>
+                     <unittitle>Fee book, 1788</unittitle>
+                     <container id="aspace_094a31803ced7311baa30599b23ab23f" label="Mixed Materials"
+                        type="box">36</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_p6r" level="file">
+                  <did>
+                     <unittitle>Account books, 1806-1807</unittitle>
+                     <container id="aspace_4920f0704dd0a0560bea294e27ddefb1" label="Mixed Materials"
+                        type="box">36</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_93y" level="file">
+                  <did>
+                     <unittitle>Blotters,</unittitle>
+                  </did>
+                  <c04 id="aspace_ref54_lye" level="file">
+                     <did>
+                        <unittitle>1818-1822</unittitle>
+                        <container id="aspace_d7c8f032b418c8831cd7f7dee1f3fcd0"
+                           label="Mixed Materials" type="box">36</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref55_dfh" level="file">
+                     <did>
+                        <unittitle>1824-1868</unittitle>
+                        <container id="aspace_e92495bbfd1a3c242462da4cacb03f02"
+                           label="Mixed Materials" type="box">37</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref56_sh5" level="file">
+                  <did>
+                     <unittitle>Day books,</unittitle>
+                  </did>
+                  <c04 id="aspace_ref57_s8l" level="file">
+                     <did>
+                        <unittitle>1804-1805</unittitle>
+                        <container id="aspace_961dcabd2a91e4d7743ab0ca782d48f9"
+                           label="Mixed Materials" type="box">37</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref58_nx7" level="file">
+                     <did>
+                        <unittitle>1805-1818</unittitle>
+                        <container id="aspace_83f4a67f7f56588a22852b5b11625d38"
+                           label="Mixed Materials" type="box">38</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref59_n5g" level="file">
+                     <did>
+                        <unittitle>1819-1823</unittitle>
+                        <container id="aspace_6317e9d62eaed335b65dba9c03c9577e"
+                           label="Mixed Materials" type="box">39</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref60_apx" level="file">
+                     <did>
+                        <unittitle>1823-1826</unittitle>
+                        <container id="aspace_2de64b40c2c08d9bda7793b4a814738f"
+                           label="Mixed Materials" type="box">40</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref61_8sk" level="file">
+                     <did>
+                        <unittitle>1826-1827</unittitle>
+                        <container id="aspace_05983c779333e1c5fb97413ceb418c45"
+                           label="Mixed Materials" type="box">41</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref62_96i" level="file">
+                  <did>
+                     <unittitle>Index book</unittitle>
+                     <container id="aspace_4537ac98a4f4b01501d96bd6fb1b0540" label="Mixed Materials"
+                        type="box">41</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_dlk" level="file">
+                  <did>
+                     <unittitle>Invoice book, 1820</unittitle>
+                     <container id="aspace_7137c75453094774a551c2075bb731a8" label="Mixed Materials"
+                        type="box">41</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_p3t" level="file">
+                  <did>
+                     <unittitle>Ledger, 1814-1815</unittitle>
+                     <container id="aspace_b414b3a42e12cd894f69967ca774cb1e" label="Mixed Materials"
+                        type="box">41</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_0wy" level="file">
+                  <did>
+                     <unittitle>Memorandum book,</unittitle>
+                  </did>
+                  <c04 id="aspace_ref66_4l7" level="file">
+                     <did>
+                        <unittitle>1800-1803</unittitle>
+                        <container id="aspace_ca2206959ab54a1c59cab6f72342cd35"
+                           label="Mixed Materials" type="box">41</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref67_idj" level="file">
+                     <did>
+                        <unittitle>1821-1826</unittitle>
+                        <container id="aspace_b3640fe53b5b4d03b146e639b4b70009"
+                           label="Mixed Materials" type="box">42</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref68_rfn" level="file">
+                  <did>
+                     <unittitle>Sales book and cash book, 1827-1828</unittitle>
+                     <container id="aspace_cbe20a14862185878381da8dd588540f" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_kcd" level="file">
+                  <did>
+                     <unittitle>Shop books, 1816-1822</unittitle>
+                     <container id="aspace_a7820493c4dfd6bf47db9047a9169033" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref70_gy1" level="file">
+                  <did>
+                     <unittitle>Tobacco book, 1800-1809</unittitle>
+                     <container id="aspace_639b4762dc37de4da2c365536a1a22ba" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref71_xmt" level="file">
+               <did>
+                  <unittitle>Grasty, Philip L. and Samuel Pannill,</unittitle>
+               </did>
+               <c03 id="aspace_ref72_0vm" level="file">
+                  <did>
+                     <unittitle>Account book, 1800-1806</unittitle>
+                     <container id="aspace_e6011d6e0b6f726d027cf50df6ed11bf" label="Mixed Materials"
+                        type="box">42</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_xq4" level="file">
+                  <did>
+                     <unittitle>Day book, 1801-1819</unittitle>
+                     <container id="aspace_c4c973088074603570a762e3f7404882" label="Mixed Materials"
+                        type="box">43</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref74_vhd" level="file">
+                  <did>
+                     <unittitle>Miscellaneous printed material, 1859-1868</unittitle>
+                     <container id="aspace_8ad79725ba5c4eb12188c02b80881433" label="Mixed Materials"
+                        type="box">43</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_jsf" level="file">
+                  <did>
+                     <unittitle>Inventory, 1801-1806</unittitle>
+                     <container id="aspace_6948137ba1ec2d96362cdfb3abc7f944" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref76_on1" level="file">
+                  <did>
+                     <unittitle>Invoice book, 1799-1805</unittitle>
+                     <container id="aspace_b4ac4d8eabe3824e257c3c55242f1d16" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref77_48k" level="file">
+               <did>
+                  <unittitle>Grasty, William Clark,</unittitle>
+               </did>
+               <c03 id="aspace_ref78_ws3" level="file">
+                  <did>
+                     <unittitle>Cash book, 1840-1842</unittitle>
+                     <container id="aspace_24fdd64780ffe89b8a5d4b867f7b4398" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_bgf" level="file">
+                  <did>
+                     <unittitle>Day book, 1838-1839</unittitle>
+                     <container id="aspace_0b502e6cf020c9350aba6c0fd584790a" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_rx7" level="file">
+                  <did>
+                     <unittitle>Memorandum books, 1837-1844</unittitle>
+                     <container id="aspace_3e16ce59de69ae2d00b223ba9d0b33e0" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_3xc" level="file">
+                  <did>
+                     <unittitle>Miscellaneous account books, 1838-1859</unittitle>
+                     <container id="aspace_cac328085d19839424ad8a952f46ae94" label="Mixed Materials"
+                        type="box">44</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref82_ea2" level="file">
+               <did>
+                  <unittitle>Rison, John F., account book, 1868</unittitle>
+                  <container id="aspace_7c3a3620029bf6ae9a6c1bd8c1e5e714" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_h9c" level="file">
+               <did>
+                  <unittitle>Other account books, 1849-1867</unittitle>
+                  <container id="aspace_6cd4c096ab54b53c5428e2b393abd6d1" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref84_ri9" level="series">
+            <did>
+               <unittitle>Other Manuscript Volumes</unittitle>
+            </did>
+            <c02 id="aspace_ref85_7gc" level="file">
+               <did>
+                  <unittitle>L:1469; L:1537; L:1543-1545; L:1547; L:1552; L:1556; L:1559; L:1563;
+                     L:1574, M:1566; M:1575; M:3465. For locations of these volumes, please consult
+                     with a reference archivist.</unittitle>
+                  <container id="aspace_24c9fcd71f26c080475f233a2b9403e9" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

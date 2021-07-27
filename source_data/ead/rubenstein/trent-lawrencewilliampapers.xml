@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-lawrencewilliampapers/"
+         >trent-lawrencewilliampapers</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Sir William Lawrence papers, 1840-1850 <num>RL.10618</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002143908</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:20:36
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Sir William Lawrence papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Lawrence, William, Sir, 1783-1867</persname>
+         </origination>
+         <unitid>RL.10618</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 items</extent>
+         </physdesc>
+         <unitdate normal="1840/1850" type="inclusive">1840-1850</unitdate>
+         <physloc id="aspace_5a3e0bb8e0266a0e9b7780d11dfdcdca">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_2ae7546ec1fdb14ee97bb96a4db76d69">ALS, including a letter of sympathy
+            to Mr. L.R. Koecker on the occasion of the death of his father, Leonard
+            Koecker.</abstract>
+         <langmaterial id="aspace_6c6cdce584a73951bbfdeede3728cf1d">Materials in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_548681eef8d20ce9bfdb0371cc1ceac3">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_5eab799e67eb181dcbcaaccdbec44b8d">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_8eda00e2d6ca01a700c8a889089b31b2">
+         <head>Preferred Citation</head>
+         <p>Sir William Lawrence papers, 1840-1850, David M. Rubenstein Rare Book &amp; Manuscript
+            Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_d9a4f3a9baafe1919e6ece91262ccc52">
+         <head>Provenance</head>
+         <p>Source unknown</p>
+      </acqinfo>
+      <processinfo id="aspace_e80b20b2e5b5a9ef326fb82a17082d2f">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <bioghist id="aspace_d8f423f5fb5c6f34be35e61851b3dbb4">
+         <head>Historical Note</head>
+         <p>English surgeon.</p>
+      </bioghist>
+      <scopecontent id="aspace_a2522299606a5011a39237ec75f782f3">
+         <head>Collection Overview</head>
+         <p>ALS, including a letter of sympathy to Mr. L.R. Koecker on the occasion of the death of
+            his father, Leonard Koecker.</p>
+      </scopecontent>
+      <odd id="aspace_94d69fbdcea6a6de8bcdd0002da8ef97">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+         <persname source="ingest">Lawrence, William, Sir, 1783-1867</persname>
+         <persname source="ingest">Koecker, Leonard, 1785-1850</persname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

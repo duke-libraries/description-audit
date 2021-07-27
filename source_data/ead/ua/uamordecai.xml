@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/uamordecai/">uamordecai</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Samuel Fox Mordecai papers, 1869-1985 <num>UA.29.02.0079</num>
+            </titleproper>
+            <author>Processed by: Archives Staff; machine-readable finding aid created by: Kimberly
+               Sims</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003765464</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-30 04:46:50
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Samuel Fox Mordecai papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Mordecai, Samuel F. (Samuel Fox), 1852-1927</persname>
+         </origination>
+         <unitid>UA.29.02.0079</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1869/1985" type="inclusive">1869-1985</unitdate>
+         <physloc id="aspace_13558f9fde838615afde5793e44446d1">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_c3f6ce5497fa611f99e3dd7fd11c6e69">Samuel Fox Mordecai (1852-1927) was
+            a lawyer who served as Dean of Trinity College Law School from around 1905 to 1927. The
+            collection covers mainly the period between 1871 and Mordecai's death in 1927 and
+            largely consists of correspondence and some law-themed periodicals.</abstract>
+         <physdesc id="aspace_0e15f7894f05959e46c5e1d0838d8c0d">
+            <extent>1,500 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_e01de5b14817f90eabe350dd80a06de7">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_b448bd736605924c7dd7b51d0221f93e">
+         <head>Access Restrictions</head>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>Collection is open for research.</p>
+         <p>In off-site storage; 48 hours advance notice is required for use.</p>
+      </accessrestrict>
+      <userestrict id="aspace_227b8f451ba9be6c34a4aa92d3997e5f">
+         <head>Copyright Notice</head>
+         <p>Copyright for Official University records is held by Duke University; all other
+            copyright is retained by the authors of items in these papers, or their descendants, as
+            stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite id="aspace_15e4517bdfa8ab438acaee8eb5a026c3">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Samuel Fox Mordecai Papers, Duke University Archives, David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_aed7322dff78898ec66ea68e3d2e4dd0">
+         <head>Provenance</head>
+         <p>The Samuel Fox Mordecai papers were received by the University Archives as a transfer in
+            1938-1985; 2007.</p>
+      </acqinfo>
+      <processinfo id="aspace_8d12e2a0f88c726477a90e06af57b60b">
+         <head>Processing Information</head>
+         <p>Processed by Archives Staff, July 2006</p>
+         <p>Encoded by Kimberly Sims, September 2006</p>
+         <p>Updated by Sherrie Bowser, September 2007</p>
+         <p>Updated by Alyssa Reichardt, November 2007</p>
+         <p>Accessions A73-103, A80-232, A85-34, A38-1868, UA2007-0040 were merged into one
+            collection, described in this finding aid. </p>
+      </processinfo>
+      <bioghist id="aspace_3d3c19279c839757ad0227e3997195d7">
+         <head>Biographical/Historical note</head>
+         <p> Samuel Fox Mordecai was born in Richmond, Virginia in 1852, the son of Ellen M. and
+            Samuel Fox Mordecai. He was educated in private schools in Virginia and North Carolina,
+            graduating from the Oxford (NC) Classical and Mathematical School. Between 1870-1875,
+            Mordecai attended the University of Virginia. Primarily a self-educated man, there is no
+            indication that he received a degree from the University of Virginia. </p>
+         <p> The North Carolina Supreme Court admitted Mordecai to the bar in 1875, beginning a 50
+            year career of legal work and scholarship. Mordecai practiced in Raleigh with his
+            partner Richard H. Battle. From 1900 to 1904 he also lectured three times a week at Wake
+            Forest College. Mordecai's success in these positions coupled with his early
+            publications led to his reputation throughout the state as an excellent lawyer and
+            accomplished scholar.</p>
+         <p> Following the creation of a law school at Trinity College, Mordecai was named senior
+            professor and chosen to serve as the school's first dean when it opened in 1904. He
+            served in this capacity until his death in 1927. During these years Mordecai was known
+            throughout the campus and the legal community as an able administrator, dedicated
+            teacher, and prolific scholar. He published pamphlets and lectures that were requested
+            from lawyers and legal scholars across the state.</p>
+         <p> In 1875 Mordecai married Elizabeth D. (Bettie) Grimes. They had nine children: Alfred,
+            Bryan Grimes, Edward Walker, Elizabeth Davis, Ellen, George Washington, Henry Lane,
+            Margaret Lane, and William Grimes. Samuel Fox Mordecai died in Durham on December 29,
+            1927. </p>
+      </bioghist>
+      <scopecontent id="aspace_117ea919da0a6e0455d558f27b6eab4f">
+         <head>Scope and Contents note</head>
+         <p>Contents of the Samuel Fox Mordecai Papers span from 1869 to 1985 with the bulk dates
+            1871-1923 and include correspondence, telegrams, receipts, grade reports, volumes,
+            clippings, other printed material, and photographs. The Papers are arranged into three
+            series: Correspondence and Miscellany, 1869-1985; Printed Material, 1912-1932; and
+            Photographs, 1938 and undated. The correspondence is arranged chronologically. Most of
+            the collection was arranged by the former Manuscript Department before being transferred
+            to University Archives.</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_79154e8b713599df5b77a8faab57722d">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection">Mordecai Family Papers</unittitle>
+               <repository label="Repository">David M. Rubenstein Rare Book &amp; Manuscript
+                  Library</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <genreform source="aat">Clippings (information artifacts)</genreform>
+         <subject source="lcsh">Law -- Periodicals</subject>
+         <subject source="lcsh">Law Books</subject>
+         <subject source="lcsh">Law -- North Carolina</subject>
+         <persname source="ingest">Mordecai, Samuel F. (Samuel Fox), 1852-1927</persname>
+         <persname source="ingest">Wannamaker, William Hane, 1873-</persname>
+         <corpname source="ingest">Trinity College (Durham, N.C.). Law School</corpname>
+         <persname source="ingest">Wilson, Louis Round, 1876-1979</persname>
+         <persname source="ingest">Few, W. P. (William Preston), 1867-1940</persname>
+         <persname source="ingest">Mordecai, Samuel F. (Samuel Fox), 1852-1927</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref15_h1y" level="series">
+            <did>
+               <unittitle>Correspondence and Miscellany, 1869-1985 (bulk 1869-1923)</unittitle>
+            </did>
+            <scopecontent id="aspace_413a483f214f7bfdd007b2556de332b5">
+               <head>Scope and Contents note</head>
+               <p>Arranged chronologically, the correspondence makes up about 85% of the collection.
+                  Some of the 19th century papers are oversized. Most of this early material is
+                  related to law cases when Mordecai practiced in Raleigh. Little is revealed of
+                  Mordecai himself, mainly the cases he worked. Of particular note, however, is
+                  correspondence related to the Royal Coal and Coke Company of Coal Creek, TN in
+                  1894-1895, when Mordecai served as president of the company. Much of the
+                  correspondence from 1897-1899 consists of requests from lawyers and others to
+                  purchase copies of his publications "Mechanics' Liens in North Carolina" and
+                  "Negotiable Instruments Law in North Carolina". Around the turn of the century
+                  there appears more and more letters from lawyers requesting Mordecai's opinion on
+                  particular cases or problems.</p>
+               <p> After being named Dean of the Law School, much of Mordecai's correspondence turns
+                  to administrative matters: correspondence with former and potential students;
+                  queries regarding possible faculty positions; and questions about courses and
+                  course requirements. Letters of note include those from women in 1917 and 1921
+                  asking about admittance to the law school. (Though women could practice law in NC
+                  and women were admitted to Trinity College during this time, they were not
+                  admitted to Trinity Law School. The first woman enrolled in the School of Law in
+                  1927.)</p>
+               <p> Correspondents include: William P. Few; William H. Wannamaker; Henry Mordecai
+                  (SFM's son); and Louis R. Wilson, the Librarian of the University of North
+                  Carolina. Also included is correspondence with lawyers and former students.
+                  Discarded material consisted of correspondence between Mordecai and printers and
+                  publishers across the country regarding detailed publication matters such as
+                  proofs, errors, and billing questions. </p>
+               <p> One folder within box 2 contains clippings which date from 1897 to 1927. These
+                  include advertisements/reviews of Mordecai's publications, court calendars,
+                  obituaries newsprint), and oversize page proofs from Mordecai's Law Notes. </p>
+               <p> Among the later materials are 1953 and 1985 letters from a friend and former
+                  students recounting memories of and stories about Mordecai. The 1985 letter and
+                  memoir of P.H. Crawford is particularly valuable in documenting Mordecai's
+                  colorful relationship with his students in and out of the classroom. Also included
+                  is Mordecai's 1869 grade report from Oxford (NC) Classical and Mathematical School
+                  and an undated letter tracing Mordecai genealogy. </p>
+            </scopecontent>
+            <c02 id="aspace_ref16_2vl" level="file">
+               <did>
+                  <unittitle>Correspondence, 1871-1887</unittitle>
+                  <container id="aspace_e464af4b5ed9102402339d145cfe9890" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_ziq" level="file">
+               <did>
+                  <unittitle>Correspondence, 1889-1892</unittitle>
+                  <container id="aspace_a1861c58b377bf0eef9ed9863293e657" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_gc6" level="file">
+               <did>
+                  <unittitle>Correspondence, 1893-1894</unittitle>
+                  <container id="aspace_70f943e162de32b68ed96e1235e804f8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_rx5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1895-1897</unittitle>
+                  <container id="aspace_3a3036404c0a34fd2bdcb3ac62bb4af3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_s9z" level="file">
+               <did>
+                  <unittitle>Correspondence, 1898-1899</unittitle>
+                  <container id="aspace_37fffcda3a12eff504076094e7a3d653" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_ms0" level="file">
+               <did>
+                  <unittitle>Correspondence, 1900</unittitle>
+                  <container id="aspace_41777ebb01c6a11b2a10b60ae45ed08f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_k0w" level="file">
+               <did>
+                  <unittitle>Correspondence, 1901 January-July</unittitle>
+                  <container id="aspace_1355514b29ee3f8a54e42ad9803246e3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_gfy" level="file">
+               <did>
+                  <unittitle>Correspondence, 1901 August-December</unittitle>
+                  <container id="aspace_900b5152a5349fac82f1d9cf8604882b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_484" level="file">
+               <did>
+                  <unittitle>Correspondence, 1902</unittitle>
+                  <container id="aspace_7bee0a0a890a2c2bdbb15abfb6c62d14" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_41g" level="file">
+               <did>
+                  <unittitle>Correspondence, 1903</unittitle>
+                  <container id="aspace_2a8ca696384ef7110abf78a98bff5983" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_8yv" level="file">
+               <did>
+                  <unittitle>Correspondence, 1904</unittitle>
+                  <container id="aspace_02682497f58a62d53355e3dce71ff4de" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_69f" level="file">
+               <did>
+                  <unittitle>Correspondence, 1905</unittitle>
+                  <container id="aspace_774fadfc59ecabfefc0f6c8be96621e2" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_xp1" level="file">
+               <did>
+                  <unittitle>Correspondence, 1905-1910</unittitle>
+                  <container id="aspace_a4c348b1aee718fd4c1b2d4003d62b52" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_gy3" level="file">
+               <did>
+                  <unittitle>Correspondence, 1911 January-1912 June</unittitle>
+                  <container id="aspace_8621dfbfaa2d925a611e1d9428301f1e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_zw6" level="file">
+               <did>
+                  <unittitle>Correspondence, 1912 July-1913 June</unittitle>
+                  <container id="aspace_8170dd04a7797283be030b825d130fc7" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_hgj" level="file">
+               <did>
+                  <unittitle>Correspondence, 1913 July-1914 June</unittitle>
+                  <container id="aspace_72a26815bad6cb4dcdbfb524a086f44a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_ypd" level="file">
+               <did>
+                  <unittitle>Correspondence, 1914 July-December</unittitle>
+                  <container id="aspace_80abd17f8a77dea5d69781f1a7db74cd" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_39g" level="file">
+               <did>
+                  <unittitle>Correspondence, 1915 January-October</unittitle>
+                  <container id="aspace_4f59c818809667e2c5f8086d3bd45e91" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_x34" level="file">
+               <did>
+                  <unittitle>Correspondence, 1915 November-1916 May</unittitle>
+                  <container id="aspace_296c34de4b4e551ff45477bcd522bf5a" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_2df" level="file">
+               <did>
+                  <unittitle>Correspondence, 1916 June-1916 October</unittitle>
+                  <container id="aspace_a64982d139ed265d920796632553782f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_0yz" level="file">
+               <did>
+                  <unittitle>Correspondence, 1916 November-1917 February</unittitle>
+                  <container id="aspace_47bebff0aa9a83fc193417def1a0d360" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_pfl" level="file">
+               <did>
+                  <unittitle>Correspondence, 1917 March-December</unittitle>
+                  <container id="aspace_cfe459b61e5bab58ee15c6837fcf4c1d" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_lqx" level="file">
+               <did>
+                  <unittitle>Correspondence, 1918 January-1919 April</unittitle>
+                  <container id="aspace_0eecc5e2094ab575d2798fb8c3e0be23" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_j8w" level="file">
+               <did>
+                  <unittitle>Correspondence, 1919 May-October</unittitle>
+                  <container id="aspace_b33e529e618fad69f3f4ba9a77934b9c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_epi" level="file">
+               <did>
+                  <unittitle>Correspondence, 1919 November-1920 April</unittitle>
+                  <container id="aspace_6c3a73817c45d7d38f1ff63fe57d1282" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_ojq" level="file">
+               <did>
+                  <unittitle>Correspondence, 1920 May-November</unittitle>
+                  <container id="aspace_d4b780178a23a3f398cc19d575994724" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_bd1" level="file">
+               <did>
+                  <unittitle>Correspondence, 1920 December-1921 September</unittitle>
+                  <container id="aspace_2000715b1609ae9a56619e64f1c5f9f6" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_7wb" level="file">
+               <did>
+                  <unittitle>Correspondence, 1921 October-1922 May</unittitle>
+                  <container id="aspace_25bfde30dbdf4cd3c0944337d1c33155" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_lry" level="file">
+               <did>
+                  <unittitle>Correspondence, 1922 June-1922 October</unittitle>
+                  <container id="aspace_b1b33a2aa97039f2b510f16f921a2167" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_j1w" level="file">
+               <did>
+                  <unittitle>Correspondence, 1922 November-1923 July</unittitle>
+                  <container id="aspace_59d2b0b610cd4f1421f07b11fe3568ea" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_ms4" level="file">
+               <did>
+                  <unittitle>Correspondence, 1924 June-1925 September</unittitle>
+                  <container id="aspace_2e687694c9fe6880ab8189b9f20f62a8" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_0nz" level="file">
+               <did>
+                  <unittitle>Correspondence, 1927</unittitle>
+                  <container id="aspace_fccc31279fcb86879ac7629d1fdd531b" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_34o" level="file">
+               <did>
+                  <unittitle>Correspondence, 1928 January-1938 December</unittitle>
+                  <container id="aspace_883dd7a0dc4a796933ad2023ee1d7ddb" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_03j" level="file">
+               <did>
+                  <unittitle>Correspondence, 1940 November-1978 April</unittitle>
+                  <container id="aspace_55a974303ababb99c242ad0376da3b72" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_54z" level="file">
+               <did>
+                  <unittitle>Correspondence, undated</unittitle>
+                  <container id="aspace_53cecdbb01cf6184d56bcac70ffd98d3" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_gc7" level="file">
+               <did>
+                  <unittitle>Letters of thanks for <title render="italic">Mordecai's
+                        Miscellanies</title>, 1927; 1959</unittitle>
+                  <container id="aspace_893bd533952ef4c5ba79fd1ec6d21020" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_uly" level="file">
+               <did>
+                  <unittitle>Letter to Dr. and Mrs. Alfred Mordecai from Mrs. H.L. Blomquist,
+                     December 8, 1964, "University flag at half mast for Bloomie"</unittitle>
+                  <container id="aspace_9e0d73460e181296f461f07c3f0efc44" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_ra8" level="file">
+               <did>
+                  <unittitle>Letter dictated by Mordecai, undated</unittitle>
+                  <container id="aspace_a4c9c1595289e8db95f02431a001139f" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_ole" level="file">
+               <did>
+                  <unittitle>Academic Report, Oxford (NC) Classical and Mathematical School,
+                     1869</unittitle>
+                  <container id="aspace_c9b4771be6ef6909f917ff044fb6bed0" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_kbc" level="file">
+               <did>
+                  <unittitle>Crawford Memoir, 1985</unittitle>
+                  <container id="aspace_2b16f1730ccd34205877e5affa039f97" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_hdk" level="file">
+               <did>
+                  <unittitle>Clippings, 1897-1927</unittitle>
+                  <container id="aspace_e9c0099213aeffe0b2503f13617f5932" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_7gt" level="file">
+               <did>
+                  <unittitle>Family Documnets, 1877-1921</unittitle>
+                  <container id="aspace_5e588c6acf7aed530d458e948699ec09" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_lbl" level="file">
+               <did>
+                  <unittitle>Genealogy, undated</unittitle>
+                  <container id="aspace_08f322c0f654b8caf1c3bb2d6f095eb2" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_j29" level="file">
+               <did>
+                  <unittitle>Miscellaneous, 1922-1967</unittitle>
+                  <container id="aspace_fddbd2e156a62d0b4a183cc6917640b5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_r67" level="file">
+               <did>
+                  <unittitle>Poems and Stories, 1926, undated</unittitle>
+                  <container id="aspace_05f4318fc986fa34f17137cbae219e89" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref62_wj8" level="series">
+            <did>
+               <unittitle>Printed Material, 1912-1932</unittitle>
+            </did>
+            <scopecontent id="aspace_fb8b3e1f1bcb9c39fdd49035c2ad2252">
+               <head>Scope and Contents note</head>
+               <p>The remainder of the collection consists of grade reports and copies of Mordecai's
+                  publications. The folder of grade reports from classes he taught dates from
+                  1912-1923. The reports contain the name of the course, the date, and the
+                  individual students' grades.</p>
+               <p>Publications included: <title type="simple" render="italic">Law Notes --
+                     Corporations</title> (1919); <title type="simple" render="italic">Law Notes --
+                     Bailments and Carriers</title> (1920); <title type="simple" render="italic">Law
+                     Notes -- Real Property</title> (1916, 2 copies); and a bound copy of Mordecai's
+                     <title type="simple" render="italic">Law Lectures</title> (1907, 1251 pages).
+                  Publications not written by Mordecai: <title type="simple" render="italic"
+                     >Progress of Legal Education</title> (1922, Washington Conference and the
+                  Association of American Law Schools) and a tribute and portrait presentation to
+                  Mordecai (1932, Alumni of the Law School -- 3 copies). Also included is a bound
+                  volume of Mordecai's Latin notes at the University of Virginia, 1870-1871.</p>
+            </scopecontent>
+            <c02 id="aspace_ref63_83s" level="file">
+               <did>
+                  <unittitle>Grade Reports, 1912-1923, undated</unittitle>
+                  <container id="aspace_b71f79db43ed7028cee89b294357349f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_6rj" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Law Notes - Corporations</title>, 1919</unittitle>
+                  <container id="aspace_b7cd5e705d0d42f347010bb83a9d0b16" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_3bd" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Law Notes - Bailments and Carriers</title>,
+                     1920</unittitle>
+                  <container id="aspace_3641d2e353da5998888dc2e52a4d8642" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_v2z" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Law Notes - Real Property</title>, 1916</unittitle>
+                  <container id="aspace_d789babbae2d92d53724b047e6a45ad6" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_kjn" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Law Lectures</title>, 1907</unittitle>
+                  <container id="aspace_f55fd8f3150fbbc0cfd54933db6f1290" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_l1x" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Progress of Legal Education</title>, 1922</unittitle>
+                  <container id="aspace_1a22657fe90a4daf92216a805beaa74e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_1qf" level="file">
+               <did>
+                  <unittitle>Tribute and Presentation to Mordecai, 1932</unittitle>
+                  <container id="aspace_61f2b180784eae62458054c8c5ec7362" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_i3z" level="file">
+               <did>
+                  <unittitle>Bound Volume of Latin notes, 1870-1871</unittitle>
+                  <container id="aspace_f03c5fae859e82874fc6bb6b64cd3707" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_8i0" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Recolletions of Papa</title> by Margater Mordecai
+                     Blomquist</unittitle>
+                  <container id="aspace_518dd2f5dff08b485684d2faaf568afc" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref73_bgf" level="series">
+            <did>
+               <unittitle>Photographs, 1938, undated</unittitle>
+            </did>
+            <scopecontent id="aspace_ca38b0c1336fd56c51118ece5c3e8a0d">
+               <head>Scope and Contents note</head>
+               <p>Photographs include various portraits including Samuel Fox Mordecai; Peggy
+                  Mordecai; and SFM and Pompey Ducklegs. Several photographs noted below are from
+                  the Grimes family. General Grimes was the father of Bettie Grimes later Mrs.
+                  Samuel Fox Mordecai.</p>
+            </scopecontent>
+            <c02 id="aspace_ref74_w13" level="file">
+               <did>
+                  <unittitle>General Bryan Grimes' Home at Grimesland, Pitt County, NC (photo taken
+                     by Dr. Hugo L. Blomquist) circa [from the Grimes family] 1938</unittitle>
+                  <container id="aspace_7ae767e923a7e606ed24652fff86ea8e" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_ct8" level="file">
+               <did>
+                  <unittitle>Portrait, Major General Bryan Grimes, 2nd Corps A.N.V., undated [from
+                     the Grimes family]</unittitle>
+                  <container id="aspace_322c2806fe40ee1372c29c181872e549" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_jvm" level="file">
+               <did>
+                  <unittitle>Unidentified female portrait, undated [from the Grimes
+                     family]</unittitle>
+                  <container id="aspace_c1fb1c632a9631ce1c14a37f7d538601" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_wof" level="file">
+               <did>
+                  <unittitle>Portrait, Samuel Fox Mordecai, undated</unittitle>
+                  <container id="aspace_741f308fcfe53d54af66841ef3a2c790" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_dxp" level="file">
+               <did>
+                  <unittitle>Portrait, unidentified and Portrait, Peggy Mordecai,
+                     undated</unittitle>
+                  <container id="aspace_dd8fedcaeaadd4ce1ccb65d36e70d476" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_swo" level="file">
+               <did>
+                  <unittitle>Samuel Fox Mordecai and Pompey Ducklegs, undated</unittitle>
+                  <container id="aspace_f2c799db3b3199999815fe87575151b8" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

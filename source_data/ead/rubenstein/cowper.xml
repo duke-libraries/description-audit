@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/cowper/">cowper</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Mary Octavine (Thompson) Cowper Papers, 1895-1969
+                  <num>RL.00261</num>
+            </titleproper>
+            <author>Processed by: Janie C. Morris; machine-readable finding aid created by: Stephen
+               Douglas Miller</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000759671</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 14:54:36
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Mary Octavine (Thompson) Cowper papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Cowper, Mary Octavine (Thompson), 1881-1968</persname>
+         </origination>
+         <unitid>RL.00261</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4.8 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1895/1969" type="inclusive">1895-1969</unitdate>
+         <physloc id="aspace_280c395845ea3d3c1fa0a5352f02d712">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_45c68dd985fd9a5689279098ef61691a">
+            <extent>3,600 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_4c0caeaab3088d4c54942680982752ca">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_4e1c4fd8c31cb3f1339fdcdebcb4441b">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_5a46fc4cebe8c7f47432e5ab42d3456a">
+         <head>Use Restrictions</head>
+         <p>The status of the copyright interests in the papers of Mary O. T. Cowper is unknown. For
+            further information, see the section on copyright in the Regulations and Procedures of
+            the Rubenstein Library.</p>
+      </userestrict>
+      <prefercite id="aspace_0e3b1694de67f9a6b671c439e8fa91cd">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], The Papers of Mary Octavine (Thompson) Cowper, David M.
+            Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_339f25c2988979220e39f3a659cc12b3">
+         <head>Provenance</head>
+         <p>The papers of Mary O. T. Cowper, social activist and Executive Director of the Durham
+            Nursery School Association, Durham, N.C., were acquired by the Rubenstein Library
+            between 1968 and 1978 by gift and through transfer from the Duke University Archives. An
+            small addition (2 folders) to the collection was received from Anne Scott in December,
+            2003 (2003-0271), and interfiled in the collection.</p>
+      </acqinfo>
+      <processinfo id="aspace_708de540f8c0cd5a3e626ad404c31a37">
+         <head>Processing Information</head>
+         <p>Processed by: Janie C. Morris</p>
+         <p>Completed July 29, 1987</p>
+         <p>Encoded by Stephen Douglas Miller</p>
+      </processinfo>
+      <bioghist id="aspace_0f1ccb946f5d80bee27965217be4dbb8">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1881, May 20</date>
+               <eventgrp>
+                  <event>Born Shelbyville, Bedford County, Tennessee.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1904</date>
+               <eventgrp>
+                  <event>Bachelor of Letters, Drury College, Springfield, Missouri.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1907</date>
+               <eventgrp>
+                  <event>M.A., Drury College, English as major, French as minor.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1909, April 17</date>
+               <eventgrp>
+                  <event>Married Frederick Augustus Grant Cowper, Asst. Professor, Modern Language
+                     Dept., Drury College.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1911</date>
+               <eventgrp>
+                  <event>Elected Chairman, Douglas Co., Kansas Woman Suffrage Association.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1914</date>
+               <eventgrp>
+                  <event>M.A., sociology, University of Kansas.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1914-1916</date>
+               <eventgrp>
+                  <event>Completed course work for Ph.D. in sociology at the University of
+                     Chicago.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1918</date>
+               <eventgrp>
+                  <event>Moved to Durham with her husband who taught French at Trinity College (now
+                     Duke University).</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1920</date>
+               <eventgrp>
+                  <event>Helped organize the North Carolina Chapter of the League of Women
+                     Voters.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1923-1931</date>
+               <eventgrp>
+                  <event>Edited the N.C. League of Women Voters Monthly Bulletin.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1924-1925</date>
+               <eventgrp>
+                  <event>Awarded a writing fellowship at the University of North Carolina, Chapel
+                     Hill, where she wrote a study of cotton mill villages.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1925</date>
+               <eventgrp>
+                  <event>Became Regional Director for the National League of Women Voters.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1934</date>
+               <eventgrp>
+                  <event>American Association of University Women representative on the Citizens
+                     Council of Durham.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1937</date>
+               <eventgrp>
+                  <event>Chair of the Durham branch, American Association of University Women Social
+                     Studies Committee.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1938-1962</date>
+               <eventgrp>
+                  <event>Executive Director, Durham Nursery School Association.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1939-1945</date>
+               <eventgrp>
+                  <event>Chair of the Durham office of Civilian Defense - Child Welfare
+                     Division.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1944</date>
+               <eventgrp>
+                  <event>Instrumental in founding Southside Child Care Center.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1958</date>
+               <eventgrp>
+                  <event>Southside Child Care Center, Durham, N.C., renamed the Mary O. Cowper Child
+                     Care Center</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1968, Oct. 26</date>
+               <eventgrp>
+                  <event>Died Durham, N.C.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_6fc368b7af42d64bff54a7d02cf85012">
+         <head>Collection Overview</head>
+         <p>The papers of Mary Octavine (Thompson) Cowper span the years 1895-1969, although the
+            bulk of the material begins in 1938 when Mrs. Cowper became Executive Director of the
+            Durham Nursery School Association, Inc., a post which she held until 1962. Included in
+            the collection are five series: personal correspondence; writings; topical series;
+            miscellany; and photographs.</p>
+         <p>Mrs. Cowper's personal life is best documented in the personal correspondence. Letters
+            are primarily to Mrs. Cowper from family and friends but chiefly from her husband, Dr.
+            Frederick Cowper. Most of his correspondence dates from 1918 when he was Director of
+            French at the U.S. Army Y.M.C.A. camp at Camp Grant, Rockford, Illinois, and during
+            1952-1960 when he was visiting France, England, and other parts of Europe. There are a
+            few letters from Mrs. Cowper to her husband, and several to her mother, written while
+            Mrs. Cowper was in Europe, Feb. to Sept., 1928.</p>
+         <p>The writings series includes a biography of Eleanor of Acquitaine, which Mrs. Cowper
+            attempted unsuccessfully to have published in 1936, plus several other writings and an
+            undated travel journal.</p>
+         <p>The topical series is divided into three subseries: the Durham Nursery School
+            Association, Inc., 1938-1966; Suffrage, Industrial Labor Concerns, Social Legislation,
+            1910-1968; and the Durham Milk Delivery Controversy, 1948-1949.</p>
+         <p>The Durham Nursery School Association section forms the largest group of papers in the
+            collection. The organization's formation came about as an outgrowth of Mrs. Cowper's
+            work with the Durham branch of the American Association of University Women Social
+            Studies Committee. A study conducted by this group in the Durham area indicated a great
+            need for a nursery school for children of working mothers. The result was the
+            establishment of the Durham Nursery School in May, 1938. This section of the collection
+            provides insight into the organization's operations and activities through
+            correspondence, bylaws and reports, minutes, financial data, case studies, public
+            relations papers, newsclippings and other papers. This subseries also furnishes
+            information about Mrs. Cowper's work as chairman of the Child Welfare Division of the
+            Office of Civilian Defense in Durham (1939-1945), which was instrumental in getting
+            federal funds for the Emergency Child Care Center that operated several nursery schools
+            in Durham during the Second World War. Although several of them closed after the war,
+            one which remained, the Southside Child Care Center, was renamed the Mary O. Cowper
+            Child Care Center in her honor in 1958.</p>
+         <p>The Suffrage, Industrial Labor Concerns, Social Legislation section, 1910-1968, provides
+            information about Cowper's efforts on behalf of a number of social causes. Her work for
+            women's suffrage and better working conditions in textile mills and her advocacy for
+            labor legislation for women and children are reflected in this section's correspondence,
+            writings, and newsclippings. Her involvement with different organizations, including the
+            American Association of University Women and the League of Women Voters is also
+            represented. Included are separate folders for the American Association of University
+            Women and the League of Women Voters, containing bylaws, membership lists and bulletins,
+            reports, and information about conferences and meetings. Because the Durham Nursery
+            School Association was begun as an outgrowth of the American Association of University
+            Women Social Studies Committee, there is also some correspondence in this section
+            relating to nursery schools. Although Mrs. Cowper worked to establish a juvenile court
+            for youths in Durham, there is very little documentation for this in the papers.
+            Correspondents include Gertrude Weil, President of the N.C. League of Women voters,
+            Belle Sherwin, first vice-president of the National League of Women Voters, and other
+            officers at the local, state, and national level of organization. There are also some
+            letters from Howard Odum, Director of the School of Public Welfare at the University of
+            North Carolina at Chapel Hill, and Angus W. McLean, Governor of North Carolina. The bulk
+            of the correspondence in this section dates from 1924-1926, when Mrs. Cowper was
+            executive secretary of the North Carolina League of Women Voters.</p>
+         <p>The Durham Milk Delivery Controversy series, 1948-1949, centers around the controversy
+            created when Durham milk companies changed home milk deliveries from every other day to
+            three times a week, with milkmen not beginning their route service until 7:00 a.m.
+            Citizens protested that many people did not have enough space in their iceboxes for a
+            three day supply of milk and further that the delivery of milk to homes after 7:00 a.m.
+            meant that some people's milk would spoil because it would arrive after customers had
+            already left for work. Mrs. Cowper was co-chairman of a citizen's committee that
+            investigated the problem and suggested solutions. This section includes correspondence,
+            minutes of the citizen's group meetings, newsclippings, and other papers.</p>
+         <p>The two remaining series are miscellany and photographs. The miscellany section
+            primarily contains reports of Mrs. Cowper's grades and information about the Thompson
+            family. Photographs are chiefly of Mrs. Cowper and members of her family, including her
+            parents, and her brother Herbert, and his family.</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">North Carolina -- Durham County -- Durham</geogname>
+         <subject source="lcsh">Milk trade -- North Carolina -- Durham</subject>
+         <subject source="lcsh">Women school administrators</subject>
+         <subject source="lcsh">Textile industry</subject>
+         <subject source="lcsh">Textile workers -- Social conditions</subject>
+         <subject source="lcsh">Nursery schools -- North Carolina -- Durham</subject>
+         <subject source="lcsh">Women -- Suffrage</subject>
+         <subject source="lcsh">Child welfare -- North Carolina</subject>
+         <persname source="ingest">McLean, Angus Wilton, 1870-1935</persname>
+         <corpname source="ingest">League of Women Voters of North Carolina</corpname>
+         <corpname source="ingest">Durham Nursery School Association</corpname>
+         <persname source="ingest">Cowper, Mary Octavine (Thompson), 1881-1968</persname>
+         <corpname source="ingest">American Association of University Women. Durham Branch
+            (N.C.)</corpname>
+         <persname source="ingest">Cowper, Mary Octavine (Thompson), 1881-1968</persname>
+         <persname source="ingest">Cowper, Frederick Augustus Grant, 1883-1978</persname>
+         <persname source="ingest">Weil, Gertrude</persname>
+         <famname source="ingest">Thompson family</famname>
+         <persname source="ingest">Sherwin, Belle, 1868-1955</persname>
+         <persname source="ingest">Odum, Howard Washington, 1884-1954</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_35g" level="series">
+            <did>
+               <unittitle>Personal correspondence, 1900-1969 and undated</unittitle>
+               <physdesc id="aspace_336a9ff254a4a48302eca8f5104d7465">
+                  <extent>6 folders</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_88cbf75112092fc3ed07511e22b01dac">
+               <head>Scope and Contents note</head>
+               <p>Chiefly letters to Cowper from her husband, Dr. Frederick Cowper, but also
+                  including letters from other relatives and friends.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_5n1" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <container id="aspace_42fa91d9c30ca27812b9cd35e4386fdf" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref16_7ho" level="series">
+            <did>
+               <unittitle>Writings:</unittitle>
+            </did>
+            <scopecontent id="aspace_c5009dd42b6d3d339db11128354770ac">
+               <head>Scope and Contents note</head>
+               <p>Consists of Mrs. Cowper's writings, including a biography of Eleanor of Acquitaine
+                  (1936), several short stories, and a travel journal.</p>
+            </scopecontent>
+            <c02 id="aspace_ref17_dr2" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Eleanor of Aquitaine, Duchess and Queen,</title>
+                     1936</unittitle>
+                  <container id="aspace_a6289d9acda5d3d9c26677ff3b542543" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_jrt" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Queen of Two Realms: Eleanor of Aquitaine,</title>
+                     1936</unittitle>
+                  <container id="aspace_95bd0eea6b49fa316a3c524a9e4d8562" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_4kc" level="file">
+               <did>
+                  <unittitle>
+                     <title render="doublequote">Social Life of Women in France in the Middle
+                        Ages,</title> undated</unittitle>
+                  <container id="aspace_ab05c0f5cf2f61f2a066aa0468161da2" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_j1h" level="file">
+               <did>
+                  <unittitle>Short Stories, Journal, undated</unittitle>
+                  <container id="aspace_e6690401a9c933b94ff613ffab48f70b" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref22_6oc" level="series">
+            <did>
+               <unittitle>Topical Series:</unittitle>
+            </did>
+            <scopecontent id="aspace_9b434c5febed069e723d5d2f63133d46">
+               <head>Scope and Contents note</head>
+               <p>This series is divided into three subseries: the Durham Nursery School
+                  Association; Suffrage, Industrial Labor Concerns, Social Legislation; and the
+                  Durham Milk Delivery Controversy. Each subseries is further subdivided into
+                  subgroups either by topic or type of material, including correspondence, minutes,
+                  financial and legal papers, committee reports, organizations, writings and notes,
+                  newsclippings, printed material, photographs, and miscellany. Arrangement within
+                  the subgroups is primarily chronological.</p>
+            </scopecontent>
+            <c02 id="aspace_ref23_8dn" level="subseries">
+               <did>
+                  <unittitle>Durham Nursery School Association</unittitle>
+               </did>
+               <c03 id="aspace_ref24_j45" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1927-1942</unittitle>
+                     <physdesc id="aspace_f5b482099ca649fa6b8b48a4575a7de8">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_6dee6ba69d268a7c5415eb14cbb10dde" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref26_kd3" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1943-1966, and undated</unittitle>
+                     <physdesc id="aspace_89bb2248cce6829967984bfbd0e91b8d">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_924b4105735d50fde6dc72bddeec21a8" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref28_696" level="file">
+                  <did>
+                     <unittitle>Bylaws, Reports, 1938-1962, and undated</unittitle>
+                     <physdesc id="aspace_351a70aa0e8bc587bde26f0366938468">
+                        <extent>5 folders</extent>
+                     </physdesc>
+                     <container id="aspace_e0e58f30e3bfb304edd818643df75ba9" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref30_b15" level="file">
+                  <did>
+                     <unittitle>Minutes, 1939-1962, and undated</unittitle>
+                     <container id="aspace_9744aac63e44e565ff6d11f183a04580" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref31_vi7" level="file">
+                  <did>
+                     <unittitle>Minutes, Volumes</unittitle>
+                     <physdesc id="aspace_c54e8f38687ebf4fa357d6ec0f241396">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_187601f2abe9e3e691b41ea3db678db0" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref33_ffl" level="file">
+                  <did>
+                     <unittitle>Financial and Legal Papers, 1938-1960</unittitle>
+                     <physdesc id="aspace_4b03a03b8a9be40689cf0e46fb374abd">
+                        <extent>6 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ef05b67fe463278867ee0e7cf84d698a" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref35_x21" level="file">
+                  <did>
+                     <unittitle>Financial and Legal Papers, 1961-1965 and undated</unittitle>
+                     <container id="aspace_14624890c3ef759616a2ae65dc856986" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_ga6" level="file">
+                  <did>
+                     <unittitle>Financial and Legal Papers (Volumes) 1960-1961</unittitle>
+                     <container id="aspace_cf267a3708af64ee5caf5be5b8b0c689" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_js1" level="file">
+                  <did>
+                     <unittitle>Financial and Legal Papers: Salaries, (Volumes)
+                        1955-1959</unittitle>
+                     <container id="aspace_08e8d6eaa90bc24f479e69523b6a469b" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_3zr" level="file">
+                  <did>
+                     <unittitle>Financial and Legal Papers: Donations, 1938-1950 and
+                        undated</unittitle>
+                     <physdesc id="aspace_70ae4e1d647c540db8ae1b674b309631">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_56768ef4cf33aa6a3b1a73097a8aeebd" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_uac" level="file">
+                  <did>
+                     <unittitle>Financial and Legal Papers: Donations, (Volumes)
+                        1938-1959</unittitle>
+                     <physdesc id="aspace_d0082421347170aee52c9d022bacd808">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_bd2f46a5cfd97c9d444d131cae6408cd" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_yof" level="file">
+                  <did>
+                     <unittitle>Financial and Legal Papers: Rebecca Sprinkle Memorial Fund,
+                        1954-1960, and undated</unittitle>
+                     <container id="aspace_4d80b341979a07db39a9a3ee6c1bb41c" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_h97" level="file">
+                  <did>
+                     <unittitle>History, 1937-1956 and undated</unittitle>
+                     <container id="aspace_62508c1f7a81d15e956d1b9fc0eec124" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_aqa" level="file">
+                  <did>
+                     <unittitle>Operational Procedures and Personnel, 1944-1961 and
+                        undated</unittitle>
+                     <container id="aspace_05b7c65b394e26dbd0904e2db0073f98" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_3b4" level="file">
+                  <did>
+                     <unittitle>Public Relations, 1938-1963 and undated</unittitle>
+                     <container id="aspace_93e9f3551f31be59c19287ced4b88cf7" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_slt" level="file">
+                  <did>
+                     <unittitle>School Programs, 1940-1962 and undated</unittitle>
+                     <physdesc id="aspace_ffe6927e4567ed9dea3c9c2c03d966f3">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ef0db9415a5ad88c843808c4544b6e1d" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_07p" level="file">
+                  <did>
+                     <unittitle>School Programs (Volumes) undated</unittitle>
+                     <container id="aspace_d9902be5990a689e3d4389f0003502df" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_8sp" level="file">
+                  <did>
+                     <unittitle>Radio Broadcast Programs, 1939-1951</unittitle>
+                     <container id="aspace_e9334ed689551eaa5e15840d851e5bd6" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_ifb" level="file">
+                  <did>
+                     <unittitle>Committee Lists, 1937-1967 and undated</unittitle>
+                     <container id="aspace_92794c7474732811f986894a231fabe6" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_ln4" level="file">
+                  <did>
+                     <unittitle>Committee Lists, Volumes and undated</unittitle>
+                     <container id="aspace_aaa6041b5b687a8583543ced8e73c4f9" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_69a" level="file">
+                  <did>
+                     <unittitle>Enrollment Lists, 1953-1961 and undated</unittitle>
+                     <container id="aspace_9d7f5753c0be061f353b663081fb12f9" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_7ft" level="file">
+                  <did>
+                     <unittitle>Case Studies and Parents' Comments</unittitle>
+                     <container id="aspace_54f58e08f0acb6684848728dee0cdbda" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_jux" level="file">
+                  <did>
+                     <unittitle>Mother's Club, 1941-1957 and undated</unittitle>
+                     <container id="aspace_bf705a042b56aaa14d1df1c73c68138e" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref55_yzj" level="file">
+                  <did>
+                     <unittitle>Mother's Club (Volumes) 1953-1962</unittitle>
+                     <container id="aspace_d926135aa1c4abd31119ab5f18059bcc" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref56_ite" level="file">
+                  <did>
+                     <unittitle>Testimonial Dinner, 1963, Jan. 11</unittitle>
+                     <container id="aspace_bed4b3e2efc91ef7b37c9db95578686a" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_hf9" level="file">
+                  <did>
+                     <unittitle>Testimonial Dinner, 1963, Jan. 11, Photographs</unittitle>
+                     <container id="aspace_383df4371867a0f8aafcb1f736e6befd" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref58_wsu" level="file">
+                  <did>
+                     <unittitle>Clippings, 1938-1969 and undated</unittitle>
+                     <physdesc id="aspace_ca2e56aa04f6e568aad135a2cb794201">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_64b13508732cca467f49e9298f79305a" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_944" level="file">
+                  <did>
+                     <unittitle>Photographs</unittitle>
+                     <physdesc id="aspace_a7aa0b70ee840187570ef963df5696b7">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_15dfeb45e25d03972d5180ff6b35b7a9" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_20n" level="file">
+                  <did>
+                     <unittitle>Miscellany, 1941-1972 and undated</unittitle>
+                     <container id="aspace_1ad643574ab9fc9d2e13fd29f4f4d59f" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_93j" level="file">
+                  <did>
+                     <unittitle>Miscellany, Volumes, 1947</unittitle>
+                     <container id="aspace_583303d91a56e92ef6f7fe4b42ffccb6" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref64_w0t" level="subseries">
+               <did>
+                  <unittitle>Suffrage, Industrial Labor Concerns, Social Legislation:</unittitle>
+               </did>
+               <c03 id="aspace_ref65_710" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1913-1967 and undated</unittitle>
+                     <physdesc id="aspace_511000bf678192ec35661ae6d5ae8d6e">
+                        <extent>12 folders</extent>
+                     </physdesc>
+                     <container id="aspace_0098382a4a7992c2cb0c3c83a17095d9" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_sbu" level="file">
+                  <did>
+                     <unittitle>Writings and Notes: <title render="doublequote">Cotton
+                           Cloth,</title> 1925</unittitle>
+                     <container id="aspace_675d551d67d444721f794a77fb0a5781" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref68_sm2" level="file">
+                  <did>
+                     <unittitle>Writings and Notes: <title render="doublequote">The Heritage of
+                           Cotton,</title> undated</unittitle>
+                     <container id="aspace_8b804aa7ca7735bf48c2643c0e46a131" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_1d9" level="file">
+                  <did>
+                     <unittitle>Writings and Notes: <title render="doublequote">A History of Woman
+                           Suffrage in Kansas,</title> 1914</unittitle>
+                     <container id="aspace_f05b51d440c6a9b25bdf1bbfe11d1b91" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref70_fv0" level="file">
+                  <did>
+                     <unittitle>Writings and Notes: Interviews with textile workers,
+                        undated</unittitle>
+                     <container id="aspace_a0cedcad4cfca5d49af8e603dd03da0c" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_jjb" level="file">
+                  <did>
+                     <unittitle>Writings and Notes: <title render="doublequote">Our Tariff vs.
+                           Elizabethan Monopolies,</title> ca. 1930</unittitle>
+                     <container id="aspace_fc37138e3a7b7d8bda529eccfb455cc9" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref72_0ss" level="file">
+                  <did>
+                     <unittitle>Writings and Notes: <title render="doublequote">A Plea for Logic in
+                           Prohibition Law Discussions,</title> undated</unittitle>
+                     <container id="aspace_e96443f735f7ac827e8727fbdd1259fe" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_5av" level="file">
+                  <did>
+                     <unittitle>Writings and Notes: Social Science, undated</unittitle>
+                     <container id="aspace_4f3b069845e2d6611bb6a88ac4c0c5f6" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref74_m5i" level="file">
+                  <did>
+                     <unittitle>Writings and Notes: <title render="doublequote">What Are These
+                           Cotton Mill Operatives?,</title> 1929</unittitle>
+                     <container id="aspace_1f565651e30d07332d8dd64e19ccbfc7" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_imp" level="file">
+                  <did>
+                     <unittitle>Printed Material, 1910-1933 and undated</unittitle>
+                     <physdesc id="aspace_e76661726f9eb3ba0ed07fcca70b4d8e">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_bddd382681abfc2b409bb47315c4fd56" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref77_fkw" level="file">
+                  <did>
+                     <unittitle>American Association of University Women, 1943-1968 and
+                        undated</unittitle>
+                     <container id="aspace_78c1f3580d6164137b7d34dd23ca503e" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref78_lkg" level="file">
+                  <did>
+                     <unittitle>League of Women Voters, 1922-1930 and undated</unittitle>
+                     <container id="aspace_298e43198b98c14a071540d3225d06b8" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_rry" level="file">
+                  <did>
+                     <unittitle>League of Women Voters: Memberships, 1923-1931</unittitle>
+                     <container id="aspace_220917817a72ffcb95d3bc86cc9f28b3" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_chz" level="file">
+                  <did>
+                     <unittitle>League of Women Voters: Monthly News: <title render="italic"
+                           >Bulletin of the North Carolina League of Women Voters,</title>
+                        1923-1931</unittitle>
+                     <container id="aspace_7dfe1e2056d1002ae87c2df1f98ab116" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_mo1" level="file">
+                  <did>
+                     <unittitle>Clippings</unittitle>
+                     <physdesc id="aspace_beca29b904e6904416408c989d98029a">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ef08a2f2bb48dd77fbaa320167faa33f" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref83_urx" level="file">
+                  <did>
+                     <unittitle>Miscellany, 1913-1953 and undated</unittitle>
+                     <container id="aspace_25e48bbda02d86f947cb59f6ae20a998" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_wyh" level="file">
+                  <did>
+                     <unittitle>Miscellany (Volumes), 1936-1945</unittitle>
+                     <physdesc id="aspace_6bb2a3591b96d1768ad76630d3d45239">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_7ed15bef523eeabde053c13da29c8ca4" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_76l" level="file">
+                  <did>
+                     <unittitle>Miscellany (Volumes), 1948and undated</unittitle>
+                     <physdesc id="aspace_fef59eca3ee93cfcf712deba7e0cc8ae">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_c6b65d22a1a80cfc191e5a3066691285" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref88_1ra" level="file">
+                  <did>
+                     <unittitle>Photographs</unittitle>
+                     <container id="aspace_ae285a495a4470eab98d9ba474b3b446" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref89_0hd" level="subseries">
+               <did>
+                  <unittitle>Durham Milk Delivery Controversy</unittitle>
+               </did>
+               <c03 id="aspace_ref90_fi4" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1948-1949</unittitle>
+                     <container id="aspace_865776b4ced76843e09e7290e27f7971" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref91_ymc" level="file">
+                  <did>
+                     <unittitle>Clippings, 1948-1949 and undated</unittitle>
+                     <container id="aspace_a7b088a0c87830d6f23013f1891c007c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref92_v66" level="file">
+                  <did>
+                     <unittitle>Minutes, Miscellany, 1948 and undated</unittitle>
+                     <container id="aspace_f28153e4120b1f8621dfcd153d8f6253" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref94_0b7" level="series">
+            <did>
+               <unittitle>Miscellany:</unittitle>
+            </did>
+            <scopecontent id="aspace_2340b5b320d588b0d3a46693cbde15c1">
+               <head>Scope and Contents note</head>
+               <p>Includes papers relating to Mrs. Cowper; among them reports of her school grades,
+                  legal papers, information about her family, the Thompsons, her obituary, and other
+                  material.</p>
+            </scopecontent>
+            <c02 id="aspace_ref95_alo" level="file">
+               <did>
+                  <unittitle>1902-1968 and undated</unittitle>
+                  <container id="aspace_a21e04c5e4b15b2b67c18aa6f9c9aecd" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_ude" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <container id="aspace_50ee6eda3fd3efeef8e480b90559a31f" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref98_fup" level="series">
+            <did>
+               <unittitle>Photographs:</unittitle>
+            </did>
+            <scopecontent id="aspace_41e82d8fcf03b92692dbb285d72bd2d7">
+               <head>Scope and Contents note</head>
+               <p>Primarily photographs of Mrs. Cowper and members of her family, including her
+                  father, Rev. John Thompson, and her brother Herbert, and his family.</p>
+            </scopecontent>
+            <c02 id="aspace_ref99_5vy" level="file">
+               <did>
+                  <unittitle>1895-1953 and undated</unittitle>
+                  <physdesc id="aspace_7faf1f4ee8590ea9fa42a5f523d6f0aa">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_cd0aa27b320064cc205c2a48731e10ac" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref102_q0y" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+               <physdesc id="aspace_37a910c02355c1cbed3e2f7f0acb6e95">
+                  <extent>1 box</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref104_eqs" level="file">
+               <did>
+                  <unittitle>Durham Nursery School Association scrapbook, undated</unittitle>
+                  <container id="aspace_7045fb3c17bc14a6cd2a6c05dc2f77dd" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

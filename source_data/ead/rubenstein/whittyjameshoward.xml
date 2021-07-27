@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/whittyjameshoward/"
+      >whittyjameshoward</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James Howard Whitty papers, 1792-1943 and undated
+            <num>RL.01379</num></titleproper>
+        <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+          Paula Jeannet, Jen Snow</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2014</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">000877880</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-05-06 11:47:58
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>James Howard Whitty papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Whitty, J. H. (James Howard), 1859-1937</persname>
+      </origination>
+      <unitid>RL.01379</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">19 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1792/1943" type="inclusive">1792-1943 and undated</unitdate>
+      <physloc id="aspace_bbc79c92c4d44b0cde39f0bf7b2b7e13">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <abstract id="aspace_4fe237dd92db1b6dddfd1746c51106a8">Journalist, businessman, Poe scholar
+        and editor, and an avid collector of Poe memorabilia; resided in Richmond, Virginia. The
+        James Howard Whitty papers include letters, drafts of books and articles, research notes,
+        newspaper clippings, and other papers, all relating to Whitty's writings on Edgar Allan
+        Poe's life and career, his editorship of Poe's poetry, and his relationship with other
+        literary scholars. The numerous clippings are found both loose and mounted in three
+        scrapbooks. There is also a manuscript volume containing a Richmond, Virginia book seller's
+        accounts. Other research materials on Poe consist of transcripts of Poe's letters and over
+        600 images related to Poe's life. There is voluminous correspondence from Poe scholars and
+        other literary critics, including George Woodberry, Mary E. Phillips, and Thomas O. Mabbott.
+        Whitty's research papers also contain copies of letters from John C. Frémont to Joel
+        Poinsett in 1838, research material and correspondence relating to Virginia planter and
+        early Congressman John Randolph of Roanoke, and the history of Richmond,
+        Virginia.</abstract>
+      <physdesc id="aspace_18ddf739f99893ca2efc396e474944f4"><extent>Approx. 12,275
+        Items</extent></physdesc>
+      <langmaterial id="aspace_b6cbbc3e770b28bcbfb221e49c087cce">Material in English </langmaterial>
+    </did>
+    <accessrestrict id="aspace_59609892e2dea364408b9b6142a9f72b">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_3ed31efc5156083f165f1054c28ca6fa">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_c81e7a13787deb3e9caeb66587e40421">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], James Howard Whitty Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_81a4e0195a5daea35e57b54203432b54">
+      <head>Provenance</head>
+      <p>The James Howard Whitty papers were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library as a gift in 1941 and 1964.</p>
+    </acqinfo>
+    <processinfo id="aspace_424c9c13c91828c480bdfc33d177ea8c">
+      <head>Processing Information</head>
+      <p>Processed by Rubenstein Library staff</p>
+      <p>Encoded by Paula Jeannet and Jen Snow, May 2014</p>
+      <p>Accession(s) described in this finding aid: 7-1-41 and one accession from 1964</p>
+      <p>This collection has been given basic processing; contents are chiefly in original order as
+        received</p>
+    </processinfo>
+    <bioghist id="aspace_ae206b7fd0de44569d8baeecd3057652">
+      <head>Biographical Note</head>
+      <p>James Howard Whitty was a journalist, businessman, and scholar residing in Richmond,
+        Virginia. Whitty was an avid collector of Poe memorabilia. In 1916 he became an organizer
+        and later the first president of the Poe Foundation of the Poe Museum in Richmond, Virginia,
+        leaving the foundation in 1924.</p>
+    </bioghist>
+    <scopecontent id="aspace_c19649ad1348dfb99bf01a68851f6488">
+      <head>Collection Overview</head>
+      <p>Papers of James Howard Whitty, author and authority on the life and work of Edgar Allan
+        Poe, are chiefly comprised of correspondence, research writings and notes, printed material
+        such as clippings and engravings, and copies of 19th century correspondence, all relating to
+        Whitty's writings on literary figures and Virginia history.</p>
+      <p>Whitty's research materials on Edgar Allen Poe include copies of a large number of letters
+        by Edgar Allan Poe and members of his family; documents concerning the events surrounding
+        Poe's death; a large amount of correspondence with other Poe scholars, particularly George
+        E. Woodberry, Mary E. Phillips, and Thomas Ollive Mabbott; and research notes made by
+        Whitty, including material for a complete Poe bibliography, and rough drafts of Whitty's
+        writings on Poe. There are also over 600 images, chiefly engravings, including portraits of
+        Poe and his family, images of the places where Poe lived, and the museums and shrines
+        dedicated to him. In addition, there are letters relating to Whitty's work as organizer and
+        first president of the Edgar Allan Poe shrine in Richmond, Virginia, and to Whitty's quarrel
+        with the directors of the shrine in 1924.</p>
+      <p>The hundreds of clippings included in this collection consist of what seems to be almost
+        every article or mention of Poe from 1900-1935. Many of the articles are in duplicate and
+        many of them contain notations by Whitty. There are also three scrapbooks of clippings.</p>
+      <p>Other materials center on Whitty's interest in the history of Richmond, Virginia; business
+        correspondence pertaining to Whitty's work on the staff of the <title type="simple"
+          render="italic">Richmond Times</title>; notes on and copies of correspondence of John
+        Randolph of Roanoke, 1814-1816 (Virginia planter and Congressman) to Ann Morris, in which he
+        accuses her of being a common prostitute and the murderess of her child and of his brother.
+        Copies of her answers to his accusations are also included. Whitty was interested in writing
+        on John Randolph of Roanoke, but apparently never did so. Additional research materials
+        include notes on and copies of letters from John Charles Frémont to Joel R. Poinsett, 1838;
+        and other printed material, including reviews, copies of sections of books, publication
+        notices, and advertisements. There is also a manuscript volume containing the accounts of a
+        Richmond bookseller, 1929-1936.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_d44c1db0805a1912f8f20300518114e9">
+      <head>Related Material</head>
+      <p><archref><unittitle label="Collection">David Kelly Jackson papers, 1850, 1925-1991 and
+            undated (contain materials related to Poe history, and Whitty
+            correspondence)</unittitle><repository label="Repository">Rubenstein Library, Duke
+            University</repository>
+        </archref><archref><unittitle label="Collection">Joseph Francis Ambrose Jackson papers,
+            1829-1944 (contain letters from Whitty on Poe)</unittitle><repository label="Repository"
+            >Rubenstein Library, Duke University</repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Poets, American</subject>
+      <geogname source="lcsh">Richmond (Va.) -- History</geogname>
+      <geogname source="lcsh">Virginia -- History</geogname>
+      <genreform source="aat">Scrapbooks</genreform>
+      <subject source="lcsh">Authors -- Biography</subject>
+      <subject source="lcsh">Authors, American</subject>
+      <subject source="lcsh">American literature -- 19th century</subject>
+      <persname source="ingest">Randolph, John, 1773-1833</persname>
+      <persname source="ingest">Poe, Edgar Allan, 1809-1849</persname>
+      <persname source="ingest">Poinsett, Joel Roberts, 1779-1851</persname>
+      <persname source="ingest">Whitty, J. H. (James Howard), 1859-1937</persname>
+      <persname source="ingest">Woodberry, George Edward, 1855-1930</persname>
+      <persname source="ingest">Mabbott, Thomas Ollive, 1898-1968</persname>
+      <persname source="ingest">Phillips, Mary Elizabeth, 1857-1945</persname>
+      <persname source="ingest">Frémont, John Charles, 1813-1890</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref15_xtn" level="file">
+        <did>
+          <unittitle>Facts about Edgar Allan Poe</unittitle>
+          <container id="aspace_9fa4f9d9d52e4f877b78c47a970190f1" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref16_fu1" level="file">
+        <did>
+          <unittitle>The first census of Richmond, Virginia (copy), 1792</unittitle>
+          <container id="aspace_bb4075e12de72e491d59abf604fed25e" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref17_hud" level="file">
+        <did>
+          <unittitle>Correspondence, 1839-1908</unittitle>
+          <container id="aspace_32b7b8b9ad32fc259aa6a7c6bfa79db1" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+        <scopecontent id="aspace_539ce1df359dd6f70ebd8e827e599f39">
+          <head>Scope and Contents note</head>
+          <p>Contains letters from Poe and others as well as notes. Most of the correspondence in
+            the collection relates to business matters regarding Poe's publications, as well as
+            Poe's personal affairs.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref19_j6k" level="file">
+        <did>
+          <unittitle>Correspondence, 1909-1912</unittitle>
+          <container id="aspace_850f9121fdf2b882224311bc081829d8" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_6401045766c437e7e0260cfc6b5c45ed" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate type="inclusive">1913-1916 May</unitdate>
+          <container id="aspace_893a357fc65f9244388f8d3ee0dde824" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref21_63o" level="file">
+        <did>
+          <unittitle>Correspondence, 1916 June-1917 December</unittitle>
+          <container id="aspace_770c246a732dfa1001a836f992bbacd3" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref22_4r0" level="file">
+        <did>
+          <unittitle>Correspondence, 1918 -1919 July</unittitle>
+          <container id="aspace_f53acacbf3e446e3f7d443b2ddb3a301" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref23_bta" level="file">
+        <did>
+          <unittitle>Correspondence, 1919 August-1921 July</unittitle>
+          <container id="aspace_e6c7413eed69e390f67b7af585fda086" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref24_kcp" level="file">
+        <did>
+          <unittitle>Correspondence, 1921 August-1922 December</unittitle>
+          <container id="aspace_6eaa266fb832d8da1164ce46ff6a4876" label="Mixed Materials" type="box"
+            >7</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref25_khi" level="file">
+        <did>
+          <unittitle>Correspondence, 1923-1924 February</unittitle>
+          <container id="aspace_68ab9a33dd48b8a4109518be02310dff" label="Mixed Materials" type="box"
+            >8</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref26_wfe" level="file">
+        <did>
+          <unittitle>Correspondence, 1924 March-1925 June</unittitle>
+          <container id="aspace_79064693a4289e0a156328962990308a" label="Mixed Materials" type="box"
+            >9</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref27_ep7" level="file">
+        <did>
+          <unittitle>Correspondence, 1925 July-1926 March</unittitle>
+          <container id="aspace_c5a5be5fef90b5e988628680fb10fe55" label="Mixed Materials" type="box"
+            >10</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref28_rsp" level="file">
+        <did>
+          <unittitle>Correspondence, 1926 April-1926 December</unittitle>
+          <container id="aspace_54e96300ca4874210ca07bc1c43ff471" label="Mixed Materials" type="box"
+            >11</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref29_huf" level="file">
+        <did>
+          <unittitle>Correspondence, 1927-1928 April</unittitle>
+          <container id="aspace_53a7f026d3c033022391abb83f4166b9" label="Mixed Materials" type="box"
+            >12</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref31_qoi" level="file">
+        <did>
+          <unittitle>Correspondence, 1928 May-1930 May</unittitle>
+          <container id="aspace_f0f209f12fdebe06eb71328bf1d41129" label="Mixed Materials" type="box"
+            >13</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref32_7u6" level="file">
+        <did>
+          <unittitle>Correspondence, 1930 June-1932 December</unittitle>
+          <container id="aspace_b8fe4ccaba97a2baf173089c3c578961" label="Mixed Materials" type="box"
+            >14</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref33_uik" level="file">
+        <did>
+          <unittitle>Correspondence, 1933-1935</unittitle>
+          <container id="aspace_8d4c872a4db86df9ed212c4aa2d5e3fb" label="Mixed Materials" type="box"
+            >15</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref34_ncm" level="file">
+        <did>
+          <unittitle>Correspondence, 1936-1943 and undated</unittitle>
+          <container id="aspace_3db547c9781e2e889b801461c1ec2e9a" label="Mixed Materials" type="box"
+            >16</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref35_nrd" level="file">
+        <did>
+          <unittitle>Miscellaneous papers and notes, undated</unittitle>
+          <container id="aspace_178f79642d36b6bfa6726c9a3fa024ef" label="Mixed Materials" type="box"
+            >17</container>
+        </did>
+        <scopecontent id="aspace_ac2c7bb4f6b09b05792a4f4c5d879c8d">
+          <head>Scope and Contents note</head>
+          <p>Most of the undated papers and notes in this collection are by or about Poe and his
+            publications.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref37_kri" level="file">
+        <did>
+          <unittitle>Correspondence from Charles Campbell, Fredericksburg, Virginia,
+            undated</unittitle>
+          <container id="aspace_4e76b8653822596dbcc0d76f24b89664" label="Mixed Materials" type="box"
+            >18</container>
+        </did>
+        <scopecontent id="aspace_5925ed210660a53db35e57d2c30e9814">
+          <head>Scope and Contents note</head>
+          <p>Campbell knew Whitty through Campbell's work on the Bland family, related to John
+            Randolph of Roanoke.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref39_im5" level="file">
+        <did>
+          <unittitle>Miscellaneous papers and notes, undated</unittitle>
+          <container id="aspace_480d57d7656e055225d95f703986256e" label="Mixed Materials" type="box"
+            >18</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref40_hz6" level="file">
+        <did>
+          <unittitle>The Randolph family papers</unittitle>
+          <container id="aspace_baf9bbe54e2e523dfc3399c73921fad0" label="Mixed Materials" type="box"
+            >19</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref41_71q" level="file">
+        <did>
+          <unittitle>John Charles Frémont</unittitle>
+          <container id="aspace_30af0a31b87e7c462cec0cb2e38781e5" label="Mixed Materials" type="box"
+            >19</container>
+        </did>
+        <scopecontent id="aspace_403ffacabbcd6d013c19e64fcb210242">
+          <head>Scope and Contents note</head>
+          <p>Includes notes, articles, and copies of letters.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref43_jwc" level="file">
+        <did>
+          <unittitle>Miscellaneous papers and notes, undated</unittitle>
+          <container id="aspace_e7512bf7dcf8a309c119e2517535170f" label="Mixed Materials" type="box"
+            >19</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref44_4m5" level="file">
+        <did>
+          <unittitle>Miscellaneous papers and notes, undated</unittitle>
+          <container id="aspace_d7c95f2eae1cadf978956aa7112182d7" label="Mixed Materials" type="box"
+            >20</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref45_yt8" level="file">
+        <did>
+          <unittitle>Miscellaneous papers and notes, undated</unittitle>
+          <container id="aspace_ab06d6cb30af77300a52e0b27ca31d4d" label="Mixed Materials" type="box"
+            >21</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref46_ngj" level="file">
+        <did>
+          <unittitle>Father Tabb (John Banister Tabb) miscellaneous</unittitle>
+          <container id="aspace_ade945e64c858875a5c953e3d54a9ea4" label="Mixed Materials" type="box"
+            >21</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref47_v6l" level="file">
+        <did>
+          <unittitle>Miscellaneous papers and notes, undated</unittitle>
+          <container id="aspace_ad7c9aeef1301cce464455996a288f1e" label="Mixed Materials" type="box"
+            >22</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref48_caf" level="file">
+        <did>
+          <unittitle>Letters from Poe</unittitle>
+          <container id="aspace_ac3fa086fefd311683c24f2b4e962063" label="Mixed Materials" type="box"
+            >22</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref49_367" level="file">
+        <did>
+          <unittitle>Miscellaneous papers and notes, undated</unittitle>
+          <container id="aspace_60334fed074808638b02b834e6bbcf39" label="Mixed Materials" type="box"
+            >23</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref50_hpp" level="file">
+        <did>
+          <unittitle>John R. Thompson's <title render="italic">Edgar Allan Poe</title></unittitle>
+          <container id="aspace_03cce2a86d82cb0b4fedf57d4f2e6157" label="Mixed Materials" type="box"
+            >23</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref51_9qc" level="file">
+        <did>
+          <unittitle>Publications, 1867-1898</unittitle>
+          <container id="aspace_3986f712c82308e1fa5abaf810f05bbf" label="Mixed Materials" type="box"
+            >24</container>
+        </did>
+        <scopecontent id="aspace_ad1e681542394d89a0f5a261c17fa5e7">
+          <head>Scope and Contents note</head>
+          <p>Publications in this collection primarily comprise magazines, literary and academic
+            journals, leaflets, and books, by and about Poe.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref53_8v0" level="file">
+        <did>
+          <unittitle>Publications, 1902-1926</unittitle>
+          <container id="aspace_f2dba308073ec808ab6f9e4bab04e4bd" label="Mixed Materials" type="box"
+            >25</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref54_ywb" level="file">
+        <did>
+          <unittitle>Publications,1927-1937 and undated</unittitle>
+          <container id="aspace_ee8b9165032c2a8d19e023ee481af561" label="Mixed Materials" type="box"
+            >26</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref55_8v0" level="file">
+        <did>
+          <unittitle>Publications, undated</unittitle>
+          <container id="aspace_28a9efd5ea56b179fe5581e3171c7b1b" label="Mixed Materials" type="box"
+            >27</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref56_bb3" level="file">
+        <did>
+          <unittitle>Publications, undated</unittitle>
+          <container id="aspace_35f52900606ca7a9c744b27bab226e2b" label="Mixed Materials" type="box"
+            >28</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref57_qak" level="file">
+        <did>
+          <unittitle>Songs, lyrics from Poe's poems and others</unittitle>
+          <container id="aspace_43e336e2a8daad4bdc1a8edc91ff72bb" label="Mixed Materials" type="box"
+            >28</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref58_gk8" level="file">
+        <did>
+          <unittitle>Newspaper clippings</unittitle>
+          <container id="aspace_429940e4082916fff386019c9b59877d" label="Mixed Materials" type="box"
+            >29-36</container>
+        </did>
+        <scopecontent id="aspace_62a2bc823fb3e897fb5018cddce4e2ec">
+          <head>Scope and Contents note</head>
+          <p>Include book reviews of Poe's own publications, articles regarding The Poe Museum and
+            monuments, and Whitty's life and career.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_ref60_jrs" level="file">
+        <did>
+          <unittitle>Pictures</unittitle>
+          <container id="aspace_ef9fed23e7f403a45cfc06eb08fa40e0" label="Mixed Materials" type="box"
+            >37-38</container>
+        </did>
+        <scopecontent id="aspace_3f4fb3686a80cb8cc74171d72eb5ca4b">
+          <head>Scope and Contents note</head>
+          <p>Printed etchings and photos of The Poe Museum and memorial, other parts of Virginia (of
+            general interest and related to Poe's history), people close to Poe (and unidentified
+            individuals), illustrations (most of which were mostly likely used to accompany his
+            writings in publications), portraits of Poe, postcards, and other images.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_40390b0507d1fb7add3023016f306f13" level="file">
+        <did>
+          <unittitle>Photostats of Poe-related materials</unittitle>
+          <container id="aspace_a6a10574959d7928373ca1c7386d0d0b" label="Mixed Materials" type="box"
+            >SS:50</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref62_kcx" level="file">
+        <did>
+          <unittitle>Manuscript account book, bookseller in Richmond, Virginia (24 pp.),
+            1929-1936</unittitle>
+          <container id="aspace_588f88454585f74ef8534220cc23816c" label="Mixed Materials"
+            type="volume">F:2598</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref63_yz0" level="file">
+        <did>
+          <unittitle>Scrapbook (12 pp.), 1902-1930</unittitle>
+          <container id="aspace_f0ef24f78f8d90081aff7d612eafc20c" label="Mixed Materials"
+            type="volume">F:6474</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref64_oka" level="file">
+        <did>
+          <unittitle>Scrapbook (18 pp.), 1909</unittitle>
+          <container id="aspace_af757b3b9e322c24386ad2cedbf4d4d8" label="Mixed Materials"
+            type="volume">F:6475</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref65_4hl" level="file">
+        <did>
+          <unittitle>Scrapbook (79 pp.), 1908-1915</unittitle>
+          <container id="aspace_62f1ffad1f1ff04810e00db633324547" label="Mixed Materials"
+            type="volume">F:6476</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

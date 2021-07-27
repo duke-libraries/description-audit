@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/fisher/">fisher</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the William Righter and Mary Wager Fisher Papers, 1830-1934
+                  <num>RL.00398</num>
+            </titleproper>
+            <author>Processed by: Melissa J. Delbridge and Joann Kleinneiur</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002216687</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 16:56:55
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>William Righter and Mary Wager Fisher papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Fisher, William Righter</persname>
+         </origination>
+         <unitid>RL.00398</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1830/1934" type="inclusive">1830-1934</unitdate>
+         <physloc id="aspace_660c2cdaae42af77dc2d026cc6720eeb">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <physdesc id="aspace_eff939aaba4c088cecaf950727884435">
+            <extent>2,850 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_41a4ce4901188dbbeb92853446d29b70">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_3fd3c9fc90e8f75a960bfbb9aaabc25d">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. There may be a 48-hour delay in obtaining these materials.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_5da16ed0299aa184419e8571e61c068b">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in the William Righter and Mary Wager Fisher Papers have not
+            been transferred to Duke University. For further information, see the section on
+            copyright in the Regulations and Procedures of the David M. Rubenstein Rare Book &amp;
+            Manuscript Library.</p>
+      </userestrict>
+      <acqinfo id="aspace_d7eeb58dc27df55e25ba72131ac64569">
+         <head>Provenance</head>
+         <p>The papers of William Righter and Mary Wager Fisher were purchased by Duke University in
+            1993.</p>
+      </acqinfo>
+      <processinfo id="aspace_589a525ebf2aebe0f2e56b603cd39d34">
+         <head>Processing Information</head>
+         <p>Processed by Melissa J. Delbridge and Joann Kleinneiur</p>
+         <p>Completed June 30, 1996</p>
+         <p>Encoded by Stephen D. Miller</p>
+      </processinfo>
+      <bioghist id="aspace_6a6afd78f64f9c083eb38de74df877be">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>William Righter Fisher</head>
+            <chronitem>
+               <date>1849 June 27</date>
+               <eventgrp>
+                  <event>Born in Montgomery County, Pa. to Wiliam A. and Sarah Fisher</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1870</date>
+               <eventgrp>
+                  <event>Graduated from Dickinson College in Carlisle, Pa.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1871-1874</date>
+               <eventgrp>
+                  <event>Attended Universities of Heidelberg and Munich</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1874-1876</date>
+               <eventgrp>
+                  <event>Taught modern languages at Dickinson College</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1876 Jan. 4</date>
+               <eventgrp>
+                  <event>Married Mary Wager</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1876</date>
+               <eventgrp>
+                  <event>Admitted to Philadelphia bar and began to practice law</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1932 Feb. 18</date>
+               <eventgrp>
+                  <event>Died in Philadelphia, Pa.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <chronlist>
+            <head>Mary Wager Fisher</head>
+            <chronitem>
+               <date>1845</date>
+               <eventgrp>
+                  <event>Born in Lansing, N.Y.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1864</date>
+               <eventgrp>
+                  <event>Graduated from Alfred University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1866</date>
+               <eventgrp>
+                  <event>Taught freedmen at Dr. Manly's school in Richmond, Va.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1870</date>
+               <eventgrp>
+                  <event>Became journalist, covering political events in Washington, D.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1872</date>
+               <eventgrp>
+                  <event>Wrote series of articles entitled, <title type="simple"
+                        render="doublequote">The Traveller Abroad</title> for <title type="simple">
+                        The Rural New Yorker</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1876</date>
+               <eventgrp>
+                  <event>Married William Righter Fisher</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1915 July 1</date>
+               <eventgrp>
+                  <event>Died in Bryn Mawr, Pa.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_b3595ff8637b6517807589cf4df01c33">
+         <head>Collection Overview</head>
+         <p>The papers of the lawyer and educator William Righter Fisher and the journalist Mary
+            Wager Fisher consist primarily of correspondence, but also include photographs (several
+            of them tintypes and cartes-de-visite), financial papers, diaries, clippings, printed
+            material, and writings and speeches. Among correspondents are many journalists,
+            physicians, educators, and other notable figures of the late nineteenth century
+            including Lucy Abbott, Mercy Baker, Jennie Chapin, Mary L. Booth, W.S. Burke, James
+            Gowdy Clark, M.E. Dodge, Weston Flint, P. Girard, S. D. Harris, Albert Leffingwell,
+            Henry C. Olney, W. Trickett, George Boyer Vashon, and Frank J. Webb. The collection also
+            includes letters from James B. Hazelton of the First Regiment, New York Artillery.
+            Hazelton's letters describe battles and political events of the Civil War, including
+            Lincoln's re-election campaign and the anti-draft riots. The papers are particularly
+            rich in documentation of women in medicine and women's medical education in the second
+            half of the nineteenth century; the Freedmen's schools in the Reconstruction South; the
+            movement for women's rights; and friendship among American women in the late Victorian
+            era.</p>
+         <p>The Correspondence Series includes letters from three prominent women physicians of the
+            period (Jennie Chapin, Mercy N. Baker, and Lucy M. Abbott) to Mary Wager before her
+            marriage to Fisher. In their letters they described their medical education, their
+            obstetrical experience, and the high cost of tuition and living expenses at the Women's
+            Medical College of Philadelphia. Letters prior to her marriage in 1876 also attest to
+            Wager's numerous romantic involvements. Among her admirers was lawyer and educator
+            Weston Flint, and the Correspondence Series includes over 100 letters from him
+            describing his political, social, and literary interests as well as his deep affection
+            for Mary Wager. He also wrote about his wartime travels and his interest in helping the
+            contrabands medically and educationally. Flint detailed political events of the Civil
+            War, including Lincoln's re-election campaign and the anti-draft riots, and mentions the
+            Copperheads. He expressed particular interest in the moral state of soldiers, decrying
+            their drinking of alcohol and consorting with prostitutes. Flint sometimes included
+            poetry in his letters.</p>
+         <p>Also in the Correspondence Series are two letters (1870) from Frank J. Webb, the author
+            of The Garies and Their Friends (1857), a daring novel about an interracial couple. In
+            one of these letters dated May 5, he referred to a 500-page manuscript sent to Harper's
+            for an unpublished novel, Paul Sumner, which he considered to be superior to The Garies.
+            In a four-page letter to Wager (April 9, 1870), African American writer, attorney, and
+            educator George Boyer Vashon provided an autobiography. The events of his life were
+            penned on the letterhead of The New Era: A National Journal, Edited by Colored Men.</p>
+         <p>The collection offers insight into emotionally intense friendships between women of the
+            nineteenth century. Wager's female friends sent good wishes, but expressed great
+            jealousy at the time of her marriage to Fisher. Young women wrote of both romantic and
+            sisterly love for Mary, and sometimes discussed such issues as women's education,
+            women's dress, women's suffrage, and temperance.</p>
+         <p>The bulk of William Righter Fisher's letters in the collection were written between him
+            and his parents. A small cache of letters from author and dean of Dickenson College Law
+            School William Trickett, who lived in Germany in 1872, provide a vivid illustration of
+            the political climate and structure of the Germany of Bismarck. Also to be found among
+            letters to Fisher are several written in the late 1860's by agents of the Freedmen's
+            Bureau and the Freedmen's school in Wytheville, Virginia. </p>
+         <p>While the bulk of the collection consists of correspondence, some speeches and writings
+            by Mary Wager Fisher and Weston Flint are included. Of particular interest is a
+            photocopy of Mary Wager's article entitled <title type="simple" render="doublequote">
+               Women as Physicians.</title> Also, the Pictures Series includes both cartes-de-visite
+            and tintypes.</p>
+         <p>The William Righter and Mary Wager Fisher Papers provide numerous windows through which
+            researchers can view aspects of late Victorian America. The collection provides an
+            unusual entree into the private and public lives of nineteenth-century men and women,
+            and particularly provides information about the professionalization of American women,
+            relationships between women in nineteenth-century America, and race relations in the
+            Reconstruction South.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Women in medicine -- United States -- History -- 19th
+            century</subject>
+         <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
+         <subject source="lcsh">Freedmen -- Education -- Southern States -- History -- 19th
+            century</subject>
+         <subject source="lcsh">Draft Riot, New York, N.Y., 1863</subject>
+         <subject source="lcsh">Female friendship -- United States -- History -- 19th
+            century</subject>
+         <genreform source="aat">Tintypes (prints)</genreform>
+         <subject source="lcsh">Women teachers -- Southern States -- History -- 19th
+            century</subject>
+         <subject source="lcsh">Women's rights -- United States -- History -- 19th century</subject>
+         <subject source="lcsh">Presidential candidates -- United States -- History -- 19th
+            century</subject>
+         <genreform source="aat">Cartes-de-visite</genreform>
+         <persname source="ingest">Booth, Mary L. (Mary Louise), 1831-1889</persname>
+         <persname source="ingest">Chapin, Jennie</persname>
+         <persname source="ingest">Abbott, Lucy</persname>
+         <persname source="ingest">Baker, Mercy</persname>
+         <persname source="ingest">Webb, Frank J.</persname>
+         <persname source="ingest">Vashon, George Boyer, 1824-1878</persname>
+         <persname source="ingest">Trickett, William, 1840-1928</persname>
+         <corpname source="ingest">United States. Army. New York Artillery Regiment, 5th</corpname>
+         <persname source="ingest">Leffingwell, Albert, 1845-1916</persname>
+         <persname source="ingest">Lincoln, Abraham, 1809-1865</persname>
+         <persname source="ingest">Fisher, William Righter</persname>
+         <persname source="ingest">Flint, Weston</persname>
+         <persname source="ingest">Fisher, Mary Wager, 1845-1915</persname>
+         <persname source="ingest">Fisher, William Righter, 1849-1932</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_p2y" level="series">
+            <did>
+               <unittitle>Correspondence, 1830-1934 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_fa5ad7241c25e81247d2713f2e3d4e72">
+               <head>Scope and Contents note</head>
+               <p>Letters to and from Mary Wager and William Righter Fisher and friends, family
+                  members, and associates. Correspondents include many educators, artists, and
+                  illustrious Americans of the period.</p>
+            </scopecontent>
+            <arrangement id="aspace_7ba702e1ac2acc0154fb6c3c501630e5">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically.</p>
+            </arrangement>
+            <c02 id="aspace_ref13_6i1" level="file">
+               <did>
+                  <unittitle>1830 Jan. 18-1868 Dec. 31</unittitle>
+                  <physdesc id="aspace_5a2cf4c89467fcdc382aa34eb8c9a996">
+                     <extent>15 folders</extent>
+                  </physdesc>
+                  <container id="aspace_51d51d43df5606c15e726707b92d16b7" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_v5v" level="file">
+               <did>
+                  <unittitle>1869 Jan. 6-1875 May 13</unittitle>
+                  <physdesc id="aspace_f9d9300967ba48c963f23a6d9afecae3">
+                     <extent>19 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4a2a957deb4c884de1f0d22e8b822269" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_e0a" level="file">
+               <did>
+                  <unittitle>1875 June 5-1934 Mar. 12 and undated</unittitle>
+                  <physdesc id="aspace_d984b793bbfb9c7cbe4c853a4c629839">
+                     <extent>12 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ee2d9dc5e1ed8669077e281abf7e368b" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref21_log" level="series">
+            <did>
+               <unittitle>Financial Papers, 1839 Apr. 11-1901 Apr. 1 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_dba3c47b1f1479edfe3f18db72ab9408">
+               <head>Scope and Contents note</head>
+               <p>Small personal account books, pages of William Fisher's accounts with merchants in
+                  Pennsylvania, and receipts.</p>
+            </scopecontent>
+            <arrangement id="aspace_528e3909fe96234303eb19dba392a519">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically.</p>
+            </arrangement>
+            <c02 id="aspace_ref22_z2v" level="file">
+               <did>
+                  <unittitle>1839 Apr. 11-1901 Apr. 1 and undated</unittitle>
+                  <physdesc id="aspace_e082a0a0a175863e4bd5a426bbabbb7b">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_29744e21905510e8a087e5306e65c94d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_42s" level="file">
+               <did>
+                  <unittitle>1879 July 14</unittitle>
+                  <physdesc id="aspace_ea077f265acb49e46d1d53b620949343">
+                     <extent>1 item</extent>
+                  </physdesc>
+                  <container id="aspace_2d811c07ffd1ef6045cfd08e9f3b04f2" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref28_em2" level="series">
+            <did>
+               <unittitle>Pictures, undated</unittitle>
+            </did>
+            <scopecontent id="aspace_c8fd8532785d118bca4b734f3d16760e">
+               <head>Scope and Contents note</head>
+               <p>14 photographs, mostly portraits of unidentified young men and women taken by
+                  Philadelphia photographers. None of the photographs are dated. Series includes
+                  cartes-de-visite and tintypes.</p>
+            </scopecontent>
+            <c02 id="aspace_ref29_brg" level="file">
+               <did>
+                  <unittitle>N.d.</unittitle>
+                  <physdesc id="aspace_30feb9130d61762e16eb4f28b2e9bc09">
+                     <extent>1 folder</extent>
+                  </physdesc>
+                  <container id="aspace_b58be4d6eb5062e9783690d94af652ab" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref32_l6l" level="series">
+            <did>
+               <unittitle>Diary, 1879 Jan. 1-Dec. 1</unittitle>
+            </did>
+            <scopecontent id="aspace_cf9418bb42c1328ebadb5a817bef3126">
+               <head>Scope and Contents note</head>
+               <p>Small personal diary belonging to William A. Fisher. Entries are brief accounts of
+                  daily activities.</p>
+            </scopecontent>
+            <c02 id="aspace_ref33_qcy" level="file">
+               <did>
+                  <unittitle>1879 Jan. 1-Dec. 1 (1 vol.)</unittitle>
+                  <container id="aspace_56a8885f185e9ca494307011e383d27e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref35_191" level="series">
+            <did>
+               <unittitle>Clippings, 1859 Mar. 9-1915 July 18 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_a0dcbe131c95fe86805e3e930a270094">
+               <head>Scope and Contents note</head>
+               <p>Clippings concerning friends and family members of the Fishers, as well as items
+                  of general interest to them. Includes poetry by Mary Wager Fisher, her obituary,
+                  and a few short articles about her.</p>
+            </scopecontent>
+            <arrangement id="aspace_d06a49f57b4c950616cdb5fb48f555be">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically.</p>
+            </arrangement>
+            <c02 id="aspace_ref36_nmu" level="file">
+               <did>
+                  <unittitle>1859 Mar. 9-1915 July 18 and undated</unittitle>
+                  <physdesc id="aspace_1f30494c78f0518f79bbce93f1bee128">
+                     <extent>1 folder</extent>
+                  </physdesc>
+                  <container id="aspace_cbe45ea8f22b6d3b2bd6051cd8b2491c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_v8j" level="file">
+               <did>
+                  <unittitle>1869 Aug. 4-1915 July 18</unittitle>
+                  <physdesc id="aspace_a1da5a7cea7b96d51aae60e088530033">
+                     <extent>5 items</extent>
+                  </physdesc>
+                  <container id="aspace_734cc8beb4ef9442efd616ba383ce1d2" label="Mixed Materials"
+                     type="oversize-folder">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref42_vdu" level="series">
+            <did>
+               <unittitle>Printed Material, 1861-1876</unittitle>
+            </did>
+            <scopecontent id="aspace_4e9a5f496429e66282c87040c20cc34e">
+               <head>Scope and Contents note</head>
+               <p>Transcript of Supreme Court case, <title type="simple" render="doublequote">
+                     Elizabeth C. Acuff vs. John Righter</title> and the Fishers' wedding
+                  invitation.</p>
+            </scopecontent>
+            <c02 id="aspace_ref43_ut0" level="file">
+               <did>
+                  <unittitle>1861-1876</unittitle>
+                  <physdesc id="aspace_1978b02ac55add63270b33e244ce3472">
+                     <extent>1 folder</extent>
+                  </physdesc>
+                  <container id="aspace_293a38416de4427bb278c279b59ffc8a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref46_128" level="series">
+            <did>
+               <unittitle>Writings and Speeches, 1862 Aug. 2-1864 July 21 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_fc575728662bd39217140eba01fb96d6">
+               <head>Scope and Contents note</head>
+               <p>Manuscript of <title type="simple" render="doublequote">Tempus Fugit,</title> a
+                  poem by Weston Flint; photocopy of article by Mary Wager Fisher entitled <title
+                     type="simple" render="doublequote"> Women as Physicians</title> (copied from
+                     <title type="simple" render="italic">The Galaxy,</title> 1863 Dec.); anonymous
+                  manuscript poem entitled, <title type="simple" render="doublequote"> Watkins'
+                     Glen;</title> fragments of articles and speeches; and a page from a manuscript
+                  speech by Mary Wager Fisher imploring the women of Allegeny County to donate
+                  provisions for soldiers and their families.</p>
+            </scopecontent>
+            <arrangement id="aspace_10afd021ef38c0ed993fcc9b62681003">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically.</p>
+            </arrangement>
+            <c02 id="aspace_ref47_rjy" level="file">
+               <did>
+                  <unittitle>1862 Aug. 2-1864 July 21 and undated</unittitle>
+                  <physdesc id="aspace_7ee347c77fe55a5ddc125172989a386c">
+                     <extent>1 folder</extent>
+                  </physdesc>
+                  <container id="aspace_32f88cb68df7f41f0c5df4ff597d88ba" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref51_f95" level="series">
+            <did>
+               <unittitle>Miscellaneous Papers, 1864 Jan. 23-1899 Jan. 2 and undated</unittitle>
+            </did>
+            <scopecontent id="aspace_c43baa7f3f4b04edbabea2d677299e93">
+               <head>Scope and Contents note</head>
+               <p>Lease for the rental of a house belonging to William A. Fisher, form letter signed
+                  by Weston Flint requesting that a commanding officer send the descriptive role to
+                  U.S. General Hospital, an address book, list of members of the Peoples' Institute,
+                  drawings, calling cards, and assorted covers.</p>
+            </scopecontent>
+            <arrangement id="aspace_53ba9974c331ca7a35f19a0c373ac759">
+               <head>Arrangement note</head>
+               <p>Arranged chronologically with calling cards and covers at the end.</p>
+            </arrangement>
+            <c02 id="aspace_ref52_x3a" level="file">
+               <did>
+                  <unittitle>1864 Jan. 23-1899 Jan. 2 and undated</unittitle>
+                  <physdesc id="aspace_34824c47b864bc1edef25df50a8354d8">
+                     <extent>1 folder</extent>
+                  </physdesc>
+                  <container id="aspace_c25291cbe061c359b405054f38025ff0" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

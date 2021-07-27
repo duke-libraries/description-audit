@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="http://library.duke.edu/rubenstein/findingaids/dbjrandall/">dbjrandall</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Dale B. J. Randall Papers, 1940-2010s
+          <num>RL.00298</num></titleproper>
+        <author>Processed by: Kimberly Sims in December 2006, additional accessions processed by
+          Jennifer Malone in March 2009; machine-readable finding aid created by: Kimberly
+          Sims</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2009</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003252346</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-07-10 10:16:56
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+      <change>
+        <date>2017</date>
+        <item>updated with 2017 accession; updated subjects and collection-level info following
+          Randall's death in 2016. Updated MARC to rda.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Dale B. J. Randall papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Randall, Dale B. J.</persname>
+      </origination>
+      <unitid>RL.00298</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">24 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1940/2010" type="inclusive">1940-2010s</unitdate>
+      <abstract id="aspace_45980c902ee7be2a67b6c7554c6342c6">Dale B.J. Randall (1929-2016) taught in
+        the Duke English Dept. from 1957-1999 and in the Drama Program from 1991-1999. The
+        collection includes material related to both the English Dept. and the Drama Program as well
+        as Randall's scholarly research. Types of material include correspondence, flyers, programs,
+        clippings, and articles. The collection ranges in date from 1940 through the
+        2010s.</abstract>
+      <langmaterial id="aspace_4cc432570cffdac9574a09bfbfa0af5d">Material in English </langmaterial>
+    </did>
+    <accessrestrict id="aspace_2b2bfa2bb1331d3b11c0e063e1f665b2">
+      <head>Access Restrictions</head>
+      <p>Portions of the collection are restricted. Restricted items are noted in the container
+        list.</p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>All or portions of this collection may be housed off-site in Duke University's Library
+        Service Center. The library may require up to 48 hours to retrieve these materials for
+        research use.</p>
+      <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+        &amp; Manuscript Library to use this collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_8580b6f1a79fb927fa2de38202a0864a">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_e6f5ad9abcfdafc44ea9b8daa6235334">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Dale B. J. Randall Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University</p>
+    </prefercite>
+    <acqinfo id="aspace_734acdda3c8973d86ab07327cc42c403">
+      <head>Provenance</head>
+      <p>The Dale B. J. Randall Papers were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library and University Archives between 1986-2017.</p>
+    </acqinfo>
+    <processinfo id="aspace_54d7d3ba7cb087b48609120bf0f0c424">
+      <head>Processing Information</head>
+      <p>Processed by Kimberly Sims in December 2006, Jennifer Malone in March 2009</p>
+      <p>Encoded by Kimberly Sims, March 2009</p>
+      <p>Updated by Meghan Lyon, February 2010; Christian Cleveland, Oct. 2017; Laurin Penland, July
+        2018.</p>
+      <p>Accessions 2007-0015, UA2003-51, UA2003-55, UA2007-0030, UA2008-0051, UA2009-0014,
+        2009-0238, 2010-0032, 2017-0176, and one from 1986 were merged into one collection,
+        described in this finding aid. </p>
+    </processinfo>
+    <bioghist id="aspace_b937b837d7a9fe774d6c32429c987d37">
+      <head>Biographical Note</head>
+      <p>Dale B.J. Randall earned his B.A. from Western Reserve University in 1951, his M.A. from
+        Rutgers University in 1953, and his Ph.D. from the University of Pennsylvania in 1958. In
+        1957, he began teaching at Duke University as an Instructor in English, a position he had
+        until 1960 when he was promoted to Assistant Professor. In 1970, he was promoted to
+        Professor of English. He was also appointed Professor of Dramatic Literature in1991 and
+        Professor of the Practice of Drama in 1994.</p>
+      <p>During his career, he served in several posts for the Southeastern Institute of Medieval
+        and Renaissance Studies and the Folger Institute of Renaissance and 18th century Studies, as
+        Associate Dean of the Graduate School, and as Chair of the Duke Center for Medieval and
+        Renaissance Studies. Additionally, Randall served as Interim Director of the Duke Drama
+        Program (now the Dept. of Theatrical Studies) from 1991-1992, when the Program was close to
+        collapsing. Under his leadership, the Program stabilized. Randall also published several
+        works including <title type="simple" render="italic">The Golden Tapestry: A Critical Survey
+          of Non-Chivalric Spanish Fiction in English Translation, 1543-1657,</title> in 1963,
+          <title type="simple" render="italic">Joseph Conrad and Warrington Dawson: The Record of
+          Friendship,</title> in 1968, <title type="simple" render="italic">Gentle Flame: The Life
+          and Verse of Dudley, Fourth Lord North</title>, and <title type="simple" render="italic"
+          >Winter Fruit: English Drama 1642-1660</title>.</p>
+      <p>Randall retired from Duke University in 1999 and was duly appointed both Professor Emeritus
+        of English and Professor Emeritus of the Practice of Drama. He continued researching various
+        works until at least 2010. Dale Randall died in Durham, NC on July 24, 2016.</p>
+    </bioghist>
+    <scopecontent id="aspace_13f4f3df063743e73b5f8ef4a108677f">
+      <head>Collection Overview</head>
+      <p>The largest part of the collection contains research material pertaining to Lord North,
+        Joseph Conrad and Warrington Dawson, about whom Randall was writing books. His research
+        files include xerox copies, slides, illustrations and microfilm. There are materials from
+        Randall's time in the Dept. of English, particularly the controversy which occurred in the
+        late 1980s-early 1990s. The controversy boiled down to a debate between traditionalists and
+        revisionists. It made national headlines at the time, and Randall refers to it as "The
+        Troubles." There are also syllabi, examination questions, and non-graded student papers.
+        Additionally, the collection contains material from Randall's time as Chair of the Drama
+        Program and includes correspondence, programs, flyers, and clippings. </p>
+      <p>Randall's papers also include a copy of the written sexual harassment complaint a student
+        made against an English professor in 1981. This folder is restricted for 70 years. </p>
+      <p>Both University Archives and Special Collections received material from Professor Randall.
+        The accessions have been merged into the finding aid presented here.</p>
+    </scopecontent>
+    <arrangement id="aspace_7c891831375db636f269630879178c59">
+      <head>Collection Arrangement</head>
+      <p>The collection is arranged by accession order.</p>
+    </arrangement>
+    <relatedmaterial id="aspace_d9c344d5fb92be36cc1a192ad4a74cd3">
+      <head>Related Material</head>
+      <p><archref><unittitle label="Collection">Dept. of English Records</unittitle><repository
+            label="Repository">Duke University Archives</repository>
+        </archref><archref><unittitle label="Collection">Dept. of Theater Studies
+            Records</unittitle><repository label="Repository">Duke University Archives</repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Drama -- Studying and teaching -- North Carolina -- Durham</subject>
+      <subject source="lcsh">English literature -- History and criticism</subject>
+      <subject source="lcsh">English literature -- 16th century</subject>
+      <subject source="lcsh">English literature -- 17th century -- Study and teaching</subject>
+      <corpname source="ingest">Duke University. Department of English</corpname>
+      <persname source="ingest">Conrad, Joseph, 1830-1891</persname>
+      <corpname source="ingest">Duke University. Department of Theater Studies</corpname>
+      <corpname source="ingest">Duke University. Department of English -- Faculty</corpname>
+      <persname source="ingest">Dawson, Warrington, 1878-1962</persname>
+      <persname source="ingest">Randall, Dale B. J.</persname>
+      <persname source="ingest">North, Dudley North, Baron, 1602-1677.</persname>
+      <corpname source="ingest">Duke University. Graduate School</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref14_tea" level="series">
+        <did>
+          <unittitle>1986 Accession</unittitle>
+        </did>
+        <scopecontent id="aspace_3b5b7e7a32278ac1b9ae1a10fb730da6">
+          <head>Scope and Contents note</head>
+          <p>Includes correspondence between Randall and others who had information on Warrington
+            Dawson and Joseph Conrad. There are also photographs that were to be included in
+            Randall's book, as well as his notes and an original letter from Dawson to Conrad.</p>
+        </scopecontent>
+        <c02 id="aspace_ref15_6a3" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. I, Oct. 1963-Aug. 1964</unittitle>
+            <container id="aspace_60b2aacfceebf83b823678640ee87d32" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref16_5ii" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. I, Oct. 1963-Aug. 1964</unittitle>
+            <container id="aspace_c0d4a36a00b6d245bc927ae191f53927" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref17_lql" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. II, Jul. 1964-Sep. 1964</unittitle>
+            <container id="aspace_3ec2d0f72ceb924d940aca311b18ce7a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref18_zh2" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. III, Sep. 1964-Feb.1965</unittitle>
+            <container id="aspace_1093a0706a7b4526cf56dd4094587f26" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref19_w9s" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. IV, Jan. 1965-Jun. 1965</unittitle>
+            <container id="aspace_bed261afa96770472a4c933afb436f35" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref20_6bl" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. V, Jun. 1965-May 1966</unittitle>
+            <container id="aspace_1eba1d15d0d32fb7032673f623180d08" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref21_ewm" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. VI, May 1966-Jul. 1967</unittitle>
+            <container id="aspace_e84f6f7f464558cad566cdf1d7e26c73" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref22_fyp" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. VII, Aug. 1967-Sep. 1968</unittitle>
+            <container id="aspace_8717de276c5155af21702bc3a4db2bbb" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref23_ryu" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. VIII, Sep. 1968-Nov. 1968</unittitle>
+            <container id="aspace_52e86c53e536e2389a1f11abd087e3ed" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref24_83e" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. IX, Dec. 1968-Apr. 1969</unittitle>
+            <container id="aspace_2afa085e5fc0ccd5eed5bf79acbdf436" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref25_ysx" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. X, Apr. 1969-Jun. 1969</unittitle>
+            <container id="aspace_c5c960647c4de3602238eae79e6389e0" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref26_o4w" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. XI, Jul. 1969-Aug. 1969</unittitle>
+            <container id="aspace_edfbabfecce96274220e2523d8e1c394" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref27_q4v" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. XII, Aug. 1969-Nov. 1969</unittitle>
+            <container id="aspace_4c452caf15df246b7f281330de3855ef" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref28_444" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. XIII, Nov. 1969-Apr. 1970</unittitle>
+            <container id="aspace_a2bc685e5f950fa5053ed00a399c405d" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_wlc" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. XIV, Mar. 1970-May 1972</unittitle>
+            <container id="aspace_25f658c3291e34719896a7b8d8b32bc6" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref30_owq" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. XV, Jan. 1973-Aug. 1974</unittitle>
+            <container id="aspace_fa92a56f6899b76443a0f486e5671563" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref31_2mv" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, No. XVI, Nov. 1974-Sep. 1985</unittitle>
+            <container id="aspace_ac7dd972ffe2859a46b96b6f734f3247" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref32_2lq" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, (A), Duplicated Letters</unittitle>
+            <container id="aspace_6e0b77ecabbe0ec310ae773241f032f0" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref33_3p4" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, (B), Miscellaneous Duplicated Documents</unittitle>
+            <container id="aspace_ce0c3fcb8c8b18156c20d75182efacb5" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref34_w8i" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, (C), Chronology of Events</unittitle>
+            <container id="aspace_a2cba62139aff7160fd254543823d7a4" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref35_5vf" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, (D), Interviews</unittitle>
+            <container id="aspace_91203c917f0dc67e140ede856056f46f" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref36_sky" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, (E), Illustrations and Dawson Letter</unittitle>
+            <container id="aspace_ec9def02a1d601cfe2bfbb2d459e7b5a" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref37_n5t" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, Photographs, No. I</unittitle>
+            <container id="aspace_f0b189f93fe1c4c7718d147f5e0ab6e6" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref38_i3h" level="file">
+          <did>
+            <unittitle>Conrad-Dawson, Photographs, No. II</unittitle>
+            <container id="aspace_9fc35a7cd7e55383459dbb80c1094faa" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref40_jvj" level="series">
+        <did>
+          <unittitle>Accession (2007-0015)</unittitle>
+        </did>
+        <scopecontent id="aspace_1736bb53a4af4c324029a8a96a166eb5">
+          <head>Scope and Contents note</head>
+          <p>Includes research material pertaining to Lord North, about whom Randall was writing a
+            book. Types of material include slides, illustrations, and microfilm.</p>
+        </scopecontent>
+        <c02 id="aspace_ref41_34k" level="file">
+          <did>
+            <unittitle>Research Material, Undated, (6 Folders)</unittitle>
+            <container id="aspace_4ea0f06384d8c823f75ec72abb0171bd" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref42_qqb" level="file">
+          <did>
+            <unittitle>Slides</unittitle>
+            <container id="aspace_57c0ece65b773a142b7913e035af8eaa" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref43_i1j" level="file">
+          <did>
+            <unittitle>Illustration, Bodleian Library</unittitle>
+            <container id="aspace_17b120c69de2ddb0286c519946372686" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref44_ola" level="file">
+          <did>
+            <unittitle>Photocopies, Bates College</unittitle>
+            <container id="aspace_e5f3a2bd3476fa670135545946293f73" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref45_i4d" level="file">
+          <did>
+            <unittitle>Dictionary of National Biography (1999)</unittitle>
+            <container id="aspace_3ee8dcebf3c1165fde9c6e295844e336" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref46_cd9" level="file">
+          <did>
+            <unittitle>Dudley North's Will (1675)</unittitle>
+            <container id="aspace_88a3a9b2a3f7abda13e58b1646338b85" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref47_vn8" level="file">
+          <did>
+            <unittitle>Microfilm (1) <title render="doublequote">Alphonsus</title> Houghton
+              Library</unittitle>
+            <container id="aspace_7101074a8f09d76bc65b51784fa0182a" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref48_0sg" level="file">
+          <did>
+            <unittitle>Microfilm (2) <title render="doublequote">Light in the Way to
+                Paradise</title></unittitle>
+            <container id="aspace_37dc4a0507689cb7bd2d7a7c6a443d02" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref49_o2d" level="file">
+          <did>
+            <unittitle>Microfilm (3) <title render="doublequote">A Forest of
+              Varieties</title></unittitle>
+            <container id="aspace_1f9c58dbd844493b686598945bdbb186" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref50_cv5" level="file">
+          <did>
+            <unittitle>North Family: Biographical Binder (3 Folders)</unittitle>
+            <container id="aspace_81db85243b532e5d4cef5b9cb477db43" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref51_7qc" level="file">
+          <did>
+            <unittitle>North Miscellaneous Binder (2 Folders)</unittitle>
+            <container id="aspace_8a53341a6431859455f11d930aaa2a93" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref52_dyi" level="file">
+          <did>
+            <unittitle>Bodleian Library Photographs</unittitle>
+            <container id="aspace_18176a327f717839bb707e0e21219204" label="Mixed Materials"
+              type="box">4 (oversize)</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref53_wrc" level="file">
+          <did>
+            <unittitle>Miscellaneous Research Materials</unittitle>
+            <container id="aspace_26db4c06d270dfa43ca0705d05ec7587" label="Mixed Materials"
+              type="box">4 (oversize)</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref55_n8x" level="series">
+        <did>
+          <unittitle>Accession (UA2003-51)</unittitle>
+        </did>
+        <scopecontent id="aspace_173ce8d8c9107b20d214b6e3b4d7a3fd">
+          <head>Scope and Contents note</head>
+          <p>Includes material from Randall's time in the Dept. of English, with files on the Folger
+            Institute, the Southeastern Institute of Medieval and Renaissance Studies, and Stanley
+            Fish.</p>
+        </scopecontent>
+        <c02 id="aspace_ref56_uhv" level="file">
+          <did>
+            <unittitle>Duke University Committee on Medieval and Renaissance Studies, 1987-1994 (2
+              folders) [Committee records are restricted for 25 years from date of
+              origin.]</unittitle>
+            <container id="aspace_27fdc01857eecbe6ae3eeb4d786e136d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref57_f9m" level="file">
+          <did>
+            <unittitle>Duke-Folger Liaison, 1987-1988</unittitle>
+            <container id="aspace_b346a995699e6a84053b7cae78447695" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref58_s38" level="file">
+          <did>
+            <unittitle>Folger Fellowship, 1985-1986</unittitle>
+            <container id="aspace_8a53e9541792e7603217ef20e14f6476" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref59_cix" level="file">
+          <did>
+            <unittitle>Folger Institute, circa late 1970s-1980s</unittitle>
+            <container id="aspace_1142eab794c086f96055e1bce41d34ca" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref60_f4s" level="file">
+          <did>
+            <unittitle>Folger Institute, circa 1980s (2 folders)</unittitle>
+            <container id="aspace_72077e95258ff2bb43edee10e3fc075f" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref61_mlh" level="file">
+          <did>
+            <unittitle>Folger Statement, 1984-1987</unittitle>
+            <container id="aspace_610a4e234be7f2de9ab47e8510c4b6af" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref62_bno" level="file">
+          <did>
+            <unittitle>Proceedings, 1976-1982</unittitle>
+            <container id="aspace_c4129764f410c1b86e4474b36e0af988" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref63_4nx" level="file">
+          <did>
+            <unittitle>Southeastern Institute of Medieval and Renaissance Studies,
+              1978-1980</unittitle>
+            <container id="aspace_b31d68fdb365d1b7c6482cc07ab9d122" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref64_ism" level="file">
+          <did>
+            <unittitle>Southeastern Institute of Medieval and Renaissance Studies: Printed Matter,
+              1976, 1979</unittitle>
+            <container id="aspace_19aea5a6001b68f8284af0d49376c87a" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref65_twy" level="file">
+          <did>
+            <unittitle>Southeastern Institute of Medieval and Renaissance Studies: Enrollment and
+              Report, 1976</unittitle>
+            <container id="aspace_ae201472d241c589c3744a963810cf62" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref66_wy1" level="file">
+          <did>
+            <unittitle>Southeastern Institute of Medieval and Renaissance Studies: Correspondence,
+              1976-1979</unittitle>
+            <container id="aspace_c03d42524fbc425f35a79bee6284f845" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref67_fsm" level="file">
+          <did>
+            <unittitle>Southeastern Renaissance Conference, 1979-2002 (2 folders)</unittitle>
+            <container id="aspace_b6bd3faf53fd8301019331b3665f3609" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref68_494" level="file">
+          <did>
+            <unittitle>Southeastern Renaissance Conference, 1988-1994 (2 folders)</unittitle>
+            <container id="aspace_a23c82f04fe12b023e994ea8cf392b5d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref69_igo" level="file">
+          <did>
+            <unittitle>Southeastern Renaissance Conference, 1987-1994 (2 folders)</unittitle>
+            <container id="aspace_b68c434b8ce3ccc847c2cfac696fcbb3" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref70_oiy" level="file">
+          <did>
+            <unittitle>Stanley Fish, Skip Gates: Clippings and Articles about the English Dept.,
+              1988-1992 (2 folders)</unittitle>
+            <container id="aspace_6a3c27769460fe7f03778e5df4896120" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref71_3y2" level="file">
+          <did>
+            <unittitle>"The Troubles," 1988 (2 folders)</unittitle>
+            <container id="aspace_5246bce629e3e23ffa49a317eb090cf8" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref73_6oq" level="series">
+        <did>
+          <unittitle>Accession (UA2003-55)</unittitle>
+        </did>
+        <scopecontent id="aspace_2ad7501f65fe1cd853417ed1bd49ff7e">
+          <head>Scope and Contents note</head>
+          <p>Includes correspondence, programs, flyers and clippings from Randall's time in the
+            Drama Program.</p>
+        </scopecontent>
+        <c02 id="aspace_ref74_3zt" level="file">
+          <did>
+            <unittitle>Emails, 1999-2000</unittitle>
+            <container id="aspace_83948570f269dd6a8e117def92b49e37" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref75_xd3" level="file">
+          <did>
+            <unittitle>Emails, 1999-2000</unittitle>
+            <container id="aspace_8217ca2acf65c1911a7f4e7f6fb4c465" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref76_gud" level="file">
+          <did>
+            <unittitle>Emails, 2001</unittitle>
+            <container id="aspace_b5dd5e9eef70bf7b94248e6530564c41" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref77_yys" level="file">
+          <did>
+            <unittitle>Emails and Drama-related miscellany, 2001</unittitle>
+            <container id="aspace_9a08845483721b66cfc09a3b63f5b104" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref78_00g" level="file">
+          <did>
+            <unittitle>Ball, David, and Drama Faculty, circa early 1990s</unittitle>
+            <container id="aspace_a06a3b82b229617b5b25ceac2b648e03" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref79_99b" level="file">
+          <did>
+            <unittitle><title render="doublequote">The Changeling,</title> 2000-2001 (2
+              folders)</unittitle>
+            <container id="aspace_d1f597087a2edab502d13ed8e143ed75" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref80_u5w" level="file">
+          <did>
+            <unittitle><title render="doublequote">The Changeling,</title> 2001</unittitle>
+            <container id="aspace_7aa17a62f877c2419e8d9191a661bf04" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref81_094" level="file">
+          <did>
+            <unittitle>Drama Program, 1990-1994</unittitle>
+            <container id="aspace_7e8056fb1954fa24303539d4b8e3719f" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref82_7hx" level="file">
+          <did>
+            <unittitle>Drama Program, 1992-1996 (2 folders)</unittitle>
+            <container id="aspace_d0b8b726773487cb81fb6f717b60bd3a" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref83_p4k" level="file">
+          <did>
+            <unittitle>Drama Program, 1993</unittitle>
+            <container id="aspace_b42ba85612364800fbef124155e0d351" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref84_om5" level="file">
+          <did>
+            <unittitle>Drama Director Search and Miscellany, circa 1990s</unittitle>
+            <container id="aspace_d3541f7ad18169cc66b7974c7f801da1" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref85_ajt" level="file">
+          <did>
+            <unittitle>Josiah Charles Trent Memorial Foundation, 2000-2001</unittitle>
+            <container id="aspace_9f85c360691d4f4908d3ecd04d3e1fb6" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref86_xyv" level="file">
+          <did>
+            <unittitle>Simons, Diane, 1992-1993</unittitle>
+            <container id="aspace_d1cf862576a3e5da43d927419029f247" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref87_aob" level="file">
+          <did>
+            <unittitle>World Premieres Festival, 1992</unittitle>
+            <container id="aspace_238e54c69ae0d0d670d180bd1573815c" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref88_yg3" level="file">
+          <did>
+            <unittitle>World Premieres, 1994-1995 (2 folders)</unittitle>
+            <container id="aspace_9446059c7de13c4e3d504c60aaf78d78" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref90_l8q" level="series">
+        <did>
+          <unittitle>Accession (UA2007-0030)</unittitle>
+        </did>
+        <scopecontent id="aspace_0b9a25727e7adf8245926af57b9a5896">
+          <head>Scope and Contents note</head>
+          <p>Includes material from Randall's time in both the Dept. of English and the Drama
+            Program, such as syllabi and examination questions as well a file on the first sexual
+            harassment suit at Duke, which is restricted for 70 years.</p>
+        </scopecontent>
+        <c02 id="aspace_ref91_619" level="file">
+          <did>
+            <unittitle>American Philosophical Society, 1985-1986</unittitle>
+            <container id="aspace_3ec698d1b06e4069b56f95555ee585d3" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref92_e73" level="file">
+          <did>
+            <unittitle>Basset Celebration, 1993, 2003</unittitle>
+            <container id="aspace_8caa7f18148ad31b78000279297195d8" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref93_qcs" level="file">
+          <did>
+            <unittitle>Clippings, 1989, 1998-2000</unittitle>
+            <container id="aspace_b3089e89a1cff85ecf041e8db36756ac" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref94_pda" level="file">
+          <did>
+            <unittitle>Correspondence, circa 1999-2006</unittitle>
+            <container id="aspace_ce2119d050177812b5de3a5f438397c3" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref95_xmt" level="file">
+          <did>
+            <unittitle><title render="doublequote">Crisis at Trinity,</title> 2003</unittitle>
+            <container id="aspace_5287d0da0db04c8687f42cd1fc5ac169" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref96_lr0" level="file">
+          <did>
+            <unittitle>Early Fiction: Syllabi, 1963-1990 (incomplete)</unittitle>
+            <container id="aspace_907d4e03303f9302d15ae2ef48bbd706" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref97_og9" level="file">
+          <did>
+            <unittitle>Edmond Miller, 1987-1989, 1996</unittitle>
+            <container id="aspace_e07dd7e2ccf05d205d3491ff94469fa3" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref98_nfg" level="file">
+          <did>
+            <unittitle>Emails, 2003-2006</unittitle>
+            <container id="aspace_2ea7f61c60791cfd0964c1c6f6d189ea" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref99_mq0" level="file">
+          <did>
+            <unittitle>English Dept., 1962, 1977, 1998</unittitle>
+            <container id="aspace_415845e1ed7701c45220932d32649a93" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref100_zv9" level="file">
+          <did>
+            <unittitle>English Dept. Staff Lists, circa 1965-1994</unittitle>
+            <container id="aspace_74564c1fe88426550c9b551dfa8237d5" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref101_rj3" level="file">
+          <did>
+            <unittitle>English Dept. Writing Committee, 1982-1983 [Committee records are restricted
+              for 25 years from date of origin]</unittitle>
+            <container id="aspace_8655ee6bb653b788eaf5397cd0ef3a88" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref102_i13" level="file">
+          <did>
+            <unittitle>English 21s: Studies in the Novel, circa 1980s-1994</unittitle>
+            <container id="aspace_96d5c81a6565fc74fe0f8d4fb949bc94" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref103_dvk" level="file">
+          <did>
+            <unittitle>Executive Committee of the Arts and Sciences Council, 2005-2006 (2 folders)
+              [Committee records are restricted for 25 years from date of origin]</unittitle>
+            <container id="aspace_6dbf16c31806bf8af8ddaacb322095e4" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref104_ias" level="file">
+          <did>
+            <unittitle>Few Federation, 1980-1981</unittitle>
+            <container id="aspace_ba463ead9c66652f9052e6fcc5646f5e" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref105_0od" level="file">
+          <did>
+            <unittitle>Freshman English, 1958-1959</unittitle>
+            <container id="aspace_0a8ba89ea36d27f393bf454f151d5e39" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref106_p8h" level="file">
+          <did>
+            <unittitle>Joseph A. Porter, 1983-1988</unittitle>
+            <container id="aspace_aa8a4a521d2e5324715c2e3a1f5faced" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref107_gyg" level="file">
+          <did>
+            <unittitle>Jim Applewhite, 1988</unittitle>
+            <container id="aspace_553d9f34f4a73363d3c074771a24c450" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref108_t1q" level="file">
+          <did>
+            <unittitle>Kenny Williams, 1993, 2004</unittitle>
+            <container id="aspace_c898bc8c7ed4eff5ddad3dcff7b7b57d" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref109_mep" level="file">
+          <did>
+            <unittitle>Land Resources, 1987-1988</unittitle>
+            <container id="aspace_2694181abf507cd8fe55120be01318c2" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref110_75q" level="file">
+          <did>
+            <unittitle><title render="doublequote">Last Train to Nibroc,</title> 2000</unittitle>
+            <container id="aspace_f35030ec25d91da1beead879d40dc493" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref111_8gi" level="file">
+          <did>
+            <unittitle>Laura Kay Fleming: Clippings, 1982, 1985</unittitle>
+            <container id="aspace_6444e38d8ede856ccbf2990e425607a5" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref112_o47" level="file">
+          <did>
+            <unittitle>Magdalen College, 1984-1985</unittitle>
+            <container id="aspace_5139bf7f90c20d1b769f1b927aed379a" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref113_bec" level="file">
+          <did>
+            <unittitle>Miscellany, 1984, 1994, 2004</unittitle>
+            <container id="aspace_88d7e629ffd088ffc6943ba0462c4b35" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref114_2x5" level="file">
+          <did>
+            <unittitle><title render="doublequote">Posing Naked,</title> 1998</unittitle>
+            <container id="aspace_9baddca57c537dc2f3a4655a1f9c64d9" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref115_p0q" level="file">
+          <did>
+            <unittitle>Printed Matter, circa 1960-2005 (incomplete)</unittitle>
+            <container id="aspace_300f65fd2a6c16091ebda68f566c9bac" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref116_cgt" level="file">
+          <did>
+            <unittitle><title render="doublequote">Randy's House,</title> 1995</unittitle>
+            <container id="aspace_a6362cb76cb99efb22c054be9d02eaea" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref117_js9" level="file">
+          <did>
+            <unittitle>Robert Frost, circa 1977-1985</unittitle>
+            <container id="aspace_51058d01dd26073b4a890dc7bd799a53" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref118_adp" level="file">
+          <did>
+            <unittitle>Renaissance Prelims, 1940-1941, 2004-2006</unittitle>
+            <container id="aspace_264e34a530f7e966da3e94c29298e205" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref119_1vf" level="file">
+          <did>
+            <unittitle>Sexual Harassment Suit at Duke, 1981 RESTRICTED until 2051</unittitle>
+            <container id="aspace_f874833ab4f52961a67fbde8b3ba48c8" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref120_jjb" level="file">
+          <did>
+            <unittitle><title render="doublequote">Ten Poems</title> by Dale Randall,
+              1988</unittitle>
+            <container id="aspace_123028535900a8c371c35ca59b8c2cdd" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref122_k0y" level="series">
+        <did>
+          <unittitle>Accession (UA2008-0051)</unittitle>
+        </did>
+        <scopecontent id="aspace_73063caf30be7dd316ba82f2daac3c22">
+          <head>Scope and Contents note</head>
+          <p>Includes more files pertaining the Dept. of English and Drama Program as well as
+            research files. Of note are ungraded student papers. The Dearlove Case folder is
+            restricted as it contains personnel information, and one folder with graded student
+            papers is also restricted per FERPA.</p>
+        </scopecontent>
+        <c02 id="aspace_ref123_mjp" level="file">
+          <did>
+            <unittitle>Correspondence and Emails, 1958-1959, 1978, 1985, 2007-2008</unittitle>
+            <container id="aspace_94a4da9069650dbc1b8e81261401f704" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref124_3jb" level="file">
+          <did>
+            <unittitle>Dearlove Case, 1981, 1983 RESTRICTED until 2053</unittitle>
+            <container id="aspace_cbb32e9a2531b22b5b799baa50f18a03" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref125_0ld" level="file">
+          <did>
+            <unittitle>Dudley North: Correspondence, No. 1, 1969-1970</unittitle>
+            <container id="aspace_9b2029bda96bfdad64ef29e8bc200e17" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref126_u4k" level="file">
+          <did>
+            <unittitle>Duke Drama, 1992</unittitle>
+            <container id="aspace_7fd448a29d5dd2eecb9f17df57fe3e79" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref127_pyh" level="file">
+          <did>
+            <unittitle>English Dept.: Student essays, Syllabi, Exam Questions, circa 1961-2002
+              (incomplete)</unittitle>
+            <container id="aspace_d0dd0d2912b41f87f8fe63c85f2a4da9" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref128_1lk" level="file">
+          <did>
+            <unittitle>Euripides' <title render="doublequote">Helen,</title> translated by Peter
+              Burian, 1999 July</unittitle>
+            <container id="aspace_95eec99af39b316929fde57e946b6420" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref129_swn" level="file">
+          <did>
+            <unittitle>Founders' Day Banquet Speech, 2003 April 25</unittitle>
+            <container id="aspace_f4f324805f8d1f87759797777f9a25a8" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref130_5no" level="file">
+          <did>
+            <unittitle>George Clarke, 1998-1999, undated</unittitle>
+            <container id="aspace_d6c871e86ab959e291d1021c0497baa4" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref131_l2a" level="file">
+          <did>
+            <unittitle><title render="italic">The Golden Tapestry</title>, 1963-1964</unittitle>
+            <container id="aspace_aff63f5e1186f2f5fb2b94b9c29e3744" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref132_4dn" level="file">
+          <did>
+            <unittitle>Graded Student Papers, 1966, 1979 RESTRICTED PER FERPA</unittitle>
+            <container id="aspace_1bb14cf5d5d7c66c38b1feb6a43782ff" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref133_h9j" level="file">
+          <did>
+            <unittitle>Herbert Berry, circa 1981-1986</unittitle>
+            <container id="aspace_c7899293966402b1144416ea54796947" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref134_kyr" level="file">
+          <did>
+            <unittitle>North Project, circa 1967, 1977</unittitle>
+            <container id="aspace_27d304d71f393cef2b7cb9d60e087139" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref135_6o7" level="file">
+          <did>
+            <unittitle>North Project: Xerox copies, 1979</unittitle>
+            <container id="aspace_ff9f8f0c4e88bdae68fc89611e245bce" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref136_o80" level="file">
+          <did>
+            <unittitle>Papers (student produced, no visible grades): written for English 216, 1966
+              Spring</unittitle>
+            <container id="aspace_a786b67ef17f52ec760cc54c78c0423f" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref137_h7h" level="file">
+          <did>
+            <unittitle><title render="doublequote">Patient on the Table,</title> 1992</unittitle>
+            <container id="aspace_1ca8ea004bb9676936dda4bcf881ee92" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref138_twi" level="file">
+          <did>
+            <unittitle>Printed Matter: Flyers, Reviews, Playbills, etc., circa 1980s-2007 (2
+              folders)</unittitle>
+            <container id="aspace_9d501214dc7cf0038a62d4a395204321" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref139_fif" level="file">
+          <did>
+            <unittitle>Miscellaneous publications and oversize material, including a movie poster
+              for <title render="doublequote">Much Ado About Nothing</title></unittitle>
+            <container id="aspace_4304e3b52179e487ee43a25e5e394971" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref141_l14" level="series">
+        <did>
+          <unittitle>Accession (2009-0238)</unittitle>
+          <physdesc id="aspace_68fdab584ea31f6fbe62df9d34a90319"><extent>4 boxes</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_30f75f48a50d1f4f2ac3695abf8084c5">
+          <head>Scope and Contents note</head>
+          <p>Files and research materials collected from Randall's office.</p>
+        </scopecontent>
+        <accessrestrict id="aspace_108efdc7dfa43541f4e3bf037850759e">
+          <head>Conditions Governing Access note</head>
+          <p>This accession is closed until processing</p>
+        </accessrestrict>
+        <c02 id="aspace_ref143_cw1" level="file">
+          <did>
+            <unittitle>Office files</unittitle>
+            <container id="aspace_9236e2a94513606a9d2bad1589ed21a2" label="Mixed Materials"
+              type="box">9-12</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref146_ztj" level="series">
+        <did>
+          <unittitle>Accession (2010-0032)</unittitle>
+          <physdesc id="aspace_0ef70131cce67a8c5bea72f6fb2f9181"><extent>1 box</extent></physdesc>
+        </did>
+        <scopecontent id="aspace_07b3e9a629b8935e8162fa6442f35f4c">
+          <head>Scope and Contents note</head>
+          <p>Includes research materials relating to Randall's research and writings on Robert James
+            Coffey.</p>
+        </scopecontent>
+        <c02 id="aspace_ref148_52i" level="file">
+          <did>
+            <unittitle>Coffey correspondence (2 folders)</unittitle>
+            <container id="aspace_47784f30729d1f0bb7790f2920eb2bba" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref149_wqw" level="file">
+          <did>
+            <unittitle>Coffey pictures</unittitle>
+            <container id="aspace_605d8da9bc4b7a5a9615fe38c3d0235a" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref150_f5c" level="file">
+          <did>
+            <unittitle>Robert J. Coffey First Scrapbook</unittitle>
+            <container id="aspace_a4a6f1261e3860c44d0b92821d693ab1" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref151_v7t" level="file">
+          <did>
+            <unittitle>Robert J. Coffey Transcript of First Scrapbook</unittitle>
+            <container id="aspace_7208715a9ca3520c65c273475e2096c8" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref152_z6n" level="file">
+          <did>
+            <unittitle>Robert J. Coffey Second Scrapbook</unittitle>
+            <container id="aspace_10abb98179157c2b29d5364130fcdb19" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref153_fi2" level="file">
+          <did>
+            <unittitle>Robert J. Coffey Transcript of Second Scrapbook</unittitle>
+            <container id="aspace_8c0f4ccd90c3411e286ea5a954baf7b8" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref154_92p" level="file">
+          <did>
+            <unittitle>Robert J. Coffey Third Scrapbook</unittitle>
+            <container id="aspace_a62f90557009cad76c8a05607d870f4a" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref155_1wv" level="file">
+          <did>
+            <unittitle><title render="doublequote">Robert James Coffey (1839-1910): An Unsung
+                Pennsylvanian Soldier and Writer,</title> published in <title render="italic"
+                >Cumberland County History</title>, volume 21 (2004), pages 3-15</unittitle>
+            <container id="aspace_4c008ea3b8eb0a48c3377fe06f93a4f1" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref156_wcs" level="file">
+          <did>
+            <unittitle><title render="doublequote">'Oh! Yankee Soldier, Spare My Home!': The Wartime
+                Rhymes of Robert James Coffey (1839-1910),</title> published in <title
+                render="italic">Studies in American Culture</title>, 31.1 (October, 2008), pages
+              1-31</unittitle>
+            <container id="aspace_744c5cd4f4394a4d347dedd6b76fb16d" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref158_nz3" level="series">
+        <did>
+          <unittitle>Accession UA2009-0014</unittitle>
+          <physdesc id="aspace_36a9bb671e243ce5b07e814a8eaedecf"><extent>2 boxes</extent></physdesc>
+        </did>
+        <accessrestrict id="aspace_bc14983148e1274857ab7e7bdcabdfb6">
+          <head>Conditions Governing Access note</head>
+          <p>This accession is closed until processing. May include restricted material.</p>
+        </accessrestrict>
+        <c02 id="aspace_ref160_ncs" level="file">
+          <did>
+            <unittitle>Loose materials, printed material, Arts &amp; Sciences Council files, 1958
+              dissertation, correspondence, research files</unittitle>
+            <container id="aspace_26dab27b90e72f6a4c58b6e30f48bf1a" label="Mixed Materials"
+              type="box">14-15</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref162_fj1" level="series">
+        <did>
+          <unittitle>Accession 2012-0091</unittitle>
+          <physdesc id="aspace_cde1d48e3c77e0c32eb9ecfaa647f4fc"><extent>4 boxes</extent></physdesc>
+        </did>
+        <accessrestrict id="aspace_408c65a487e8556c053ab2d706df3e7e">
+          <head>Conditions Governing Access note</head>
+          <p>This accession needs to be reviewed before patrons can access it because it may include
+            restricted material. Contact Rubenstein Library in advance before visiting to use this
+            material.</p>
+        </accessrestrict>
+        <scopecontent id="aspace_f09117328342058a1db804b953e8ed90">
+          <head>Scope and Contents note</head>
+          <p>Correspondence, family history and genealogy materials, and some Duke departmental
+            materials.</p>
+        </scopecontent>
+        <c02 id="aspace_ref164_cr4" level="file">
+          <did>
+            <unittitle>Correspondence, 1951-1954</unittitle>
+            <physdesc id="aspace_6847da867dc01850dd99cd61c8bbda57"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_2b418e155fe05d1a62de5154d792c9a1" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref166_v64" level="file">
+          <did>
+            <unittitle>Correspondence, 1957-1971</unittitle>
+            <container id="aspace_76809d6ca0ff9119f678f8bca00a452e" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref167_r0l" level="file">
+          <did>
+            <unittitle>Correspondence, 1990s</unittitle>
+            <container id="aspace_322bcc3f424100f21d15ba844a51de7b" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref168_8if" level="file">
+          <did>
+            <unittitle>Correspondence, 2000s</unittitle>
+            <container id="aspace_09c5d4cb6391c2a739580b69d289fd6f" label="Mixed Materials"
+              type="box">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref169_jqi" level="file">
+          <did>
+            <unittitle>Randall family Christmas letters, 1990s-2000s</unittitle>
+            <container id="aspace_fc21e75ec8311a9e4cb5f5ef9306a3f2" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref170_8kl" level="file">
+          <did>
+            <unittitle>Christmas cards, 1990s</unittitle>
+            <physdesc id="aspace_52bb0ba76623d2a16e84da69d367dba8"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_e87b86f705bb8489197b7d362f7aa753" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref172_iqh" level="file">
+          <did>
+            <unittitle>Early writings</unittitle>
+            <physdesc id="aspace_f6d20b574ec982b8e2b4d4f8c430c743"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_8bf47a04b35abb2160f9fcc7c984be22" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref174_jq3" level="file">
+          <did>
+            <unittitle><title render="italic">Soliloquy of a Farmer's Wife</title>, notes,
+              publicity, etc.</unittitle>
+            <container id="aspace_148ca64d92f3cba66259b647da21f573" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref175_bgg" level="file">
+          <did>
+            <unittitle>Grandmother's diary and letters, used for <title render="italic">Soliloquy of
+                a Farmer's Wife</title></unittitle>
+            <container id="aspace_2646a7bdaf11015eccf5d8f60367dad1" label="Mixed Materials"
+              type="box">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref176_s40" level="file">
+          <did>
+            <unittitle>Family history materials: obituaries, genealogy, photographs</unittitle>
+            <physdesc id="aspace_da16d1a4ea33cf8245373b6986b00c38"><extent>7
+              folders</extent></physdesc>
+            <container id="aspace_152c60c2fa44558aac9c70d0df8a6a95" label="Mixed Materials"
+              type="box">18</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref178_nyp" level="file">
+          <did>
+            <unittitle>Cleveland Heights High School</unittitle>
+            <container id="aspace_55689ed8cf9d71cc10a76a8b00bb6c4b" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref179_lqp" level="file">
+          <did>
+            <unittitle>Duke Players</unittitle>
+            <container id="aspace_da902ba4806a6643964cd72ac9f38a64" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref180_ju0" level="file">
+          <did>
+            <unittitle>Duke Chi Psi fraternity</unittitle>
+            <container id="aspace_9425df95971a4d336208b476fe95ffea" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref181_h7u" level="file">
+          <did>
+            <unittitle>Duke Arts and Sciences Council</unittitle>
+            <container id="aspace_e0fc4a2f9d24552e9c52c59f4e502c06" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref182_l3k" level="file">
+          <did>
+            <unittitle>Duke English and Drama Dept. materials</unittitle>
+            <container id="aspace_9bc182cad9487a5b202505a81af52fba" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref183_9ei" level="file">
+          <did>
+            <unittitle>Duke retirement</unittitle>
+            <container id="aspace_a1c247079e16299c786cee1612c018d8" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref184_72j" level="file">
+          <did>
+            <unittitle>Lettie Randall materials</unittitle>
+            <container id="aspace_d16fb21ec414dd198e3a53d39609ff16" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref185_r75" level="file">
+          <did>
+            <unittitle>Phyllis Randall materials</unittitle>
+            <container id="aspace_64dc104810e61d409ed1fec0a9d33931" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref186_uet" level="file">
+          <did>
+            <unittitle>Frances Randall materials</unittitle>
+            <container id="aspace_11a218014487a90867c5a985c517179e" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref187_oc2" level="file">
+          <did>
+            <unittitle>Kenneth Randall materials</unittitle>
+            <container id="aspace_517ce368056bece9785dd0bfb756710a" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref188_b57" level="file">
+          <did>
+            <unittitle>Bulletins and programs</unittitle>
+            <container id="aspace_fb665bed08fd22567e08148710ea6df3" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref189_pc3" level="file">
+          <did>
+            <unittitle>Miscellaneous items</unittitle>
+            <container id="aspace_045c15c33b33556a29ddd4746c13a4f5" label="Mixed Materials"
+              type="box">19</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_5ea40cb5cacaf1ed79650c472d49fe42" level="series">
+        <did>
+          <unittitle>Accession 2017-0176</unittitle>
+        </did>
+        <scopecontent id="aspace_97209cc4c3e29cf58dc73c4e3d5f903c">
+          <head>Scope and Contents</head>
+          <p>Randall's research materials and printouts from his working editing Cervantes and A
+            Soliloquy of a Farmer's Wife.</p>
+        </scopecontent>
+        <c02 id="aspace_dfd39ab07f6650a11e1ac71b2a407ffb" level="subseries">
+          <did>
+            <unittitle>Cervantes</unittitle>
+            <unitdate type="inclusive">2010s</unitdate>
+          </did>
+          <c03 id="aspace_8be629a20bf1009c7b1aa5129ffc654d" level="file">
+            <did>
+              <unittitle>Black Characters </unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_e76a722c31a15d02fd3233ba7118bd4f" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_f9fd9f9efd15bbb8c03d346d77da8d7f" level="file">
+            <did>
+              <unittitle>Carrizales, Felipe</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_7be13e9dbf91c70df7e6ff757e3c846f" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_9a05581ded65fa40d89efe75e648285c" level="file">
+            <did>
+              <unittitle>Cervantes</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_ad4674b1dc52ca2ac9daaefdba370499" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_3b8155fe7b735127e0d11d1937faa818" level="file">
+            <did>
+              <unittitle>Charles Blount</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_1549cc4d17ecab13af91258ef7b4ef99" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_fd05b59077a75649c8bf4f314d5ebf93" level="file">
+            <did>
+              <unittitle>Cuckolds</unittitle>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">7
+                  Files</extent></physdesc>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_75c91f6ef1254c1ed19a11967d79d6e9" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ba989aa86d074d2a851cff63f459cb95" level="file">
+            <did>
+              <unittitle>Deism</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_194a335c020601f81184f8e834731347" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_e49466ea675e53e90d49f3d8e883bc8c" level="file">
+            <did>
+              <unittitle>Edward Blount</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_996c80168715a7a34ad175ef189a64fb" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_42a80402363706252b22d058b6760933" level="file">
+            <did>
+              <unittitle>Ending Story</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_6f9d7de59c94d9299f65b134472de1c8" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_e997632b1993859b39cb43149bdcc42b" level="file">
+            <did>
+              <unittitle>Estremadura</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_ea2559b4135f3b01e61c5732bfdff954" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_d98e378736f2ef75918b41cc574e152f" level="file">
+            <did>
+              <unittitle>Gardia de Loaysa</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_41f6c13bfdd6248587929401d3fde12d" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_a8747fd8dc64ed541291c29f4a0e248f" level="file">
+            <did>
+              <unittitle>Indies, New Spain</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_db8b09dc0ffa5aef108be694c7459781" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_1c424cd8268bafcaad7c131dd2d0aafb" level="file">
+            <did>
+              <unittitle>Jealousy</unittitle>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                  Files</extent></physdesc>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_d4a8cbc37168a6a4698a08fd5db94eda" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_916d48bf1ada6abaa65af77ee2f9d1d7" level="file">
+            <did>
+              <unittitle>Leonora</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_b56dd56d1348cfa6a591e7ca1024ceaa" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_cd0e758238bee62e269a81a9165c3d88" level="file">
+            <did>
+              <unittitle>Mabbe Version</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_8a62be96d169f17ed758d7e03c2bbc91" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_e26d5290b187bf5eaf7b1379aaced1dd" level="file">
+            <did>
+              <unittitle>Music</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_c49468b0502d830fae3df03be338b02b" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_b03df7951e3fc023b46c4095dac521a2" level="file">
+            <did>
+              <unittitle>"New" (Dale's)</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_df6f3ad2bdf791b44ebcc07f7fb7dc9b" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_6a6f9474d54997dc6859f6b67da755e0" level="file">
+            <did>
+              <unittitle>Peru</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_5fab423e2bc49923a22fb219fa3dfd89" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_fd27e93369e6d2aff9ee9c24163a391d" level="file">
+            <did>
+              <unittitle>Pharamacy- Misc.</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_15bcb3586bd32cecb5f593e232a04739" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_62d276a7d8f60c4e72389eb7722a8f5f" level="file">
+            <did>
+              <unittitle>Pleadards, re: Blounts</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_4b1393c2a997b0d7b4c72994acd838ea" label="Mixed Materials"
+                type="box">20</container>
+            </did>
+          </c03>
+          <c03 id="aspace_3d5f2011b9dc618cd16107dc8020d2b4" level="file">
+            <did>
+              <unittitle>Seville</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_41be4f2d5b8eae8910b2154f6f29b7f6" label="Mixed Materials"
+                type="box">21</container>
+            </did>
+          </c03>
+          <c03 id="aspace_c2a1b0912973724b6013ebe469bfb80b" level="file">
+            <did>
+              <unittitle>Sir Henry Blount</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_ffd39c169927591292e0f89c3984cd28" label="Mixed Materials"
+                type="box">21</container>
+            </did>
+          </c03>
+          <c03 id="aspace_73e47174d2c4b5db9742d5f234ff099b" level="file">
+            <did>
+              <unittitle>Slaves and Harems</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_e75f2bcb5e87e1adac89982440bb8b4a" label="Mixed Materials"
+                type="box">21</container>
+            </did>
+          </c03>
+          <c03 id="aspace_062070d1e81ecf4904ca49945bef0106" level="file">
+            <did>
+              <unittitle>Spanish Language in England</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_da5191b8a5893034744faa3324d8e03c" label="Mixed Materials"
+                type="box">21</container>
+            </did>
+          </c03>
+          <c03 id="aspace_f1c1d4f865062a36f6808e8c836897da" level="file">
+            <did>
+              <unittitle>Thomas Blount</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_cd06ab320a10e7cc179e424bdec0b323" label="Mixed Materials"
+                type="box">21</container>
+            </did>
+          </c03>
+          <c03 id="aspace_203188b797546d238c14ce6215a30126" level="file">
+            <did>
+              <unittitle>Women/Virginity</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_c9a85659da63927df0089348e4e188c0" label="Mixed Materials"
+                type="box">21</container>
+            </did>
+          </c03>
+          <c03 id="aspace_21fdad1dce04b8bc136fea5b3d0567c9" level="file">
+            <did>
+              <unittitle>2 Versions</unittitle>
+              <unitdate>2010s</unitdate>
+              <container id="aspace_cc7322dda271a1eb3e04e965e1b8e72e" label="Mixed Materials"
+                type="box">21</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_97b0e91f126790a141ab9b324f86ab72" level="subseries">
+          <did>
+            <unittitle>Soliloquy of a Farmer's Wife</unittitle>
+            <unitdate type="inclusive">1998-2008</unitdate>
+          </did>
+          <c03 id="aspace_91c2c0c6d068b6c6e8542527c6019a36" level="file">
+            <did>
+              <unittitle>Soliloquy Correspondence No. 3 </unittitle>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">4
+                  Files</extent></physdesc>
+              <unitdate>1998-2008</unitdate>
+              <container id="aspace_5dae886ecde58cf42cff65ac811db37b" label="Mixed Materials"
+                type="box">21</container>
+              <container id="aspace_d9c9ad575091f141c1db4d2be2b0204a" label="Mixed Materials"
+                type="box">22</container>
+            </did>
+          </c03>
+          <c03 id="aspace_fbf7025c163dbbc2e2ddb8ee9b3024c1" level="file">
+            <did>
+              <unittitle>Soliloquy Correspondence No. 4</unittitle>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                  Files</extent></physdesc>
+              <unitdate>1999-2006</unitdate>
+              <container id="aspace_303f76f23a78bcd04ac8f013384be54a" label="Mixed Materials"
+                type="box">22</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_22243cdf96818e4125078fb36be9f1e4" level="series">
+        <did>
+          <unittitle>Accession 2018-0090</unittitle>
+        </did>
+        <c02 id="aspace_93a2b8fd3716675669bdb8dfd4c0433d" level="file">
+          <did>
+            <unittitle>France, Erik correspondence</unittitle>
+            <unitdate normal="1991/1995" type="inclusive">1991-1995</unitdate>
+            <container id="aspace_0f2021cd53a5bde5dc18a339aaa21cb9" label="Mixed Materials"
+              type="box">22</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

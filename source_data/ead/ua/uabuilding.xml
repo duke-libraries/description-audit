@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/uabuilding/">uabuilding</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Building Reference Collection, 1972 - 2004
+            <num>UA.01.11.0005</num></titleproper>
+        <author>Processed by: Nancy Perry; machine-readable finding aid created by: Jill
+          Katte</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2006</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">003396406</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-10-02 13:14:16
+          UTC</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Building Reference collection</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">Duke University. University Archives</corpname>
+      </origination>
+      <unitid>UA.01.11.0005</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1972/2004" type="inclusive">1972 - 2004</unitdate>
+      <physloc id="aspace_0d5b61f55d5573840797a2d861f97aa9">For current information on the location
+        of these materials, please consult University Archives, Duke University.</physloc>
+      <abstract id="aspace_dda93845ea4c3484f1d6aa00d2f9d10a">The Building Reference Collection
+        contains files of clippings, publications, specifications, and other materials about the
+        Duke University campus, including dormitories, classroom buildings, gymnasiums, stadiums,
+        facilities, statues, and landmarks. Some files include information about the people after
+        whom particular buildings were named. This collection was compiled from a variety of sources
+        by the University Archives for use in reference and research. English.</abstract>
+      <physdesc id="aspace_d1dd7bff25f92677bda318bc0bbf4653"
+        label="General Physical Description note"><extent>4,000 Items</extent></physdesc>
+      <langmaterial id="aspace_ecaf876c5967d4e76215cb9e3e12e545">English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_aae3c5bd3fe793b3d75b478ff72de943">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_66751458557d3ce0432da273a58bebf9">
+      <head>Use Restrictions</head>
+      <p>Copyright for Official University records is held by Duke University; all other copyright
+        is retained by the authors of items in these papers, or their descendants, as stipulated by
+        United States copyright law.</p>
+    </userestrict>
+    <prefercite id="aspace_fa47236bb2f119c06e47059407eca1de">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Building Reference Collection, Duke University Archives, David M.
+        Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_e643b498481ac5b398116f46b286ffd6">
+      <head>Provenance</head>
+      <p>The Building Reference Collection was compiled by University Archives staff from a variety
+        of sources.</p>
+    </acqinfo>
+    <processinfo id="aspace_327d8f500403f64b078e6a09d4c485b1">
+      <head>Processing Information</head>
+      <p>Processed by Nancy Perry</p>
+      <p>Completed 2003</p>
+      <p>Encoded by Jill Katte, April 2004, June 2006</p>
+      <p>Updated by Jill Katte, November 2004</p>
+      <p>Jessica L. Wood, June 2006</p>
+      <p>Josh Larkin Rowley January 2011</p>
+    </processinfo>
+    <relatedmaterial id="aspace_b26bb68bd60fce2ee761a7d96c26219c">
+      <head>Related Material</head>
+      <p><archref><unittitle>Horace Trumbauer Architectural
+            Drawings.</unittitle><repository>University Archives, Duke University.</repository>
+        </archref><archref><unittitle>Frank C. Brown Papers.</unittitle><repository>University
+            Archives, Duke University.</repository>
+        </archref><archref><unittitle>Operations and Maintenance Dept.
+            Records.</unittitle><repository>University Archives, Duke University.</repository>
+        </archref><archref><unittitle>Sarah P. Duke Gardens
+            Collection.</unittitle><repository>University Archives, Duke University.</repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Campus planning -- North Carolina -- Durham</subject>
+      <subject source="lcsh">College buildings -- Planning</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <corpname source="naf">Duke University. University Archives</corpname>
+      <corpname source="ingest">Duke University -- History</corpname>
+      <corpname source="ingest">Duke University -- Buildings</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref11_o6g" level="file">
+        <did>
+          <unittitle>Cross references</unittitle>
+          <container id="aspace_702fbffbca01374730cb54ac3c791ea7" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref12_og7" level="file">
+        <did>
+          <unittitle>Ackland Art Museum (Proposed)</unittitle>
+          <container id="aspace_125a3acfb76541a8c473a80e2d2213e7" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref13_qdm" level="file">
+        <did>
+          <unittitle>Aims of Duke University. Plaque</unittitle>
+          <container id="aspace_e3117426fdca76ed0c9099eadf3348ec" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref14_cgq" level="file">
+        <did>
+          <unittitle>Allen Building</unittitle>
+          <container id="aspace_66b5b092b7e5dff73f3e0ac8df4ddb0b" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref15_84y" level="file">
+        <did>
+          <unittitle>Alspaugh House</unittitle>
+          <container id="aspace_68b76b958368ba3d25a3a005f415d37c" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref16_frr" level="file">
+        <did>
+          <unittitle>Alumni House</unittitle>
+          <container id="aspace_2efe3256aa9a0bb28f144b18fcf020b3" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref17_r47" level="file">
+        <did>
+          <unittitle>Anderson House</unittitle>
+          <container id="aspace_cdbc21952f96fb453962e33e2984ee7e" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref18_ag6" level="file">
+        <did>
+          <unittitle>Aquatic Center</unittitle>
+          <container id="aspace_b8c3f208eac224dabebd3dec65fbcb65" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref19_bth" level="file">
+        <did>
+          <unittitle>Architects</unittitle>
+          <container id="aspace_8be2e0d0cb719ca6553f46daadb55ee9" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref20_l73" level="file">
+        <did>
+          <unittitle>Architecture: "Duke by Design" / David W. Dunlap</unittitle>
+          <container id="aspace_0ca1678082cdc22e7719a8f98bea54e1" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref21_y02" level="file">
+        <did>
+          <unittitle>Architecture of Duke University, Clippings</unittitle>
+          <container id="aspace_182a451d7c3d8b6e3667b4c0f161c7ba" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref22_eys" level="file">
+        <did>
+          <unittitle>Architecture of Duke University</unittitle>
+          <physdesc id="aspace_164775ff3d7090d7538cdbc45ecb1ffb"
+            label="General Physical Description note"><extent>2 folders</extent></physdesc>
+          <container id="aspace_4c8857eef5526258311e7c5cdd10f9a4" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref24_rk0" level="file">
+        <did>
+          <unittitle>The Ark (East Campus)</unittitle>
+          <container id="aspace_a8537a32782bae68361e8ffa9c39df8f" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref25_yk2" level="file">
+        <did>
+          <unittitle>Art Building (East Campus)</unittitle>
+          <container id="aspace_dfdc6aeb9fa3d230cf696861a2c8e8cb" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref26_21k" level="file">
+        <did>
+          <unittitle>Art Museum (formerly Science Building)</unittitle>
+          <container id="aspace_e9925a19b8003ff70d18d46c3ec14efa" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref27_7jo" level="file">
+        <did>
+          <unittitle>Arts Complex (tobacco warehouse)</unittitle>
+          <container id="aspace_4aa2f60fbe412dba915de0acab992b56" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref28_jsm" level="file">
+        <did>
+          <unittitle>Asbury Building (East Campus)</unittitle>
+          <container id="aspace_4b780156d700e66943e7a27433b52903" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref29_4v8" level="file">
+        <did>
+          <unittitle>Athletic Facilities (map)</unittitle>
+          <container id="aspace_ff611a82c54182b147013bf3b5b1c3f2" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref30_55n" level="file">
+        <did>
+          <unittitle>Aycock House</unittitle>
+          <container id="aspace_141a5f8260ad92495d2fc1e3c53393bb" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref31_j4s" level="file">
+        <did>
+          <unittitle>Baldwin Auditorium</unittitle>
+          <container id="aspace_e88e3209520b05ba64c35272b40eb863" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref32_xqa" level="file">
+        <did>
+          <unittitle>Bells</unittitle>
+          <container id="aspace_896c6703ea143a467dc44d4453e44913" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref33_a0m" level="file">
+        <did>
+          <unittitle>Benches (residence halls)</unittitle>
+          <container id="aspace_04c087ceca638ca84afd0a02889ba0c6" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref34_brt" level="file">
+        <did>
+          <unittitle>Benjamin Duke Mansion, 109 Fifth Avenue, NYC</unittitle>
+          <container id="aspace_02befb0f0a59480f965bf1da2644f083" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref35_g4d" level="file">
+        <did>
+          <unittitle>Biddle Music Building</unittitle>
+          <container id="aspace_eabe794e1b8cd0770b84386b89675157" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref36_ip8" level="file">
+        <did>
+          <unittitle>Biological Sciences Building</unittitle>
+          <container id="aspace_e6013e17b191d954cc6d21cef21abc99" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref37_km2" level="file">
+        <did>
+          <unittitle>Bishop's House (formerly Infirmary)</unittitle>
+          <container id="aspace_9c05846149c0a5dbee439e5049e0262d" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref38_8nw" level="file">
+        <did>
+          <unittitle>Bivins Building</unittitle>
+          <container id="aspace_5746d6e59004aeb3901d461951ac0282" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref39_dly" level="file">
+        <did>
+          <unittitle>Blacknall House</unittitle>
+          <container id="aspace_0214caf7e5e5232e5f4fadad031ad7f5" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref40_qn3" level="file">
+        <did>
+          <unittitle>Blueprints</unittitle>
+          <container id="aspace_df9f1781ba4afcbe2a1e2ef636a221af" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref41_511" level="file">
+        <did>
+          <unittitle>Branson Building</unittitle>
+          <container id="aspace_9e772df62425517e449c4679aa3376d5" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref42_mg7" level="file">
+        <did>
+          <unittitle>Keith and Brenda Brodie Recreation Center (East Campus)</unittitle>
+          <container id="aspace_1841bedb58021a8ce4728f39d3773080" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref43_qts" level="file">
+        <did>
+          <unittitle>Browning Family Cemetery</unittitle>
+          <container id="aspace_9052b196575d185b434be1bc68b337e3" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref44_mjy" level="file">
+        <did>
+          <unittitle>Bryan University Center</unittitle>
+          <physdesc id="aspace_80d33c8b949de9fda76a5d35aa0cf424"
+            label="General Physical Description note"><extent>2 folders</extent></physdesc>
+          <container id="aspace_bbabff0997eea533268cb9be68dab310" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref46_dgs" level="file">
+        <did>
+          <unittitle>Bryan University Center. Dedication</unittitle>
+          <container id="aspace_87996426d1706d013cdfd059e8d4fce8" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref47_c2t" level="file">
+        <did>
+          <unittitle>Joseph and Kathleen Bryan Research Building</unittitle>
+          <container id="aspace_82c39ef504b50a7c4e73a13b22e6859f" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref48_zy3" level="file">
+        <did>
+          <unittitle>Cameron Indoor Stadium</unittitle>
+          <container id="aspace_708a10157d81b38d8c8d97004e27f621" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref49_gml" level="file">
+        <did>
+          <unittitle>Cameron Annex. See: Schwartz-Butters</unittitle>
+          <container id="aspace_f9a9c5ad54475d48df15bf1d6ee9284b" label="Mixed Materials" type="box"
+            >1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref50_a3c" level="file">
+        <did>
+          <unittitle>Campus Drive Bridge</unittitle>
+          <container id="aspace_70a9b5ba5b6e9f973fc5c740d46a493a" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref51_1iq" level="file">
+        <did>
+          <unittitle>Campus Planning (map)</unittitle>
+          <container id="aspace_7e0d7556354f827fd1ced1768b24d49a" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref52_omc" level="file">
+        <did>
+          <unittitle>Card Gym (also Aquatic Center)</unittitle>
+          <container id="aspace_6c582926a43d1d9360eef075c15e7f67" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref53_mn1" level="file">
+        <did>
+          <unittitle>Carillon</unittitle>
+          <container id="aspace_ddfca04fbaf96b416f9fdf59bdec14ff" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref54_nfi" level="file">
+        <did>
+          <unittitle>Duke Center for Living</unittitle>
+          <container id="aspace_88e843a50c9be71ed4a8b964b392e285" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref55_i33" level="file">
+        <did>
+          <unittitle>Central Campus Apartments</unittitle>
+          <container id="aspace_e130006a8b90d7bfa83b28690f478ce7" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref56_pkn" level="file">
+        <did>
+          <unittitle>Chapel</unittitle>
+        </did>
+        <c02 id="aspace_ref57_7js" level="file">
+          <did>
+            <unittitle>B. H. Duke Memorial (Flentrop Organ)</unittitle>
+            <container id="aspace_b7e5b57fa2a40eedae41e16ad60a5c32" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref58_41m" level="file">
+          <did>
+            <unittitle>Crypt</unittitle>
+            <container id="aspace_e90493a835366480f40b2367ede4792b" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref59_fuk" level="file">
+          <did>
+            <unittitle>Dacus Plaque</unittitle>
+            <container id="aspace_8e66d5eee75b6de56e2519eb246e0c6a" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref60_ejn" level="file">
+          <did>
+            <unittitle>Dedication Programs</unittitle>
+            <container id="aspace_260edbd4dc6ee80171405ac0111542d6" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref61_z6e" level="file">
+          <did>
+            <unittitle>Design and Construction</unittitle>
+            <container id="aspace_69b412ef25c7262b73fdc945e75ba6fa" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref62_a96" level="file">
+          <did>
+            <unittitle>Early History</unittitle>
+            <container id="aspace_5591acc35dfebb62714fe58bc2c61f0a" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref63_u65" level="file">
+          <did>
+            <unittitle>Memorial Chapel - Duke Family Memorial and Brombaugh Organ</unittitle>
+            <container id="aspace_4390431eb59a975da7521ea44fd49067" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref64_p14" level="file">
+          <did>
+            <unittitle>Newspaper Articles</unittitle>
+            <container id="aspace_1c3c6ccaf9b0dc0718cc545afde71a39" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref65_zrh" level="file">
+          <did>
+            <unittitle>Organ</unittitle>
+            <container id="aspace_c870e3c4b8c98df5393972b575643deb" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref66_bfk" level="file">
+        <did>
+          <unittitle>CIEMAS (Center for Interdisciplinary Engineering, Medicine and Applied Sciences
+            Building)</unittitle>
+          <container id="aspace_c0779f2a1cc86046d0dab7184e63829c" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_6c1a0361c80dfdb56fcfef74d022262d" level="file">
+        <did>
+          <unittitle>Classroom Building (formerly Carr Building)</unittitle>
+          <container id="aspace_6a1eedd587aae434ba4bcc0ffb75467d" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref67_1fe" level="file">
+        <did>
+          <unittitle>Clock Tower. West Campus</unittitle>
+          <container id="aspace_e171b20705a6c43b2e191d24a7c54df1" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref68_9i4" level="file">
+        <did>
+          <unittitle>Construction</unittitle>
+          <container id="aspace_fa9e0fab5ea3fda36b3bc5014b96b7b2" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref69_tbc" level="file">
+        <did>
+          <unittitle>Construction. Cost</unittitle>
+          <container id="aspace_cf01314e026f15162c412bfa9a066845" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref70_q1m" level="file">
+        <did>
+          <unittitle>Construction. History / Chronology</unittitle>
+          <container id="aspace_5205f4e5893c25d070ed5699c0dd89fe" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref71_5mh" level="file">
+        <did>
+          <unittitle>Coombs Field</unittitle>
+          <container id="aspace_e14dc38c1904841452a345c1d6c4e731" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref72_foo" level="file">
+        <did>
+          <unittitle>Cornerstone. West Campus, Duke University</unittitle>
+          <container id="aspace_47cbdda1bbbd9413e361879bfa21182f" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref73_d24" level="file">
+        <did>
+          <unittitle>Crowell Science Building (formerly Pan-Hellenic House)</unittitle>
+          <container id="aspace_d96e0e63e549f8effb2a1396bc5b7b98" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref74_5nv" level="file">
+        <did>
+          <unittitle>Crum and Forster Building. 705 Broad Street</unittitle>
+          <container id="aspace_75f1cf59592f06bbb84018f20fbf02d6" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref75_svm" level="file">
+        <did>
+          <unittitle>Descendents of those persons for whom buildings on the Duke University Campuses
+            have been named</unittitle>
+          <container id="aspace_cedb7a3250a7c8da7d8242cbedf46601" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref76_c37" level="file">
+        <did>
+          <unittitle>Development Office</unittitle>
+          <container id="aspace_635cfafae76e2cfeeb72aebe609db319" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref77_7c9" level="file">
+        <did>
+          <unittitle>Divinity School</unittitle>
+          <container id="aspace_203c4000a98410cc22a4f0fa66b4a117" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref78_ryj" level="file">
+        <did>
+          <unittitle>"Doris" [James B. Duke's private railroad car]</unittitle>
+          <container id="aspace_0becb7f691ed3427a39c44ef2b798385" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref79_4mt" level="file">
+        <did>
+          <unittitle>Dormitories</unittitle>
+          <container id="aspace_86a608834e700bd06c5cec9bcaa6a6c4" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref80_vdx" level="file">
+        <did>
+          <unittitle>Dormitories. East Campus, 1927</unittitle>
+          <container id="aspace_1ee1c1c4f278c18353068f4a891f2605" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref81_ibn" level="file">
+        <did>
+          <unittitle>Dormitories. East Campus. Plans</unittitle>
+          <container id="aspace_d6da33317f11588e51179c34262b679b" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref82_ggm" level="file">
+        <did>
+          <unittitle>Dormitories. West Campus.</unittitle>
+          <container id="aspace_63a2454f6daf6da43162e3cca28d11ff" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref83_z2k" level="file">
+        <did>
+          <unittitle>Dormitory, Proposed. Towerview Drive (1977) and others</unittitle>
+          <container id="aspace_a851b1e0907c9904cc956372142d0d9b" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref84_n3b" level="file">
+        <did>
+          <unittitle>Duke Athletic Center</unittitle>
+          <container id="aspace_7e779e0b7b41abb1f95c5e113c81ac0c" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref85_g1k" level="file">
+        <did>
+          <unittitle>Duke (family) Homes / Properties</unittitle>
+          <container id="aspace_cf4888ab8b7f9977747977a02979b83e" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref86_c7u" level="file">
+        <did>
+          <unittitle>Duke Homestead</unittitle>
+          <container id="aspace_4c811909ed5c15a3c4aa66eebbde1163" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref87_34z" level="file">
+        <did>
+          <unittitle>Duke Hotel. See: Washington Duke Inn</unittitle>
+          <container id="aspace_4bd91e9fa88f7b7a76922ed4608a9fc8" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref88_d75" level="file">
+        <did>
+          <unittitle>Duke Memorial Church</unittitle>
+          <container id="aspace_93bf6e02c45a8e832d8eee0cf611682d" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref89_9gp" level="file">
+        <did>
+          <unittitle>Duke University. General</unittitle>
+          <container id="aspace_6b46054714a1e8a16f9bd866922654c1" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref90_5zs" level="file">
+        <did>
+          <unittitle>Duke University. General. Clippings</unittitle>
+          <container id="aspace_4482906d8385a86fc2e5e5cf82851b6c" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref91_69x" level="file">
+        <did>
+          <unittitle>Duke University. General. Description, ca. 1935-1940</unittitle>
+          <container id="aspace_fb153d9a7156667b397d9c66815ef442" label="Mixed Materials" type="box"
+            >2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref92_ke9" level="file">
+        <did>
+          <unittitle>Duke University. General. Studies and Published Material</unittitle>
+          <container id="aspace_6300237d9e3e3c912d5aaba2a4d5a504" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref93_pt2" level="file">
+        <did>
+          <unittitle>East and West Campuses. Map</unittitle>
+          <container id="aspace_c8aad6f4613acf0da7b02aa67a2bc44e" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref94_q4m" level="file">
+        <did>
+          <unittitle>East Campus Center</unittitle>
+          <container id="aspace_f9cba31406e2de6bb7a8be089bb923b1" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref95_v4b" level="file">
+        <did>
+          <unittitle>East Campus. General</unittitle>
+          <container id="aspace_c782beca4a41a529e4de0f998ac69690" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref96_27v" level="file">
+        <did>
+          <unittitle>East Campus Gymnasium (formerly Alumni Memorial Gym)</unittitle>
+          <container id="aspace_4c3312e641fd11192d596f012c2e0a87" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref97_k75" level="file">
+        <did>
+          <unittitle>East Campus Heating Plant</unittitle>
+          <container id="aspace_605fe8a88467e52c67729c7020508b8f" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref98_e2i" level="file">
+        <did>
+          <unittitle>East Campus Infirmary (Advising Center)</unittitle>
+          <container id="aspace_d84a27ec882c5d020950303baa09e75f" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref99_k3c" level="file">
+        <did>
+          <unittitle>East Campus Planning Study</unittitle>
+          <container id="aspace_2a968ca9ed9981345a09e74c14875131" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref100_xiy" level="file">
+        <did>
+          <unittitle>East Campus Wall</unittitle>
+          <container id="aspace_681975be3bc648d08875996cedea4163" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref101_cbf" level="file">
+        <did>
+          <unittitle>East Duke Building</unittitle>
+          <container id="aspace_27fc889cf126a7a414ffdbe130f4711e" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref102_h5q" level="file">
+        <did>
+          <unittitle>Edens Residence Halls</unittitle>
+          <container id="aspace_ed97c454e7ab54db724ea65cbf207e12" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref103_9d7" level="file">
+        <did>
+          <unittitle>Engineering School</unittitle>
+          <container id="aspace_096b07d93689a3a18694eaa8007794e1" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref104_r67" level="file">
+        <did>
+          <unittitle>Engineering School. Nello L. Teer Engineering Library</unittitle>
+          <container id="aspace_65bd890f8e894d4aa31654fa14638a27" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref105_fll" level="file">
+        <did>
+          <unittitle>Epworth Inn (East Campus)</unittitle>
+          <container id="aspace_8fcfca2d4f71cdce8ae5700403478af8" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref106_a4w" level="file">
+        <did>
+          <unittitle>Erwin Mill</unittitle>
+          <container id="aspace_d78f7839a5c48e7712d803c38523e30d" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref107_bo4" level="file">
+        <did>
+          <unittitle>Erwin Road</unittitle>
+          <container id="aspace_b73afedc0c387d73d577f9cb46f64905" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref108_iqc" level="file">
+        <did>
+          <unittitle>Faculty Commons</unittitle>
+          <container id="aspace_c07f3f620ddb11cf7cde24d30ca39623" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref109_phc" level="file">
+        <did>
+          <unittitle>Faculty Houses on Campus Drive (formerly Myrtle Dr.)</unittitle>
+          <container id="aspace_125215c6daca8dd9590a43e0cc448e69" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref110_8bt" level="file">
+        <did>
+          <unittitle>Faculty Housing</unittitle>
+          <container id="aspace_1adbdb41881a95e0c2cc8318ddd044d3" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref111_x9i" level="file">
+        <did>
+          <unittitle>Faculty Row</unittitle>
+          <container id="aspace_fc251d338931e4721c1d4bb4ff2cfe38" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref112_73d" level="file">
+        <did>
+          <unittitle>Falcone-Arena House (Newman Center)</unittitle>
+          <container id="aspace_bff462e293721f6b10b1f5b91a73de3c" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref113_eco" level="file">
+        <did>
+          <unittitle>Finch-Yeager Building</unittitle>
+          <container id="aspace_b77282f958099044bfc100628fffaeb2" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref114_73j" level="file">
+        <did>
+          <unittitle>Flowers Drive</unittitle>
+          <container id="aspace_ddb35ba28553ecf5bf9807c8944208e3" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref115_rtc" level="file">
+        <did>
+          <unittitle>Flowers Student Activities Building</unittitle>
+          <container id="aspace_7cf0e1f0d847205ea21afcd4ecbbe7af" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref116_j43" level="file">
+        <did>
+          <unittitle>Free-Electron Laser Laboratory (FEL). Physics</unittitle>
+          <container id="aspace_57f8d0124260e8509365d1eef791d5dd" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref117_glc" level="file">
+        <did>
+          <unittitle>Freeman Center for Jewish Life</unittitle>
+          <container id="aspace_4407d4158ec42a362eae008f1b92be19" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref118_kjk" level="file">
+        <did>
+          <unittitle>Four Acres (B. N. Duke Home)</unittitle>
+          <container id="aspace_5300f44b6fcbb943b23d2691925b1a95" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref119_w7j" level="file">
+        <did>
+          <unittitle>French Family Science Center</unittitle>
+          <container id="aspace_e726b1585fea60c28c568961e916fb75" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref120_0b9" level="file">
+        <did>
+          <unittitle>Fuqua School of Business</unittitle>
+          <container id="aspace_8b7e973bdd27957781f212b5b3f45a1e" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref121_qlk" level="file">
+        <did>
+          <unittitle>Gazebo (Trinity, N. C.)</unittitle>
+          <container id="aspace_3fd754b65adff59e1d479d978f7e8937" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref122_xha" level="file">
+        <did>
+          <unittitle>Gilbert-Addoms Dorm</unittitle>
+          <container id="aspace_9a9b7c96a0ed8af24736be15a3bac270" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref123_7h4" level="file">
+        <did>
+          <unittitle>Genomics Buildings (Center for Models of Human Disease. Center for Human
+            Genetics)</unittitle>
+          <container id="aspace_af27454a84b46c93cd0043278e0234fa" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref124_qzk" level="file">
+        <did>
+          <unittitle>Golf Course</unittitle>
+          <container id="aspace_ba89ce8dc0e4be14aca18b9303e5848d" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref125_579" level="file">
+        <did>
+          <unittitle>Greenhouses (Botany, Bio-Sci)</unittitle>
+          <container id="aspace_7ef59ea25214638b4152600c9834c404" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref126_13d" level="file">
+        <did>
+          <unittitle>Gross Chemical Laboratory</unittitle>
+          <container id="aspace_30ad8b96baa13b661ea48a07910c47f4" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref127_4n2" level="file">
+        <did>
+          <unittitle>Hanes Field</unittitle>
+          <container id="aspace_7e248e0a6c3d37e58f0350086e018804" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref128_akm" level="file">
+        <did>
+          <unittitle>Hanes House and Annex</unittitle>
+          <container id="aspace_e7dcca4958a1596eb5f35d8cdeb1e885" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref129_dg5" level="file">
+        <did>
+          <unittitle>Hart House</unittitle>
+          <container id="aspace_ba7249de7a1f6b54ebf1e0cdb3bbddde" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref130_v5d" level="file">
+        <did>
+          <unittitle>Historical Marker, N. C. Highway. Main Street, entrance to East
+            Campus</unittitle>
+          <container id="aspace_20d4af34ab05e7c8a00f547052f04231" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref131_d8h" level="file">
+        <did>
+          <unittitle>Home Sites. Duke University</unittitle>
+          <container id="aspace_cbab947a0fd1cdbc6d3321717fb55c9b" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref132_fin" level="file">
+        <did>
+          <unittitle>Jarvis Hall</unittitle>
+          <container id="aspace_de6ba1efb1042375e02a0e5757393f19" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref133_8nr" level="file">
+        <did>
+          <unittitle>John Hope Franklin Center</unittitle>
+          <container id="aspace_a06f60132cb2efee27f9e3025605602f" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref134_p2p" level="file">
+        <did>
+          <unittitle>Edwin L. Jones Cancer Research Building</unittitle>
+          <container id="aspace_0ba7f0c0791dc5406599351d6498a1b4" label="Mixed Materials" type="box"
+            >3</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref135_br0" level="file">
+        <did>
+          <unittitle>Jordan Building</unittitle>
+          <container id="aspace_b093b5c220bbee7237aeef9515b2f016" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_530fa45602031c3c69bd1ecd9c91169c" level="file">
+        <did>
+          <unittitle>Karsh Alumni and Visitors Center</unittitle>
+          <unitdate>2019</unitdate>
+          <container id="aspace_db69047990cd1391ddfb12453913a457" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref136_d4h" level="file">
+        <did>
+          <unittitle>Koskinen Stadium (soccer and lacrosse)</unittitle>
+          <container id="aspace_ba36b8f28d207db2196520656f1aee17" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref137_39p" level="file">
+        <did>
+          <unittitle>Kryzewskiville / K-ville</unittitle>
+          <container id="aspace_576e043839b12760b6702e1186b5065d" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref138_80v" level="file">
+        <did>
+          <unittitle>Lamp Post (Craven Hall and Art Museum)</unittitle>
+          <container id="aspace_fd28d6a8df8e4327a0956d21cbcf2f53" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref139_d2h" level="file">
+        <did>
+          <unittitle>Land</unittitle>
+          <container id="aspace_8957822f5371f365ba6ed54d17f42c28" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref140_v1v" level="file">
+        <did>
+          <unittitle>Lanier Hall</unittitle>
+          <container id="aspace_670e622f4d17484f976803d014c9d264" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref141_iq5" level="file">
+        <did>
+          <unittitle>Law School</unittitle>
+        </did>
+        <c02 id="aspace_ref142_fl6" level="file">
+          <did>
+            <unittitle>Building</unittitle>
+            <container id="aspace_e780de68f5da1862b9ec990a8eed5ed2" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref143_czc" level="file">
+          <did>
+            <unittitle>Goodson Library &amp; Star Commons Dedication, 2008</unittitle>
+            <container id="aspace_5f323eb09ce201a1f6ec2dd89f488f73" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref144_qfu" level="file">
+        <did>
+          <unittitle>Leads and Angles, Slants and Features (Campus Handbook 1947)</unittitle>
+          <container id="aspace_405540594ad0676b59d5619b8e96b589" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref145_mgf" level="file">
+        <did>
+          <unittitle>Lenox Baker Children's Hospital</unittitle>
+          <container id="aspace_d3654e0801edf38bec3c7bae3f1a7eef" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref146_d42" level="file">
+        <did>
+          <unittitle>Science Research Center (Levine)</unittitle>
+          <container id="aspace_467f2f52a8c22d7f235f93a439312419" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref147_33u" level="file">
+        <did>
+          <unittitle>Library. East Campus (Lilly)</unittitle>
+          <container id="aspace_cbab18e53b25787b697ea16ae2c9ef89" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref148_v48" level="file">
+        <did>
+          <unittitle>Library. Perkins</unittitle>
+        </did>
+        <c02 id="aspace_ref149_r0k" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <container id="aspace_5211b9cd68c93e45ad0d8f520d4efe3a" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref150_ghg" level="file">
+          <did>
+            <unittitle>Handbooks</unittitle>
+            <container id="aspace_89e7c3639b493a7b578077105d265d10" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref151_i4z" level="file">
+          <did>
+            <unittitle>Rare Book Rooms</unittitle>
+            <container id="aspace_a43ebe9c4822898e87b3744a3011ccb6" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref152_s8c" level="file">
+        <did>
+          <unittitle>Library Service Center</unittitle>
+          <container id="aspace_9e3d27e7ad5005b2e423e6b5a8789e5e" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref153_4jx" level="file">
+        <did>
+          <unittitle>Log Cabins (Law and Medicine)</unittitle>
+          <container id="aspace_310d7dd0860af2ad09e9aefec17ad253" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref154_8tq" level="file">
+        <did>
+          <unittitle>Lyndhurst House (Center for Documentary Studies)</unittitle>
+          <container id="aspace_5d4cad4f904e715e1ba064c27ad82792" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref155_m2j" level="file">
+        <did>
+          <unittitle>Marine Laboratory (incl. R/V Eastward)</unittitle>
+          <container id="aspace_a12ed3645029eb24d0c87cc4f3c1b736" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref156_0r6" level="file">
+        <did>
+          <unittitle>Mary Duke Building</unittitle>
+          <container id="aspace_c3ed4964a5898bf3bde03f53ab06cf9a" label="Mixed Materials" type="box"
+            >4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref157_62n" level="file">
+        <did>
+          <unittitle>Medical Center</unittitle>
+        </did>
+        <c02 id="aspace_ref158_qr2" level="file">
+          <did>
+            <unittitle>Joseph and Kathleen Bryan Research Building</unittitle>
+            <container id="aspace_1ab93a7fb0458339bc447a8e89da3b0b" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref159_c75" level="file">
+          <did>
+            <unittitle>Chapel</unittitle>
+            <container id="aspace_89ba2773e992e572c75c319433dd3fb5" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref160_tx8" level="file">
+          <did>
+            <unittitle>McGovern-Davison Children's Health Center</unittitle>
+            <container id="aspace_06fa0426fe8c2c404f9d9fdd30d7fc7d" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref161_w36" level="file">
+          <did>
+            <unittitle>Clinical and Research Laboratory Building</unittitle>
+            <container id="aspace_ac1b7abdcbd319f387783bdd0dc7709f" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref162_qrv" level="file">
+          <did>
+            <unittitle>Davison Building</unittitle>
+            <container id="aspace_3aba9a4f25ce3264fb724f4bf82587b7" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref163_i13" level="file">
+          <did>
+            <unittitle>Dialysis Center</unittitle>
+            <container id="aspace_d6bb5361b4ff889ff8dff827eb5374bc" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref164_x53" level="file">
+          <did>
+            <unittitle>Duke South/Duke Clinic</unittitle>
+            <container id="aspace_a7df489967055eb6f390d54f1ab9fb1b" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref165_99m" level="file">
+          <did>
+            <unittitle>Eye Center (Wadsworth Building)</unittitle>
+            <container id="aspace_ec0d4bdbdbefc1d620fe893743cf4b8b" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref166_jt4" level="file">
+          <did>
+            <unittitle>F. G. Hall Environmental Laboratory</unittitle>
+            <container id="aspace_9e5353aedb8abbe91636987858144f09" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref167_caq" level="file">
+          <did>
+            <unittitle>General construction, renovations, etc.</unittitle>
+            <container id="aspace_c1eede6927058473b52243c6c4b71e7b" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref168_5kq" level="file">
+          <did>
+            <unittitle>Jones Cancer Research Building</unittitle>
+            <container id="aspace_832de7673b976997a6674696d33b0627" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref169_2m1" level="file">
+          <did>
+            <unittitle>Morris Clinical Cancer Research Building</unittitle>
+            <container id="aspace_5c6da9de24fc0440fafe2a8b1693e0b2" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref170_ueu" level="file">
+          <did>
+            <unittitle>Mudd Building (Library)</unittitle>
+            <container id="aspace_9a66f434ed74ee4317877fca586199d4" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref171_8ii" level="file">
+          <did>
+            <unittitle>Nanaline H. Duke Medical Sciences Building</unittitle>
+            <container id="aspace_6363ade83e327dbf6a8210aae10742da" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref172_1ws" level="file">
+          <did>
+            <unittitle>North Hospital</unittitle>
+            <container id="aspace_2e918d9e4b56edc6e679b170c1a1c9d4" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref173_733" level="file">
+          <did>
+            <unittitle>Nuclear Magnetic Resonance System</unittitle>
+            <container id="aspace_cb488b1f27fd6c69bb4676b4ee162ec2" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref174_p3l" level="file">
+          <did>
+            <unittitle>Parking Garage</unittitle>
+            <container id="aspace_ed8c8dc649ab31dc90556c22aac3d728" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref175_woz" level="file">
+          <did>
+            <unittitle>Pickens</unittitle>
+            <container id="aspace_9c0d95a9565bdbafdfbc79c3dd87ee1e" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref176_hp8" level="file">
+          <did>
+            <unittitle>PRT</unittitle>
+            <container id="aspace_702d07c0973ec8715d8f789d7fcb965b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref177_otp" level="file">
+          <did>
+            <unittitle>Rankin Clinical Research Unit</unittitle>
+            <container id="aspace_a235f34014c85fe6a6095a3e3259444c" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref178_k7j" level="file">
+          <did>
+            <unittitle>Sands Building</unittitle>
+            <container id="aspace_b5d5001c872836d6c79c474298b97b17" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref179_t7r" level="file">
+          <did>
+            <unittitle>Searle Center</unittitle>
+            <container id="aspace_8db39ccc2ebcb51d7152ee40894557c6" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref180_8z1" level="file">
+          <did>
+            <unittitle>Stead Research Building</unittitle>
+            <container id="aspace_59249a05fc4d24ed58c97f6a306c14df" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref181_dj4" level="file">
+          <did>
+            <unittitle>Woodhall Building</unittitle>
+            <container id="aspace_25cff53f44dacafe0286bb2c753332df" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref182_rvd" level="file">
+          <did>
+            <unittitle>YMCA Building</unittitle>
+            <container id="aspace_892d17abfc3194dd5c354f05844e98ab" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref183_17f" level="file">
+        <did>
+          <unittitle>Medical School. Dedication (Davison)</unittitle>
+          <container id="aspace_e753a810419a5a8ea48e2e5359178ebf" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref184_8bs" level="file">
+        <did>
+          <unittitle>Medical Science Research Building</unittitle>
+          <container id="aspace_1c74a6d2c5fc05dc606de6d551e06bc7" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref185_ypz" level="file">
+        <did>
+          <unittitle>Mordecai Cottage</unittitle>
+          <container id="aspace_e2a65c2de5668c5e26c079d3d9a547ef" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref186_adr" level="file">
+        <did>
+          <unittitle>Morreene Road. Origin of the Name</unittitle>
+          <container id="aspace_482b97ac9779676ac356a9ac7ab8d0cc" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref187_7d4" level="file">
+        <did>
+          <unittitle>William D. Murray Building</unittitle>
+          <container id="aspace_4cf2d91cf46d70c0e3a0a491abea6fbe" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref188_9es" level="file">
+        <did>
+          <unittitle>Names of buildings, general accounts (East and West)</unittitle>
+          <container id="aspace_561d8eb4cbf2815fad52bd4bc0b4cd0c" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref189_ucg" level="file">
+        <did>
+          <unittitle>Nasher Museum of Art</unittitle>
+          <container id="aspace_df6a35254c5d4bd0cebd3b4539c56edf" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref190_pln" level="file">
+        <did>
+          <unittitle>Old Chem (West Campus)</unittitle>
+          <container id="aspace_fad8af868b2a362b9119e394bfb555ee" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref191_fcv" level="file">
+        <did>
+          <unittitle>Olmsted Brothers, Landscape Architects</unittitle>
+          <container id="aspace_5e014e9f518a18cb7860ecd610d004e1" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref192_gz9" level="file">
+        <did>
+          <unittitle>Oregon Street Complex. Kudzu Tavern. Devil's Den</unittitle>
+          <container id="aspace_2f56e8982939eb38dec5d16ca08ffc83" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref193_bo4" level="file">
+        <did>
+          <unittitle>Page Auditorium</unittitle>
+          <container id="aspace_8a950796c9a8cbd45dea15277c556f28" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref194_rem" level="file">
+        <did>
+          <unittitle>Pegram House (Faculty Row 1892)</unittitle>
+          <container id="aspace_c19de1c46b66d8133ae677c2a5d04aa7" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref195_hb9" level="file">
+        <did>
+          <unittitle>Physics Building</unittitle>
+          <container id="aspace_d7dc798a892c685b1f2e37279d3353b4" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref196_k1i" level="file">
+        <did>
+          <unittitle>Phytotron (SEPEL)</unittitle>
+          <container id="aspace_2b26ac257c412eb617dd5af36d04b18a" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref197_3zq" level="file">
+        <did>
+          <unittitle>President's House (Duke Forest), also known as Knight House</unittitle>
+          <container id="aspace_05bb3be3bf88a67f6a2bd09d35c7ecf3" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref198_2pn" level="file">
+        <did>
+          <unittitle>President's House (Other)</unittitle>
+          <container id="aspace_edf8ebe99e2ae790dc7b6726193aae5f" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref199_zw6" level="file">
+        <did>
+          <unittitle>Primate Center</unittitle>
+          <container id="aspace_462b051f20d55b305cf2240f41619694" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref200_oz0" level="file">
+        <did>
+          <unittitle>Property Owned by Duke University</unittitle>
+          <container id="aspace_cbebb71493098248a2b93412b6773a29" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref201_uzs" level="file">
+        <did>
+          <unittitle>Property Plats</unittitle>
+          <container id="aspace_c9b17740a42fd9f4d2804d8ecdb3f159" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref202_erk" level="file">
+        <did>
+          <unittitle>Proposed Buildings</unittitle>
+          <container id="aspace_5d98a3dbe290d59f7703aa340907ba8c" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref203_v26" level="file">
+        <did>
+          <unittitle>Quarry (Duke; Hillsborough)</unittitle>
+          <container id="aspace_4816b314ba2aa60a85d35bdd4dffba09" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref204_h5r" level="file">
+        <did>
+          <unittitle>Recreational Facilities. Planning, 1994 -</unittitle>
+          <container id="aspace_36a5211ed38357b0d130eb9744bfdd77" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref205_sk6" level="file">
+        <did>
+          <unittitle>Rigsbee Cemetery</unittitle>
+          <container id="aspace_7eb975163539930f3b9c92d92a684994" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref206_o1v" level="file">
+        <did>
+          <unittitle>Ronald McDonald House</unittitle>
+          <container id="aspace_defe7fa9a9d744644d88cf4f50b5f786" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref207_ib2" level="file">
+        <did>
+          <unittitle>Anne Roney Fountain</unittitle>
+          <container id="aspace_87ec1b1e36855d47ea6532f75e1960d1" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref208_5c4" level="file">
+        <did>
+          <unittitle>Schaefer House</unittitle>
+          <container id="aspace_3184c005a571d9fc84eb2c61810880e1" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref209_fs9" level="file">
+        <did>
+          <unittitle>Schwartz-Butters Athletic Center (Cameron Annex)</unittitle>
+          <container id="aspace_c54bae6c0d4dd75d9b9043d4c54e887a" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref210_mo6" level="file">
+        <did>
+          <unittitle>Sheffield Tennis Center</unittitle>
+          <container id="aspace_3ad2d2013d6f0da531a98b503ee0b732" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref211_7ht" level="file">
+        <did>
+          <unittitle>Smith Warehouse. Buchanan Blvd. (FMD)</unittitle>
+          <container id="aspace_3d182defb6bc801b1387d7368ec07235" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref212_tv0" level="file">
+        <did>
+          <unittitle>Sociology - Psychology Building</unittitle>
+          <container id="aspace_5827d0adb0e4d1cceaaac07485a4fc6a" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref213_ep8" level="file">
+        <did>
+          <unittitle>Southgate Hall</unittitle>
+          <container id="aspace_4bb1dbc6ab3bfc8365ddb8f0311f57b4" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref214_9wg" level="file">
+        <did>
+          <unittitle>Stagg Pavilion (East Campus)</unittitle>
+          <container id="aspace_13c0edd666a199942102cf93b307387a" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref215_koa" level="file">
+        <did>
+          <unittitle>Statues / Sculptures</unittitle>
+        </did>
+        <c02 id="aspace_ref216_8i5" level="file">
+          <did>
+            <unittitle>Athletics Facilities (Butters, Coombs, Wade...)</unittitle>
+            <container id="aspace_3d9492193b06110d410045013377d262" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref217_s5q" level="file">
+          <did>
+            <unittitle>"Nature and the Scientist." (Camel)</unittitle>
+            <container id="aspace_b2c46a730ff8d4d1a76d95892d27a01b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref218_2i9" level="file">
+          <did>
+            <unittitle>Benjamin Newton Duke (East Campus)</unittitle>
+            <container id="aspace_fffca64f537919ebc041e2cabf410038" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref219_f56" level="file">
+          <did>
+            <unittitle>James B. Duke (West Campus)</unittitle>
+            <container id="aspace_4a24b05dd16a4a171abc57aa2e76b9a7" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref220_znf" level="file">
+          <did>
+            <unittitle><title render="doublequote">Search for Idnentity,</title>Teer
+              Building</unittitle>
+            <container id="aspace_718c6ddc28e20aaa542d738bb33569e4" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref221_vws" level="file">
+          <did>
+            <unittitle>The Sower (East Campus)</unittitle>
+            <container id="aspace_371345c28f0147ed97ae6c1f94d88709" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref222_jip" level="file">
+          <did>
+            <unittitle>Washington Duke (East Campus)</unittitle>
+            <container id="aspace_e8e23036e3ed2df64af3b3f11d2f9e9f" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref223_a93" level="file">
+          <did>
+            <unittitle>Outdoor Sculptures</unittitle>
+            <container id="aspace_47bb139e3efdc929d452575567e00af7" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref224_tsm" level="file">
+          <did>
+            <unittitle>Stonecarving and stonecarvers</unittitle>
+            <container id="aspace_0416fc4b76677b625c0e75ffd1c78df9" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref225_qe1" level="file">
+        <did>
+          <unittitle>Streets, Roads, Entrances</unittitle>
+          <container id="aspace_bf4bec92de3404e6816f9cf553f3a86f" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref226_1cx" level="file">
+        <did>
+          <unittitle>Student "Hang-outs"</unittitle>
+          <container id="aspace_5552641ff6aea777c217fb02ba0f894d" label="Mixed Materials" type="box"
+            >5</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref227_9lo" level="file">
+        <did>
+          <unittitle>Terry Sanford Institute of Public Policy</unittitle>
+          <container id="aspace_0190311ad1f5ea4bed23c2c48bfb65bb" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref228_36n" level="file">
+        <did>
+          <unittitle>Trent Drive Hall (Formerly Men's Graduate Center and Graduate
+            Center)</unittitle>
+          <container id="aspace_ad2cd286682363c3712a3ddbc6f29c19" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref229_6n9" level="file">
+        <did>
+          <unittitle>TUNL (Triangle Universities Nuclear Laboratory)</unittitle>
+          <container id="aspace_fcc83e92ffc83638bc98888cbaf9024f" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref230_b3t" level="file">
+        <did>
+          <unittitle>Trinity College</unittitle>
+        </did>
+        <c02 id="aspace_ref231_xm4" level="file">
+          <did>
+            <unittitle>General (Pre-1924)</unittitle>
+            <container id="aspace_92cd0283a9788e1ed886add0ea19e137" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref232_41p" level="file">
+          <did>
+            <unittitle>Randolph County</unittitle>
+            <container id="aspace_95160b2a7709ba8d270774587dfcc8f5" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref233_th7" level="file">
+        <did>
+          <unittitle>Trinity Heights Historic District</unittitle>
+          <container id="aspace_399e20ae2b40800457e1b66a6c63d713" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref234_bb2" level="file">
+        <did>
+          <unittitle>Trinity Park School</unittitle>
+          <container id="aspace_1ab0cc7e443cc4c3cfbf2ba9a7c3c72a" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref235_96m" level="file">
+        <did>
+          <unittitle>Tunnels</unittitle>
+          <container id="aspace_aaa94debb3ef3dde7dad9eab78fd46ea" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref236_uhs" level="file">
+        <did>
+          <unittitle>Turner House (Trinity Park Boarding House)</unittitle>
+          <container id="aspace_83af0968f8bdca704542a641cdb9de03" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref237_da2" level="file">
+        <did>
+          <unittitle>Union (East Campus)</unittitle>
+          <container id="aspace_3cd7d97a1ddb3f3669b2de3c11e2a081" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref238_gjg" level="file">
+        <did>
+          <unittitle>Union Building</unittitle>
+          <container id="aspace_ca9cb66e7d658e9f99f4ff06f4281666" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref239_luy" level="file">
+        <did>
+          <unittitle>University House (B. N. Duke estate)</unittitle>
+          <container id="aspace_ded32aee6466b5386715dbb0b582b301" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref240_je9" level="file">
+        <did>
+          <unittitle>Vivarium</unittitle>
+          <container id="aspace_a9836ef40691a763d6719adc0ea2b13f" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref241_0wb" level="file">
+        <did>
+          <unittitle>Wallace Wade Stadium</unittitle>
+          <container id="aspace_727dfdff6b2b77414306225572ec8fbf" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref242_06w" level="file">
+        <did>
+          <unittitle>Wannamaker Dormitory</unittitle>
+          <container id="aspace_42ac983899e591d011509c18afcc6893" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref243_nm2" level="file">
+        <did>
+          <unittitle>War Memorials</unittitle>
+        </did>
+        <c02 id="aspace_ref244_ox3" level="file">
+          <did>
+            <unittitle>Duke Chapel Memorial Quadrangle</unittitle>
+            <container id="aspace_195c0e30d52d6202fe5c393b74f7c27e" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref245_5a8" level="file">
+          <did>
+            <unittitle>65th General Hospital</unittitle>
+            <container id="aspace_5dc60994edbf33630faadc6722f267d6" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref246_vtx" level="file">
+          <did>
+            <unittitle>World War II Memorial. Dedication</unittitle>
+            <container id="aspace_c6d32c95af33b770168e206e815a636d" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref247_3uh" level="file">
+        <did>
+          <unittitle>Washington Duke Building (East Campus)</unittitle>
+          <container id="aspace_0c2001ff992319d4830b3cadf7c633df" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref248_g6q" level="file">
+        <did>
+          <unittitle>Washington Duke Inn</unittitle>
+          <container id="aspace_1a396c5b509ed8325e48fc0ee2db432e" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref249_3ss" level="file">
+        <did>
+          <unittitle>West Campus. Seals and Shields</unittitle>
+          <container id="aspace_f0ccca1e8b9774daf2ea1fa58affebb5" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref250_2jp" level="file">
+        <did>
+          <unittitle>West Duke Building</unittitle>
+          <container id="aspace_b4d73eb4ab1699ce95030ac28e0bf692" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref251_0zu" level="file">
+        <did>
+          <unittitle>West -Edens Link (Dorm)</unittitle>
+          <container id="aspace_3af759f171ec035b8c82a1cf187bc115" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref252_z6x" level="file">
+        <did>
+          <unittitle>White Lecture Hall</unittitle>
+          <container id="aspace_d1284aca805ebbb290c2071b8f406873" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref253_i6z" level="file">
+        <did>
+          <unittitle>Wilson-Thornhill Recreation Center</unittitle>
+          <container id="aspace_5914cb27d2885e4e46e9b350160e3dfe" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref254_b9v" level="file">
+        <did>
+          <unittitle>Yoh Football Building</unittitle>
+          <container id="aspace_f853f47dd49372ae94f32143a887c349" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+      <c01 id="aspace_ref255_hwa" level="file">
+        <did>
+          <unittitle>York Dining Hall (T. P. School)</unittitle>
+          <container id="aspace_b0093cb6cf16248eca07848d30798fdd" label="Mixed Materials" type="box"
+            >6</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

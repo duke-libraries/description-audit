@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-tracyelishadocument/"
+         >trent-tracyelishadocument</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Elisha Tracy document, 1778 <num>RL.10922</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002169642</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:39:11
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Elisha Tracy document</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Tracy, Elisha, 1712-</persname>
+         </origination>
+         <unitid>RL.10922</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 items</extent>
+         </physdesc>
+         <unitdate normal="1778/1778" type="inclusive">1778</unitdate>
+         <physloc id="aspace_eb8242339991c9059c9a57b21c727884">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_7897be6ad27362aee3fcaa6bc7c3aaea">Holograph document. Statement of
+            payment due from Major Joshua Huntington for medical services for the years
+            1776-1778.</abstract>
+         <langmaterial id="aspace_7fd5bd361265271253b4bdc2e565d085">Materials in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_ee9a5d43b9d641d845b49ecea163c165">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_7f48133549d162ec2eefe319ab2c884d">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_cb4d67822ae85cc0a792ced42d026968">
+         <head>Preferred Citation</head>
+         <p>Elisha Tracy document, 1778, David M. Rubenstein Rare Book &amp; Manuscript Library,
+            Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_50fa355ed3a5391b489d0ceedb0825be">
+         <head>Provenance</head>
+         <p>Source unknown</p>
+      </acqinfo>
+      <processinfo id="aspace_4901929d7f49dd0020c8590b1fdcb432">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <bioghist id="aspace_2228de46164428036f11dd7bee7509c3">
+         <head>Historical Note</head>
+         <p>Physician.</p>
+      </bioghist>
+      <scopecontent id="aspace_733fd229177e446ec96b8259e3b53093">
+         <head>Collection Overview</head>
+         <p>Holograph document. Statement of payment due from Major Joshua Huntington for medical
+            services for the years 1776-1778.</p>
+      </scopecontent>
+      <odd id="aspace_c064efa1988b3b9f5c25d1af5a871264">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+         <persname source="ingest">Tracy, Elisha, 1712-</persname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid countrycode="US" mainagencycode="US-NcD"
+         url="http://library.duke.edu/rubenstein/findingaids/ballwilliamwatts/"
+         >ballwilliamwatts</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the William Watts Ball papers, 1778-1952 and undated
+                  <num>RL.00075</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+               Matthew Warren</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <p>
+               <date>2013</date>
+            </p>
+            <address>
+               <addressline>411 Chapel Drive</addressline>
+               <addressline>Duke University</addressline>
+               <addressline>Durham 27708</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000784985</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-01 16:19:10
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>William Watts Ball papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Ball, W. W. (William Watts), 1868-1952</persname>
+         </origination>
+         <unitid>RL.00075</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">31 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1778/1952" type="inclusive">1778-1952 and undated</unitdate>
+         <physloc id="aspace_d146b4a5280d75cf8b6c7501d31a5db1">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_3dce1c5fe09b3e4cc69821c028f545e8">Newspaper editor and author.
+            Collection houses personal and political correspondence, financial and business papers,
+            speeches, editorials, notes, printed materials, account books, a diary, photographs, and
+            scrapbooks, documenting William Watts Ball's activities as editor of several South
+            Carolina newspapers, including The State and the News and Courier, both of Columbia.
+            Topics referred to include American and South Carolina politics in the 20th century; the
+            South Carolina textile industry; African Americans in the South; the Great Depression
+            and the Franklin D. Roosevelt administration; newspapers and the newspaper business;
+            education in South Carolina; conditions and problems stemming from both World Wars;
+            prohibition; states' rights; South Carolina social life and customs; Roman Catholicism
+            in South Carolina; international issues; and business and family matters. Correspondents
+            include J. J. McSwain, D. C. Heyward, John Gary Evans, John Hays Hammond, M. F. Ansel,
+            David D. Wallace, James C. Hemphill, Ambrose E. Gonzales, Thomas R. Waring, Nathaniel B.
+            Dial, James F. Byrnes, Ulrich B. Phillips, Josephus Daniels, Bernard M. Baruch,
+            Warrington Dawson, Ellison D. Smith, Max Fleischman, Nicholas Roosevelt, Wendell
+            Willkie, Frederick H. Allen, and Archibald Rutledge.</abstract>
+         <physdesc id="aspace_7a810151014aca97e19b25b643daa9ab">
+            <extent>Approx. 26,000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_0c3fc7881afbdb7f8bccc75f4145b5d1">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_69273518bb2a9b76e55e471058638bda">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_f84d4ebb57dde11e3f9442a0d53c4894">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_62394819e63bfd0d538e71fa78901cd0">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], William Watts Ball Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_06eae8cf5d330cc97bdff826174f8d84">
+         <head>Provenance</head>
+         <p>The William Watts Ball papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as gifts from 1954 to 1986.</p>
+      </acqinfo>
+      <processinfo id="aspace_3885a51af6cffca4c8563a74aae63c73">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library staff, September 2011</p>
+         <p>Encoded by Meghan Lyon, Matthew Warren and Paula Jeannet, May 2012 and March 2013</p>
+         <p>Accession(s) described in this finding aid: 48-1767, 48-1862, 48-1585, 48-1900, 56-386,
+            and 95-112</p>
+      </processinfo>
+      <scopecontent id="aspace_d35667aba3ef58c8a67ffa832c87f72f">
+         <head>Collection Overview</head>
+         <p>Collection consists of personal and political correspondence, diaries, business papers,
+            speeches, editorials, notes, printed matter, personal account books, memorandum books,
+            photographic materials, and scrapbooks. The papers document a long period in Southern
+            history, and reflect Ball's activities as editor of several newspapers, including <title
+               type="simple" render="italic">The State</title>, of Columbia, S.C., and the <title
+               type="simple" render="italic">News and Courier</title>, also of Columbia, S.C. The
+            main group is concerned with national and South Carolina history for the first half of
+            the 20th century. Topics referred to include American politics; the South Carolina
+            textile industry; African Americans in the South; the depression and the F. D. Roosevelt
+            administration; newspapers and the newspaper business; education in South Carolina;
+            conditions and problems stemming from both World Wars; prohibition; states' rights;
+            South Carolina social life and customs; Roman Catholicism in South Carolina;
+            international issues; and general business and family matters.</p>
+         <p>A substantial portion of the papers consists of family correspondence containing
+            information on school and college life; Hollywood in the 1930s and 1940s; social life
+            and customs in Laurens, Charleston, and Columbia, South Carolina; and England, the
+            Italian battlefront, and a journey across the Atlantic during World War II. Other
+            letters come from editors, publishers, educators, politicians, financiers, and
+            industrialists, principally from South Carolina, although some national figures are
+            found. These correspondents include J. J. McSwain, D. C. Heyward, John Gary Evans, John
+            Hays Hammond, M. F. Ansel, David D. Wallace, James C. Hemphill, Ambrose E. Gonzales,
+            Thomas R. Waring, Nathaniel B. Dial, James F. Byrnes, Ulrich B. Phillips, Josephus
+            Daniels, Bernard M. Baruch, Warrington Dawson, Ellison D. Smith, Max Fleischman,
+            Nicholas Roosevelt, Wendell Willkie, Frederick H. Allen, and Archibald Rutledge.</p>
+         <p>Ball's financial papers, scattered throughout the collection, generally relate to real
+            estate investments, stock holdings in textile mills, and the Depression as it affected
+            his financial situation. A major part of the correspondence pertains to state and
+            national politics. Letters discuss Tillmanism and Bleasism; the state primary system and
+            election reform; state and national elections; opposition to the New Deal and the
+            formation of the Southern Democratic Party; and other local, state, and national
+            issues.</p>
+         <p>Material on race relations begins as early as 1916, but is particularly abundant from
+            the 1930s onwards. Involved with the issue of states' rights versus federal control, the
+            "Negro problem" includes the anti-lynching movement, enfranchisement and control of the
+            African American vote, racial unrest, segregation, and other matters. The papers reveal
+            Ball's interest in education, especially the development of schools of journalism, the
+            expansion of the state-supported college system, the University of South Carolina, and
+            the South Carolina School for the Deaf, Dumb, and Blind.</p>
+         <p>Other papers relate to Ball's editorship of various South Carolina newspapers,
+            principally <title type="simple" render="italic">The State</title> and the <title
+               type="simple" render="italic">News and Courier</title>, and to his publishing
+            efforts. There is also material on the textile industry in South Carolina, labor unrest
+            and unionization, prohibition, women's suffrage, the Great Depression, World Wars I and
+            II, recollections by Ball and others of social life, customs and politics during the
+            1870s through the 1890s, the economic and industrial development of South Carolina,
+            genealogy of the Watts and Ball families, and drafts and copies of speeches and
+            editorials.</p>
+         <p>The photographic items include 34 black-and-white photographs (ca. 1840-1940), chiefly
+            consisting of group and individual portraits of W. W. Ball's family, friends, and
+            colleagues in journalism. There are several views of the Ball family's ancestral
+            plantation home in Laurens, S.C. Volumes include family account books, 1911-1942, a
+            memorandum book beginning in 1901; scrapbooks, 1893-1951; a digest of the military
+            service of Frank Parker, 1894-1945; and Ball's diaries, 1916-1952.</p>
+      </scopecontent>
+      <controlaccess>
+         <genreform source="aat">Black-and-white photographs</genreform>
+         <subject source="lcsh">World War, 1914-1918 -- United States</subject>
+         <subject source="lcsh">World War, 1939-1945 -- United States</subject>
+         <subject source="lcsh">Newspaper publishing -- South Carolina</subject>
+         <subject source="lcsh">Textile industry -- South Carolina</subject>
+         <geogname source="lcsh">South Carolina -- Race relations</geogname>
+         <geogname source="lcsh">Laurens (S.C.) -- History</geogname>
+         <geogname source="lcsh">South Carolina -- Politics and government -- 1865-1950</geogname>
+         <geogname source="lcsh">South Carolina -- Social life and customs</geogname>
+         <subject source="lcsh">News and Courier (Charleston, S.C.)</subject>
+         <geogname source="lcsh">United States -- Politics and government -- 20th century</geogname>
+         <geogname source="lcsh">United States -- Foreign relations -- 20th century</geogname>
+         <subject source="lcsh">Journalism -- South Carolina</subject>
+         <subject source="lcsh">Journalists -- United States</subject>
+         <subject source="lcsh">The State (Columbia, S.C.)</subject>
+         <subject source="lcsh">Education -- South Carolina</subject>
+         <persname source="ingest">Willkie, Wendell L. (Wendell Lewis), 1892-1944</persname>
+         <persname source="ingest">Waring, Thomas R.</persname>
+         <persname source="ingest">Ansel, Martin F., 1850-1945</persname>
+         <persname source="ingest">Allen, Frederick Harold, 1890-</persname>
+         <persname source="ingest">Ball, W. W. (William Watts), 1868-1952</persname>
+         <persname source="ingest">Baruch, Bernard M. (Bernard Mannes), 1870-1965</persname>
+         <persname source="ingest">Byrnes, James F. (James Francis), 1882-1972</persname>
+         <persname source="ingest">Daniels, Josephus, 1862-1948</persname>
+         <persname source="ingest">Dial, Nathaniel Barksdale, 1862-1940</persname>
+         <persname source="ingest">Evans, John Gary, 1863-1942</persname>
+         <persname source="ingest">Fleischmann, Max C. (Max Charles), 1877-1951</persname>
+         <persname source="ingest">Gonzales, Ambrose Elliott, 1857-1926</persname>
+         <persname source="ingest">Hammond, John Hays, 1855-1936</persname>
+         <persname source="ingest">Hemphill, J. C. (James Calvin), 1850-1927</persname>
+         <persname source="ingest">Heyward, Duncan Clinch, 1864-1943</persname>
+         <persname source="ingest">Phillips, Ulrich Bonnell, 1877-1934</persname>
+         <persname source="ingest">Rutledge, Archibald, 1883-1973</persname>
+         <persname source="ingest">Smith, Ellison DuRant, 1866-1944</persname>
+         <persname source="ingest">Wallace, David Duncan, 1874-1951</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref11_k3d" level="series">
+            <did>
+               <unittitle>Correspondence and Other Papers, 1778-1952</unittitle>
+               <physdesc id="aspace_ccca2ad1bd6888a06789813e4dceae82">
+                  <extent>76 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref13_yvt" level="file">
+               <did>
+                  <unittitle>Correspondence, 1852-1905</unittitle>
+                  <container id="aspace_97fc190d748c365133c27d369229d688" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref14_3ez" level="file">
+               <did>
+                  <unittitle>Correspondence, 1906-1909</unittitle>
+                  <container id="aspace_75d2702e0f31a134534d3e8d10e1c06f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_f6f" level="file">
+               <did>
+                  <unittitle>Correspondence, 1910-1911</unittitle>
+                  <container id="aspace_d81567a69e22e36ab3892dc433426ae7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_10z" level="file">
+               <did>
+                  <unittitle>Correspondence, 1912-1913 Feb.</unittitle>
+                  <container id="aspace_50ce63384bce2f51e33afd8a2bff6f19" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_76p" level="file">
+               <did>
+                  <unittitle>Correspondence, 1913 Mar.-1914</unittitle>
+                  <container id="aspace_ce309fde81c8abdd6d87c3bb18704365" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_rp0" level="file">
+               <did>
+                  <unittitle>Correspondence, 1915</unittitle>
+                  <container id="aspace_be723ca05122b9851e296d6eb3c5a83d" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_t8g" level="file">
+               <did>
+                  <unittitle>Correspondence, 1916</unittitle>
+                  <container id="aspace_b20e7cee15834d635b5c69cb722b1199" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_u5z" level="file">
+               <did>
+                  <unittitle>Correspondence, 1917</unittitle>
+                  <container id="aspace_718e5f96c3eed10a058dd0e5968d4a39" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_xff" level="file">
+               <did>
+                  <unittitle>Correspondence, 1918-1919 June</unittitle>
+                  <container id="aspace_9e2327b9a505607acf4f79ab287385f6" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_be3" level="file">
+               <did>
+                  <unittitle>Correspondence, 1919 July-1920 Feb.</unittitle>
+                  <container id="aspace_4335e4b15fff8d953eb1e690e1fbc412" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_kcj" level="file">
+               <did>
+                  <unittitle>Correspondence, 1920 Mar.-Dec.</unittitle>
+                  <container id="aspace_5f0929a227104fe7d3d3d57da635c64a" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_yex" level="file">
+               <did>
+                  <unittitle>Correspondence, 1921-1922 June</unittitle>
+                  <container id="aspace_7930de446063696703c8d3981a5f2200" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_8eo" level="file">
+               <did>
+                  <unittitle>Correspondence, 1922 July-1923 Aug.</unittitle>
+                  <container id="aspace_a5ac5b4d6f2912d29f4592b539406ac0" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_2h7" level="file">
+               <did>
+                  <unittitle>Correspondence, 1923 Sept.-1925 Aug.</unittitle>
+                  <container id="aspace_aab929102096a0a55e530a5d1100ee42" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_bmu" level="file">
+               <did>
+                  <unittitle>Correspondence, 1925 Sept.-1926 Sept.</unittitle>
+                  <container id="aspace_69f230f5143a53effbc3d44a2cbf70ee" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_2bn" level="file">
+               <did>
+                  <unittitle>Correspondence, 1926 Oct.-1927 Aug.</unittitle>
+                  <container id="aspace_0d021eff6421d4172f3b4d902463cc87" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_24c" level="file">
+               <did>
+                  <unittitle>Correspondence, 1927 Sept.-1928</unittitle>
+                  <container id="aspace_9361e70160e6a1c372415a6524a10657" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_vul" level="file">
+               <did>
+                  <unittitle>Correspondence, 1929</unittitle>
+                  <container id="aspace_5f2a7ef7be75ed6850bc2041337e72a2" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_zx0" level="file">
+               <did>
+                  <unittitle>Correspondence, 1930-1931</unittitle>
+                  <container id="aspace_7afaa108e69496e8d689d77366afd159" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_1h5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1932 Jan.-June</unittitle>
+                  <container id="aspace_0d7f46039a173c0d76c19ebfea7063d7" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_u9y" level="file">
+               <did>
+                  <unittitle>Correspondence, 1932 July-Dec.</unittitle>
+                  <container id="aspace_f9716fd9ae4d7b80ec70a53bba503476" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_92j" level="file">
+               <did>
+                  <unittitle>Correspondence, 1933 Jan.-Aug.</unittitle>
+                  <container id="aspace_d2ac9eccb4792ab377d8da83942885b8" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_sb4" level="file">
+               <did>
+                  <unittitle>Correspondence, 1933 Sept.-1934 May</unittitle>
+                  <container id="aspace_0f88540ba1bf27fc3f8f81cf73a1ec60" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_hb4" level="file">
+               <did>
+                  <unittitle>Correspondence, 1934 June-Dec.</unittitle>
+                  <container id="aspace_c66c3072fe832035740b540f6d3a1417" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_e9x" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 Jan.-Sept.</unittitle>
+                  <container id="aspace_22de8477c18ad6a17253f53b06a19a84" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_y8r" level="file">
+               <did>
+                  <unittitle>Correspondence, 1935 Oct.-1936 June</unittitle>
+                  <container id="aspace_f855fefb66fca114acb5b29fa9bdb4c0" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_3u3" level="file">
+               <did>
+                  <unittitle>Correspondence, 1936 July-1937 Feb.</unittitle>
+                  <container id="aspace_07354d7f4e608a63e827eefe0f961d51" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_rig" level="file">
+               <did>
+                  <unittitle>Correspondence, 1937 Mar.-Aug.</unittitle>
+                  <container id="aspace_ab6bc9ae29b5f93de68fa5c651a8206a" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_hxc" level="file">
+               <did>
+                  <unittitle>Correspondence, 1937 Sept.-1938 Feb.</unittitle>
+                  <container id="aspace_2caaeed74da418a2e924e3aedc01b811" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_4wn" level="file">
+               <did>
+                  <unittitle>Correspondence, 1938 Mar.-Oct.</unittitle>
+                  <container id="aspace_a7367ff77f7882dbc24bb80cf51dd9d8" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_4jo" level="file">
+               <did>
+                  <unittitle>Correspondence, 1938 Nov.-1939 June</unittitle>
+                  <container id="aspace_53ffd18dbc7561ce23f11debe018e631" label="Mixed Materials"
+                     type="box">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_udn" level="file">
+               <did>
+                  <unittitle>Correspondence, 1939 July-Dec.</unittitle>
+                  <container id="aspace_04e72f9072d5f0d87cdd4872660bfe1f" label="Mixed Materials"
+                     type="box">32</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_rdn" level="file">
+               <did>
+                  <unittitle>Correspondence, 1940 Jan.-May</unittitle>
+                  <container id="aspace_08a0f76f7f3e0ae9a3928defa5eb5f26" label="Mixed Materials"
+                     type="box">33</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_su0" level="file">
+               <did>
+                  <unittitle>Correspondence, 1940 June-1941 Feb.</unittitle>
+                  <container id="aspace_8289b41e12c79117c82f885abdf78992" label="Mixed Materials"
+                     type="box">34</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_bky" level="file">
+               <did>
+                  <unittitle>Correspondence, 1941 Mar.-Dec.</unittitle>
+                  <container id="aspace_3eff5514391e8d7eefdc61d315b49240" label="Mixed Materials"
+                     type="box">35</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_5p6" level="file">
+               <did>
+                  <unittitle>Correspondence, 1942 Jan.-July</unittitle>
+                  <container id="aspace_e7907cc193578b1d461b92acc2738e81" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_uxt" level="file">
+               <did>
+                  <unittitle>Correspondence, 1942 Aug.-1943 Mar.</unittitle>
+                  <container id="aspace_b55e76858c8115e58972dc989a758be1" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_cl5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1943 Apr.-Dec.</unittitle>
+                  <container id="aspace_bd8005425f77f8d678bd90c45ceecbdc" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_cu8" level="file">
+               <did>
+                  <unittitle>Correspondence, 1944 Jan.-June</unittitle>
+                  <container id="aspace_fa43e330529eaa5aa3ccda3b5a1beffd" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_71f" level="file">
+               <did>
+                  <unittitle>Correspondence, 1944 July-Dec.</unittitle>
+                  <container id="aspace_e01c87961e47ddcc25fbd2215da597a9" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_9tq" level="file">
+               <did>
+                  <unittitle>Correspondence, 1945 Jan.-Oct.</unittitle>
+                  <container id="aspace_5fb93fddaaf13c30032492e91a6fcf50" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_zb2" level="file">
+               <did>
+                  <unittitle>Correspondence, 1945 Nov.-1946 Oct.</unittitle>
+                  <container id="aspace_9296dee8caa1c91db8d50a98ca6722fd" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_0iu" level="file">
+               <did>
+                  <unittitle>Correspondence, 1946 Nov.-1947</unittitle>
+                  <container id="aspace_211b0007c8b48be591406e6ef53fbe0b" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_9st" level="file">
+               <did>
+                  <unittitle>Correspondence, 1948</unittitle>
+                  <container id="aspace_13eb00fcf1b5e8f376dd54f35514ca41" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_vua" level="file">
+               <did>
+                  <unittitle>Correspondence, 1949 Jan.-Oct.</unittitle>
+                  <container id="aspace_d18fa1dc3e77059c11d68c8d46c48d1c" label="Mixed Materials"
+                     type="box">45</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_zl7" level="file">
+               <did>
+                  <unittitle>Correspondence, 1949 Nov.-1950 Apr.</unittitle>
+                  <container id="aspace_6443ccdc3bb07c857d7afa369aba3186" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_wzc" level="file">
+               <did>
+                  <unittitle>Correspondence, 1950 May-1951 July</unittitle>
+                  <container id="aspace_48e3c4941b6b2c18660d1926566314ab" label="Mixed Materials"
+                     type="box">47</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_cj1" level="file">
+               <did>
+                  <unittitle>Correspondence, 1951 Aug.-1952 (Duplicate letters)</unittitle>
+                  <container id="aspace_170b6b3e3737957537f91654d9b23cfe" label="Mixed Materials"
+                     type="box">48</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_2r0" level="file">
+               <did>
+                  <unittitle>Correspondence, undated [1910-1919, 1920s]</unittitle>
+                  <container id="aspace_19c15e9742b9277441f795c7d1d86d00" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_nck" level="file">
+               <did>
+                  <unittitle>Correspondence, undated [1920s]</unittitle>
+                  <container id="aspace_41677fc3bba5a7b67aebf0f9fcf8c039" label="Mixed Materials"
+                     type="box">50</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_iuv" level="file">
+               <did>
+                  <unittitle>Correspondence, undated [1930s]</unittitle>
+                  <container id="aspace_bd862934bf8172614c72b0be7427ffc0" label="Mixed Materials"
+                     type="box">51</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_0p6" level="file">
+               <did>
+                  <unittitle>Correspondence, undated [1930s, 1940s]</unittitle>
+                  <container id="aspace_78b6f82add5d52b5bcb45d804e3f1e35" label="Mixed Materials"
+                     type="box">52</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_8dx" level="file">
+               <did>
+                  <unittitle>Correspondence, undated [1940s]</unittitle>
+                  <container id="aspace_c450d47a38767692deb35351f4ac1707" label="Mixed Materials"
+                     type="box">53</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_abm" level="file">
+               <did>
+                  <unittitle>General papers, 1897-1952 [restrictions now lifted]</unittitle>
+                  <container id="aspace_8f91ac22717ff1b5564d3f0667b3b1d4" label="Mixed Materials"
+                     type="box">54</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_liv" level="file">
+               <did>
+                  <unittitle>Legal papers, 1778-1951; Legislation</unittitle>
+                  <container id="aspace_a0d14350dc29b71f5d68b52f52120a92" label="Mixed Materials"
+                     type="box">55</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_xun" level="file">
+               <did>
+                  <unittitle>Financial papers, 1833-1919</unittitle>
+                  <container id="aspace_a420741083fe0f5e20d9f4dac6a1cdef" label="Mixed Materials"
+                     type="box">56</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_3bw" level="file">
+               <did>
+                  <unittitle>Financial papers, 1920-1952; Income tax</unittitle>
+                  <container id="aspace_aebb54cc2f4b669689381e55ae96e4bf" label="Mixed Materials"
+                     type="box">57</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_508" level="file">
+               <did>
+                  <unittitle>Writings, speeches, 1883-1929</unittitle>
+                  <container id="aspace_90827209ecb0e094ca869852162ee273" label="Mixed Materials"
+                     type="box">58</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_75g" level="file">
+               <did>
+                  <unittitle>Writings, speeches, 1930-1952</unittitle>
+                  <container id="aspace_5ae6c3ba63a94f4bb7b2163895abf848" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_cs4" level="file">
+               <did>
+                  <unittitle>Writings, speeches, undated</unittitle>
+                  <container id="aspace_e4095dd7e46a806a8328b9300bbd5141" label="Mixed Materials"
+                     type="box">60</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_lij" level="file">
+               <did>
+                  <unittitle>Miscellany: report cards; genealogy</unittitle>
+                  <container id="aspace_95f55fae7bf99feef9fcd33969aed0f9" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_9yz" level="file">
+               <did>
+                  <unittitle>Miscellany: business reports, 1905-1924; greeting cards</unittitle>
+                  <container id="aspace_d0c4796f5bf6021c295b03bd8da5fb8e" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_xb2" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <container id="aspace_c2781d5d54d2be947d181cc5af95a0f2" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_ra4" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_22d9f33e834efad00303918136885a76" label="Mixed Materials"
+                     type="box">64</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_el5" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container id="aspace_d95c70e027738a576b13190c4c069b56" label="Mixed Materials"
+                     type="box">65</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_65g" level="file">
+               <did>
+                  <unittitle>Printed materials</unittitle>
+                  <container id="aspace_2e4d1f0b84e0119203054dea7c31f88a" label="Mixed Materials"
+                     type="box">66</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_4as" level="file">
+               <did>
+                  <unittitle>Printed materials</unittitle>
+                  <container id="aspace_59296a41ed7c8453bcf2ef20e2926028" label="Mixed Materials"
+                     type="box">67</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_6f7" level="file">
+               <did>
+                  <unittitle>Volumes</unittitle>
+                  <container id="aspace_f03b9b92cebe46ca04717efe2ef156bc" label="Mixed Materials"
+                     type="box">68</container>
+               </did>
+               <scopecontent id="aspace_0edba6358ea6a76b1562a593113bac37">
+                  <head>Scope and Contents note</head>
+                  <p>Notebooks, calendars, and other small volumes.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref82_l8u" level="file">
+               <did>
+                  <unittitle>Volumes</unittitle>
+                  <container id="aspace_c282027f144658537de6f5191f9af087" label="Mixed Materials"
+                     type="box">69</container>
+               </did>
+               <scopecontent id="aspace_a6742c9b3e63338d9d16753c13bc9ccb">
+                  <head>Scope and Contents note</head>
+                  <p>Notebooks and calendars</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref84_t95" level="file">
+               <did>
+                  <unittitle>Diary, volumes I-V, 1916-1922</unittitle>
+                  <container id="aspace_4314b91616b7969c34cb6eee282f9215" label="Mixed Materials"
+                     type="box">70</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_z8a" level="file">
+               <did>
+                  <unittitle>Diary, volumes VI-VIII, 1922-1930</unittitle>
+                  <container id="aspace_7b6e87c875700a8a1da2978e8daf0985" label="Mixed Materials"
+                     type="box">71</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_63l" level="file">
+               <did>
+                  <unittitle>Diary, volumes IX-XI, 1932-1940</unittitle>
+                  <container id="aspace_d2e889284107c022f06feab25750dd55" label="Mixed Materials"
+                     type="box">72</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_izw" level="file">
+               <did>
+                  <unittitle>Diary, volumes XII-XIV, 1948</unittitle>
+                  <container id="aspace_5211ee4eb31786961808b62b85310449" label="Mixed Materials"
+                     type="box">73</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_3yj" level="file">
+               <did>
+                  <unittitle>Diary, volumes XV and indexes, 1951-1952 and undated</unittitle>
+                  <container id="aspace_2c2e5a9484210296ca251a88fe973995" label="Mixed Materials"
+                     type="box">74</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_02z" level="file">
+               <did>
+                  <unittitle>Photocopies of articles and books chiefly on American and newspaper
+                     history, 1918-1946 and undated</unittitle>
+                  <physdesc id="aspace_640dd158e040e98edfb027a560b9664c">
+                     <extent>54 items</extent>
+                  </physdesc>
+                  <container id="aspace_c4a42c106a0c7fd680b21e4f39e80221" label="Mixed Materials"
+                     type="box">75</container>
+               </did>
+               <scopecontent id="aspace_8f8f8030385a5e3d52bc507283d7ffa7">
+                  <head>Scope and Contents note</head>
+                  <p>Selected pages with Ball's annotations were photocopied. Arranged in rough
+                     chronological order by date of publication.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref92_5d6" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Brass Check</title> [hard-bound book] by Upton
+                     Sinclair (with Ball's annotations)</unittitle>
+                  <container id="aspace_7e7042309db3dd56a566b3bf44280cbb" label="Mixed Materials"
+                     type="box">75</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_6uc" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">News is What We Make It</title> [hard-bound book] by
+                     Kenneth Stewart (with Ball's annotations)</unittitle>
+                  <container id="aspace_a778fa4b5a5f80c65e06160fc6da6e86" label="Mixed Materials"
+                     type="box">75</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_vkk" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">The Industrial Revolution in the South</title>
+                     [hard-bound book] by Broadus and George Sinclair Mitchell (with Ball's
+                     annotations)</unittitle>
+                  <container id="aspace_11d65f1c1cdf25a4cb390138b0d1ddac" label="Mixed Materials"
+                     type="box">75</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_lah" level="file">
+               <did>
+                  <unittitle>Additional correspondence, 1900-1952 and undated</unittitle>
+                  <physdesc id="aspace_0f42a6496b24a93c74c50e031303da41">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_cccb0b24420e5c927462c1d6c6bbae0f" label="Mixed Materials"
+                     type="box">76</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref97_y8f" level="series">
+            <did>
+               <unittitle>Volumes, 1893-1951</unittitle>
+               <physdesc id="aspace_13a4e6863a544e2ef41a185d8adcd296">
+                  <extent>12 items</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref99_2dq" level="file">
+               <did>
+                  <unittitle>Frank Parker: Digest of Military Service Record, 1894-1945</unittitle>
+                  <container id="aspace_39ae2a7daf54ea205c159b6c059c2e38" label="Mixed Materials"
+                     type="volume">L:1312</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_57c" level="file">
+               <did>
+                  <unittitle>Account book, 1911-1915</unittitle>
+                  <container id="aspace_c5c09ecc3615dbd33c73e308a5ae83f4" label="Mixed Materials"
+                     type="volume">F:6767</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_38f" level="file">
+               <did>
+                  <unittitle>Account book, 1916-1921</unittitle>
+                  <container id="aspace_d280e752cb512fd595a21cdd8bb1fe1d" label="Mixed Materials"
+                     type="volume">ff:6768</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref102_z86" level="file">
+               <did>
+                  <unittitle>Account book, 1921-1931</unittitle>
+                  <container id="aspace_ac72bd5ffb70827b4044e3eb1e2986e2" label="Mixed Materials"
+                     type="volume">ff:6769</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_jjr" level="file">
+               <did>
+                  <unittitle>Account book, 1932-1942</unittitle>
+                  <container id="aspace_02c88eceda1eff516bdec05059273d37" label="Mixed Materials"
+                     type="volume">ff:6770</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_e9a" level="file">
+               <did>
+                  <unittitle>Memorandum book, 1901</unittitle>
+                  <container id="aspace_11a0857b8c3ace294fa3b6912985375b" label="Mixed Materials"
+                     type="volume">M:6771</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_3l9" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1893-1946</unittitle>
+                  <container id="aspace_9f41b4998507b61965bd0794324560cd" label="Mixed Materials"
+                     type="volume">L:6772</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref106_p9i" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1895-1941</unittitle>
+                  <container id="aspace_afe350ad55be160acc0bf3d13f6d2fca" label="Mixed Materials"
+                     type="volume">F:6773</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_b4w" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1909-1926</unittitle>
+                  <container id="aspace_c7cc703a849d544b637c4617a48a287a" label="Mixed Materials"
+                     type="volume">F:6774</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_uop" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1910-1930</unittitle>
+                  <container id="aspace_4142604ffd82fdcf8f1d8b5e699e964a" label="Mixed Materials"
+                     type="volume">L:6775</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_ttc" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1915-1932</unittitle>
+                  <container id="aspace_415f76962f1e694dc60d31639f6de071" label="Mixed Materials"
+                     type="volume">L:6776</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_lgc" level="file">
+               <did>
+                  <unittitle>Scrapbook, 1939-1951</unittitle>
+                  <container id="aspace_009a9b1784320cc31e293e1e8af6b898" label="Mixed Materials"
+                     type="volume">F:6777</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref111_9kr" level="series">
+            <did>
+               <unittitle>Oversize Photographs, 1926, 1940</unittitle>
+               <physdesc id="aspace_69800921cea4680049172d7f08364b9b">
+                  <extent>2 items</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref113_g58" level="file">
+               <did>
+                  <unittitle>Panoramic group photo, <title render="doublequote">Publishers and
+                        Editors of the U.S. Tour of New Hampshire, Navy Yard, Portsmouth, [New
+                        Hampshire], July 17, 1926</title>
+                  </unittitle>
+                  <container id="aspace_aca2e8eebf8eddef9d34206dd884916e" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_xbu" level="file">
+               <did>
+                  <unittitle>Panoramic group photo, <title render="doublequote">53rd Convention
+                        Protestant Episcopal Church, Municipal Auditorium, Kansas City, [Missouri],
+                        October 9-24, 1940</title>
+                  </unittitle>
+                  <container id="aspace_65a1ada7cc110e16e3b0b6558eabe14c" label="Mixed Materials"
+                     type="oversize-folder">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/cainpatrickh/">cainpatrickh</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Patrick H. Cain papers, 1783-1940
+          <num>RL.00183</num></titleproper>
+        <author>Processed by: Rubenstein Library staff; machine-readable finding aid created by:
+          Willeke Sandler and Paula Jeannet</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2012</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">000847153</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-02-27 21:44:48
+          UTC</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+      <change>
+        <date>2020</date>
+        <item>items rehoused</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Patrick H. Cain papers</unittitle>
+      <origination label="Creator">
+        <persname source="ingest">Cain, Patrick H.</persname>
+      </origination>
+      <unitid>RL.00183</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1783/1940" type="inclusive">1783-1940</unitdate>
+      <abstract id="aspace_be21cd263715d861970f938be036693f">Merchant, tobacco merchant, landowner,
+        distiller, and State Representative, from Mocksville and Settle (Davie Co.), N.C. Personal,
+        legal, business, and financial papers of Patrick H. Cain and the Cain family, from Davie
+        County, N.C. Included are letters describing life and social customs in Georgia; the
+        education of women; student life at Normal College (later Trinity College, then Duke
+        University) and at the University of North Carolina; Western migration; prices of products
+        and services, the value of slaves, and the wages of freedmen; and the life of Confederate
+        soldiers and military actions at First Manassas and Gettysburg. Legal papers consist of land
+        grants, deeds, mortgages, arrests and summonses for debts, promissory notes, and material
+        relating to the administration of various estates. Financial records include tax receipts
+        and accounts. There is one volume of patient accounts, 1906-1925, belonging to Dr. John
+        Cain. Correspondents include George Burgess Anderson, Francis Asbury, Samuel Ashe, Kemp P.
+        Battle, John Joseph Bruner, D. R. Bruton, Lyman Copeland Draper, David Moffatt Furches,
+        William H. Hayes, William Hill, Hamilton C. Jones, Leonidas Polk, Zebulon Vance, and
+        Jonathan Worth.</abstract>
+      <physdesc id="aspace_417572296c57398df21ea115576bb4ba"
+        label="General Physical Description note"><extent>Approx. 2,904 Items</extent></physdesc>
+      <langmaterial id="aspace_2f7407495a542a4b3cb9282c70ca1766">Material in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_cd4e90ad3b9b35bd34f7306b90602490">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_6781e16e1be9c3d63a8fdcc432b0d2ae">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_fc66e6bb8de14ead8d05fb3600341697">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Patrick H. Cain Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_5767c5ed729a2cbc114541162c0d8666">
+      <head>Provenance</head>
+      <p>The Patrick H. Cain Papers were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library as a gift in 1957.</p>
+    </acqinfo>
+    <processinfo id="aspace_745b2e26c979d745823af4ed91fc10f5">
+      <head>Processing Information</head>
+      <p>Processed by Rubenstein Library staff</p>
+      <p>Encoded by Willeke Sandler and Paula Jeannet, March 2012</p>
+    </processinfo>
+    <bioghist id="aspace_10ccc6b7234815ee8694984a3f61783b">
+      <head>Biographical Note</head>
+      <p>Patrick H. Cain was born in 1815 in Davie County, N.C., the son of Daniel Cain and
+        Elizabeth Hutchins. Patrick Cain married Susan Wilder Cheshire and had the following
+        children: William Gaston, John Manley, Betty Ann, Millard Fillmore, Robert Lee.</p>
+    </bioghist>
+    <scopecontent id="aspace_144e261daedb49fb8608b65795572c50">
+      <head>Collection Overview</head>
+      <p>Personal, legal, business, and financial papers of the Cain family. Included are letters
+        describing life and social customs in Georgia, 1824-1827; school life at girls' academies,
+        1843-1856, at Normal College (later Trinity College), 1855-1856, at a seminary, 1869, and at
+        the University of North Carolina, 1871-1880; Western migration and Western lands; business
+        methods; prices of products and services, the value of slaves, and wages and tenancy of
+        freedmen; the life of Confederate soldiers, including accounts of military activities,
+        especially First Manassas and Gettysburg, and comments on conditions in the army and on
+        officers, Jefferson Davis, and Abraham Lincoln. </p>
+      <p>Legal papers consist of land grants, deeds, mortgages, arrests and summonses for debts,
+        promissory notes, and material relating to the administration of various estates. There are
+        broadsides concerning Jonathan Worth and W. W. Holden. Financial records consist of tax
+        receipts; accounts, 1889-1895, kept in advertising booklets; and a ledger containing patient
+        accounts, 1906-1925, belonging to Dr. John M. Cain, Patrick Cain's brother. There are many
+        manuscript volumes in the collection, chiefly financial. </p>
+      <p>Correspondents include George Burgess Anderson, Francis Asbury, Samuel Ashe, Kemp P.
+        Battle, John Joseph Bruner, D. R. Bruton, Lyman Copeland Draper, David Moffatt Furches, Will
+        H. Hayes, William Hill, Hamilton C. Jones, Leonidas Polk, Zebulon Vance, and Jonathan Worth.
+      </p>
+    </scopecontent>
+    <relatedmaterial id="aspace_e416793213f2afc965a4e102d1c2ca9a">
+      <head>Related Material</head>
+      <p><archref><unittitle label="Collection">Last Will and Testament of Daniel Cain of Davie
+            County, NC, 1844, 1849 [Patrick Cain was the executor; contains names of
+            slaves]</unittitle><repository label="Repository">NC State Archives, Raleigh,
+            N.C.</repository>
+        </archref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Merchants -- North Carolina</subject>
+      <subject source="lcsh">Merchants -- Accounting</subject>
+      <subject source="lcsh">Slave trade -- North Carolina</subject>
+      <subject source="lcsh">Probate law and practice -- North Carolina</subject>
+      <subject source="lcsh">Universities and colleges -- North Carolina</subject>
+      <subject source="lcsh">Slavery -- North Carolina</subject>
+      <subject source="lcsh">Women -- Education -- North Carolina</subject>
+      <genreform source="aat">Daybooks</genreform>
+      <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
+      <geogname source="lcsh">Georgia -- Social life and customs</geogname>
+      <geogname source="lcsh">Southern States -- Economic conditions</geogname>
+      <geogname source="lcsh">Davie County (N.C.) -- Commerce</geogname>
+      <subject source="lcsh">African Americans -- North Carolina -- Social conditions</subject>
+      <subject source="lcsh">Bull Run, 1st Battle of, Va., 1861</subject>
+      <subject source="lcsh">Freedmen -- North Carolina</subject>
+      <subject source="lcsh">Gettysburg, Battle of, Gettysburg, Pa., 1863</subject>
+      <subject source="lcsh">Migration, Internal -- United States</subject>
+      <persname source="ingest">Cain, Patrick H.</persname>
+      <persname source="ingest">Draper, Lyman Copeland, 1815-1891</persname>
+      <corpname source="ingest">Normal College (Randolph County, N.C.)</corpname>
+      <persname source="ingest">Asbury, Francis, 1745-1816</persname>
+      <persname source="ingest">Battle, Kemp P. (Kemp Plummer), 1831-1919</persname>
+      <persname source="naf">Vance, Zebulon Baird</persname>
+      <famname source="ingest">Cain family</famname>
+      <persname source="ingest">Polk, Leonidas, 1806-1864</persname>
+      <persname source="ingest">Worth, Jonathan, 1802-1869</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref15_dkf" level="series">
+        <did>
+          <unittitle>Letters</unittitle>
+          <unitdate type="inclusive">1824-1940</unitdate>
+        </did>
+        <c02 id="aspace_ref16_mj0" level="file">
+          <did>
+            <unittitle>1824-1878</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <container id="aspace_8d56932e59ae319af6c089a0e4572e5f" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref18_pb3" level="file">
+          <did>
+            <unittitle>1879-1897</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <container id="aspace_5c1e4f234bce930e0e6e4bbe0aeb9c03" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_3e27beb2735ac971fa405185fc214992" level="file">
+          <did>
+            <unittitle>1898-1912</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <container id="aspace_a399ea7f5bebe7846b00cb299f061285" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_a5c5fd226a4981be5a3d0209ad99d230" level="file">
+          <did>
+            <unittitle>1913-1940</unittitle>
+            <container id="aspace_affa4b7431940ac5b03f2c553bd504fc" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref19_675" level="series">
+        <did>
+          <unittitle>Legal Papers</unittitle>
+          <unitdate type="inclusive">1783-1924</unitdate>
+        </did>
+        <c02 id="aspace_ref20_0uz" level="file">
+          <did>
+            <unittitle>1783-1827</unittitle>
+            <container id="aspace_d027d7924d7374c020c436c7676fd740" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_e047826e464919b957b16609aa75acef" level="file">
+          <did>
+            <unittitle>1783-1827 oversize</unittitle>
+            <container id="aspace_42570b49e732b5b02b7cd4effe7bcf28" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref22_gv4" level="file">
+          <did>
+            <unittitle>1828-1846</unittitle>
+            <container id="aspace_634935a586f661926bba800b4dd134d4" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_68be5b98a2a22d5069c06d5a74bf4e29" level="file">
+          <did>
+            <unittitle>1847-1856</unittitle>
+            <container id="aspace_a597e2a8e9e895b9f07446764603631c" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ec33cc5499fb8a52471e0ae753a908d6" level="file">
+          <did>
+            <unittitle>1857-1860</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <container id="aspace_c1fc25431f0fb42afa9fddd8c7d82ffa" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c62c2fcb763a2f4c370f8bd40f469f0c" level="file">
+          <did>
+            <unittitle>1861-1876</unittitle>
+            <container id="aspace_958510274cf541c686e85073e3b45f34" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_10aea1a159542b5995282ead58785406" level="file">
+          <did>
+            <unittitle>1878-1896</unittitle>
+            <container id="aspace_e8bc887924c9951b4d63787caa089ab2" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_3f54661c9bf221345eb5612df9273334" level="file">
+          <did>
+            <unittitle>1897-1924</unittitle>
+            <container id="aspace_eb287fc4de791cd80033c083e8de23a9" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref24_3gr" level="series">
+        <did>
+          <unittitle>Bills, Receipts</unittitle>
+          <unitdate type="inclusive">1811-1940</unitdate>
+        </did>
+        <c02 id="aspace_ref25_51f" level="file">
+          <did>
+            <unittitle>1811-1830s</unittitle>
+            <container id="aspace_92fb7b291f84ba0af0eaaaa20645fc49" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref27_2xe" level="file">
+          <did>
+            <unittitle>1840s</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3
+                folders</extent></physdesc>
+            <container id="aspace_ffd9d433e38e4fafddc7e37425185301" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_39t" level="file">
+          <did>
+            <unittitle>1850s</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3
+                folders</extent></physdesc>
+            <container id="aspace_f92bc3fa4563aa73c1fdbeae13b17120" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_97b10298e1c099cd429064316c963cb1" level="file">
+          <did>
+            <unittitle>1860s</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <container id="aspace_0bf1f2cdf485e4b14156200c49980b8f" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_5bf2ffcdda4eb5bb0d4fd3d5e93c5c16" level="file">
+          <did>
+            <unittitle>1870s</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <container id="aspace_5739a370d4529f4bd1acc61b20511845" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_0e8b28b49b355e1e0e3f060b15e99656" level="file">
+          <did>
+            <unittitle>1880s-1890s</unittitle>
+            <container id="aspace_390f1f0000f3532bdf0098ac99e97856" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_36a3f023f676ca5e0d7f4c81b4e90079" level="file">
+          <did>
+            <unittitle>1890s</unittitle>
+            <container id="aspace_9d3bf96e9f92867bb8e0287b10be8c38" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_2b4b87ec51aed8f14af66fdc23073900" level="file">
+          <did>
+            <unittitle>1900-1909</unittitle>
+            <container id="aspace_028d2d3e84e5803842c4b42e77ff5783" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_855e67a084eaf4e391466d7a6594519c" level="file">
+          <did>
+            <unittitle>1912-1940</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <container id="aspace_f261759c7cc7bf87f0f6a46fc1125619" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_71e383650f9539d571909b0159d2dc05" level="series">
+        <did>
+          <unittitle>Miscellany and Printed Material</unittitle>
+          <unitdate type="inclusive">1841-1938</unitdate>
+        </did>
+        <c02 id="aspace_ref31_cdr" level="file">
+          <did>
+            <unittitle>Miscellany and Printed Material</unittitle>
+            <unitdate type="inclusive">1857-1938</unitdate>
+            <container id="aspace_70cc75e6c60a2f659616557cdf66f8c4" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4d7c77903c580cd681b30982c93535eb" level="file">
+          <did>
+            <unittitle>Miscellany and Printed material oversize</unittitle>
+            <unitdate>1841</unitdate>
+            <container id="aspace_1fcc923d3ffbb8100bd7c6e7541ed304" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref34_yqu" level="series">
+        <did>
+          <unittitle>Volumes</unittitle>
+        </did>
+        <c02 id="aspace_ref32_ho1" level="file">
+          <did>
+            <unittitle>Volumes</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">12
+                folders</extent></physdesc>
+            <unitdate type="inclusive">1833-1935</unitdate>
+            <container id="aspace_57c166dc49dbbfd4d250dd55b87a4a6c" label="Mixed Materials"
+              type="box">2-3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4325f349a68b1ddb3428b3da713c1341" level="file">
+          <did>
+            <unittitle>Volumes</unittitle>
+            <unitdate normal="1881/1892" type="inclusive">1881-1885, 1891-1892</unitdate>
+            <container id="aspace_959db1e449120c427f7bbea1c8509252" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_2080145c4116d135fcdf1b61e946fa19" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate type="inclusive">1840-1844</unitdate>
+            <container id="aspace_9687ca33fa48339707a3c491c53d4b25" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref35_6ac" level="file">
+          <did>
+            <unittitle>John M. Cain Ledger</unittitle>
+            <unitdate type="inclusive">1906-1925</unitdate>
+            <container id="aspace_675fce41c7f487527430824d4b1078af" label="Mixed Materials"
+              type="volume">F:6868</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

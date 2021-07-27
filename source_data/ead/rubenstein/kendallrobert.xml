@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/kendallrobert/"
+         >kendallrobert</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Preliminary Guide to the Robert Kendall Papers, 1990-2010
+                  <num>RL.10154</num>
+            </titleproper>
+            <author>Processed by: Meghan Lyon; machine-readable finding aid created by: Meghan
+               Lyon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">005752508</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 18:25:45
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Robert Kendall papers</unittitle>
+         <origination label="creator">
+            <persname rules="dacs" source="naf">Kendall, Robert</persname>
+         </origination>
+         <unitid>RL.10154</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1990/2010" type="inclusive">1990-2010</unitdate>
+         <physloc id="aspace_3008fb50ecbcd8f8386a6a127ed15554">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_2f4b9c56d15bbae6993e1c9c6d63d0e1">Hypertext poet and author; member of
+            the Electronic Literature Organization. Collection includes Kendall's electronic
+            equipment, manuscript drafts of his poetry, and electronic media of published and
+            unpublished poems by Kendall and other hypertext authors. The majority of this
+            collection is closed to research until use copies of electronic media can be
+            made.</abstract>
+         <physdesc id="aspace_327d0e30133e0d29b9a102fdf8766739">
+            <extent>5000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_569b4ed4c834fe959971da7342ee1ce2">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_99bcb76937ca60afcbf53861fdfb5a1f">
+         <head>Access Restrictions</head>
+         <p>Collection is restricted. Electronic media and files are closed until use copies can be
+            made. Also, no publication of any portion of the email correspondence in the collection
+            is allowed without the written permission of the Donor (for emails written by the Donor)
+            or the writer of the email (for emails sent to the Donor). </p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_e6574dc2e6167e1226e1a9b929a8eb81">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_fbe7d2d6dffee77be5400b3404ee5959">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Robert Kendall Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_ca9bc1a6bedcd9b811c775e3fc0614a6">
+         <head>Provenance</head>
+         <p>The Robert Kendall Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 2012.</p>
+      </acqinfo>
+      <processinfo id="aspace_e303c408e46b4a4e103225470423844a">
+         <head>Processing Information</head>
+         <p>Processed by Meghan Lyon, January 2013</p>
+         <p>Encoded by Meghan Lyon, January 2013</p>
+         <p>Accession(s) described in this finding aid: 2012-0262, 2012-0234</p>
+         <p>Materials may not have been ordered and described beyond their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_e7b9f240718ec3f36980137a796296d3">
+         <head>Historical Note</head>
+         <p>Robert Kendall has been creating interactive multimedia poetry since 1990, making him
+            one of the earliest practitioners of the form. He is the author of a book-length
+            hypertext poem, A Life Set for Two (Eastgate Systems, 1996). His hypertext poetry has
+            also appeared on disk in The Little Magazine and Version Box and is forthcoming in the
+            anthology Behind the Lines (Eastgate). It has appeared on the Web at Iowa Review Web,
+            BBC Online, Eastgate Hypertext Reading Room, Cauldron &amp; Net, and Cortland Review. A
+            Wandering City (Cleveland State University Poetry Center, 1992), his printed book of
+            poems, won the CSU Poetry Center Prize. Kendall's printed poetry has appeared widely in
+            magazines (including Rattapallax, Contact II, River Styx, New York Quarterly, Barrow
+            Street, and Indiana Review), and several anthologies have included his work. He has
+            received a New Jersey State Council on the Arts Fellowship for Literature and a New
+            Forms Regional Grant Program Award.</p>
+         <p>(Excerpted from Kendall's homepage, <extref
+               xlink:href="http://www.wordcircuits.com/kendall/bio.htm"
+               >http://www.wordcircuits.com/kendall/bio.htm</extref>)</p>
+      </bioghist>
+      <scopecontent id="aspace_1dda9bdc49b4ae8ded1bc7e74b8c3f5e">
+         <head>Collection Overview</head>
+         <p>Collection includes Kendall's early computers, hard drives, and electronic media, as
+            well as drafts and versions of his writings in paper and electronic formats. Manuscript
+            portion of the collection includes paper drafts of his electronic and print poems and
+            short stories. Also includes software and hardware manuals used to create e-poetry, and
+            electronic publications by other authors, collected by Kendall. The majority of this
+            collection is closed to research until use copies of electronic media can be made.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">Poetry -- 21st century</subject>
+         <subject source="lcsh">Poetry, Modern -- 20th century</subject>
+         <subject source="lcsh">Hypertext poetry</subject>
+         <corpname source="ingest">Electronic Literature Organization</corpname>
+         <persname rules="dacs" source="naf">Kendall, Robert</persname>
+         <persname rules="dacs" source="naf">Kendall, Robert</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_y73" level="series">
+            <did>
+               <unittitle>Papers and Electronic Media, 1990s-2000s</unittitle>
+               <physdesc id="aspace_8a11c2bb611d0b77480d0b01d5ca7d1c">
+                  <extent>5 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_44ac8bd52ac8b0219e2abb7241bc93fb">
+               <head>Scope and Contents note</head>
+               <p>Drafts of Kendall's writings and poetry, including both paper and electronic
+                  formats, as well as copies of electronically published writings by other hypertext
+                  and digital authors.</p>
+            </scopecontent>
+            <accessrestrict id="aspace_6bef3f78bad909a8901810d36dc7e99a">
+               <head>Conditions Governing Access note</head>
+               <p>[Original versions of electronic records are closed to use. To request access,
+                  please contact Research Services before coming to use this collection.]</p>
+            </accessrestrict>
+            <c02 id="aspace_ref14_8ii" level="file">
+               <did>
+                  <unittitle>Paper drafts of poetry</unittitle>
+                  <container id="aspace_31baea760809c1ec57ff54e1a6d3bf9c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+               <c03 id="aspace_ref15_05b" level="file">
+                  <did>
+                     <unittitle>Drafts of electronic poems</unittitle>
+                     <container id="aspace_48b796be42ca798e502b28e09d569d0d" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_f261d9df159f3cdd33cca082c6046652">
+                     <head>Scope and Contents note</head>
+                     <p>Drafts for the following electronic poems. The drafts for Faith reveal the
+                        working process for creating the "layered" structure of verses unique to
+                        this poem: exploring alternatives for early layers by circling different
+                        combinations of words in the final layer. The drafts for After Closing
+                        utilize pages of paper cut into strips and stapled together in the manner of
+                        Queneau's "Cent Mille Milliards de Poèmes."</p>
+                  </scopecontent>
+                  <c04 id="aspace_ref16_v4a" level="file">
+                     <did>
+                        <unittitle>It All Comes Down to _____ (SoftPoem)</unittitle>
+                        <container id="aspace_66cac1ea7192dcd9536810d78c9eabe4"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref17_n2c" level="file">
+                     <did>
+                        <unittitle>After Closing (Unpublished)</unittitle>
+                        <container id="aspace_e6fe7f187b7bb2778a73f2f84f7da59d"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref18_b8r" level="file">
+                     <did>
+                        <unittitle>Framework</unittitle>
+                        <container id="aspace_579f029802d52052dc789b3a5b6cba59"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref19_iuu" level="file">
+                     <did>
+                        <unittitle>Two Duets</unittitle>
+                        <container id="aspace_966af5248634dc1c196e74f1d824bcc6"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref20_9bp" level="file">
+                     <did>
+                        <unittitle>Dispossession</unittitle>
+                        <container id="aspace_842ed26e23737bab7903e4caa8b707b9"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref21_h4q" level="file">
+                     <did>
+                        <unittitle>Penetration</unittitle>
+                        <container id="aspace_f1fbc3cee3cc63c6eb403aa37ffcae24"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref22_as8" level="file">
+                     <did>
+                        <unittitle>Clues</unittitle>
+                        <container id="aspace_02395de4a7cc9f75ec1290fa78cb9483"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref23_fzi" level="file">
+                     <did>
+                        <unittitle>Faith</unittitle>
+                        <container id="aspace_6c6bda2335c80dc05a8da1e7ecd7f86e"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref24_wp5" level="file">
+                     <did>
+                        <unittitle>In the Garden of Recounting</unittitle>
+                        <container id="aspace_cd5d0c5617ec5c735c4266f77a350567"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref25_b2j" level="file">
+                     <did>
+                        <unittitle>Candles for a Street Corner</unittitle>
+                        <container id="aspace_3bd5af64993f6ccc4e12932024f1bf5c"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref26_zp3" level="file">
+                     <did>
+                        <unittitle>Paper Music, Ear Ink</unittitle>
+                        <container id="aspace_79506968bfd71f82dd7d6ebe6b8b5778"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref27_pce" level="file">
+                     <did>
+                        <unittitle>The Visitation of St. America (work in progress, started in
+                           1997)</unittitle>
+                        <container id="aspace_18be719fc76aa84b9f564ddaedb44ba1"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref28_rjx" level="file">
+                     <did>
+                        <unittitle>Life Story (work in progress; print version entitled "You're
+                           Waiting for It to Ring the Bell?")</unittitle>
+                        <container id="aspace_27482932512d58884a07132acfac626f"
+                           label="Mixed Materials" type="box">1</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref30_xfy" level="file">
+                  <did>
+                     <unittitle>Drafts for Logozoa texts</unittitle>
+                     <container id="aspace_549e165fd1b0d57bd5b98dabe0b62549" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref31_o81" level="file">
+               <did>
+                  <unittitle>Drafts for print poems</unittitle>
+                  <container id="aspace_fd646427fbeee6812a86f2d236a11d99" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <scopecontent id="aspace_9d57ee30e6402001718f0a4e9ad6d91c">
+                  <head>Scope and Contents note</head>
+                  <p>Drafts for poems intended for a second book of print poems that is unpublished.
+                     Paper drafts for "A Life Set for Two" and drafts for printed book "A Wandering
+                     City." Among the latter are also drafts of early poems that were not included
+                     in the book.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref33_3ig" level="file">
+               <did>
+                  <unittitle>Drafts for print poems: A Wandering City</unittitle>
+                  <container id="aspace_159d2440aa1ba8f8ba772d9d1ae201e4" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_3qw" level="file">
+               <did>
+                  <unittitle>Software used to create e-poetry</unittitle>
+                  <container id="aspace_a01b9f78a523741d9d64d8c1ef0425ed" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_gmr" level="file">
+               <did>
+                  <unittitle>Hardware manuals</unittitle>
+                  <container id="aspace_cea25493f4b017395cf6fc8e307d0f54" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_bxd" level="file">
+               <did>
+                  <unittitle>Videos (The Clue: A MiniMystery)</unittitle>
+                  <container id="aspace_574af05120ddd87bd3fbacb201afea65" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_hd7" level="file">
+               <did>
+                  <unittitle>Eastgate Systems Publications</unittitle>
+                  <container id="aspace_cb317cae9bfa42004684ceb5309134a7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_hrc" level="file">
+               <did>
+                  <unittitle>3.5" diskettes</unittitle>
+                  <container id="aspace_d4a4c247f718f478bb7c6b361e903231" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+               <scopecontent id="aspace_ed6b0cc610c251b1d06ef9df67eeba58">
+                  <head>Scope and Contents note</head>
+                  <p>Includes works by individual authors, magazines and collections, and literary
+                     authoring systems. All disks require migration to the library servers before
+                     researchers can access the material.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref40_e11" level="file">
+               <did>
+                  <unittitle>5.25" diskettes</unittitle>
+                  <container id="aspace_bd9d07a4db7a7c7bfe566f2f809b9953" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_ush" level="file">
+               <did>
+                  <unittitle>Packaged works on 3.5" diskettes</unittitle>
+                  <container id="aspace_3b8a2a0481a83ff1a675841a07a2c9ea" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_djq" level="file">
+               <did>
+                  <unittitle>Storyspace manuals and installation disks</unittitle>
+                  <container id="aspace_8c6aa2b2d5037c0e792d252545bfcb1f" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_3an" level="file">
+               <did>
+                  <unittitle>CD-ROMs</unittitle>
+                  <container id="aspace_5caef9c45ea7b4f4cf24194ebccc8a1c" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_yq2" level="file">
+               <did>
+                  <unittitle>Windows 3.0</unittitle>
+                  <container id="aspace_e6926226439665d499064b8ab4bfb67a" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_c3q" level="file">
+               <did>
+                  <unittitle>Publications by Kendall, on disk</unittitle>
+                  <container id="aspace_d4af680b2c6b8b665768b10df6437391" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <c03 id="aspace_ref46_24l" level="file">
+                  <did>
+                     <unittitle>A Wandering City</unittitle>
+                     <container id="aspace_68121f5eea68d839a36602a5d47ef455" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_8wz" level="file">
+                  <did>
+                     <unittitle>A Life Set for Two</unittitle>
+                     <container id="aspace_cf6b9225cfda05a85a60052c8ccaa21b" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_lk6" level="file">
+                  <did>
+                     <unittitle>Electronic Literature Collection on CD</unittitle>
+                     <container id="aspace_987a68a4648741d17a6903144a59bc9c" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_9tp" level="file">
+                  <did>
+                     <unittitle>Black Swan Review's special issue "Illiterature," co-edited by
+                        Kendall</unittitle>
+                     <container id="aspace_d9fee01ddbb0823ba5ca5ffafa35a221" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_i3p" level="file">
+                  <did>
+                     <unittitle>WriteTrak disks</unittitle>
+                     <container id="aspace_fb28462c222557230d5b570ba092a065" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref51_ajp" level="file">
+               <did>
+                  <unittitle>Version Box</unittitle>
+                  <container id="aspace_dd978a7f6e612c35bc679ee278442a42" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_3253e666443f2db3e25999767b66d598">
+                  <head>Scope and Contents note</head>
+                  <p>This box contains various works of physical artwork, along with copies of "The
+                     Clue: A MiniMystery" and 3 works of e-poetry by French authors on floppy disk.
+                     The French authors are Philippe Bootz, Jean Louis Boissier, and Michel Butor.
+                     This collection was assembled as part of the Version 2.2 Festival in Geneva,
+                     Switzerland, held in 1996. Kendall participated in the festival, reading "The
+                     Clue."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref53_lod" level="file">
+               <did>
+                  <unittitle>Brochures and programs related to Kendall's e-poetry</unittitle>
+                  <container id="aspace_105528322073b9a7c2f4b9690892948b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_r3n" level="file">
+               <did>
+                  <unittitle>Unpublished works</unittitle>
+                  <container id="aspace_c92592a1e82923fb9b59ddfed18ba0ff" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+               <scopecontent id="aspace_77a3dfc1264d63d4fadd8c4bd71a92fc">
+                  <head>Scope and Contents note</head>
+                  <p>Includes short stories, poetry, and publication software for Eastgate
+                     Systems.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref56_5p5" level="file">
+               <did>
+                  <unittitle>Personal correspondence, 1992-1996</unittitle>
+                  <container id="aspace_c65a627e14733de83226fa6d33b2c974" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_pgx" level="file">
+               <did>
+                  <unittitle>Published articles</unittitle>
+                  <container id="aspace_db341a09e27f00ea2d28c8a9a7ea80c0" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_4xv" level="file">
+               <did>
+                  <unittitle>Drafts of A Wandering City, other poems</unittitle>
+                  <physdesc id="aspace_2662b4b23416dd143ec1e4cee8e2c2e8">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_57ae7b2578a6b801a77443da6966cca7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_rgt" level="file">
+               <did>
+                  <unittitle>Publicity and reviews</unittitle>
+                  <container id="aspace_a4d9485c6e351facda86e4fc482c4bc3" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_xto" level="file">
+               <did>
+                  <unittitle>Bound volumes of published works, 1984-1986</unittitle>
+                  <container id="aspace_a5a7e1673a76eb683924e9c6c9add56e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_xkl" level="file">
+               <did>
+                  <unittitle>Bound volumes of published works, 1986-1993</unittitle>
+                  <container id="aspace_724de9d8961e33f387ca34367734376f" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_i5y" level="file">
+               <did>
+                  <unittitle>Bound volumes of published works, 1985-2002</unittitle>
+                  <container id="aspace_5578f99be4c8363d8b0a90999edbaf78" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref66_x41" level="series">
+            <did>
+               <unittitle>Electronic Equipment</unittitle>
+               <physdesc id="aspace_2f0c7cf71e5ea027c5bc2430922c80ba">
+                  <extent>6 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_3a5f08cda82ade6b72e69666dbf81f4f">
+               <head>Scope and Contents note</head>
+               <p>Computers, monitors, and speakers used for installations of Kendall's work in the
+                  1990s. These materials are currently being evaluated for their content and are
+                  closed pending processing.</p>
+            </scopecontent>
+            <c02 id="aspace_ref68_zpa" level="file">
+               <did>
+                  <unittitle>Computers and hardware</unittitle>
+                  <container id="aspace_d7aa3e1f2ac177a282f6f6163d7658dc" label="Mixed Materials"
+                     type="box">9-14</container>
+               </did>
+               <accessrestrict id="aspace_7ac8984aad2f78ae69c0219e4756e03d">
+                  <head>Conditions Governing Access note</head>
+                  <p>[Closed pending review.]</p>
+               </accessrestrict>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

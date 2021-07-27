@@ -1,0 +1,2373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD" url="https://idn.duke.edu/ark:/87924/m1sh43"
+      >thomaswilliamholland</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William Holland Thomas papers, 1814-1900s and undated
+            <num>RL.01290</num></titleproper>
+        <author>Processed by: Meghan Lyon</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>2017</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">000875826</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-10-05 14:20:05
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+      <change>
+        <date>2017</date>
+        <item>reprocessed and series added. collection description updated in preparation for
+          digitization.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>William Holland Thomas papers</unittitle>
+      <origination label="Creator">
+        <persname source="ingest">Thomas, William Holland, 1805-1893</persname>
+      </origination>
+      <unitid>RL.01290</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">30 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1814/1900" type="inclusive">1814-1900s and undated</unitdate>
+      <abstract id="aspace_7f3f02af05b6ce1b5672c123b49e2c5c">White agent and representative for the
+        Cherokee, merchant, lawyer, and trader, of Haywood Co., N.C. Collection includes
+        correspondence, account books, day books, ledgers, and other papers, relating to Thomas's
+        life in western North Carolina; the removal of the Cherokee and the status of those who
+        remained; the development of intrastructure including turnpikes and railroads in North
+        Carolina; Civil War fighting in east Tennessee; postwar administration of Indian affairs;
+        and his private business operations as a white trader among the Cherokees. Includes records
+        of Thomas's five stores in Haywood and Cherokee counties, and business correspondence and
+        accounts of Thomas's son, also William Holland Thomas, a merchant and farmer of Jackson
+        County, N.C.</abstract>
+      <langmaterial id="aspace_6b386abe5be2d25767a9123fb54d55de">Material in English and
+        Cherokee</langmaterial>
+    </did>
+    <accessrestrict id="aspace_fbd2f051dbe35db2db16e20abb404a86">
+      <head>Access Restrictions</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_9896d17f39b1f8638e0b3c62ae9c9059">
+      <head>Copyright Notice</head>
+      <p>The copyright interests in this collection have not been transferred to Duke University.
+        For more information, consult the copyright section of the Regulations and Procedures of the
+        David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+    </userestrict>
+    <prefercite id="aspace_17a2d4fe1c0c34d40d4c02641e4e993f">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], William Holland Thomas Papers, David M. Rubenstein Rare Book
+        &amp; Manuscript Library, Duke University.</p>
+    </prefercite>
+    <acqinfo id="aspace_ccdc2a8edf31094a0b26b49c2b8a22cf">
+      <head>Provenance</head>
+      <p>The William Holland Thomas papers were received by the David M. Rubenstein Rare Book &amp;
+        Manuscript Library between 1938 and 1952, with an addition acquired in 2018.</p>
+    </acqinfo>
+    <processinfo id="aspace_ac55f2d6e0c54616e70a47f61a4f8844">
+      <head>Processing Information</head>
+      <p>Processed by Meghan Lyon, Sept. 2017 </p>
+      <p>Encoded by Meghan Lyon, Sept. 2017</p>
+      <p>Accession(s) described in this finding aid: 1938 to 1952; 2018-0106.</p>
+    </processinfo>
+    <bioghist id="aspace_6244c696cd4b387283afff00902ce65d">
+      <head>Biographical Note</head>
+      <p>William Holland Thomas (1805-1893) was a white agent for the Cherokee in Western North
+        Carolina. He also worked as a merchant, lawyer, and trader, based in Haywood Co., N.C. He
+        also served as a colonel in the Confederate Army during the Civil War and led Thomas's
+        Legion, which enlisted both Cherokee and Southern white recruits.</p>
+    </bioghist>
+    <scopecontent id="aspace_10abd8beadff7948bb227c21cb321f9e">
+      <head>Collection Overview</head>
+      <p>Collection contains letters and papers of William H. Thomas (1805-1893) concerning his life
+        and businesses in western North Carolina; his role as a white agent representing the Indians
+        in negotiations and communications with the U.S. government; the removal of the Eastern Band
+        of Cherokee on the Trail of Tears; the legal and financial conditions of Cherokee who
+        remained behind in North Carolina; the building of roads and railroads through Western North
+        Carolina; fighting during the Civil War in East Tennessee, including Thomas's leadership of
+        Thomas's Legion in the Confederate Army; postwar administration of Indian affairs; and
+        private business of Thomas, including some documentation of his declining health and his
+        institutionalization for mental instability. There are also account books, day books, and
+        ledgers showing a record of goods bought and sold in Thomas's five stores in Haywood and
+        Cherokee counties. Included also are business correspondence and miscellaneous accounts,
+        1875-1890, of his son, William Holland Thomas, Jr., merchant and farmer of Jackson County,
+        North Carolina.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Cherokee Indians -- Legal status, laws, etc.</subject>
+      <subject source="lcsh">Cherokee Indians -- Government relations</subject>
+      <subject source="lcsh">General stores -- North Carolina -- Cherokee County</subject>
+      <subject source="lcsh">Farmers -- North Carolina -- Jackson County</subject>
+      <geogname source="lcsh">Cherokee County (N.C.) -- History</geogname>
+      <geogname source="lcsh">Tennessee -- History -- Civil War, 1861-1865</geogname>
+      <subject source="lcsh">Indians of North America -- North Carolina</subject>
+      <geogname source="lcsh">Jackson County (N.C.) -- History</geogname>
+      <subject source="lcsh">General stores -- North Carolina -- Haywood County</subject>
+      <geogname source="lcsh">Haywood County (N.C.) -- History</geogname>
+      <subject source="lcsh">Roads -- North Carolina</subject>
+      <subject source="lcsh">Merchants -- North Carolina -- Haywood County</subject>
+      <subject source="lcsh">Railroads -- North Carolina</subject>
+      <geogname source="lcsh">Eastern Band of Cherokee Indians -- History</geogname>
+      <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
+      <subject source="lcsh">Trail of Tears, 1838-1839</subject>
+      <corpname source="ingest">Confederate States of America. Army -- Officers --
+        Correspondence</corpname>
+      <corpname source="naf">Confederate States of America. Army. Thomas Legion</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_d8ced5969882fbee3472e7e6d5fd1702" level="series">
+        <did>
+          <unittitle>General papers</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1814/1909" type="inclusive"
+            >1814-1900s</unitdate>
+        </did>
+        <scopecontent id="aspace_d83d940a49cc61a04fdf2b8a8909a01e">
+          <head>Scope and Contents</head>
+          <p>Thomas's assorted correspondence along with extensive notes, loose account pages, and
+            other miscellaneous items are sorted chronologically by year into General Papers. There
+            are also volumes with travel diaries for various business ventures and letterbooks with
+            copies of his incoming and outgoing correspondence. This series documents his various
+            businesses and investments, his Confederate service during the Civil War, his work as an
+            Indian agent, and his family life and friendships. Additional material on his work with
+            the Eastern Band of Cherokee can be found in the Cherokee Papers Series; additional
+            contracts, reports, and petitions relating to railroads and turnpikes can be found in
+            the Infrastructure Series.</p>
+        </scopecontent>
+        <c02 id="aspace_7ff182683b92b46ad1f6c3d3caf2d8fb" level="file">
+          <did>
+            <unittitle>General papers</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">23
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1814/1842" type="inclusive"
+              >1814-1842</unitdate>
+            <container id="aspace_2e2543cd8a217158453d97be953734b4" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_1e55bf2794a49416446e688987b62fbd" level="file">
+          <did>
+            <unittitle>General papers</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">11
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1843/1851" type="inclusive"
+              >1843-1851</unitdate>
+            <container id="aspace_e8a72cefa51ae6eabd59627c2ed1841f" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4c009eb776a3d9e259e358142e4723be" level="file">
+          <did>
+            <unittitle>General papers</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">23
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1852/1874" type="inclusive"
+              >1852-1874</unitdate>
+            <container id="aspace_266a946f0e1cf15257b58195b923fa88" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b99923355202dbc40301544887b8f588" level="file">
+          <did>
+            <unittitle>General papers</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">7
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1875/1909" type="inclusive"
+              >1875-1900s</unitdate>
+            <container id="aspace_2a2bbfc917884193ea121ce7e529abf1" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_97474aabe5374a93ef103daacdacac8f" level="file">
+          <did>
+            <unittitle>Memorandum, correspondence, legal papers, notes</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_df3343b03fbf42790d40993464a83bb1" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_af02bb8e705d827150cbd56abf1e1cfe" level="file">
+          <did>
+            <unittitle>Newspaper clippings</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1809" type="inclusive"
+              >1800s</unitdate>
+            <container id="aspace_1b30ca64bf587121ee62c8f5a5f99f07" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref119_79u" level="file">
+          <did>
+            <unittitle>Depositions, legal notes, etc.</unittitle>
+            <unitdate normal="1827/1843" type="inclusive">1827-1843</unitdate>
+            <physdesc id="aspace_56ccb184e3fe57357f2605ea13cfd459">Volume (boards); 16x19 cm; 150
+              pages</physdesc>
+            <container id="aspace_1aa5b224b1df8ec4a185dc3dafaae70f" label="Mixed Materials"
+              type="volume">M:3894</container>
+          </did>
+          <scopecontent id="aspace_2700d68b4f346a22a331a353028982a6">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Copies of legal depositions, bills of sale, court judgments, and
+              other cases regarding accusations of fraud, real estate exchanges, receipts, evidence,
+              and memorandum.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref46_rc7" level="file">
+          <did>
+            <unittitle>Diary and Account Book</unittitle>
+            <unitdate normal="1839/1841" type="inclusive">1839-1841</unitdate>
+            <physdesc id="aspace_07edf4511719d77f06b89930a345635d">Volume (paper); 10x15 cm; 82
+              pages</physdesc>
+            <container id="aspace_677851e87220b923efe0bb7aa418ed76" label="Mixed Materials"
+              type="volume">S:3857</container>
+          </did>
+          <scopecontent id="aspace_25f61c6d2d52d822eab22ed5c9d597fa">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C.. Includes an account of a trip to Louisiana in March 1839.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref121_67h" level="file">
+          <did>
+            <unittitle>Diary and Account Book</unittitle>
+            <unitdate normal="1840/1840" type="inclusive">1840</unitdate>
+            <physdesc id="aspace_c8cba46f147de86ee972a0a6c1e9a1ef">Volume (paper); ; 20
+              pages</physdesc>
+            <container id="aspace_994c358cfa3dcd4e9bfbbb321d95654b" label="Mixed Materials"
+              type="volume">S:3895</container>
+          </did>
+          <scopecontent id="aspace_6d54f2d971fcebfae447155185b67073">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Thomas describes a trip to Athens, Georgia.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref167_0m2" level="file">
+          <did>
+            <unittitle>Letterbook</unittitle>
+            <unitdate normal="1835/1842" type="inclusive">1835-1842</unitdate>
+            <physdesc id="aspace_661c1dfb9a4832386b2a8e5ae2d59276">Volume (boards); 20x32 cm; 76
+              pages</physdesc>
+            <container id="aspace_7918cbca6406e56fac6bc5aeee761f92" label="Mixed Materials"
+              type="volume">L:3918</container>
+          </did>
+          <scopecontent id="aspace_457cabc0fe8ff2377de6ad14d347401d">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Includes Scott's Creek store payments and bills,
+              as well as copies of outgoing correspondence by Thomas regarding store and other
+              business matters.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref171_zan" level="file">
+          <did>
+            <unittitle>Letterbook</unittitle>
+            <unitdate normal="1858/1858" type="inclusive">1858</unitdate>
+            <physdesc id="aspace_714b71ab31060c450c664905234eaf48">Volume (boards); 15x19 cm; 24
+              pages</physdesc>
+            <container id="aspace_b7320c25e502f1121025ea9c19200ed4" label="Mixed Materials"
+              type="volume">M:3920</container>
+          </did>
+          <scopecontent id="aspace_806b7be9ace79f0d8ee0a28c386977f4">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Copies and abstract of letters sent by Thomas.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref54_r19" level="file">
+          <did>
+            <unittitle>Account Book ("Journal of the business of Anson Banks and Co.")</unittitle>
+            <unitdate normal="1853/1878" type="inclusive">1853, 1878</unitdate>
+            <physdesc id="aspace_31f33b0f69b9481226345471f0461e9c">Volume (calf); 9.5x15 cm; 98
+              pages</physdesc>
+            <container id="aspace_fdd779c0a55bee1c16bcd84f3662a486" label="Mixed Materials"
+              type="volume">S:3861</container>
+          </did>
+          <scopecontent id="aspace_3d762686abd1fb901dfe13e0703ffbf9">
+            <head>Scope and Contents note</head>
+            <p>Junaluska, Jackson County, N.C. Book originally included journal and account of the
+              Anson Bangs Co. (1853), but was later annotated and supplemented with accounts from
+              William H. Thomas, Jr. in 1878. A note on the inside cover explains how Thomas came
+              into possession of of the book. On page 53, Thomas notes that his father was released
+              from the asylum after one year on May 10, 1878.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref12_b24" level="series">
+        <did>
+          <unittitle>Financial and business papers</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1826/1899" type="inclusive"
+            >1826-1890s</unitdate>
+        </did>
+        <scopecontent id="aspace_4fde4dcaae02d46bb82884cb211cacf5">
+          <head>Scope and Contents</head>
+          <p>This series includes a portion of Thomas's documentation regarding his business
+            ventures and financial obligations. His account books and ledgers include a wide range
+            of customer accounts, inventories, and store management records for stores he owned and
+            operated in Murphy, Qualla Town, and Scott's Creek, North Carolina. There is also
+            substantial additional material, including settlements of individual accounts, filed in
+            the General Papers series and in the Cherokee Papers series.</p>
+          <p>The account books and ledgers are in varying condition. Account books specifically
+            dealing with Thomas's Cherokee customers have been filed in the Cherokee Papers series;
+            additional assorted records of Thomas's business transactions with Cherokee can be found
+            in this series or in General Papers.</p>
+          <p>There is also a significant amount of receipts, some sorted loosely by date and some
+            entirely unsorted. Though the bulk of these files are actually receipts, there are also
+            invoices, bills, and other paper scraps related to financial exchanges of goods, labor,
+            and products, including agricultural goods. There is some documentation of enslaved
+            people being bought and sold. </p>
+        </scopecontent>
+        <c02 id="aspace_ref30_94g" level="file">
+          <did>
+            <unittitle>Account Book, 1834-1836</unittitle>
+            <unitdate normal="1834/1836" type="inclusive">1834-1836</unitdate>
+            <physdesc id="aspace_d9775857294fb49ce4c0310a90420f95">Volume (boards); 20x34 cm.; 122
+              pages</physdesc>
+            <container id="aspace_4c45eff1f49099f81705a4ecb286aa5c" label="Mixed Materials"
+              type="volume">F:3849</container>
+          </did>
+          <scopecontent id="aspace_87dd6f918aab2fc2f971151f19d80f30">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Contains a list of 16 "Rules of Shoal Creek
+              Store," one of them being "Sell to all customers alike. Let not the price vary on any
+              Article in order to do so keep the price of the goods marked on Each Article." Also
+              contains customer accounts; billing accounts for leather, salt, and other goods;
+              spending accounts for purchases in Augusta and Philadelphia.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref32_tv7" level="file">
+          <did>
+            <unittitle>Accounts</unittitle>
+            <unitdate normal="1835/1839" type="inclusive">1835-1839</unitdate>
+            <physdesc id="aspace_ec4ff43e0d51badec2bdbc79d16088c4">Volume (boards); 20x38 cm.; 117
+              pages</physdesc>
+            <container id="aspace_e0e79be6fd098b968bb13175e07592c0" label="Mixed Materials"
+              type="volume">F:3850</container>
+          </did>
+          <scopecontent id="aspace_7b2f322b8ac90bd6b238ee09b20bd28c">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts and retail prices. Includes
+              notes from purchases in Augusta and Philadelphia.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref34_due" level="file">
+          <did>
+            <unittitle>Accounts, Records of Indebtedness and Inventory of Goods</unittitle>
+            <unitdate normal="1836/1853" type="inclusive">1836-1853</unitdate>
+            <physdesc id="aspace_33f4e4470b775940c7a43cb59ddcb48a">Volume (boards); 20x32 cm; 150
+              pages</physdesc>
+            <container id="aspace_89cf6a0039bc313fca43d94390abb159" label="Mixed Materials"
+              type="volume">L:3851</container>
+          </did>
+          <scopecontent id="aspace_3a1a09a9c1bc438882f9f3d886836f0b">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Includes accounts, lists of cash paid out on
+              debts, and bills of articles carried forward; contents include hard ware, jewelry,
+              crockery, among others.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref38_qnv" level="file">
+          <did>
+            <unittitle>Account Book: Inventory, Order Book, Notes and Accounts Due, Misc.
+              Accounts</unittitle>
+            <unitdate normal="1836/1841" type="inclusive">1836-1841</unitdate>
+            <physdesc id="aspace_3ffb8179ac59216fedeef25ad79106fa">Volume (boards); 20x31 cm; 160
+              pages</physdesc>
+            <container id="aspace_ee8868a4688f2ff8eee21a2ca73087a3" label="Mixed Materials"
+              type="volume">L:3853</container>
+          </did>
+          <scopecontent id="aspace_1587b2ef85d76028f4160c1858965ed2">
+            <head>Scope and Contents note</head>
+            <p>Indiantown / Quallatown, Haywood County, N.C. Multipurpose volume with sections
+              listing customer accounts owed and due (including Cherokee accounts); inventories of
+              stock; cash at the Indian Town stores; orders and debts from Thomas's purchases in
+              Charleston and Philadelphia.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref40_078" level="file">
+          <did>
+            <unittitle>Account Book</unittitle>
+            <unitdate normal="1837/1837" type="inclusive">1837</unitdate>
+            <physdesc id="aspace_5fb5de107cb5df66973579f9a9f61589">Volume (paper); 10x15.5 cm; 34
+              pages</physdesc>
+            <container id="aspace_cd27573db1e1674f986fefd7c8635c51" label="Mixed Materials"
+              type="volume">S:3854</container>
+          </did>
+          <scopecontent id="aspace_e3fbff6ae88021aa47711712ab2aee60">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Records of Thomas's personal accounts. Also includes to-do
+              lists.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref42_mxq" level="file">
+          <did>
+            <unittitle>Accounts ("Bill Book")</unittitle>
+            <unitdate normal="1837/1838" type="inclusive">1837-1838</unitdate>
+            <physdesc id="aspace_4b6586bf5d8c50ca9cfe9b63db88e975">Volume (boards); 16x38 cm.; 85
+              pages</physdesc>
+            <container id="aspace_0dbbd67776ed07b9acc6feccc44acc09" label="Mixed Materials"
+              type="volume">F:3855</container>
+          </did>
+          <scopecontent id="aspace_b9531545bbb05dc5c096f34e216cd188">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Expenses accrued by Thomas in Murphy, Athens,
+              Ga., and Philadelphia. Also contains customer accounts and inventories of goods.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref48_pv2" level="file">
+          <did>
+            <unittitle>Accounts ("List of goods sold"); Day Book</unittitle>
+            <unitdate normal="1845/1851" type="inclusive">1845-1851</unitdate>
+            <physdesc id="aspace_9139c9f042cc48b42fd3ff10230abeb6">Volume (disbound); 20x32 cm; 205
+              pages</physdesc>
+            <container id="aspace_e03f85100001e485f104008ad7a53fc4" label="Mixed Materials"
+              type="volume">L:3858</container>
+          </did>
+          <scopecontent id="aspace_287e30a83b130af6c71736491173bab8">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Daybook "Sail book" listing purchases
+              chronologically (1845-1849); account book listing purchases chronologically, grouped
+              by customer name (1849-1851).</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref50_epk" level="file">
+          <did>
+            <unittitle>Account Book</unittitle>
+            <unitdate normal="1849/1850" type="inclusive">1849-1850</unitdate>
+            <physdesc id="aspace_898c613ebb9e68c51f897eedb1bc37f1">Volume (boards); 20x32 cm; 263
+              pages</physdesc>
+            <container id="aspace_980c38f8b821f0858a7db0f944efa0a2" label="Mixed Materials"
+              type="volume">L:3859</container>
+          </did>
+          <scopecontent id="aspace_81b57e6ce696740c1648c203ebb6e995">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts, including alphabetical
+              index.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref52_yrg" level="file">
+          <did>
+            <unittitle>Account Book</unittitle>
+            <unitdate normal="1864/1864" type="inclusive">1864</unitdate>
+            <physdesc id="aspace_9dea28f960506678b22da16516d0befd">Volume (calf); 9.5x13 cm; 36
+              pages</physdesc>
+            <container id="aspace_f61125d9a9825d0cbf10e6ffe717b63d" label="Mixed Materials"
+              type="volume">S:3860</container>
+          </did>
+          <scopecontent id="aspace_99e2101709c6faa377607487fca5f292">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Includes accounts and lists of soldiers mustered into Thomas'
+              Legion.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref56_4zm" level="file">
+          <did>
+            <unittitle>Accounts ("White Customers")</unittitle>
+            <unitdate normal="1879/1880" type="inclusive">1879-1880</unitdate>
+            <physdesc id="aspace_ab2bdabe1968bcfbee7132f3abd54a20">Volume (calf and boards); 21x43
+              cm.; 350 pages</physdesc>
+            <container id="aspace_4981f23445c99043254d495adb89304c" label="Mixed Materials"
+              type="volume">F:3862</container>
+          </did>
+          <scopecontent id="aspace_4d171253cbba527e278a8381af38e015">
+            <head>Scope and Contents note</head>
+            <p>Junaluska, Jackson County, N.C. Largely blank book, with many torn-out pages;
+              contains assorted notes by Thomas, some recording expenses and financial accounts but
+              others relating to his travels and activities.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref58_2b8" level="file">
+          <did>
+            <unittitle>Accounts of Indebtedness</unittitle>
+            <unitdate normal="1839/1842" type="inclusive">1839-1842</unitdate>
+            <physdesc id="aspace_8450e6b2c2798b065b7b7671b3d8c15c">Volume (boards); 20x31 cm; 80
+              pages</physdesc>
+            <container id="aspace_7c6586480fa001bb000fef79070b2f50" label="Mixed Materials"
+              type="volume">L:3863</container>
+          </did>
+          <scopecontent id="aspace_8d55233adc859df32969d49648ccb763">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Lists of amounts due and brought over, including
+              columns with officers and Cherokee accounts.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref60_tql" level="file">
+          <did>
+            <unittitle>Cash Book</unittitle>
+            <unitdate normal="1837/1872" type="inclusive">1837-1872</unitdate>
+            <physdesc id="aspace_9e72fdde2fd19b997933ba9a54fac3f7">Volume (boards); 16x20 cm; 200
+              pages</physdesc>
+            <container id="aspace_76fec1c4b6b8cf424929937ab9dc27a0" label="Mixed Materials"
+              type="volume">M:3864</container>
+          </did>
+          <scopecontent id="aspace_ab2e5640b1a7e5d3f3e21ea0055e6efd">
+            <head>Scope and Contents note</head>
+            <p>Calhoun, Tenn. Multi-purpose book with cash accounts, customer accounts, employee
+              work records, memorandum and notes, as well as doodles and scribbles.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref62_vst" level="file">
+          <did>
+            <unittitle>Cash Book</unittitle>
+            <unitdate normal="1838/1838" type="inclusive">1838 March</unitdate>
+            <physdesc id="aspace_1ec0a75e69fb9e32e6421911a398221f">Volume (boards); 16.5x38.5 cm.;
+              100 pages</physdesc>
+            <container id="aspace_08b610c98029fe8563880ff2f0cc77ef" label="Mixed Materials"
+              type="volume">F:3865</container>
+          </did>
+          <scopecontent id="aspace_231735c4f8bc0dba9dd9ed2a155e1677">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Largely blank book. Contains accounts of cash taken in and cash
+              paid (and to whom), as well as some individuals' accounts. References "squaws," lists
+              names of individual customers, perhaps Cherokees.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref64_tug" level="file">
+          <did>
+            <unittitle>Collection Book</unittitle>
+            <unitdate normal="1834/1838" type="inclusive">1834-1838</unitdate>
+            <physdesc id="aspace_589c66dd200cc69700d42a9644ef18da">Volume (boards); 16x39 cm.; 200
+              pages</physdesc>
+            <container id="aspace_2b3b4ea3058eb30cd079f391d7e6e12b" label="Mixed Materials"
+              type="volume">F:3866</container>
+          </did>
+          <scopecontent id="aspace_21bc472add552482b720dbd738e5edb8">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer/loan expenses and notations regarding
+              repayment. Large portions blank.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref66_c6m" level="file">
+          <did>
+            <unittitle>Collection and Receipt Book</unittitle>
+            <unitdate normal="1875/1880" type="inclusive">1875-1880</unitdate>
+            <physdesc id="aspace_d4d6549269cfd48fd7aa107cc38a2b29">Volume (boards); 19x31 cm; 50
+              pages</physdesc>
+            <container id="aspace_35e08724e56c23866d7a482ea1b01ce6" label="Mixed Materials"
+              type="volume">L:3867</container>
+          </did>
+          <scopecontent id="aspace_b451dec8a725ac37eaa4167bcf50c38a">
+            <head>Scope and Contents note</head>
+            <p>Junaluska, Jackson County, N.C. Multipurpose book with many marks, torn pages, etc.
+              Assorted writings by Thomas, including his name many times. Also contains lists of
+              accounts collected by Ferrill in 1875.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref68_bkz" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1832/1833" type="inclusive">1832-1833</unitdate>
+            <physdesc id="aspace_8cbabc9e00e3608a24db9d8b697a2342">Volume (disbound); apprx. 16x40
+              cm.; unknown</physdesc>
+            <container id="aspace_e8077e25808e791a68f576bd1d04ad99" label="Mixed Materials"
+              type="volume">F:3868</container>
+          </did>
+          <scopecontent id="aspace_284bebab5f5fad15cab989a5aee994b3">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Daybook, with entries grouped by customer.
+              Includes notations about Indian customers.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref70_3uf" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1833/1834" type="inclusive">1833-1834</unitdate>
+            <physdesc id="aspace_442ce3de4bd0e07577f87143e17f2a01">Volume (paper); 16x40 cm.; 280
+              pages</physdesc>
+            <container id="aspace_485bf0f7716377b16abe93bc29259611" label="Mixed Materials"
+              type="volume">F:3869</container>
+          </did>
+          <scopecontent id="aspace_1db8546bf48adc771d27a632dd6d0419">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Chronological daybook, with customer expenses at
+              Scott's Creek store.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref72_34m" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1834/1835" type="inclusive">1834-1835</unitdate>
+            <physdesc id="aspace_4a0b79ad49ef64dfa27fa3e57f14a833">Volume (boards); 19x40 cm.; 231
+              pages</physdesc>
+            <container id="aspace_89084b2f5b127025a728191d628357a6" label="Mixed Materials"
+              type="volume">F:3870</container>
+          </did>
+          <scopecontent id="aspace_076f41d1697855daa0a89263841ee458">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Chronological daybook, with customer expenses and
+              credits at Scott's Creek store.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref74_3zn" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1836/1838" type="inclusive">1836-1838</unitdate>
+            <physdesc id="aspace_663403f215f6c6d410c9ee57b4bf1961">Volume (boards); 15x41 cm; 428
+              pages</physdesc>
+            <container id="aspace_81958492ac77c983f202306bf74cca23" label="Mixed Materials"
+              type="volume">F:3871</container>
+          </did>
+          <scopecontent id="aspace_dbe6ed56922bd77ebc7dfa93f28dabfd">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Daybook. Includes laid-in booklet of pages, same
+              size but separately bound (approx. 50 pages, includes index), documenting the
+              settlement of accounts following the 1836 Treaty between the U.S. government and
+              individual Cherokee families, with Thomas serving as agent. Regularly bound portion of
+              the daybook contains chronological entries of customer accounts, 1836-1838. The end of
+              the book has fold-out pages that seem to have been bound in later.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref76_3l6" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1836/1845" type="inclusive">1836-1845</unitdate>
+            <physdesc id="aspace_040979017a104ad71b86a11c415e4ad7">Volume (calf and boards);
+              17x47cm; 240 pages</physdesc>
+            <container id="aspace_c96da015381ef2cc17a3f1b371c4d391" label="Mixed Materials"
+              type="volume">F:3872</container>
+          </did>
+          <scopecontent id="aspace_f32ee7618754fa43ee9685d36f4b5a37">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Chronological daybook kept by Thomas and J.W. King with
+              customer entries of expenses/sales for Valley / Valey River (1836-1837); Fort Delaney
+              (1837-1838); and Murphy (1841?, 1843-1845).</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref78_g93" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1837/1837" type="inclusive">1837</unitdate>
+            <physdesc id="aspace_7cf97e9e501ffbaa78fddc8fc1295df6">Volume (boards); 16x41 cm.; 300
+              pages</physdesc>
+            <container id="aspace_2439af35dc1327dff9b92e112d9f5767" label="Mixed Materials"
+              type="volume">F:3873</container>
+          </did>
+          <scopecontent id="aspace_a4304154ff4e310c14de3347dc362be2">
+            <head>Scope and Contents note</head>
+            <p>Indiantown, [Quallatown], Haywood County, N.C. Chronological daybook with customer
+              entries of expenses/sales for Indian Town.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref80_c7s" level="file">
+          <did>
+            <unittitle>Day Book ("Day book for 1838 by J. W. King")</unittitle>
+            <unitdate normal="1837/1839" type="inclusive">1837-1839</unitdate>
+            <physdesc id="aspace_cb63d11ff61c53e35c07acf173e6aa17">Volume (boards); 16x39 cm.; 635
+              pages</physdesc>
+            <container id="aspace_ec0dcb79f8478b1d01db2ff9d5a20349" label="Mixed Materials"
+              type="volume">F:3874</container>
+          </did>
+          <scopecontent id="aspace_f46d620848b152e489bc20917a12f863">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Daybook, with entries grouped irregularly by date or by
+              customer. Includes Thomas's notations about Indian and Negro customers.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref82_vw4" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1839/1839" type="inclusive">1839</unitdate>
+            <physdesc id="aspace_1ce86da6a027a55e233cf3827fcb722b">Volume (boards); 20x31 cm; 240
+              pages</physdesc>
+            <container id="aspace_a6e161459d66a7ef38906d6b157cae26" label="Mixed Materials"
+              type="volume">L:3875</container>
+          </did>
+          <scopecontent id="aspace_7a9d442b6275bef231975519b7c11a8e">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Chronological list of sales at Quallatown store for
+              July-Dec. 1839.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref84_s4j" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1839/1840" type="inclusive">1839-1840</unitdate>
+            <physdesc id="aspace_b30e00096d3c1808e5ef652b45de7df4">Volume (boards); 20x32 cm; 240
+              pages</physdesc>
+            <container id="aspace_ce7e6820a2df0116476bac99222bfd1f" label="Mixed Materials"
+              type="volume">L:3876</container>
+          </did>
+          <scopecontent id="aspace_94c698b44bb0ce4c60376286092c7bb4">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Murphy store chronological accounts including customer
+              number/purchases, 1839 Sept-1840 Feb.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref86_vz2" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1839/1840" type="inclusive">1839-1840</unitdate>
+            <physdesc id="aspace_7d3d65fd91c40afe684742ed3ae475d8">Volume (boards); 19x40 cm.; 138
+              pages</physdesc>
+            <container id="aspace_cf475ad4a93ecfb6161764f92e16e62b" label="Mixed Materials"
+              type="volume">F:3877</container>
+          </did>
+          <scopecontent id="aspace_01b9ae28a86f28d976336a08fa584023">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Chronological daybook with customer
+              expenses/credits for Scott's Creek. Includes some of Thomas's notations about Negro
+              customers.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref88_ptx" level="file">
+          <did>
+            <unittitle>Day Book for Year 1840 Qualla Town</unittitle>
+            <unitdate normal="1840/1840" type="inclusive">1840</unitdate>
+            <physdesc id="aspace_f8f83c82f8a39db8fe0ea87e64c0730e">Volume (boards); 20x31 cm; 240
+              pages</physdesc>
+            <container id="aspace_653f52b74c8dafac24fd73f7bc3b7042" label="Mixed Materials"
+              type="volume">L:3878</container>
+          </did>
+          <scopecontent id="aspace_af3807383c53e4531dc646463220603d">
+            <head>Scope and Contents</head>
+            <p>Quallatown, Haywood Co., N.C. Quallatown store chronological list of customers/sales
+              at store for Jan.-Aug. 1840.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref89_aba" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1840/1841" type="inclusive">1840-1841</unitdate>
+            <physdesc id="aspace_5cd807964003c54bef382a671119ddfb">Volume (boards); 19x31 cm; 220
+              pages</physdesc>
+            <container id="aspace_bc29c781913196b43dfbf857d4346927" label="Mixed Materials"
+              type="volume">L:3879</container>
+          </did>
+          <scopecontent id="aspace_dd1eabafd2e214e36e48ef4d0f7457c4">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Quallatown store chronological list of sales at
+              store.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref91_q0o" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1832/1843" type="inclusive">1832-1843</unitdate>
+            <physdesc id="aspace_cfd83a242dddc23d6b1de887e71f9c51">Volume (disbound (in cardboard
+              boards)); 16x38 cm.; 100 pages</physdesc>
+            <container id="aspace_7f5b276d2b941f7b7b2fa859d5016e1a" label="Mixed Materials"
+              type="volume">F:3880</container>
+          </did>
+          <scopecontent id="aspace_cc41d41cdbb4127f2d38d628e1051fd6">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Chronological daybook with customer entries for
+              Scott's Creek and Weedan, N.C.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref93_pim" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1841/1842" type="inclusive">1841-1842</unitdate>
+            <physdesc id="aspace_8d127eb22be1da3b08e357c7f1deee9b">Volume (calf and boards); 18x40
+              cm; 578 pages</physdesc>
+            <container id="aspace_0a0b9f8d53332e52eaf44817293e9ad1" label="Mixed Materials"
+              type="volume">L:3881</container>
+          </did>
+          <scopecontent id="aspace_9d49e7af53268b5d84f1b829ef8d948c">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Chronological daybook with customer entries (name and
+              number) for Murphy, N.C. Includes note: "Thomas and King commenced their copartnership
+              at Murphy on the 8th day of April 1841."</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref95_ir7" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1845/1848" type="inclusive">1845-1848</unitdate>
+            <physdesc id="aspace_e9c30c3504fc5bee8d9713fccf13c2a0">Volume (calf); 21x33 cm; 475
+              pages</physdesc>
+            <container id="aspace_c01e4e684aa1d3467a195486cd5252c2" label="Mixed Materials"
+              type="volume">L:3882</container>
+          </did>
+          <scopecontent id="aspace_10ce5feee0619f661354bb96d131439b">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Quallatown store chronological list of
+              customers/sales at store for 1845 Dec.-1848 Oct.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref97_6g7" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1848/1850" type="inclusive">1848-1850</unitdate>
+            <physdesc id="aspace_1fc749623c5cc1ae5814bd3f4c8ac52b">Volume (boards); 20x32 cm; 256
+              pages</physdesc>
+            <container id="aspace_d6da59316c627e966cb11b2b365b9f50" label="Mixed Materials"
+              type="volume">L:3883</container>
+          </did>
+          <scopecontent id="aspace_b4a284363f5ea64064acb0307fc7c4e8">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Quallatown store chronological list of
+              customers/sales at store for 1848-1850.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref99_hr9" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1851/1851" type="inclusive">1851</unitdate>
+            <physdesc id="aspace_7f2864a4a93273505df045c641ef0e10">Volume (boards); 21x33 cm; 100
+              pages</physdesc>
+            <container id="aspace_8c4f515d8e386e2082e9ed93d6523a66" label="Mixed Materials"
+              type="volume">L:3884</container>
+          </did>
+          <scopecontent id="aspace_5f090cdd701de3759052e75b97d7f3c4">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Quallatown store chronological list of
+              customers/sales at store for 1851 Mar.-Aug. Starts with page 260; other portions of
+              book appear to have fallen out. Spine/binding loose.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref101_fml" level="file">
+          <did>
+            <unittitle>Day Book ("Day Book White")</unittitle>
+            <unitdate normal="1851/1853" type="inclusive">1851-1853</unitdate>
+            <physdesc id="aspace_6b1b7b1ee06c8fb5f1ba42e48c03063e">Volume (calf and boards); 21x33
+              cm; 640 pages</physdesc>
+            <container id="aspace_928ce0bb30a100690ab7da73cba4b42c" label="Mixed Materials"
+              type="volume">L:3885</container>
+          </did>
+          <scopecontent id="aspace_86e8c05e8b56e79e4db855ed51848505">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Quallatown store chronological list of
+              customers/sales at store for 1851 July-1853 May.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref103_s4l" level="file">
+          <did>
+            <unittitle>Day Book ("Book B")</unittitle>
+            <unitdate normal="1852/1854" type="inclusive">1852-1854</unitdate>
+            <physdesc id="aspace_5c82fb7d07fe49be7ee3e3fb4e9dfa51">Volume (boards); 20x32 cm; 260
+              pages</physdesc>
+            <container id="aspace_ce3ec6df82192e284d5e285c8cbff254" label="Mixed Materials"
+              type="volume">L:3886</container>
+          </did>
+          <scopecontent id="aspace_466913250ece05459d795c80f97b50b6">
+            <head>Scope and Contents note</head>
+            <p>Fort Montgomery, Cherokee County, N.C. Fort Montgomery store customer/sales
+              chronologically listed 1852-1854.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref107_4br" level="file">
+          <did>
+            <unittitle>Day Book ("Qualla Town Day book for 1854")</unittitle>
+            <unitdate normal="1855/1855" type="inclusive">1855</unitdate>
+            <physdesc id="aspace_d189cfcc589df128152403096cbb6ad8">Volume (boards); 20x32 cm; 185
+              pages</physdesc>
+            <container id="aspace_929bf8dae14765a6962f99899f6f150c" label="Mixed Materials"
+              type="volume">L:3888</container>
+          </did>
+          <scopecontent id="aspace_3d84835f572ee8f5de0bd5fd85d9a94b">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Quallatown store chronological list of
+              customers/sales at store for 1855 Feb.-June.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref109_pjd" level="file">
+          <did>
+            <unittitle>Day Book ("Qualla Town Day Book Farmer's Journal")</unittitle>
+            <unitdate normal="1854/1855" type="inclusive">1854 June 27-1855 June 2</unitdate>
+            <physdesc id="aspace_9fb29a6900d0c49ce33404d8c6195386">Volume (boards); 22x34 cm; 235
+              pages</physdesc>
+            <container id="aspace_752875dd54b67f9eb194e52551d2770d" label="Mixed Materials"
+              type="volume">F:3889</container>
+          </did>
+          <scopecontent id="aspace_3ef04acc7e31b5cc1cda91551ea8fcf0">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Chronological daybook with customer entries (name
+              and purchase) for Qualla Town.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref111_ype" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1854/1857" type="inclusive">1854-1857</unitdate>
+            <physdesc id="aspace_99807b4e1a50a4e16488c230797dacde">Volume (boards); 20x32 cm; 150
+              pages</physdesc>
+            <container id="aspace_4b9c7b697b73c6352c62417903adcb73" label="Mixed Materials"
+              type="volume">L:3890</container>
+          </did>
+          <scopecontent id="aspace_4df43e3ace1eb6144506d115eb4802df">
+            <head>Scope and Contents note</head>
+            <p>Fort Montgomery, Cherokee County, N.C. Fort Montgomery store customer/sales
+              chronologically listed 1854-1857. Back half of the book is blank.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref113_04x" level="file">
+          <did>
+            <unittitle>Day Book ("Wm. H. Thomas Day Book for Qualla Town NC")</unittitle>
+            <unitdate normal="1855/1856" type="inclusive">1855-1856</unitdate>
+            <physdesc id="aspace_4e61242248db155bc9ed851385e53c72">Volume (boards); 21x34 cm; 292
+              pages</physdesc>
+            <container id="aspace_42c309ca31d5b4fdf711317ffe781079" label="Mixed Materials"
+              type="volume">F:3891</container>
+          </did>
+          <scopecontent id="aspace_d12e260ea6a83a22cc17963936263faa">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Chronological daybook with customer entries (name
+              and purchase) for Qualla Town.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref115_mu0" level="file">
+          <did>
+            <unittitle>Day Book ("Wm. H. Thomas's Day Book")</unittitle>
+            <unitdate normal="1856/1857" type="inclusive">1856-1857</unitdate>
+            <physdesc id="aspace_e3bb1015486724ab7b718c3d680873ad">Volume (boards); 20x37 cm; 475
+              pages</physdesc>
+            <container id="aspace_3515f5878a9f43ef128da79a9a20997f" label="Mixed Materials"
+              type="volume">F:3892</container>
+          </did>
+          <scopecontent id="aspace_95acd1b53f613bf361ef89e211e0524d">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Chronological daybook with customer entries (name
+              and purchase) for Qualla Town.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref117_3zb" level="file">
+          <did>
+            <unittitle>Day Book</unittitle>
+            <unitdate normal="1858/1863" type="inclusive">1858 Apr. 29-1863 Mar. 4</unitdate>
+            <physdesc id="aspace_45fb3ef6bf1ba8ee0ab8a962f731cbd5">Volume (calf); 17x41 cm; 530
+              pages</physdesc>
+            <container id="aspace_8a7f9585bddd4abecd4c7c4e2b580a22" label="Mixed Materials"
+              type="volume">F:3893</container>
+          </did>
+          <scopecontent id="aspace_6541bfb5ba16316f20ab08070464f744">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Chronological daybook with customer entries (name
+              and purchase) for Qualla Town. Includes stitched in mini-quire in the front with title
+              "Private accts at Qualla Town store for which R. Watts is responsible," dated
+              1859-1862.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref123_xsq" level="file">
+          <did>
+            <unittitle>Index to Ledger for 1847</unittitle>
+            <unitdate normal="1847/1847" type="inclusive">1847</unitdate>
+            <physdesc id="aspace_273a78baaf16e7e8c63fcfbd849b0f60">Volume (paper); 12x33 cm; approx
+              50</physdesc>
+            <container id="aspace_a0bb1311e442ec7b8fad56171d9d3ac1" label="Mixed Materials"
+              type="volume">ff:3896</container>
+          </did>
+          <scopecontent id="aspace_156082bb9b9c0ba2de6860fc3ed2fcee">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Alphabetical index with customer names and assigned number.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref129_hcq" level="file">
+          <did>
+            <unittitle>Invoice Book and Day Book</unittitle>
+            <unitdate normal="1838/1840" type="inclusive">1838-1840</unitdate>
+            <physdesc id="aspace_baa00381f511d75c718be907fdcaff55">Volume (boards); 16.5x40.5 cm; 80
+              pages</physdesc>
+            <container id="aspace_ad379d5b56d1c648e4f73d875096f489" label="Mixed Materials"
+              type="volume">F:3899</container>
+          </did>
+          <scopecontent id="aspace_9e8bdd6647a1b398cb5bc128335b0d80">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Multi-purpose volume. Pages 1-8 appear to be invoice
+              lists. On page 9 the book's entries become more like a daybook, with customer expenses
+              from 1840 listed chronologically. Also includes a copied contract on the back
+              page.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref131_x50" level="file">
+          <did>
+            <unittitle>Journal and Day Book</unittitle>
+            <unitdate normal="1836/1838" type="inclusive">1836-1838</unitdate>
+            <physdesc id="aspace_bf327bcacdcdac8d1295d94db5dde271">Volume (calf); unknown; 424
+              pages</physdesc>
+            <container id="aspace_14bf99a25edb388e8a6f2c72ed286305" label="Mixed Materials"
+              type="volume">F:3900</container>
+          </did>
+          <scopecontent id="aspace_9f7cbf1e011a0ac2834af854edb88b22">
+            <head>Scope and Contents note</head>
+            <p>Indiantown, [Quallatown], Haywood County, N.C. Volume with two distinct sections:
+              pages 1-238 are customer accounts; the latter half of the book (about 180 pages) is a
+              daybook recording purchases at Indian Town between January and July 1838. Also
+              includes Rules of the Store at the end.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref133_qif" level="file">
+          <did>
+            <unittitle>Journal and Day Book</unittitle>
+            <unitdate normal="1840/1844" type="inclusive">1840-1844</unitdate>
+            <physdesc id="aspace_2a17993e35a3d15dc9a90800f2b2791a">Volume (calf); 26x38 cm; 633
+              pages</physdesc>
+            <container id="aspace_19a5227d986a14445fac9ec185a9d230" label="Mixed Materials"
+              type="volume">F:3901</container>
+          </did>
+          <scopecontent id="aspace_d8780a48b9147d9471005cb810b96f67">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Volume with two distinct sections: pages 1-156 are
+              customer accounts; the latter half of the book (about 180 pages) is a daybook
+              recording purchases at Quallatown in 1842.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref137_hf7" level="file">
+          <did>
+            <unittitle>Land Book for Cherokee County</unittitle>
+            <unitdate normal="1838/1853" type="inclusive">1838-1853</unitdate>
+            <physdesc id="aspace_4f7c80b2766d06daea0ad42d3c6b07c8">Volume (calf and boards); 20x32
+              cm; 86 pages</physdesc>
+            <container id="aspace_6a0daa12eaca10162b5fa7ccf36f6562" label="Mixed Materials"
+              type="volume">F:3903</container>
+          </did>
+          <scopecontent id="aspace_4e6c4650fe37855ffee0f185eac3c270">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Multi-purpose volume with land sales and customer
+              accounts.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref139_t0y" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1833/1834" type="inclusive">1833-1834</unitdate>
+            <physdesc id="aspace_0314f6dc44077085dc212e45768a98a3">Volume (paper); 21x33 cm; 134
+              pages</physdesc>
+            <container id="aspace_cbe77b4917ea21d1b5ab7aebffecd748" label="Mixed Materials"
+              type="volume">ff:3904</container>
+          </did>
+          <scopecontent id="aspace_c045e56751b209236fa380100d54c96f">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts with Scott's Creek store.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref141_u90" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1835/1837" type="inclusive">1835-1837</unitdate>
+            <physdesc id="aspace_8844e079bbe057f2295fcbb4661b7497">Volume (calf); 20x33 cm; 142
+              pages</physdesc>
+            <container id="aspace_25788fd37058158d4ed09883f2a7e947" label="Mixed Materials"
+              type="volume">F:3905</container>
+          </did>
+          <scopecontent id="aspace_4fa7812c64b1d71ed75d61eace45bab8">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts. Includes index at the
+              front.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref143_ynz" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1836/1838" type="inclusive">1836-1838</unitdate>
+            <physdesc id="aspace_9bcad76c69781563d0f03f4f1fef128e">Volume (calf and boards); 26x37
+              cm; 419 pages</physdesc>
+            <container id="aspace_4595e78be2f71811bdf5639be59f4a1f" label="Mixed Materials"
+              type="volume">F:3906</container>
+          </did>
+          <scopecontent id="aspace_15a463c8e71491e3526831c337a15e7d">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts detailing purchases, including
+              a name index at the front.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref145_d43" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1836/1845" type="inclusive">1836-1845</unitdate>
+            <physdesc id="aspace_79a6b558cd12899b055446d661eec857">Volume (calf and boards); 18x43
+              cm; 310 pages</physdesc>
+            <container id="aspace_9b2f1e510308b4d6f325eb1110478070" label="Mixed Materials"
+              type="volume">F:3907</container>
+          </did>
+          <scopecontent id="aspace_6cf136ccf26df81d8b03d8b7ec0e6337">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref147_t1h" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1837/1867" type="inclusive">1837-1867</unitdate>
+            <physdesc id="aspace_a1789ece51b9dbd42ca588ad91748211">Volume (calf and boards); 23x33
+              cm; 425 pages</physdesc>
+            <container id="aspace_ff467ce97a33d5f167b3193d37706f6f" label="Mixed Materials"
+              type="volume">F:3908</container>
+          </did>
+          <scopecontent id="aspace_9359ae00f7738279857018332fe52e44">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer account book, including indices.
+              Cherokee customers are included.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref149_ldm" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1839/1844" type="inclusive">1839-1844</unitdate>
+            <physdesc id="aspace_4feb0696b7f2524392546cb829448052">Volume (calf and boards); 21x32
+              cm; 497 pages</physdesc>
+            <container id="aspace_328fa9dcc3044f235cadcaaa0359b6dd" label="Mixed Materials"
+              type="volume">L:3909</container>
+          </did>
+          <scopecontent id="aspace_c04b488c4fb0d0fed7949b1bf86ace16">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts ledger, with alphabetical index
+              for customer names. Pages 266-462 are blank. Later entries are miscellaneous notes,
+              including some references to Indian chiefs' payments and other store
+              expenses/credits.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref151_mru" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1839/1845" type="inclusive">1839-1845</unitdate>
+            <physdesc id="aspace_9c476d610453d4002d24e1eeb44c5a33">Volume (calf and boards); 27x38
+              cm; 550 pages</physdesc>
+            <container id="aspace_864f78a33e5a7b33ffd9d424e78d0af2" label="Mixed Materials"
+              type="volume">F:3910</container>
+          </did>
+          <scopecontent id="aspace_c973efbca44badb800abb7a7c3002ac6">
+            <head>Scope and Contents note</head>
+            <p>Cherokee County, N.C. Customer accounts, including an index. Book only partially
+              used; pages 337-342 are "disbursement of the old concern". Pages 345-544 are blank.
+              Page 545-546 have "expenses paid out of the new firm for building".</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref153_ml7" level="file">
+          <did>
+            <unittitle>Ledger and Day Book</unittitle>
+            <unitdate normal="1839/1841" type="inclusive">1839-1841</unitdate>
+            <physdesc id="aspace_fb4f9fb470e78e05efcdef31a4c04cc5">Volume (calf and boards); 26x38
+              cm; 630 pages</physdesc>
+            <container id="aspace_9ee54b4802410131cb2a2e85f925f099" label="Mixed Materials"
+              type="volume">F:3911</container>
+          </did>
+          <scopecontent id="aspace_f36596134a5e3e26a5d22eb03d727385">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Daybook. First portion of the book has customer
+              accounts, by name; volume then shifts to recording purchases and expenses
+              chronologically.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref157_sld" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1840/1845" type="inclusive">1840-1845</unitdate>
+            <physdesc id="aspace_6c84c0acd06d77ffd966ec351b63a9ad">Volume (calf and boards); 25x38
+              cm; 620 pages</physdesc>
+            <container id="aspace_5dc2db818f37ff8d7ea5983bf098e856" label="Mixed Materials"
+              type="volume">F:3913</container>
+          </did>
+          <scopecontent id="aspace_fa316f944029a6dc325c022383d79af0">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts, including periodic indices
+              with alphabetical lists. Includes inlaid clipping.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref161_ulh" level="file">
+          <did>
+            <unittitle>Ledger (Postage Accounts)</unittitle>
+            <unitdate normal="1844/1845" type="inclusive">1844-1845</unitdate>
+            <physdesc id="aspace_f5b5ef7881470b98759fb4cfd5372c9e">Volume (boards); 16x18 cm; 200
+              pages</physdesc>
+            <container id="aspace_977ca3e0bccc7e51a7a1be38cf77f2bb" label="Mixed Materials"
+              type="volume">M:3915</container>
+          </did>
+          <scopecontent id="aspace_099638261e3689d242199fac16f3e3f6">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Includes index and accounts with individuals noting
+              postage paid on various goods, mail, and newspaper subscriptions.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref163_l5l" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate normal="1845/1848" type="inclusive">1845-1848</unitdate>
+            <physdesc id="aspace_aef29f72955d79630588aad714601484">Volume (calf and boards); 22x34
+              cm; 430 pages</physdesc>
+            <container id="aspace_c198d058279d26ee4c95748c0283f6bf" label="Mixed Materials"
+              type="volume">F:3916</container>
+          </did>
+          <scopecontent id="aspace_ee29b74a215116e95a86a20e2f866bed">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts of purchases; indexed by name
+              each year.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref165_veb" level="file">
+          <did>
+            <unittitle>Ledger ("Wm H. Thomas's White Book")</unittitle>
+            <unitdate normal="1847/1855" type="inclusive">1847-1855</unitdate>
+            <physdesc id="aspace_bc5207b6e66df69fc59161abc746e984">Volume (calf and boards); 21x33
+              cm; 620 pages</physdesc>
+            <container id="aspace_1b58cfee4e5373fa0844978559431aa6" label="Mixed Materials"
+              type="volume">F:3917</container>
+          </did>
+          <scopecontent id="aspace_ef5b5ee749a2aa24d2ccd56726a602b1">
+            <head>Scope and Contents note</head>
+            <p>Scott's Creek, Haywood County, N.C. Customer accounts; index in the front, rest of
+              the volume has customer names with chronological entries of purchases.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref169_7ef" level="file">
+          <did>
+            <unittitle>Letterbook and Accounts ("Receipt book Old Firm")</unittitle>
+            <unitdate normal="1837/1845" type="inclusive">1837-1845</unitdate>
+            <physdesc id="aspace_ae8188a68196cd9ec7ccd62db4ff60bc">Volume (boards); 20x32 cm; 350
+              pages</physdesc>
+            <container id="aspace_0932b7d96f2edbbc86d28b763fce5642" label="Mixed Materials"
+              type="volume">L:3919</container>
+          </did>
+          <scopecontent id="aspace_f20fe4d93373a89e9c6bae91c4a9453d">
+            <head>Scope and Contents note</head>
+            <p>Murphy, Cherokee County, N.C. Accounts/payments received; records of work (including
+              construction, brick paving); copies of outgoing correspondence for business at the
+              Murphy Store. Pages 33-175 blank. Later pages have assorted blank segments. Some
+              letters composed upside down.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref173_p2f" level="file">
+          <did>
+            <unittitle>List of White Accounts, Notes, Judgements, Etc.</unittitle>
+            <unitdate normal="1849/1867" type="inclusive">1849-1867</unitdate>
+            <physdesc id="aspace_504046a84078fe82ad7d27bdeec0e7d4">Volume (boards); 15.5x25.5 cm; 46
+              pages</physdesc>
+            <container id="aspace_2d7fa9c600bd9e8b0d78030aac5d507d" label="Mixed Materials"
+              type="volume">M:3921</container>
+          </did>
+          <scopecontent id="aspace_2b47cd54e610d071fae9cc05de171aa7">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Customer accounts.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref175_cru" level="file">
+          <did>
+            <unittitle>Miscellaneous Accounts</unittitle>
+            <unitdate normal="1874/1874" type="inclusive">1874</unitdate>
+            <physdesc id="aspace_17a7109f33f02a777cd425cb72671598">Volume (calf); 8x12 cm; 80
+              pages</physdesc>
+            <container id="aspace_31d793ffbb517cdf1842871a9a08fd3b" label="Mixed Materials"
+              type="volume">S:3922</container>
+          </did>
+          <scopecontent id="aspace_842ac95cb6c4ea9718815ad0cbbe488b">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Entries mostly illegible.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_cbe7490a797e1708d29203253baadfa0" level="file">
+          <did>
+            <unittitle>Financial papers, notes, bills, accounts</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_37df5d9bf40c1ace9f44cdd3973d4b37" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_5d8559a627541b925a8cdaf53d1d2bd2" level="file">
+          <did>
+            <unittitle>Disbound account books, miscellaneous</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1840/1869" type="inclusive"
+              >1840s-1860s</unitdate>
+            <container id="aspace_e6ae11422557ec0fd6bf7d24d222df5e" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+          <scopecontent id="aspace_f9f67127d202150da4e8d9fd95d98495">
+            <head>Scope and Contents</head>
+            <p>Includes George Gibbons book fragments.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_183a5b98cda8c7e4ee56b9a7d1f25002" level="file">
+          <did>
+            <unittitle>Receipts</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">5
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1834/1909" type="inclusive"
+              >1834-1900s</unitdate>
+            <container id="aspace_bd321f3922e8874f0bed6795d9a8a864" label="Mixed Materials"
+              type="box">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_f31c77ccc1aba376437e6905fefaf19d" level="file">
+          <did>
+            <unittitle>Unsorted receipts</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">15
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" certainty="approximate" era="ce" normal="1830/1879"
+              type="inclusive">approximately 1830s-1870s</unitdate>
+            <container id="aspace_8061bafb62c78aa84ff6651eed1a7b5c" label="Mixed Materials"
+              type="box">7</container>
+            <container id="aspace_9d2b80355e5ed20c1c754a9edddd8656" label="Mixed Materials"
+              type="box">8</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_f8209eaae2d34043470ca9a929d76b43" level="series">
+        <did>
+          <unittitle>Infrastructure papers</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1828/1859" type="inclusive"
+            >1828-1859</unitdate>
+          <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+        </did>
+        <scopecontent id="aspace_4444f985eb3f7c15c04c5bf9f2bcd16d">
+          <head>Scope and Contents</head>
+          <p>Assorted materials relating to Thomas's work on various railroad and turnpike boards
+            and as a community leader advocating for infrastructure expansion to Western North
+            Carolina. Items include General Assembly acts, copies of company minutes and contracts,
+            petitions by various communities and citizens asking the state for turnpikes and
+            railroad stops, and surveys and statistics regarding the building and planning for
+            transportation needs throughout the region.</p>
+        </scopecontent>
+        <c02 id="aspace_8dd22c5f6af0d1621669fb4e7d1f4d1d" level="file">
+          <did>
+            <unittitle>Report of engineers upon a canal connecting the Okoa and Connesauga rivers,
+              in Tennessee and Alabama</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1828/1828" type="inclusive"
+              >1828</unitdate>
+            <container id="aspace_5fd273e11ffa285c894e875ef7c10c04" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7c98c467c63fdd1898dcf0d27bc61314" level="file">
+          <did>
+            <unittitle>Draft excerpts, incomplete, of notes and other writings re:
+              railroad</unittitle>
+            <unitdate calendar="gregorian" certainty="approximate" era="ce" normal="1851/1851"
+              type="inclusive">approximately 1851</unitdate>
+            <container id="aspace_7f3cb496546c36451cc54c4fc7072754" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_d848db5f0253e8f6d2fd9758401cf6d7" level="file">
+          <did>
+            <unittitle>Railroad company articles of incorporation (incomplete)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851-01-28/1851-01-28" type="inclusive"
+              >1851 Jan. 28</unitdate>
+            <container id="aspace_7ceb8feabc6f2839139d2c11cea6b1c9" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_5d26201d3816a9e8df43a43618cbec48" level="file">
+          <did>
+            <unittitle>A condensed statement of statistics taken from the Report of the Board of
+              Public Works of Virginia</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851/1851" type="inclusive"
+              >1851</unitdate>
+            <container id="aspace_c05a195bd3d710909174f8b3e808f3a3" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_2e98f8c7c78b9581cb9b72e6c951ae02" level="file">
+          <did>
+            <unittitle>Railroad statistics from the Board of Internal Improvement of
+              Virginia</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1852/1852" type="inclusive"
+              >1852</unitdate>
+            <container id="aspace_68daf7243bb7e075cb9966855bc76d44" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_26e52748f7d164e03cf03db9250b6261" level="file">
+          <did>
+            <unittitle>Petition for the extension of the N.C. railroad west, signed by 600 citizens
+              W. of Buncombe County</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1852/1852" type="inclusive"
+              >1852</unitdate>
+            <container id="aspace_0e99050809828cb140f465464b4693a8" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_1982aa64ff25a71526c661f90dfe8d5f" level="file">
+          <did>
+            <unittitle>Rail Road meeting, Rabun Co., N.C.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1852-02-23/1852-02-23" type="inclusive"
+              >1852 Feb. 23</unitdate>
+            <container id="aspace_ecfac457e0d90474493a2522500f35fb" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_3093ffe7ee1d8b556f56c257071da610" level="file">
+          <did>
+            <unittitle>Petition of Jackson Co. citizens to N.C. General Assembly requesting a
+              charter for a turnpike road</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1854-09-26/1854-09-26" type="inclusive"
+              >1854 Sept. 26</unitdate>
+            <container id="aspace_156e26a93ad4aeb7d0473dedc96e6494" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref177_4xp" level="item">
+          <did>
+            <unittitle>Railroad Statistics</unittitle>
+            <unitdate normal="1854/1855" type="inclusive">1854-1855</unitdate>
+            <physdesc id="aspace_15685e4d63543666588215f0668a7e8b">Volume (paper); 9x14.5 cm; 30
+              pages</physdesc>
+            <container id="aspace_1a86e22acb85d1156e18548a75b5dc5f" label="Mixed Materials"
+              type="volume">S:3923</container>
+          </did>
+          <scopecontent id="aspace_67c6caf88c2c929784732fb7fb0e22aa">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Includes distances by rail between various locales in N.C. and
+              surrounding states. Also includes miscellaneous accounts.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_b7d1ab3b98a05781f5ae9a9251491316" level="file">
+          <did>
+            <unittitle>Turnpike bonds</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1855/1856" type="inclusive"
+              >1855-1856</unitdate>
+            <container id="aspace_3f7338f05f2349fae73cb115bd226c89" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_77f72d7d895f4460e78a7e78e07f7b88" level="file">
+          <did>
+            <unittitle>S.W. Gibson road accounts and payments</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1856-10-01/1856-10-01" type="inclusive"
+              >1856 Oct. 1</unitdate>
+            <container id="aspace_6cb90ac2803d050327ce0cb353f7abe4" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_47abb0f1f03180a91846d9b3112d7220" level="file">
+          <did>
+            <unittitle>Act to incorporate Qualla Town and Ocanabuftas Turnpike Company: amendment
+              for the N.C. General Assembly</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1857/1857" type="inclusive"
+              >1857</unitdate>
+            <container id="aspace_aa075b9434b1e0144cd00b6561d14d81" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c4b9ea9fb3cb5932d6e224aa3d45c0b9" level="file">
+          <did>
+            <unittitle>An Act to incorporate the Jonathan's Creek and Tennessee Mountain Turnpike
+              Co. in the County of Haywood: amendment for the N.C. General Assembly</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1857-01-08/1857-01-08" type="inclusive"
+              >1857 Jan. 8</unitdate>
+            <container id="aspace_eb9c0aa11ae3f966cca24076b3ba0d73" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref187_km1" level="item">
+          <did>
+            <unittitle>Turnpike Records</unittitle>
+            <unitdate normal="1859/1859" type="inclusive">1859</unitdate>
+            <physdesc id="aspace_cb7c15170b43fb17f082b44501687cfc">Volume (boards); 9.5x23 cm; 140
+              pages</physdesc>
+            <container id="aspace_7db5cc0201201497ef22a5748a46c5b5" label="Mixed Materials"
+              type="volume">M:3928</container>
+          </did>
+          <scopecontent id="aspace_6fabb8f27166f1f1ad06fbda57af23e4">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Records expenses and accounts with shareholders of a
+              turnpike.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_5438c3d6ecaca6a1beeee314c0eb5ae4" level="file">
+          <did>
+            <unittitle>An Act to amend the charter of the Western N.C. Railroad Company: N.C.
+              General Assembly</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1859-01-04/1859-01-04" type="inclusive"
+              >1859 Jan. 4</unitdate>
+            <container id="aspace_e39a9c0d74f0759730581b306a164494" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_bb8b7f3e8021fe5d2fc556e71cab1ee2" level="file">
+          <did>
+            <unittitle>An Act to incorporate the Western N.C. Rail Road Co.: amendments for the N.C.
+              General Assembly</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1859-02-21/1859-02-21" type="inclusive"
+              >1859 Feb. 21</unitdate>
+            <container id="aspace_6bbf96a8972ac90622e28bb2adc289e9" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_8678bf6b5e4a66b118e981429dedc0ce" level="file">
+          <did>
+            <unittitle>Appointment by the N.C. Board of Internal Improvement of William Holland
+              Thomas as director on the Board of the Western N.C. Railroad Company</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1859-11-28/1859-11-28" type="inclusive"
+              >1859 Nov. 28</unitdate>
+            <container id="aspace_3bca1db881d6ab581ae9e1837372c5b9" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_f82c1348da7f3b744990490270cb207f" level="file">
+          <did>
+            <unittitle>Turnpike charters (incomplete)</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_7ac27d98967d4c75feb1154b50065fd3" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4e5193dc9929771e7c864385b2f586de" level="file">
+          <did>
+            <unittitle>Agreement to grant right-of-way to the Blue Ridge or Rabun Gap
+              Railroad</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_f3ff6f7fb007d381c5beec70a5eb4003" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_0f7483835cf42adb31e58336487f4520" level="file">
+          <did>
+            <unittitle>Letter by William Johnston, in relation to railroad, etc.
+              (incomplete)</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_48d838355fbefba891baca062eeda770" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_e7813105a20e9827fa1acabec662ed3b" level="file">
+          <did>
+            <unittitle>A Bill to secure the payment of tolls to the state of N.C. on the Western
+              Turnpike</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_64b1aee990f687a6e2b2ce121d29a9d7" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_5f727d6af6f9595190da7155f2d2383e" level="series">
+        <did>
+          <unittitle>Cherokee papers</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1823/1876" type="inclusive"
+            >1823-1876</unitdate>
+          <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+        </did>
+        <scopecontent id="aspace_77432c1c5029850de724899aaa4e66d9">
+          <head>Scope and Contents</head>
+          <p>This series includes a wide range of material documenting the legal and financial
+            status of North Carolina Cherokees during the early 19th century. It includes copies and
+            correspondence regarding several treaties between the U.S. government and the Cherokee
+            chiefs; powers of attorney for various Cherokee families who relied on Thomas to support
+            their interests to the Dept. of the Interior; censuses of Cherokee remaining in North
+            Carolina following the Indian Removal Acts; legal depositions, opinions, and complaints
+            involving Cherokee land claims; crime by and against Cherokee people; pensions and
+            relief due the Cherokees; and compensation collected by Thomas according to the terms of
+            the various Indian treaties. There are also volumes of customer accounts designated by
+            Thomas as "Indian Books" kept by him and his employees at his various stores; additional
+            documentation of Cherokee financial accounts can be found on loose pages in the General
+            Papers series and in other account books in the Financial Materials series.</p>
+        </scopecontent>
+        <c02 id="aspace_490236b243e90980fc745e745b527db6" level="file">
+          <did>
+            <unittitle>Cherokee Account Book</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1823/1835" type="inclusive"
+              >1823-1835</unitdate>
+            <container id="aspace_9b9a42d4b8d0dc7f519ae7ac7922a2e0" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b60efc2eacce4c8821914d02472d5686" level="file">
+          <did>
+            <unittitle>Conditions under which the Cherokees enrolled and emigrated West</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1828/1834" type="inclusive"
+              >1828-1834</unitdate>
+            <container id="aspace_ecf551e8d654b81adf1a55bad511a60b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_640175dee1a533d8cc202c8052716078" level="file">
+          <did>
+            <unittitle>List of claims filed for the action of the board of Cherokee Commissioners
+              under the 17th Act of the Treaty of 1835</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1835/1835" type="inclusive"
+              >1835</unitdate>
+            <container id="aspace_ea0b3bf7503fe0c4aa81922eeded696c" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref185_suc" level="item">
+          <did>
+            <unittitle>Supplementary Report of Cherokee Indians Remaining in N.C.</unittitle>
+            <unitdate normal="1835/1840" type="inclusive">1835-1840</unitdate>
+            <physdesc id="aspace_b4b2200496942d9859ef300e7221b692">Volume (paper); 19x30 cm; 50
+              pages</physdesc>
+            <container id="aspace_83e3458f7106c9f0448b4865eda866f0" label="Mixed Materials"
+              type="volume">L:3927</container>
+          </did>
+          <scopecontent id="aspace_c27990cef5ec0452ffdf5b3acfe556a1">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Census and records of Cherokee families living in N.C.,
+              including ages and notes about their location.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_aff4aa4ff1f62b1cb148814d3e6872b4" level="file">
+          <did>
+            <unittitle>Opinion of the Cherokee Commissions on the claim of Wacheechah/Grasshopper,
+              for value of a preemption</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1835/1835" type="inclusive"
+              >1835</unitdate>
+            <container id="aspace_1e1c4b57ef5d5641a16a84cb4102c997" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_f1b3c21d31608aec45be7f9e37e437db" level="file">
+          <did>
+            <unittitle>"333 Indians belonging to the Town Qualla," including lists of Cherokee and
+              verifications by white citizens</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1835/1837" type="inclusive"
+              >1835-1837</unitdate>
+            <container id="aspace_9cf4a5ea61d091713f6752a513cd14f5" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_e00b135d5e8aacb22c0526d7759e99cc" level="file">
+          <did>
+            <unittitle>Part of the evidence of the heirs of deceased Cherokees (excerpts, in
+              Cherokee)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1838/1838" type="inclusive"
+              >1838</unitdate>
+            <container id="aspace_88a9ac59b254a1313cc498997953629a" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_a02571804f68e6792c540d878f0b3654" level="file">
+          <did>
+            <unittitle>The United States to W.H. Thomas, to furnishing the following named poor
+              Indians with corn in the year 1839 in the spring</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1839/1839" type="inclusive"
+              >1839</unitdate>
+            <container id="aspace_44b0760140fa9ac221a2b6e4c66fd73a" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_a9072b93de33ef71a0bbe46f356fac61" level="file">
+          <did>
+            <unittitle>Indian Book debts remaining due this store</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1839-12-01/1839-12-01" type="inclusive"
+              >1839 Dec. 1</unitdate>
+            <container id="aspace_f0406d76fdbd90a4fce58fb1847a0168" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c290eb45909e2a61a31512cb32dcf7e3" level="file">
+          <did>
+            <unittitle>Census of the N.C. Cherokee</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1840/1840" type="inclusive"
+              >1840</unitdate>
+            <container id="aspace_2dd7126faddc3a169d6c71a089405eaa" label="Mixed Materials"
+              type="oversize-folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_5c2e372c80f19935c2ed0cea01a60c3e" level="file">
+          <did>
+            <unittitle>Lands and Com. purchased for Indians</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1841/1842" type="inclusive"
+              >1841-1842</unitdate>
+            <container id="aspace_1698bb58acb26dfb078ab765867159c7" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+          <scopecontent id="aspace_a9f4baf46b24069db30d2ac1e714cd91">
+            <head>Scope and Contents</head>
+            <p>Bound item with entries for Buffalo and Qualla Town, as well as journal entries
+              (presumably from Thomas) dating from February and March 1842. Acquired as Acc.
+              2018-0106.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_25640dd2ef67a725202c157a0a354a35" level="file">
+          <did>
+            <unittitle>Claim of Coticawa or Cinthio Young Deer re: payment for property from which
+              she was dispossessed</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1844-09-30/1844-09-30" type="inclusive"
+              >1844 Sept. 30</unitdate>
+            <container id="aspace_d5ebcdd77dd9b656bdf6162b870a0118" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_bd50f8c9064415ba3315c4f06a25c85a" level="file">
+          <did>
+            <unittitle>Application by Western Cherokee for fulfillment of guarantees made by U.S.,
+              written to William Wilkins, Secretary of War</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1844/1845" type="inclusive">1844-1845
+              (undated)</unitdate>
+            <container id="aspace_a9ce97bbadb93cdcd2101a44f0c45e7d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_e38aadd413fe18db29ba34a8c3898d65" level="file">
+          <did>
+            <unittitle>List of Cherokee claims filed by William Holland Thomas as attorney; filed
+              before Board of Commissioners</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1847/1847" type="inclusive"
+              >1847</unitdate>
+            <container id="aspace_13da5aa2d5e411e2ad10fb1e3d6cf042" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_600a9497de26e7b261466dd6352f2e54" level="file">
+          <did>
+            <unittitle>Cherokee of Buffalo (names and ages) entitled to interest under Act of July
+              29 1848</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1848/1848" type="inclusive"
+              >1848</unitdate>
+            <container id="aspace_3353a5f2fe21d9b9a809aebd5b51e333" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_744c4e560e4bbfab6388a68fbcdcc3b1" level="file">
+          <did>
+            <unittitle>Location of Tracts in the different towns in Cherokee Nation (including Wolf
+              Town, Paint Town, Deer Town, and Pretty Face Town)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1848/1848" type="inclusive"
+              >1848</unitdate>
+            <container id="aspace_99ffd567d2a5e9ae3bfce657851a9d44" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_e8d9d235102b322da56721cad6659705" level="file">
+          <did>
+            <unittitle>Census of the Cherokees under the Act of July 29 1848</unittitle>
+            <unitdate calendar="gregorian" certainty="approximate" era="ce" normal="1848/1848"
+              type="inclusive">approximately 1848</unitdate>
+            <container id="aspace_af2bee413797d1a3635d062c5115af70" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_bc730e3daadc2c5bc1c574a120673dd7" level="file">
+          <did>
+            <unittitle>List of suspended Cherokee claims made under the Act of 1838</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1849/1849" type="inclusive"
+              >1849</unitdate>
+            <container id="aspace_165aa6b5db0a2adfbb110cdd19db0c93" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_a4d6a310c46b3816158c83409daaeb51" level="file">
+          <did>
+            <unittitle>Cherokees entitled to pensions from U.S. for service in War of 1812 (re:
+              fighting Creek Indians)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1850/1850" type="inclusive"
+              >1850</unitdate>
+            <container id="aspace_5cdbc0f293350294ede6488fcb264250" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c1b0384be7352e42a2df16b9a78a0dec" level="file">
+          <did>
+            <unittitle>Petition to N.C. General Assembly for relief of solvent purchases of Cherokee
+              lands</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1850/1850" type="inclusive"
+              >1850</unitdate>
+            <container id="aspace_f372381625edd32dbb9b9f330979b81b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_058fbc1b9c4b35d8b87252657cf5a453" level="file">
+          <did>
+            <unittitle>Copies of testimony in the case of James R. Love vs. William H.
+              Thomas</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1850/1850" type="inclusive"
+              >1850</unitdate>
+            <container id="aspace_7078af54fc2a56673d505a9a64c5fc47" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_99c45edff0d408c455d075490c4c4010" level="file">
+          <did>
+            <unittitle>Persons (Cherokees) who died in Haywood Co., N.C.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1850/1850" type="inclusive"
+              >1850</unitdate>
+            <container id="aspace_1ae3184b119bbf38e4a66277c375d7d1" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4828e9dcdb44c289e8a46b58200b51d2" level="file">
+          <did>
+            <unittitle>Waddy Thompson argument in relation to the Cherokee, N.C.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851-03-09/1851-03-09" type="inclusive"
+              >1851 Mar. 9</unitdate>
+            <container id="aspace_91a71bcaa9c794e727f37b0fd30a7aa8" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c238648c4ec4254f9ffb267e76a74cb4" level="file">
+          <did>
+            <unittitle>Attorney General Jonathan Crittenden: opinion on the Cherokee Treaties, sent
+              to H. H. Stuart, Secretary of Interior</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851-04-16/1851-04-16" type="inclusive"
+              >1851 Apr. 16</unitdate>
+            <container id="aspace_352556e11ff686afb087296594460a4c" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7c5eb21668070538e7732f88223fc081" level="file">
+          <did>
+            <unittitle>Attorney General Jonathan Crittenden opinion to H. H. Stuart, re: payment of
+              attorney fees for agents Waddy Thompson and Arnold Harris</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851-04-26/1851-04-26" type="inclusive"
+              >1851 Apr. 26</unitdate>
+            <container id="aspace_fd6dee4d066ddb65ed44a5689a204143" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_5a71a1c977b8be3d298f57dee8d4cd8d" level="file">
+          <did>
+            <unittitle>Copy (unsigned) of letter to Commissioner of Indian Affairs Luke Lea
+              rejecting claims by agents Thompson and Harris</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851-05-01/1851-05-01" type="inclusive"
+              >1851 May 1</unitdate>
+            <container id="aspace_ba41c0a88c2bac0a7de62188e174d698" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7f8846b1d069ea0530a6f108bb60afca" level="file">
+          <did>
+            <unittitle>List of deposits of money by Cherokees for purchases of lands: Wolf Town,
+              Paint Town, Pretty Woman Town</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851/1851" type="inclusive"
+              >1851</unitdate>
+            <container id="aspace_8582cfe3a19f2002b5be68498d82e186" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7fee635d7ba93dec6e2625f6065b6bfd" level="file">
+          <did>
+            <unittitle>Statement showing the names of the Cherokee Indians in the neighborhood of
+              Murphy, N.C., intilled to interest on 53.33 dollars and the amount due
+              each</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1857-07-29/1857-07-29" type="inclusive"
+              >1857 Jul. 29</unitdate>
+            <container id="aspace_36983732366b1e51c808b3ca3cb1debe" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_9d945d3d86e5511b50a6465cd273a3b5" level="file">
+          <did>
+            <unittitle>Resolutions of the North Carolina Cherokees</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1859-10-29/1859-10-29" type="inclusive"
+              >1859 Oct. 29</unitdate>
+            <container id="aspace_9b1d7f8c400271e15c1c7aafdb09c62d" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_aca8512091e906ad735b47262239563e" level="file">
+          <did>
+            <unittitle>List of the Indians supposed to have died in Cherokee County N.C.
+              administered upon by S.P. Sherrill</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1867-07-10/1867-07-10" type="inclusive"
+              >1867 Jul. 10</unitdate>
+            <container id="aspace_0a93f576faebbb6683e810f8fad18903" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_d4064fc62960c121b724f4027144fbb6" level="file">
+          <did>
+            <unittitle>Cherokee Reservation Record taken at Murphy, N.C.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1868-11/1868-12" type="inclusive">1868
+              Nov.-Dec.</unitdate>
+            <container id="aspace_bda74819b18cabfebb4114c15d018b49" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref155_iq7" level="file">
+          <did>
+            <unittitle>Ledger / List of Indians Living on Catugajay Creek, N.C.</unittitle>
+            <unitdate normal="1839/1870" type="inclusive">1839-1845, 1870</unitdate>
+            <physdesc id="aspace_920ee293de7057abe8c0fa08a73c5086">Volume (calf and boards); 22x34
+              cm; 150 pages</physdesc>
+            <container id="aspace_d792482f1d7f5457b4d9d62e85660549" label="Mixed Materials"
+              type="volume">F:3912</container>
+          </did>
+          <scopecontent id="aspace_85a26289253aca2e663f75d56fc20edd">
+            <head>Scope and Contents note</head>
+            <p>Cherokee County, N.C. Multi-purpose volume. First portion is customer accounts and
+              store accounts. Second portion is a census of Cherokee "on the Catugajay Creek, Macon
+              Co., living on the land of William Siler Esq." The Cherokee residents are listed with
+              an assigned number, including their names and relevant notes. Many deceased Cherokee
+              are also noted. Some of the pages in this ledger are mutilated and torn.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_cd301bab8fc04afe7ba5da45611c9b8b" level="file">
+          <did>
+            <unittitle>Deposition of George T. Mason, witness before the Commission in certain
+              Indian suits in Statesville, N.C.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1874-10-17/1874-10-17" type="inclusive"
+              >1874 Oct. 17</unitdate>
+            <container id="aspace_0edc7af0765d6b3a3c9e3e1358c52b40" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref125_viq" level="file">
+          <did>
+            <unittitle>Indian Book</unittitle>
+            <unitdate normal="1837/1837" type="inclusive">1837</unitdate>
+            <physdesc id="aspace_063c7621263ba57edce2b09c32d9cb9c">Volume (paper); 12x33 cm; 90
+              pages</physdesc>
+            <container id="aspace_4c70265308691d6f15a73047d8f25de6" label="Mixed Materials"
+              type="volume">ff:3897</container>
+          </did>
+          <scopecontent id="aspace_4563fe1dfee0a051e81bbbdf087e2e0e">
+            <head>Scope and Contents note</head>
+            <p>Shole Creek (Shoal Creek), Cherokee Co., N.C. Alphabetical index with Cherokee names
+              and unidentified quantities of money (accounts?).</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref159_lk0" level="file">
+          <did>
+            <unittitle>Ledger and Indian Accounts ("Indian Book")</unittitle>
+            <unitdate normal="1840/1859" type="inclusive">1840-1859</unitdate>
+            <physdesc id="aspace_bdc3a14cd3649af76fd7f73ad437d1a4">Volume (calf and boards); 26x38
+              cm; 500 pages</physdesc>
+            <container id="aspace_b576219afdbc4902e12a95a298206293" label="Mixed Materials"
+              type="volume">F:3914</container>
+          </did>
+          <scopecontent id="aspace_23ac2ccd9ba3f8a5f444709495631950">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Customer accounts, presumably of Cherokee although
+              it is not always clear. Includes purchases and expenses, listed by name.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref127_lh1" level="file">
+          <did>
+            <unittitle>Indian Book</unittitle>
+            <unitdate normal="1857/1857" type="inclusive">1857</unitdate>
+            <physdesc id="aspace_7af24800dd6dee0f4181189bfd382eaa">Volume (paper); 8x12.5 cm; 18
+              pages</physdesc>
+            <container id="aspace_28889e64a8256354d2496f6128a3c059" label="Mixed Materials"
+              type="volume">S:3898</container>
+          </did>
+          <scopecontent id="aspace_f9ec2794774d705889e64a89846544df">
+            <head>Scope and Contents note</head>
+            <p>Quallatown, Haywood County, N.C. Entries are dated, but otherwise entirely in
+              Cherokee language.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_99075b8da16313b3e0c693ee2ff846fe" level="file">
+          <did>
+            <unittitle>Powers of attorney</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">6
+                folders</extent></physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1837/1876" type="inclusive"
+              >1837-1876</unitdate>
+            <container id="aspace_1cd99997df89501c35be47381ac80691" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+          <scopecontent id="aspace_884b3e481546bbdea72d3c12d8cda3ff">
+            <head>Scope and Contents</head>
+            <p>Most of these grant powers of attorney to William Holland Thomas from individual
+              Cherokee.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref179_bvq" level="file">
+          <did>
+            <unittitle>Register of Reservations Under the Cherokee Treaty of 1817</unittitle>
+            <unitdate normal="1817/1817" type="inclusive">undated</unitdate>
+            <physdesc id="aspace_52a67feccec99d23b492f48c6e76fd91">Volume (boards); 21x26 cm; 72
+              pages</physdesc>
+            <container id="aspace_0e61869ce278303633068ec11470dbf7" label="Mixed Materials"
+              type="volume">M:3924</container>
+          </did>
+          <scopecontent id="aspace_db12419f0a6c129fc4536714f7e079f0">
+            <head>Scope and Contents note</head>
+            <p>North Carolina and Tennessee. Alternative title: "Register of persons who wish
+              reservations under the Treaty of July 8, 1817." Includes names and places of residence
+              and occasionally other remarks such as "enrolled for Arkansas."</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_dd088b9d61c11e975415f2f9dedb4b87" level="file">
+          <did>
+            <unittitle>List of William Holland Thomas's powers of attorney from Cherokees East, and
+              their claims</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_ecbaf90d2bb7f64c445aabb42026b4cb" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_847ca25da5567da1aac535a30b5c02ec" level="file">
+          <did>
+            <unittitle>Names and valuations of allowed Cherokee Reservations</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_cd4aaa582d439779866180fb9c352c01" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b00468891308cfc193b7bcdd0fabefb5" level="file">
+          <did>
+            <unittitle>Cherokee Indian accounts, Murphy store</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_3d63770134f2f849177de06e80248a20" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_34d0eb609226b24db97c27b1e056f558" level="file">
+          <did>
+            <unittitle>Claims of the Cherokees East</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_374ee14f5018ce8f19f2f259694ca802" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_87b86f5887f9aec318e049ca6ec25e5a" level="file">
+          <did>
+            <unittitle>Indian Lands/Indian Tax List purchased as trustee for Cherokee</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_628b25bc4e789a8292d4cc0f2c81ccb4" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_13236b87721b0dcac03519daf3f8afaa" level="file">
+          <did>
+            <unittitle>List of claims/claimants for preemptions, Buffalo, N.C.</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_bd47aafff656baeda5f53e8588bdcec0" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_6ae0c5119e34db5f389334fde9d8d72b" level="file">
+          <did>
+            <unittitle>Statement showing the names of Cherokee Indians who reside East of the
+              Mississippi ... and the amount due to each for their claims ... under the treaty of
+              1835-1836</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_6ac938baa97e9d60856667495b6b8fbf" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_73910f36b7ebff4f3ab7f48ebe13f8d3" level="file">
+          <did>
+            <unittitle>Indian accounts written in the Indian language (Cherokee)</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_c2a2d7b6d0ce1207aac2d829c48771ed" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4c10640d4a5fcfdbe9a1f42cb40ffcfd" level="file">
+          <did>
+            <unittitle>List of sums of money paid to the Cherokees through their attorney William
+              Holland Thomas</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_ebe8033982771aee626417982d619b08" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_010a81ff17afffc482c06747f804bdb8" level="file">
+          <did>
+            <unittitle>Payments made to William Holland Thomas for fees in the per capita case
+              (Cherokees)</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_96b7d186ffbce3410b680013d98f88f2" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_9da157a4c6c1d54dcddba060a0827fdb" level="file">
+          <did>
+            <unittitle>List of Buffalo Cherokee and payments under the act of July 29, 1838, S. P.
+              Sherrill</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_b0e42f8dfdb2288839f900d7f5eda819" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_9e58ed01b5af3146abd7b2503954db4a" level="file">
+          <did>
+            <unittitle>A list of Cherokee claimants residing in Qualla Town, N.C.</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_75ceebb7ff8c7cd46d041d2dd79f85f6" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ddd5b6421b6a40dce837c0c7e8f6009b" level="file">
+          <did>
+            <unittitle>Roll of Reservations to Cherokees by the Treaties of 1817 and
+              1819</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_4b00f82c15aa167e188bab3cac362cf1" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_28b1ab4fe1bcbf44919dd70ebab3868d" level="file">
+          <did>
+            <unittitle>Department of the Interior. Office of Indian Affairs. Certified copies of
+              Cherokee reservation claims, 1856-1874</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_4265e80f35f7120f5c5bc08c623d7c8e" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_99f46b855cf7013f9f8ff6e850bcd402" level="file">
+          <did>
+            <unittitle>List of deeds for land in Indian boundary, 1831-1868</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_c8fb391008956d9bc9525670f2b72352" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_5ed064b5ee1c313dda4911d59cc74255" level="file">
+          <did>
+            <unittitle>List of names of Cherokee and clans to which they belong</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_50bd83b1d7d923e7980d78d39fa1c94c" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+          <scopecontent id="aspace_dd52ea0778c36f1b481ff95d0e74413c">
+            <head>Scope and Contents</head>
+            <p>Including Paint Town, Wolf Town, Pretty Woman Town, Deer Town, and Bird Town</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_737d6f8b369a61022e53297cb665ea92" level="file">
+          <did>
+            <unittitle>List of persons entitled to Reservations under 1819 Treaty with the
+              Cherokees</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_f7fc7cb968686e52a332a6154ba36b4f" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_770e8ecba5e92621905d199833b3b61e" level="file">
+          <did>
+            <unittitle>Rejected claims of George W. Churchwill left with William Holland
+              Thomas</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_cd8baeb90cbc48c5dca876d6eecc83d6" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_1381051eac3a2c8135a4ae065945ebfc" level="file">
+          <did>
+            <unittitle>Land surveys, Bird Town, N.C. by George Mason</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_733916266071fda71d203161811265c7" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_64ed92488217b1003b88fc49160877e8" level="file">
+          <did>
+            <unittitle>Persons who had died on the census of 1838</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_183747eaece1671432048e5901e844d6" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_0803992f7cfd1aaa712025e062d902e0" level="file">
+          <did>
+            <unittitle>Explanation of the rights and claims of the Cherokee Indians remaining in the
+              States east of the Mississippi, addressed to H. Conner, Charleston</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_f9f7c9dd237fbaa4bc14ff68dc055c6c" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_760362e68b15d90d6e8b6462fc3e7400" level="file">
+          <did>
+            <unittitle>Cherokee Indians vs. Thomas: original answer of James R. Thomas</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_0c0b7ee9d2f3e3b856ae684253e6d091" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4e6b04f8193817c1223b45a083fa8e47" level="file">
+          <did>
+            <unittitle>List of names of Cherokee Indians who are supposed to have been engaged in
+              the late war between the U.S. and the Confederate States</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_1fda7570bb8a56402b6947967dc48b7c" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+          <scopecontent id="aspace_d91268b19a834a8c9753415e9c632120">
+            <head>Scope and Contents</head>
+            <p>Including whether allied with Union or Confederate side (sometimes, both sides)</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_a5e4058ba77dd5a7d67df8cd5611df31" level="file">
+          <did>
+            <unittitle>William Holland Thomas claim for subsisting Euchalla and his band of
+              Cherokees, including statement explaining the case</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_17bedd3d8c0aac01741b32ef6517d78a" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+          <scopecontent id="aspace_d2b3acd06a95736162b07b500d1ecc63">
+            <head>Scope and Contents</head>
+            <p>Re: Charley and his band of outlaws</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_bee57bc262b7dedbca171273234bc121" level="file">
+          <did>
+            <unittitle>List of Cherokee Indians that aided in capturing Charley and his band of
+              outlaws</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_e6bfe2bb8285de5563b315481b452bc0" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b8426cef70076a4c2327f3e337d92ef7" level="file">
+          <did>
+            <unittitle>Register of the names of Cherokees allowed citizenship</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_49935056544e0a98b3d373a6b108b0ec" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_6f30205e7d09876cbb59c6386155d70f" level="file">
+          <did>
+            <unittitle>Names and number of Cherokees on Valley River</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_c42bc8b5e0369ed9268125233ec039c5" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref36_64o" level="file">
+          <did>
+            <unittitle>Account Book ("An estimate of land purchased lying on Soco Creek in Haywood
+              County, the price paid for them, the No. of Acres, from whom purchased")</unittitle>
+            <unitdate normal="1836/1841" type="inclusive">1836-1841</unitdate>
+            <physdesc id="aspace_6fadfccc4ca917e37773bfab7f68fbbf">Volume (paper); 16x18.5 cm; 40
+              pages</physdesc>
+            <container id="aspace_6fa50ccc33a6b65ac9483469d8e680f7" label="Mixed Materials"
+              type="volume">M:3852</container>
+          </did>
+          <scopecontent id="aspace_762013c69ac2ed9a8bb5a71940162bb6">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Records of land purchased for Cherokee in Quallatown. Pages
+              8-40ish are blank. More text on last page.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref44_k1c" level="file">
+          <did>
+            <unittitle>Account Book ("Book account of cloth sold on Smoky mounts to the
+              Indians")</unittitle>
+            <unitdate normal="1838/1838" type="inclusive">1838</unitdate>
+            <physdesc id="aspace_e969b612eee200027155ca712f905f3b">Volume (paper); 17x19 cm; 25
+              pages</physdesc>
+            <container id="aspace_72cda08fce463c90b525e1547a192550" label="Mixed Materials"
+              type="volume">M:3856</container>
+          </did>
+          <scopecontent id="aspace_19c72d46f0baea35b3ad3837168ac35e">
+            <head>Scope and Contents note</head>
+            <p>Haywood County, N.C. Accounts of cloth sales by Robert Collins to Cherokee, including
+              amount and customer names. Middle portion of booklet is blank. There are also accounts
+              at the end of the booklet with additional Cherokee names.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="aspace_67a91e8692e7ee730bfbc0fa2b42fe5d" level="series">
+        <did>
+          <unittitle>Personal papers</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1853/1889" type="inclusive"
+            >1853-1889</unitdate>
+          <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+        </did>
+        <scopecontent id="aspace_5260d02af5d5da9aab9d921a756fa6e8">
+          <head>Scope and Contents</head>
+          <p>Thomas's assorted personal materials, including scrapbooks, that document his role as a
+            community leader in Haywood County as well as inventories of his personal library.</p>
+        </scopecontent>
+        <c02 id="aspace_ref181_k4g" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1852/1888" type="inclusive">1852-1888</unitdate>
+            <physdesc id="aspace_779dec2bc4910db348242904ece5390e">Volume (boards); 23x34 cm; 120
+              pages</physdesc>
+            <container id="aspace_3f4c87df5e8c0bfedd03e0c55eda738f" label="Mixed Materials"
+              type="volume">F:3925</container>
+          </did>
+          <scopecontent id="aspace_17c743ddcfdf62cd9dfef4bae526df53">
+            <head>Scope and Contents note</head>
+            <p>Jackson County, N.C. Clippings and pencilled notes by Thomas on a range of political
+              topics and figures.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_ref183_xrj" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1890/1890" type="inclusive">approximately 1890</unitdate>
+            <physdesc id="aspace_155ec81705d45e0f629cf16b17fc655e">Volume (boards); 24x30 cm; 15
+              pages</physdesc>
+            <container id="aspace_1530c885076e5c78147b837c34b2dfe5" label="Mixed Materials"
+              type="volume">L:3926</container>
+          </did>
+          <scopecontent id="aspace_afea550213971c2b1092a37d76a9127c">
+            <head>Scope and Contents note</head>
+            <p>Waynesville, N.C. Scrapbook with valentines, printed pictures/clippings kept by
+              unknown Thomas. Mutilated.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="aspace_1203826058cd98f6a3ec4e4861c9213c" level="file">
+          <did>
+            <unittitle>Unsigned draft of a letter to the editor of Pickens Courier</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1853-09-01/1853-09-01" type="inclusive"
+              >1853 Sept. 1</unitdate>
+            <container id="aspace_7a766a05cd4910c52c70cc59bb853ad5" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_9320e90cbf4fc77b97b874622a0e0357" level="file">
+          <did>
+            <unittitle>N.C. Superintendent of Public Instruction: blank forms for county
+              officials</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1885/1889" type="inclusive"
+              >1885-1889</unitdate>
+            <container id="aspace_4760651f796b591e921e78d2b5ad96bd" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_eee194e53a0413fde8ade9b05c493c72" level="file">
+          <did>
+            <unittitle>"Standridge Book"</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_4a7fbf6156738ac14507a6f6914a07e1" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_bc8ce747ec4fa894506be8b9e46fb248" level="file">
+          <did>
+            <unittitle>Webster Township, Jackson Co., N.C. petition to Congress for funding of
+              schools</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_79e4176f060d898c943fc843f447e86b" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_05ffa65a63c6d2a98409d9baba66c701" level="file">
+          <did>
+            <unittitle>Old North State poem/ballad</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_28e2ec680e645e5df881612757f87b82" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b6bd864d442eed457ba867393fd1567d" level="file">
+          <did>
+            <unittitle>Books bought by William Holland Thomas at sale/auction</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_bc94257b2cec33fa2b3b39401aa33049" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_6eb08e00429d0b110ea6d3f9b6c95ff2" level="file">
+          <did>
+            <unittitle>Catalogue of books held by William Holland Thomas</unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+            <container id="aspace_9a8d9e1b3b1cfd5cd6956506e6aa927d" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

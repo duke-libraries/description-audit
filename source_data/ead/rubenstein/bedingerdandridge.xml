@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/bedingerdandridge/"
+         >bedingerdandridge</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Bedinger and Dandridge Family Papers, 1752-2000
+                  <num>RL.00097</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library Staff; machine-readable finding aid created by:
+               Abraham Lee</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000851724</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-28 12:20:58
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Bedinger and Dandridge Family papers</unittitle>
+         <origination label="creator">
+            <famname source="ingest">Bedinger family</famname>
+         </origination>
+         <unitid>RL.00097</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">30 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1752/2000" type="inclusive">1752-2000</unitdate>
+         <physloc id="aspace_8cdd4b0c4ada7da7b2190b69cad5e912">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_6c763384c131701da0c5531f06f01cda">Bedinger and Dandridge families of
+            Virginia, West Virginia, Kentucky, Ohio, and New York. Collection consist of journals,
+            correspondence, poems, reviews, and other papers of the Bedinger, Dandridge, Washington,
+            Henry Clay, and Adam Stephen families, of Virginia, Kentucky, and Ohio; and of the
+            Cornwall, Lawrence, Mitchell, Walter Bowne, and Rufus King Southgate families, of
+            Connecticut, Maine, and New York primarily created or collected by Caroline Danske
+            (Bedinger) Dandridge. The papers fall into six classes: journals and fragments of
+            journals of Danske Dandridge (1864-1909), Henry Bedinger (1830s), and Daniel Bedinger
+            (1811); correspondence and material on Kentucky and the northern Shenandoah Valley
+            during the Revolutionary period; family correspondence, genealogies, and memoirs used in
+            writing the Bedinger family history; papers of Henry Bedinger, the American Minister to
+            Denmark in the 1850s; poems, reviews and literary correspondence of Danske Dandridge,
+            and poems and prose of her father, Henry Dandridge, and of her daughter, Serena
+            Catherine Dandridge; and horticultural writings of Danske Dandridge.</abstract>
+         <physdesc id="aspace_408d231f858ab5ff92b2d0f6bb655913">
+            <extent>13,000 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_5dfbd77eee7428dfdaaff9a0c0b6fe69">Material in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_d284828710c66a9d84a8d13e86c480e7">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_0db02eeedd3a5854edf36d83b6b35d6d">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_61bad19d9a42e25e5990f6796deac30f">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Bedinger and Dandridge Family Papers, David M. Rubenstein Rare
+            Book &amp; Manuscript Library, Duke University</p>
+      </prefercite>
+      <acqinfo id="aspace_6ba6cc39dffab69af8c1705743947a96">
+         <head>Provenance</head>
+         <p>The Bedinger-Dandridge Papers were acquired by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library from 1955 to 1959, and 2003.</p>
+      </acqinfo>
+      <processinfo id="aspace_8d353ed810aff38bed7f7e8ec4a14d8b">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library Staff</p>
+         <p>Encoded by Abraham Lee and Noah Huffman, April 2010</p>
+         <p>Accessions from 1955-1959 and 2003 were merged into one collection, described in this
+            finding aid.</p>
+      </processinfo>
+      <bioghist id="aspace_8f254a292bf1b0f64f01624aebbfc8c0">
+         <head>Biographical Note</head>
+         <p>Bedinger and Dandridge families of Virginia, West Virginia, Kentucky, Ohio, and New
+            York.</p>
+      </bioghist>
+      <scopecontent id="aspace_de9bd77705e42f63116c98f8fe10b2a6">
+         <head>Collection Overview</head>
+         <p>Collection includes the correspondence and papers of five generations of families from
+            Virginia, West Virginia, Kentucky, Ohio, and New York chiefly created or collected by
+            Carolina Danske (Bedinger) Dandridge. The primary portion of the collection is made up
+            of the personal and family papers of Danske Dandridge (1858-1914), a writer and
+            horticulturist. From 1866 to her marriage in 1877, Danske Dandridge's correspondence is
+            concerned with social life in Virginia and Washington, D.C., and with family matters.
+            Her literary correspondence begins in the early 1880s and continues until the year of
+            her death. Correspondents include John Esten Cooke, Edmund C. Stedman, Oliver Wendell
+            Holmes, John Greenleaf Whittier, and Thomas W. Higginson. There are sustained exchanges
+            of letters with William Hayes Ward, editor of <title type="simple" render="italic">The
+               Brooklyn Independent</title> which published much of her work; with the poet Lizette
+            Woodworth Reese of Baltimore; and Margaretta Lippincott. Material on gardening begins to
+            appear in the papers for the 1890s and includes a large number of letters and eleven
+            notebooks.</p>
+         <p>Danske Dandridge's family correspondence continues with here sister Mrs. J. F. B. (Mary
+            Bedinger) Mitchell, and her brother, Henry Bedinger IV, as well as with her numerous
+            cousins.</p>
+         <p>Correspondence of Adam Stephen Dandridge (1844-1924) reflects his career in the West
+            Virginia House of Representatives and his business as a seller of farm machinery.</p>
+         <p>Correspondence and papers of Serena Katherine (Violet) Dandridge, daughter of Danske and
+            Adam Stephen Dandridge, bear on her career as an illustrator for the zoologist Hubert
+            Lyman Clark, and reflect her interest in women's suffrage and the Swedenborgian Church.
+            There are also twelve volumes of her writings in manuscript.</p>
+         <p>Correspondence and papers of Danske Dandridge's father, Henry Bedinger Dandridge III,
+            include letters on literary subjects from Thomas Willis White, Philip Pendleton Cooke,
+            and Nathaniel Beverly Tucker; papers from his years as a member of the United States
+            House of Representatives from 1845 to 1849; records of his service, 1853-1858, first as
+            a consul and then as minister of the United States in Sweden and in particular his
+            negotiation of the treaty with Sweden in 1857; and his notebooks containing poems and
+            comments on social life in Virginia.</p>
+         <p>Letters of Caroline B. (Lawrence) Bedinger, mother of Danske Dandridge, to her husband's
+            family in the South and her relatives in New York concern her experience as a young
+            woman in Washington, D.C., and Virginia; her stay in Copenhagen; the Civil War
+            experiences of her husband's family and her own; family life; and the education of her
+            children.</p>
+         <p>The collection contains a large number of transcripts made by Danske Dandridge from
+            originals in the possession of various branches of her family, including the
+            Swearingens, Shepherds, Morgans, Rutherfords, Worthingtons, Washingtons, Kings, Brownes,
+            and Lawrences for the period from the American Revolution to the Civil War. There are
+            also copies of letters and documents from the Lyman C. Draper manuscripts at the
+            University of Wisconsin. Essentially, they are the papers of three brothers, George
+            Michael Bedinger (1756-1843), Henry Bedinger II (1753-1843), and Daniel Bedinger
+            (1761-1818), and their descendants and connections. Among the many subjects discussed
+            are Indian warfare and conditions on the Virginia frontier; descriptions of the events
+            of the Revolution; trading in salt and fur; experiences of Americans held prisoner by
+            the British during the Revolution; flour milling in the Potomac valley; trade and
+            transport of farm commodities; travel on the Mississippi to New Orleans, 1811-1812;
+            James Rumsey and the development of the steamboat; the settling of Kentucky and Ohio,
+            descriptions of Washington D.C., Philadelphia, and Baltimore at various times from 1800
+            to 1860; antebellum social life, South and North; and extensive comments on politics
+            through 1860, particularly on the opposition to Federalism and the early
+            Democratic-Republican Party.</p>
+         <p>Description taken from <title type="simple" render="italic">Guide to the Cataloged
+               Collections in the Manuscript Department of the William R. Perkins Library, Duke
+               University.</title> (1980).</p>
+      </scopecontent>
+      <controlaccess>
+         <geogname source="lcsh">Kentucky -- History -- Revolution, 1775-1783</geogname>
+         <geogname source="lcsh">United States -- Genealogy</geogname>
+         <geogname source="lcsh">Shenandoah River Valley (Va. and W. Va.) -- History -- Revolution,
+            1775-1783</geogname>
+         <geogname source="lcsh">West Virginia -- History -- 19th century</geogname>
+         <geogname source="lcsh">United States -- History -- Revolution, 1775-1783</geogname>
+         <geogname source="lcsh">United States -- Foreign relations -- Denmark</geogname>
+         <genreform source="aat">Photographs</genreform>
+         <subject source="lcsh">Authors, American -- Correspondence</subject>
+         <subject source="lcsh">Diplomatic and consular service, American -- Denmark</subject>
+         <subject source="lcsh">Horticultural writers -- United States</subject>
+         <geogname source="lcsh">Denmark -- Foreign relations -- United States</geogname>
+         <subject source="lcsh">Women authors -- United States</subject>
+         <famname source="ingest">Cornwell family</famname>
+         <persname source="ingest">Clay, Henry, 1777-1852</persname>
+         <persname source="ingest">Dandridge, Danske, 1858-1914</persname>
+         <famname source="ingest">Dandridge family</famname>
+         <famname source="ingest">Mitchell family</famname>
+         <famname source="ingest">Lawrence family</famname>
+         <persname source="ingest">Stephen, Adam</persname>
+         <persname source="ingest">Southgate, Rufus King</persname>
+         <famname source="ingest">Washington family</famname>
+         <famname source="ingest">Bedinger family</famname>
+         <famname source="ingest">Bedinger family</famname>
+         <persname source="ingest">Bedinger, Henry, 1812-1858</persname>
+         <persname source="ingest">Bedinger, Daniel, 1761-1818</persname>
+         <persname source="ingest">Bowne, Walter</persname>
+         <persname source="ingest">Bedinger, Serena Catherine</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref12_7st" level="series">
+            <did>
+               <unittitle>Correspondence Series, 1752-1950s and undated</unittitle>
+               <physdesc id="aspace_042066b6b22b83214455d1b7585dd2f1">
+                  <extent>28 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref14_pjr" level="file">
+               <did>
+                  <unittitle>Correspondence, 1752-1845</unittitle>
+                  <container id="aspace_2504754b6c7c72eaab2d2a7d6fc8326c" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_yal" level="file">
+               <did>
+                  <unittitle>Correspondence, 1846-1849</unittitle>
+                  <container id="aspace_c77c4fec5183ed179566cd1d1f2ba998" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_xax" level="file">
+               <did>
+                  <unittitle>Correspondence, 1850-1856</unittitle>
+                  <container id="aspace_cf6b51da78cf7c1f98e3edcc517e816a" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_0m2" level="file">
+               <did>
+                  <unittitle>Correspondence, 1857-1862</unittitle>
+                  <container id="aspace_12987a26fd80d534866545c326130ad7" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_coa" level="file">
+               <did>
+                  <unittitle>Correspondence, 1863-1875</unittitle>
+                  <container id="aspace_35c947fb7e6a79bb7aac0927bd98f69b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_t4f" level="file">
+               <did>
+                  <unittitle>Correspondence, 1876-1882</unittitle>
+                  <container id="aspace_f96112281c69459c859c81a9f81d83e5" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_co5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1883-1885</unittitle>
+                  <container id="aspace_364fa278bfa83ec0ec0eb7db05dbc8a8" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_hee" level="file">
+               <did>
+                  <unittitle>Correspondence, 1886-1887</unittitle>
+                  <container id="aspace_47e51f4d646d07b689b5a9b9955f3e9c" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_fxs" level="file">
+               <did>
+                  <unittitle>Correspondence, 1888-1889</unittitle>
+                  <container id="aspace_19915a44694df005de4a043133972706" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_vf8" level="file">
+               <did>
+                  <unittitle>Correspondence, 1890-1891</unittitle>
+                  <container id="aspace_9a6f3a428844aefda5e5fd6dd87dc431" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_uhx" level="file">
+               <did>
+                  <unittitle>Correspondence, 1892-1894</unittitle>
+                  <container id="aspace_76b2113cce5e55a857c9364083acac41" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_f01" level="file">
+               <did>
+                  <unittitle>Correspondence, 1895-1896</unittitle>
+                  <container id="aspace_6d7d494f86ce991f61ef0e40f5d5fc20" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_ne1" level="file">
+               <did>
+                  <unittitle>Correspondence, 1897-1899</unittitle>
+                  <container id="aspace_b611dec270307833f50c8d348653831c" label="Mixed Materials"
+                     type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_4n5" level="file">
+               <did>
+                  <unittitle>Correspondence, 1900-1901</unittitle>
+                  <container id="aspace_743bf6d6aecf4479b51b6e8eeccce27c" label="Mixed Materials"
+                     type="box">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_fmv" level="file">
+               <did>
+                  <unittitle>Correspondence, 1902-1903</unittitle>
+                  <container id="aspace_bf3badec9670a3148cbdcdb868638f41" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_2w4" level="file">
+               <did>
+                  <unittitle>Correspondence, 1904-1905</unittitle>
+                  <container id="aspace_d40f88c09f6e43550ac5cbc6a8447e73" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_ihl" level="file">
+               <did>
+                  <unittitle>Correspondence, 1906-1907, Jan.-March</unittitle>
+                  <container id="aspace_b87d54f684335a91a4ecffcbdf37f5ca" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_u6u" level="file">
+               <did>
+                  <unittitle>Correspondence, 1907, Apr.-Dec.</unittitle>
+                  <container id="aspace_982a36e0febba11e4cd573e78409b796" label="Mixed Materials"
+                     type="box">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_g89" level="file">
+               <did>
+                  <unittitle>Correspondence, 1908</unittitle>
+                  <container id="aspace_bad62a5b70b2eaba3641c64530acf84f" label="Mixed Materials"
+                     type="box">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_lkq" level="file">
+               <did>
+                  <unittitle>Correspondence, 1909</unittitle>
+                  <container id="aspace_9d23a6ab6042916d20bc748aff7ba6c0" label="Mixed Materials"
+                     type="box">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_16k" level="file">
+               <did>
+                  <unittitle>Correspondence, 1910</unittitle>
+                  <container id="aspace_bb5867cf887393205c15399bc9f8cd01" label="Mixed Materials"
+                     type="box">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_8a1" level="file">
+               <did>
+                  <unittitle>Correspondence, 1911, Jan.-July</unittitle>
+                  <container id="aspace_823bfa6ad8157a741b6c920b4c6b353b" label="Mixed Materials"
+                     type="box">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_z8y" level="file">
+               <did>
+                  <unittitle>Correspondence, 1911, Aug.-1913</unittitle>
+                  <container id="aspace_bb2eea4fcb528eb043510024ceb077cb" label="Mixed Materials"
+                     type="box">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_52m" level="file">
+               <did>
+                  <unittitle>Correspondence, 1914-1916</unittitle>
+                  <container id="aspace_95fbae2ea01bbac7288c0725c626f054" label="Mixed Materials"
+                     type="box">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_7ww" level="file">
+               <did>
+                  <unittitle>Correspondence, 1917-1950s</unittitle>
+                  <container id="aspace_b3bc4131f58873c3e5b27f07aa566da7" label="Mixed Materials"
+                     type="box">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_5xu" level="file">
+               <did>
+                  <unittitle>Correspondence, undated</unittitle>
+                  <container id="aspace_59defad1f5aa6831651033c84030ec75" label="Mixed Materials"
+                     type="box">26</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_r46" level="file">
+               <did>
+                  <unittitle>Correspondence, undated</unittitle>
+                  <container id="aspace_67402a705af76c82227a7fc1e0230921" label="Mixed Materials"
+                     type="box">27</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_bv1" level="file">
+               <did>
+                  <unittitle>Correspondence (copies), 1784-1854</unittitle>
+                  <container id="aspace_c589484dc27ceab3536e52c5b46ce59f" label="Mixed Materials"
+                     type="box">28</container>
+               </did>
+               <scopecontent id="aspace_1942de6e7818470adc1644f2aef5bf88">
+                  <head>Scope and Contents note</head>
+                  <p>Includes letters of Henry Bedinger II, Henry Bedinger Davenport, and Caroline
+                     (L.) Bedinger.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref43_gsl" level="series">
+            <did>
+               <unittitle>Writings Series</unittitle>
+               <physdesc id="aspace_464d57085aa69d0179e4e7d45d009e1f">
+                  <extent>9 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref45_3bm" level="file">
+               <did>
+                  <unittitle>Writings of Henry Bedinger III</unittitle>
+                  <container id="aspace_3c373eced657efd3d7c7bf8490f42bb7" label="Mixed Materials"
+                     type="box">29</container>
+               </did>
+               <scopecontent id="aspace_092acf92f1420cf66546315aef51c020">
+                  <head>Scope and Contents note</head>
+                  <p>Copies of Bedinger papers in the Draper Collection, University of
+                     Wisconsin.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref47_ef5" level="file">
+               <did>
+                  <unittitle>Writings of Danske Dandridge</unittitle>
+                  <container id="aspace_fa9a95e19eacd9ea0dc68d7e1e8b63a7" label="Mixed Materials"
+                     type="box">30</container>
+               </did>
+               <c03 id="aspace_ref48_uq5" level="file">
+                  <did>
+                     <unittitle>Prose (Fiction)</unittitle>
+                     <container id="aspace_79fa4ecac4b6ddde9d7ad089c2460e50" label="Mixed Materials"
+                        type="box">30</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_2k8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">St. Clair's Campaign</title>
+                     </unittitle>
+                     <container id="aspace_6b81aacfc3a8b968f496633eadb95396" label="Mixed Materials"
+                        type="box">31</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_5c7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">De Deah Old House</title>
+                     </unittitle>
+                     <container id="aspace_7d9429e5a73294171d462e937464ff1d" label="Mixed Materials"
+                        type="box">31</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref51_04n" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Heroes of the Vendee</title>
+                     </unittitle>
+                     <container id="aspace_16b2568eb08b5933d071385ae1e998d0" label="Mixed Materials"
+                        type="box">32</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_nkd" level="file">
+                  <did>
+                     <unittitle>Prose (Non-fiction)--including Garden Notes, 1899-1901 and letters
+                        about her garden to Lizette Reese</unittitle>
+                     <container id="aspace_024b04ec15913982b22d03d1460e8fc2" label="Mixed Materials"
+                        type="box">33</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_i24" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Cossack Celebration,</title> poetry (Holo.
+                        MSS.), and prose (fiction)</unittitle>
+                     <container id="aspace_f70f320ed39f16eced0be6dd2bc88636" label="Mixed Materials"
+                        type="box">34</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref54_w4x" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Henry Bedinger and Old Shepherdstown</title>
+                     </unittitle>
+                     <container id="aspace_42d4af69e3eba789ce83ff80b73d003d" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref55_g63" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Henry Bedinger and Old Bedford</title>
+                     </unittitle>
+                     <container id="aspace_05bf642f425be610b0b812be004b3e2b" label="Mixed Materials"
+                        type="box">35</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref56_i4w" level="file">
+               <did>
+                  <unittitle>Writings of Serena C. (Violet) Dandridge</unittitle>
+                  <container id="aspace_47535993b3f59e614d559da46223c784" label="Mixed Materials"
+                     type="box">36</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_z4t" level="file">
+               <did>
+                  <unittitle>Elizabeth S. Pendleton, <title render="doublequote">The Burning of
+                        Fountain Rock</title>
+                  </unittitle>
+                  <container id="aspace_494ede552642db06173ee9f2d779b802" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_q9j" level="file">
+               <did>
+                  <unittitle>Henrietta (Lee) Goldsborough, <title render="doublequote">The Fate of
+                        Old Ironsides</title> and <title render="doublequote">Original Masts</title>
+                  </unittitle>
+                  <container id="aspace_2cd9f0392eda3fa17c707ceb0c729064" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_zdu" level="file">
+               <did>
+                  <unittitle>Other writings by various people</unittitle>
+                  <container id="aspace_81014ebd560b7ab2762c5357e7537ce8" label="Mixed Materials"
+                     type="box">37</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref60_y7h" level="series">
+            <did>
+               <unittitle>Miscellany Series</unittitle>
+               <physdesc id="aspace_e6597c64aa2884033cb8441a4d7789c0">
+                  <extent>8 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref62_wb2" level="file">
+               <did>
+                  <unittitle>Legal Papers</unittitle>
+                  <container id="aspace_85c819887334050dd515c763f4bcc78a" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_dhd" level="file">
+               <did>
+                  <unittitle>Financial Papers</unittitle>
+                  <container id="aspace_c46488d1186631ff67a6c4b5c1fe35d1" label="Mixed Materials"
+                     type="box">38</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_n0j" level="file">
+               <did>
+                  <unittitle>Financial Papers</unittitle>
+                  <container id="aspace_13f260e4efbc9c01b1d87e7c81b18438" label="Mixed Materials"
+                     type="box">39</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_9mg" level="file">
+               <did>
+                  <unittitle>Genealogy</unittitle>
+                  <container id="aspace_837f80b20e5cb9d113a6ccbc5ec8c53e" label="Mixed Materials"
+                     type="box">40</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_cv2" level="file">
+               <did>
+                  <unittitle>Miscellany</unittitle>
+                  <container id="aspace_12f934f8decb0ad2edb0ffd4d73755f3" label="Mixed Materials"
+                     type="box">41</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_3q9" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <container id="aspace_7dc1ae06453ad870321819cb228e830a" label="Mixed Materials"
+                     type="box">42</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_qar" level="file">
+               <did>
+                  <unittitle>Printed Material: Leaflets, Broadsides, and pamphlets, 1827-1957 and
+                     undated</unittitle>
+                  <container id="aspace_5ba322beeb252bdaf32376db8a4ea764" label="Mixed Materials"
+                     type="box">43</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_ux3" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <container id="aspace_a7af637b4826d0eb8a9c8d2666bdc948" label="Mixed Materials"
+                     type="box">44</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_vh8" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <container id="aspace_e04b1d7882a00ba241d7a2a14a138aaf" label="Mixed Materials"
+                     type="box">45</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref71_3bh" level="series">
+            <did>
+               <unittitle>Journals, Volumes, and Notebooks Series</unittitle>
+               <physdesc id="aspace_2346253c811d4910107eeef2fdce75e3">
+                  <extent>18 boxes</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref73_w0v" level="file">
+               <did>
+                  <unittitle>Daniel Bedinger Journal, 1811-1812</unittitle>
+                  <container id="aspace_139898331de3ff318231fdd7d28708ef" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref74_ht9" level="file">
+               <did>
+                  <unittitle>Hugh Stephenson, Muster Roll, 1776</unittitle>
+                  <container id="aspace_aff665a2916cd0f2e58ff7ff08cb5ab4" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_b1p" level="file">
+               <did>
+                  <unittitle>Caroline (Lawrence) Bedinger, Letterbooks, 1848-1862</unittitle>
+                  <container id="aspace_fe63f5917e35fcea96cab2a812f27e87" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_k0n" level="file">
+               <did>
+                  <unittitle>Mar (Bedinger) Mitchel, Memoirs, 1854-1860</unittitle>
+                  <container id="aspace_33ac57f43914f04c0707079c4ecce262" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_yha" level="file">
+               <did>
+                  <unittitle>Notebooks on family history: 1892; 1903; 1906; 1907; 1910</unittitle>
+                  <container id="aspace_7bf6e0f19e8668b835823c9a5aeec521" label="Mixed Materials"
+                     type="box">46</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_ocx" level="file">
+               <did>
+                  <unittitle>Danske Dandridge's Journals, 1864-ca. 1892</unittitle>
+                  <container id="aspace_a55293aa1b01393f5139f9837777f74c" label="Mixed Materials"
+                     type="box">47</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_lgj" level="file">
+               <did>
+                  <unittitle>Danske Dandridge's Journals, 1885-1904</unittitle>
+                  <container id="aspace_62dee3fb66a2e8d613f8c05700c6dc4b" label="Mixed Materials"
+                     type="box">48</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_idd" level="file">
+               <did>
+                  <unittitle>Danske Dandridge's journals, 1906-1909</unittitle>
+                  <container id="aspace_a82d4c56f6afa5dd53cfb1df5745b91d" label="Mixed Materials"
+                     type="box">49</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref81_enz" level="file">
+               <did>
+                  <unittitle>Danske Dandridge's Autobiography</unittitle>
+                  <container id="aspace_6ecb39ef2368699fa650be07a124bba9" label="Mixed Materials"
+                     type="box">49</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_80o" level="file">
+               <did>
+                  <unittitle>Family record, 1877-1885</unittitle>
+                  <container id="aspace_0592cf06f5a073e986f60df42b0c13b1" label="Mixed Materials"
+                     type="box">49</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_zu4" level="file">
+               <did>
+                  <unittitle>Poetry</unittitle>
+                  <container id="aspace_57b861a93eb65a7968b149f5e33abc46" label="Mixed Materials"
+                     type="box">49</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_649" level="file">
+               <did>
+                  <unittitle>Danske Dandridge's Garden notes, Journals, and articles</unittitle>
+                  <container id="aspace_1a422ce3372061e6a209f310244fa17f" label="Mixed Materials"
+                     type="box">50</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_0pa" level="file">
+               <did>
+                  <unittitle>Notebooks for American Prisoners of the Revolution and Historic
+                     Shepherdstown</unittitle>
+                  <container id="aspace_bc50795d8020e9cdccfd76a566b94e65" label="Mixed Materials"
+                     type="box">51</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref86_ga8" level="file">
+               <did>
+                  <unittitle>Notebooks for "Heroes of the Vendee" and "De Deah Old
+                     House"</unittitle>
+                  <container id="aspace_d4b951121626d1ee5ef0d09c41f3ee74" label="Mixed Materials"
+                     type="box">52</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_8d4" level="file">
+               <did>
+                  <unittitle>Notebooks for "St. Clair's Campaign"</unittitle>
+                  <container id="aspace_c284657f465f4c77c80be3632bd19367" label="Mixed Materials"
+                     type="box">53</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_n1y" level="file">
+               <did>
+                  <unittitle>Writings of Danske Dandridge, including fiction and other
+                     prose</unittitle>
+                  <container id="aspace_2537284a8d29e40e5bd762c3c64d75b0" label="Mixed Materials"
+                     type="box">54</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref89_q8l" level="file">
+               <did>
+                  <unittitle>Serena Katherine (Violet) Dandridge poetry</unittitle>
+                  <container id="aspace_fcee526742d42a52961a0b9a2cc5c0d3" label="Mixed Materials"
+                     type="box">55</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_rz8" level="file">
+               <did>
+                  <unittitle>Scrapbooks</unittitle>
+                  <container id="aspace_2a3b8e288004c734b6ae3a29fdf7a65a" label="Mixed Materials"
+                     type="box">56</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_25c" level="file">
+               <did>
+                  <unittitle>Scrapbooks</unittitle>
+                  <container id="aspace_5e0802e7f60c5a0451a6f8e8198e5bc2" label="Mixed Materials"
+                     type="box">57</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_g0x" level="file">
+               <did>
+                  <unittitle>Business Records</unittitle>
+                  <container id="aspace_f8c0957706fbca211eb063961eb30308" label="Mixed Materials"
+                     type="box">58</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_s77" level="file">
+               <did>
+                  <unittitle>Business Records</unittitle>
+                  <container id="aspace_9ab80fbbd3cd00eafa9354d4aca52f86" label="Mixed Materials"
+                     type="box">59</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_la7" level="file">
+               <did>
+                  <unittitle>Business Records</unittitle>
+                  <container id="aspace_1f03c9073227b64f17f84927e0a7107d" label="Mixed Materials"
+                     type="box">60</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_r8o" level="file">
+               <did>
+                  <unittitle>Miscellaneous Volumes</unittitle>
+                  <container id="aspace_f206a979f9ac9f84c37ef1a853108519" label="Mixed Materials"
+                     type="box">61</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_tz5" level="file">
+               <did>
+                  <unittitle>Miscellaneous Volumes</unittitle>
+                  <container id="aspace_583eef146b718ec97fd8c2fd261d2723" label="Mixed Materials"
+                     type="box">62</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_r77" level="file">
+               <did>
+                  <unittitle>Miscellaneous Volumes</unittitle>
+                  <container id="aspace_d87f51283c97bfac324fe4194b778b39" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref98_mo9" level="series">
+            <did>
+               <unittitle>Audiovisual materials, 2000</unittitle>
+               <physdesc id="aspace_b043ca023aa62cdd7ce44c0a793cb607">
+                  <extent>1 item</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref100_r79" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic">Immortal Essence: The Life and Writings of Danske
+                        Dandridge, Poet and Nature-Lover,</title> shown on West Virginia Public
+                     Television.</unittitle>
+                  <physdesc id="aspace_fd9e53c5cb860d6006d1d7c624c69c75">VHS cassette</physdesc>
+                  <container id="aspace_915e89349592d26235bf6e0c5ed27bfb" label="Mixed Materials"
+                     type="box">63</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

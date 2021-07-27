@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NcD"
+      url="https://library.duke.edu/rubenstein/findingaids/weinmann/">weinmann</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Alexander Weinmann Papers, 1614-1986
+          <num>RL.01359</num></titleproper>
+        <author>Processed by: Dan Daily; machine-readable finding aid created by: Stephen Douglas
+          Miller. Further edits by: Paula Jeannet Mangiafico.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+        <p><date>1994</date></p>
+        <address>
+          <addressline>411 Chapel Drive</addressline>
+          <addressline>Duke University</addressline>
+          <addressline>Durham 27708</addressline>
+          <addressline>special-collections@duke.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+              xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/" xlink:type="simple"
+            /></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Aleph Number: <num type="aleph">001582404</num></p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-07-16 10:02:25
+          -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported to
+          Archivists Toolkit</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="ger">German</language>
+      </langmaterial>
+      <repository>
+        <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+      </repository>
+      <unittitle>Alexander Weinmann papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Weinmann, Alexander, 1901-1987</persname>
+      </origination>
+      <unitid>RL.01359</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14 Linear Feet</extent>
+      </physdesc>
+      <unitdate normal="1614/1986" type="inclusive">1614-1986</unitdate>
+      <physloc id="aspace_c295bde31c02b3d777af9865676149fd">For current information on the location
+        of these materials, please consult the Library's online catalog.</physloc>
+      <physdesc id="aspace_aac86dfed66a3033446fdff77d08a785"><extent>7,000 Items</extent></physdesc>
+      <langmaterial id="aspace_2718dcd09d2f6a3f5fc6e2d9a2c37c03">German, and English.
+      </langmaterial>
+    </did>
+    <accessrestrict id="aspace_c262d20c96965c5f4e8ba3ec409528d4">
+      <head>Access Restrictions</head>
+      <p>Portions of the Alexander Weinmann Papers are restricted.</p>
+      <p>Researchers must register and agree to copyright and privacy laws before using this
+        collection.</p>
+      <p>All or portions of this collection may be housed off-site in Duke University's Library
+        Service Center. The library may require up to 48 hours to retrieve these materials for
+        research use.</p>
+      <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+        &amp; Manuscript Library to use this collection.</p>
+    </accessrestrict>
+    <userestrict id="aspace_5088ae94fc5cc2842a1fd3316a78fb9e">
+      <head>Use Restrictions</head>
+      <p>The copyright interests in the Alexander Weinmann Papers have not been transferred to Duke
+        University. For further information, see the section on copyright in the Regulations and
+        Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library or consult a
+        reference archivist.</p>
+    </userestrict>
+    <prefercite id="aspace_0e0f70806afb1519733ed09578bab5b4">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Alexander Weinmann Papers, David M. Rubenstein Rare Book &amp;
+        Manuscript Library, Duke University</p>
+    </prefercite>
+    <acqinfo id="aspace_e0b98acd60dfa0c3fcd5490b934173bb">
+      <head>Provenance</head>
+      <p>The Alexander Weinmann Papers (1614-1986) were purchased by the Duke University David M.
+        Rubenstein Rare Book &amp; Manuscript Library in 1988.</p>
+    </acqinfo>
+    <processinfo id="aspace_869d669cb40b29197a3a8a7ffe56769d">
+      <head>Processing Information</head>
+      <p>Processed by: Dan Daily</p>
+      <p>Completed June 8, 1994</p>
+      <p>Encoded by Stephen Douglas Miller</p>
+    </processinfo>
+    <bioghist id="aspace_618947ae3c37fab9fda8e1b191f2460c">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Missing Title</head>
+        <chronitem>
+          <date>1901, Feb. 20</date>
+          <eventgrp>
+            <event>Born, Vienna, Austria</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1948</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="italic">Werkverzeichnis Joseph
+                Lanner</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1952</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="italic">Artaria and Co.</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1955</date>
+          <eventgrp>
+            <event>Completed <title type="simple" render="italic">Vollständiges Verlagsverzeichnis
+                Artaria und Comp.</title> (Dissertation)</event>
+            <event>Received a doctorate in musicology, Innsbruck University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1956</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="italic">Werkverzeichnis Johann Strauss
+                Vater und Sohn</title></event>
+            <event>Published <title type="simple" render="italic">Weiner Musikverleger und
+                Musikalienhändler von Mozarts Zeit bis gegen 1860</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1964</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="italic">Franz Anton
+              Hoffmeister</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1973</date>
+          <eventgrp>
+            <event>Published <title type="simple" render="doublequote">'Das Grab' ein
+                literarisch-musikalischer Bestseller</title> in <title type="simple" render="italic"
+                >Österreichische Musikzeitschrift</title></event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1987</date>
+          <eventgrp>
+            <event>Died, Vienna, Austria</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <p>Weinmann's works in Viennese music publishing are included in the <title type="simple"
+          render="italic">Beiträge zur Geschichte des Alt-Weiner Musikverlages</title> series. He
+        also published a number of articles in the field of musicology in the <title type="simple"
+          render="italic">Österreichische Musikzeitschrift.</title> He was a contributor to the
+          <title type="simple" render="italic">Répertoire international des sources
+          musicales</title> and the <title type="simple" render="italic">New Grove Dictionary of
+          Music and Musicians,</title> and a co-editor of <title type="simple" render="italic">L.
+          von Köchel: Chronologisch-thematisches Verzeichnis sämtlicher Tonwerke Wolfgang Amadé
+          Mozarts</title> (Sixth Edition).</p>
+    </bioghist>
+    <scopecontent id="aspace_3b7794c1cdc4f77abfbcc9031866e841">
+      <head>Collection Overview</head>
+      <p>The collection reflects Weinmann's extensive research in the history of Viennese music
+        publishing and is a resource for study of publishing firms in Vienna as well as documenting
+        Weinmann's bibliographical research. The Music Series includes title pages and parts of
+        arrangements, focusing on Viennese publishers and composers, including Georg Druschetzky,
+        Joseph Haydn, Johann Baptist Vanhal, Johann Josef Rösler, and Ferdinand Kauer, as well as
+        Johann Sebastian Bach. Included in the Writings and Speeches Series are manuscript drafts of
+        works related to Weinmann's bibliographies (published in the <title type="simple"
+          render="italic">Beiträge zur Geschichte des Alt-Weiner Musikverlages</title>) as well as
+        bio-bibliographical and historical works. The series also documents Weinmann's study of 19th
+        century Viennese publishing firms including Artaria and Company, Giovanni Cappi, Leopold
+        Kozeluch, Franz Anton Hoffmeister, Carlo and Pietro Mechetti, Tranquillo Mollo, Ignaz Sauer,
+        Johann Traeg, and Thaddäus Weigl. Series includes research by Weinmann's brother, Ignaz
+        Weinmann, on Franz Schubert.</p>
+      <p>The Research Notes Series consists of bibliographic references and citations, information
+        about works and plate numbers; Weinmann's contributions to the <title type="simple"
+          render="italic">Répertoire international des sources musicales;</title> and <title
+          type="simple" render="italic">Wiener Zeitung</title> references. The Series also concerns
+        Weinmann's work as an editor of the sixth edition of the <title type="simple"
+          render="italic">Chronologisch-thematisches Verzeichnis sämtlicher Tonwerke Wolfgang Amadé
+          Mozarts.</title> Anthony van Hoboken, Willi Boskovsky, Franz Giegling, Anton Fietz, and
+        Arthur Fiedler are among primary correspondents in the collection. Weinmann also collected
+        letters (originals and copies) from persons and publishers he studied, including J.P.
+        Gotthard, Johann Strauss, Franz Xaver Süssmayr, and Tobias Haslinger.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Music -- Publishing -- Austria -- Vienna</subject>
+      <subject source="lcsh">Music -- Bio-bibliography</subject>
+      <persname source="ingest">Schubert, Franz, 1797-1828</persname>
+      <persname source="ingest">Sauer, Ignaz</persname>
+      <persname source="ingest">Sussmayr, Franz Xaver</persname>
+      <persname source="ingest">Strauss, Johann</persname>
+      <persname source="ingest">Mechetti, Pietro</persname>
+      <persname source="ingest">Mechetti, Carlo</persname>
+      <persname source="ingest">Rvsler, Johann Josef, 1771-1813</persname>
+      <persname source="ingest">Mollo, Tranquillo</persname>
+      <persname source="ingest">Weinmann, Ignaz</persname>
+      <persname source="ingest">Vanhal, Jan Baptist, 1739-1813</persname>
+      <persname source="ingest">Traeg, Johann, fl. 1782-1805</persname>
+      <persname source="ingest">Weigl, Thaddaus</persname>
+      <persname source="ingest">Boskovsky, Willi, 1909-1991</persname>
+      <persname source="ingest">Druschetzky, Georg, 1745-1819</persname>
+      <persname source="ingest">Fietz, Anton</persname>
+      <persname source="ingest">Giegling, Franz, 1921-</persname>
+      <persname source="ingest">Anton Diabelli</persname>
+      <corpname source="ingest">Artaria and Company</corpname>
+      <persname source="ingest">Bach, Johann Sabastian, 1685-1750</persname>
+      <persname source="ingest">Hoboken, Anthony van, 1881-</persname>
+      <persname source="ingest">Hoffmeister, Franz Anton</persname>
+      <persname source="ingest">Kauer, Ferdinand, 1751-1831</persname>
+      <persname source="ingest">Kozeluch, Leopold</persname>
+      <corpname source="ingest">Giovanni Cappi</corpname>
+      <persname source="ingest">Gotthard, J.P., 1839-1919</persname>
+      <persname source="ingest">Haslinger, Tobias</persname>
+      <persname source="ingest">Haydn, Joseph, 1732-1808</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref13_z6t" level="series">
+        <did>
+          <unittitle>Correspondence, 1614-1986, undated (bulk 1932-1986)</unittitle>
+        </did>
+        <scopecontent id="aspace_bab5997c432a8e315179768d008cd3f3">
+          <head>Scope and Contents note</head>
+          <p>Primarily correspondence between Weinmann and other scholars, musicians, conductors,
+            and librarians. However, the early correspondence (1614-1928) is originals and copies of
+            letters by Franz Xaver Süssmayr, Tobias Haslinger and J.P. Gotthard which Weinmann
+            collected.</p>
+        </scopecontent>
+        <c02 id="aspace_ref14_k4h" level="file">
+          <did>
+            <unittitle>1614-1986, Feb. 14, undated</unittitle>
+            <physdesc id="aspace_e9c55e6c4f8d564ae4efa048629f1955"><extent>28
+              folders</extent></physdesc>
+            <container id="aspace_f196c3370c838864ffde1fa4f5c1dc81" label="Mixed Materials"
+              type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref17_rs0" level="series">
+        <did>
+          <unittitle>Writings and Speeches, 1931-1985, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_53bed5c1c32483fea087a02d634e5e84">
+          <head>Scope and Contents note</head>
+          <p>Includes typescripts and handwritten drafts of writings by Weinmann, some works
+            published in the <title type="simple" render="italic">Beiträge zur Geschichte des
+              Alt-Wiener Musikverlages</title> as well as extensive lists and notes. At the end is a
+            chronological arrangement of works which were not directly or solely identified as
+            pertaining to the composers or publishers. Arranged alphabetically by composers,
+            publishers, and works.</p>
+        </scopecontent>
+        <c02 id="aspace_ref18_qck" level="file">
+          <did>
+            <unittitle>Artaria and Co., 1953,</unittitle>
+            <container id="aspace_eb1c25d90778dff329f6e3eed71c01c6" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref19_bxx" level="file">
+          <did>
+            <unittitle>Beethoven, 1980, undated</unittitle>
+            <container id="aspace_e53690fb305eadc4d0b32d4146e163da" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref20_xhi" level="file">
+          <did>
+            <unittitle>Cappi, 1958, undated</unittitle>
+            <physdesc id="aspace_78e6e91c2b615c30bd85af44945a3907"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_0222e5a0f559edb19c24059f2f6a6ab0" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref22_8l8" level="file">
+          <did>
+            <unittitle>Diabelli, Anton, 1954-1985, undated</unittitle>
+            <physdesc id="aspace_0985d87a9aa933c24d3a35e24b55de68"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_f179eaf793bee4041f3f88f73acdf717" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref24_ffa" level="file">
+          <did>
+            <unittitle>Druschetzky, Georg, 1967, undated</unittitle>
+            <container id="aspace_62b92f0e93888c2555429ac03c8aaedd" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref25_wq3" level="file">
+          <did>
+            <unittitle>Eder, Joseph - Bermann, J., undated</unittitle>
+            <container id="aspace_2d7c18cf6845e5ae9ab55a9941a20240" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref26_pfz" level="file">
+          <did>
+            <unittitle>Fietz, Anton, 1950s-1979, undated</unittitle>
+            <container id="aspace_f015c07bb1aeb17ac490ef365be9c46d" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref27_gew" level="file">
+          <did>
+            <unittitle>D-F</unittitle>
+            <container id="aspace_50b25ad2f6161ea6840e5a058532c159" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref28_lq5" level="file">
+          <did>
+            <unittitle><title render="doublequote">Das Grab,</title> 1960s, undated</unittitle>
+            <container id="aspace_74f1bff386880bc5b23d811eacd8f924" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref29_qf4" level="file">
+          <did>
+            <unittitle>Haslinger, Tobias, 1943-1980, undated</unittitle>
+            <physdesc id="aspace_8fe51f1e9f7c09505b99f6e29bafd473"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_434dbc4aa047a64ede105a28fc52dce5" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref31_fdd" level="file">
+          <did>
+            <unittitle>Haydn, Joseph, 1973-1982, undated</unittitle>
+            <container id="aspace_53b835b06c717934b13a200721404e50" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref32_zrh" level="file">
+          <did>
+            <unittitle>Hoffmeister, Franz Anton, 1960s-1985, undated</unittitle>
+            <physdesc id="aspace_d85cb354a8842121c0e4f81031099c78"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_9c2b8acd793a67c993089aee5451db4d" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref34_pnm" level="file">
+          <did>
+            <unittitle>Kauer, Ferdinand, undated</unittitle>
+            <container id="aspace_9a60a40b3f57618c78792b210ad3686d" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref35_4hp" level="file">
+          <did>
+            <unittitle><title render="italic">Kostbarkeiten aus Alt-Wien,</title> 1960s,
+              undated</unittitle>
+            <container id="aspace_c5d876c842490e1fd1cfac7af1e8be79" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref36_iaz" level="file">
+          <did>
+            <unittitle>Lindemayr, Maurus, 1972- 1976, undated</unittitle>
+            <container id="aspace_702d82ebaa58f6a49e4bb92d585b3407" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref37_v8l" level="file">
+          <did>
+            <unittitle>G-L</unittitle>
+            <container id="aspace_84c9dbce2008dd662665bfb2f93f18c9" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref38_twr" level="file">
+          <did>
+            <unittitle>Mechetti, Carlo and Pietro, 1958, undated</unittitle>
+            <physdesc id="aspace_ec4523152d1b207b4617505cfc99c818"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_8c8d7bb2a5b8bf1ba974d7e80e74d5e2" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref40_6ia" level="file">
+          <did>
+            <unittitle>Mollo, Tranquillo, undated</unittitle>
+            <container id="aspace_da0a314b33f63548e632d34610c96152" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref41_6yq" level="file">
+          <did>
+            <unittitle>von Mosel, Ignaz Franz, undated</unittitle>
+            <container id="aspace_312733f67a60c8962b4772e171a8c392" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref42_nsu" level="file">
+          <did>
+            <unittitle>Mozart, Leopold, undated</unittitle>
+            <container id="aspace_302d07100f315d85f219c63e34bf1e2d" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref43_et2" level="file">
+          <did>
+            <unittitle>Mozart, Wolfgang Amadeus, 1965-1985, n.d</unittitle>
+            <physdesc id="aspace_81818854893afeeced93b07459ae447c"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_e567ffca0f0f714b568860509dc5218d" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref45_2ch" level="file">
+          <did>
+            <unittitle>Muller, Adolf, Hans-Christian, Heinrich Friedrich, 1977, undated</unittitle>
+            <container id="aspace_8a66cf3a19a64f56c81f2c5622133f5a" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref46_5ym" level="file">
+          <did>
+            <unittitle>Pleyel, Ignaz, 1958-1977</unittitle>
+            <container id="aspace_784ec2dabd2803b79cc689a7c52db1fb" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref47_pez" level="file">
+          <did>
+            <unittitle>Radio lectures, recording, 1961-1980, undated</unittitle>
+            <container id="aspace_c4688379cae2e3b9a51baa74acd3c75e" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref48_dv0" level="file">
+          <did>
+            <unittitle>RISM, 1967- 1977, undated</unittitle>
+            <container id="aspace_2c5ed896e5db4421573643e6aaa3bd62" label="Mixed Materials"
+              type="box">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref49_lhp" level="file">
+          <did>
+            <unittitle>Sauer, Ignaz (and Leidesdor), undated</unittitle>
+            <physdesc id="aspace_cf4411d69587fdd9139f6b385626091c"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_aea253d687021c5916e539e6c2d0c6d1" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref51_uio" level="file">
+          <did>
+            <unittitle>Schubert, Franz, 1972-1985, undated</unittitle>
+            <physdesc id="aspace_1acc7a661a68acded85097170362fa5a"><extent>3
+              folders</extent></physdesc>
+            <container id="aspace_4ca07a4bcc7a6d39164d7f2319e13975" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref53_wai" level="file">
+          <did>
+            <unittitle><title render="italic">Die Schubert-Sammlung im Musikarchiv der
+                Benediltinerabtei Seitenstetten,</title> 1976 (Ignaz Weinmann)</unittitle>
+            <container id="aspace_8c14dfdfd36f9c95fddc88e98a7f6f57" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref54_26q" level="file">
+          <did>
+            <unittitle><title render="italic">Die Schubert-Sammlung im Musikarchiv des Stiftes
+                Seitenstetten,</title> undated</unittitle>
+            <physdesc id="aspace_0cb56e52d654565fe1a09a5ef624b0a9"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_1aa398e6e8d1f7b13de57fcab7458f37" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref56_nsn" level="file">
+          <did>
+            <unittitle>Steffan, Josef Anton, undated</unittitle>
+            <container id="aspace_4df5253403a6655b542048e353d74c20" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref57_h0h" level="file">
+          <did>
+            <unittitle>Strauss, Johann, 1948-1976, undated</unittitle>
+            <container id="aspace_e7517f4e3beb709f916de984337ff6b6" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref58_x6t" level="file">
+          <did>
+            <unittitle>S</unittitle>
+            <container id="aspace_58afa1bd449a012989950ce52ba1a1d3" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref59_xzq" level="file">
+          <did>
+            <unittitle>Traeg, Johann, 1977-1978, undated(3 folders)</unittitle>
+            <container id="aspace_2f0162a6b7fce449060fb4301e8b4735" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref60_ysk" level="file">
+          <did>
+            <unittitle>Weigl, Thaddäus, 1982, undated</unittitle>
+            <container id="aspace_1a99950e6398df2e01771a10877408b1" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref61_86k" level="file">
+          <did>
+            <unittitle><title render="italic">Wiener Musikverlag <emph render="doublequote">Am
+                  Rande,</emph>
+              </title> 1970</unittitle>
+            <container id="aspace_626be1382e85288f22383123df4672bb" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref62_x6k" level="file">
+          <did>
+            <unittitle>Miscellaneous, undated</unittitle>
+            <container id="aspace_935139dc5eec1be178800b694e89ce29" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref63_j1a" level="file">
+          <did>
+            <unittitle>1931-1983</unittitle>
+            <physdesc id="aspace_8e01a65f109c0761fe0c5e1a0324c1bd"><extent>8
+              folders</extent></physdesc>
+            <container id="aspace_13e77f94438c82d398ccae90d8802135" label="Mixed Materials"
+              type="box">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref65_sda" level="file">
+          <did>
+            <unittitle>1984- 1985, undated</unittitle>
+            <physdesc id="aspace_3e09205dc1c4bc6a3cdefb237a873130"><extent>12
+              folders</extent></physdesc>
+            <container id="aspace_c556cbec9572a38b0e779a2d33f5e85b" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref68_vkc" level="series">
+        <did>
+          <unittitle>Research Notes, 1823-1985, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_6e26ba017d6fa8bb48d15d4ddb152f82">
+          <head>Scope and Contents note</head>
+          <p>Includes bibliographic references, notes for publishers' and composers' biographies,
+            annotated printed material, information from <title type="simple" render="italic">Wiener
+              Zeitung</title> about publishers, and other fragments of information pertaining to the
+            publishers and composers whom Weinmann studied. These materials are arranged
+            chronologically, but most of the material is undated. Following the chronological
+            arrangement are materials and correspondence with Franz Giegling concerning the sixth
+            edition of the <title type="simple" render="italic">Ludwig Ritter von Köchel:
+              Chronologisch-thematisches Verzeichnis sämtlicher Tonwerke Wolfgang Amadé
+              Mozarts</title> (Köchel-Verzeichnis). Both Weinmann and Giegling were editors of the
+            Sixth Edition.</p>
+        </scopecontent>
+        <c02 id="aspace_ref69_ga9" level="file">
+          <did>
+            <unittitle>1823-1985, undated</unittitle>
+            <physdesc id="aspace_dd498f52e417b9d4e395ed1b3695d6ed"><extent>8
+              folders</extent></physdesc>
+            <container id="aspace_1748488a29042b4266234b25820ca870" label="Mixed Materials"
+              type="box">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref71_i65" level="file">
+          <did>
+            <unittitle>undated</unittitle>
+            <physdesc id="aspace_f31f51ca7913fdd4100570b49c1f6a2a"><extent>12
+              folders</extent></physdesc>
+            <container id="aspace_9c64afffe3220f3fabdb2362939a9ede" label="Mixed Materials"
+              type="box">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref73_xd5" level="file">
+          <did>
+            <unittitle>Köchel-Verzeichnis:</unittitle>
+          </did>
+          <c03 id="aspace_ref74_vwq" level="file">
+            <did>
+              <unittitle>1957- 1984</unittitle>
+              <physdesc id="aspace_fe05dcacc5825735e0794ab1043c860f"><extent>6
+                folders</extent></physdesc>
+              <container id="aspace_c4785fe7b68976c0913f2a40377befb1" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref76_tfu" level="file">
+            <did>
+              <unittitle>Photographs, 1964, undated</unittitle>
+              <physdesc id="aspace_49215fc1d28df57212053edd983344d8"><extent>4
+                folders</extent></physdesc>
+              <container id="aspace_b5560a9aa64d4876d01ee4bd8c4703d6" label="Mixed Materials"
+                type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref78_1rv" level="file">
+          <did>
+            <unittitle>Mozart, W. A., undated</unittitle>
+            <container id="aspace_47b65cfde86b364b915751f61d44e2e2" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+          <c03 id="aspace_ref79_8cd" level="file">
+            <did>
+              <unittitle>1962-1985</unittitle>
+              <container id="aspace_78b90af30bede61fa087909abb5d2a37" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref80_xbm" level="file">
+          <did>
+            <unittitle>Negatives, B-W, undated</unittitle>
+            <container id="aspace_0c0b6caec3c027ada73b6673592d7561" label="Mixed Materials"
+              type="box">6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref82_a1n" level="series">
+        <did>
+          <unittitle>Music Series, 1601-1976, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_0cc5a0f2b79e07008d6aef909d703730">
+          <head>Scope and Contents note</head>
+          <p>Includes arrangements, fragments, and title pages of published music (originals and
+            photocopies). Also contains manuscript examples prepared by Weinmann. Arranged by
+            format: paper, photographs, and negatives. Within each format the materials are arranged
+            alphabetically by composer, publisher, or title. When holdings include more than one
+            work by a composer or publisher, works are arranged alphabetically by the title of the
+            work.</p>
+        </scopecontent>
+        <c02 id="aspace_ref83_vuh" level="subseries">
+          <did>
+            <unittitle>Music Series: Paper</unittitle>
+          </did>
+          <accessrestrict id="aspace_88e472456e1f532ff9e023584f324557">
+            <head>Conditions Governing Access note</head>
+            <p>Portions of this series are restricted.</p>
+          </accessrestrict>
+          <c03 id="aspace_ref84_rzt" level="file">
+            <did>
+              <unittitle>Albrechtsberger, Anton, ca. 1976?</unittitle>
+              <container id="aspace_e7c47d5b21adea35f1ef0fd15a4f2457" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref85_6o1" level="file">
+            <did>
+              <unittitle>Albrechtsberger, Johann Georg, 1976 (?), 1781- (?),</unittitle>
+              <physdesc id="aspace_797ec5b6b1f9704058dc57037728f899"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_2f9024c039ddcd4c1e3ef29f594846f8" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref87_w8k" level="file">
+            <did>
+              <unittitle>Albrechtsberger, Johann Georg, 1786-(?)</unittitle>
+              <container id="aspace_17ab25e6b75f441497c0a56ccdc87039" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref88_ho1" level="file">
+            <did>
+              <unittitle>Artaria and Co., undated</unittitle>
+              <container id="aspace_c16ec732476700fdcc0b68ba2cf896ce" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref89_8eo" level="file">
+            <did>
+              <unittitle>Auber, Daniel, undated</unittitle>
+              <container id="aspace_ff127e498ed0ebbc160ec688b40be0cb" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref90_j9y" level="file">
+            <did>
+              <unittitle>Beethoven, Ludwig Von, 1828, undated</unittitle>
+              <container id="aspace_7b2c992b5035986e6c60271f823ba5f6" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref91_jhq" level="file">
+            <did>
+              <unittitle>Cappi und Diabelli, undated</unittitle>
+              <container id="aspace_b4b790963a1a95ee08913b703449f8c9" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref92_nmg" level="file">
+            <did>
+              <unittitle><title render="italic">Das Grab,</title> 1815-(?)</unittitle>
+              <container id="aspace_481e4483cc17bcc4608b2a3098de5e73" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref93_3p5" level="file">
+            <did>
+              <unittitle>Dessauer, Josef, undated</unittitle>
+              <container id="aspace_5fc28cfb399211015f6933d71ef062ec" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref94_zvu" level="file">
+            <did>
+              <unittitle>Diabelli, undated</unittitle>
+              <container id="aspace_3c7ab96df483976a7bb6b9c4d6e71e25" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref95_047" level="file">
+            <did>
+              <unittitle>Druschetzky, Georg, undated</unittitle>
+              <physdesc id="aspace_3348f4e71644b6f31ea5a19333e38038"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_efc4f72906c80f89aff1d1f21638cdee" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref97_ldi" level="file">
+            <did>
+              <unittitle>Eybler, Joseph, undated</unittitle>
+              <container id="aspace_c0c70e4288ecf8387aef1d6eae21b79c" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref98_ai5" level="file">
+            <did>
+              <unittitle>Fietz, Anton, 1952</unittitle>
+              <container id="aspace_4add5e8fac63a6650f0e49053acdf702" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref99_gpf" level="file">
+            <did>
+              <unittitle>Hackel, Anton, undated</unittitle>
+              <container id="aspace_35333342415355143b5f8b4b3c30b29f" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref100_7s8" level="file">
+            <did>
+              <unittitle>Haydn, Joseph, undated</unittitle>
+              <container id="aspace_47879bc557f9cb7e113aa559743dbcee" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref101_pqu" level="file">
+            <did>
+              <unittitle>Herold, F., undated</unittitle>
+              <container id="aspace_bb3253a5f2df34280ac4a4a753cb1164" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref102_syk" level="file">
+            <did>
+              <unittitle>Hoffmeister, Franz, 1839, undated</unittitle>
+              <container id="aspace_3919388461c13c5582fa4e1a791c5247" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref103_kkf" level="file">
+            <did>
+              <unittitle>Kozeluch, Leopold, undated</unittitle>
+              <container id="aspace_9d1a010e9f948aa00ed308f02d15577f" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref104_4cj" level="file">
+            <did>
+              <unittitle>Kreutzer, Rodolphe, 1601, undated</unittitle>
+              <container id="aspace_07d19723f2a7cd7e8823c180236a9e17" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref105_ahk" level="file">
+            <did>
+              <unittitle>Liszt, Franz, undated</unittitle>
+              <container id="aspace_63d663f05b3d5a8ecd80d66ef59dcab5" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref106_42j" level="file">
+            <did>
+              <unittitle>Lortzing, Gustave, undated</unittitle>
+              <container id="aspace_86d59a4fcd44792de3bad28e2c3165f2" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref107_hk3" level="file">
+            <did>
+              <unittitle>Mechetti, Carlo and Pietro, undated</unittitle>
+              <container id="aspace_91e8038cdee265438e4e7d1f5d79768a" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref108_7em" level="file">
+            <did>
+              <unittitle>Mollo, Tranquillo, undated</unittitle>
+              <container id="aspace_b9a74781f0ba7a024e88961b2684d377" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref109_e50" level="file">
+            <did>
+              <unittitle>Mosel, J. F., 1822, undated</unittitle>
+              <container id="aspace_d082e6ab58f748607ef3c07f7e59132b" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref110_4he" level="file">
+            <did>
+              <unittitle>Mozart, W. A., 1847, undated</unittitle>
+              <physdesc id="aspace_af705bfb3fba52f51068eb9de6924d68"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_de5b8e505292dece95a5e0cb0e67714f" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref112_0vn" level="file">
+            <did>
+              <unittitle>Müller, Adolf, undated</unittitle>
+              <container id="aspace_02c2feffee8487b87e1ca244457c0f46" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref113_wlh" level="file">
+            <did>
+              <unittitle>Pleyl, Ignaz, 1790, undated</unittitle>
+              <container id="aspace_0db46b4a20c65e9d907287210a3b95c4" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref114_fpp" level="file">
+            <did>
+              <unittitle>Proch, Heinrich, undated</unittitle>
+              <container id="aspace_e1a68bf9d15497a3337a175dfb7d0093" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref115_uvj" level="file">
+            <did>
+              <unittitle>Resnitschek, I., undated</unittitle>
+              <container id="aspace_248bb6ccb72790b6619357c92e2a57ec" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref116_b36" level="file">
+            <did>
+              <unittitle>Schubert, Franz, undated</unittitle>
+              <physdesc id="aspace_1535aa5b1fdb1c8599f929123f802bfc"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_48012c71d7cde7d7da5dbde15c14dd1e" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref118_yoh" level="file">
+            <did>
+              <unittitle>Steffan, Joseph, undated</unittitle>
+              <container id="aspace_76481fa13a9dcb00a5deb4c86272db7c" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref119_rtz" level="file">
+            <did>
+              <unittitle>Strauss, Eduard und Anton, 1821</unittitle>
+              <container id="aspace_012008340d4922013d5152063aa46809" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref120_z5c" level="file">
+            <did>
+              <unittitle>Vanhal, Johann Baptist, undated</unittitle>
+              <physdesc id="aspace_5796ab7ee4c27c7b4447f2e34f463658"><extent>3
+                folders</extent></physdesc>
+              <container id="aspace_ed20fd598f89124e1ca40f44bc724ccf" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref122_5zv" level="file">
+            <did>
+              <unittitle>Vogel, Wilhelm, undated</unittitle>
+              <container id="aspace_c7f0ee93ffa514b716b133f902283f41" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref123_w16" level="file">
+            <did>
+              <unittitle>Zechner, 1976</unittitle>
+              <container id="aspace_7d4ea0539e787719551b560fa63083dc" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref124_zg9" level="file">
+            <did>
+              <unittitle>Hymns, undated</unittitle>
+              <container id="aspace_ecd52d284d1281297887e9c2c70efff6" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref125_ok7" level="file">
+            <did>
+              <unittitle>Dance Music, undated</unittitle>
+              <container id="aspace_db5c12eba0a43b7f9324caa3c2802b36" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref126_k6q" level="file">
+            <did>
+              <unittitle>Songs, ca. 1854, undated</unittitle>
+              <container id="aspace_249cf85112fee67e44a50846928a37a9" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref127_i04" level="file">
+            <did>
+              <unittitle>Various Composers, A-N, undated</unittitle>
+              <physdesc id="aspace_5db28a407449239c008c3ab0edebc3f0"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_3916dd8b199d7cac3d7574eb450572fb" label="Mixed Materials"
+                type="box">6</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref129_4jc" level="file">
+            <did>
+              <unittitle>Various composers, O-Z, undated</unittitle>
+              <container id="aspace_13b9225622dc544f2925daf419424191" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref130_rgu" level="file">
+            <did>
+              <unittitle>Title pages, undated</unittitle>
+              <container id="aspace_cdcc10b7a10ca1728a6616f8e4217722" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref131_b7t" level="file">
+            <did>
+              <unittitle>Anonymous, 1987 [?]</unittitle>
+              <container id="aspace_9a8e7d2f9ba6e7f7006dad3eaea7bba1" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref132_lyj" level="file">
+            <did>
+              <unittitle>Unidentified and miscellaneous fragments, 1933-1952 [?]</unittitle>
+              <container id="aspace_8dfb857511ab879f029f36f4190a975c" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref134_a3d" level="subseries">
+          <did>
+            <unittitle>Music Series: Photographs</unittitle>
+          </did>
+          <c03 id="aspace_ref135_uru" level="file">
+            <did>
+              <unittitle>Anonymous with titles, undated:</unittitle>
+            </did>
+            <c04 id="aspace_ref136_xun" level="file">
+              <did>
+                <unittitle><title render="italic">Allegro für Klavier und Violine, Concerto für
+                    Violoncello princ., 2 v, 2 ve, 2 0b, 2 Cor, Basso,</title> undated</unittitle>
+                <container id="aspace_9354c5358cce292bf2a836272099a53c" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref137_9vo" level="file">
+              <did>
+                <unittitle>Divertimentos</unittitle>
+                <physdesc id="aspace_e558f435362769ea2ba62e79d6c5924f"><extent>2
+                  folders</extent></physdesc>
+                <container id="aspace_1bcc9e0d2d6e7fe2d2cec97322646646" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref139_1d5" level="file">
+              <did>
+                <unittitle><title render="italic">Für die Viola d'Amor Cruittaré</title> and <title
+                    render="italic">Kleine Stücke</title></unittitle>
+                <container id="aspace_57751cf381aed5b1bda3f98869a2c549" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref140_63o" level="file">
+              <did>
+                <unittitle><title render="italic">Recitativo</title> - Violino, Basso and Organo
+                    <title render="italic">Sonata, Te Deum Royel</title></unittitle>
+                <container id="aspace_bcf1ebe388cf2bd8f7f64d01f71667ec" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref141_y1s" level="file">
+              <did>
+                <unittitle><title render="italic">Violino Solo</title> and <title render="italic"
+                    >Violino Grand Trio</title></unittitle>
+                <container id="aspace_6f7e956bc6d06490ac292165493ce9b1" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref142_4s4" level="file">
+              <did>
+                <unittitle>Anonymous, 1820, undated</unittitle>
+                <physdesc id="aspace_f47bf68485b59afc50fe9711b61297d2"><extent>3
+                  folders</extent></physdesc>
+                <container id="aspace_73bf26f54813a4bf30524f4663eaf201" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref144_tig" level="file">
+            <did>
+              <unittitle>Beethoven, Ludwig Van, undated</unittitle>
+              <container id="aspace_6ddba4ef22aa1681737dc8f32fb80026" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref145_et3" level="file">
+            <did>
+              <unittitle>Druschetsky, Georg, <title render="italic">Concerto in B and F.</title>
+                undated</unittitle>
+              <container id="aspace_747384239e588354f93adf507338a086" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref146_34z" level="file">
+            <did>
+              <unittitle>Druschetzky, Georg:</unittitle>
+            </did>
+            <c04 id="aspace_ref147_xlz" level="file">
+              <did>
+                <unittitle><title render="italic">Six Parthies,</title> undated</unittitle>
+                <container id="aspace_1c7c88a16d23ef8be01f7bcd9a2e4443" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref148_1z8" level="file">
+              <did>
+                <unittitle><title render="italic">Grand Septetto,</title> 1886</unittitle>
+                <container id="aspace_378da077b9b12e5d360808947b0a583e" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref149_o2a" level="file">
+            <did>
+              <unittitle>Eybler, Giuseppe, n.d</unittitle>
+              <container id="aspace_3d66e7583992f085f99ee38306a85987" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref150_5bc" level="file">
+            <did>
+              <unittitle>Haydn, Josef:</unittitle>
+            </did>
+            <c04 id="aspace_ref151_0em" level="file">
+              <did>
+                <unittitle><title render="italic">Variatrone per ie Clavi Cembalo,</title>
+                  undated</unittitle>
+                <container id="aspace_841485b9fa7a9f3567471e314cdcdb75" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref152_1mc" level="file">
+              <did>
+                <unittitle>A-Z, undated</unittitle>
+                <physdesc id="aspace_42eee69a4d0e63e15796c715585317ee"><extent>2
+                  folders</extent></physdesc>
+                <container id="aspace_376e61a1b64854d6251b33fec2dc1603" label="Mixed Materials"
+                  type="box">7</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref154_udz" level="file">
+            <did>
+              <unittitle>Hoffmeister, Francesco, undated</unittitle>
+              <container id="aspace_d9f1001191092ea5db1d88b8b0be2dd5" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref155_y59" level="file">
+            <did>
+              <unittitle>Josephz, E. Lebas, 1760</unittitle>
+              <container id="aspace_4f90c396630f46f17c2d0997da6488bc" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref156_hlu" level="file">
+            <did>
+              <unittitle>Klein, Henri, <title render="italic">Six Contre Danses,</title>
+                undated</unittitle>
+              <container id="aspace_1d3ec85442d040ec99fb6b97435aa7af" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref157_mr1" level="file">
+            <did>
+              <unittitle>Licki, C. Georg, <title render="italic">Trio für Clarinette, Fagotte,
+                  Horn,</title> 1806</unittitle>
+              <container id="aspace_a6d9915ffce365910f94e6f1b95a5f5a" label="Mixed Materials"
+                type="box">7</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref158_3zd" level="file">
+            <did>
+              <unittitle>Mozart, W. A, undated</unittitle>
+              <physdesc id="aspace_24f83ba347012bb3ffd6afa85939df0a"><extent>6
+                folders</extent></physdesc>
+              <container id="aspace_486873e629316aa071c5919f8f9b1138" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref160_8h1" level="file">
+            <did>
+              <unittitle>Rösler, Johann Josef, <title render="italic">Partita für 3
+                  Bassethörner,</title> undated</unittitle>
+              <container id="aspace_1346aec400798fc8110fe5b52146ba53" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref161_ngl" level="file">
+            <did>
+              <unittitle>Schubert, Franz:</unittitle>
+            </did>
+            <c04 id="aspace_ref162_rzh" level="file">
+              <did>
+                <unittitle>Compositionen, n.d</unittitle>
+                <container id="aspace_c554b905450783aabf0917cd3a17b3b2" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref163_13y" level="file">
+              <did>
+                <unittitle>Schubertiana, 1814-1973</unittitle>
+                <container id="aspace_edd997a1629916715789fad80262fd68" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref164_bd1" level="file">
+            <did>
+              <unittitle>Steffan, Joseph, undated</unittitle>
+            </did>
+            <c04 id="aspace_ref165_2lz" level="file">
+              <did>
+                <unittitle><title render="italic">Allegro Vivace</title></unittitle>
+                <container id="aspace_d052c513b154bf916511b4a6da0533bd" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref166_hyf" level="file">
+              <did>
+                <unittitle><title render="italic">Un die Verklärte Theresia,</title>
+                  1781</unittitle>
+                <container id="aspace_5d9f2b1e12c7456a99d1d88640963d32" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref167_yjo" level="file">
+              <did>
+                <unittitle><title render="italic">Variazioni Combinate in C</title></unittitle>
+                <container id="aspace_2716163a2fe059faf5f21036afaca164" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref168_cns" level="file">
+              <did>
+                <unittitle><title render="italic">Variazioni Combinate per il Forte e
+                  Piano</title></unittitle>
+                <container id="aspace_d0ba4829691d03b91abb0bb29b5a973f" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref169_xpr" level="file">
+            <did>
+              <unittitle>Druschetzky, <title render="italic">Concerte,</title> undated</unittitle>
+              <container id="aspace_0e0d2328709d843e3aeea3e780e08cee" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref170_scf" level="file">
+            <did>
+              <unittitle>Tuma, Franz, <title render="italic">Stabar Mater,</title>
+                undated</unittitle>
+              <container id="aspace_05d126917aa860cbae4aa597b72e6b3e" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref171_ec6" level="file">
+            <did>
+              <unittitle>Vanhal, Johann:</unittitle>
+            </did>
+            <c04 id="aspace_ref172_8kk" level="file">
+              <did>
+                <unittitle>Unidentified, undated</unittitle>
+                <container id="aspace_bda75dc8611f0f2aeb4e799f8f978f33" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref173_z1h" level="file">
+              <did>
+                <unittitle>A-Z, undated</unittitle>
+                <physdesc id="aspace_499507da0b1de0902781dbb8fc7f3c9b"><extent>3
+                  folders</extent></physdesc>
+                <container id="aspace_06f08a67f6e248e43c31582bb23b4a67" label="Mixed Materials"
+                  type="box">8</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref175_p9z" level="file">
+            <did>
+              <unittitle><title render="italic">Wallfarths Gesanger,</title> 1689</unittitle>
+              <container id="aspace_2953613d11fb0f1c07e2bb5c85ec638f" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref176_32x" level="file">
+            <did>
+              <unittitle>Werner, Gregor Joseph, 1759</unittitle>
+              <container id="aspace_6db13dbda4978783a92add6e50c5e7e2" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref177_k86" level="file">
+            <did>
+              <unittitle>Ziegler, Josef, undated</unittitle>
+              <container id="aspace_675f38131be1104caadf0fb65ef96d63" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref178_2tn" level="file">
+            <did>
+              <unittitle>Various composers, undated</unittitle>
+              <physdesc id="aspace_eebad1eff1f6314b32fbac0254f24a56"><extent>5
+                folders</extent></physdesc>
+              <container id="aspace_25ab3190b165f767050c4caca1b8c668" label="Mixed Materials"
+                type="box">8</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref180_cmn" level="file">
+            <did>
+              <unittitle>Miscellaneous, 1725, 1867, undated</unittitle>
+              <container id="aspace_58d7f9c3f1e43f07a0826e96fee2f599" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref181_4r1" level="file">
+            <did>
+              <unittitle>Various title pages, 1766- 1874, undated</unittitle>
+              <physdesc id="aspace_e7f762087e3d781c465f7f7e4ab6ce4d"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_bd374c9fa6315833a2f6859277d2e3a0" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref183_ys7" level="file">
+            <did>
+              <unittitle>Unidentified, 1821-1869, undated</unittitle>
+              <physdesc id="aspace_90a74cace23b8d481852dd84674ab64a"><extent>5
+                folders</extent></physdesc>
+              <container id="aspace_1e709933a4b080814050dbcc9fb06887" label="Mixed Materials"
+                type="box">9</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref185_pe8" level="subseries">
+          <did>
+            <unittitle>Music Series: Negatives</unittitle>
+          </did>
+          <c03 id="aspace_ref186_0d1" level="file">
+            <did>
+              <unittitle>Negatives, undated</unittitle>
+              <container id="aspace_62babd4a2c887a4b676d23ae7f3b0fd2" label="Mixed Materials"
+                type="box">10</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref187_9ya" level="file">
+            <did>
+              <unittitle>Negatives and miscellaneous, undated</unittitle>
+              <container id="aspace_5b602914b21781b4bb986c6837648191" label="Mixed Materials"
+                type="box">11</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref189_vk2" level="series">
+        <did>
+          <unittitle>Printed Material, 1871-1986, undated (bulk 1949-1985)</unittitle>
+        </did>
+        <scopecontent id="aspace_9a392c0b049986a1fadf6df573dec562">
+          <head>Scope and Contents note</head>
+          <p>Contains programs, brochures, photocopies, and annotations on items pertaining to
+            concerts and performances.</p>
+        </scopecontent>
+        <c02 id="aspace_ref190_7q0" level="file">
+          <did>
+            <unittitle>1871-1975, undated</unittitle>
+            <physdesc id="aspace_d9fc3419bb69bc61576efbcc32e12086"><extent>10
+              folders</extent></physdesc>
+            <container id="aspace_c3230d45b0be5530c0c062bafbeab2bd" label="Mixed Materials"
+              type="box">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref192_51x" level="file">
+          <did>
+            <unittitle>1976-1986, undated</unittitle>
+            <physdesc id="aspace_0a75756888411b1f55b32efb8e21301c"><extent>16
+              folders</extent></physdesc>
+            <container id="aspace_7421187f3f11e58136166f4aedcb8526" label="Mixed Materials"
+              type="box">12</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref195_1zb" level="series">
+        <did>
+          <unittitle>Books and Catalogs, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_afeebeb1943adea2da10b7d4477dc0f0">
+          <head>Scope and Contents note</head>
+          <p>Includes photographs, photocopies, and negatives. Books are arranged alphabetically by
+            author and then chronologically. Catalogs and Negatives are filed alphabetically by
+            title.</p>
+        </scopecontent>
+        <c02 id="aspace_ref196_bto" level="file">
+          <did>
+            <unittitle>Books,</unittitle>
+            <physdesc id="aspace_7a0e9670970c123ab61675d432ee2d6c"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_e0f93699980e4bacf204f5de085fe160" label="Mixed Materials"
+              type="box">12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref198_l8q" level="file">
+          <did>
+            <unittitle>Catalogs,</unittitle>
+            <physdesc id="aspace_7b24b915d9acb47a86c31ec4f133c47c"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_9f1d99e2312bb86e0f67d84974f16aa9" label="Mixed Materials"
+              type="box">12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref200_7nt" level="file">
+          <did>
+            <unittitle>Negatives</unittitle>
+            <physdesc id="aspace_67b27a5c2a261db1575610185aea5513"><extent>2
+              folders</extent></physdesc>
+            <container id="aspace_1b2d52db6dd17ec932d857f585963905" label="Mixed Materials"
+              type="box">12</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref203_7bd" level="series">
+        <did>
+          <unittitle>Miscellaneous, 1701-1991, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_935f7f5b9d0a96f208655aac8e21e1ae">
+          <head>Scope and Contents note</head>
+          <p>Includes clippings, phonograph records, photographs, and negatives.</p>
+        </scopecontent>
+        <c02 id="aspace_ref204_60b" level="file">
+          <did>
+            <unittitle>1701-1983,undated</unittitle>
+            <physdesc id="aspace_2e1c727fa354d79aac33f6289c0fd285"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_41b4b0843aed37b9cbeba435ae189567" label="Mixed Materials"
+              type="box">12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref206_2pc" level="file">
+          <did>
+            <unittitle>undated</unittitle>
+            <container id="aspace_4bdbcba2b386c0556619a8af7978583d" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref207_ld5" level="file">
+          <did>
+            <unittitle>Clippings, 1933- 1985, undated</unittitle>
+            <container id="aspace_6192511a4f47f89bfccb759d975b74b7" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref208_yje" level="file">
+          <did>
+            <unittitle>Phonograph records. 1960- 1962, undated</unittitle>
+            <container id="aspace_14e678083f4cd086afecf34935f53832" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref209_t1m" level="file">
+          <did>
+            <unittitle>Photographs, 1730-1991, undated</unittitle>
+            <physdesc id="aspace_69cb42fc3d404d970bcaf25cb9d9371b"><extent>4
+              folders</extent></physdesc>
+            <container id="aspace_f285e2087454794b99fed5ca1c778789" label="Mixed Materials"
+              type="box">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref211_6nx" level="file">
+          <did>
+            <unittitle>Negatives, 1961, undated</unittitle>
+            <physdesc id="aspace_e0cdbed6213a9cb69a404656ead6b906"><extent>5
+              folders</extent></physdesc>
+            <container id="aspace_ee0deb78320eea3adf1b2af531a8c446" label="Mixed Materials"
+              type="box">14</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref214_opm" level="series">
+        <did>
+          <unittitle>Oversize Material</unittitle>
+        </did>
+        <c02 id="aspace_ref215_v6p" level="file">
+          <did>
+            <unittitle>Writings and Speeches Series</unittitle>
+          </did>
+          <c03 id="aspace_ref216_090" level="file">
+            <did>
+              <unittitle>Artaria and Company, undated</unittitle>
+              <physdesc id="aspace_7964a21ef45afc9639ccab6bfb70c396"><extent>4
+                folders</extent></physdesc>
+              <container id="aspace_647cc4292569257884d3f767cd9b1345" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref218_01m" level="file">
+            <did>
+              <unittitle>Diabelli, Anton, undated</unittitle>
+              <container id="aspace_6f629691bd6d194e98bed8bfc63262e7" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref219_m09" level="file">
+            <did>
+              <unittitle>Glöggl, F. X., undated</unittitle>
+              <container id="aspace_1d2eb84c167ebf0687060c69e27a464b" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref220_5zy" level="file">
+            <did>
+              <unittitle>Gotthard, J. P., undated</unittitle>
+              <container id="aspace_8f35ea1abc3af6a681dff131f4b162cf" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref221_si0" level="file">
+            <did>
+              <unittitle>Haslinger, Tobais, undated</unittitle>
+              <container id="aspace_b754d77d50a13248df4dd97b52ef34be" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref222_c4r" level="file">
+            <did>
+              <unittitle>Lithogr Institut nächst der Burg No. 2, undated</unittitle>
+              <container id="aspace_13d6be9a137475bfecda335ff2b2360a" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref223_qdj" level="file">
+            <did>
+              <unittitle>Mechetti, Carlo and Pietro, undated</unittitle>
+              <container id="aspace_b637ebeda5d44a9376e5e7ace6250359" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref224_9lf" level="file">
+            <did>
+              <unittitle>Mollo, Tranquillo, undated</unittitle>
+              <container id="aspace_ae44bb3ccf1f4876f0c19d0d31fc068a" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref225_wpa" level="file">
+            <did>
+              <unittitle>Mozart, Wolfgang Amadeus, undated</unittitle>
+              <container id="aspace_f61f17e6a55106cae023c2a61f35fcf4" label="Mixed Materials"
+                type="box">15</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref226_hl6" level="file">
+            <did>
+              <unittitle>Müller, H. F., undated</unittitle>
+              <container id="aspace_0373647064ebb490c7a5280e64b95bb5" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref227_vnv" level="file">
+            <did>
+              <unittitle>Rörich, Franz, undated</unittitle>
+              <container id="aspace_2814d433e7c38aad4870289e2b330afe" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref228_dj6" level="file">
+            <did>
+              <unittitle>Senefelder, undated</unittitle>
+              <container id="aspace_4639692fa708b14dd0a1be537a232d64" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref229_az1" level="file">
+            <did>
+              <unittitle>S. A. Steiner and Co., undated</unittitle>
+              <container id="aspace_cf88ff43d22f391ee27bab6a6cf27756" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref230_1gl" level="file">
+            <did>
+              <unittitle>Weigl, Thaddäus, undated</unittitle>
+              <container id="aspace_867c3a3f2f788179d2b99a43bcaaaaee" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref231_mdl" level="file">
+            <did>
+              <unittitle>1954-1982, undated</unittitle>
+              <container id="aspace_72dbfa83abd9a2ecae1520ca439e76e3" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+          <c03 id="aspace_ref232_io2" level="file">
+            <did>
+              <unittitle>undated,1026-15451</unittitle>
+              <physdesc id="aspace_77896db569eef281c588e17561a90ff5"><extent>2
+                folders</extent></physdesc>
+              <container id="aspace_e63fde386c68712cd7328c896c8e59db" label="Mixed Materials"
+                type="box">16</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref234_82t" level="file">
+          <did>
+            <unittitle>Miscellaneous Series</unittitle>
+          </did>
+          <c03 id="aspace_ref235_z5o" level="file">
+            <did>
+              <unittitle>Clippings, circa 1929-1985, undated</unittitle>
+              <physdesc id="aspace_43ee58a48441aad4cdd30fb2c8f40ad6"><extent>6
+                folders</extent></physdesc>
+              <container id="aspace_a1603f93146ebba0e08cc06b5b2ef52d" label="Mixed Materials"
+                type="box">17</container>
+            </did>
+          </c03>
+          <c03 id="aspace_b2c438850b7bdb793ca5dd1a8c4fb465" level="file">
+            <did>
+              <unittitle>Clippings</unittitle>
+              <unitdate type="inclusive">circa 1850s-1970s</unitdate>
+              <container id="aspace_1ecca4b9cf6193e8db1c6fca8621d0a3" label="Mixed Materials"
+                type="oversize-folder">1</container>
+            </did>
+            <scopecontent id="aspace_5288eca7c99dc9b711919e6e6bae20c8">
+              <head>Scope and Contents</head>
+              <p>Mostly clippings from German newspapers.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref237_ld2" level="file">
+          <did>
+            <unittitle>Research Notes</unittitle>
+          </did>
+          <c03 id="aspace_ref238_1rl" level="file">
+            <did>
+              <unittitle>undated</unittitle>
+              <container id="aspace_4547f19682d0fa825cdd2c4d1497dcb9" label="Mixed Materials"
+                type="box">18</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref239_94r" level="file">
+          <did>
+            <unittitle>Music Series</unittitle>
+          </did>
+          <c03 id="aspace_ref240_qpx" level="file">
+            <did>
+              <unittitle>Composers:</unittitle>
+              <container id="aspace_1e9e2144ab9528d467a3b1c9f6af4e74" label="Mixed Materials"
+                type="box">18</container>
+            </did>
+            <c04 id="aspace_ref241_ii5" level="file">
+              <did>
+                <unittitle>Mozart, Leopold</unittitle>
+                <physdesc id="aspace_0f5a8505078b568ab91c67bb38c6d894"><extent>2
+                  folders</extent></physdesc>
+                <container id="aspace_4d9bf82cc4618281f135d64d29bf23fa" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref243_2n4" level="file">
+              <did>
+                <unittitle>A-Z, undated</unittitle>
+                <container id="aspace_7fbfac298a9a8ea7a11702e02c96922a" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref244_qy3" level="file">
+              <did>
+                <unittitle>Schubert, Franz</unittitle>
+                <container id="aspace_009aa86a89f240ecd562d76c6c4fb467" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+            <c04 id="aspace_ref245_48w" level="file">
+              <did>
+                <unittitle>D-V</unittitle>
+                <container id="aspace_03b172919e4a4e7feb43ab72205fa4d5" label="Mixed Materials"
+                  type="box">18</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="aspace_ref246_wwl" level="file">
+            <did>
+              <unittitle>Various composers, undated</unittitle>
+              <container id="aspace_3181f89adf93979605e7f918c1eef78c" label="Mixed Materials"
+                type="box">18</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref247_9ym" level="file">
+          <did>
+            <unittitle>Printed Material</unittitle>
+          </did>
+          <c03 id="aspace_ref248_eq7" level="file">
+            <did>
+              <unittitle>1826-1985, undated</unittitle>
+              <physdesc id="aspace_f738bb3c9ce84ed5dd475e55183d7b63"><extent>8
+                folders</extent></physdesc>
+              <container id="aspace_ab7cf23eb02a1f22362d7ad8f63ce36a" label="Mixed Materials"
+                type="box">18</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_51a094eedff664c4de508f40f8230eb7" level="series">
+        <did>
+          <unittitle>Audio tapes</unittitle>
+        </did>
+        <accessrestrict id="aspace_46528ea43e8e921d16f2ac02cbef5dbc">
+          <head>Conditions Governing Access</head>
+          <p>Audio tapes require digitization prior to use. For more information, contact Rubenstein
+            Library Staff.</p>
+        </accessrestrict>
+        <scopecontent id="aspace_912618f9173637918861f1046984bfd1">
+          <head>Scope and Contents</head>
+          <p>Series contains homemade recordings from commercially released phonodiscs or tapes,
+            with portions of the content including audio commentary from Weinmann.</p>
+        </scopecontent>
+        <c02 id="aspace_10af0754c91731b6d4a99cd7c14c3a25" level="file">
+          <did>
+            <unittitle>Dances from Old Vienna; The Good Old Times (Willi Boskovsky), homemade audio
+              cassette tapes from phonodisc or audio tape</unittitle>
+          </did>
+          <c03 id="aspace_10d705b75340a518efe9cbfbaa4b00b4" level="item">
+            <did>
+              <unittitle>Audio cassette I</unittitle>
+              <container id="aspace_60fb31214457a886ade7f3c95a13e1e7" label="Audio" type="box"
+                >19</container>
+              <container id="aspace_dd861725815ac5b0d02427dfcc3e8411"
+                parent="aspace_60fb31214457a886ade7f3c95a13e1e7" type="audio-cassette"
+                >RL01359-CS-0001</container>
+            </did>
+          </c03>
+          <c03 id="aspace_cf125dc424983ef2f77ab2cb9664a6c4" level="item">
+            <did>
+              <unittitle>Audio cassette II, with commentary by Weinmann</unittitle>
+              <container id="aspace_6fb5fe4fe078edbd058140931d102c13" label="Audio" type="box"
+                >19</container>
+              <container id="aspace_edf70c2a5ce03861c1269f0759003dda"
+                parent="aspace_6fb5fe4fe078edbd058140931d102c13" type="audio-cassette"
+                >RL01359-CS-0002</container>
+            </did>
+          </c03>
+          <c03 id="aspace_03d91e81ec88bdf341c94fc5984ed4be" level="item">
+            <did>
+              <unittitle>Audio cassette III, with commentary by Weinmann</unittitle>
+              <container id="aspace_da372538b46d0a53ff542ca8ae4fd56f" label="Audio" type="box"
+                >19</container>
+              <container id="aspace_a5f2ea5bd999c341f72b2e0ed79209dc"
+                parent="aspace_da372538b46d0a53ff542ca8ae4fd56f" type="audio-cassette"
+                >RL01359-CS-0003</container>
+            </did>
+          </c03>
+          <c03 id="aspace_61ea41c29d6225f76dd7abebd2897c9f" level="item">
+            <did>
+              <unittitle>Audio cassette IV</unittitle>
+              <container id="aspace_f9804ae2fb427767f92217cac50151e5" label="Audio" type="box"
+                >19</container>
+              <container id="aspace_a82d2bafc3892c2fcdc741b54bfe6a99"
+                parent="aspace_f9804ae2fb427767f92217cac50151e5" type="audio-cassette"
+                >RL01359-CS-0004</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_56c85dac0c787017a928008a4b212f5e" level="file">
+          <did>
+            <unittitle>Collegium Musicum Pragense, Supraphon 0110614 [Musica Antiqua Bohemica:
+              Hunting Music (1970)], homemade audio tape from phonodisc or tape</unittitle>
+          </did>
+          <c03 id="aspace_6911464fe5850c9c6d7f16451c233c1e" level="item">
+            <did>
+              <unittitle>1/4-inch audio reel</unittitle>
+              <container id="aspace_b7eee5e9a764953ded5726882934ec12" label="Audio" type="box"
+                >19</container>
+              <container id="aspace_7d7553b39e61f9dcb22299c5b0b04049"
+                parent="aspace_b7eee5e9a764953ded5726882934ec12" type="audio-reel"
+                >RL01359-RR-0001</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="aspace_a665b0670ce6205ca720e4c9b8fc0e74" level="series">
+        <did>
+          <unittitle>Addition (2002-0141)</unittitle>
+          <unitdate normal="1940/1991" type="inclusive">1940s-1991</unitdate>
+          <container id="aspace_22483a4db405f9e4a06e77f3d15c6600" label="mixed materials" type="box"
+            >Acc. 02/141: 1-3</container>
+        </did>
+        <scopecontent id="aspace_50979405aa9aed66388e61f71d71316c">
+          <head>Scope and Contents</head>
+          <p>The addition to the collection (2002-0141) (752 items, 1.4 linear feet; dated [ca.
+            1940s]-1991 and undated) contains research notes, 101 photo stats and other types of
+            musical score copies, and other materials used by Weinmann for producing his Johan
+            Baptist Vanhal catalog. Includes correspondence to Paul Bryan from and, after his death,
+            about Weinmann (1969-1991); Bryan's notes and correspondence regarding the Weinmann
+            collection at Duke; publications by Weinmann; two audio cassettes of conversations
+            between Bryan and Weinmann and others; and 1 color slide, ca. 30 color prints, and 2
+            black-and-white prints of Weinmann and his family (circa 1940s, 1975, and undated). This
+            accession is unprocessed; there is no container list for this material.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

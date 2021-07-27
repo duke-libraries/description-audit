@@ -1,0 +1,3761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/sydnor/">sydnor</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Charles S. Sydnor Papers, 1729-1978and undated
+                  <num>RL.01273</num>
+            </titleproper>
+            <author>Processed by Janie Morris; Assisted by Daniel Daily; machine-readable finding
+               aid created by Alvin Pollock</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">001098648</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 11:49:10
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Charles S. Sydnor papers</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Sydnor, Charles S. (Charles Sackett), 1898-1954.</persname>
+         </origination>
+         <unitid>RL.01273</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">14.8 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1729/1978" type="inclusive">1729-1978 and undated</unitdate>
+         <physloc id="aspace_2b7f8ed7816a9ed81fe2810bf4251c5e">For current information on the
+            location of these materials, please consult the library's online catalog.</physloc>
+         <physdesc id="aspace_c18ac2607587903bf6fcf76d98c4b67f">
+            <extent>circa 11,159 items</extent>
+         </physdesc>
+         <langmaterial id="aspace_d0a547524816767a7e21e0c398b1392d">English. </langmaterial>
+      </did>
+      <accessrestrict id="aspace_ff3f1116afcd116d3973a6b9bed33282">
+         <head>Access Restriction</head>
+         <p>Part of the Teaching Files Series in this collection is restricted.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_ff59d4d575c3d20a972ee3c918d455a5">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in the Charles S. Sydnor papers have not been transferred to
+            Duke University. For further information, see the section on copyright in the
+            Regulations and Procedures of the Rubenstein Library.</p>
+      </userestrict>
+      <prefercite id="aspace_295a2a87f33696b2c33b46084ac46186">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Charles S. Sydnor Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_2b3f9ae7b8adea4e6805e2bcbbb01ce0">
+         <head>Provenance</head>
+         <p>The Charles S. Sydnor Papers (1729-1978 and undated) were donated to the David M.
+            Rubenstein Rare Book &amp; Manuscript Library in 1990 by members of the Sydnor
+            family.</p>
+      </acqinfo>
+      <processinfo id="aspace_d6cc5fa6fe609bcb65ccba9deaacf6bc">
+         <head>Processing Information</head>
+         <p>Processed by Janie Morris</p>
+         <p>Assisted by Daniel Daily</p>
+         <p>Date Completed: November 9, 1992</p>
+         <p>Encoded by Alvin Pollock</p>
+         <p>Finding aid updated to include processed additions 2000-0302, 2002-0051, and 2008-0145
+            in July 2009 by Alice Poffinberger</p>
+      </processinfo>
+      <bioghist id="aspace_4277f884676f8aa99a2cafc2b794dbb2">
+         <head>Biographical Note</head>
+         <chronlist>
+            <head>Chronology</head>
+            <chronitem>
+               <date>1898, July 21</date>
+               <eventgrp>
+                  <event>Born, Augusta, Ga.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1915</date>
+               <eventgrp>
+                  <event>Graduated from Darlington School, Rome, Ga.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1918</date>
+               <eventgrp>
+                  <event>B.A., Hampden-Sydney College, Hampden-Sydney, Va.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1919</date>
+               <eventgrp>
+                  <event>Taught high school in Rome, Ga.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1919-1920</date>
+               <eventgrp>
+                  <event>Taught at McCallie School, Chattanooga, Tenn.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1923</date>
+               <eventgrp>
+                  <event>Ph.D., Johns Hopkins University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1923-1925</date>
+               <eventgrp>
+                  <event>Professor of History and Political Science, Hampden-Sydney College</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1924, June 12</date>
+               <eventgrp>
+                  <event>Married Betty Brown</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1925-1936</date>
+               <eventgrp>
+                  <event>Professor of History, University of Mississippi</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1935-1938</date>
+               <eventgrp>
+                  <event>Member, Board of Editors, <title type="simple" render="italic">Journal of
+                        Southern History</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1936-1938</date>
+               <eventgrp>
+                  <event>Associate professor of History, Duke University, Durham, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1938</date>
+               <eventgrp>
+                  <event>Professor of History and Chairman of History Department, Duke
+                     University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1939</date>
+               <eventgrp>
+                  <event>President, Southern Historical Association</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1941-1944</date>
+               <eventgrp>
+                  <event>Member, Executive Committee, North Carolina Literary and Historical
+                     Association</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1947-</date>
+               <eventgrp>
+                  <event>Member, Board of Editors, <title type="simple" render="italic">South
+                        Atlantic Quarterly</title>
+                  </event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1948</date>
+               <eventgrp>
+                  <event>Litt.D., Washington and Lee University, and Princeton University
+                     (1953)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1949</date>
+               <eventgrp>
+                  <event>President, North Carolina Literary and Historical Association</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1950</date>
+               <eventgrp>
+                  <event>M.A., University of Oxford, Oxford, England</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1950-1951</date>
+               <eventgrp>
+                  <event>Harold Vyvyan Harmsworth Professor of American History, University of
+                     Oxford</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1952-</date>
+               <eventgrp>
+                  <event>Dean of Graduate School of Arts and Sciences, Duke University</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1953</date>
+               <eventgrp>
+                  <event>LL.D., Davidson College, Davidson, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1954</date>
+               <eventgrp>
+                  <event>Died (buried in Chattanooga, Tenn.)</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Sydnor's publications include Mississippi History, Slavery in Mississippi, A Gentleman
+            of the Old Natchez Region: Benjamin L. C. Wailes, The Development of Southern
+            Sectionalism, 1819-1848 (Volume V of The History of the South), and Gentlemen
+            Freeholders: Political Practices in Washington's Virginia.</p>
+         <p>Sydnor held visiting professorships at Emory (1925-1926), Johns Hopkins (1929, 1934),
+            Duke (1935-1936), Cornell (1941), University of North Carolina (1949), and Harvard
+            (1952) Universities. He was a member of the Presbyterian Church, the Council Institute
+            of Early American History and Culture, the Advisory Committee of the Office of the Chief
+            of Military History for the U.S. Army, the American Historical Association, and the
+            American Mississippi Valley Historical Association. He received awards from the Social
+            Science Research Council (1940) and the Library of Congress (1945-1946).</p>
+      </bioghist>
+      <scopecontent id="aspace_40f796186d7d18f3b622f3de96cf7ad9">
+         <head>Collection Overview</head>
+         <p>The Charles S. Sydnor Papers roughly span the period 1729-1978, the bulk dated 1923 to
+            1954. They include correspondence, research notes, writings, printed materials, and
+            clippings, chiefly relating to Sydnor's teaching career at Duke University, as well as
+            at Harvard and Queen's College, Oxford. The collection also includes information about
+            his involvement with various historical associations and committees, including the
+            American Historical Association, Southern Historical Association, North Carolina
+            Literary and Historical Association, and the Advisory Committee of the Office of the
+            Chief of Military History for the United States Army. There is background information
+            pertaining to his various writings, including <title type="simple" render="italic">The
+               Development of Southern Sectionalism (Volume V of the work A History of the
+               South)</title> (Baton Rouge, La., 1948), <title type="simple" render="italic"
+               >Gentleman Freeholders: Political Practices in Washington's Virginia</title> (Chapel
+            Hill, N.C., 1952), <title type="simple" render="italic">A Gentleman of the Old Natchez
+               Region: Benjamin L. C. Wailes</title> (Durham, N.C., 1938), <title type="simple"
+               render="italic">Mississippi History</title> (New York, N.Y., 1930), and <title
+               type="simple" render="italic">Slavery in Mississippi</title> (New York, N.Y., 1933).
+            The papers contain notes and examinations for various history courses taught by Sydnor,
+            student roll books, grade books, and papers. Additionally, there are a few notebooks and
+            papers of Sydnor's while he was a student.</p>
+         <p>Materials relating to Sydnor's teaching career and participation in historical
+            associations are found primarily in the Alphabetical Files Series and the Teaching Files
+            Series. The information about Queen's College, University of Oxford, is located in the
+            Alphabetical Files Series under Oxford. Information pertaining to his writings are found
+            in the Writings and Speeches Series. Sydnor's own student notebooks and papers are found
+            in the Miscellaneous Series. Topics highlighted include the Duke University Department
+            of History during the late 1930s through the early 1950s, (Alphabetical Files Series);
+            the writing and teaching of Southern history, particularly Mississippi history,
+            (Writings and Speeches Series and Teaching Files Series); and the naturalist and
+            planter, Benjamin L. C. Wailes (Writings and Speeches Series). A related collection in
+            the Duke University. David M. Rubenstein Rare Book &amp; Manuscript Library is the
+            Benjamin L. C. Wailes Papers.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="lcsh">History teachers</subject>
+         <geogname source="lcsh">Southern States -- History -- Historiography</geogname>
+         <subject source="lcsh">Grading and marking (Students)</subject>
+         <geogname source="lcsh">Virginia -- Politics and government -- 1775-1865</geogname>
+         <geogname source="lcsh">Virginia -- Politics and government -- Colonial Period, ca.
+            1600-1775</geogname>
+         <geogname source="lcsh">Southern States -- History</geogname>
+         <subject source="lcsh">Slavery -- United States -- Condition of slaves</subject>
+         <geogname source="lcsh">Mississippi -- History</geogname>
+         <subject source="lcsh">Slavery -- Mississippi</subject>
+         <subject source="lcsh">Slaves -- United States -- Social conditions</subject>
+         <corpname source="ingest">Duke University -- Faculty</corpname>
+         <corpname source="ingest">North Carolina Literary and Historical Association</corpname>
+         <corpname source="ingest">Harvard University. Dept. of History</corpname>
+         <corpname source="ingest">Southern Historical Association</corpname>
+         <corpname source="ingest">Duke University. Department of History</corpname>
+         <corpname source="ingest">Queen's College (University of Oxford)</corpname>
+         <corpname source="ingest">United States. Dept. of the Army. Office of Military
+            History</corpname>
+         <persname source="ingest">Wailes, Benjamin Leonard Covington, 1797-1862</persname>
+         <persname source="ingest">Sydnor, Charles S. (Charles Sackett), 1898-1954.</persname>
+         <corpname source="ingest">American Historical Association</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref13_u49" level="series">
+            <did>
+               <unittitle>Alphabetical Files Series, 1862-1954, undated (bulk
+                  1925-1954).</unittitle>
+            </did>
+            <scopecontent id="aspace_5232072c7a806eb59daa5496ccc1aa0f">
+               <head>Scope and Contents note</head>
+               <p>Includes correspondence, clippings, memoranda, and printed materials. Within this
+                  series are letters and documents which pertain to Sydnor's teaching posts at Duke
+                  University and elsewhere, his tenure as chairman of the History Department at Duke
+                  University, and his involvement in various professional societies. Also included
+                  are materials which document Sydnor's role as a member of the Advisory Committee
+                  of the Office of Chief of Military History for the United States Army. Arranged
+                  alphabetically by either correspondent or subject.</p>
+            </scopecontent>
+            <c02 id="aspace_ref14_xed" level="file">
+               <did>
+                  <unittitle>A, 1936-1954</unittitle>
+                  <container id="aspace_c9d336fedaf1708768e2211623e26fc4" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_okf" level="file">
+               <did>
+                  <unittitle>Abingdon-Cokesbury Press, 1952, Mar. 17-April 8</unittitle>
+                  <container id="aspace_d13ae9729b68aa4ae8b52d2805dabfe0" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_qrx" level="file">
+               <did>
+                  <unittitle>American Historical Association:</unittitle>
+               </did>
+               <c03 id="aspace_ref17_u8i" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">American History Abroad--Oxford,</emph> 1951, May
+                        17-July 13</unittitle>
+                     <container id="aspace_f30bcb6d4a931b8aaf5c6f7a5c6b98c9" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref18_yhk" level="file">
+                  <did>
+                     <unittitle>Programs, 1927-1951</unittitle>
+                     <physdesc id="aspace_123b17f86d638b6d360becfcdc0ea846">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_dda511d5406a9fcf1714507080d4be13" label="Mixed Materials"
+                        type="box">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref20_649" level="file">
+               <did>
+                  <unittitle>Andrews Raiders, 1906, Sept. 18-20</unittitle>
+                  <container id="aspace_ad0f654afe8f9deafe7ab6da2ad8a844" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_lvs" level="file">
+               <did>
+                  <unittitle>B, 1927-1954, June, undated</unittitle>
+                  <physdesc id="aspace_2a1f4793c7c7bb5b74bc9c6915699b07">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c1ee2044988b23b8e32da8b99b2866f1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_3af" level="file">
+               <did>
+                  <unittitle>Bancroft Prize (John Krout), 1953, Aug.-1954, Mar.</unittitle>
+                  <container id="aspace_e6c3b0058098c261fc21d0b559b06920" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_uxh" level="file">
+               <did>
+                  <unittitle>Boyd, William K., 1938-1941, undated</unittitle>
+                  <physdesc id="aspace_738882c83c9080aec413f74aabeb7b93">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4ebf36b2dd1a8fd1f8020cb5ce04d1ec" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_miy" level="file">
+               <did>
+                  <unittitle>Brown family, 1929-1954</unittitle>
+                  <container id="aspace_b4e36b2406a889fe4e04e2512ba26348" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_s2s" level="file">
+               <did>
+                  <unittitle>C, 1926-1956</unittitle>
+                  <physdesc id="aspace_40131eb84441e86805ab38f89e1c4deb">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4c12d59bcf43079e8d6271bbe4061c37" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_ea3" level="file">
+               <did>
+                  <unittitle>Clippings:</unittitle>
+                  <container id="aspace_bf86398f857329e5fe7a9d6da617022a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+               <c03 id="aspace_ref30_vv6" level="file">
+                  <did>
+                     <unittitle>1927-1955</unittitle>
+                     <container id="aspace_3d096c0ed535c22d65a76d840fddd87d" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref31_7n8" level="file">
+                  <did>
+                     <unittitle>Funeral, obituaries, Dr. Sydnor, 1954</unittitle>
+                     <container id="aspace_a9f6ee0a80eec0cfffc18a4a6eb42854" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref32_t3p" level="file">
+               <did>
+                  <unittitle>Columbia University, 1954-1955</unittitle>
+                  <container id="aspace_d99f59dd3caae7d56393882ef08dcb1f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_wil" level="file">
+               <did>
+                  <unittitle>Commonwealth Fund, Sir Hector Hetheringtion, 1952, Oct. 1</unittitle>
+                  <container id="aspace_2a845c582546dd00f13113fad189e6f9" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_7kf" level="file">
+               <did>
+                  <unittitle>Condolence messages, Dr. Sydnor's death, 1954</unittitle>
+                  <physdesc id="aspace_cd5636ebd57bd2fdb368a95dd1ac314c">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_184da5660b0e02c716e0f3a8c9b86841" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_ixf" level="file">
+               <did>
+                  <unittitle>Converse College, 1953</unittitle>
+                  <container id="aspace_1fa4706f37068813a12f9f41c4329bc4" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_2ui" level="file">
+               <did>
+                  <unittitle>Cornell class roll, 1941</unittitle>
+                  <container id="aspace_a14358efc5f8cb4d8c2aacd03021d419" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_7ec" level="file">
+               <did>
+                  <unittitle>D, 1926-1953</unittitle>
+                  <physdesc id="aspace_a806a531ce82c3f835306f7a110d7339">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_68b94421e204e8118f58f3b3d69486f5" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_pgw" level="file">
+               <did>
+                  <unittitle>Dancy Foundation Lectures Program, 1939</unittitle>
+                  <container id="aspace_63233790144026d5b0df0ca3166de89f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_wxd" level="file">
+               <did>
+                  <unittitle>Davidson College:</unittitle>
+               </did>
+               <c03 id="aspace_ref42_ebn" level="file">
+                  <did>
+                     <unittitle>1942-1953</unittitle>
+                     <physdesc id="aspace_2d43626ff475775828e20755da636e45">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_4fcc34aa692cfaf2ef077c4f0321c6e3" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_fr1" level="file">
+                  <did>
+                     <unittitle>Honorary Degree (clippings), 1953</unittitle>
+                     <container id="aspace_1bbdf86fc8776bf1983700086fb56d55" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref45_rai" level="file">
+               <did>
+                  <unittitle>Duke University Church, Committee Reports, 1951</unittitle>
+                  <container id="aspace_90bd13c820169affb20e521d3f6fc04f" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_6xv" level="file">
+               <did>
+                  <unittitle>Duke University. Department of History:</unittitle>
+               </did>
+               <c03 id="aspace_ref47_dn3" level="file">
+                  <did>
+                     <unittitle>Academic salary data, 1953</unittitle>
+                     <container id="aspace_7ee906b2d4c79ec2c21fa208bfa762ce" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_oau" level="file">
+                  <did>
+                     <unittitle>Application, appointment, and report forms, 1947-1953,
+                        undated</unittitle>
+                     <container id="aspace_bd2dd9a88d3f3382d0515e6eba1431f0" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_to1" level="file">
+                  <did>
+                     <unittitle>Catalogue material for 1953-1954, submitted 1952, Nov.</unittitle>
+                     <container id="aspace_bdf47da56e5847c2c039b1b7de8a5147" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_98y" level="file">
+                  <did>
+                     <unittitle>Class census reports, history, 1952, Fall-1953, Fall</unittitle>
+                     <physdesc id="aspace_a5537fbeece34a6b35a20f007f7ea4ec">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_39da728f364000d5b06a43a309b36e5a" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref52_j7n" level="file">
+                  <did>
+                     <unittitle>Department conference and officers, 1952</unittitle>
+                     <container id="aspace_6cb9b6910ba844f25801eb4c6b99897e" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_dsg" level="file">
+                  <did>
+                     <unittitle>Departmental meetings:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref54_cf1" level="file">
+                     <did>
+                        <unittitle>1952, Oct. 14</unittitle>
+                        <container id="aspace_e6f49faf93818f6789f370a1d18f5d95"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref55_u4q" level="file">
+                     <did>
+                        <unittitle>1953, Jan. 8</unittitle>
+                        <container id="aspace_055d60374f786db29d238444f06669e7"
+                           label="Mixed Materials" type="box">2</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref56_9ej" level="file">
+                  <did>
+                     <unittitle>Diplomatic history, faculty position for, 1952</unittitle>
+                     <container id="aspace_d6ab1badc86da592da6d8186861861bf" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_sup" level="file">
+                  <did>
+                     <unittitle>Edens, A. Hollis, 1949-1953</unittitle>
+                     <container id="aspace_9d5aed615f229d7cd39206180f33dee2" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref58_vb7" level="file">
+                  <did>
+                     <unittitle>Faculty, staff, course schedules, and office arrangements,
+                        1951-1953</unittitle>
+                     <container id="aspace_a15ea855290861301957ef6a18802f0f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref59_mvl" level="file">
+                  <did>
+                     <unittitle>Graduate bulletin material, 1952, April</unittitle>
+                     <container id="aspace_34867c733bbddd3237718bab5aceff60" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_lx3" level="file">
+                  <did>
+                     <unittitle>Graduate fellowships at Duke, publication of theses,
+                        1952-1954</unittitle>
+                     <container id="aspace_98a02d1a6c1246ddac67432688b8a334" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_ufc" level="file">
+                  <did>
+                     <unittitle>Graduate programs of students not majoring with Sydnor,
+                        1949-1953</unittitle>
+                     <container id="aspace_375f5b809bc9cea1ce3bd97c2c6b15e6" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_ngr" level="file">
+                  <did>
+                     <unittitle>Graduate school, 1938-1953</unittitle>
+                     <container id="aspace_cf70689f363fe806922a9f224c84542f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_nih" level="file">
+                  <did>
+                     <unittitle>Gross, Paul, Letters to and from about policy in history graduate
+                        programs, 1949-1950</unittitle>
+                     <container id="aspace_9d18d90e9511a6be35adbf3af2711204" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_4di" level="file">
+                  <did>
+                     <unittitle>History majors in Trinity College, 1953, Fall</unittitle>
+                     <container id="aspace_a5ca54f0d478f92e99912c617e80823f" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_w5f" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Preparing Graduate Students for College
+                           Teaching,</emph> 1951-1952</unittitle>
+                     <container id="aspace_d750da0c6fa9036b59bb7673034f0fc3" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_td8" level="file">
+                  <did>
+                     <unittitle>Research topics, thesis subjects, undated</unittitle>
+                     <container id="aspace_713f4fd9d70b10403d394260d74526a5" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_5y3" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, 1952-1954</unittitle>
+                     <container id="aspace_f2289a4b53994b025ff3821b783ff882" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref68_d4u" level="file">
+               <did>
+                  <unittitle>Duke University Library, 1951-1953</unittitle>
+                  <container id="aspace_4820e9d0fbbf97d94519251b915aa4d1" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_v68" level="file">
+               <did>
+                  <unittitle>Duke University Library Council, 1939-1950</unittitle>
+                  <container id="aspace_61924051903627b451ed57f387fd5b50" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_zn8" level="file">
+               <did>
+                  <unittitle>Duke University Research Council</unittitle>
+               </did>
+               <c03 id="aspace_ref71_9s2" level="file">
+                  <did>
+                     <unittitle>1937-1954</unittitle>
+                     <physdesc id="aspace_d66367af138fdcc28b29b659c784be2d">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_4f916704b023a93ac49840fcbad67901" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_01b" level="file">
+                  <did>
+                     <unittitle>Carnegie Foundation, 1948-1950</unittitle>
+                     <container id="aspace_c7b9fd1a0540d07c717cdd65e43bb5ef" label="Mixed Materials"
+                        type="box">2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref74_gws" level="file">
+               <did>
+                  <unittitle>E, 1940-1951</unittitle>
+                  <container id="aspace_83e185671e43fbeef1d74a2fbeefb201" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_4jk" level="file">
+               <did>
+                  <unittitle>English-Speaking Union, 1950-1951</unittitle>
+                  <container id="aspace_9df60d0e46792b6d2b3e248dea233573" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_5x4" level="file">
+               <did>
+                  <unittitle>F, 1933-1952</unittitle>
+                  <container id="aspace_a7f7f26c20a6c29f83c55580b6787be2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_tvj" level="file">
+               <did>
+                  <unittitle>Ferrell, Robert H., 1952</unittitle>
+                  <container id="aspace_7baeb49b4dfd2a73ac0c6ba840b956f2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref78_b08" level="file">
+               <did>
+                  <unittitle>Fleming, Walter Lynwood, lectures, programs, 1938-1949</unittitle>
+                  <container id="aspace_3c51b180bc9013bfc0c78d146fe12907" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref79_c5c" level="file">
+               <did>
+                  <unittitle>Fulbright program, 1950-1951, undated</unittitle>
+                  <container id="aspace_cfdc66b871ad2b9a7190a19b503d24e8" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref80_l8g" level="file">
+               <did>
+                  <unittitle>G, 1923-1953, undated</unittitle>
+                  <physdesc id="aspace_e2bd31b4d1e685c7bdab224d8d923334">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_edc4dc8c4472bde184d14778170f89c7" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref82_3tz" level="file">
+               <did>
+                  <unittitle>Gauhati University, Assam, India, 1951-1954, undated</unittitle>
+                  <container id="aspace_bc666cb6325a348b10691cea8232d8bc" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref83_689" level="file">
+               <did>
+                  <unittitle>Glasgow, University of, 1950-1951, undated</unittitle>
+                  <container id="aspace_744475fefcc683747803fe2c6851d1fd" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref84_cos" level="file">
+               <did>
+                  <unittitle>Green, Edward R. R., 1953</unittitle>
+                  <container id="aspace_c6ac5406ac441f18e18b85668146b90d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref85_2gm" level="file">
+               <did>
+                  <unittitle>H, 1936-1969, undated</unittitle>
+                  <physdesc id="aspace_cc8cf389bfb8fa65784e8142d8e4f7a5">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_8e0f054afa5bd262e774ef3f3fc47d7c" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref87_mrl" level="file">
+               <did>
+                  <unittitle>Hampden-Sydney College Alumni Fund, 1953, undated</unittitle>
+                  <container id="aspace_b50a1f78538f54fb6f46077d999f35a6" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref88_wja" level="file">
+               <did>
+                  <unittitle>Harvard University Summer School:</unittitle>
+               </did>
+               <c03 id="aspace_ref89_bny" level="file">
+                  <did>
+                     <unittitle>1951-1952, undated</unittitle>
+                     <container id="aspace_7f0b6716bbb6d19289c6b233fa2ca468" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref90_4m5" level="file">
+                  <did>
+                     <unittitle>Housing, 1952</unittitle>
+                     <container id="aspace_a0436bf42411bae83cfc396010647541" label="Mixed Materials"
+                        type="box">3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref91_xhq" level="file">
+               <did>
+                  <unittitle>Historical Society of North Carolina, 1945-1953, undated</unittitle>
+                  <container id="aspace_51fec4a354711de25403af1e4629d0ac" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_w6a" level="file">
+               <did>
+                  <unittitle>Home: Oxford, Miss., 1928, undated</unittitle>
+                  <container id="aspace_7b5c4903d1c4aa61312601dfc66fa1e5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_vmm" level="file">
+               <did>
+                  <unittitle>I, 1934-1952, undated</unittitle>
+                  <container id="aspace_91f6667a4b7994aa661021439eab4a54" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_rb6" level="file">
+               <did>
+                  <unittitle>Income tax, 1918-1930</unittitle>
+                  <container id="aspace_f0d82ec73286ccf818f8a4043653b2ab" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_tt7" level="file">
+               <did>
+                  <unittitle>J, 1926-1954</unittitle>
+                  <container id="aspace_157f1788b3506cacfc2d4fa501d3e5e5" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_rbd" level="file">
+               <did>
+                  <unittitle>Jameson, R. D., Library of Congress, 1940</unittitle>
+                  <container id="aspace_0f0c9b4802d8f61f6508432c409bef43" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_3y5" level="file">
+               <did>
+                  <unittitle>Johns Hopkins University, 1922-1923</unittitle>
+                  <container id="aspace_8eea85166915299f689a3f19cc667e1f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref98_z2f" level="file">
+               <did>
+                  <unittitle>Jordan, Charles E., 1949-1952, undated</unittitle>
+                  <container id="aspace_7664b404cc420329e5d6e2398146c07f" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_vtf" level="file">
+               <did>
+                  <unittitle>K, 1925-1954, undated</unittitle>
+                  <container id="aspace_46fead6f815c27f434f36fa375d67404" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_pyk" level="file">
+               <did>
+                  <unittitle>Kearns Fellows Homecoming, 1953</unittitle>
+                  <container id="aspace_03cdb29ab0de62e2c272f974170c24b1" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_hzv" level="file">
+               <did>
+                  <unittitle>L, 1920-1954, undated</unittitle>
+                  <physdesc id="aspace_4a615ef35d4ddb10b81b55f28712cf53">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_30cdaf34b8e789cff4c50a812d9fb3d2" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref103_lmm" level="file">
+               <did>
+                  <unittitle>Laprade, W. T., 1950-1953</unittitle>
+                  <container id="aspace_4da6d106a27ebda1bf3aec585d31303d" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_4zz" level="file">
+               <did>
+                  <unittitle>Library of Congress: Grant in Aid, 1945-1946</unittitle>
+                  <container id="aspace_5c19e367cb3657dcf314cb2fcde13754" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_o3g" level="file">
+               <did>
+                  <unittitle>M, 1925-1954</unittitle>
+                  <physdesc id="aspace_c949c68df181cbe27b6da343c4c6a838">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_b28a38578e4f8057fbaf6513bd51368f" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref107_ond" level="file">
+               <did>
+                  <unittitle>Mc, 1919-1972</unittitle>
+                  <physdesc id="aspace_d39a6f9deea28ebb583f10495daee8a0">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_41953a006f791093c783340234863029" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_q0o" level="file">
+               <did>
+                  <unittitle>Mississippi, 1935-1947</unittitle>
+                  <container id="aspace_9ae3a080380731b005102969c5967271" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_cci" level="file">
+               <did>
+                  <unittitle>Mississippi Conference Historical Society, 1935</unittitle>
+                  <container id="aspace_0f7ab2f7dd1586d9e8b829d95b59fabd" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_sap" level="file">
+               <did>
+                  <unittitle>Mississippi Historical Society, Biloxi, Miss., 1953-1954</unittitle>
+                  <container id="aspace_b1de3087ce5660d7b2a807910d7f952e" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_bt6" level="file">
+               <did>
+                  <unittitle>Mississippi Valley Historical Society: Programs, 1937-1947</unittitle>
+                  <container id="aspace_8fa5af975b8cd40ebcdd57b42da240bd" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_6hi" level="file">
+               <did>
+                  <unittitle>Montgomery, Isaiah T., 1929-1937; undated</unittitle>
+                  <container id="aspace_f270a4f658db00b6c375ff7e859831fc" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_tf9" level="file">
+               <did>
+                  <unittitle>Morrison, Samuel Eliot, <title render="italic"> History as a Literary
+                        Art,</title> undated</unittitle>
+                  <container id="aspace_03dbcca133e427968e2589f4d1df83fd" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_s5o" level="file">
+               <did>
+                  <unittitle>N, 1935-1953</unittitle>
+                  <container id="aspace_6be992a3f7ca9d34d715bc332697295f" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref116_igp" level="file">
+               <did>
+                  <unittitle>Nobel Peace Prize, 1953</unittitle>
+                  <container id="aspace_b72a0d4af6bb5190f07ced1be80f1b56" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref117_i9q" level="file">
+               <did>
+                  <unittitle>North Carolina Literary and Historical Association,
+                     1948-1952</unittitle>
+                  <container id="aspace_dd995f1def0c8c11163353b84c47d934" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref118_amk" level="file">
+               <did>
+                  <unittitle>O, 1929-1952</unittitle>
+                  <container id="aspace_444216cb1ab6e6bb6be9336fa0500afe" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref119_pej" level="file">
+               <did>
+                  <unittitle>Oxford, University of, and England: Miscellaneous, 1950-1951,
+                     undated</unittitle>
+                  <container id="aspace_e4c3c6e24af8860381ad22e1837c8842" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref120_jy5" level="file">
+               <did>
+                  <unittitle>Oxford, University of: Addresses about, notes for, 1953-1954,
+                     undated</unittitle>
+                  <container id="aspace_d8f0f1f8499741d567148e92cb9f1858" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_738" level="file">
+               <did>
+                  <unittitle>Oxford, University of: Beloff, Max, 1950-1951</unittitle>
+                  <container id="aspace_365d6226fc06644df9f3ee382f1d7cfa" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_cv4" level="file">
+               <did>
+                  <unittitle>Oxford, University of: Correspondence, 1950-1951</unittitle>
+                  <container id="aspace_bf4c4c10358ec70f0f9deda4d5f8483f" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_9ek" level="file">
+               <did>
+                  <unittitle>Oxford, University of, Queen's College:</unittitle>
+               </did>
+               <c03 id="aspace_ref124_di1" level="file">
+                  <did>
+                     <unittitle>1950-1953</unittitle>
+                     <physdesc id="aspace_07d7fb5ed1da829191cbaef1a56a604c">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_8befb31412927535646b44dfa2694143" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_31g" level="file">
+                  <did>
+                     <unittitle>Class rolls and notes, undated</unittitle>
+                     <container id="aspace_aad53ee0b42157b89c09da4fe1e91a73" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref127_xmh" level="file">
+                  <did>
+                     <unittitle>Correspondence, 1950</unittitle>
+                     <container id="aspace_79603e096cf28a05a12e563277af79cf" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref128_byd" level="file">
+                  <did>
+                     <unittitle>Registrar, provost, 1950</unittitle>
+                     <container id="aspace_e8641777190def02218c1016452a66fe" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref129_xtr" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, 1948-1951</unittitle>
+                     <container id="aspace_1b21fc5217d76d23de7b7ae6678377b5" label="Mixed Materials"
+                        type="box">4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref130_zlk" level="file">
+               <did>
+                  <unittitle>P, 1930-1953</unittitle>
+                  <physdesc id="aspace_f368ffcf6aebe3fa61d80117a048dbc3">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_44512ca8cdd9424726f0134849ec697d" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_482" level="file">
+               <did>
+                  <unittitle>Phi Beta Kappa, 1939-1940, undated</unittitle>
+                  <container id="aspace_b10486c74c0944b5839d8f2967f5052e" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_qsc" level="file">
+               <did>
+                  <unittitle>Pogue, Forrest C., 1951-1952</unittitle>
+                  <container id="aspace_505fcbce14b603b0d0793628cd82c232" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_5ms" level="file">
+               <did>
+                  <unittitle>Presbyterian Church, 1922-1954</unittitle>
+                  <container id="aspace_cf85396dd685627e950e33a0f7f16864" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_7gc" level="file">
+               <did>
+                  <unittitle>Presbyterian Church in the United States: Board of Education,
+                     1946-1952</unittitle>
+                  <container id="aspace_dfbebc457ad7883a12459789870e6bd0" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_xt7" level="file">
+               <did>
+                  <unittitle>Presbyterian Church, First (Durham, N.C.), 1948-1954</unittitle>
+                  <physdesc id="aspace_5957930d38b7d7470da8d077b71c7b9d">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_d33f7543e8a4ae4ab5c7c331b16716dd" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_lpi" level="file">
+               <did>
+                  <unittitle>Presbyterian Church Youth Literature, 1943-1946, undated</unittitle>
+                  <container id="aspace_26277083cb167c41aa86cee0f3e62fbd" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref139_zg1" level="file">
+               <did>
+                  <unittitle>Princeton Conference of Historians, 1953, Oct. 30-31</unittitle>
+                  <container id="aspace_6a0047c4905232782575cc30dd2e1b18" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref140_y35" level="file">
+               <did>
+                  <unittitle>Princeton University: Honorary degree, 1953</unittitle>
+                  <container id="aspace_862c1d084239622b4ca46cfa4a0e38c2" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref141_e7r" level="file">
+               <did>
+                  <unittitle>Q, 1940-1952</unittitle>
+                  <container id="aspace_5e5cb5fd493ca0216ae4b8d24aac4a8b" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref142_lu3" level="file">
+               <did>
+                  <unittitle>R, 1930-1959</unittitle>
+                  <physdesc id="aspace_ad38210292417960bd523dd44390002a">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_23c3981cb3ce51cecd38e7b97202dcdb" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref144_2dy" level="file">
+               <did>
+                  <unittitle>S, 1931-1956</unittitle>
+                  <physdesc id="aspace_0dfca39459fd1574b813c9102aa842ab">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_da58ab1b94ca66c4db773f8abf56a49f" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref146_mrb" level="file">
+               <did>
+                  <unittitle>Sabbatical:</unittitle>
+               </did>
+               <c03 id="aspace_ref147_n94" level="file">
+                  <did>
+                     <unittitle>1941-1953, undated</unittitle>
+                     <physdesc id="aspace_218b87fe89ecf80f77e5b7a17625fb93">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d88a82417cb299501b782ef17b559501" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref149_ad0" level="file">
+                  <did>
+                     <unittitle>Fulbright grant, 1949-1950, undated</unittitle>
+                     <container id="aspace_c2edaf7c182ab9092e92f5cd8028296e" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref150_slc" level="file">
+                  <did>
+                     <unittitle>Huntington Library, 1949, undated</unittitle>
+                     <container id="aspace_62f1a5e78c6ed1a8673588829ce832f0" label="Mixed Materials"
+                        type="box">5</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref151_jn7" level="file">
+               <did>
+                  <unittitle>Salzburg Seminar in American Studies, 1950-1952, undated</unittitle>
+                  <container id="aspace_0732eda9734898039bfd47d52d6d11d4" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_efl" level="file">
+               <did>
+                  <unittitle>Scotland, 1951, undated</unittitle>
+                  <container id="aspace_d6e8a411313ac097bd5e53475a8179a2" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref153_0jd" level="file">
+               <did>
+                  <unittitle>Simon, F. E., <title render="doublequote">A Scientist Looks at
+                        America,</title> 1950-1951</unittitle>
+                  <container id="aspace_b2519f8e273370020113bb3610c7ab24" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref154_805" level="file">
+               <did>
+                  <unittitle>Social Science Research Council, 1939-1953, undated</unittitle>
+                  <container id="aspace_80ae56ae9a60b755165205125e11fdf5" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref155_kex" level="file">
+               <did>
+                  <unittitle>Southern Historical Association: 1934-1952, undated</unittitle>
+                  <physdesc id="aspace_8c91ec7ae7e1b456b3f5f31f6ba5644f">
+                     <extent>4 folders</extent>
+                  </physdesc>
+                  <container id="aspace_70b75b9e23c4a14dc8f0087dc4170dc1" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref157_f0j" level="file">
+               <did>
+                  <unittitle>Southern Historical Association: Programs, 1934-1951</unittitle>
+                  <container id="aspace_a3a29cb73fa3f253ad0806dc8146178e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref158_q4b" level="file">
+               <did>
+                  <unittitle>Southwestern Social Science Association: Programs, 1932</unittitle>
+                  <container id="aspace_a6efba7049a94c6cd2cefdcb30700874" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref159_eu4" level="file">
+               <did>
+                  <unittitle>Sydnor family genealogy, 1862-1952</unittitle>
+                  <container id="aspace_275ae1435f1d34bca06f96f8a6b053da" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref160_vwo" level="file">
+               <did>
+                  <unittitle>T, 1934-1953</unittitle>
+                  <container id="aspace_3e06ae998665861deb4a8c99a9d9f551" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref161_gfb" level="file">
+               <did>
+                  <unittitle>Theses written under the direction of Charles S. Sydnor: List of early
+                     theses written at Duke, 1937-1953, undated</unittitle>
+                  <container id="aspace_daaf96580d410e998fce8ddcbc70ce08" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref162_h43" level="file">
+               <did>
+                  <unittitle>Trinity College Historical Society:</unittitle>
+               </did>
+               <c03 id="aspace_ref163_2xi" level="file">
+                  <did>
+                     <unittitle>1952-1954</unittitle>
+                     <container id="aspace_32b2965330aa553736b10f981e1109f6" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref164_77z" level="file">
+                  <did>
+                     <unittitle>Publications, 1950-1953</unittitle>
+                     <container id="aspace_152b67130754008e6606aeb259f66c38" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref165_dbc" level="file">
+               <did>
+                  <unittitle>U, 1932-1948</unittitle>
+                  <container id="aspace_5924455c54d1c289faf0524e5bffe94e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref166_fsl" level="file">
+               <did>
+                  <unittitle>United Educators, 1934-1936</unittitle>
+                  <container id="aspace_b3c53b9758a124c126a958d300a4ce8a" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref167_re9" level="file">
+               <did>
+                  <unittitle>United States Army addresses and notes, 1944, undated</unittitle>
+                  <container id="aspace_e94d0c974acdc47817fc7a01b79cceac" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref168_008" level="file">
+               <did>
+                  <unittitle>United States Army History, 1953, Feb.-Aug.</unittitle>
+                  <container id="aspace_56468e6b708158c67cee1f124c0bed2a" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref169_z5p" level="file">
+               <did>
+                  <unittitle>United States Department of Education, 1952-1953</unittitle>
+                  <container id="aspace_da72847df983c48b44f455756089b157" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref170_zcy" level="file">
+               <did>
+                  <unittitle>United States. Department of the Army. Office of Military History,
+                     1949-1953</unittitle>
+                  <physdesc id="aspace_6793e40a74cbdfeca65c8e556df18485">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_353af1405726a17f768702a36064ecc7" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref172_iw4" level="file">
+               <did>
+                  <unittitle>University of Chattanooga, Phi Beta Kappa, 1935, Dec.</unittitle>
+                  <container id="aspace_1d005ab357c7a2c01eab5c12d7191660" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref173_reb" level="file">
+               <did>
+                  <unittitle>University of Michigan, 1940</unittitle>
+                  <container id="aspace_c5c3b3a432704aa978175fda92e90689" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref174_v0f" level="file">
+               <did>
+                  <unittitle>University of Mississippi, 1927-1954</unittitle>
+                  <physdesc id="aspace_490b0fd721f4294bc4bb8afb85a459ab">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2d881c6f8336b74405a6cf2a47444bc5" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref176_l9k" level="file">
+               <did>
+                  <unittitle>University of North Carolina at Chapel Hill, Summer School,
+                     1949</unittitle>
+                  <container id="aspace_2e434b0e7a6d706ae1be513715310a6e" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref177_euk" level="file">
+               <did>
+                  <unittitle>V, 1926-1952</unittitle>
+                  <container id="aspace_03335829730010f632c10eedfd6cdac3" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref178_c3x" level="file">
+               <did>
+                  <unittitle>W, 1925-1954</unittitle>
+                  <physdesc id="aspace_6978cde873314d4b021bf6a0516178a9">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_2c0444cc797cd9987bbc363545264b52" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref180_21d" level="file">
+               <did>
+                  <unittitle>Washington and Lee University, 1947-1949</unittitle>
+                  <container id="aspace_0327641f3f7ee3507f6e7dd8fb6a64a8" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref181_7ug" level="file">
+               <did>
+                  <unittitle>Williams, William A., 1952</unittitle>
+                  <container id="aspace_91c84bf137950b91a6abbcf17eab2d60" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref182_pvu" level="file">
+               <did>
+                  <unittitle>Williamsburg:</unittitle>
+               </did>
+               <c03 id="aspace_ref183_ouh" level="file">
+                  <did>
+                     <unittitle>Institute of Early American History and Culture,
+                        1950-1953</unittitle>
+                     <physdesc id="aspace_5b8c50f3d86a2c860c6482e01a07d650">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_ad8e2eb97eb537f5065b61773cd6cfaa" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref185_zig" level="file">
+                  <did>
+                     <unittitle>The Candidates, 1949</unittitle>
+                     <container id="aspace_ba8df21bec1a5ccbf05ada09da02c8c5" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref186_m1w" level="file">
+               <did>
+                  <unittitle>World Book Encyclopedia, 1941-1947</unittitle>
+                  <container id="aspace_07b7a72edf6bdf644ab1f62df12b7536" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref187_loy" level="file">
+               <did>
+                  <unittitle>X-Z, 1934-1958</unittitle>
+                  <container id="aspace_daf18c77548bb830c17c3a769fc0ba77" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref189_kac" level="series">
+            <did>
+               <unittitle>Writings and Speeches Series, 1729-1954 (bulk 1923-1954).</unittitle>
+            </did>
+            <scopecontent id="aspace_18521c18554ffd5e212765abc2b8bc49">
+               <head>Scope and Contents note</head>
+               <p>Includes research materials and notes, as well as drafts and off-prints, which
+                  document the development of Sydnor's published works and addresses. Included are
+                  notes and drafts for Gentleman Freeholders: Political Practices in Washington's
+                  Virginia, and The Development of Southern Sectionalism, 1819-1849. A handwritten
+                  duplicate of a document, signed by James Madison on April 18, 1810, certifying the
+                  appointment of Levin Wailes as the Register for the Land Office of the United
+                  States for the western part of the Orleans Territory is among the oversize
+                  materials for this series (See OC:II:7). Included are research materials from the
+                  eighteenth and nineteenth centuries. The two major categories are Writings and
+                  Background Materials, each arranged alphabetically. At the end are Miscellaneous
+                  Materials. The background materials include Sydnor's research notes, but it has
+                  not been determined for which particular writing they were created.</p>
+            </scopecontent>
+            <c02 id="aspace_ref190_isy" level="subseries">
+               <did>
+                  <unittitle>Writings</unittitle>
+               </did>
+               <c03 id="aspace_ref191_ck4" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Aristocracy and Politics in Revolutionary
+                           Virginia,</emph> American Historical Association/Southern Historical
+                        Association, 1948</unittitle>
+                     <container id="aspace_d0cdf6559d1b0dad28629350a0734353" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref192_esk" level="file">
+                  <did>
+                     <unittitle>Article mailing lists, undated</unittitle>
+                     <container id="aspace_51c99f6cb8e908e4a95bd2ad0834ee43" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref193_c9o" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">The Beginning of Printing in Mississippi,</emph>
+                        1934-1935, undated</unittitle>
+                     <container id="aspace_bfff0c5e04f3a877c23c1e3e7d0d4734" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref194_kw3" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Biography of a Slave,</title>
+                        1826-1937</unittitle>
+                     <container id="aspace_67fd496e4193f56bde91ddb4caa75659" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref195_sye" level="file">
+                  <did>
+                     <unittitle>Blazer Lecture, University of Kentucky, 1951</unittitle>
+                     <container id="aspace_082bb52e8f711983d90eb37827e03deb" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref196_60t" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">B.L.C. Wailes, Scientist and Historian</emph>,
+                        undated</unittitle>
+                     <container id="aspace_547c36d24a7b934484cdb57e7565b1ee" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref197_m43" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">The Christian as an Interpreter of
+                           History,</emph> ca. 1953</unittitle>
+                     <container id="aspace_cbd85a2c97057aaa9ead030dd9338fc1" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref198_46k" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">A Description of Seargeant S. Prentiss in
+                           1838,</emph> 1944-1945</unittitle>
+                     <container id="aspace_5b0fd0fe5362461285b5b7d8c2292254" label="Mixed Materials"
+                        type="box">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref199_ccl" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Development of Southern Sectionalism,
+                           1819-1848:</title>
+                     </unittitle>
+                     <container id="aspace_3bc0b4132fd0e08c6d268a8621e6c5e7" label="Mixed Materials"
+                        type="box">7</container>
+                  </did>
+                  <c04 id="aspace_ref200_jap" level="file">
+                     <did>
+                        <unittitle>Stylesheet and outlines, undated</unittitle>
+                        <container id="aspace_9cb27b6cf6b51e0d801389346676ee31"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref201_bbu" level="file">
+                     <did>
+                        <unittitle>Miscellaneous notes, 1918-1937, undated</unittitle>
+                        <physdesc id="aspace_85ae2ef63cef3f4e22e83e360ecb6d8b">
+                           <extent>7 folders</extent>
+                        </physdesc>
+                        <container id="aspace_8c7776308d61d91db2539d15533e6d5e"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref203_xqw" level="file">
+                     <did>
+                        <unittitle>Usage notes, contents, preface, 1946, undated</unittitle>
+                        <container id="aspace_064b0b15190950355dc1275d0f0fe1c2"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref204_j9m" level="file">
+                     <did>
+                        <unittitle>Chapter I, <title render="doublequote">The Awakened South</title>
+                        </unittitle>
+                        <container id="aspace_74de7845fb65409808321dd11c120633"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref205_n7p" level="file">
+                     <did>
+                        <unittitle>Chapter II, <title render="doublequote">Location of Political
+                              Power</title>
+                        </unittitle>
+                        <container id="aspace_1be81347f160ea832b242236225f55f3"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref206_ggl" level="file">
+                     <did>
+                        <unittitle>Chapter III, <title render="doublequote">Enlightenment of Public
+                              Opinion</title>
+                        </unittitle>
+                        <container id="aspace_9f73bbadb89ce3933c1aa97d1b875702"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref207_yl0" level="file">
+                     <did>
+                        <unittitle>Chapter IV, <title render="doublequote">Toward a More Perfect
+                              Society</title>
+                        </unittitle>
+                        <container id="aspace_515935aae4de17f3bf37216dbb2d4176"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref208_5yz" level="file">
+                     <did>
+                        <unittitle>Chapter V, <title render="doublequote">Crises in Business and
+                              Politics</title>
+                        </unittitle>
+                        <container id="aspace_f5fb2cda53860aa6bd60d77db04622fc"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref209_xx8" level="file">
+                     <did>
+                        <unittitle>Chapter VI, <title render="doublequote">From Economic Nationalism
+                              to Political Sectionalism</title>
+                        </unittitle>
+                        <container id="aspace_d7b9f24d4491f9c93ac28a8cd616a313"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref210_y2a" level="file">
+                     <did>
+                        <unittitle>Chapter VII, <title render="doublequote">End of the Virginia
+                              Dynasty</title>
+                        </unittitle>
+                        <container id="aspace_20bc8c5fefbdc4ea626b7e566e1f70fb"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref211_3sy" level="file">
+                     <did>
+                        <unittitle>Chapter VIII, <title render="doublequote">The Lower South Adopts
+                              States' Rights</title>
+                        </unittitle>
+                        <container id="aspace_1be205790187467c6c1bb60efa7a1a90"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref212_c3z" level="file">
+                     <did>
+                        <unittitle>Chapter IX, <title render="doublequote">Bold Acts and Bolder
+                              Thoughts</title>
+                        </unittitle>
+                        <container id="aspace_380fc898fe0b20e7611d484399e0d198"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref213_4nj" level="file">
+                     <did>
+                        <unittitle>Chapter X, <title render="doublequote">Prologue to the End of
+                              Slavery</title>
+                        </unittitle>
+                        <container id="aspace_e30455d539ab8a9baa8404e49af6b861"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref214_3ld" level="file">
+                     <did>
+                        <unittitle>Chapter XI, <title render="doublequote">Vicissitudes of an
+                              Agricultural Economy</title>
+                        </unittitle>
+                        <container id="aspace_1fe63c623217332c6e89957c67c3d98d"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref215_t8f" level="file">
+                     <did>
+                        <unittitle>Chapter XII, <title render="doublequote">Movement Toward
+                              Political Democracy</title>
+                        </unittitle>
+                        <container id="aspace_cb0e7349519a7dd731e6fef591fa99c8"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref216_5z7" level="file">
+                     <did>
+                        <unittitle>Chapter XIII, <title render="doublequote">Religion, Education,
+                              Literature</title>
+                        </unittitle>
+                        <container id="aspace_cc6560bb41d70aac8a711a0ab9236ad1"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref217_y7i" level="file">
+                     <did>
+                        <unittitle>Chapter XIV, <title render="doublequote">Political Weakness and
+                              Social Perfection</title>
+                        </unittitle>
+                        <container id="aspace_8b1a98e60b8557a13637a97f2f09be92"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref218_0xk" level="file">
+                     <did>
+                        <unittitle>Preface, chapters I-XIII, revised</unittitle>
+                        <physdesc id="aspace_55675aec1384c1ae380e842cdaabbd5c">
+                           <extent>14 folders</extent>
+                        </physdesc>
+                        <container id="aspace_b37790abb16742371b27621c9ab38164"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref220_ahz" level="file">
+                     <did>
+                        <unittitle>Chapter XIV, <title render="doublequote">Party Allegiance for
+                              Sectional Patriotism,</title> rev.</unittitle>
+                        <container id="aspace_b84ad46373f52761576597ea877b1d16"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref221_12a" level="file">
+                     <did>
+                        <unittitle>Chapter XV, <title render="doublequote">The Affirmation of
+                              Southern Perfection, </title> rev.</unittitle>
+                        <container id="aspace_d1e8a21a9f79b325d75c8c3a4ad34ec3"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref222_4iu" level="file">
+                     <did>
+                        <unittitle>Fragment of a manuscript, undated</unittitle>
+                        <container id="aspace_0e2d6e1b832a2eddbea1fcd5996ca92b"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref223_57s" level="file">
+                     <did>
+                        <unittitle>Illustrations, undated</unittitle>
+                        <physdesc id="aspace_4a1d0b77dae2f7685c79f5d5eb3a0099">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_3cdf30e4e4235f63010b447093bb0117"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref225_z22" level="file">
+                     <did>
+                        <unittitle>Bibliography, undated</unittitle>
+                        <container id="aspace_109ea5e9760c6748d45356f7571f3040"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref226_4a7" level="file">
+                     <did>
+                        <unittitle>Legends and bibliography to accompany maps of presidential
+                           elections of 1824, 1828, 1832, undated</unittitle>
+                        <container id="aspace_89847a7054f8f05d670504ed6d0f3da0"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref227_d85" level="file">
+                     <did>
+                        <unittitle>Notes concerning maps of presidential elections,
+                           undated</unittitle>
+                        <container id="aspace_301b757b043b50db0f42dd9592c7a8ae"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref228_l0l" level="file">
+                     <did>
+                        <unittitle>Critical bibliography, undated</unittitle>
+                        <container id="aspace_61ce335dff0281946fc8e4f8efd2631c"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref229_7as" level="file">
+                     <did>
+                        <unittitle>Index, undated</unittitle>
+                        <container id="aspace_fe021b6c6d656e0c95dc515ba5acb1e0"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref230_jns" level="file">
+                     <did>
+                        <unittitle>Miscellaneous, 1947, undated</unittitle>
+                        <container id="aspace_ee74ce5228feb1ca5e398bef31477f86"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref231_94t" level="file">
+                     <did>
+                        <unittitle>Correspondence: Louisiana State University Press,
+                           1939-1968</unittitle>
+                        <container id="aspace_7efb126fb2eb736a22abbb4663c5008f"
+                           label="Mixed Materials" type="box">7</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref232_ce7" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">The Development of Southern Sectionalism, 1819-1848:
+                        </title>
+                     </unittitle>
+                     <container id="aspace_29aca3dfcbe65a0cf3a24ce01f75039e" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+                  <c04 id="aspace_ref233_dl1" level="file">
+                     <did>
+                        <unittitle>Reviews, clippings, 1940-1951, undated</unittitle>
+                        <physdesc id="aspace_344b07e9cad888a95e4fcf257b394740">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_cb5753c2244fccfc71c56f93b3c784e1"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref235_pkw" level="file">
+                     <did>
+                        <unittitle>Mayflower Cup Award, 1948-1949</unittitle>
+                        <container id="aspace_01c43a3e521a951918b4e750b85dd3c7"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref236_n3l" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Diary of a Journey in Arkansas in 1856, Mississippi
+                           Valley Historical Review,</title> 1935, Dec.</unittitle>
+                     <container id="aspace_9585f11f3fd705dcb61d3524a1485a83" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref237_zc8" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Dictionary of American Biography (DAB): </title>
+                     </unittitle>
+                  </did>
+                  <c04 id="aspace_ref238_5m0" level="file">
+                     <did>
+                        <unittitle>Correspondence, 1927-1934</unittitle>
+                        <container id="aspace_d47538570e0317ae15966a5107099005"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref239_jox" level="file">
+                     <did>
+                        <unittitle>Featherston, W. S., 1928</unittitle>
+                        <container id="aspace_aebf924e2a4aba9caabcf74d8b1324b8"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref240_2gh" level="file">
+                     <did>
+                        <unittitle>Foote, Henry S., undated</unittitle>
+                        <container id="aspace_fec3abf036ede05e19335f7dd779b6ef"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref241_5an" level="file">
+                     <did>
+                        <unittitle>George, James Z., 1930</unittitle>
+                        <container id="aspace_5f7b1d5273232abd18c4f72684fda597"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref242_wcn" level="file">
+                     <did>
+                        <unittitle>Gordon, James, 1930</unittitle>
+                        <container id="aspace_fe9e75ef4b80a0bd84558fcda371bb6a"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref243_9qo" level="file">
+                     <did>
+                        <unittitle>Leflore, Greenwood, 1931</unittitle>
+                        <container id="aspace_232e90cf0525bdd25a29fbf8bbf99078"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref244_ykl" level="file">
+                     <did>
+                        <unittitle>Martin, William T., 1933</unittitle>
+                        <container id="aspace_4d3beb9a48fc2dcee1f885a2cf695c44"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref245_4ez" level="file">
+                     <did>
+                        <unittitle>McLautin, A. J., undated</unittitle>
+                        <container id="aspace_77c4443d355f35713d3e11ef914a3159"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref246_rwt" level="file">
+                     <did>
+                        <unittitle>McRae, J. J., undated</unittitle>
+                        <container id="aspace_25e2755462fdac11233954ad53dc242b"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref247_yqa" level="file">
+                     <did>
+                        <unittitle>Mayes, Edward, undated</unittitle>
+                        <container id="aspace_e1fc827f294b3a9daeb0f41482c6e68b"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref248_fwy" level="file">
+                     <did>
+                        <unittitle>Money, H. D., undated</unittitle>
+                        <container id="aspace_6e2b4a9b91bea8b57ba727474cf6f11b"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref249_nq2" level="file">
+                     <did>
+                        <unittitle>Orr, J. A., 1930-1934</unittitle>
+                        <container id="aspace_510d2ae985773c006b389aecbac05e2f"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref250_nxf" level="file">
+                     <did>
+                        <unittitle>Poindexter, George, 1931</unittitle>
+                        <container id="aspace_9749751aff965f1acbf871f055a6f644"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref251_p1o" level="file">
+                     <did>
+                        <unittitle>Prentiss, S. S., 1931</unittitle>
+                        <container id="aspace_58007a19ce4f290f73b02897776f6ef5"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref252_1pm" level="file">
+                     <did>
+                        <unittitle>Sharkey, W. L., 1931-1935</unittitle>
+                        <container id="aspace_44817335a51bf4a2f460389036c31636"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref253_ws0" level="file">
+                     <did>
+                        <unittitle>Singleton, O. R., 1932</unittitle>
+                        <container id="aspace_49efeaa597668d1d508410781a07adcb"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref254_bon" level="file">
+                     <did>
+                        <unittitle>Smith, James Argyle, 1932</unittitle>
+                        <container id="aspace_a005bdc28e4f0f531e98694a0f18d0ca"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref255_an5" level="file">
+                     <did>
+                        <unittitle>Stewart, Alexander Peter, 1932</unittitle>
+                        <container id="aspace_c475ee15bd8f5f095747da42ed1d2ae5"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref256_nft" level="file">
+                     <did>
+                        <unittitle>Stockdale, Thomas R., 1932</unittitle>
+                        <container id="aspace_86e4a53089994aec240a46eff65c4420"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref257_6tf" level="file">
+                     <did>
+                        <unittitle>Stone, John Marshall, undated</unittitle>
+                        <container id="aspace_5134722db8ca5b5da9ba1bd0795db78f"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref258_lg3" level="file">
+                     <did>
+                        <unittitle>Thompson, Jacob, 1932-1934</unittitle>
+                        <container id="aspace_78819b1fa9fa4c7ced530db6ef53e2c8"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref259_jzj" level="file">
+                     <did>
+                        <unittitle>Turner, Edward, 1933-1936</unittitle>
+                        <container id="aspace_47767853a8409027f34615c70b718988"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref260_49x" level="file">
+                     <did>
+                        <unittitle>Vardaman, James K., 1933</unittitle>
+                        <container id="aspace_57bd6bc3a8da63227c5561120368171c"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref261_sdy" level="file">
+                     <did>
+                        <unittitle>Wailes, B. L. C., 1933-1936</unittitle>
+                        <container id="aspace_888557ccbfd0fe33539df2a307a3f991"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref262_vnr" level="file">
+                     <did>
+                        <unittitle>Walthall, E. C., 1933</unittitle>
+                        <container id="aspace_9ca413c2d44602d82c382905f71ba3cb"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref263_v78" level="file">
+                     <did>
+                        <unittitle>Williams, John Sharp, 1934-1935</unittitle>
+                        <container id="aspace_e1cf4e14139fb4dbf39d41ce33828185"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref264_vxm" level="file">
+                     <did>
+                        <unittitle>Yerger, William, 1934</unittitle>
+                        <container id="aspace_d89ea1bd709962c5052ae61e7a3c96c7"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref265_x2a" level="file">
+                  <did>
+                     <unittitle>Dissertation notes, 1923?</unittitle>
+                     <physdesc id="aspace_587eadebf5af569f1d0fddd3eecf40db">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_21b78f965a724c68978f0715b3aa9a15" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref267_2vv" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Essays on Law and Conscience in American
+                           History,</title> outline and notes, 1949, undated</unittitle>
+                     <container id="aspace_4f8e3f001bcd7c090eecc25ae8549f24" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref268_i4a" level="file">
+                  <did>
+                     <unittitle>Fleming lectures, Louisiana State University:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref269_nwz" level="file">
+                     <did>
+                        <unittitle>Carbons, undated</unittitle>
+                        <container id="aspace_75346fdd2383217cbd641e3a8d3b0a2e"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref270_sfi" level="file">
+                     <did>
+                        <unittitle>Correspondence, programs, 1952-1954</unittitle>
+                        <container id="aspace_500667e6e9860351f72618d81b502a80"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref271_mq4" level="file">
+                     <did>
+                        <unittitle>Drafts and notes, 1954, undated</unittitle>
+                        <container id="aspace_2c31b487960a3c640b94cd9318b31028"
+                           label="Mixed Materials" type="box">8</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref272_jue" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">The Free Negro in Mississippi Before the Civil
+                           War,</emph> 1927-1935</unittitle>
+                     <container id="aspace_3460139ae3d9b8bed981b4de27919f9e" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref273_xzi" level="file">
+                  <did>
+                     <unittitle>Free negroes: Background material 1705-1860, undated</unittitle>
+                     <physdesc id="aspace_e496d5594fd11cabcb1a97a0a6c4c324">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_3e19e0602cde1cc0cc698841b3dd7722" label="Mixed Materials"
+                        type="box">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref275_tyj" level="file">
+                  <did>
+                     <unittitle>Free negroes:</unittitle>
+                     <container id="aspace_e19075472ab22353faa1f4d8f147904f" label="Mixed Materials"
+                        type="box">9</container>
+                  </did>
+                  <c04 id="aspace_ref276_m12" level="file">
+                     <did>
+                        <unittitle>Notes relating to, 1789-1941, undated</unittitle>
+                        <physdesc id="aspace_b55326f5853c2b97be9e6ff430863485">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_bdae7e7e152b05d6650963eb0082586b"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref278_fxb" level="file">
+                     <did>
+                        <unittitle>Transcribed letters and documents from the Historical Society of
+                           Pennsylvania, 1788-1938</unittitle>
+                        <container id="aspace_1a6e50e4d92a203dd658c1d52311ab63"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref279_u9f" level="file">
+                  <did>
+                     <unittitle>Gentleman Freeholders:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref280_6jb" level="file">
+                     <did>
+                        <unittitle>Abbot notes, used in Ch. VI, 1761-1775, undated</unittitle>
+                        <container id="aspace_13715c3e9e40db57d9e73464d65f8e7a"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref281_isj" level="file">
+                     <did>
+                        <unittitle>Abbot's notes of House of Burgesses Committees, 1761-1775,
+                           undated</unittitle>
+                        <container id="aspace_d461fddedf3b529a1c3bb66198dea5a0"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref282_bz2" level="file">
+                     <did>
+                        <unittitle>Background information, 1947-1951, undated</unittitle>
+                        <physdesc id="aspace_a35976fb92dfd81743c649e9573a8665">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_0ef2a91f505d84d43dba68aa588e046e"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref284_l11" level="file">
+                     <did>
+                        <unittitle>Charles City and Northumberland County, Wicomico and South Farhan
+                           Notes, 1703-1876, undated</unittitle>
+                        <container id="aspace_22ae86531c6eb826f46397472cd4451c"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref285_k0e" level="file">
+                     <did>
+                        <unittitle>A Collection of Plays and Poems by the late Colonel Robert
+                           Munford, 1798, undated</unittitle>
+                        <container id="aspace_0b59ee78ecec19b1459dce183c78ecf1"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref286_vvm" level="file">
+                     <did>
+                        <unittitle>Contested Elections:</unittitle>
+                     </did>
+                     <c05 id="aspace_ref287_x0n" level="file">
+                        <did>
+                           <unittitle>House of Burgesses Journals, undated</unittitle>
+                           <container id="aspace_7b9b78b5350de002e70fcf777f62bd99"
+                              label="Mixed Materials" type="box">9</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref288_cbh" level="file">
+                        <did>
+                           <unittitle>Virginia, 1948-1950, undated</unittitle>
+                           <container id="aspace_5ec0819bea3387af2bcbcfa0dc148761"
+                              label="Mixed Materials" type="box">9</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref289_hr7" level="file">
+                     <did>
+                        <unittitle>The County Court/Albermarle, Essex, undated</unittitle>
+                        <container id="aspace_2ba92cf2aed917a7283bb84f82640dc2"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref290_u2z" level="file">
+                     <did>
+                        <unittitle>Dissenters, research and correspondence relating to,
+                           1948-1950</unittitle>
+                        <container id="aspace_dcb167f9571c9aec8760463dd9ed61e6"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref291_51f" level="file">
+                     <did>
+                        <unittitle>Justice of the Peace: Economic and social status,
+                           undated</unittitle>
+                        <container id="aspace_2c8479090c586605c123ad969f6c3a8e"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref292_rvg" level="file">
+                     <did>
+                        <unittitle>Madison, James, 1923, undated</unittitle>
+                        <container id="aspace_2db212730855ce7e4ee461563508ff05"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref293_b1m" level="file">
+                     <did>
+                        <unittitle>Madison, James, Papers: Library of Congress, undated</unittitle>
+                        <container id="aspace_6d232d53107495e8d824567330f5e674"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref294_h32" level="file">
+                     <did>
+                        <unittitle>
+                           <emph render="doublequote">Percentages of Virginia Legislators Who Were
+                              Justices of the Peace,</emph> 1776-1861, undated</unittitle>
+                        <container id="aspace_12bde1e90169c890fc16a48dac39c3b1"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref295_zxh" level="file">
+                     <did>
+                        <unittitle>Potential film based on book, 1952-1953, undated</unittitle>
+                        <container id="aspace_f5becf51c78271a0114b4f2bd2c6c856"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref296_fxn" level="file">
+                     <did>
+                        <unittitle>Political ladder in Washington's Virginia, 1942-1952,
+                           undated</unittitle>
+                        <container id="aspace_07e9eed5a4a67928516f55f0bc5a3749"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref297_wl8" level="file">
+                     <did>
+                        <unittitle>Reviews, 1952-1953</unittitle>
+                        <container id="aspace_f7ff124d3d428b83fa930f6d241de3ec"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref298_0l7" level="file">
+                     <did>
+                        <unittitle>Tabulations of Virginia elections (1788), 1946</unittitle>
+                        <container id="aspace_51c8bbb146b7b75ca1cc8d24707fc8b1"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref299_l4f" level="file">
+                     <did>
+                        <unittitle>Tucker-Coleman Papers, Colonial Williamsburg, undated</unittitle>
+                        <container id="aspace_b5d6c27def17ed07704c0a5218b5cb61"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref300_mg6" level="file">
+                     <did>
+                        <unittitle>Virginia demographic information, 1790-1948</unittitle>
+                        <container id="aspace_844833edeea2cdb6888208b99771b5e0"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref301_d1g" level="file">
+                     <did>
+                        <unittitle>Virginia elections, 1740s-1840s polls; F. Taylor's diary,
+                           undated</unittitle>
+                        <container id="aspace_e7cd8e90c474c935797ee8f4f784ee03"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref302_sc2" level="file">
+                     <did>
+                        <unittitle>Virginia political leadership (1775-1800):</unittitle>
+                     </did>
+                     <c05 id="aspace_ref303_lml" level="file">
+                        <did>
+                           <unittitle>Sketches, 1948, undated</unittitle>
+                           <container id="aspace_dc16315ab4779aff11919346bb20acf4"
+                              label="Mixed Materials" type="box">9</container>
+                        </did>
+                     </c05>
+                     <c05 id="aspace_ref304_icy" level="file">
+                        <did>
+                           <unittitle>Rise to power of political leaders, undated</unittitle>
+                           <container id="aspace_7dc7240e58733685508949e040bbd253"
+                              label="Mixed Materials" type="box">9</container>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="aspace_ref305_6t0" level="file">
+                     <did>
+                        <unittitle>Preface and front pages, undated</unittitle>
+                        <container id="aspace_a9750871a7aabada606e82211af524df"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref306_20h" level="file">
+                     <did>
+                        <unittitle>Chapters I-IX (9 folders), undated</unittitle>
+                        <container id="aspace_547b8b8155eaaec48a0f11e14c4310cd"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref307_wns" level="file">
+                     <did>
+                        <unittitle>Bibliographical note, undated</unittitle>
+                        <container id="aspace_ebf57cb789a55b49484312c12832e4ed"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref308_y71" level="file">
+                     <did>
+                        <unittitle>Appendix I-II (2 folders), undated</unittitle>
+                        <container id="aspace_5e095f1a35178d7993f4efc5b547a2ff"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref309_jur" level="file">
+                     <did>
+                        <unittitle>Index, undated</unittitle>
+                        <container id="aspace_642d9a6b643efe4010b46014c8adedc9"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref310_3o0" level="file">
+                     <did>
+                        <unittitle>Carbon of last copy lacking Ch. VI, undated</unittitle>
+                        <container id="aspace_9a475065bd70dd78b39b1e5eb9fcc228"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref311_75e" level="file">
+                     <did>
+                        <unittitle>Index to, undated</unittitle>
+                        <container id="aspace_6ff036d39fae509b9563e7d999116087"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref312_ko1" level="file">
+                     <did>
+                        <unittitle>Fragment of a manuscript, undated</unittitle>
+                        <container id="aspace_055b3a7b7c1bd507913053bf95f9eb0e"
+                           label="Mixed Materials" type="box">9</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref313_gx2" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Gentleman Freeholders:</title>
+                     </unittitle>
+                     <container id="aspace_90f79c32dc5d971ca0d80b6dacc25da5" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+                  <c04 id="aspace_ref314_4g4" level="file">
+                     <did>
+                        <unittitle>Correspondence, 1946-1956, undated</unittitle>
+                        <container id="aspace_ae5ee9b172bfdd1eca21f1b9be947362"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref315_ke3" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">A Gentleman of the Old Natchez Region: </title>
+                        Benjamin L. C. Wailes:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref316_4lh" level="file">
+                     <did>
+                        <unittitle>Announcements and reviews, 1938-1939, undated</unittitle>
+                        <container id="aspace_4b0d91700ce05157dce3ebe797ba3041"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref317_a7n" level="file">
+                     <did>
+                        <unittitle>Maps, photographs, and tables, 1922-1937, undated</unittitle>
+                        <container id="aspace_ee9c6bffc176043c6a820de1d7aa2968"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref318_2jw" level="file">
+                     <did>
+                        <unittitle>Miscellaneous, undated</unittitle>
+                        <container id="aspace_b14f4d12b2314240434daef3d744eee0"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref319_upo" level="file">
+                     <did>
+                        <unittitle>Notes, undated</unittitle>
+                        <physdesc id="aspace_073435bfa4434643bae11d9cb764fcf0">
+                           <extent>4 folders</extent>
+                        </physdesc>
+                        <container id="aspace_ca285ebf03ede5c78065c165d3dbd9ed"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref321_ang" level="file">
+                     <did>
+                        <unittitle>Publication documents, 1937, undated</unittitle>
+                        <container id="aspace_510a136f50cfeaa27846321f1e9644d3"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref322_yhv" level="file">
+                     <did>
+                        <unittitle>Revision notes used, 1891-1936, undated</unittitle>
+                        <container id="aspace_5af17dfa86ef03a788a9ceb1125cb054"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref323_7jg" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Historical Activities in Mississippi in the
+                           Nineteenth Century,</emph> 1937</unittitle>
+                     <container id="aspace_37c75f0cc945adbe4ed07caaf4f132ca" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref324_vrw" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Historical Comments on American Democracy,</emph>
+                        Mississippi Historical Society, 1954, undated</unittitle>
+                     <container id="aspace_5898b482bfd02e4792e55eaf08833e4e" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref325_w9i" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="doublequote">Intellectual Activities in the Old Natchez
+                           District,</title> American Historical Association, 1936</unittitle>
+                     <container id="aspace_14474afdec63833b8b91c9cc59ef59b7" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref326_5hg" level="file">
+                  <did>
+                     <unittitle>Lee, Guy A., <title render="doublequote">The Historian and the
+                           Federal Government,</title> American Historical Association, 1949-1950,
+                        n.d</unittitle>
+                     <container id="aspace_aab952c8c100cceb62626de4a2b55687" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref327_jyf" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Letter from Alexander M. Clayton Relative to
+                           Cuban Affairs,</emph> 1929</unittitle>
+                     <container id="aspace_e925e175c8fd7eedef6e722a42f1d06e" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref328_u7v" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Letters from Franklin L. Riley to Herbert B.
+                           Adams (1894-1901),</emph> 1935-1940</unittitle>
+                     <container id="aspace_f3776c0cc350f6f327422bea20f46391" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref329_vew" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Life Span of Mississippi Slaves,</emph>
+                        1926-1930</unittitle>
+                     <container id="aspace_8e42d3ff29563d1c12c2caa552005d34" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref330_q0m" level="file">
+                  <did>
+                     <unittitle>Mississippi History:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref331_u9l" level="file">
+                     <did>
+                        <unittitle>Correspondence and corrections, 1938-1940</unittitle>
+                        <container id="aspace_ecca3ce53a0d35a8b50d6ba4e4d490ac"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref332_s84" level="file">
+                     <did>
+                        <unittitle>
+                           <title render="italic">Miscellaneous notes,</title>
+                           1925-1927?</unittitle>
+                        <container id="aspace_3b2656037cd656c3f8239995cb67c6d4"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref333_tdk" level="file">
+                     <did>
+                        <unittitle>Pictures, 1863- 1930, undated</unittitle>
+                        <physdesc id="aspace_82bebd4e021c797396ace42eb55396d4">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_2d9029380ae9cdc6fe95766b1695bdde"
+                           label="Mixed Materials" type="box">10</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref335_oib" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">The Old South as a Laboratory for Cultural
+                           Analysis,</emph> University of Michigan, 1940</unittitle>
+                     <container id="aspace_dff706e6d5f930acb45ce0df2c0c3ee1" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref336_3e6" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">The Old South to the New,</emph>
+                        undated</unittitle>
+                     <container id="aspace_7d6590702db4a9154acbceaaa35a0421" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref337_bbj" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">The One Party Period of American History,</emph>
+                        1942-1946</unittitle>
+                     <container id="aspace_9e3fb8fcefd992294fe34a81a4a8da6c" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref338_kb0" level="file">
+                  <did>
+                     <unittitle>Phi Beta Kappa address, University of South Carolina,
+                        1949-1950</unittitle>
+                     <container id="aspace_d35d61696a2804eb5196f91e26fa0f5c" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref339_s4u" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Political Leadership in Eighteenth-Century
+                           Virginia,</emph> published lecture, 1950-1951</unittitle>
+                     <container id="aspace_655ba78e36e3f15f3399405d7db091e5" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref340_fzv" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Possibilities of a Historic Highway through
+                           Mississippi,</emph> University of Mississippi, undated</unittitle>
+                     <container id="aspace_739934bef4e2277e14f16724e66d463c" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref341_1ew" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">A Possible Source of Calhoun's plan of
+                           Nullification,</emph> Mississippi Valley Historical Association,
+                        undated</unittitle>
+                     <container id="aspace_8f2924863d03b060686faa4156249122" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref342_6ft" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Press Censorship in England, 1534-1603,</emph>
+                        (dissertation), 1923</unittitle>
+                     <container id="aspace_674894a0ce09b5db4f340dcb4af96118" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref343_2k9" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Pursuing Fugitive Slaves,</emph>
+                        1929-1935</unittitle>
+                     <container id="aspace_101b8cdb7c5db67168aa16bbfd10e1c5" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref344_tmn" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Reducing the Risks in Politics</emph>: Address
+                        delivered at the Virginia State Library, 1953, June 12</unittitle>
+                     <container id="aspace_c1151bc8378e3909132eb2054106d8a0" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref345_owb" level="file">
+                  <did>
+                     <unittitle>Reviews: 1931-1949, n.d</unittitle>
+                     <physdesc id="aspace_0b2a5cfc486a142dbdb9fd62b6fa8b29">
+                        <extent>4 folders</extent>
+                     </physdesc>
+                     <container id="aspace_1bad39faf2131a78ac72a4dd338f59a5" label="Mixed Materials"
+                        type="box">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref347_hic" level="file">
+                  <did>
+                     <unittitle>Reviews:</unittitle>
+                     <container id="aspace_5581995f765febf25fe105c80845f335" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+                  <c04 id="aspace_ref348_lob" level="file">
+                     <did>
+                        <unittitle>1931-1949, undated</unittitle>
+                        <physdesc id="aspace_1ce1e150c2f2cfb926ceefb5a044b1bb">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_53b3bff08b237e4fdf13608181ae7eae"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref350_pwt" level="file">
+                     <did>
+                        <unittitle>1949-1952, n.d,</unittitle>
+                        <physdesc id="aspace_67debc5f1767c89a42d3f8db6ef91660">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_50df23880b26bc145aca4fd0d732704a"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref352_4eo" level="file">
+                  <did>
+                     <unittitle>Roanoke World News, 1923-1924</unittitle>
+                     <container id="aspace_12cff9ffb5c38aae7522fa74bd30eb44" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref353_dt4" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Second Thoughts and Suggestions,</emph> a
+                        contribution to Pennsylvania Conference on American Political History,
+                        Pennslyvania Magazine of History and Biography LXXII, 201-202, (Apr. 1948),
+                        1948</unittitle>
+                     <container id="aspace_c38f0114af6703f5d946060143e61c1a" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref354_pq9" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">A Slave Owner and His Overseers,</emph>
+                        1937</unittitle>
+                     <container id="aspace_d20cd29ba3fcd4b38e1e075e2eb6577f" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref355_rxd" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Slavery in Mississippi:</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="aspace_ref356_8qb" level="file">
+                     <did>
+                        <unittitle>Background materials, 1790-1932, undated</unittitle>
+                        <physdesc id="aspace_f445ccc8ce84cd66042dc819f776e8d8">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_10e89cc2bedc61a8c732c92660bcefa2"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref358_44y" level="file">
+                     <did>
+                        <unittitle>Bowle's Plantation (Mrs. Bem Price), 1850-1851</unittitle>
+                        <container id="aspace_63b2afeb556c7f0925fa54a01cd2a36d"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref359_l41" level="file">
+                     <did>
+                        <unittitle>Correspondence relating to, undated</unittitle>
+                        <container id="aspace_b4dbea19cfffd15f28782256c9a504ef"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref360_66w" level="file">
+                     <did>
+                        <unittitle>Devlin Diary, 1836-1885</unittitle>
+                        <container id="aspace_02e1992ee3fc83ea76e5f628d343d11c"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref361_qed" level="file">
+                     <did>
+                        <unittitle>Finney slave trader letters, 1836-1837</unittitle>
+                        <container id="aspace_66cfd8b749fe5b36e668280445dbf617"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref362_uqv" level="file">
+                     <did>
+                        <unittitle>Leigh Plantation Account Book, 1852-1853</unittitle>
+                        <container id="aspace_0d5c72bbc629c80515a0b351c66947fb"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref363_y4h" level="file">
+                     <did>
+                        <unittitle>Leigh Plantation Book, 1852-1933</unittitle>
+                        <container id="aspace_91b94b4fd433255459cddf20c8c481f9"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref364_nmz" level="file">
+                     <did>
+                        <unittitle>Reviews, undated</unittitle>
+                        <container id="aspace_9a1f69ed935f911935c0baaffc3198c1"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref365_tq3" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">The Southern Experiment in Writing Social
+                           History,</emph> 1944-1945</unittitle>
+                     <container id="aspace_d5e8f786c81698ee977cc47a930f1c6b" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref366_o04" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">The Southerner and the Laws,</emph> 1939,
+                        undated</unittitle>
+                     <physdesc id="aspace_0cf214516b83e51e8e140305065b5519">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_18babf87d5d89fdade8d29be8c925f76" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref368_dq6" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">State Geological Surveys in the Old South,</emph>
+                        1939-1940</unittitle>
+                     <container id="aspace_3ca058c154d885a20cf4addc9747e235" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref369_504" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Thomas Jefferson's Comments on the Report of the
+                           President's Commission on Higher Education,</emph> undated</unittitle>
+                     <container id="aspace_c89b260b8df2c6583b30d16d89bc8f16" label="Mixed Materials"
+                        type="box">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref370_8cr" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Travels in the Old South:</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="aspace_ref371_vg4" level="file">
+                     <did>
+                        <unittitle>Background materials, 1837-1906, undated</unittitle>
+                        <container id="aspace_f4c096a87024afa4d55c975fd8b3a9b6"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref372_2hl" level="file">
+                     <did>
+                        <unittitle>Collaborators information, undated</unittitle>
+                        <container id="aspace_87a040e2d028c045713cc331e7e92579"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref373_yy3" level="file">
+                     <did>
+                        <unittitle>Printer's copy with notes, undated</unittitle>
+                        <physdesc id="aspace_df907ca614e6a0da5bc53a44953c53a3">
+                           <extent>4 folders</extent>
+                        </physdesc>
+                        <container id="aspace_ca5fa0840236cadff8be684e9660de01"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref375_746" level="file">
+                     <did>
+                        <unittitle>Unused research, undated</unittitle>
+                        <container id="aspace_bb3853fc23c92d3389a84950928a07a4"
+                           label="Mixed Materials" type="box">11</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref376_mhe" level="file">
+                  <did>
+                     <unittitle>Voting in Early America:</unittitle>
+                     <container id="aspace_5f36b02e0f0cb05a86d9e9facead4bf8" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+                  <c04 id="aspace_ref377_6xj" level="file">
+                     <did>
+                        <unittitle>1952, undated</unittitle>
+                        <container id="aspace_b5092e9708ab0983ae8a2c34790c4931"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref378_sjp" level="file">
+                     <did>
+                        <unittitle>Illustrations, 1952, undated</unittitle>
+                        <container id="aspace_a3b010a236a29d959e5f7128f749f3e0"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref379_rk9" level="file">
+                  <did>
+                     <unittitle>Wailes, B. L. C.:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref380_loi" level="file">
+                     <did>
+                        <unittitle>Address Delivered at... Jefferson College, 1842</unittitle>
+                        <container id="aspace_b7c7db4ae3e23b2d6b484602fa4c8afe"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref381_4c1" level="file">
+                     <did>
+                        <unittitle>Correspondence related to, 1931-1934</unittitle>
+                        <container id="aspace_575a0553daac04e88c0a6aafbe120504"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref382_yfe" level="file">
+                     <did>
+                        <unittitle>Diary of, 1853-1932</unittitle>
+                        <physdesc id="aspace_b66e3cb1ff20701be32c645d8e03dc9f">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_a22967821edbe4b31d5eaa48541c2f4f"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref384_wdb" level="file">
+                     <did>
+                        <unittitle>
+                           <emph render="doublequote">Inaugural Address Delivered at the first
+                              meeting of Adams Athenaeum 31 March 1825</emph>
+                        </unittitle>
+                        <container id="aspace_a82cd694cac03be6ee19b6c366d50f9e"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref385_gi4" level="file">
+                     <did>
+                        <unittitle>
+                           <emph render="doublequote">Inaugural Address Read at the Historical
+                              Society of Mississippi by B.L.C. Wailes</emph> and related documents,
+                           1859-1934, n.d</unittitle>
+                        <container id="aspace_11e2b0626ec735b96ac18a6e3b7cc3f0"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref386_lgj" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">What the Historian Expects of an Archival Agency
+                           or Historical Society,</emph> Society of American Archivists,
+                        1948</unittitle>
+                     <container id="aspace_af3b1d38eefdd1fcb9826c8c73cfc41c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref387_dfp" level="subseries">
+               <did>
+                  <unittitle>Background Materials</unittitle>
+               </did>
+               <c03 id="aspace_ref388_ggh" level="file">
+                  <did>
+                     <unittitle>Crockett Mss.: Slavery and Reconstruction, 1872</unittitle>
+                     <container id="aspace_1436f76d28f1ff6ab3248ee69a70f6df" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref389_kd4" level="file">
+                  <did>
+                     <unittitle>Elections:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref390_t1e" level="file">
+                     <did>
+                        <unittitle>Presidential and state, 1820</unittitle>
+                        <container id="aspace_7a3113d98c81c03c5737439650d6a6b6"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref391_ck5" level="file">
+                     <did>
+                        <unittitle>Presidential, 1824-1832</unittitle>
+                        <physdesc id="aspace_18288a73324019f17bc747dce1ef13df">
+                           <extent>3 folders</extent>
+                        </physdesc>
+                        <container id="aspace_d17d6215aeb703e33748fbca8314ecaa"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref393_3x4" level="file">
+                     <did>
+                        <unittitle>Statistics, 1820-1860</unittitle>
+                        <container id="aspace_3f978af5f01b103dfbba257e71c6f829"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref394_wqs" level="file">
+                  <did>
+                     <unittitle>Elizabeth Female Academy (Washington, Miss.), 1936</unittitle>
+                     <container id="aspace_de2bdef2c9463b05b4d7c2bbc75d7920" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref395_muh" level="file">
+                  <did>
+                     <unittitle>Estate of James K. Polk: Inventory, 1934</unittitle>
+                     <container id="aspace_de060a4a9f9d7577dad47586621bcb4a" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref396_8db" level="file">
+                  <did>
+                     <unittitle>Jefferson College, Washington, Miss., 1936</unittitle>
+                     <container id="aspace_cfda8a6cdb1ac4a0e0a66b583cd5004b" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref397_cah" level="file">
+                  <did>
+                     <unittitle>Justices of the Peace:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref398_han" level="file">
+                     <did>
+                        <unittitle>North Carolina and Kentucky Legislatures, etc., 1820-1940,
+                           undated</unittitle>
+                        <container id="aspace_750660e2d3ab281a96960e457f26abb3"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref399_fj9" level="file">
+                     <did>
+                        <unittitle>Virginia, 1942-1945, undated</unittitle>
+                        <physdesc id="aspace_f48bd63869df9ef07e150993325c8c02">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_5e1e4ae5be820f088d93cdc17a25cff6"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref401_468" level="file">
+                     <did>
+                        <unittitle>Virginia, Justices, Summary sheets, 1820, undated</unittitle>
+                        <container id="aspace_ae358ccddfb07b371170678bc9ebd1a0"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref402_7on" level="file">
+                     <did>
+                        <unittitle>West Virginia, 1820, undated</unittitle>
+                        <container id="aspace_6f33a2cafd2d72d916d994a0d725f3a7"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref403_g56" level="file">
+                  <did>
+                     <unittitle>Leadership after 1865, undated</unittitle>
+                     <container id="aspace_dd1b203807265ab1dc993e6694969600" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref404_an6" level="file">
+                  <did>
+                     <unittitle>Map and election statistics and correspondence,
+                        1940-1941</unittitle>
+                     <container id="aspace_ff73fa8ebca38b614f10099a5d9d7e84" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref405_x48" level="file">
+                  <did>
+                     <unittitle>Maps:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref406_9fm" level="file">
+                     <did>
+                        <unittitle>City populations, 1860, 1936</unittitle>
+                        <container id="aspace_c20c9cfa4fa9c9cf855411cbdd8ed5c2"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref407_iga" level="file">
+                     <did>
+                        <unittitle>County populations, 1860, 1936</unittitle>
+                        <container id="aspace_85676e3c3330bd41ffcee6730b8be77c"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref408_c7d" level="file">
+                  <did>
+                     <unittitle>Natchez Institute, 1934-1935</unittitle>
+                     <container id="aspace_7528e5626602914b617c78361dd88d99" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref409_qn5" level="file">
+                  <did>
+                     <unittitle>Non-southern related materials, undated</unittitle>
+                     <container id="aspace_d26ddbd4afb6e1455c5af7f7f37ce4de" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref410_7ss" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Notes and statistics on social and economic
+                           condition, 1819,</emph> undated</unittitle>
+                     <container id="aspace_f478a53dfdd21ca200357326f96c4bc7" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref411_ri7" level="file">
+                  <did>
+                     <unittitle>Paine Detected, undated</unittitle>
+                     <container id="aspace_8aae3ac189f84c7c1eab63d4c89ed72d" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref412_dcc" level="file">
+                  <did>
+                     <unittitle>Popular prejudices and the historian, notes and research materials,
+                        1931-1949, undated</unittitle>
+                     <container id="aspace_2d2cab4cc5768fe483dbcfe097d334d1" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref413_h3n" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">Religion, Education, Literature, etc.,</emph>
+                        undated</unittitle>
+                     <container id="aspace_c491c101f82c1865dab27948212a5702" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref414_gxc" level="file">
+                  <did>
+                     <unittitle>The South after 1865, undated</unittitle>
+                     <container id="aspace_470eb645a1dea30ca42139344b282ff9" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref415_rew" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="doublequote">South Carolina,</emph> 1949, undated</unittitle>
+                     <container id="aspace_8a0e8468b7af6a2836eafa886476a514" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref416_chd" level="file">
+                  <did>
+                     <unittitle>South Carolina: Charleston, S.C., undated</unittitle>
+                     <container id="aspace_f62ccd433532c3cef69e672f8e6c9c22" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref417_miw" level="file">
+                  <did>
+                     <unittitle>South Carolina public records, 1729-1748</unittitle>
+                     <container id="aspace_01aad3dba7ab15e25ee71d45e0aebdc8" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref418_t8v" level="file">
+                  <did>
+                     <unittitle>Southern municipal directories and censuses before 1861,
+                        undated</unittitle>
+                     <physdesc id="aspace_1cb0c4a698c112a72adf606a55c3fddc">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_327d766bdf65324085240eff0bc74043" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref420_pck" level="file">
+                  <did>
+                     <unittitle>Southern municipal ordinances and laws before 1861,
+                        undated</unittitle>
+                     <container id="aspace_8066d23bacdcd5bfdba23f1a8f512fb3" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref421_xxu" level="file">
+                  <did>
+                     <unittitle>Southern Planter (Natchez), 1842</unittitle>
+                     <container id="aspace_51abae329f2d3cef44625047dfc7263c" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref422_9bl" level="file">
+                  <did>
+                     <unittitle>Southern political leadership before Jackson (except Virginia),
+                        1946, undated</unittitle>
+                     <container id="aspace_52375677d9bb2efbb9059331c1531fdf" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref423_y8j" level="file">
+                  <did>
+                     <unittitle>Southern towns:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref424_1lr" level="file">
+                     <did>
+                        <unittitle>undated</unittitle>
+                        <container id="aspace_96a724d9617776a4b24ff6d3129d32c2"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref425_jlo" level="file">
+                     <did>
+                        <unittitle>Occupations: Memphis, Charleston, S.C., Nashville, Louisville,
+                           1836-1860, undated</unittitle>
+                        <container id="aspace_4581dc35016f5d36765ab4e0751b7ec6"
+                           label="Mixed Materials" type="box">12</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref426_24s" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Southwestern Journal,</title> 1837-1838</unittitle>
+                     <container id="aspace_fa745753604cedc856f9894d9ac77288" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref427_ihv" level="file">
+                  <did>
+                     <unittitle>Virginia counties, undated</unittitle>
+                     <container id="aspace_401ea789de2b3216370f9ad790538d92" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref428_e6y" level="file">
+                  <did>
+                     <unittitle>Western farmer and gardener, 1934</unittitle>
+                     <container id="aspace_3f55d9646cba4091fd11e901598e4e21" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref429_mtn" level="file">
+                  <did>
+                     <unittitle>Woodville Manufacturing Company, 1850-1935</unittitle>
+                     <container id="aspace_3e35644a5d9385a9832c5f593c8fac31" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref430_o38" level="file">
+                  <did>
+                     <unittitle>Woodville Republican notes (mostly on poetry), 1847-1848</unittitle>
+                     <container id="aspace_3420fffe110c5280130c572ed0309c18" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref431_9vl" level="file">
+                  <did>
+                     <unittitle>Yellow fever, copy of letter owned by Mrs. James Andrews, University
+                        of North Carolina at Chapel Hill, 1878</unittitle>
+                     <container id="aspace_8d5ffdc8abe81eb4654dff5069aa94b4" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref432_xoq" level="file">
+                  <did>
+                     <unittitle>Miscellaneous, 1818-1953, undated</unittitle>
+                     <physdesc id="aspace_0f18b4a189bcd0439e4f426e6cca8d0c">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_56943338df1c1e3bc687b31312e2f5fb" label="Mixed Materials"
+                        type="box">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref434_oll" level="file">
+                  <did>
+                     <unittitle>13a Microfilm boxes:</unittitle>
+                     <container id="aspace_236406c50adfb3a0e6582b07ba477bb6" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+                  <c04 id="aspace_ref435_nbj" level="file">
+                     <did>
+                        <unittitle>A Collection of Plays and Poems of the Late Colonel Robert
+                           Mumford, 1798</unittitle>
+                        <container id="aspace_db306a7d8aa904b8ab6ba8e47d03b589"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref436_6zp" level="file">
+                     <did>
+                        <unittitle>[Mississippi General Assembly Senate Journals, 1830 November-1839
+                           January.]</unittitle>
+                        <container id="aspace_40f0cee694c7e27d3502deeff93970ce"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref437_t7s" level="file">
+                     <did>
+                        <unittitle>[Commission Book No.1, ca. 1787-1797]</unittitle>
+                        <container id="aspace_52be3bb341f705d1a2cf957cd5dc67af"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref438_ozv" level="file">
+                     <did>
+                        <unittitle>[Register of Justices and County Officers, 1780-1822]</unittitle>
+                        <container id="aspace_a874b6952c1c1f35faba7327b02b175b"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref439_v3e" level="file">
+                     <did>
+                        <unittitle>[Register of Magistrates... 1783-1811]</unittitle>
+                        <container id="aspace_aa8ca29a2dbf6a4e97dcd3396fa18da9"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref440_4mq" level="file">
+                     <did>
+                        <unittitle>[Register of Magistrates... 1852-1865]</unittitle>
+                        <container id="aspace_9188916ee9fae3b6021caf7023c7439a"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref441_o63" level="file">
+                  <did>
+                     <unittitle>13b Index Cards:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref442_wcr" level="file">
+                     <did>
+                        <unittitle>Mississippi Session Laws, Mississippi Senate and House,
+                           undated</unittitle>
+                        <container id="aspace_2cd434031bff2a22dee822a76980b6b7"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref443_r2c" level="file">
+                     <did>
+                        <unittitle>Journals, Woodville Republican, undated</unittitle>
+                        <container id="aspace_acc363005f36df046e1baef79441202d"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref444_d3z" level="file">
+                     <did>
+                        <unittitle>Miscellaneous Mississippi newspapers, undated</unittitle>
+                        <container id="aspace_153d1c4133f332d41fcf73151b08094a"
+                           label="Mixed Materials" type="box">13</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref445_bb9" level="file">
+                  <did>
+                     <unittitle>13c Index Cards: Notes, undated</unittitle>
+                     <container id="aspace_f59c247db109408673668e755c1d6081" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref446_tdi" level="file">
+                  <did>
+                     <unittitle>13d Writings in American History, notes from, undated</unittitle>
+                     <container id="aspace_1cf526a6d41c4c7e0b8acc313865bc20" label="Mixed Materials"
+                        type="box">13</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref447_3hp" level="subseries">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+               <c03 id="aspace_ref448_uos" level="file">
+                  <did>
+                     <unittitle>1951, undated</unittitle>
+                     <container id="aspace_18dedf7bc31d029213fd602c20c1a0a8" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref449_3oz" level="file">
+                  <did>
+                     <unittitle>Notes for textbooks, 1924-1930</unittitle>
+                     <physdesc id="aspace_94dab5aaebce9e58e999e93b2a0cafe1">
+                        <extent>8 folders</extent>
+                     </physdesc>
+                     <container id="aspace_018394c4a2f944616ea72dcd46b38f87" label="Mixed Materials"
+                        type="box">14</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref452_ifz" level="series">
+            <did>
+               <unittitle>Correspondence Series Series, 1926-1956 and undated.</unittitle>
+            </did>
+            <scopecontent id="aspace_eadd398bc936003cef08f8b9d8bf724f">
+               <head>Scope and Contents note</head>
+               <p>Primarily correspondence to or from Sydnor concerning his career as a professor
+                  and as a historian. Also included are letters addressed to Mrs. Sydnor and some
+                  relating to Sydnor family matters. Arranged in chronological order by year.</p>
+            </scopecontent>
+            <c02 id="aspace_ref453_33u" level="file">
+               <did>
+                  <unittitle>1926-1956 and undated</unittitle>
+                  <physdesc id="aspace_093ff1e692f012bdb3571a7ef785e704">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_59fd49e4305feb901a34598b11ce9de8" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref456_ktp" level="series">
+            <did>
+               <unittitle>Teaching Files Series, 1923-1954, undated</unittitle>
+            </did>
+            <scopecontent id="aspace_88dd5fa3d713ceb32d23f9445b6a7a11">
+               <head>Scope and Contents note</head>
+               <p>Includes recommendations, course notes, class rolls, grade books, and student
+                  papers related to Sydnor's teaching posts at Duke University and elsewhere. The
+                  recommendations, student papers, and grade books are restricted. Arranged
+                  alphabetically, with the restricted files following the non-restricted
+                  materials.</p>
+            </scopecontent>
+            <c02 id="aspace_ref457_9g5" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Duke University, Summer Session,</emph>
+                     1952-1953</unittitle>
+                  <physdesc id="aspace_000fecc6d9ab6690c9246c1340a9309d">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_11c907df19bacb00abfe884f464cc4dd" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref459_xnc" level="file">
+               <did>
+                  <unittitle>Examinations: History course, 1924-1952</unittitle>
+                  <container id="aspace_12ab193c5180c65b9b3fd3274ff7d731" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref460_cbc" level="file">
+               <did>
+                  <unittitle>History courses, 1937-1954, undated</unittitle>
+                  <physdesc id="aspace_262c8529e639e8915a6752001ce88484">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_18279f82988123ef246b53446b7acbd8" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref462_0dl" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Social and Intellectual Development of the Old
+                        South,</emph> 1938-1945</unittitle>
+                  <physdesc id="aspace_a45a93d313a1f2a38a7e343b04570104">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c6d7c3e0dba09fc61b7c0e4a39c45585" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref464_chv" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="doublequote">Teaching Load</emph> Committee Report,
+                     1939-1940</unittitle>
+                  <container id="aspace_eb10a1c00e2d4a00a3ec5dfcf0864f20" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref465_xxi" level="file">
+               <did>
+                  <unittitle>Miscellaneous Notes, 1927, undated</unittitle>
+                  <container id="aspace_418de2de5a52ee0e8825354954f66afb" label="Mixed Materials"
+                     type="box">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref466_ky2" level="subseries">
+               <did>
+                  <unittitle>Restricted</unittitle>
+               </did>
+               <c03 id="aspace_ref467_imp" level="file">
+                  <did>
+                     <unittitle>Class rolls and grades:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref468_07b" level="file">
+                     <did>
+                        <unittitle>Duke University Summer Schools, 1935-1951</unittitle>
+                        <physdesc id="aspace_70f65d2ac9fe351ea3c2284fc54c71e5">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_1ac1e8511ce1f4474f064f98a411dbac"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref470_0n6" level="file">
+                     <did>
+                        <unittitle>Harvard Summer School, 1952</unittitle>
+                        <container id="aspace_27d2162193adc76cdf7d03bf82b81d76"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref471_lwv" level="file">
+                     <did>
+                        <unittitle>Institute of Early American History and Culture,
+                           undated</unittitle>
+                        <container id="aspace_a0592f9a59ee4fbb2ee11c17e1b4312e"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref472_n01" level="file">
+                     <did>
+                        <unittitle>University of North Carolina at Chapel Hill, 1949,
+                           Summer</unittitle>
+                        <container id="aspace_2c32bb33059cbe4c6a886325b5d928c5"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref473_aqg" level="file">
+                  <did>
+                     <unittitle>Grade books, 1923-1953</unittitle>
+                     <physdesc id="aspace_589af334ae85f31c84ab73cedac70a55">
+                        <extent>3 folders</extent>
+                     </physdesc>
+                     <container id="aspace_d339ab4653448de6f59436f677257a5c" label="Mixed Materials"
+                        type="box">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref475_yvw" level="file">
+                  <did>
+                     <unittitle>Graduate stipends:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref476_kkv" level="file">
+                     <did>
+                        <unittitle>1952-1954</unittitle>
+                        <physdesc id="aspace_cb645d6ae16f1aefa6a470e5c6ede3ad">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_14c40cdd55e2f0f60e929ebf88c639bc"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref478_cxr" level="file">
+                     <did>
+                        <unittitle>Acceptances and rejections, 1952</unittitle>
+                        <container id="aspace_e375a618b62093f3933cc8d382ef3485"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref479_ntv" level="file">
+                  <did>
+                     <unittitle>Students:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref480_kh8" level="file">
+                     <did>
+                        <unittitle>Abbot, William, 1949-1953, undated</unittitle>
+                        <container id="aspace_bd5604d0d3c42d01246dd4de6d4fd520"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref481_236" level="file">
+                     <did>
+                        <unittitle>Braverman, Howard, 1949-1950</unittitle>
+                        <container id="aspace_43d1117421ac97fff7d6315d116e4b35"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref482_096" level="file">
+                     <did>
+                        <unittitle>Cunningham, Noble E., 1949-1953, undated</unittitle>
+                        <container id="aspace_2f7677fb43b55ffe6d1243c87898bd38"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref483_vqp" level="file">
+                     <did>
+                        <unittitle>Gescher, Dieter, 1951-1952</unittitle>
+                        <container id="aspace_d62f482caada4044c95649528f45ac00"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref484_33o" level="file">
+                     <did>
+                        <unittitle>Harris, Robert L., 1949-1953</unittitle>
+                        <container id="aspace_551d1122fad86327af06d8e1aa7fc653"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref485_kug" level="file">
+                     <did>
+                        <unittitle>King, Doris Elizabeth, 1949-1953</unittitle>
+                        <container id="aspace_4a3262ff49eb20aa6bb69ce79c52d6a8"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref486_u1q" level="file">
+                     <did>
+                        <unittitle>Malin, Morton V., 1952</unittitle>
+                        <container id="aspace_6d91f27f766fb7b66b6a32aaafce37fa"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref487_439" level="file">
+                     <did>
+                        <unittitle>McCain, Paul M., 1949-1950</unittitle>
+                        <container id="aspace_83e893551e81d9699685e7b4ff1ddabd"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref488_1kq" level="file">
+                     <did>
+                        <unittitle>Oliver, George B., 1949-1954</unittitle>
+                        <container id="aspace_5e3894090cbf0c877906b8ca39c2cd87"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref489_ooo" level="file">
+                     <did>
+                        <unittitle>Petersen, Carsten Brink, 1951</unittitle>
+                        <container id="aspace_0bcb5fa53a68fb09d12fa77d395d0224"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref490_9uq" level="file">
+                     <did>
+                        <unittitle>Sisk, Glenn N., 1949-1950</unittitle>
+                        <container id="aspace_653710088b5b55d47941ecbd1939258a"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref491_vjk" level="file">
+                     <did>
+                        <unittitle>Smith, Clarence McK., 1948-1953</unittitle>
+                        <container id="aspace_219682c263b2a25ff90e6998584e5de0"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref492_ibi" level="file">
+                     <did>
+                        <unittitle>Taylor, Orville W., 1949-1953</unittitle>
+                        <container id="aspace_f17551eed3396c603fb003e1cd7a83a2"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref493_qbt" level="file">
+                     <did>
+                        <unittitle>Papers, 1942-1953</unittitle>
+                        <physdesc id="aspace_e0184e215a4e960a5ec7271da4e16366">
+                           <extent>2 folders</extent>
+                        </physdesc>
+                        <container id="aspace_561065a5850910dd1af16f367a148d52"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref495_s8n" level="file">
+                     <did>
+                        <unittitle>undated</unittitle>
+                        <container id="aspace_c95c549fe3181b60c8f7eafde6296b7b"
+                           label="Mixed Materials" type="box">15</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref497_3va" level="series">
+            <did>
+               <unittitle>Miscellaneous Series, 1933-1971 and undated.</unittitle>
+            </did>
+            <scopecontent id="aspace_c33d013b1cf3d9a0a522a774be0485fe">
+               <head>Scope and Contents note</head>
+               <p>Chiefly consists of clippings, pictures, and printed material documenting Sydnor's
+                  professional affiliations.</p>
+            </scopecontent>
+            <c02 id="aspace_ref498_oi1" level="file">
+               <did>
+                  <unittitle>1933-1978 and undated</unittitle>
+                  <container id="aspace_fd7c2d9517903f0c34bbac2d20695fbe" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref499_tj2" level="file">
+               <did>
+                  <unittitle>Clippings, 1933-1971</unittitle>
+                  <container id="aspace_889019cf4d3da5d47f78da93180afe37" label="Mixed Materials"
+                     type="box">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref500_dcg" level="file">
+               <did>
+                  <unittitle>Sydnor:</unittitle>
+               </did>
+               <c03 id="aspace_ref501_oo4" level="file">
+                  <did>
+                     <unittitle>Biographical information and pictures, 1947-1955,
+                        undated</unittitle>
+                     <container id="aspace_001023bcf4f2d075f511eed4d2eae49e" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref502_k9o" level="file">
+                  <did>
+                     <unittitle>Death, 1954</unittitle>
+                     <physdesc id="aspace_b1f0318e37f32aa229778a46ece327de">
+                        <extent>2 folders</extent>
+                     </physdesc>
+                     <container id="aspace_728c5719941503744ff15b4846fd218a" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref504_o2e" level="file">
+                  <did>
+                     <unittitle>List of publications, 1936-1954, undated</unittitle>
+                     <container id="aspace_08502c6d23a9e044c2fb5d1b0d5e10e0" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref505_vgc" level="file">
+                  <did>
+                     <unittitle>Papers while a student:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref506_xxd" level="file">
+                     <did>
+                        <unittitle>1920-1945, undated</unittitle>
+                        <physdesc id="aspace_ade88181df69f23ea36b54f74a2ed697">
+                           <extent>5 folders</extent>
+                        </physdesc>
+                        <container id="aspace_f459405598cd4cf039629fae0ae30028"
+                           label="Mixed Materials" type="box">16</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref508_55v" level="file">
+                     <did>
+                        <unittitle>Notebooks [1-17], 1916-1921, undated</unittitle>
+                        <physdesc id="aspace_9ea50af2b7778ffa6ff6cd4ffd41e099">
+                           <extent>4 folders</extent>
+                        </physdesc>
+                        <container id="aspace_cb0f64a5d25dd623f3c10655a6a7f54e"
+                           label="Mixed Materials" type="box">16</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref510_p05" level="file">
+                  <did>
+                     <unittitle>Papers while a student:</unittitle>
+                  </did>
+                  <c04 id="aspace_ref511_4e8" level="file">
+                     <did>
+                        <unittitle>1920-1945, undated</unittitle>
+                        <physdesc id="aspace_e47b8b96c1491f332e33f3b7dae9de4d">
+                           <extent>5 folders</extent>
+                        </physdesc>
+                        <container id="aspace_fa0b49fd3a05d95304d1be8a2af9ef94"
+                           label="Mixed Materials" type="box">16</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref513_rmy" level="file">
+                  <did>
+                     <unittitle>Article on Sydnor, undated, no author indicated</unittitle>
+                     <physdesc id="aspace_2cae5f89d9e643b48770c89e90d0a67a">
+                        <extent>1 folder</extent>
+                     </physdesc>
+                     <container id="aspace_bd64ac00c176cd10278e8ac20c7e3a98" label="Mixed Materials"
+                        type="box">16</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref516_noy" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+            </did>
+            <c02 id="aspace_ref517_22a" level="file">
+               <did>
+                  <unittitle>Alphabetical Files, 1871-1953, undated</unittitle>
+                  <container id="aspace_1027412fe39861a2848e50a164a2ae5a" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref518_esb" level="file">
+               <did>
+                  <unittitle>Alphabetical Files, 1927-1953, undated</unittitle>
+                  <container id="aspace_7dea855512251439c7508e78b59410eb" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref519_9wa" level="file">
+               <did>
+                  <unittitle>Writings and Speeches, 1820-1946, undated</unittitle>
+                  <container id="aspace_f646f17ecfb0399b8594dc67f61488d1" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref520_y7f" level="file">
+               <did>
+                  <unittitle>Writings and Speeches, 1835-1952</unittitle>
+                  <container id="aspace_a142291ab35dbfd54da8c35ed50e40fe" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref521_yme" level="file">
+               <did>
+                  <unittitle>Teaching Files, 1936-1951</unittitle>
+                  <container id="aspace_c13a3985a3b48dfc608169e39cbd5527" label="Mixed Materials"
+                     type="box">17</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

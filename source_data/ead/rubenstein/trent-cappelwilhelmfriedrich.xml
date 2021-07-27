@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-cappelwilhelmfriedrich/"
+         >trent-cappelwilhelmfriedrich</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Wilhelm Friedrich Cappel manuscript, circa 1779
+                  <num>RL.10328</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002132135</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:03:57
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="lat">Latin</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Wilhelm Friedrich Cappel manuscript</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Cappel, Wilhelm Friedrich, 1734-1800</persname>
+         </origination>
+         <unitid>RL.10328</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 items</extent>
+         </physdesc>
+         <unitdate normal="1779/1779" type="inclusive">circa 1779</unitdate>
+         <physloc id="aspace_90686c81abbeb5133df7246d9ba0899d">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_9c78896f4b953482aff55a017f2b90b5">Holograph, signed.</abstract>
+         <langmaterial id="aspace_1ff3e180e09ce17cc5144b6d20625daa">Materials in Latin
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_f7c2c4d8ddd73e0856424b68d6738a3f">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_003f466b39fb0a246752f9049873dce2">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_97a005c5092e0535bef2fb80f447f239">
+         <head>Preferred Citation</head>
+         <p>Wilhelm Friedrich Cappel manuscript, circa 1779, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_43985934a2ae8b30fde7c531e33bed9e">
+         <head>Provenance</head>
+         <p>Source unknown</p>
+      </acqinfo>
+      <processinfo id="aspace_9e74ce2cbc1a5be473b4bf968493dfc0">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <bioghist id="aspace_4f74cab0346a5971df8784484a9e9940">
+         <head>Historical Note</head>
+         <p>German physician and professor at the University of Helmstadt.</p>
+      </bioghist>
+      <scopecontent id="aspace_6788e7a8f16be92cdf24741a6c5be80f">
+         <head>Collection Overview</head>
+         <p>Holograph, signed.</p>
+      </scopecontent>
+      <odd id="aspace_5803da9bd384238507ea7f3aefbdd7f3">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <persname source="ingest">Cappel, Wilhelm Friedrich, 1734-1800</persname>
+         <persname source="ingest">Cappel, Wilhelm Friedrich, 1734-1800</persname>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

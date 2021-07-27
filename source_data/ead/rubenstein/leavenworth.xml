@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/leavenworth/">leavenworth</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Leavenworth Family Papers, 1733-1927 and undated
+                  <num>RL.00800</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Library Staff; machine-readable finding aid created by:
+               Jane Metters and Carrie Mills</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">000864928</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 01:38:10
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2014</date>
+            <item>Converted from dtd to schema, transformed with AT-import-fixer.xsl, and imported
+               to Archivists Toolkit</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Leavenworth Family papers</unittitle>
+         <origination label="creator">
+            <famname source="ingest">Leavenworth family</famname>
+         </origination>
+         <unitid>RL.00800</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">20 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1733/1934" type="inclusive">1733-1927 and undated</unitdate>
+         <physloc id="aspace_70a9bde0d68a4e79fc184432288c1a93">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_656598e88b7d213559f89cf3e53dd465">Family originally from Connecticut;
+            later settled in Petersburg, Virginia. Correspondence, journals, memorandum books,
+            sermons, an autograph album (1822), and other papers of Abner Johnson Leavenworth and of
+            his son, Frederick P. Leavenworth. Sermons comprise about half of the manuscript
+            collection. Includes pre-Civil War letters from theological students in Connecticut,
+            Massachusetts, and New York; a tuition ledger for the Van Buren, Arkansas Female
+            Seminary (1860-1862); and genealogical information on the Leavenworth family.
+            Correspondents include Calvin Colton, Harrison Gray, Otis Dwight, Jeremiah Evarts,
+            Samuel Lee, Benjamin Palmer, and Noah Porter.</abstract>
+         <physdesc id="aspace_0dd80d4b6e66a882038a36aaf4d5905b">
+            <extent>2838 Items</extent>
+         </physdesc>
+         <langmaterial id="aspace_15e4a6d5baad5a46f4b340022aa0f6ff">Material in English and Latin
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_2372dde687748f1f5169ee9918dcb2ca">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book
+            &amp; Manuscript Library to use this collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_0867fca00d1c434fd96fff486e8177ac">
+         <head>Copyright Notice</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_1917dfe28523d20f3ee3521ea936f35d">
+         <head>Preferred Citation</head>
+         <p>[Identification of item], Leavenworth Family Papers, David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_be0886959f43f9b148294a8f98cc9a22">
+         <head>Provenance</head>
+         <p>The Leavenworth Family Papers were received by the David M. Rubenstein Rare Book &amp;
+            Manuscript Library as a gift in 1933-1970.</p>
+      </acqinfo>
+      <processinfo id="aspace_32274c042d1d33d4f6d7ed6ea5d30a48">
+         <head>Processing Information</head>
+         <p>Processed by Rubenstein Library Staff, 1989</p>
+         <p>Encoded by Jane Metters, Meghan Lyon, and Carrie Mills, July 2011</p>
+         <p>Materials may not have been ordered and described beyond their original condition.</p>
+      </processinfo>
+      <bioghist id="aspace_77853292a8bce503e57c89d859ba73d2">
+         <head>Biographical Note</head>
+         <p>Abner Johnson Leavenworth was the second son born to Frederick Leavenworth (1766-1840)
+            and Fanny Johnson (1776-1852) on July 12, 1803 in Waterbury, Connecticut. Leavenworth
+            taught theological studies in Andover, Massachusetts and New Haven, Connecticut and
+            ministered in Waterbury and Bristol, Connecticut; Charlotte, North Carolina; and
+            Warrentown and Petersburg, Virginia. Later he was connected with girls' schools in North
+            Carolina and Virginia. He died on February 12, 1869 at the age of 65.</p>
+         <chronlist>
+            <head>Chronology List of Abner Johnson Leavenworth</head>
+            <chronitem>
+               <date>1803 Jul. 12</date>
+               <eventgrp>
+                  <event>Born in Waterbury, C.T.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1825</date>
+               <eventgrp>
+                  <event>Graduated from Amhearst College</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1828 Apr. 22</date>
+               <eventgrp>
+                  <event>Graduated from Andover Seminary</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1829 Dec. 16</date>
+               <eventgrp>
+                  <event>Ordained as pastor at Congregational church in Bristol, C.T.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1831 Jun. 14</date>
+               <eventgrp>
+                  <event>Married Elizabeth Manning Peabody of Salem, M.A.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1832</date>
+               <eventgrp>
+                  <event>Moved to Charlotte, N.C.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1833 Jun. 13</date>
+               <eventgrp>
+                  <event>Son, Frederick P. Leavenworth, was born</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1838</date>
+               <eventgrp>
+                  <event>Moved to Warrinton, V.A. and established school</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1839</date>
+               <eventgrp>
+                  <event>Moved to Peterburg, V.A.; pastor of High Street Church</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1841</date>
+               <eventgrp>
+                  <event>Wife, Elizabeth, died</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1869 Feb. 12</date>
+               <eventgrp>
+                  <event>Died at the age of 65 in Petersburg, V.A.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Frederick Peabody Leavenworth (born 1833) was a railroad engineer of Petersburg, Va.,
+            and Shreveport, La. He was put in charge of inspection of materials for the Marshall
+            Railroad. He also served as treasurer to the Blue Ridge Springs Co. of Petersburg. Just
+            prior to the start of the Civil War, Frederick traveled through the Midwest United
+            States, exploring Minnesota, Arkansas, and Missouri.</p>
+      </bioghist>
+      <scopecontent id="aspace_22830375a22a5b1d50f68ae834038ede">
+         <head>Collection Overview</head>
+         <p>The Leavenworth Family Papers cover 1733 to 1927 with the bulk of the manuscripts from
+            the 1820s to the 1880s. The collection predominately consists of the sermons of Abner
+            Johnson Leavenworth (1803-1869) as well as both his correspondence and that of his son,
+            Frederick Peabody Leavenworth (1833-). Sermons date from as early as 1826 and extend
+            through the Civil War period.</p>
+         <p>The correspondence of Abner Johnson Leavenworth deals largely with religious and
+            missionary topics. Additional topics covered in both Abner and Frederick's
+            correspondence include Civil War and Reconstruction in Petersburg, V.A. </p>
+         <p>The diaries of Frederick Leavenworth begin in 1857 with comments on the Minnesota
+            Territory. Leavenworth was in St. Peter, Nicolett County, and visited St. Paul. He
+            illustrated the diary with sketches of the Falls of Minnehaha; Mendota, Minnesota; the
+            Indian Warrior, Iron Elk; and Fort Snelling. In 1860, Leavenworth went to Van Buren,
+            Arkansas, and opened a school. He illustrates with a sketch of Van Buren and with a
+            sketch of the <emph render="italic">C.S.S.Ponchartrain</emph> (p. 23). The diary has no
+            entries between 1860 and February, 1862, when the Civil War reached Van Buren (p. 36)
+            and refugees from Missouri were passing through Van Buren. Leavenworth refers to the
+            Confederate officers, troops, and wounded in a general way. He became involved in the
+            Quartermaster Corps and arrived at Fort Smith (p. 51) on March 26, 1862. Here he makes
+            quarterly reports, has corn shelled, and refers to Confederate troop movements. He goes
+            to Arkadelphia in June, 1862 (p. 66). Finally on August 1, 1862, he is commissioned
+            Captain of Artillery and Ordnance, takes charge of the foundry at Shreveport, Louisiana,
+            and establishes another at Jefferson, Texas. He describes briefly (pp. 108-109) the
+            effect of the surrender of General Taylor as the Confederate forces disintegrate
+            Confederate supplies are distributed. Captain Leavenworth turns over his Confederate
+            property to the agent of the U.S. Treasury. By September, 1865, he is engaged to work as
+            engineer in charge of inspection of materials for the Marshall Railroad.</p>
+         <p>Additional materials include an extensive geneaology of the Leavenworth family; a copy
+            of Civil War letters to Mrs. E. A. Skelton; a letter dated July 13, 1864 concerning the
+            death of James Addison Porter before Atlanta, Georgia, and the fighting near Atlanta; a
+            few religious pamphlets entitled "Reasons to Not Be a Baptist" and "Condition and
+            Character of Females in Pagan and Mohammedan Countries;" and a scrapbook, 1835-1868,
+            compiled by Abner Johnson Leavenworth.</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_f938c17ce9506446651dd6bed3216213">
+         <head>Related Material</head>
+         <p>
+            <archref>
+               <unittitle label="Collection">
+                  <extref
+                     xlink:href="http://ead.lib.virginia.edu/vivaead/published/wm/viw00009.frame"
+                     >Abner Johnson Leavenworth Papers</extref>
+               </unittitle>
+               <repository label="Repository">Manuscripts and Rare Books Department, Swem Library,
+                  College of William and Mary</repository>
+            </archref>
+            <archref>
+               <unittitle label="Collection">
+                  <extref
+                     xlink:href="http://www.lib.unc.edu/mss/inv/l/Leavenworth,Frederick_Peabody.html"
+                     >Frederick Peabody Leavenworth Papers</extref>
+               </unittitle>
+               <repository label="Repository">Southern Historical Collection, The Wilson Library,
+                  University of North Carolina at Chapel Hill</repository>
+            </archref>
+         </p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="lcsh">Presbyterian Church -- Sermons</subject>
+         <subject source="lcsh">Presbyterian Church -- Clergy -- Correspondence</subject>
+         <subject source="lcsh">Women -- Education -- Southern States</subject>
+         <subject source="lcsh">Seminarians</subject>
+         <geogname source="lcsh">United States -- History -- Civil War, 1861-1865 -- Personal
+            narratives, Confederate</geogname>
+         <geogname source="lcsh">Petersburg (Va.) -- History -- Siege, 1864-1865</geogname>
+         <corpname source="ingest">Van Buren Female Seminary (Van Buren, Ark.)</corpname>
+         <persname source="ingest">Leavenworth, Abner Johnson, 1803-1869</persname>
+         <persname source="ingest">Leavenworth, Frederick</persname>
+         <famname source="ingest">Leavenworth family</famname>
+         <famname source="ingest">Leavenworth family</famname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref16_g6k" level="series">
+            <did>
+               <unittitle>Manuscripts Series, 1812-1905 and undated</unittitle>
+               <physdesc id="aspace_dac6fd1a495435b25c85b3a0a32d3bc2">
+                  <extent>12 boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_f9a9ae439e24e615882e931c069e708f">
+               <head>Scope and Contents note</head>
+               <p>Series includes correspondence, genealogy, sermons, notes, and journals.
+                  Manuscripts have been divided into two sections: correspondence and other papers
+                  have been sorted apart from sermons. Each portion of the series has been arranged
+                  chronologically. Materials in box 9 and 12 are fragile.</p>
+            </scopecontent>
+            <c02 id="aspace_ref18_mbx" level="file">
+               <did>
+                  <unittitle>Genealogy</unittitle>
+                  <physdesc id="aspace_997c7a999dec410b379dfba401df4ea4">
+                     <extent>1 folder</extent>
+                  </physdesc>
+                  <container id="aspace_f47e573f0a73c4cc01ac465eb7898697" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_1lt" level="file">
+               <did>
+                  <unittitle>Letters and papers, 1812-1853</unittitle>
+                  <physdesc id="aspace_e36ef52866734463afeace49dffc345d">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_008168d8e66417985ef2a10e6adf8fe1" label="Mixed Materials"
+                     type="box">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_lz7" level="file">
+               <did>
+                  <unittitle>Letters and papers, 1854-1862</unittitle>
+                  <physdesc id="aspace_28adb3f098473874b0f34bd7ae948a88">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_56a1e64607ef5623d0565b1a106fa08a" label="Mixed Materials"
+                     type="box">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_xpp" level="file">
+               <did>
+                  <unittitle>Letters and papers, 1863-1879</unittitle>
+                  <physdesc id="aspace_89d775917f46f0a35f248c50d792ad6d">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_3e1f2528b72dc0847dea7f21be6f4a1e" label="Mixed Materials"
+                     type="box">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_rij" level="file">
+               <did>
+                  <unittitle>Letters and papers, 1880-1890</unittitle>
+                  <physdesc id="aspace_7d479500c4c53c8212c7e0445e1c76a5">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a92c1a441734191df7b66c855a8ea9f8" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_lsi" level="file">
+               <did>
+                  <unittitle>Letters and papers, undated</unittitle>
+                  <physdesc id="aspace_9c5db4c40972d2ef2b63720e0e878489">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_c266b07ea7bfae7555c12b24df783349" label="Mixed Materials"
+                     type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_ihh" level="file">
+               <did>
+                  <unittitle>Sermons, 1826-1830</unittitle>
+                  <container id="aspace_7f9f01c105ee592f0b52cd44bf33912e" label="Mixed Materials"
+                     type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_z2k" level="file">
+               <did>
+                  <unittitle>Sermons, 1831-1841</unittitle>
+                  <container id="aspace_5cd1c2fbb3d81cd6510dbca8f3fa55dc" label="Mixed Materials"
+                     type="box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_rpx" level="file">
+               <did>
+                  <unittitle>Sermons, 1842-1867</unittitle>
+                  <physdesc id="aspace_13e4dfdb635eb68eb15d26335a4679b8">
+                     <extent>7 folders</extent>
+                  </physdesc>
+                  <container id="aspace_4a39ece349b0e97ed48370cb5f6315ed" label="Mixed Materials"
+                     type="box">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_hap" level="file">
+               <did>
+                  <unittitle>Sermons, undated</unittitle>
+                  <physdesc id="aspace_d925c6f41c8a08001f40388d3c095616">
+                     <extent>8 folders</extent>
+                  </physdesc>
+                  <container id="aspace_790737f8ccd66d5f9f1f8d8a8b4c7cbc" label="Mixed Materials"
+                     type="box">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_guu" level="file">
+               <did>
+                  <unittitle>Sermon outlines</unittitle>
+                  <physdesc id="aspace_708e6c17c6c1a95609ef43f1949ed533">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e4811e1174d5fa4dc561ae22fc702456" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_wc0" level="file">
+               <did>
+                  <unittitle>Christian Almanac, undated</unittitle>
+                  <container id="aspace_dc1079e5488af7305cf476228ded3005" label="Mixed Materials"
+                     type="box">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_rjz" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <physdesc id="aspace_ccb66b79dd69fde97bf9260635596182">
+                     <extent>27 folders</extent>
+                  </physdesc>
+                  <container id="aspace_ba024773cda6791f86a74fa68214c81b" label="Mixed Materials"
+                     type="box">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_fcg" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <physdesc id="aspace_662209820f8c37db0671f368f2e9a257">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_34800d2951f9d5d17d303ff5d46de713" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_a6h" level="file">
+               <did>
+                  <unittitle>Announcements and invitations, 1848-1909</unittitle>
+                  <physdesc id="aspace_06d7812f57b40f4d5ccda651747a6a10">
+                     <extent>1 folder</extent>
+                  </physdesc>
+                  <container id="aspace_b4baf5c07675d0249e247bc729aa8c69" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_zc6" level="file">
+               <did>
+                  <unittitle>Bills and receipts, 1808-1927</unittitle>
+                  <physdesc id="aspace_f2f09a2424c1a68d19ce8b9625dfdea8">
+                     <extent>5 folders</extent>
+                  </physdesc>
+                  <container id="aspace_f040208b8bc89123bba4c42c28eb588c" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_g7a" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <physdesc id="aspace_c57688ac4eb248d3b145524a0037fc10">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_a6afcd70e1a5444a6223532a7eaf0958" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_sy4" level="file">
+               <did>
+                  <unittitle>Printed materials, 1820-1920</unittitle>
+                  <physdesc id="aspace_6e9bfaec0549678d26c09d64f4ec7071">
+                     <extent>6 folders</extent>
+                  </physdesc>
+                  <container id="aspace_551bcb23de4ba58bd5ddf91f001916fa" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_j5k" level="file">
+               <did>
+                  <unittitle>Surveying papers, 1830-1910</unittitle>
+                  <physdesc id="aspace_7c3824668d1c68b11be665b44b736bdc">
+                     <extent>9 folders</extent>
+                  </physdesc>
+                  <container id="aspace_e9a416c45a71b54508a63e2cd4f62afe" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_p8l" level="file">
+               <did>
+                  <unittitle>Legal papers, 1733-1910</unittitle>
+                  <physdesc id="aspace_f778e57c0f8e907401a3303987d9f8aa">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_81e7d4819c46a41ecc1fbfa933f231a3" label="Mixed Materials"
+                     type="box">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_kq4" level="file">
+               <did>
+                  <unittitle>Frederick P. Leavenworth's journals, 1857-1865, 1888, 1890</unittitle>
+                  <physdesc id="aspace_23d4e07cf57b7ce0efab5f2de61d6f8a">
+                     <extent>3 items</extent>
+                  </physdesc>
+                  <container id="aspace_150638446cbacab81a39e3574f8ac64e" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_s32" level="file">
+               <did>
+                  <unittitle>Catalogue of a Private Library, undated</unittitle>
+                  <container id="aspace_294031437e3bfba86780e50ba5172034" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_6ls" level="file">
+               <did>
+                  <unittitle>Condition and Character of Females in Pagan and Mohammedan Countries,
+                     undated</unittitle>
+                  <container id="aspace_750790760f5f26709e61ae23a1d258d1" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_vcj" level="file">
+               <did>
+                  <unittitle>The Conversion of Sinners: A Common Christian Duty</unittitle>
+                  <container id="aspace_1f070b6a6e78214d273c3b291dc9bbe8" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_rno" level="file">
+               <did>
+                  <unittitle>Reasons for Not Being a Baptist, 1834</unittitle>
+                  <container id="aspace_4e55bc941aa7c3fcba55dae2ec3c93d3" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_rxi" level="file">
+               <did>
+                  <unittitle>Financial papers, 1815-1924</unittitle>
+                  <physdesc id="aspace_99c54897fdc18b60a1712546660b5810">
+                     <extent>3 folders</extent>
+                  </physdesc>
+                  <container id="aspace_294036cab68dbf4647bdcd2785fa5227" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_29r" level="file">
+               <did>
+                  <unittitle>Miscellaneous papers, 1859-1870s and undated</unittitle>
+                  <physdesc id="aspace_bdb608252b945e7ec44596eb500da300">
+                     <extent>2 folders</extent>
+                  </physdesc>
+                  <container id="aspace_7366276a1763342401dcfcd6199e9f3d" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_msc" level="file">
+               <did>
+                  <unittitle>Processing information</unittitle>
+                  <container id="aspace_7a5d916751cb962f52f6309072c2cd20" label="Mixed Materials"
+                     type="box">12</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref67_ikp" level="series">
+            <did>
+               <unittitle>Memorandum Books and Ledgers Series, 1822-1915</unittitle>
+               <physdesc id="aspace_78b468356cb1115e637f4889e15241f7">
+                  <extent>12 volumes/boxes</extent>
+               </physdesc>
+            </did>
+            <scopecontent id="aspace_8fc0e713229f475779f4a881ac0cfe60">
+               <head>Scope and Contents note</head>
+               <p>Bound volumes and manuscripts from Abner Johnson and Frederick Peabody
+                  Leavenworth.</p>
+            </scopecontent>
+            <c02 id="aspace_ref69_thk" level="subseries">
+               <did>
+                  <unittitle>Abner Johnson Leavenworth, 1822-1868</unittitle>
+               </did>
+               <c03 id="aspace_ref70_6qq" level="file">
+                  <did>
+                     <unittitle>Autograph Album, 1822; Waterbury, Connecticut</unittitle>
+                     <container id="aspace_0fd94decd35a5549620ba046fe4b15d8" label="Mixed Materials"
+                        type="volume">S:2221</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_ls8" level="file">
+                  <did>
+                     <unittitle>Memorandum Book, 1847; Petersburg, Virginia</unittitle>
+                     <container id="aspace_249c6757871c2ce5744ca0b9975ccfe3" label="Mixed Materials"
+                        type="volume">S:2222</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref72_gi8" level="file">
+                  <did>
+                     <unittitle>Memorandum Book, 1865-1868; Petersburg, Virginia</unittitle>
+                     <container id="aspace_a91993e3d130cfc0058e6ccec8e4d025" label="Mixed Materials"
+                        type="volume">S:2223</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_3v9" level="file">
+                  <did>
+                     <unittitle>Memorandum Book, 1866-1868; Petersburg, Virginia</unittitle>
+                     <container id="aspace_9714db41351043156d79b9668bc55424" label="Mixed Materials"
+                        type="volume">S:2224</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref74_g4q" level="subseries">
+               <did>
+                  <unittitle>Frederick P. Leavenworth, 1851-1915</unittitle>
+               </did>
+               <c03 id="aspace_ref75_buq" level="file">
+                  <did>
+                     <unittitle>Copy of Inventory of Personalty at Blue Ridge Springs, October 24,
+                        1883; Blue Ridge Springs, Virginia</unittitle>
+                     <container id="aspace_ef75dac50075a7689f14ecf2301916de" label="Mixed Materials"
+                        type="volume">M:2225</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref76_6hs" level="file">
+                  <did>
+                     <unittitle>Excerpts dedicated to his father, July 5, 1851; New Haven,
+                        Connecticut</unittitle>
+                     <container id="aspace_65894d23b2e8d992f4c1c9638b8bc1c6" label="Mixed Materials"
+                        type="volume">S:2226</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref77_gnp" level="file">
+                  <did>
+                     <unittitle>Tuition ledger for Van Buren Female Seminary, 1860-1862; Van Buren,
+                        Arkansas</unittitle>
+                     <container id="aspace_2a37e35eb060ebb557530ec590c2edf8" label="Mixed Materials"
+                        type="volume">L:2227</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref78_e6k" level="file">
+                  <did>
+                     <unittitle>Memoranda of the Leavenworths, 1865 [Genealogy]; Petersburg,
+                        Virginia</unittitle>
+                     <container id="aspace_7a798e48c83c798ffa896748746dc36a" label="Mixed Materials"
+                        type="volume">S:2228</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_h67" level="file">
+                  <did>
+                     <unittitle>Memorandum Book, June 7-September 7, 1894; Petersburg,
+                        Virginia</unittitle>
+                     <container id="aspace_6c4109fc2c7ccf125bed5d07a14aec08" label="Mixed Materials"
+                        type="volume">S:2229</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_o59" level="file">
+                  <did>
+                     <unittitle>Memorandum Book, January 1907-April 1908; Petersburg,
+                        Virginia</unittitle>
+                     <container id="aspace_caf357ab9a36cd84d7e14187a3ab1b29" label="Mixed Materials"
+                        type="volume">S:2230</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_w8g" level="file">
+                  <did>
+                     <unittitle>Memorandum Book, 1910; Jordan's Point, Prince George Co.,
+                        Virginia</unittitle>
+                     <container id="aspace_0f1632a170ddee4a5a9b4155bb2a1cff" label="Mixed Materials"
+                        type="volume">S:2231</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_i3h" level="file">
+                  <did>
+                     <unittitle>Memorandum Book, 1915; Petersburg, Virginia</unittitle>
+                     <container id="aspace_5b470a664fda284c94f46a4e2df3e110" label="Mixed Materials"
+                        type="volume">S:2232</container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref84_isb" level="series">
+            <did>
+               <unittitle>Oversize Materials</unittitle>
+               <physdesc id="aspace_0cf10d49f07f869afb73e577ab6cad00">
+                  <extent>1 folder</extent>
+               </physdesc>
+            </did>
+            <c02 id="aspace_ref86_y5x" level="file">
+               <did>
+                  <unittitle>Letters and papers</unittitle>
+                  <container id="aspace_0f853a3a9300323fc67d5eefdd734570" label="Mixed Materials"
+                     type="box">12</container>
+                  <container id="aspace_b07c30b6cb8388efc92b18d190837efe"
+                     parent="aspace_0f853a3a9300323fc67d5eefdd734570" type="folder">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

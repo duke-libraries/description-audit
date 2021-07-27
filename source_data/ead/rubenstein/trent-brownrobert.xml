@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="published"
+      langencoding="iso639-2b" repositoryencoding="iso15511">
+      <eadid url="http://library.duke.edu/rubenstein/findingaids/trent-brownrobert/"
+         >trent-brownrobert</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Robert Brown manuscript, [after 1826], [London]
+                  <num>RL.10312</num>
+            </titleproper>
+            <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using
+               DukeMARC2EAD-HOMproject.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+            <address>
+               <addressline>103 Perkins Library, Duke University</addressline>
+               <addressline>Durham 27708-0185</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://library.duke.edu/rubenstein/"
+                     xlink:show="new" xlink:title="http://library.duke.edu/rubenstein/"
+                     xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">002130237</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-07-29 19:03:01
+               -0400</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+         </repository>
+         <unittitle>Robert Brown manuscript, [London]</unittitle>
+         <origination label="creator">
+            <persname source="ingest">Brown, Robert, 1773-1858</persname>
+         </origination>
+         <unitid>RL.10312</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 items</extent>
+         </physdesc>
+         <unitdate normal="1826/1858" type="inclusive">[after 1826]</unitdate>
+         <physloc id="aspace_d63c8855bf29babb69028f83bd21d8d5">For current information on the
+            location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract id="aspace_28ac54763ad9e657961a0ca9d2700224">Holograph, unsigned. A memorial to
+            Dr. Clarke Abel.</abstract>
+         <langmaterial id="aspace_f8cd89a325ddf7e120e85be0be247f3f">Materials in English
+         </langmaterial>
+      </did>
+      <accessrestrict id="aspace_f7aea8b68a4651f05f8fef8066231779">
+         <head>Access Restrictions</head>
+         <p>Collection is open for research.</p>
+         <p>Researchers must register and agree to copyright and privacy laws before using this
+            collection.</p>
+         <p>All or portions of this collection may be housed off-site in Duke University's Library
+            Service Center. The library may require up to 48 hours to retrieve these materials for
+            research use.</p>
+         <p>Please contact Research Services staff before visiting the Rubenstein to use this
+            collection.</p>
+      </accessrestrict>
+      <userestrict id="aspace_ea7eeb0b3d652aa8f6dfde80d50820b5">
+         <head>Use Restrictions</head>
+         <p>The copyright interests in this collection have not been transferred to Duke University.
+            For more information, consult the copyright section of the Regulations and Procedures of
+            the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+      </userestrict>
+      <prefercite id="aspace_07d1195940a8bb88eaed5d77cce3cd23">
+         <head>Preferred Citation</head>
+         <p>Robert Brown manuscript, [after 1826], [London], David M. Rubenstein Rare Book &amp;
+            Manuscript Library, Duke University.</p>
+      </prefercite>
+      <acqinfo id="aspace_1f8b20bd1416855db145cbe72c4f11c1">
+         <head>Provenance</head>
+         <p>Source unknown</p>
+      </acqinfo>
+      <processinfo id="aspace_2c3b0fee5f3e5798e8453af3ef7b1969">
+         <head>Processing Information</head>
+         <p>Processed by: Rubenstein Staff</p>
+         <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December
+            2014</p>
+      </processinfo>
+      <bioghist id="aspace_9e20f28c36207d73f4052ea808310a01">
+         <head>Historical Note</head>
+         <p>Scottish physician.</p>
+      </bioghist>
+      <scopecontent id="aspace_5f8a4702b7ee989fbe7375eaa2e160f9">
+         <head>Collection Overview</head>
+         <p>Holograph, unsigned. A memorial to Dr. Clarke Abel.</p>
+      </scopecontent>
+      <odd id="aspace_1763e6dda17b08c20c4efb1e38db13b4">
+         <head>General note</head>
+         <p>Forms part of the Trent Manuscripts Collection.</p>
+      </odd>
+      <controlaccess>
+         <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+         <persname source="ingest">Brown, Robert, 1773-1858</persname>
+         <persname source="ingest">Brown, Robert, 1773-1858</persname>
+         <persname source="ingest">Abel, Clarke, 1780-1826</persname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>
