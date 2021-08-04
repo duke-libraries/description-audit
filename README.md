@@ -1,5 +1,5 @@
 # Description-Audit
-This repository contains tools and other files used as part of a project to audit archival metadata in Duke's Rubenstein Library for potentially harmful (e.g. racist, sexist, ableist, colonialist) language. These tools can be downloaded and used to search and generate reports of harmmful language use in archival description (EAD and MARCXML). The description_audit search tool can be run from the command line as a Python script or as a stand-alone application (OS-dependent). Any Windows user can [download]((dist/description_audit.exe)) and run the application without any programming expertise or special software.
+This repository contains tools and other files used as part of a project to audit archival metadata in Duke's Rubenstein Library for potentially harmful (e.g. racist, sexist, ableist, colonialist) language. These tools can be downloaded and used to search and generate reports of harmmful language use in archival description (EAD and MARCXML). The description_audit search tool can be run from the command line as a Python script or as a stand-alone application (OS-dependent). Any Windows user can [download](dist/description_audit.exe) and run the application without any programming expertise or special software.
 
 Presentation slides with additional background/context for this project: https://tinyurl.com/v3hk7p4w
 
