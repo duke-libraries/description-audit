@@ -1,7 +1,7 @@
 # Description-Audit
 This repository contains tools and other files used as part of a project to audit archival metadata in Duke's Rubenstein Library for potentially harmful (e.g. racist, sexist, ableist, colonialist) language. These tools can be downloaded and used to search and generate reports of harmmful language use in archival description (EAD and MARCXML). The description_audit search tool can be run from the command line as a Python script or as a stand-alone application (OS-dependent). Any Windows user can [download](dist/description_audit.exe) and run the application without any programming expertise or special software.
 
-Presentation slides with additional background/context for this project: https://tinyurl.com/v3hk7p4w
+Presentation [recording](https://ala-events.zoom.us/rec/share/xFbQERt_AyYvY2aKx2D__1BTzKkLyIEuiuuaN9HHb-OFAWrQJPSoQgoZ_yQcyf6z.OdubOcxJUgJzSy6I) (starts at 19:45) and [slides](https://tinyurl.com/v3hk7p4w) with additional background/context for this project.
 
 ## What Does This Do? How?
 The audit search tool searches EAD and MARC data (in .xml file format) for the presence of defined harmful terms or phrases using BeautifulSoup as an XML parser and a [SpaCy rule-based matcher](https://spacy.io/usage/rule-based-matching) to identify these terms. Harmful terms and phrases (lexicons) are managed in a single CSV file (/lexicons). Matches are recorded in CSV output files that include the collection title, call number, lexicon category, and context for the term's use. These reports are intended only as a starting point for human analysis and additional categorization. Together, the automated CSV reports and human analysis are used as a basis for prioritizing remediation work across archival data.
