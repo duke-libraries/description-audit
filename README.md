@@ -15,6 +15,10 @@ The archival description audit at Rubenstein Library has two primary goals:
 The description audit is part of a larger, multi-year effort outlined in the Rubenstein's [Anti-Racist Roadmap](https://blogs.library.duke.edu/rubenstein/2020/12/03/reckoning-with-our-past-and-present/).
 
 ## Repository Contents
+- **/dist** - Operating system-dependent PyInstaller executable versions of the Python scripts used to inventory instances, context, and other relevant information about each time potentially harmful terms appears in given metadata. Using one of these executables, no dependencies are required, even Python itself.
+
+- **/hatebase** - contains a sample Python script for bulk downloading terms from the [HateBase.org](https://hatebase.org/) vocabulary. Access and use of HateBase requires an API key. The HateBase terms can be added as columns to the lexicon.csv. In initial testing, we (Rubenstein Library) did not find the HateBase lexicon useful for analysis of archival description.
+
 - **/lexicons** - holds a single CSV file that lists harmful terms or phrases organized into broad categories (e.g. terms of aggrandizement, race euphemisms, terms related to enslavement, etc.).
 
 - **/reports** - Sample CSV reports indicating presence, context, and location of potentially harmful language in archival materials. Organization system used by the Rubenstein library for manual parsing of these computerized results is included as well, along with examples. (Samples ONLY included in public repository)
@@ -22,8 +26,6 @@ The description audit is part of a larger, multi-year effort outlined in the Rub
 - **/scripts** - Python scripts that use Beautiful Soup for parsing XML and the [spaCy NLP](https://spacy.io/) library to search and report out term and phrase matches in MARCXML and EAD inputs
 
 - **/source_data** - Although most source data has been removed publicly for the sake of repository storage and distribution, we have provided examples of a few EAD files (.xml) and an excerpt of a batch MARC XML file (.xml file) to demonstrate the record formats that this program is able to process.
-
-- **/dist** - Operating system-dependent PyInstaller executable versions of the Python scripts used to inventory instances, context, and other relevant information about each time potentially harmful terms appears in given metadata. Using one of these executables, no dependencies are required, even Python itself.
 
 ## Installation/Distribution
 There are a few ways to access and use these tools depending on your operating system or comfort level with using git.
