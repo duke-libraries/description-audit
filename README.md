@@ -3,7 +3,9 @@ This repository contains tools and other files used as part of a project to audi
 
 Any Windows user can [download](dist/description_audit.exe) and run the application without any programming expertise or special software.
 
-Presentation [recording](https://ala-events.zoom.us/rec/share/xFbQERt_AyYvY2aKx2D__1BTzKkLyIEuiuuaN9HHb-OFAWrQJPSoQgoZ_yQcyf6z.OdubOcxJUgJzSy6I) (starts at 19:45) and [slides](https://tinyurl.com/v3hk7p4w) with additional background/context for this project.
+For additional back ground on this project see:
+- ALA Core Metadata Interest Group Presentation (July 28, 2021) [recording](https://ala-events.zoom.us/rec/share/xFbQERt_AyYvY2aKx2D__1BTzKkLyIEuiuuaN9HHb-OFAWrQJPSoQgoZ_yQcyf6z.OdubOcxJUgJzSy6I) (starts at 19:45)
+- [Presentation slides](https://tinyurl.com/v3hk7p4w)
 
 ## What Does This Do? How?
 The audit tool searches EAD and MARC data (in .xml file format) for the presence of defined harmful terms or phrases using BeautifulSoup as an XML parser and a [SpaCy rule-based matcher](https://spacy.io/usage/rule-based-matching). The tool accesses lists of harmful terms and phrases (lexicons) that are managed in a single CSV file (/lexicons). Matches found in the source data are reported in CSV output files. The CSV reports include collection information (title, call number, extent, creator, etc.) as well as information about each term hit (term or phrase matched, lexicon category, and context for the term's use in the source data). The CSV reports are intended only as a starting point for human analysis and additional categorization. Together, the automated CSV reports and human analysis are used as a basis for prioritizing remediation and redescription work across archival data.
