@@ -1,5 +1,5 @@
 # Description-Audit
-This repository contains tools and other files used as part of a project to audit archival metadata in Duke's Rubenstein Library for potentially harmful (e.g. racist, sexist, ableist, colonialist) language. These tools can be downloaded, adapted, and used to search for the presence of harmful language in archival description (EAD and MARCXML) and then generate reports of findings. The description_audit tool can be run from the command line as a Python script or as a stand-alone application (OS-dependent, .exe file). 
+This repository contains tools and other files used as part of a project to audit archival metadata in Duke's Rubenstein Library for potentially harmful (e.g. racist, sexist, ableist, colonialist) language. These tools can be downloaded, adapted, and used to search for the presence of harmful language in archival description (EAD2002 and MARCXML) and then generate reports of findings. The description_audit tool can be run from the command line as a Python script or as a stand-alone application (OS-dependent, .exe file). 
 
 Any Windows user can [download](dist/description_audit.exe) and run the application without any programming expertise or special software.
 
@@ -29,7 +29,7 @@ The description audit is part of a larger, multi-year effort outlined in the Rub
 
 - **/scripts** - Python scripts that use Beautiful Soup for parsing XML and the [spaCy NLP](https://spacy.io/) library to search and report out term and phrase matches in MARCXML and EAD inputs
 
-- **/source_data** - Although most source data has been removed publicly for the sake of repository storage and distribution, we have provided examples of a few EAD files (.xml) and an excerpt of a batch MARC XML file (.xml file) to demonstrate the record formats that this program is able to process.
+- **/source_data** - Although most source data has been removed publicly for the sake of repository storage and distribution, we have provided examples of a few EAD2002 files (.xml) and an excerpt of a batch MARC XML file (.xml file) to demonstrate the record formats that this program is able to process.
 
 ## Installation/Distribution
 There are a few ways to access and use these tools depending on your operating system or comfort level with using git.
